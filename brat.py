@@ -47,7 +47,7 @@ def load_from_brat(path, merge_spaced_fragments=True):
 
         # doc_id = filename.replace('.txt', '').split("/")[-1]
 
-        with open(files["txt"]) as f:
+        with open(files["txt"],  encoding="utf-8") as f:
             text = f.read()
 
         if not len(files["ann"]):
@@ -58,7 +58,7 @@ def load_from_brat(path, merge_spaced_fragments=True):
             continue
 
         for ann_file in files["ann"]:
-            with open(ann_file) as f:
+            with open(ann_file,  encoding="utf-8") as f:
                 for line_idx, line in enumerate(f):
                     try:
                         if line.startswith('T'):
