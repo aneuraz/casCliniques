@@ -1,0 +1,17 @@
+Cas clinique
+Un homme de 84 ans est adressé au service des Urgences en juillet par son médecin traitant pour surveillance après survenue d’une chute à son domicile.
+ Il est tombé deux heures (estimées) auparavant de sa hauteur et n’a pu se relever seul. Sa voisine a appelé les pompiers qui notent une plaie du cuir chevelu et une douleur au niveau de l’épaule gauche. Le patient répond inconstamment aux questions posées.
+A l’admission, on retient dans ses antécédents une arythmie par fibrillation auriculaire, une hypertension artérielle avec insuffisance rénale chronique modérée, une hypertrophie bénigne de la prostate et une anémie chronique. Il n’est pas noté d’allergie. Le patient se plaint de céphalées et de douleur à l’épaule.
+Son examen clinique est rassurant ; les paramètres hémodynamiques sont stables. Le patient est bien conscient ; le score de Glasgow est noté à 15. Les examens biologiques découvrent une anémie (10g/dL), le DFG est de 60 ml/mn et le dosage des CPK demeure dans les limites de la normale. Les radiographies mettent en évidence une fracture de la clavicule gauche.
+Un scanner cérébral est également réalisé et ne découvre pas d’anomalie visible.
+Le médecin des urgences reprend le traitement à domicile du patient, la prescription est informatisée :
+Rivaroxaban® 15mg : 1cp/jour le matin
+Bumetanide® 1mg : 1cp/jour le matin
+Nebivolol® 5mg : 0.5cp/jour le matin
+Silodosine® 8mg : 1 gélule/jour le matin
+Finasteride® 5mg : 1cp/jour le soir.
+Le patient vivant seul, un retour à domicile ne peut être envisagé et une hospitalisation en gériatrie est décidée.
+Il est transféré en gériatrie en fin de journée le lendemain de sa chute où l’interne de garde prescrit de l’apixaban® 2.5mg (2 cp matin et soir). Les IDE administrent les 2 traitements anticoagulants pendant 4 jours ; il s’agit d’IDE remplaçantes et en sous-effectif pendant cette période de congés.
+Les ordonnances de gériatrie sont contrôlées 2 fois par semaine par les pharmaciens et ce n’est que la semaine suivante que le pharmacien découvre la prescription des deux traitements anticoagulants. Le même jour, il est signalé un saignement dans les selles.
+Le gériatre prévenu arrête immédiatement le rivaroxaban® et l’apixaban®. Une endoscopie digestive basse est rapidement réalisée qui découvre un saignement modéré au niveau d’un polype colique.
+Au total : L’évolution est favorable au prix d’une hospitalisation de 12 jours.

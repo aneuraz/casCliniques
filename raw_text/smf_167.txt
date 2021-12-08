@@ -1,0 +1,72 @@
+Contexte
+
+Les présentations spontanées et hospitalisations en ­urgence en raison de pertes de conscience passagères ne sont pas rares et peuvent représenter un défi sur le plan du diagnostic différentiel, en particulier lorsque l’anamnèse et l’examen physique ne livrent pas d’indices orientant le diagnostic.
+
+Dans cet article, nous décrivons un cas dans lequel l’anamnèse minutieuse a été décisive pour identifier une cause surprenante de la syncope.
+
+Présentation du cas
+Anamnèse
+
+Une femme de 64 ans nous a été adressée par l’hôpital ­régional pour des investigations diagnostiques approfondies et un traitement en raison de syncopes répétées. La patiente a signalé qu’elle souffrait depuis deux semaines de quintes de toux d’intensité croissante malgré un traitement symptomatique par codéine prescrit par le médecin de famille. Récemment, elle a chuté dans la salle de bain durant un tel épisode et s’est heurtée la moitié droite du visage, ce qui a causé une fracture multifragmentaire du plancher orbitaire du côté droit. Elle s’est alors présentée spontanément en urgence à l’hôpital régional, qui nous l’a adressée. Au cours des quatre jours ayant précédé l’hospitalisation, elle avait à plusieurs reprises brièvement perdu connaissance durant les quintes de toux sévères. En tant que prodromes, la patiente a décrit une dyspnée et un voile noir devant les yeux durant la toux. Lorsqu’elle reprenait connaissance, la patiente était à nouveau rapidement orientée à chaque fois. Il n’y avait pas de morsure de langue, de perte involontaire de selles ni de fuites urinaires. D’après la patiente, les quintes de toux et les pertes de conscience ne seraient pas dépendantes de la position ou de l’activité. Parmi les facteurs de risque cardiovasculaire figuraient un tabagisme récemment interrompu (consommation cumulée 60 paquets-années) et une obésité.
+
+Statut
+
+Lors de l’admission, la patiente était hypertendue (155/­90 mm Hg), normocarde (96/min) et afébrile (37,1 °C), avec une saturation périphérique en oxygène tout juste suffisante (91%) en air ambiant. En raison de ­l’obésité, une évaluation concluante des veines du cou était impossible, mais au demeurant, il n’y avait pas de signes d’hypovolémie ou d’hypervolémie. L’auscultation pulmonaire était également sans particularités, avec des bruits respiratoires normaux au niveau de tous les champs pulmonaires. En dehors d’un hématome en monocle prononcé prédominant à droite avec douleur à la pression au niveau frontal et sous-oculaire droit, il n’y avait pas de marques de contusion cliniquement pertinentes. L’examen neurologique orienté s’est révélé normal.
+
+Diagnostic
+
+Electrocardiogramme (ECG): rythme sinusal normocarde avec aspect SI-QIII suggéré, déviation axiale gauche, PQ 159ms, QTc 397 ms, pas de troubles de la repolarisation pertinents (fig. 1).
+
+Figure 1: Electrocardiogramme à l’admission, 25 mm/s, 10 mm/mV.
+
+Anomalies de laboratoire pertinentes: troponine T hypersensible 16 ng/l (valeur de référence: <14 ng/l), sans dynamique; D-dimères 4,2 mg/l (valeur de référence adaptée à l’âge: <0,64 mg/l).
+
+Tomodensitométrie (TDM) crânienne native: fracture multifragmentaire du plancher orbitaire du côté droit sans hernie des structures intra-orbitaires. Pas d’hématome intra-orbitaire. Hématome au sein du sinus maxillaire. Hématome sous-galéal frontal prononcé et hématome en monocle des deux côtés (fig. 2).
+
+Figure 2: Tomodensitométrie crânienne native. Sont représentés par des flèches (A ) la fracture du plancher orbitaire du côté droit avec déplacement minime (coupe coronale, fenêtre osseuse) et (B ) l’hématome frontal prononcé (coupe sagittale, fenêtre tissus mous). Les clichés ont été rognés pour une meilleure visibilité.
+
+TDM thoracique avec produit de contraste: pas d’infiltrats pulmonaires, pas d’embolie pulmonaire.
+
+Consilium d’oto-rhino-laryngologie et de chirurgie orale et maxillo-faciale: pas de nécessité de traitement invasif en ce qui concerne la fracture du plancher orbitaire du côté droit. Mesures conservatrices avec gouttes nasales décongestionnantes par voie topique, consommation d’aliments mous et interdiction de se moucher recommandées.
+
+Evolution
+
+La patiente a été transférée à l’unité de soins intermédiaires cardiologiques de l’hôpital universitaire de Zurich pour des investigations diagnostiques plus poussées et une surveillance continue. Elle y a présenté des épisodes supplémentaires de syncope, comme elle les avait décrits. Les syncopes survenaient exclusivement durant les quintes de toux et duraient à chaque fois quelques (1 à 3) secondes, sans mise en évidence d’arythmies ou de chutes de la saturation. Sur la base de l’anamnèse et des épisodes observés, nous avons donc interprété les syncopes comme des syncopes réflexes dans le cadre de quintes de toux répétitives et particulièrement sévères. En raison de l’anamnèse suspecte (toux sévère et persistante durant deux semaines), un agent pathogène spécifique de la toux a été recherché. Au moyen d’une analyse «polymerase chain reaction» (PCR) d’un prélèvement pharyngé, la bactérie Bordetella pertussis a pu être mise en évidence, confirmant ainsi le diagnostic de suspicion de coqueluche.
+
+Afin d’exclure une cardiopathie structurelle pouvant potentiellement favoriser les syncopes réflexes, une échocardiographie transthoracique complémentaire a été réalisée. Cet examen s’est révélé normal, avec notamment une absence de signes de dysfonction cardiaque droite ou d’hypertension pulmonaire.
+
+Diagnostic
+
+Syncopes réflexes dans le cadre de quintes de toux dues à la coqueluche.
+
+Traitement
+
+Des mesures de soutien, avec substitution volémique et traitement antitussif, ont en premier lieu été mises en œuvre. Après la mise en évidence de Bordetella pertussis, la patiente a fait l’objet d’un isolement «gouttelettes», et un traitement antibiotique par azithromycine a été initié. En collaboration avec le service d’hygiène hospitalière, une liste des personnes exposées a été établie et une prophylaxie post-expositionnelle a été mise en œuvre lorsque cela était indiqué. L’anamnèse n’a malheureusement pas permis de déterminer le statut vaccinal de la patiente, notamment le moment de la dernière vaccination de rappel contre la coqueluche.
+
+Une fois le diagnostic établi et le traitement initié, la patiente a pu être retransférée dans l’hôpital d’origine moyennant des mesures d’isolement adéquates. Après la fin du traitement antibiotique, la patiente a présenté une amélioration clinique lente mais progressive, avec diminution des épisodes de toux avec syncopes réflexes, et elle a finalement pu quitter l’hôpital et aller en réhabilitation stationnaire après plus de deux semaines d’hospitalisation.
+
+Discussion
+
+La syncope tussive (en anglais «cough syncope» ou «tussive syncope») fait partie du groupe des syncopes situationnelles et elle a été décrite pour la première fois en tant que «vertige laryngé» par Charcot en 1876 [1]. Près de 500 cas ont été décrits dans la littérature, souvent en association avec des maladies préexistantes de l’appareil respiratoire (en particulier pneumopathies obstructives), du système cardiovasculaire ou du système nerveux central. La physiopathologie exacte de la syncope tussive n’est pas totalement élucidée, et plusieurs mécanismes ont été suggérés. En cas de toux persistante, la pression intra-thoracique augmente, ce qui conduit à une diminution du retour veineux et donc du débit cardiaque et de la pression artérielle. Toutefois, étant donné que les syncopes tussives peuvent aussi survenir en l’absence de toux prolongée (comme chez notre patiente), il a également été soupçonné que d’autres réflexes neuronaux (par exemple réflexe trigéminocardiaque ou réflexe de Kratschmer, qui entraîne des modifications de la pression artérielle et de la fréquence cardiaque ainsi qu’une apnée par stimulation d’une branche du nerf trijumeau) pourraient en partie être responsables de la syncope [2].
+
+Les syncopes tussives provoquées par la coqueluche sont en revanche une entité rare. Moins de dix cas ont pour l’instant été rapportés dans la littérature [3], mais il est concevable qu’il y ait en réalité sensiblement plus de cas.
+
+Le cas présenté souligne le rôle central de l’anamnèse précise et de l’examen clinique dans le cadre de la mise au point des chutes et syncopes. En partant du motif d’admission qu’était la fracture du plancher orbitaire et en passant par le diagnostic de travail de syncope réflexe, il a ainsi été possible d’aboutir à la véritable maladie sous-jacente, à savoir la coqueluche.
+
+En 2018, la «European Society of Cardiology» a émis une recommandation pour le diagnostic systématique des syncopes (définies par une hypoperfusion cérébrale transitoire) [4]. Le recueil de l’anamnèse et l’examen clinique du patient servent à faire la distinction entre une syncope et les autres causes de perte de conscience transitoire, permettant ainsi un «aiguillage» diagnostique.
+
+Le cas présenté montre toutefois aussi qu’une perte de conscience transitoire représente un défi sur le plan du diagnostic différentiel. Ainsi, l’interrogatoire complémentaire d’un tiers pour la période de la perte de conscience (non disponible dans notre cas) est nécessaire pour obtenir une anamnèse concise, et les diagnostics différentiels de la perte de conscience passagère ne s’excluent pas mutuellement.
+
+Un aspect essentiel dans la mise au point des syncopes est la stratification du risque en ce qui concerne l’issue («outcome»), et cette stratification influence entre autres aussi l’indication d’examens supplémentaires. Dans notre cas, il y avait certes un facteur déclencheur évident des syncopes, à savoir les quintes de toux, et donc un faible risque d’issue fatale après les syncopes. Toutefois, les conséquences sévères de la blessure de la patiente (fracture du massif crânio-facial) ont quelque peu biaisé l’évaluation du risque et ont par conséquent abouti à une procédure diagnostique plus intensive. Un test de Schellong n’a pas été réalisé, étant donné que les syncopes survenaient déjà en position allongée et qu’aucun indice de dérèglement orthostatique n’a été révélé par l’anamnèse.
+
+Face à l’aspect SI-QIII suggéré à l’ECG de repos, aux D-dimères accrus et à la légère élévation de la troponine sans dynamique, une échocardiographie et une TDM thoracique ont été réalisées et ont permis d’exclure une cardiopathie structurelle, et en particulier une atteinte du cœur droit, une hypertension pulmonaire ou une embolie pulmonaire. La TDM thoracique visant à exclure des embolies pulmonaires ne fait pas partie du bilan standard des syncopes et elle devrait uniquement être réalisée en cas de suspicion fondée.
+
+La coqueluche est une cause vraisemblablement sous-estimée de toux (sub)aiguë et elle est rarement recherchée explicitement dans la pratique clinique quotidienne. Dans notre cas, le diagnostic tardif de la véritable cause, à savoir la coqueluche, a cependant conduit à l’initiation retardée du traitement spécifique (azithromycine) et des mesures d’hygiène hospitalière (isolement «gouttelettes» et liste des personnes exposées avec évaluation d’une prophylaxie post-expositionnelle) [5], ce qui s’est traduit par une surcharge de travail considérable. La coqueluche peut être mise en évidence à partir d’un prélèvement pharyngé; d’après les recommandations de la «Global Pertussis Initiative», la mise en évidence doit se faire par culture au cours des deux premières semaines, puis par PCR. De nombreux hôpitaux pratiquent cependant une PCR avant une durée de symptômes de deux semaines (en cas de suspicion fondée), car cette méthode présente une sensibilité plus élevée [6].
+
+L’essentiel pour la pratique
+
+• Le recueil d’une anamnèse précise et l’examen clinique jouent un rôle central pour la mise au point des pertes de conscience transitoires et en particulier des syncopes.
+
+• En cas de survenue pour la première fois d’une syncope réflexe, la recherche diagnostique devrait s’étendre à une possible maladie sous-jacente.
+
+• En cas de toux persistante sévère, le diagnostic différentiel de coqueluche devrait être envisagé.

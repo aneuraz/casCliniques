@@ -1,0 +1,147 @@
+Description du cas
+
+Un patient de 69 ans consulte les urgences pour des arthralgies aux mains et des douleurs à la ceinture cervico-scapulaire, présentes depuis 2 mois et associées à une raideur matinale. Le patient rapporte une piqure de tique, il y a 5 mois, sans notion d’érythème migrant. Six semaines après le début de ses symptômes, son médecin traitant a effectué une sérologie à la recherche d’une borréliose qui s’est révélée négative. A l’examen clinique, on constate une synovite bilatérale des articulations des mains, une tuméfaction du dos des mains et des doigts rendant la préhension des objets difficile (fig. 1). L’abduction des deux bras est fortement limitée et de discrets épanchements aux genoux sont présents.
+
+Figure 1: Photo du patient démontrant un œdème bilatéral du dos des mains (mains en gant de boxe). Image mise à disposition par le Dr F. Gianinazzi. La publication a été réalisée avec l’accord du patient.
+
+Question 1: Quel examen paraclinique vous paraît-il le moins pertinent à ce stade?
+
+
+a) Radiographie standard
+
+b) Recherche d’un syndrome inflammatoire
+
+c) Répéter la sérologie de la borréliose
+
+d) Échographie articulaire
+
+e) Ponction articulaire du genou
+
+Un bilan radiologique standard est indiqué afin de rechercher des signes de chondrocalcinose ou d’éventuelles érosions, qui sont absentes chez ce patient (fig. 2).
+
+Figure 2: Radiographie de la main gauche du patient mettant en évidence une tuméfaction diffuse des tissus mous, un flexum des doigts et une absence d’érosions.
+
+Un syndrome inflammatoire biologique est confirmé au vu d’une protéine C réactive (CRP) à 138,4 mg/l et une vitesse de sédimentation à 50 mm/h. Il existe une ­discrète anémie et une thrombocytose d’origine inflammatoire probable. La fonction rénale et la créatine kinase (CK) sont dans la norme. Le facteur rhumatoïde (FR), les anticorps anti-protéines citrullinées (anti-CCP), les anticorps antinucléaires, les anticorps anti-neutrophiles cytoplasmiques, les sérologies pour l’hépatite B et C ainsi que le dépistage pour le VIH reviennent négatifs. Les IgG pour le Parvovirus B19 sont positives, ­témoignant d’une ancienne infection (IgM négatives).
+
+Répéter une sérologie de borréliose n’est pas indiqué au vu d’un tableau clinique peu compatible avec une arthrite de Lyme, caractérisée par une monoarthrite du genou ou plus rarement par une oligoarthrite asymétrique des moyennes et des grosses articulations. De plus, on s’attendrait à une sérologie positive 6 semaines après le début des symptômes.
+
+Une échographie articulaire montre une bursite sous-­acromiale bilatérale et de discrets épanchements des genoux.
+
+Une ponction du genou révèle un liquide stérile et non inflammatoire avec 1,55 G/l de globules blancs, sans cristaux au microscope à lumière polarisée (urates et pyrophosphate de calcium).
+
+Question 2: Quel est le diagnostic le moins probable?
+
+
+a) Polymyalgia rheumatica
+
+b) Polyarthrite rhumatoïde séronégative
+
+c) Polyarthrite paranéoplasique
+
+d) Syndrome RS3PE («remitting seronegative symmetrical synovitis with pitting oedema»)
+
+e) Myopathie inflammatoire
+
+Une polymyalgia rheumatica (PMR) est possible au vu des douleurs de la ceinture cervico-scapulaire, des bursites sous-acromiales bilatérales et une CRP élevée. Par contre l’atteinte articulaire périphérique est atypique pour une PMR.
+
+La polyarthrite rhumatoïde (PR) séronégative et la polyarthrite paranéoplasique font partie du diagnostic différentiel en raison de l’atteinte polyarticulaire symétrique distale.
+
+Le syndrome RS3PE («remitting seronegative symmetrical synovitis with pitting oedema») est le diagnostic à évoquer en premier, au vu des synovites des articu­lations des mains associées à un ténosynovite des ­fléchisseurs des doigts. Une atteinte proximale des épaules peut être associée.
+
+Les myopathies inflammatoires ne font pas partie du diagnostic différentiel (CK dans la norme, pas de faiblesse aux muscles proximaux, pas de myalgies).
+
+À noter qu’une goutte polyarticulaire n’est pas entièrement exclue mais peu probable en raison d’une arthrocentèse négative (absence de cristaux).
+
+Question 3: Quelle démarche est la moins indiquée à ce stade?
+
+
+a) Compléter l’anamnèse et l’examen clinique à la recherche de signes d’appel pour une néoplasie.
+
+b) S’assurer que le patient ait bénéficié des examens de dépistage de néoplasie recommandés pour l’âge et le genre.
+
+c) Demander un scanner thoraco-abdomino-pelvien à la recherche d’une néoplasie.
+
+d) Introduire un traitement empirique.
+
+e) Instaurer un suivi clinique rapproché et s’assurer de la réponse au traitement.
+
+Le syndrome RS3PE est parfois associé à une néoplasie sous-jacente (syndrome paranéoplasique), dont les signes et symptômes sont à rechercher à l’anamnèse et à l’examen clinique.
+
+Il faut également s’assurer que les dépistages pour l’âge et le genre soient à jour.
+
+Un CT thoraco-abdomino-pelvien, en l’absence d’éléments évocateurs d’un processus néoplasique, n’est pas indiqué.
+
+Au vu de l’intensité des symptômes, un traitement ­empirique est introduit et le patient est suivi de façon rapprochée.
+
+Question 4: Quel traitement est le plus approprié en cas de syndrome RS3PE?
+
+
+a) Corticothérapie à faible dose
+
+b) Corticothérapie à haute dose
+
+c) Méthotrexate
+
+d) Anti TNF-alfa
+
+e) Rituximab (anti-CD20)
+
+Une corticothérapie à faible dose est le traitement de choix du syndrome RS3PE. Le méthotrexate, les anti TNF-alfa et le rituximab sont utilisés comme traitement de fond de la PR et d’autres maladies auto-immunes.
+
+Question 5: Quelle affirmation concernant le suivi d’un syndrome RS3PE n’est pas correcte?
+
+
+a) Une réponse rapide à la corticothérapie est obtenue dans la plupart des cas.
+
+b) La majorité des patients ont une rémission complète des symptômes dans les 18 mois suivant le début du traitement.
+
+c) Un flexum non douloureux des doigts et des poignets sans incapacité fonctionnelle peut parfois persister malgré une rémission de la maladie.
+
+d) Une récidive des symptômes est fréquente après arrêt progressif des corticoïdes.
+
+e) Une mauvaise réponse à la corticothérapie est plus fréquente en cas de néoplasie sous-jacente.
+
+Le syndrome RS3PE se caractérise par une réponse très rapide aux corticoïdes avec disparition des œdèmes et diminution des douleurs en quelques jours. Les corticoïdes sont ensuite sevrés progressivement selon un schéma similaire à celui de la PMR, permettant dans la majorité des cas une rémission complète des symptômes dans les 18 mois. Des traitements de fond à but d’épargne de corticoïdes sont rarement utilisés ou nécessaires, les récidives étant très rares et le pronostic excellent. Un discret flexum des doigts peut parfois persister. Les patients présentant une néoplasie sous-jacente répondent mal à une corticothérapie.
+
+Discussion
+
+Le syndrome RS3PE a été initialement décrit en 1985 par McCarty et al. chez des patients présentant une ­synovite symétrique d’apparition soudaine, touchant les poignets, les articulations des mains et les doigts. Une ténosynovite des fléchisseurs des doigts et des extenseurs du poignet est typiquement présente, s’accompagnant d’un œdème du dos des mains avec le signe du godet positif (mains en gant de boxe) [1]. Plus rarement, les symptômes peuvent être asymétriques et toucher d’autres articulations comme les chevilles ou les épaules. Des symptômes B peuvent y être associés [2]. L’étiologie n’est pas connue mais on suspecte une augmentation de la perméabilité capillaire médiée par le «vascular endothelial growth factor» (VEGF) [3]. Le syndrome RS3PE touche surtout les personnes âgées avec une prépondérance masculine [4]. Au niveau biologique on retrouve un syndrome inflammatoire avec FR et anti-CCP négatifs. Les radiographies standards ne montrent pas d’érosions osseuses [5].
+
+Une méta-analyse de 2016 propose les critères diagnostiques suivants (tab. 1): début soudain, œdème des mains prenant le godet (et/ou des pieds), âge ≥60 ans, bonne réponse à une corticothérapie à faible dose (10–20 mg/j), FR et anti-CCP négatifs et absence d’érosions osseuses [4].
+
+Tableau 1: Critères diagnostiques du syndrome RS3PE [4].
+Début soudain de la symptomatologie
+Œdème des mains (et/ou des pieds) avec signe du godet positif
+Âge ≥60 ans
+Bonne réponse clinique à une corticothérapie à faible dose (10–20 mg/j)
+Facteur rhumatoïde et anticorps anti-protéines citrullinées négatifs
+Absence d’érosions osseuses à la radiographie standard
+
+Le diagnostic différentiel du syndrome RS3PE est résumé dans le tableau 2 [6].
+
+Tableau 2: Comparaison entre différentes atteintes articulaires du sujet âgé (adapté de [6]).
+Caractéristiques	RS3PE	PR	PMR
+Début	Soudain	Progressif	Soudain / progressif
+Sexe	Hommes >femmes	Femmes >hommes	Femmes >hommes
+Age	>65 ans	30–50 ans	+/–70 ans
+Raideur	Matinale	Matinale	Peu
+Synovite	Modérée	Sévère	Rare
+Œdème	Toujours	Rare	Non
+Erosions osseuses	Non	Oui	Non
+Facteur rhumatoïde	Négatif	Positif	Négatif
+Réponse aux corticoïdes	Significative	Bonne	Significative
+Rémission	Oui (3–36 mois)	Rare	Oui (2–3 ans)
+RS3PE: «remitting seronegative symmetrical synovitis with pitting oedema»;PR: polyarthrite ­rhumatoïde;PMR: polymyalgia rheumatica.
+
+L’œdème dans les polyarthrites du sujet âgé n’est pas spécifique et peut être rencontré dans d’autres types de rhumatismes inflammatoires tels que les spondylarthrites, la PR, le rhumatisme psoriasique, les arthrites microcristallines [1].
+
+Le syndrome RS3PE peut être associé à des néoplasies ou à une multitude d’autres maladies rhumatismales et auto-immunes, tels que la PMR, le syndrome de Sjö­gren, les arthrites microcristallines, les spondylarthrites, etc. [3, 4].
+
+Les néoplasies les plus fréquemment associés au syndrome RS3PE sont les tumeurs urogénitales (5,1%), hématologiques (5,1%), gastro-intestinales (3,6%) et pulmonaires (1,5%) [4]. La décision de réaliser un dépistage extensif à la recherche d’une néoplasie sous-jacente dépend de la présence ou non de signes et symptômes évocateurs, des antécédents oncologiques et d’éléments atypiques comme une mauvaise réponse à la corticothérapie [2].
+
+Il faut néanmoins signaler que toute la communauté rhumatologique n’accepte pas le syndrome RS3PE comme une entité séparée car de nombreux chevauchements avec d’autres maladies rhumatismales comme la PMR, la PR du sujet âgé ou certaines formes d’arthrite paranéoplasique existent [3, 4].
+
+Réponses:
+
+
+Question 1: c. Question 2: e. Question 3: c. Question 4: a. Question 5: d.

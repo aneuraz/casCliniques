@@ -1,0 +1,54 @@
+Contexte
+
+Selon les lignes directrices de la «Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde» (DGPPN), le méthylphénidate est le traitement médicamenteux le plus efficace pour le traitement du trouble du déficit de l’attention /hyperactivité (TDAH) à l’âge adulte [1]. La prise de préparations à base de méthylphénidate est néanmoins surtout observée chez des groupes d’âge jeune, jusqu’à 35 ans. Depuis la hausse exponentielle des prescriptions dans les années 2006-2010, la prise de ce médicament est restée très constante dans ces groupes d’âge [2]. Outre son utilisation thérapeutique, le médicament est également pris à différentes doses en vue d’une prétendue augmentation des performances. Dans ce cadre, de nombreux effets indésirables difficiles à classer pour le clinicien peuvent survenir.
+
+Rapport de cas
+Anamnèse
+
+La patiente âgée de 31 ans s’est présentée à la consultation en urgence, accompagnée de sa mère, en raison de secousses musculaires symétriques des membres inférieures et d’une agitation psychique concomitante ­survenues il y a trois jours. Dans la salle d’attente, la ­patiente peinait à rester assise calmement, devait constamment aller et venir et avait l’air agitée, ce qui avait également été décrit par les parents. De plus, la patiente a rapporté souffrir d’éruptions cutanées prurigineuses au niveau des membres inférieures depuis quatre mois. Une mise au point ambulatoire avait déjà été conduite par une collègue dermatologue. Sur le plan histopathologique, les excoriations avaient alors été interprétées en tant que prurigo. Un traitement par pommade à base de corticostéroïdes et photothérapie a été mis en place mais selon la patiente, aucune amélioration clinique ne s’est manifestée. Lors de l’anamnèse d’admission, la patiente a ajouté qu’elle souffrait de palpitations, de sueurs et valeurs de pression artérielle élevées. Elle a déclaré ne pas présenter d’allergies et ne pas consommer de drogues. En tant que médicaments réguliers, elle utilisait de la bilastine comme antihistaminique ainsi que différentes crèmes depuis la survenue des efflorescences cutanées. Elle prenait de plus du méthylphénidate (Ritaline®) de façon très irrégulière en raison d’un TDAH. Ce dernier avait été diagnostiqué il y a des années. Autrefois, la patiente avait bien toléré le méthylphénidate à dose normale, sans survenue d’efflorescences cutanées. Le médicament a été arrêté par la suite en raison de la régression sensible des symptômes. Le médicament est à nouveau pris depuis environ 4–5 mois en raison d’une souffrance psychique considérable.
+
+Examens et résultats
+
+La patiente était extrêmement nerveuse et agitée mais elle était néanmoins orientée dans l’espace, dans le temps et par rapport à sa propre personne. Les membres et notamment les jambes étaient en mouvement constant. Il était pratiquement impossible à la patiente de rester calmement assise ou allongée pour l’examen. Elle était également distraite dans la communication verbale, son attention était facilement détournée par les bruits environnants.
+
+Sur le plan neurologie, les pupilles, élargies, réagissaient lentement à la lumière. Toutefois, aucun déficit neurologique n’a par ailleurs été observé. Des aphtes buccaux et des lésions cutanées diffuses et sèches (anciennes vésicules), de quelques millimètres et siégeant au bout des doigts et des orteils ont été observés. Sur les jambes, la patiente présentait des papules rouges claires et prurigineuses, de répartition diffuse, qui avaient parfois une cicatrice hyperpigmentée en leur centre (fig. 1). L’examen clinique n’a pas montré d’autres anomalies.
+
+Figure 1: Les lésions cutanées de la patiente: vue latérale (A ) et frontale (B ) de la jambe gauche.
+
+Les examens de laboratoire que ce soit sur le plan hématologique ou celui de la chimie clinique n’ont pas délivré de résultats indicatifs d›un diagnostic. L’examen toxicologique était positif pour les amphétamines et les benzodiazépines. Le dosage complémentaire du taux de méthylphénidate a révélé des valeurs considérablement trop élevées.
+
+Diagnostic et évolution
+
+Nous interprétons les symptômes de ce tableau clinique en tant qu’effets indésirables typiques de la consommation de méthylphénidate. Après que nous lui ayons fait part de notre suspicion et à la suite d’une longue discussion, la patiente a confirmé prendre du méthylphénidate à des doses considérablement accrues (jusqu’à 10 comprimés à 10 mg/jour). Elle a manifestement fait cela en vue d’une reprise dans le cadre d’un nouveau poste, «en raison de la meilleure concentration». Elle prenait le lorazépam de son père de façon concomitante pour se calmer. La suspicion de surdosage de méthylphénidate était ainsi confirmée sur le plan clinique, et un taux sérique de méthylphénidate dix fois supérieur à la norme a été trouvé, venant ainsi soutenir notre thèse.
+
+La constatation clinique et histologique du prurigo est selon nous également à évaluer en tant que conséquence du surdosage de méthylphénidate car le prurigo est survenu dans le même temps que la prise excessive de méthylphénidate. L’évolution temporelle et le traitement par corticostéroïdes locaux et photothérapie jusqu’à présent sans succès vont dans ce sens.
+
+Nous avons conseillé à la patiente de réduire progressivement la dose de méthylphénidate à 1-2 comprimés/jour en vue d’arrêter complètement le traitement car l’arrêt brutal du traitement peut entraîner des symptômes de sevrage tels qu’une hyperactivité, une irritabilité et un état dépressif.
+
+Suite au passage à la venlafaxine et un médicament de secours à base de trazodone, les effets indésirables neurologiques et dermatologiques ont complétement régressé.
+
+Les collègues des domaines de la psychiatrie et de la dermatologie ont été informés des résultats. Il n’a pas été possible de découvrir comment la patiente a obtenu les ordonnances pour cette consommation excessive de méthylphénidate. La psychiatre n’a prescrit que des doses mensuelles à chaque fois.
+
+Discussion
+
+Ritaline® appartient au groupe des amphétamines et son principe actif est le méthylphénidate. Le méthylphénidate inhibe la recapture des neurotransmetteurs dopamine et noadrénaline en bloquant les transporteurs localisés dans la membrane des neurones présynaptiques. Normalement, ces transporteurs servent à la recapture rapide des neurotransmetteurs libérés dans la fente synaptique. Cela signifie que le méthylphénidate agit en tant qu’inhibiteur de la recapture avec une signalisation accrue des messagers dans la fente synaptique. Les messagers peuvent ainsi agir plus longtemps au niveau du récepteur [3].
+
+Sur le plan clinique, cela se traduit par une fatigue moins ressentie, une performance accrue et un appétit plus faible. Cette préparation est utilisée dans le TDAH. Les symptômes de cette maladie sont des troubles de l’attention et de l’autorégulation ainsi qu’une impulsivité et une hyperactivité.
+
+Le TDAH est un trouble cérébral génétique multifactoriel qui survient au cours de l’enfance/l’adolescence. L’incidence du TDAH chez les enfants et les adolescents dans le monde est chiffrée à 5%. Il s’agit donc du trouble psychiatrique le plus fréquent chez les enfants et les adolescents. Des études de suivi ont montré que le trouble persiste à l’adolescence chez jusqu’à 80% des enfants touchés.
+
+La cause n’est pas élucidée. Une activité réduite des substances dopaminergiques et noradrénergiques dans le striatum et la région corticale, qui participent au contrôle de l’attention, de la motricité et des impulsions, est toutefois discutée. Outre la baisse de l’hyperactivité, l’utilisation du méthylphénidate entraîne également une amélioration de l’attention et de la mémoire à court terme [3].
+
+Dans notre cas, la patiente a elle-même augmenté considérablement la dose de méthylphénidate sans concertation médicale. Les symptômes classiques d’un surdosage se sont en conséquence manifestés, à savoir des palpitations, sueurs et tremblements ainsi qu’une agitation psychique et motrice. De plus, des papules et nodules érythémateux sont survenus sur les membres inférieurs, parfois avec des excoriations.
+
+Le méthylphénidate déclenche rarement la survenue de ces efflorescences cutanées. Malgré son utilisation fréquente, il n’existe que quelques exemples de cas dans la littérature. Non seulement Welsh mais aussi Confino-Cohen et al. montrent, sur la base de leurs exemples de cas, que des éruptions cutanées prurigineuses peuvent survenir suite à la prise de méthylphénidate [4, 5]. L’approche thérapeutique usuelle consiste à arrêter l’agent déclencheur (méthylphénidate) et observer l’évolution clinique. Une alternative possible dans le cas où le méthylphénidate ne peut pas être arrêté est la désensibilisation [5]. L’évolution temporelle, la régression complète des symptômes suite à l’arrêt du traitement par méthylphénidate et les exemples de cas dans la littérature permettent de conclure que la dose élevée de méthylphénidate était responsable de la survenue des efflorescences cutanées. L’anamnèse ne comportait pas de point d’accroche suggérant une autre cause. Il a été renoncé à une réexposition.
+
+Avec notre cas, nous souhaitons faire remarquer que dans le quotidien clinique, il convient toujours de prendre en compte que les symptômes cliniques peuvent être induits par des médicaments. Dans ce contexte, il a été essentiel de conduire une anamnèse exhaustive afin de pouvoir classer correctement les symptômes de la patiente et de mettre les bonnes mesures thérapeutiques en place.
+
+L’essentiel pour la pratique
+
+• Les préparations à base de méthylphénidate tels que Ritaline® sont le produit de premier choix pour le traitement médicamenteux du trouble du déficit de l’attention/hyperactivité (TDAH).
+
+• En cas de complexe de symptômes inhabituel, le clinicien devrait toujours envisager une cause médicamenteuse, en particulier lorsqu’aucuns indices de cause organique ne sont présents.
+
+• Le diagnostic de surdosage peut être difficile et représenter un défi lorsque le patient ne coopère pas suffisamment et une gestion précise des antécédents du patient est alors nécessaire.

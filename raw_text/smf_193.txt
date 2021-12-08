@@ -1,0 +1,153 @@
+Présentation du cas
+
+Un patient de 53 ans, connu pour une cardiopathie ischémique traité uniquement par Aspirine® cardio, se présente aux urgences en raison d’une asthénie évoluant depuis plusieurs semaines. Il décrit des douleurs abdominales crampiformes associées à des nausées.
+
+Le patient est afébrile, normotendu, normocarde et euvolémique avec comme unique anomalie un ralentissement psychomoteur.
+
+Les tests de laboratoire rélèvent les résultats suivants:Na+ 119 mmol/l (norme [N]: 135–145 mmol/l), K+ 3,7 mmol/l (N: 3,5–4,5mmol/l), osmolalité sanguine 248 mosm/kg H2O (N: 270–295 mosm/kg H2O), glycémie 4,8 mmol/l, créatinine 70 µmol/l, urée 3,5 mmol/l. Les autres électrolytes ainsi que les tests hépatiques et pancréatiques sont dans la norme.
+
+Question 1: Quelle est la prochaine étape dans la prise en charge?
+
+
+a) Administrer du NaCl 0,9%
+
+b) Administrer du NaCl 3%
+
+c) Effectuer une tomodensitométrie (TDM) cérébral
+
+d) Effectuer un spot urinaire
+
+e) Effectuer un ultrasonographie (US) abdominal
+
+Le patient présente une hyponatrémie vraie (hypoosmolaire) euvolémique sans symptômes sévères (trouble de l’état de conscience ou convulsions). Les symptômes étant survenus sur plusieurs jours et en absence d’une natrémie récente, cette hyponatrémie doit être considérée comme chronique (présente depuis >48 h).
+
+Dans ce cas, il convient en premier lieu de mieux établir la cause du trouble électrolytique par un spot urinaire (avec la mesure de l’osmolalité et du sodium urinaire) afin de définir l’étiologie et ainsi la modalité du traitement.
+
+L’administration de NaCl 0,9% est indiquée dans les cas d’hyponatrémie hypovolémique. Les uniques indications à un traitement agressif par du NaCl 3% sont une hyponatrémie avec des symptômes sévères ou une hyponatrémie d’apparition rapide (sur quelques heures) entraînant un plus haut risque d’œdème cérébral. Dans les autres cas, la correction doit être faite de façon prudente en raison du risque de démyélinisation pontique [1, 2]. Les symptômes du patient étant expliqués par l’hyponatrémie, il n’y a actuellement pas d’indication à une imagerie cérébrale ou abdominale.
+
+–Spot urinaire du patient:Na+ 86 mmol/l, osmolalité de 276 mmol/kg H2O.
+
+L’osmolalité urinaire permet de faire la différence entre un excès des apports d’eau (<100 mmol/kg H2O, comme en cas de potomanie) ou une diminution de l’excrétion d’eau. Le sodium urinaire >20 mmol/l écarte une «avidité au sodium» typique d’un état hypovolémique ou d’une baisse du volume circulant effectif (insuffisance cardiaque congestive, cirrhose, syndrome néphrotique). Dans notre cas, l’hyponatrémie euvolémique avec l’osmolalité urinaire et natriurèse élevées évoquent un syndrome de sécrétion inappropriée d’hormone anti-diurétique (SIADH).
+
+Question 2: Quelle proposition est actuellement la moins pertinente pour la suite de la prise en charge?
+
+
+a) Effectuer une TDM thoracique
+
+b) Compléter l’anamnèse médicamenteuse
+
+c) Compléter l’anamnèse sexuelle
+
+d) Doser la «thyroid stimulating hormone» (TSH) et T4 libre
+
+e) Effectuer un test au Synacthène®
+
+Les critères diagnostiques traditionnels du SIADH excluent un déficit en glucocorticoïde, une hypothyroïdie sévère et la prise de diurétiques (tab. 1, [2]).
+
+Tableau 1: Critères diagnostiques du SIADH.
+Osmolalité plasmatique basse (<275 mosm/kg H2O)
+Osmolalité urinaire inappropriée (>100 mosm/kg H2O avec une fonction rénale normale)
+Euvolémie clinique, définie par l’absence de signes d’hypovolémie (orthostatisme, tachycardie, sécheresse des muqueuses) ou d’hypervolémie (œdème sous-cutané, ascite)
+Natriurèse conservée (>20–30 mmol/l) avec apports hydriques et en sels normaux
+Absence d’autre cause d’hypo-osmolalité euvolémique: hypothyroïdie sévère ou ­insuffisance surrénalienne
+Fonction rénale normale et absence d’utilisation de diurétiques (surtout thiazidiques)
+
+La TDM thoracique n’a pas sa place à ce stade de la prise en charge. Elle est proposé par certains auteurs dans la recherche d’étiologie de SIADH, mais pas avant d’avoir posé ce diagnostic.
+
+Les compléments d’anamnèse confirment l’absence de prise de diurétiques thiazidiques ou de tisanes à visée diurétique et nous apprend que le patient présente une baisse de la libido depuis plusieurs mois ainsi qu’une perte de la pilosité. Ces plaintes évoquent un hypogonadisme et donc une cause centrale à cette hyponatrémie.
+
+Le bilan est complété:
+
+–Bilan thyroïdien: TSH 0,754 mUI/l (N: 0,270–4,20 mUI/l), T4 libre 2,2 pmol/l (N: 12–22 pmol/l).
+
+– Test au Synacthène® «high dose»: Cortisol T0: 250 nmol/l, T60min: 420 nmol/l (N au CHUV: T0: 133–537 nmol/l, T60: >500 nmol/l).
+
+Une T4 libre basse sans l’augmentation attendue de la TSH pose le diagnostic d’hypothyroïdie secondaire (ou centrale). Le test au Synacthène® consiste à évaluer la ­réponse surrénalienne en dosant le cortisol sécrété après administration d’une substance synthétique proche de l’ACTH . Dans notre cas, on constate une réponse insuffisante à la stimulation mais tout de même présente, probablement due à une insuffisance surrénalienne centrale récente avec une synthèse en cortisol encore présente. En effet, l’ACTH ayant un effet trophique sur les surrénales, l’insuffisance hypophysaire s’accompagne d’une atrophie surrénalienne (et donc d’une ­diminution de la synthèse en cortisol) progressive. Ainsi la réponse au test au Synacthène sera différente selon le temps écoulé depuis le début de l’insuffisance hypophysaire.
+
+Le patient présente donc deux critères d’exclusion au diagnostique de SIADH, nous amenant à attribuer cette hyponatrémie principalement à l’insuffisance surrénalienne avec une composante surajoutée possible due à l’hypothyroïdie.
+
+Question 3: Quel examen est actuellement le moins indiqué?
+
+
+a) Dosage de l’IGF-1
+
+b) Dosage de la testostérone
+
+c) Test de tolérance à l’insuline
+
+d) Imagerie par résonance magnétique (IRM) cérébrale
+
+e) Nouvel examen neurologique
+
+Face à une insuffisance surrénalienne, une hypothyroïdie secondaire et une suspicion d’hypogonadisme, une insuffisance hypophysaire est hautement suspecte, justifiant un bilan endocrinien et radiologique plus ­approfondi.
+
+L’hypoglycémie induite par le test à l’insuline stimule la libération de la «growth hormone» (GH) mais également de la «corticotropin-realeasing hormone» (CRH) et par conséquence de l’«adrenocorticotropic hormone» (ACTH) puis du cortisol. Le test à l’insuline est le «gold standard» pour évaluer l’axe hypothalamo-hypophyso-surrénalien (avec suivi de l’ACTH, cortisol) et l’axe somatotrope (avec suivi de la GH). Ce test est toutefois rarement nécessaire car remplacé par d’autres moins compliqués et est contre-indiqué chez ce patient au vu de la maladie coronarienne.
+
+L’«insuline-like growth factor 1» (IGF-1) est sécrété par le foie sous l’action de la GH. Son dosage est utilisé pour le dépistage d’atteintes de l’axe somatotrope en raison de taux plus stables que la GH qui est sécrétée de façon pulsatile. Les dosages de la testostérone matinale et des gonadotropines (FSH/LH) sont indiqués pour ­explorer l’axe gonadotrope chez l’homme.
+
+– Bilan hormonal: LH 0,6 U/l (N: 2–9 UI/l), FSH 1,2 U/l (N: 2–12 UI/l), testostérone 0,8 nmol/l (11–31 nmol/l à 8 h), IGF-1 62 ug/l (N: 72–158 µg/l), prolactine 21,1 ug/l (N: 4–16 µg/l).
+
+Les causes d’insuffisance hypophysaire chez l’adulte sont le plus fréquemment secondaires à des masses hypophysaires (typiquement des adénomes et plus rarement des craniopharyngiome ou kyste de la poche de Rathke) ou à des traitements de la région hypophysaire (chirurgie ou radiothérapie) [3]. Une IRM est donc indiquée.
+
+Afin de déterminer l’urgence de l’intervention, il est également important de rechercher activement une atteinte de nerfs crâniens à risque en cas de masse hypophysaire. Les lésions peuvent être au niveau du chiasma optique, et plus rarement sur les nerfs ayant un trajet dans le sinus caverneux (III, IV, V1, V2 et VI). Un examen neurologique minutieux avec une consultation chez un neuro-ophtalmologue est donc indiquée. Notre patient ne présente pas d’atteinte du champ visuel ni d’autre atteinte de nerfs crâniens.
+
+L’IRM cérébrale (fig. 1) montre un kyste hypophysaire correspondant à un volumineux kyste de la poche de Rathke.
+
+Figure 1: IRM cérébrale en pondération T2 (A ), T1 (B ) et T1 après gadolinium (C etD ). Mise en évidence d’une masse (1) de 12 × 15 × 17 mm à départ intrasellaire. Compression de la post-hypophyse (normalement hyperintense en T1 et extension extrasellaire avec déplacement du chiasma optique (2) mais sans signe de souffrance (absence d’hypersignal en T2). Visualisation de la partie préchiasmatique du nerf optique gauche (3) avec hypersignal signant une compression entre la masse et l’artère cérébrale antérieur gauche (4). Masse d’allure homogène, kystique (hypersignal en T2) avec une capsule non rehaussée après injection du gadolinium. Caractéristiques typiques d’un kyste de la poche de Rathke. Artère carotidienne gauche (5), sinus sphénoidal (6).
+
+Notre patient a une insuffisance anté-hypo­physaire partielle sur un kyste de la poche de Rathke avec atteinte des axes gonadotrope, somatotrope, thyréotrope et corticotrope. On note une légère hyperprolactinémie secondaire à une compression de la tige pituitaire entraînant une diminution de l’inhibition par la dopamine provenant de l’hypothalamus [4].
+
+Question 4: Quel traitement proposez-vous en premier lieu?
+
+
+a) Supplémentation en levothyroxine
+
+b) Supplémentation en hydrocortisone
+
+c) Supplémentation en testostérone
+
+d) Antagoniste du récepteur à la vasopressine (vaptan)
+
+e) Supplémentation en hormone de croissance
+
+En cas d’insuffisance hypophysaire avec une atteinte de l’axe corticotrope et thyréotrope, il est primordial de débuter par une supplémentation en glucocorticoïdes avant celle en hormones thyroïdiennes. En effet la supplémentation en hormone thyroïdienne augmente les besoins en cortisol tout en accélérant sa clairance, entraînant un risque de crise addisonienne [3].
+
+Une supplémentation en testostérone semble indiquée chez ce patient avec un taux effondré et une baisse de la libido. Cette substitution n’est toutefois pas une priorité à ce moment de la prise en charge, surtout si une chirurgie est prévue.
+
+Les antagonistes des récepteurs à la vasopressine sont un traitement de deuxième ligne lors d’hyponatrémie euvolémique (typiquement un SIADH persistant malgré une restriction hydrique) ou d’hyponatrémie hypervolémique [2]. La supplémentation en hormone de croissance reste encore débattue et n’est pas une priorité.
+
+Notre patient a bénéficié d’une supplémentation initialement par hydrocortisone avec correction de la natrémie puis deux jours plus tard par lévothyroxine à doses adaptées au vu de la cardiopathie ischémique.
+
+Question 5: Quelle est la prochaine étape thérapeutique?
+
+
+a) Eviter l’intervention chirurgicale
+
+b) Prévoir des séances de radiothérapie
+
+c) Prévoir une opération élective
+
+d) Prévoir une IRM de contrôle à six mois
+
+e) Prévoir une opération en urgence
+
+Face à un kyste de la poche de Rathke avec un déficit endocrinien, un traitement chirurgical est indiqué. La croissance de ce kyste étant lente et en absence de déficit neurologique, l’intervention peut être faite sans urgence après stabilisation endocrinienne. La voie d’abord traditionnelle est transphénoïdale et a pour but de drainer le liquide ainsi qu’une partie de la capsule.
+
+La radiothérapie est réservée aux récidives. Un suivi radiologique à six mois n’est pas indiqué au vu du déficit endocrinien.
+
+Quelques semaines après le début de la supplémentation endocrinienne, le patient a bénéficié d’une résection du kyste par voie transphénoïdale. Cette intervention s’est déroulé sans complications mais n’a pas permis de récupérer de l’hypopituitarisme.
+
+Discussion
+
+L’hyponatrémie est un diagnostic fréquent en milieu hospitalier. Une prise en charge structurée permet souvent de trouver l’étiologie et parfois de diagnostiquer des pathologies dont la prise en charge est impérative, comme les déficits endocriniens illustrés par ce cas. Il convient d’abord d’évaluer la sévérité des symptômes liés à l’hyponatrémie et de déterminer la cinétique de son apparition.
+
+Face à une hyponatrémie chronique et sans symptômes de sévérité, l’accent doit être mis sur le diagnostic étiologique avant d’entreprendre des traitements qui pourraient fausser le bilan. Il est important d’évaluer l’état volémique du patient et de mesurer de l’osmolalité sanguine, la glycémie, la fonction rénale ainsi que l’osmolalité et la concentration du sodium urinaire. La correction de l’hyponatrémie est très rarement une urgence et comporte un risque de démyélinisation pontique en cas de correction trop rapide. La pratique courante d’administrer du NaCl 0,9% n’est justifiée qu’en cas d’hyponatrémie hypovolémique, dans les autres situations elle peut même aggraver l’hyponatrémie (par exemple en cas de SIADH où l’expansion volémique du remplissage stimule une natriurèse alors que l’ADH poursuit son action avec rétention de l’eau libre) [5].
+
+L’étiologie la plus fréquente d’une hyponatrémie euvolémique est le SIADH, un diagnostic d’exclusion reposant sur des critères bien définis (tab. 1). Même si le lien de cause à effet entre hypothyroïdie et hyponatrémie est débattu, il est admis qu’une hypothyroïdie sévère avec myxoedème et baisse du débit cardiaque peut stimuler la sécrétion d’ADH. L’hyponatrémie sur insuffisance surrénalienne est rare mais bien décrite. Le cortisol induisant un feedback négatif sur la sécrétion d’ADH, l’insuffisance surrénalienne amène à une hyponatrémie euvolémique par augmentation des taux d’ADH circulants. L’évolution est très rapidement favorable après supplémentation en glucocorticoïde, indiquant un suivi étroit de la natrémie et au besoin à une intervention (administration d’eau libre ou de desmopressine) pour réduire le risque de démyélinisation pontique [2].
+
+Le diagnostic d’hypopituitarisme est souvent retardé en raison de manifestations cliniques initiales aspécifiques et dépendant des axes hormonaux atteints. En cas de masse hypophysaire (classiquement un adénome), l’axe gonadotrope (FSH et LH) est souvent ­touché en premier. Ainsi les manifestations chez la femme pré-ménopausée sont souvent plus précoce sous forme d’aménorrhée et plus tardive chez l’homme et la femme post-ménopausée avec une baisse de la libido. La suspicion d’insuffisance hypophysaire découle d’une anamnèse ciblée et le choix des tests diagnostiques pour explorer la fonction hypophysaire doit prendre en compte les comorbidités du patient.
+
+Réponses:
+
+
+Question 1: d. Question 2: a. Question 3: c. Question 4: b. Question 5: c.

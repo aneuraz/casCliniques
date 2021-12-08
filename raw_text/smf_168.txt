@@ -1,0 +1,58 @@
+Contexte
+
+La fistule aorto-entérique (FAE) est définie en tant que communication anormale entre l’aorte et le tractus gastro-intestinal. Les fistules aorto-duodénales (FAD) comptent pour 75% des FAE et elles constituent une ­entité rare (prévalence d’env. 0,07%). Pour l’équipe médicale, elles représentent un défi diagnostique et thérapeutique, car en cas de pose de diagnostic retardée, la mortalité est comprise entre 30 et 100% [1, 2]. En fonction de l’étiologie, il convient de distinguer les FAD primaires et secondaires. Les FAD primaires surviennent en règle générale dans le cadre d’une maladie anévrismale de l’aorte abdominale, tandis que les FAD secondaires se développent la plupart du temps après des ­reconstructions vasculaires de l’aorte au moyen de prothèses vasculaires. Les FAD secondaires sont dix fois plus fréquentes que les FAD primaires [3]. Dans les lignes qui suivent, nous présentons le cas d’une FAD secondaire survenue après une opération gynécologique préalable.
+
+Description du cas
+Anamnèse
+
+Une patiente âgée de 64 ans a été conduite dans notre service des urgences par les secours en raison d’une hématochézie présente depuis environ 18 heures, d’une tachycardie croissante depuis quelques heures et d’une diminution de l’état général. Elle a rapporté ne jamais avoir présenté de tels symptômes auparavant. Elle s’est en outre plainte d’une légère nausée sans vomissements. Lorsqu’elle a été interrogée, elle a déclaré ne pas présenter de douleurs abdominales ou d’autres symptômes.
+
+L’anamnèse personnelle a révélé une hypertension artérielle traitée ainsi qu’un diabète sucré. Une hystérectomie laparoscopique a de plus été réalisée il y a environ 5 ans en raison de troubles hémorragiques périménopausiques. Du fait de la découverte d’un cancer de l’endomètre, cette dernière avait été complétée par une ovariectomie laparoscopique avec lymphadénectomie para-aortique.
+
+Statut
+
+La patiente s’est présentée au service des urgences dans un état général considérablement réduit, avec les paramètres vitaux suivants: fréquence cardiaque à 110/min, pression artérielle à 102/55 mm Hg, température à 36,2 °C, saturation en oxygène mesurée par oxymètre de pouls à 96% en air ambiant. L’examen physique a révélé une douleur à la pression diffuse de l’ensemble de l’abdomen, au demeurant souple, avec des bruits intestinaux réguliers. De plus, du sang frais était présent au niveau de l’anus.
+
+Les analyses de laboratoire ont initialement montré un taux d’hémoglobine de 108 g/l, avec une chute à 85 g/l 1 heure après la première prise de sang. De plus, les analyses ont montré un taux de lactate de 9,4 mmol/l, ainsi qu’un trouble électrolytique combiné avec une hyponatrémie à 130 mmol/l et une hyperkaliémie à 5,5 mmol/l.
+
+Diagnostic et évolution
+
+Une hémorragie gastro-intestinale pertinente sur le plan hémodynamique ayant été suspectée, la patiente a été stabilisée au moyen d’une substitution liquidienne et de deux concentrés érythrocytaires. La gastroscopie ensuite réalisée en urgence a montré un gros caillot dans le fundus et le corps de l’estomac, sans source d’hémorragie identifiable (fig. 1). La muqueuse du fundus et du corps de l’estomac n’a pas pu être évaluée en raison du caillot. L’antre gastrique, le bulbe duodénal et la deuxième portion du duodénum étaient par ailleurs normaux.
+
+Figure 1: Gastroscopie: un gros caillot a été trouvé dans le fundus et le corps de l’estomac. Une hémorragie active n’était pas visible.
+
+Afin de compléter l’examen, une coloscopie a été ef­fectuée et elle a montré une grande quantité de vieux sang avec plusieurs caillots dans le rectum et le côlon sigmoïde, sans localisation de la source hémorragique (fig. 2).
+
+Figure 2: Coloscopie: grande quantité de vieux sang et caillots dans le rectum et le côlon sigmoïde proximal.
+
+Une angiographie par tomodensitométrie (TDM) de l’abdomen a en outre été réalisée dans le cadre du ­diagnostic de localisation. Elle a révélé une FAD avec passage du produit de contraste dans la portion transversale du duodénum depuis l’aorte infrarénale athéro­sclérotique mais sans lésion anévrismale (fig. 3A et B).
+
+Figure 3: Coupe axiale (A ) et sagittale (B ) de l’angiographie par TDM. Passage visible du produit de contraste dans le duodénum (portion horizontale) depuis l’aorte infrarénale.
+
+Traitement et évolution
+
+La patiente a été transférée vers un hôpital de référence tertiaire dans un état stable. La prise en charge interventionnelle primaire de la FAD au moyen d’une endoprothèse vasculaire de l’aorte abdominale infrarénale y a été assurée. L’évolution ultérieure s’est déroulée normalement, sans complications. La patiente est rentrée chez elle dans un bon état général le 10e jour après l’opération.
+
+Le contrôle de suivi réalisé 5 semaines après l’intervention au moyen d’une angiographie par TDM a également montré une bonne évolution (fig. 4).
+
+Figure 4: Reconstruction 3D d’une angiographie par TDM 3 mois après l’opération, avec endoprothèse posée dans l’aorte infrarénale dans le cadre d’une fistule aorto-duodénale.
+
+Du fait de l’opération gynécologique préalable avec lymphadénectomie para-aortique laparoscopique réalisée en raison d’un cancer de l’endomètre, la fistule correspond le plus vraisemblablement à une complication tardive de genèse secondaire, compte tenu de la présence de clips vasculaires visibles dans la région de la fistule.
+
+Discussion
+
+Après la première description d’une FAE par Astley Cooper en 1839, nous comptons aujourd’hui environ 800 descriptions de cas de FAD primaires et secondaires dans la littérature scientifique. Les études autopsiques suggèrent une incidence de 0,02–0,07% pour les fistules secondaires consécutives à des interventions abdominales sur l’aorte [4].
+
+Les FAE secondaires sont des complications rares après une reconstruction aortique au moyen d’implants prothétiques. Elles peuvent également survenir dans le cadre d’autres interventions vasculaires sur l’aorte abdominale [5]. D’autres causes de FAD secondaires sont encore plus rares, comme les fistules survenant suite à une radiothérapie ou dans le cadre d’une tumeur. Du fait de la proximité anatomique de l’aorte vis-à-vis du duodénum, le troisième segment (portion horizontale) du duodénum est la partie la plus souvent touchée, soit dans deux tiers des cas. La triade classique de la FAE, ­associant hémorragie gastro-intestinale supérieure (64%), douleurs abdominales (32%) et masse abdominale pulsatile (25%), ne se retrouve que dans environ 11% de tous les cas. La première hémorragie gastro-­intestinale supérieure, appelée «herald bleeding», est en règle générale auto-limitante et elle survient chez environ 30% de l’ensemble des patients. La cause supposée du «herald bleeding» est le saignement d’une petite fistule avec formation de caillot. Une hémorragie massive survient après l’érosion ou la dislocation du caillot. Une hémorragie secondaire massive survient après 6 heures chez un tiers des patients [5, 6].
+
+En l’absence d’anomalies à la gastroscopie et à la co­loscopie et en cas de suspicion clinique d’hémorragie gastro-intestinale, une angiographie par TDM doit être envisagée. Pour le diagnostic de la FAD, elle présente une sensibilité de 50–94% et une spécificité de 85–100%. Les objectifs thérapeutiques en cas de FAE sont de contrôler l’hémorragie, de prévenir les infections et d’assurer une perfusion périphérique adéquate. Les ­options thérapeutiques disponibles pour la prise en charge de la FAD sont la reconstruction ouverte de l’aorte et du duodénum par laparotomie exploratrice, la résection de l’anévrisme et la prise en charge au moyen d’une greffe, l’implantation d’une endoprothèse vasculaire ou le pontage extra-anatomique[2].
+
+Avant le développement des techniques opératoires endovasculaires actuelles, le traitement standard de la FAE était la laparotomie exploratrice avec résection de la fistule. Cette procédure est associée à une morbidité accrue et à une mortalité de plus de 50% chez les patients polymorbides et dans le contexte du choc hypovolémique. La prise en charge de la fistule au moyen de techniques endovasculaires dans le cadre d’une intervention d’urgence présente moins de complications septiques et dans l’ensemble, de meilleurs taux de ­survie; ces techniques endovasculaires devraient dès lors être privilégiées par rapport aux opérations ouvertes [7].
+
+L’essentiel pour la pratique
+
+• Chez les patients avec une maladie anévrismale de l’aorte abdominale connue et des signes d’hémorragie gastro-intestinale, une fistule aorto-duodénale (FAD) doit être rapidement exclue.
+
+• L’angiographie par tomodensitométrie présente une sensibilité et une spécificité élevées pour le diagnostic de la FAD et doit être réalisée en premier lieu en cas de suspicion clinique d’une fistule aorto-entérique (FAE).
+
+• Suite au diagnostic d’une FAD, le traitement du patient doit poursuivre trois objectifs: contrôler l’hémorragie, prévenir les infections et assurer une perfusion périphérique adéquate.

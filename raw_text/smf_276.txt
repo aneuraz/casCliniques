@@ -1,0 +1,62 @@
+Fallbericht
+Anamnese
+
+Ein 61-jähriger Patient mit Status nach oberer medianer Laparotomie bei anamnestisch und auch im Rahmen der Hausarztrecherche nicht eruierbarem Grund sowie nicht dokumentierter Operation vor circa 36 Jahren und Status nach laparoskopischer Cholezystektomie bei akuter Cholezystitis vor sechs Jahren stellte sich mit einer dreistündigen Anamnese von postprandial akut einsetzenden Unterbauchkoliken mit rezidivierendem Erbrechen auf der Notfallstation vor.
+
+Klinischer Befund und Diagnostik
+
+Klinisch wies der kardiopulmonal stabile Patient ein meteoristisch geblähtes Abdomen mit ubiquitär spärlichen Darmgeräuschen und diffuser Druckdolenz ohne Loslassschmerz im gesamten Unterbauch auf. Die laborchemische Diagnostik zeigte erhöhte Leukozytenwerte von 13,7 G/l (Referenzwert 4,4 – 11,3 G/l) bei einem normwertigen CRP von 2 mg/l (Referenzwert 0–5 mg/l). Die restlichen laborchemischen Parameter waren unauffällig. Die konventionell radiologische Dia­gnostik (stehende Abdomenübersicht, Abb. 1) zeigte mehrere stehende Dünndarmspiegel ohne Nachweis freier Luft.
+
+Abbildung 1: Röntgen Abdomenübersicht, stehend:
+Dünndarmspiegel (Pfeile).
+
+Bei Ileus-Verdacht wurde eine Magensonde eingelegt, welche reichlich förderte. Die computertomographische Untersuchung (Abb. 2) bot das Bild eines mechanischen Dünndarmileus mit Kalibersprung im Bereich des distalen Dünndarmdrittels. Des Weiteren zeigte sich neben anamnestisch bekannter Cholezyst­ektomie eine Situation nach Billroth-II-Resektion. Proximal des Kalibersprunges zeigte sich ein stuhlähnlicher Dünndarminhalt.
+
+Abbildung 2: Computertomographie Abdomen coronar: dilatierte Dünndarmschlingen (gestrichelter Pfeil), Dünndarmschlinge mit stuhlähnlichem Inhalt (durchgezogener Pfeil).
+
+Therapie und Verlauf
+
+Bei computertomographischem Äquivalent eines distalen Dünndarmileus wurde die Indikation zur dia­gnostischen Laparoskopie gestellt. Intraoperativ kam ein ca. 100 cm vor der Ileozökalklappe dilatiertes Ileum mit abruptem Übergang in einen poststenotischen kollabierten Dünndarm ohne Nachweis einer extraluminalen Obstruktion zur Darstellung (Abb. 3).
+
+Abbildung 3: Laparoskopie: dilatiertes Ileum mit Verdacht
+auf einen intraluminalen Tumor (gestrichelter Pfeil), post­stenotisch kollabierter Dünndarm (durchgezogener Pfeil).
+
+Palpatorisch zeigte sich auf Höhe des Dünndarmkalibersprunges ein hochgradiger Verdacht auf einen in­traluminalen Tumor, welcher eine stuhlartige Konsistenz aufwies. Die Dünndarmwand zeigte keine Ulzerationen, Einziehungen oder andere Veränderungen, die an einen malignen Prozess hätten denken lassen. Das Dünndarmmesenterium sowie der restliche intraabdominale Situs waren unauffällig. Zur besseren Verifizierung des unklaren Dünndarmbefundes entschied man sich für eine Konversion auf eine obere mediane Laparotomie. Im Rahmen der offenen Abdomenrevision ergab sich weiterhin kein Anhalt für das Vorliegen eines malignen Prozesses. Der unklare Dünndarmbefund wies eine weiche, lehmartige Konsistenz sowie eine intraluminale Verschieblichkeit auf digitalen Druck auf. Da sich weder im Rahmen der computertomographischen präoperativen Bilanzierung noch bei der laparoskopischen oder der offenen Abdomenrevision der Verdacht auf das Vorliegen eines malignen Prozesses ergab, entschied man sich in dieser Situation für eine Eröffnung des Dünndarmes. Mittels Längsenterotomie konnte ein Konvolut aus Orangenfasern und Paprikaschalen (Abb. 4) evakuiert werden.
+
+Abbildung 4: A) Laparotomie: Enterotomie mit Phytobezoar (Pfeil).B) Evakuierter Phytobezoar: Konvolut aus Orangenfasern und Paprikaschalen.
+
+Es folgte ein direkter querer Enterotomieverschluss analog einer Heineke-Mikulicz-Plastik. Der postoperative Verlauf gestaltete sich komplikationslos, sodass der Patient nach raschem Kostaufbau am fünften postoperativen Tag nach Hause entlassen wurde.
+
+Diskussion
+
+Der Dünndarmileus ist ein häufiges chirurgisches Krankheitsbild, wobei mechanische Obstruktionen, insbesondere bedingt durch postoperative Briden, Adhäsionen oder Herniationen, die häufigsten Ursachen darstellen [1].
+
+Ein Bezoar, eine Verklumpung von verschluckten unverdaulichen Materialen, ist mit 0,4 bis 4% aller mechanischen Verschlüsse eine seltene Ursache eines Dünndarmileus [2]. Bezoare können in allen Teilen des Gastrointestinaltraktes auftreten, werden aber am häufigsten im Magen gefunden [3].
+
+Entsprechend den verschluckten Materialen werden vier Haupttypen von Bezoaren unterschieden: Phytobezoare (Pflanzenfasern), Trichobezoare (Haare), Laktobezoare (eingedickte Milch) und sonstige Bezoare (Medikamente, Papier, Sand, Plastik, …) [3, 4]. Phytobezoare stellen den häufigsten Bezoartyp dar und sind meist bei Erwachsenen nachzuweisen; Trichobezoare (auch Rapunzelsyndrom genannt) finden sich vorwiegend bei Kindern und Jugendlichen und Laktobezoare fast ausschliesslich bei Säuglingen [3, 5].
+
+Die klinische Präsentation von Patienten mit einem Bezoar hängt vom Bezoartyp ab. Säuglinge mit einem Laktobezoar weisen Symptome einer Nahrungsunverträglichkeit, ein geblähtes Abdomen sowie Erbrechen auf. Trichobezoare entwickeln sich über Jahre, sodass die Patienten teilweise nur subtile Symptome wie Nausea oder ein vorzeitiges Sättigungsgefühl aufweisen. Abhängig von der Grösse des Trichobezoars können die Patienten im Verlauf epigastrische Schmerzen, Symptome einer Magenausgangsstenose oder eines Ileus mit rezidivierendem Erbrechen, Ulzerationen, gastrointestinale Blutungen und Perforationen entwickeln. Die Entwicklung eines symptomatischen Phytobezoars ist deutlich schneller als die eines Trichobezoars bei ähnlicher Symptomatik [6].
+
+Zu den Risikofaktoren für die Entwicklung eines Bezoars gehören die zystische Fibrose, die diabetische Gas­troparese und andere systemische Erkrankungen, die zu einer verzögerten Magen-Darm-Passage führen. Ebenfalls wird in der Literatur eine partielle Gastrektomie mit oder ohne Vagotomie (bei unserem Patienten zeigte sich ein Status nach Billroth-II-Operation) als potentieller Risikofaktor beschrieben. Weitere prädisponierende Faktoren sind die übermässige Faserzufuhr, das ungenügende Kauen der Mahlzeiten sowie psychiatrische Erkrankungen [6].
+
+Zur Diagnose eines symptomatischen Bezoars gehört neben einer ausführlichen Anamnese und der klinischen Untersuchung die bildgebende Diagnostik. In der Literatur werden neben der konventionell-radiologischen Diagnostik (Abdomenübersichtsaufnahme), der Barium-Breischluck, der Abdomen-Ultraschall und die Computertomographie erwähnt [7].
+
+Bei symptomatischen, abdominal voroperierten Pa­tienten mit Ileussymptomatik (wie in unserem Fall), hat die Abdomen-Computertomographie den grössten diagnostischen Wert, um Aussagen über die Verschlusshöhe, mögliche Ursachen und zusätzliche in­traabdominelle Pathologien zu machen sowie entsprechende Rückschlüsse auf ein therapeutisches Vorgehen zu treffen. Des Weiteren können synchrone Bezoare, die in bis zu einem Drittel der Fälle auftreten, detektiert werden [7].
+
+Die Therapieoptionen von Bezoaren lassen sich in drei Strategien einteilen: konservativ mittels Lavage oder Auflösung, endoskopische Fragmentierung oder operative Entfernung [6].
+
+Zur konservativen Auflösung und Lavage werden in der Literatur die orale oder endoskopische Verabreichung von Acetylcystein, Papain, Metoclopramid, Cellulase und Coca-Cola erwähnt. [3] Zur endoskopischen Fragmentierung des Bezoars werden unterschiedliche Verfahren von der Schlingenabtragung über die Scherenzerkleinerung bis hin zum Lasereinsatz beschrieben [6, 8].
+
+Bei den operativen Verfahren ist gerade bei offen vor­operierten Patienten mit Ileussymptomatik der Goldstandard die offene Entfernung des Bezoars via Enterotomie oder Segmententfernung entsprechend der intraoperativen Situation. In der jüngeren Literatur wird die Möglichkeit der minimalinvasiven Therapie mittels Laparoskopie diskutiert [3].
+
+Die unterschiedlichen Therapieoptionen können isoliert oder in Kombination entsprechend dem zugrunde liegendem Bezoartypen und der aktuellen Klinik des Patienten Anwendung finden [6].
+
+Nach erfolgreicher Bezoarentfernung ist die Therapie des zugrunde liegenden Pathomechanismus zur Verhinderung von Rezidiven wichtig. Einen besonderen Stellwert nimmt hierbei die Psychotherapie, insbesondere beim Rapunzelsyndrom ein [4].
+
+Das Wichtigste für die Praxis
+
+• Bezoare stellen mit 0,4 bis 4% aller mechanischen Verschlüsse eine seltene Ursache eines Darmverschlusses dar, sollten aber bei abdominell voroperierten Patienten mit Ileussymptomatik und gegebenenfalls entsprechender psychiatrischer Anamnese differenzialdiagnostisch neben dem Briden-/Adhäsionsileus in Betracht gezogen werden.
+
+• Es werden vier Haupttypen von Bezoaren unterschieden: Phytobezoare, Trichobezoare, Laktobezoare und sonstige Bezoare.
+
+• Die therapeutischen Optionen von konservativer Auflösung, endoskopischer Fragmentierung und operativer Entfernung können isoliert oder in Kombination entsprechend der Klinik und des Bezoartypen zur Anwendung kommen.

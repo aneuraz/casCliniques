@@ -1,0 +1,72 @@
+Contexte
+
+Dans la pratique quotidienne clinique, les mises au point diagnostiques des fièvres d’origine indéterminée restent un défi qui s’apparente souvent à la recherche d’une ­aiguille dans une botte de foin. Dans ce cadre, une anamnèse consciencieuse et répétée est plus efficace que l’épuisement aveugle de toutes les possibilités diagnostiques. La prescription forfaitaire de sérologies, notamment, conduit souvent à des examens de suivi inutiles, et apporte plus de confusion que de clarté. Dans notre cas également, l’anamnèse était la clé du diagnostic.
+
+Présentation du cas
+Anamnèse
+
+Un patient âgé de 43 ans nous a été adressé par son médecin de famille en raison d’une fièvre persistant depuis trois semaines, de frissons et d’accès de sueurs. Le patient a rapporté une fatigue, des douleurs dans les membres et une perte de poids (5 kg) et ne présentait aucuns antécédents particuliers. Il était fumeur (50 paquets-année), éleveur (moutons/chèvres) et son dernier séjour en Croatie remontait à six mois. Le traitement par amoxiciline/acide clavulanique d’une semaine prescrit par le médecin de famille a apporté une amélioration, même si elle ne fût que transitoire.
+
+Statut et diagnostic
+
+A l’admission, le patient était afébrile et tachycarde, avec des signes inflammatoires systémiques accrus (leucocytes à 11,8 G/l, CRP à 125 mg/l) ainsi que des taux de transaminases et des paramètres de cholestase élevés (AST à 79 U/l, ALT à 132 U/l, GGT à 177 U/l, à ALP 139 U/l) parallèles à un taux de bilirubine dans la norme. La tomodensitométrie thoracique et abdominale était sans anomalies, à l’exception de légers épaississements des parois bronchiques. Pour résumer, nous étions en présence d’une fièvre d’origine indéterminée accompagnée de symptômes B, d’une réaction inflammatoire systémique ainsi que de valeurs hépatiques accrues. Sur le plan du diagnostic différentiel, nous avons d’abord émis l’hypothèse d’une endocardite. Suite à des cultures sanguines négatives répétées et à une échocardiographie transthoracique normale, cette hypothèse sembla toutefois peu plausible. Nous avons également pensé à une hépatite en raison des valeurs hépatiques accrues. Les sérologies réalisées à cet égard (hépatite A, B, C et E) étaient négatives, tout comme le test de dépistage du virus de l’immunodéficience humaine (VIH).
+
+Etant donné que notre patient consommait souvent du fromage au lait cru (également à l’étranger) et était en contact avec des moutons et des chèvres, une infection par Coxiella (C.) burnetii ou une brucellose ont été envisagées en tant que diagnostics différentiels. La sérologie a montré des titres accrus d’anticorps anti-C. burnetii et d’anticorps anti-Brucella. La sérologie de C. burnetii, avec des anticorps de phase II plus élevés que les anticorps de phase I et des IgG de phase II de 1:1024, était compatible avec une infection aiguë. La réaction en chaîne par polymérase (PCR) de C. burnetii réalisée à partir d’un échantillon de sang était négative. Les immunoglobulines de type G (IgG) et les IgA anti-Brucella se sont normalisés après deux semaines alors que les anticorps IgM étaient en nette régression. En raison de la régression rapide des anticorps anti-Brucella, nous avons interprété ces derniers en tant que réaction polyclonale non spécifique dans le premier échantillon car pendant la phase aiguë d’une infection par Coxiella, divers tests peuvent donner des résultats positifs [1, 2].
+
+Les tests réalisés par le service vétérinaire chez les moutons et les chèvres du patient à la recherche de C. burnetii et B. melitensis étaient négatifs. Toutefois, un cas de C. burnetii chez un bovin a été rapporté dans le lieu de résidence du patient pendant la même période, et nous avons donc considéré ce bovin comme une source potentiel d’infection. Un contact direct avec la source d’infection n’est pas nécessaire au développement d’une infection, comme la flambée de fièvre Q qui a touché le canton du Valais en 1983 l’a montré de façon frappante. A cette occasion, plus de 400 personnes résidant le long de la route alpine de transhumance ont développé cette affection après qu’environ 900 moutons aient emprunté cette route pour passer du haut des Alpes dans la plaine.
+
+Nous avons posé le diagnostic de fièvre Q.
+
+Traitement et évolution
+
+Sous traitement antibiotique par doxycycline pendant deux semaines et gentamicine initialement administrée pendant sept jours (en présence d’une suspicion de brucellose), la fièvre du patient est rapidement tombée. La pro­téine C réactive (CRP) et les leucocytes se sont normalisés. L’échocardiographie n’a pas montré de valvulopathie.
+
+Six mois après le début des symptômes, les anticorps IgG de phase I étaient nettement au-dessous de la valeur seuil (>1:800) fixée pour une fièvre Q chronique avec endocardite.
+
+Discussion
+
+La fièvre Q (de «query», dans le sens d’incertaine, non univoque) a été décrite pour la première fois en tant que fièvre de cause indéterminée chez des travailleurs d’un abattoir en Australie, et ce par Edward Holbrook Derrick en 1937. La fièvre Q est une zoonose associée à une faible létalité (>2%) qui est déclenchée par C. bur­netii et survient dans le monde entier. C. burnetii est une bactérie en bâtonnet gram-négative qui survient en deux phases distinctes, en fonction des lipopolysaccharides présents dans sa membrane externe. La phase I est la forme virulente, qui se développe seulement dans les organismes infectés. En cas d’infection aiguë par C. burnetii, les anticorps de phase II sont plus élevés que ceux de phase I, tandis qu’en cas d’infection chronique, les anticorps de phase I augmentent.
+
+L’obligation de déclaration a été réintroduite en Suisse en novembre 2012 après que 17 personnes aient développé une fièvre Q dans le canton de Vaud. Chaque ­année en Suisse, 40–60 cas de fièvre Q survenant chez des humains sont déclarés. La brucellose constitue un autre diagnostic différentiel central puisque le patient a séjourné en Croatie, et que de rares foyers de brucellose sont encore retrouvés dans ce pays. En Suisse, les troupeaux de moutons, chèvres et bovins sont considérés en tant qu’exempts de brucellose depuis 1998.
+
+Notamment les artiodactyles (bovins, moutons, chèvres) servent de réservoir pour C. burnetii. Les animaux ­infectés présentent souvent une affection subclinique et ils excrètent les agents pathogènes dans les excréments, les urines, le lait, le liquide amniotique et avec le placenta. Chez les moutons et les chèvres, l’infection par Coxiella conduit à des avortements spontanés. C. burnetii présente une haute résistance aux influences chimiques et physiques. Les bactéries peuvent en conséquence survivre pendant des années dans la poussière, le foin, la laine ainsi que d’autres matériaux. L’infection des humains a principalement lieu via l’inhalation d’aérosols contaminés qui peuvent être répandus à des kilomètres par le vent. Une transmission par contact direct avec l’animal est possible. La transmission par l’intermédiaire de la consommation d’aliments (lait cru, fromage au lait cru) ou d’humain à ­humain est plus rarement observée.
+
+La période d’incubation est de deux à trois semaines et dépend du nombre d’agents pathogènes présent au moment de l’infection. Plus de 50% de toutes les infections évoluent sans symptômes ou en présence de légers symptômes grippaux et guérissent spontanément après une à deux semaines [3]. Une fièvre Q aiguë commence la plupart du temps par une fièvre élevée persistant quelques jours à quelques semaines, des frissons, des douleurs musculaires et des céphalées. Une pneumonie interstitielle, une hépatite, des éruptions cutanées maculo-papuleuses, une myocardite, une péricardite, une méningite aseptique ou une encéphalite peuvent également survenir. Dans 1–5% de toutes les infections par C. burnetii, une fièvre Q chronique se développe, avec des agents pathogènes persistants au sein des organes [3]. La manifestation organique la plus fréquente est l’endocardite, qui peut encore survenir des années après l’infection primaire. Les personnes qui présentent des antécédents de valvulopathie, de maladies vasculaires telles que des anévrismes, des valves cardiaques artificielles ou des prothèses vasculaires ou articulaires, les patients immunodéprimés et les femmes enceintes ont un risque accru de fièvre Q chronique.
+
+Critères diagnostiques
+
+Dans le cas mentionné plus haut, il s’agit d’une fièvre Q aiguë selon les critères du CDC («Centers for Disease Control and Prevention»), qui comprennent des paramètres de laboratoire et des critères cliniques (tab. 1). En raison des symptômes non spécifiques, le diagnostic de fièvre Q est souvent posé seulement rétrospec­tivement (réponse au traitement et/ou évolution sérologique).
+
+Tableau 1: Critères du CDC pour le diagnostic de la fièvre Q aiguë et de la fièvre Q chronique (adapté d’après [2]: Gilbert DN. Sanford Guide to Antimicrobial Therapy 2019. 49th edition. Sperryville, VA, USA: Antimicrobial Therapy Inc.; 2019. Avec l’aimable autorisation du Centers for Disease Control and Prevention).
+ 	Fièvre Q aiguë	Fièvre Q chronique
+Clinique	Fièvre et un symptôme supplémentaire:–Raideur –Fortes céphalées rétrobulbaires–Hépatite aiguë/valeurs hépatiques accrues –Pneumonie	Au moins un critère clinique:–Endocardite définitive selon les critères de Duke modifiés [5]–Infection de gros vaisseaux ou de prothèses confirmée par imagerie–Ostéomyélite chronique –Hépatite –Pneumonie–Arthrite
+Valeurs de ­laboratoire	Critères de confirmation (au moins 1 point)– Mise en évidence de Coxiella burnetii à la PCR, par culture ou immunohistochimie dans le sérum, un échantillon de tissu ou une ponction– Augmentation de quatre fois du taux des IgG de phase II dans le test d’immunofluorescence indirecte (test IFA) dans les sérums consécutifsCritères auxiliaires (au moins 1 point)– IgG de phase II ≥1:128 à l’IFA– IgG ou IgM de phase II accrus au test ELISA, dot-ELISA ou test ­d’agglutination au latex	Critères de confirmation (au moins 1 point)– Mise en évidence de Coxiella burnetii à la PCR, par culture ou immunohistochimie dans le sérum, un échantillon de tissu ou le liquide de ponction– IgG de phase I ≥1:800 à l’IFACritères auxiliaires – IgG de phase I ≥1:128 et <1:800 à l’IFA
+Définitions de cas	Fièvre Q aiguë confirmée– Critères de laboratoire confirmés avec critères cliniques remplis ou lien épidémiologique avec un cas confirmé	Fièvre Q chronique confirmée– Critères de laboratoire confirmés avec critères cliniques remplis
+Fièvre Q aiguë probable– Critères de laboratoire auxiliaires avec critères cliniques remplis	Fièvre Q chronique probable– Critères de laboratoire auxiliaires avec critères cliniques remplis
+
+Différentes classifications qui présentent divers avantages et inconvénients existent pour la fièvre Q chronique. Les critères du CDC, facilement applicables dans le quotidien clinique, sont les plus utilisées [2], et c’est la raison pour laquelle ils ont également été utilisés ici (tab. 1). Les critères français d’après Edlin sont très exhaustifs, se basant sur des critères majeurs/mineurs, mais leur application est toutefois laborieuse [3]. Comme des critères cliniques stricts sont requis (par exemple endocardite à culture négative d’après les critères de Duke), ils s’accompagnent d’une plus faible sensi­bilité. Les critères hollandais sont plus complexes en termes d’application, mais plus sensibles quant aux critères cliniques car ils évaluent les facteurs prédisposants en tant que critères cliniques, aux dépens d’une spécificité plus faible [4].
+
+La mise en évidence de C. burnetii au moyen de la PCR est possible au cours des premières semaines suivant le début des symptômes. La PCR devient négative avec l’augmentation des anticorps et sous traitement antibiotique, comme c’était probablement le cas chez notre patient. Jusqu’à 10% des patients peuvent présenter des sérologies négatives au cours des trois premières semaines [3]. La mise en évidence de Coxiella au moyen d’une culture n’est pas proposée par tous les laboratoires, car la culture est souvent très longue et elle doit être réalisée dans des conditions de sécurité élevées («biosafty level» 3). Les recommandations de traitement pour la fièvre Q chronique et aiguë sont présentées dans le tableau 2.
+
+Tableau 2: Recommandations de traitement de la fièvre Q aiguë et chronique [d’après 2, 6, 7].
+Fièvre Q aiguë	1er choix:Doxycycline 100 mg 2×/j pendant 2 semaines
+Alternative:Co-trimoxazole, quinolones, macrolides
+Enfants ≥8 ansetenfants <8 ans avec un risque élevé1	Doxycycline 2,2 mg/kg KG 2×/j pendant 14 j (maximum 100 mg par dose)
+Enfants <8 ansavec fièvre Q non ­compliquée	Co-trimoxazole, 4–5 mg/kg KG (composante de la triméthoprime [TMP]) 2×/j pendant 14 jours (maximum de 160 mg de TMP par dose)
+Femmes enceintes	Co-trimoxazole 800/160 mg 2×/j jusqu’à la 32e semaine de grossesse
+En cas d’augmentation du titre de phase I durant le postpartum:Doxycycline + hydroxychloroquine pendant 12 mois
+Fièvre Q chronique	1er choix:Doxycycline 100 mg 2×/j + hydroxychloroquine 200 mg 3×/jpendant 18 mois et pendant au moins 24 mois chez les ­patients avec prothèse valvulaire cardiaque
+Alternative:Doxycycline + quinolones
+1 Enfants hospitalisés, enfants atteints de maladies graves, d’anomalies valvulaires cardiaques, ­enfants immunodéprimés ou fièvre Q non traitée ≥2 semaines.
+
+Afin de ne pas manquer une fièvre Q chronique, le dosage des anticorps de phase I réalisé trois et six mois après la fin du traitement de la fièvre Q aiguë est recommandé. En cas de risque élevé de maladie chronique, c’est-à-dire en cas de prothèses vasculaires ou orthopédiques ou d’immunodépression, il est conseillé de répéter le dosage également après 12, 18 et 24 mois.
+
+L’essentiel pour la pratique
+
+• La fièvre Q est une zoonose provoquée par Coxiella burnetii associée à une faible létalité.
+
+• Au total, 50% de toutes les infections présentent une évolution asympto­matique. Les évolutions symptomatiques sont semblables à une infection fébrile et peuvent survenir en s’accompagnant d’une pneumonie interstitielle ou d’une hépatite.
+
+• Une fièvre Q chronique survient chez 1–5% des malades aigus.
+
+• Le traitement de premier choix en cas de forme aiguë est la doxycycline pendant deux semaines, et en cas de forme chronique, un traitement par doxycycline et hydroxychloroquine pendant au moins 18 mois est nécessaire, et l’implication de spécialistes pertinente.

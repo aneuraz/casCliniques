@@ -1,0 +1,63 @@
+Fallbericht
+Anamnese
+
+Ein 43-jähriger Monteur stellte sich mit einer schmerzhaften Schwellung im Bereich des rechten Ellenbogens vor. Ein direktes Trauma war ihm nicht erinnerlich, ebenso wenig hatte er Fieber bemerkt. Der Patient war bis dato gesund, folglich keine Einnahme von Medikamenten, insbesondere keine Immunsuppressiva.
+
+Status
+
+Es präsentierte sich ein 43-jähriger Mann in gutem Allgemein- und Ernährungszustand. Das rechte Ellbogengelenk war frei beweglich, ohne äussere Verletzungszeichen. Über dem Olekranon war die Haut gerötet und es bestand eine weiche, aber druckdolente Schwellung ohne Zeichen einer Lymphadentitis oder Phlegmone (Abb. 1). Der Patient war fieberfrei. Klinisch imponierte somit eine rechtsseitige Bursitis olecrani.
+
+Abbildung 1: Akute Bursitis olecrani rechts.
+
+Diagnostik
+
+Die Punktion der Bursa olecrani rechts ergab eine klare Flüssigkeit von gelber Farbe. Die Ergebnisse der mikrobiologischen Untersuchung sind in Tabelle 1 aufgeführt. In der aeroben Kultur zeigte sich spärliches Wachstum von Nocardia-Spezies. Die PCR-Analyse identifizierte nach Sequenzierung und Datenbankvergleich eine Nocardia-farcinica- respektiveNocardia-kroppenstedtii-Infektion [1]. In der klar gelben Flüssigkeit ergab die Zytologie keine Malignitätszeichen und keinen Nachweis von Kristallen. Die Laboruntersuchungen zeigten lediglich eine leichte Erhöhung der Thrombozytenzahl (409 G/l, Norm: 140–160) und des Kreatinins (108 umol/l, Norm: 46–104). Die übrigen Laborwerte lagen im Normbereich (Blutbild, Differentialblutbild, Elektrolyte, Glukose, CRP, Gesamtbilirubin, Leberwerte und Quick/INR).
+
+Tabelle 1: Mikrobiologische Resultate.
+Klinische Angaben	Bursitis
+Material	Punktat
+Grampräparat	Epithelien (+)
+Leukozyten (+)
+Mikroskopisch kein Nachweis von Erregern
+Kultur aerob	Spärlich Nocardia species
+Kultur anaerob	Kein Wachstum von Anaero­biern
+Bakterielle Breitband PCR(e)	positiv
+Die Analyse der bakteriellen DNA ergab nach Sequenzierung und Datenbankvergleich Nocardia farcinica resp.Nocardia kroppenstedtii (100% Identität mit Referenzsequenzen).
+
+In den konventionellen Röntgenaufnahmen des rechten Ellbogengelenkes waren keine Hinweise auf degenerative, destruierende oder osteomyelitische Prozesse zu verzeichnen. Somit ergaben sich bei dem Patienten weder anamnestisch noch klinisch beziehungsweise im Rahmen der Laboruntersuchungen Befunde, die an eine chronische Grunderkrankung/Immundefizienz denken liessen.
+
+Pathogenetisch war am ehesten von einer perkutanen Inokulation der Nocardien mit konsekutiver Bursitis auszugehen.
+
+Verlauf
+
+Die antibiotische Therapie erfolgte zunächst mit Clindamycin 300 mg (3 × 1 Kapsel p.o.). Mit dem Nachweis von Nocardia wurde auf Cotrimoxazol forte (2 × 2 Ta­bletten p.o.) umgestellt. Diese Therapie wurde für zwei Wochen durchgeführt. Die Entzündungszeichen am rechten Ellbogen bildeten sich vollständig zurück; der Patient konnte zuletzt beschwerdefrei seiner Arbeit wieder nachgehen. Residuell zeigte sich nach einigen Wochen noch eine schmerzlose, leichtgradige Schwellung im Bereich des Olekranons, die den Patienten bei Alltagstätigkeiten nicht störte. Bis dato hat er sich nicht mehr vorgestellt, sodass von einer Restitutio ad integrum auszugehen ist.
+
+Diskussion
+
+Nocardien (nach Edmond Nocard, französischer Veterinärmediziner, 1850–1903) sind grampositive, obligat aerobe Bakterien, die zur Ordnung der Aktinomyzeten gehören und in den Kulturmedien verzweigte Geflechte bilden [2, 3] (Abb. 2). Die Gattung Nocardia enthält 89 verschiedene Spezies, wovon allerdings nur ein kleiner Teil als humanpathogen gilt [4, 5]. Nocardien kommen ubiquitär im Erdboden und in Feuchtbiotopen vor.
+
+Abbildung 2: Kolonien vonNocardia asteroides(© CDC/ Dr. David Berd, 1972 [Ausschnitt]).
+
+Klinisch unterscheiden wir eine primär-kutane Form (Eintritt des Erregers durch Inokulation wie im dargestellten Fall) von einer disseminierten Form (Eintritt der Nocardien zunächst in die Lunge durch Inhalation, von dort hämatogene Aussaat in viele Organe, z.B. das Gehirn, möglich.) Die disseminierte Form betrifft vorwiegend immundefiziente Patienten mit chronisch-konsumierenden Erkrankungen (z.B. AIDS, Einnahme von Immunsuppressiva) respektive kann beim Vorliegen von Komorbiditäten wie chronische Lungen- und Nierenerkrankungen, Diabetes mellitus und chronischem Alkoholkonsum auftreten. Nocardien fungieren beim systemischen Krankheitsverlauf als opportunistische Erreger [6–8].
+
+In unserem Fall liegt eine akute Bursitis olecrani rechts als Ausdruck einer primär-kutanen Form einer Nocardiose bei einem bis dato gesunden, immunkompetenten Patienten ohne Komorbiditäten vor. Mit dem spezifischen Nachweis des Erregers wurde mit einer gezielten Antibiose mit Cotrimoxazol forte (2 × 2 Tabletten p.o.) begonnen. Da sich die Entzündung rasch zurückbildete, wurde die Therapie auf zwei Wochen begrenzt. Bis dato konnte kein Rezidiv verzeichnet werden.
+
+Ein anderes Vorgehen wird bei Patienten mit Immundefizienz, klinischen Hinweisen auf eine Sepsis, Versagen einer empirischen Antibiose respektive ausbleibender Rückbildung eines lokalen Hautbefundes trotz Therapie empfohlen: Ein Erregernachweis (z.B. im Pleurapunktat, im Lungenabszesspunktat, in der Hautbiopsie) ist stets anzustreben, eine Infektion mit Nocardia differentialdiagnostisch mit einzubeziehen. Laboruntersuchungen wie Blutbild, Differentialblutbild, Glukose, Nieren- und Leberwerte, Elektrolyte, Elektrophorese HIV-Test und Tumormarker helfen, chronisch-konsumierende Erkrankungen/Komorbiditäten nachzuweisen beziehungsweise abzugrenzen.
+
+Im Falle des spezifischen Erregernachweises kann dann gezielt nach Antibiogramm behandelt, beim Vorliegen einer immunsuppresssiven Therapie dieselbe – falls vertretbar – reduziert werden. Die antibiotische Behandlung kann bei systemischen Nocardiosen mehrere Monate bis zu einem Jahr in Anspruch nehmen [6, 8]. Sollte ein grosser Hautbefund (z.B. Abszess) vorliegen oder die antibiotische Therapie versagt haben, ist die chirurgische Intervention anzustreben.
+
+Im Hinblick auf die Prognose wird festgestellt, dass die primär-kutane Form der Nocardiose eine Heilungsrate von über 95% hat. Immunkompetente Patienten mit isoliertem Lungenbefall weisen eine Letalität von ca. 10% auf, immundefiziente Patienten mit der disseminierten Verlaufsform unterliegen einer Sterblichkeit von über 50%. Diese Zahlen setzen eine adäquate antibiotische Therapie voraus [9]. Unbehandelt verläuft eine pulmonale/disseminierte Nocardiose meist tödlich.
+
+Das Wichtigste für die Praxis
+
+• Nocardien sind grampositive Stäbchen, obligat aerob, die verzweigte Geflechte bilden. Nicht alle Unterarten sind humanpathogen.
+
+• Klinisch unterscheidet m an eine primär-kutane (Erregereintritt durch Inokulation) von einer disseminierten Form (Erregereintritt pulmonal durch Inhalation, dann Beschränkung der Infektion auf die Lunge und/oder hämatogene Aussaat in multiple Organe wie Gehirn, Haut etc. möglich).
+
+• Die disseminierte Verlaufsform betrifft vorwiegend immundefiziente ­Patienten mit chronisch-konsumierenden Erkrankungen/Komorbiditäten. Der Erregernachweis ist hier stets anzustreben (Kultur/Antibiogramm), um eine effektive Therapie zu gewährleisten. Im Falle von Immunkompetenz empfiehlt sich der Erregernachweis bei Vorliegen eines Therapieversagens.
+
+• Im vorliegenden Fall wird eine Bursitis olecrani als Ausdruck einer primär-kutanten Verlaufsform einer Nocardiose beschrieben. Weltweit sind bisher nur drei Fälle dokumentiert. Der relativ kleine Befund rechtfertigt eine zeitlich limitierte Antibiose, zumal der Heilverlauf zügig vor sich ging.
+
+• Mittel der Wahl ist Cotrimoxazol (Trimethoprim/Sulfamethoxazol). Bei systemischen Nocardiosen kann eine Therapiedauer von zirka 6–12 Monaten erforderlich sein.
+
+• Bei grossem Lokalbefund (zum Beispiel Abszess) oder Versagen der ­Antibiose ist die chirurgische Intervention angezeigt.

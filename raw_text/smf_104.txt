@@ -1,0 +1,83 @@
+Description du cas
+
+Un patient de 67 ans se présente au cabinet pour un ­bilan de santé. Il est connu pour une hypertension ­artérielle contrôlée par un inhibiteur de l’enzyme de conversion à faible dose et boit en moyenne 4 verres d’alcool par jour. A l’anamnèse, il rapporte des vomissements alimentaires et des diarrhées deux semaines ­auparavant, suite à un contact avec son neveu malade. Ces symptômes se sont résolus rapidement. A l’examen clinique, le patient est en surpoids («body mass index» 28,0 kg/m2) et a un abdomen pléthorique. Au laboratoire, la formule sanguine simple présente une thrombocytopénie à 64 G/l (tab. 1). L’hémoglobine et le compte leucocytaire sont normaux, tout comme la fonction rénale et hépatique.
+
+Tableau 1: Dernières valeurs de laboratoire.
+Thrombocytes	G/l (norme: 150–400)
+04.2018	64
+02.2017	93
+05.2016	81
+06.2015	110
+
+Réalisé en raison de la consommation d’alcool à risque, un ultrason abdominal permet d’exclure un hyper­splénisme ou un dysmorphisme hépatique.
+
+Question: Parmi les examens suivants, lequel est le plus approprié à ce stade:
+
+
+a) Examen microscopique du frottis sanguin
+
+b) Ponction/biopsie de moelle osseuse
+
+c) Détection des anticorps anti-PF4/héparine
+
+d) Recherche d’une mutation du gène JAK2
+
+Réponse:
+
+
+La réponse correct est a.
+
+Discussion
+
+Les étiologies de la thrombocytopénie isolée sont variées. Les cas les plus fréquents en pratique ambulatoire sont la thrombopénie immune primaire, les thrombocytopénies induites par les médicaments et les thrombocytopénies para-infectieuses [1, 2].
+
+La thrombocytopénie se définit par un compte plaquettaire inférieur à 150 G/l. Elle est considérée comme très légère entre 150–100 G/l, légère entre 100–50 G/l, modérée entre 50–20 G/l et sévère en dessous de 20 G/l [1, 2, 4]. Ce compte fait partie de l’hémogramme automatisé, examen de faible coût (9 points selon la liste des analyses de l’Office fédéral de la santé publique [OFSP]; 1 point valant 1 CHF). Il est habituellement réalisé par mesure de la variation d’impédance: l’automate fait passer un courant électrique entre deux électrodes [3]. La conductivité électrique est diminuée par chaque élément figuré du sang proportionnellement à sa taille. Celles dont le volume se situe entre 2 et 30 fl sont considérées comme des plaquettes. Une autre méthode consiste à utiliser la cytométrie de flux où le prélèvement est soumis à une source lumineuse, généralement un laser [3]. Les éléments figurés du sang diffusent et émettent cette lumière selon leur taille et leur granularité. Il est possible d’en faire le compte selon des paramètres individuels établis pour les différents éléments figurés (fig. 1).
+
+Figure 1: Décompte des éléments figurés du sang par (A ) impédance et par (B ) cytométrie de flux (laser optique). Modifié par rapport à la source originale:eClinPath.com/ Cornell University (http://eclinpath.com/hematology/tests/platelet-count/platelet-analysis-2/, 10.11.2019).
+
+Pour établir la formule sanguine simple, les laboratoires utilisent un prélèvement de sang dans un tube dont les parois internes sont recouvertes par pulvérisation à sec d’éthylène diamine tétra acétique (EDTA). L’EDTA, par son fort pouvoir chélateur notamment du calcium, a un effet anticoagulant in vitro et préserve ainsi la morphologie des globules rouges [4]. De ce fait, celui-ci est recommandé pour les analyses hématologiques, pour certaines analyses virologiques tels que le cytomégalovirus ou la malaria, par exemple, ou endocrinienne comme l’adrénocorticotrophine (ACTH).
+
+L’EDTA peut cependant provoquer une pseudo-thrombocytopénie représentant jusqu’à 2% des thrombocytopénies isolées en milieu hospitalier et 15 à 30% en ambulatoire [1, 2]. Deux mécanismes sont possibles:
+
+Les plaquettes peuvent s’agglutiner in vitro en présence de l’anticoagulant [3]. Cette agglutination s’explique par la présence dans le sérum du patient d’auto-anticorps IgG se fixant sur les glycoprotéines GPIIb/IIIa des plaquettes [3, 6]. Les sites d’attaches des auto-anticorps ne sont normalement pas accessibles in vivo. L’EDTA, par la chélation d’ions calcium, peut révéler ces sites et permettre la liaison in vitro. Ces amas plaquettaires ­atteignent la taille des leucocytes. Ils ne sont plus comptés comme plaquettes et le compte leucocytaire est surévalué par l’automate. Cette agglutination de plaquettes in vitro n’a pu être reliée à aucune pathologie. D’autres anticoagulants utilisés pour les prélèvements (citrate de sodium, oxalate de sodium, sulfate de magnésium) sont également concernés mais dans une moindre mesure.
+
+La satellisation des plaquettes constitue une seconde cause de thrombocytopénie artéfactuelle [3]. Dans ce cas, des anticorps se lient avec les plaquettes en présence d’EDTA, puis s’accrochent aux récepteurs pour la portion Fc des immunoglobulines, par exemple, des neutrophiles. Ces amas forment des sortes de couronnes qui ne seront pas comptabilisés correctement par l’automate (fig. 2).
+
+Figure 2: Frottis de sang périphérique présentant les deux mécanismes principaux de pseudo-thrombocytopénie:A ) satellisation plaquettaire etB ) aggrégat plaquettaire. Grossissement 1000×. Coloration de May-Grünwald-Giemsa. © Laboratoire central d’hématologie, CHUV.
+
+Les automates deviennent de plus en plus performants pour détecter des pseudo-thrombocytopénies mais il faut toujours, devant un compte plaquettaire abaissé, compléter l’analyse par l’examen microscopique d’un frottis de sang périphérique. Il permet de visualiser des amas plaquettaires, des satellisations, des macro-­thrombocytes, des anisocytoses plaquettaires, des plaquettes «grises» (agranulaires) ou encore des fragments nucléaires mégacaryocytaires. L’examen du frottis permet aussi d’évaluer la morphologie des globules rouges et des leucocytes [1]. Dans le cas de la découverte d’une pseudo-thrombocytopénie, il est tout de même nécessaire d’obtenir un compte correct [1, 2, 5]. Pour cela, on réalise une nouvelle ponction veineuse avec un autre anticoagulant, comme le citrate de sodium, le sulfate de magnésium ou l’héparine.
+
+Concernant la ponction de biopsie de moelle [1, 2], elle nous renseigne sur la productivité quantitative et qualitative des différentes lignées cellulaires. Elle est indiquée lors d’une suspicion de dysfonctions médullaires tels que les leucémies, lymphomes, néoplasies myéloprolifératives, syndromes myélodysplasiques ou aplasies médullaires. Dans le cas des thrombocytopénies isolées sans autre symptôme ou signe de gravité, elle n’est généralement pas recommandée en première ­intention.
+
+Le dosage des anticorps anti-PF4/héparine et le test fonctionnel permettent de diagnostiquer une thrombocytopénie induite par l’héparine (HIT) [1, 2]. Suite à une première exposition à l’héparine, des anticorps IgG peuvent se former. Ils sont dirigés contre le complexe qui se forme entre l’héparine et le facteur plaquettaire 4 (PF4). Malgré le développement d’une thrombocytopénie dans le contexte d’une anticoagulation, le HIT n’augmente pas le risque hémorragique. Au contraire, il peut se traduire par des thromboses, des nécroses cutanées et des infarcissements d’organes. En l’absence d’exposition à l’héparine et d’un score 4T (thrombocytopénie, «timing», thrombose, autre cause de thrombocytopénie) intermédiaire ou élevé, cette analyse n’est pas indiquée.
+
+Enfin, les mutations du gène de la tyrosine kinase ­Janus kinase 2 (JAK2) sont un critère diagnostique des néoplasies myéloprolifératives tels que la maladie de Vaquez (polycythémie vraie), la thrombocytémie essentielle et la myélofibrose primitive. Elle est recherchée et quantifiée en présence d’une thrombocytose et non d’une thrombocytopénie.
+
+Après l’exclusion d’un artefact de laboratoire, l’évaluation d’une thrombocytopénie isolée asymptomatique devrait se poursuivre avec une anamnèse médicamenteuse, toxique et alimentaire, (tab. 2) la recherche d’une atteinte hépatique et des sérologies pour le virus de l’immunodéficience humaine, le virus de l’hépatite C, le cytomégalovirus et le virus d’Epstein-Barr, avant de considérer une autre anomalie du sang telle que la thrombopénie immune primaire (qui reste un diagnostic par exclusion) [1, 2].
+
+Tableau 2: Principales causes médicamenteuses, toxiques et alimentaires de thrombocytopénie isolée.
+Causes médicamenteuses:
+Antibiotiques (bêta-lactames, sulfamidés, vancomycine, co-trimoxazole)
+Héparines et héparines fractionnées
+Antiépileptiques (carbamazépine, phénytoïne, valproate)
+Antirhumatismaux (sels d’or)
+Antiplaquettaires (abciximab, tirofiban)
+Inhibiteurs de l’enzyme de conversion (lisinopril)
+Bêta-bloquants (aténolol, métoprolol)
+Amiodarone
+Chimiothérapie (carboplatin, cisplatine, gemcitabine)
+Causes alimentaires:
+Boissons contenant de la quinine (eau tonique, gin tonic)
+Carences alimentaires (zinc, cuivre, vitamine B12, folates)
+Causes toxiques:
+Alcool
+
+Pour revenir à notre cas clinique, on observe sur le frottis de sang périphérique des amas plaquettaires ainsi que des satellisations plaquettaires autour d’un neutrophile (fig. 2). Un nouvel hémogramme est effectué sur un tube de prélèvement dont la surface est pulvérisée de sulfate de magnésium (par ex. S-monovette® ThromboExact). Le décompte plaquettaire correct se révèle dans la norme, à 154 G/l.
+
+Pour conclure, la pseudo-thrombocytopénie est un ­artéfact de laboratoire et n’est associé à aucune pathologie in vivo. Sa reconnaissance permet d’éviter des examens supplémentaires coûteux et douloureux [1, 2, 4–6].
+
+Messages principaux
+
+• La pseudo-thrombocytopénie est un artéfact de laboratoire fréquent qui doit être suspecté en cas de thrombocytopénie isolée et confirmée par l’examen du frottis sanguin.
+
+• Afin d’obtenir un décompte correct, il est nécessaire d’effectuer un nouveau prélèvement de sang dans un tube recouvert par un autre anticoagulant (p. ex. sulfate de magnésium ou héparine).

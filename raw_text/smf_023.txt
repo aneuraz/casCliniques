@@ -1,0 +1,127 @@
+Une patiente de 60 ans est admise dans un centre de neuroréadaptation après avoir été victime d’une récidive d’accident vasculaire cérébral (AVC) ischémique, survenu sous anticoagulation thérapeutique par ­rivaroxaban. L’origine du premier événement cérébro-vasculaire 2 mois auparavant a été en effet attribuée à une fibrillation atrial (FA) paroxystique diagnostiquée sur un enregistrement Holter (CHA2DS2-VASc: 5 points). Par défaut, une origine cardio-embolique est à nouveau privilégiée et l’anticoagulation est maintenue.
+
+Question 1: A propos des étiologies possibles d’AVC survenant sous anticoagulation, laquelle des propositions suivantes et incorrecte?
+
+
+a) Non adhérence thérapeutique
+
+b) Réglage difficile des antivitamines K en relation avec la prise alimentaire ou d’interactions médicamenteuses notamment
+
+c) Néoplasie sous-jacente
+
+d) Emboles septiques sur endocardite
+
+e) Thrombophilie par déficiences des facteurs de la coagulation VIII et IX
+
+La non adhérence thérapeutique doit être évoquée dans ce cas, comme une variation du taux sérique d’anti­vitamines K (AVK). Un syndrome de Trousseau sur une néoplasie est également à envisager ainsi que des emboles septiques partant de végétations cardiaques. Un déficit en facteurs VIII et IX (hémophilie) se traduirait par une diathèse hémorragique.
+
+Le séjour en réadaptation est marqué par la survenue de modifications ECG accompagnées d’une élévation de la troponine ultrasensible. La patiente est transférée dans un centre d’urgence et traitée pour une suspicion de syndrome coronarien.
+
+La patiente ne présente ni douleur thoracique ni dyspnée. Elle est légèrement hypertendue, normocarde et afébrile avec une saturation à 92% à l’air ambiant. A l’auscultation, on note un souffle diastolique au foyer aortique. Il n’y a pas de signes d’insuffisance cardiaque congestive. Un ECG montre une inversion des ondes T en V3–V6, II, III et aVF (fig. 1).
+
+Figure 1: ECG de la patiente effectuée à l’admission aux urgences.
+
+L’index cardio-thoracique est élevé sur la radiographie thoracique, sans signes de décompensation cardiaque.
+
+Une échographie transthoracique (ETT) montre alors une insuffisance aortique sévère, une dilatation et une hypertrophie ventriculaires gauches avec une hypo­kinésie apicale. La fraction d’éjection est préservée. Une échocardiographie effectuée deux mois auparavant ne montrait qu’une sclérose aortique discrète avec une minime régurgitation centrale.
+
+Question 2: En présence d’une valvulopathie nouvelle, quelle mesure paraît la moins utile?
+
+
+a) Une échocardiographie transoesophagienne
+
+b) Un angio-CT thoracique protocole aorte
+
+c) Une coronarographie
+
+d) 3 paires d’hémocultures
+
+e) Un fond d’oeil
+
+Devant ce tableau, et même en l’absence d’état fébrile, une endocardite infectieuse (EI) subaiguë doit être recherchée et 3 paires d’hémocultures prélevées à intervalles de 30 minutes ou moins, indépendamment des épisodes fébriles, au vu du caractère soutenu de la bactériémie. Les critères échocardiographiques majeurs d’EI sont: des végétations, un abcès ou une déhiscence nouvelle d’une prothèse valvulaire. Une échocardiographie transoesophagienne (ETO) est recommandée devant toute suspicion d’EI après une ETT négative ou non diagnostique. Des hémorragies rétiniennes ou taches de Roth, visibles au fond d’œil, font partie des manifestations vasculaires périphériques courantes.
+
+Une dissection aortique doit également être évoquée devant un souffle aortique nouveau, pouvant expliquer le mouvement des troponines. Dans ce contexte, l’augmentation des marqueurs cardiaques peut être également liée à l’insuffisance aortique, à l’insuffisance cardiaque consécutive ou à une embolie coronarienne d’origine infectieuse. On renonce donc à une coronarographie.
+
+Une ETO est rapidement effectuée (fig. 2A et 2B) et révèle une valve aortique aux feuillets épaissis avec des éléments mobiles suspects de végétations. Il n’y a pas de lésion sur l’aorte ascendante, permettant ainsi d’exclure une dissection de type A.
+
+Figure 2: A et B) Echocardiographie transoesophagienne avec mise en évidence de la végétation aortique avec insuffisance sévère subséquente (examen effectué par Dr A. Delabays).
+
+Question 3: Au vu de la présence de végétations sur la valve aortique, une antibiothérapie doit être envisagée: quelle combinaison antibiotique devrait être proposée?
+
+
+a) Rifampicine, vancomycine et gentamicine
+
+b) Vancomycine ± gentamicine
+
+c) Daptomycine et rifampicine
+
+d) Co-amoxicilline et vancomycine
+
+e) Co-amoxicilline ± gentamicine
+
+Le traitement choisi dépend notamment du type de valve (native ou prothétique), d’une antibiothérapie préalable et du contexte infectiologique. Les germes principaux devant être couverts sont les staphylocoques, les streptocoques et les entérocoques.
+
+Notre patiente est mise sous amoxicilline/clavulanate et gentamicine, antibiothérapie empirique de premier choix en absence d’allergie à la pénicilline pour une EI possible (1 critère majeur et 1 mineur) sur valve native. Les aminoglycosides agissent en synergie avec les inhibiteurs de paroi à but bactéricide en particulier contre les streptocoques, mais les recommandations quant à leur nécessité divergent selon les hôpitaux et ils ne sont pas indiqués en cas de culture positive pour les staphylocoques non MRSA («meticillin resistant staphylococcus aureus»). La rifampicine est recommandée en plus pour une valve prothétique posée dans les 12 derniers mois, agissant particulièrement sur les organismes à croissance lente et le biofilm bactérien alors qu’une combinaison avec la vancomycine ou la daptomycine peut remplacer les beta-lactamines en cas d’allergie. Une couverture empirique MRSA ne se justifie pas d’emblée en Suisse au vu de la faible prévalence.
+
+Chez notre patiente, les hémocultures restent stériles à 48 heures.
+
+Question 4: Parmi les mesures suivantes, laquelle paraît ici la moins appropriée?
+
+
+a) Une sérologie pour Coxiella burnetti et PCR sanguine spécifique pour Tropheryma whipplei
+
+b) Un PET-CT au F-18 FDG
+
+c) Recherche de germes à gram négatif dits «fastidieux» HACEK avec prolongation des cultures à 5 jours
+
+d) Recherche d’IgG anticardiolipine et Ig anti-b2-glycoprotéine
+
+e) Un CT thoraco-abdominal
+
+L’EI est dite à hémocultures négatives après 5 jours d’incubation et représente jusqu’à 30% de toutes les EI, généralement due à l’administration préalable d’antibiotiques. Il peut s’agir également de levures ou de germes fastidieux nécessitant des milieux de culture spécifiques (groupe HACEK: groupe Haemophilus, Actinobacilus actinomycetemcomitans, Cardiobacterium hominis, Capnocytophaga spp, Eikenella corrodens et Kingella kingae et dentrificans), qui sont cependant actuellement effectués d’office en cas de suspicion d’endocardite. Les recommandations 2015 de l’ «European Society of Cardiology» (ESC) recommandent les sérologies Coxiella burnetti, Bartonella henselae, Bartonella quintana, Legionella pneumophila, Brucellaspp., Mycoplasmaspp., Aspergillusspp.. Différentes PCR spécifiques sanguines ou directement prélevées de la valve, comme Treponema whipplei, Bartonellaspp., Candida spp. et Aspergillusspp. sont également préconisées et permettent parfois par sensibilité accrue, un diagnostic malgré la négativité des cultures.
+
+Dans le diagnostic différentiel d’une EI, il faut évoquer un syndrome des anticorps antiphospholipides.
+
+Un CT thoraco-abdominal peut permettre d’identifier des emboles septiques à point de départ valvulaire.
+
+Le PET-CT au F-18 FDG permet parfois de diagnostiquer une endocardite, surtout sur une valve prothétique, lorsque l’ETT et l’ETO s’avèrent négatives. Ici, c’est l’agent étiologique qui fait défaut; cet examen n’est donc pas approprié.
+
+Question 5: Parmi les propositions suivantes, laquelle ne constitue pas une indication à une prise en charge chirurgicale en cas d’EI sur valve native?
+
+
+a) Choc cardiogène
+
+b) Régurgitation aortique sévère avec signes cliniques ou échocardiographiques d’insuffisance cardiaque
+
+c) Toute embolisation cérébrale
+
+d) Végétations >10 mm persistant avec complication embolique
+
+e) Endocardite fongique
+
+L’insuffisance cardiaque est la complication la plus fréquente de l’EI et l’indication la plus courante à une prise en charge chirurgicale. Un suivi clinique et échocardiographique peut être proposé en cas d’insuffisance valvulaire, même sévère, si elle est bien tolérée cliniquement. Les emboles cérébraux ne représentent pas en soi une indication chirurgicale. Si le traitement médicamenteux ne suffit pas à éradiquer le micro-organisme, comme en cas d’EI fongique, ou alors en cas d’évolution défavorable avec destruction valvulaire ou abcès mis en évidence par une nouvelle imagerie, une approche chirurgicale s’avère nécessaire.
+
+Chez notre patiente, toutes les analyses microbiologiques restent négatives, y compris les sérologies et les PCR. Il n’y a pas d’élément en faveur d’un syndrome des anticorps antiphospholipides.
+
+Si l’EI reste possible après une ETO pathologique mais avec des cultures négatives, selon les critères de Duke, la réalisation d’une imagerie à la recherche d’événements emboliques telle une IRM cérébrale, un CT scan thoraco-abdominal voire un PET-CT est recommandée, tout comme un CT cardiaque.
+
+Chez notre patiente, un CT scan thoraco-abdominal met en évidence des infarctus rénaux et spléniques, des lésions hépatiques suspectes de métastases et une masse au niveau du corps du pancréas (fig. 3).
+
+Figure 3: CT thoraco-abdominal (coupe axial) ayant mis en évidence, entre autres, la lésion pancréatique (flèche épaisse) et les métastases hépatiques (flèches minces). Les infarctus rénaux et spléniques ne sont pas visibles ici.
+
+Une biopsie hépatique confirme un diagnostic d’adénocarcinome pancréatique. Une anticoagulation thérapeutique par héparine de bas poids moléculaire est débutée, remplaçant l’anticoagulation précédente, afin de prévenir d’autres complications emboliques d’une endocardite marantique paranéoplasique.
+
+Les antibiotiques sont interrompus et une chimiothérapie palliative par paclitaxel et gemcitabine débutée rapidement. La patiente est transférée en soins palliatifs et décide durant le deuxième cycle de l’arrêt du traitement étant donné les nombreux effets secondaires et une progression sous chimiothérapie avec mise en évidence de nouveaux emboles systémiques à l’imagerie. Elle décédera quelques semaines plus tard. Il n’y a pas eu d’autopsie.
+
+Discussion
+
+L’endocardite marantique, ou thrombotique non bactérienne, est une pathologie rare (prévalence de 0,8–1,6% sur les séries autopsiées), sans différence entre les sexes, diagnostiquée principalement post-mortem. Elle survient dans des contextes cliniques favorables à des événements thrombotiques, par exemple en marge de maladies de systèmes comme le lupus érythémateux systémique, dans le syndrome des anticorps antiphospholipides ou accompagnant un sepsis ou des brûlures étendues. Parmi les néoplasies solides, l’adénocarcinome du pancréas est le plus fréquemment associé à un syndrome de Trousseau, et ainsi à des complications thrombotiques. La physiopathologique est mal connue, mais la présence d’une lésion endothéliale est nécessaire au processus. La valve mitrale est touchée dans plus de ⅔ des cas endommagée par des dépôts de plaquettes, de complexes immuns et de cellules mononucléées liés par de la fibrine. Les thrombis, de taille et morphologie variables, peu stables, embolisent facilement, au vu du peu de réponse inflammatoire sur les valves.
+
+La clinique est souvent discrète, avec l’existence d’un souffle chez la moitié des patients environ, un état ­fébrile modéré étant fréquemment le reflet de la maladie sous-jacente. Les manifestations cliniques découlent plus souvent des emboles périphériques que de l’atteinte valvulaire. Le diagnostic, chez les patients vivants, s’effectue en cas de présence de végétations, d’analyses microbiologiques négatives ainsi que d’un contexte prothrombotique. Il n’y a pas d’aspect caractéristique des emboles; on distingue cependant fréquemment simultanément des lésions de forme très variable.
+
+Le traitement consiste en une prise en charge spécifique de la maladie de base et en une anticoagulation par héparine de bas poids moléculaire ou non fractionnée. La place des nouveaux anticoagulants oraux directs n’est pas précisée dans cette indication. La chirurgie n’a de rôle que si l’affection causale est contrôlée en amont. Le pronostic est le plus souvent sombre, dépendant surtout de la pathologique sous-jacente.
+
+Réponses:
+
+
+Question 1: e. Question 2: c. Question 3: e. Question 4: b. Question 5: c.

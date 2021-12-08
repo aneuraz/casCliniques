@@ -1,0 +1,111 @@
+Présentation du cas
+
+Un patient de 90 ans nous a été amené en urgence en ambulance en raison d’une exacerbation aiguë de lombalgies chroniques. Il a signalé qu’il vivait encore de ­façon autonome chez lui avec son épouse. Les douleurs étaient présentes depuis une chute sur la région fessière il y a quelques mois, mais étaient soudainement devenues insupportables au cours des derniers jours, sans nouveau traumatisme, et le patient ne pouvait plus guère sortir de son lit. La miction et la défécation étaient normales, et il n’avait pas constaté de déficits neurologiques. Il a déclaré ne pas présenter de symptômes d’infection, notamment de fièvre. Par ailleurs, il n’y avait pas de perte de poids ni de sueurs nocturnes. Les antécédents médicaux connus incluaient une insuffisance rénale chronique de stade 5 KDIGO1 et une ­fibrillation auriculaire paroxystique.
+
+A l’admission, le patient était hémodynamiquement stable, avec une pression artérielle de 178/88 mm Hg, et afébrile. L’examen physique a révélé une douleur à la percussion au niveau du rachis lombaire (RL) et du sacrum. Des déficits neurologiques n’ont pas été mis en évidence. Les analyses de laboratoire ont montré une anémie macrocytaire normochrome avec une hémoglobine (Hb) de 89 g/l (volume globulaire moyen 101 fl, concentration corpusculaire moyenne en hémoglobine 324 g/l), des paramètres de rétention rénale nettement accrus (créatinine 355 μmol/l, urée 22,4 mmol/l) et des valeurs inflammatoires augmentées.
+
+Afin d’exclure une fracture, une radiographie conventionnelle du RL et du sacrum en incidences antéro-postérieure et latérale a initialement été réalisée en position allongée. Elle a objectivé un discret décalage dans la région du sacrum, qui n’était toutefois pas concluant au vu des manifestations cliniques du patient, qui présentait une spondylarthrose prononcée du RL et une ostéopénie. Nous avons donc réalisé une tomodensitométrie (TDM) du RL et du bassin. Là non plus, aucune fracture aiguë n’a été visualisée; en revanche, l’examen a révélé des altérations érosives des plaques terminales et des épaississements des tissus mous au niveau discal dans la région L5/S1, qui étaient suspects d’une spondylodiscite (fig. 1A). Une fracture transversale subaiguë non consolidée du sacrum a aussi été visualisée. Elle a le plus vraisemblablement été attribuée à la chute il y a quelques mois.
+
+Figure 1: A ) Coupe sagittale de la transition lombo-sacrée en TDM native montrant des altérations érosives des plaques terminales (flèche) au niveau des vertèbres L5/S1;B ) Séquence IRM sagittale, pondérée en T1, saturée en graisse et à contraste renforcé, montrant une prise de contraste autour de l’espace du disque intervertébral L5/S1 et des érosions des plaques terminales (flèche).
+
+Afin de clarifier les altérations inflammatoires et face à une suspicion de spondylodiscite, nous avons décidé de réaliser une imagerie par résonance magnétique (IRM) du RL. L’examen a montré une forte prise de contraste dans la région de l’espace du disque intervertébral L5/S1, avec une collection liquidienne paravertébrale. Sur le plan radiologique, ce résultat a également été jugé comme étant hautement suspect d’une spondylodiscite (fig. 1B), mais sans signes d’abcès.
+
+Question 1: Qu’est-ce qui ne fait pas partie de la prise en charge initiale correcte d’un patient cliniquement stable en cas de suspicion de spondylodiscite?
+
+
+a) Anamnèse approfondie relative aux facteurs de risque
+
+b) Prélèvement de 2 x 2 hémocultures
+
+c) Initiation d’une antibiothérapie par amoxicilline/acide ­clavulanique i.v.
+
+d) IRM rachidienne
+
+e) Planification d’une biopsie guidée par TDM
+
+Entre-temps, le diagnostic infectiologique a été complété au moyen de plusieurs hémocultures et d’une culture urinaire. Dans l’hypothèse d’une dissémination hématogène, l’anamnèse a été complétée quant aux constellations de risque potentielles: aucune procédure médicale interventionnelle ou chirurgicale n’a été réalisée ces dernières années, le patient n’était porteur d’aucune prothèse, il n’y avait pas de signes d’une source infectieuse intrabuccale, et il n’y avait pas d’antécédents d’infections urinaires.
+
+Etant donné que le patient était en permanence afébrile et hémodynamiquement stable, nous avons d’abord renoncé à initier une antibiothérapie et avons planifié rapidement une biopsie avec culture des altérations inflammatoires dans la région lombaire [1]. La culture (bactériologie générale) de l’échantillon tissulaire prélevé par ponction guidée par TDM n’a pas révélé d’agent pathogène.
+
+Entre-temps, l’état clinique du patient s’est détérioré davantage en raison de l’augmentation des maux de dos immobilisants, qui ont nécessité un traitement par hydromorphone. Ce tableau clinique impressionnant s’est reflété dans les analyses de laboratoire par une augmentation continue des valeurs inflammatoires, avec une protéine C réactive (CRP) atteignant jusqu’à 376 mg/l et une leucocytose de 18,6 G/l (fig. 2). Les hémocultures sont restées stériles.
+
+Figure 2: Evolution des valeurs inflammatoires durant le séjour stationnaire et les ­traitements.
+
+Compte tenu de la forte suspicion clinique d’une spondylodiscite et de la sensibilité potentiellement limitée d’une biopsie guidée par TDM [1], nous avons décidé de réaliser une biopsie chirurgicale ouverte.
+
+Question 2: Quel est l’agent pathogène le plus fréquent de la spondylodiscite infectieuse?
+
+
+a) Streptocoques
+
+b) Mycobactéries
+
+c) Candida spp.
+
+d) Staphylococcus aureus
+
+e) Escherichia (E.) coli
+
+Après la biopsie, une antibiothérapie empirique par amoxicilline/acide clavulanique a été initiée. Elle est active contre l’agent pathogène le plus fréquent de la spondylodiscite infectieuse (Staphylococcus aureus), mais entre autres aussi contre les streptocoques et la plupart des E. coli [1]. Le patient a alors présenté une légère amélioration clinique temporaire, avec des valeurs inflammatoires en baisse. Toutefois, aucune croissance de bactéries, de champignons ou de mycobactéries n’a pu être objectivée dans les derniers échantillons tissulaires. Une PCR pour la détection du complexe Mycobacterium tuberculosis était elle aussi négative.
+
+Les douleurs et les valeurs inflammatoires accrues ont persisté sous antibiothérapie. Le patient a en outre développé un gonflement douloureux du genou gauche. L’articulation était légèrement rouge, douloureuse à la pression et chaude. Il y avait un ballottement patellaire indicateur d’un épanchement. L’échographie a uniquement montré une faible quantité d’épanchement.
+
+Question 3: A quel diagnostic différentiel songez-vous en premier lieu?
+
+
+a) Spondylodiscite causée par un agent pathogène résistant avec dissémination septique (gonarthrite)
+
+b) Spondylite tuberculeuse
+
+c) Ostéochondrite érosive
+
+d) Brucellose
+
+e) Arthrite à cristaux de pyrophosphate de calcium dihydraté (CPPD) du RL
+
+Etant donné que l’inflammation du genou gauche est survenue sous antibiothérapie, une arthrite septique nous a paru très improbable, si bien que nous n’avons pas réalisé de ponction. L’évolution clinique (patient toujours afébrile dans un état général stable malgré les valeurs inflammatoires très élevées; survenue d’une gonarthrite sous antibiothérapie), les cultures stériles et la constellation de laboratoire, avec des valeurs de CRP et de leucocytes très élevées, nous ont amenés à remettre en doute notre hypothèse initiale d’une spondylodiscite infectieuse. Nous avons alors envisagé une arthropathie cristalline rachidienne dans le cadre du diagnostic différentiel. Face à des signes inflammatoires prononcés et à une gonarthrite nouvellement survenue, nous avons en première ligne songé à une arthrite aiguë à cristaux de CPPD avec atteinte du RL et du genou et avons alors demandé une réévaluation des biopsies du RL. A l’examen microscopique des biopsies en lumière polarisée, des cristaux de CPPD typiques ont été mis en évidence (fig. 3). Nous avons ainsi posé le diagnostic d’arthrite aiguë à cristaux de CPPD avec atteinte du RL et gonarthrite gauche.
+
+Figure 3: Biopsie avec cristaux de CPPD (flèche).
+
+Question 4: Qu’est-ce qui ne fait pas partie des options thérapeutiques établies en cas d’arthrite aiguë à CPPD?
+
+
+a) Injection intra-articulaire de corticoïde (triamcinolone)
+
+b) Colchicine
+
+c) Anti-inflammatoires non stéroïdiens (AINS)
+
+d) Prednisone par voie orale
+
+e) Gouttes de tramadol
+
+Compte tenu des contre-indications des AINS et de la colchicine en cas d’insuffisance rénale sévère, nous avons initié une corticothérapie. Elle a entraîné une diminution rapide des douleurs et une amélioration clinique générale, une mobilisation du patient et une diminution simultanée des valeurs inflammatoires (fig. 2).
+
+Discussion
+
+L’imagerie (IRM) ne permet pas de différencier une spondylodiscite infectieuse d’une ostéochondrite érosive, d’une arthrite à cristaux de CPPD ou d’une goutte au niveau rachidien et la présentation clinique peut aussi être très similaire (maux de dos, abattement, fièvre, valeurs inflammatoires accrues). Une arthrite à CPPD ou une goutte au niveau du rachis sont certes rares, mais doivent être envisagées dans le cadre du diagnostic différentiel, en particulier chez les patients âgés.
+
+L’arthropathie à cristaux de CPPD englobe la présence asymptomatique de cristaux de CPPD dans le cartilage articulaire, l’arthrite à cristaux de CPPD aiguë et chronique inflammatoire, ainsi que les dépôts de CPPD associés à des arthroses [2]. Le diagnostic peut être confirmé par mise en évidence de cristaux de CPPD dans le liquide synovial ou le tissu synovial. Toutefois, la détection sur des coupes standard colorées à l’hémalun-éosine se ­révèle souvent difficile, dépendant de l’expérience de l’examinateur. Une meilleure sensibilité et spécificité peuvent être obtenues avec des colorations alternatives non aqueuses (NAES, «nonaqueous alcoholic eosin staining»). En outre, une lumière polarisée doit être utilisée pour voir les cristaux biréfringents [3].
+
+L’arthrite aiguë à CPPD peut se manifester par des symptômes non spécifiques, tels que la fièvre, une sensation de malaise prononcée et un état inflammatoire, si bien qu’elle représente un diagnostic différentiel de la pseudopolyarthrite rhizomélique, en particulier chez les sujets âgés [2].
+
+Question 5: Quel est le site de manifestation le plus fréquent d’une chondrocalcinose aiguë?
+
+
+a) Rachis cervical («crowned dens syndrome»)
+
+b) Articulation de la base du gros orteil
+
+c) Genou
+
+d) Articulation de l’épaule
+
+e) Articulation de la mâchoire
+
+Le site de manifestation le plus fréquent de l’arthrite ­aiguë à CPPD est le genou. Au niveau du rachis, l’articulation atlanto-axoïdienne est dans la plupart des cas touchée. Les dépôts de CPPD localisés à cet endroit se tradui­sent à la TDM par un tableau typique de «dent couronnée» («crowned dens syndrome»). Ils s’accompagnent de fortes douleurs cervicales, parfois de fièvre et de valeurs inflammatoires très élevées. Une manifestation au niveau du RL est également possible, mais rare [4].
+
+Réponses:
+
+
+Question 1: c. Question 2: d. Question 3: e. Question 4: e. Question 5: c.

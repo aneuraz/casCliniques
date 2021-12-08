@@ -1,0 +1,62 @@
+Rapport de cas
+Anamnèse et status
+
+Un patient de 53 ans est admis aux soins intensifs d’un centre hospitalier universitaire dans le cadre d’un épanchement péricardique avec répercussion hémodynamique. L’histoire commence avec un patient chez qui nous mettons en évidence un adénocarcinome pulmonaire du lobe supérieur gauche d’emblée métastatique au niveau pleural, ainsi qu’une embolie pulmonaire, plusieurs thromboses veineuses profondes, des épanchements pleuraux bilatéraux, et un épanchement péricardique d’une épaisseur maximale de 9 mm, sans retentissement hémodynamique. Un drainage pleural gauche s’effectue avec mise en place d’un drain thoracique. Le jour de son admission dans notre service, il développe une dyspnée rapidement progressive avec signes de détresse respiratoire, désaturation jusqu’à 79% sous air ambiant en lien avec des signes de surcharge cardiaque ainsi qu’une tachycardie, initialement sans instabilité hémodynamique. A l’examen clinique, l’état de conscience est préservé (Glasgow Coma Scale 15/15), les extrémités sont froides sans marbrures et l’auscultation pulmonaire révèle des sibilances et râles diffuses. Il n’y a pas de turgescence jugulaire ni d’œdème des membres inférieurs.
+
+Prise en charge, évolution et diagnostic
+
+Une nouvelle échocardiographie montre une augmentation de l’épanchement péricardique circonférentiel (épaisseur maximale de 2 cm) avec «swinging heart», compression des cavités cardiaques droites et dila­tation de la veine cave sans fluctuation respiratoire (fig. 1–3; voir également les vidéos 1 et 2 [https://vimeo.com/469696903/cf67f8e52a et https://vimeo.com/469696832/20d06631bc]).
+
+Figure 1: Echocardiographie, vue 4 cavités: 1) épanchement péricardique, 2) ventricule gauche, 3) ventricule droit, 4) septum interventriculaire, 5) oreillette gauche, 6) oreillette droite.
+
+Figure 2: Echocardiographie, vue sous-xyphoïdienne: 1) épanchement ­péricardique, 2) ventricule droit comprimé par épanchement, 3) ventricule gauche, 4) septum interventriculaire.
+
+Figure 3: Echocardiographie, vue sous-xyphoïdienne: 1) épanchement péricardique, 2) ventricule gauche, 3) ventricule droit, 4) septum interventriculaire, 5) oreillette gauche, 6) oreillette droite.
+
+L’indication à un drainage chirurgical est retenue et s’effectue peu après l’admission sous anesthésie générale, permettant l’évacuation de 1000 ml de liquide par abord sous-xyphoïdien sous la forme d’une péricardiostomie.
+
+Au retour du patient dans notre service, ce dernier est intubé et sous soutien vasopresseur de noradrénaline 4 μg/min. Les heures suivantes, le patient développe un tableau de choc cardiogène nécessitant l’augmentation progressive des besoins en noradrénaline. Une nouvelle échocardiographie met en évidence une dysfonction bi-ventriculaire sévère, une dilatation nouvelle du ventricule droit et un aplatissement du septum interventriculaire (fig. 4; voir également vidéo 3 [https://vimeo.com/469696900/9a057fed38]). L’épanchement péricardique est par ailleurs drainé de manière adéquate.
+
+Figure 4: Echocardiographie, vue sous-xyphoïdienne: 1) épanchement ­péricardique résiduel, 2) ventricule gauche comprimé, 3) ventricule droit dilaté, 4) septum interventriculaire, 5) oreillette droite, 6) oreillette gauche.
+
+Malgré l’introduction d’un soutien inotrope par dobutamine, le patient présente un premier arrêt cardio-respiratoire avec retour d’une circulation spontanée après 1 minute de massage cardiaque externe et administration d’1 mg d’adrénaline. Un cathéter artériel pulmonaire révèle un index cardiaque effondré à 1,3 l/min/m2, une SvO2 abaissé à 38% ainsi que l‘augmentation des pressions de remplissage (pression veineuse centrale [PVC] 24 mm Hg, pression artérielle pulmonaire [PAP] 43/25 (32) mm Hg, pression artérielle pulmonaire d’occlusion [PAPO] 15 mm Hg). Une épuration extra-rénale est initiée dans le but d’optimiser la volémie. L’indication à la mise en place d’une assistance circulatoire externe n’est pas retenue dans le contexte de la maladie oncologique métastatique. Malgré un soutien médicamenteux maximal (noradrénaline, vasopressine, dobutamine, adrénaline), l’évolution est défavorable et aboutit au décès du patient. Un diagnostic de choc cardiogénique sur syndrome de ­décompression péricardique est retenu.
+
+L’autopsie médicale révèle une tumeur pulmonaire lobaire supérieur gauche avec effraction de la plèvre viscérale, ainsi qu’une probable extension au péricarde qui est épaissi avec des nodules d’aspect tumoral à proximité du feuillet pariétal. Le cœur présente une légère hypertrophie (poids 450 g), l’artère interventriculaire antérieure présente une minime athérosclérose sans sténose significative et il n’y a pas de cicatrice ou de signe d’ischémie aiguë au niveau du myocarde. On note par ailleurs de multiples thromboses (artères pulmonaires des lobes inférieurs bilatéraux et du lobe supérieur gauche, de la veine fémorale gauche, de la veine jugulaire droite). Il faut encore noter que l’analyse cytologique du liquide péricardique montre une infiltration massive par des cellules d’adénocarcinome.
+
+Discussion
+
+En présence d’une tamponnade péricardique, le drainage, qu’il soit effectué par voie transcutanée ou par voie chirurgicale, permet dans la grande majorité des cas une amélioration hémodynamique. En dehors des complications standards telles que ponction des cavités cardiaques, lésion d’une artère coronaire, survenue d’arythmies, pneumothorax, hémothorax, pneumopéricarde ou lésion hépatique, il arrive que ce geste se complique d’une défaillance hémodynamique paradoxale. Il s’agit d’une complication rare avec une incidence d’environ 5%, mais sévère avec une mortalité ­décrite de 16 à 29%. La mortalité semble être plus importante dans les suites d’un drainage par voie chirurgicale [1, 2].
+
+La première description de ce syndrome clinique date de 1983 [3] chez une patiente de 45 ans d’origine caucasienne atteinte d’une leucémie myéloïde aigue bénéficiant d’un drainage chirurgicale par péricardiocentèse de 500 ml d’un liquide sérosanguinolant, mais ce n’est qu’en 2010 que le terme de syndrome de décompression péricardique est proposé [4]. En 2014, une revue de littérature identifie 35 cas, la moitié dans les suites d’une péricardiocentèse et la moitié dans les suites d’une péricardiotomie, les volumes drainés allant de 450 à 2100 ml.
+
+La présentation clinique est variable, allant de l’œdème pulmonaire aigu sans état de choc à la défaillance ventriculaire droite, gauche ou bi-ventriculaire, et peut survenir jusqu’à 48 heures après le geste [2]. Les principaux facteurs de risque de mortalité sont l’atteinte néoplasique du péricarde, l’atteinte post-radique, les calcifications péricardiques, l’atteinte préalable de la fonction myocardique ou la nécessité d’un support circulatoire, qu’il soit médicamenteux ou mécanique [5].
+
+La physiopathologie n’est pas entièrement comprise à l’heure actuelle. Plusieurs hypothèses sont avancées [6]:
+
+– L’hypothèse hémodynamique est basée sur une augmentation brutale du retour veineux suite à la levée de l’obstruction hémodynamique de l’épanchement, entraînant une augmentation de la post-charge et une dilatation du ventricule droit qui peut conduire à une défaillance de ce dernier. L’élévation de la pression transmurale induite du ventricule droit est par ailleurs exacerbée par une pression intra-péricardique négative liée au drainage. En effet, la pression physiologique de l’espace intra-péricardique étant quasiment nulle, cette dernière devient négative suite à l’ouverture de cet espace et à la mise en place du drainage. La dilatation du ventricule droit entraine également une déviation du septum interventriculaire vers la gauche et donc une diminution du débit cardiaque en vertu de l’interdépendance ventriculaire.
+
+– L’hypothèse ischémique évoque une ischémie épicardique causée par la diminution du flux coronarien en lien avec l’augmentation de la pression intra-péricardique lors de la tamponnade. L’aggravation de cette ischémie après drainage est possiblement expliquée par l’augmentation de la pression transmurale décrite ci-dessus.
+
+– La dernière hypothèse évoque une origine neuro-végétative avec une diminution brutale de l’activité sympathique après drainage, celle-ci pouvant démasquer une dysfonction ventriculaire préexistante ou entrainer une hyperactivité para-sympathique.
+
+En l’absence de traitement spécifique, la prise en charge repose essentiellement sur un diagnostic précoce et la mise en place d’un traitement de soutien hémodynamique. L’introduction d’un traitement vasopresseur ou inotrope est souvent nécessaire, et les cas les plus graves peuvent justifier la mise en place d’une assistance circulatoire externe.
+
+Les vidéos mentionnées sont disponibles sur Vimeo:
+
+https://vimeo.com/469696903/cf67f8e52a
+
+https://vimeo.com/469696832/20d06631bc
+
+https://vimeo.com/469696900/9a057fed38
+
+L’essentiel pour la pratique
+
+• Le syndrome de décompression péricardique est rare (incidence <5%) mais grave avec une mortalité allant jusqu’à 30%. Sa physiopathologie est mal connue.
+
+• Lors de tout drainage péricardique, qu’il soit chirurgical ou médical, un drainage prudent et lent doit être de mise.
+
+• Un monitorage hémodynamique étroit est fortement conseillé pendant les premières 24 heures post-drainage.
+
+• Une instabilité hémodynamique post-drainage nécessite une échocardiographie trans-thoracique immédiate.
+
+• Face à un syndrome de décompression péricardique, la prise en charge consiste en un traitement de soutient hémodynamique.

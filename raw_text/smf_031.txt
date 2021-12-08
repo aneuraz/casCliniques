@@ -1,0 +1,56 @@
+Présentation du cas
+Anamnèse
+
+Une patiente âgée de 71 ans s’est présentée chez le médecin de famille en raison de douleurs épigastriques spasmodiques aiguës survenues quelques heures auparavant du côté droit. Une cholécystolithiase asymptomatique est connue chez la patiente depuis plusieurs années. ­Durant la suite de l’anamnèse, la patiente a par ailleurs rapporté une diarrhée persistante depuis plusieurs semaines. Celle-ci était déclenchée par la nourriture et s’accompagnait d’épisodes répétés de selles acholiques. L’anamnèse mictionnelle était normale, en l’absence de fièvre et de frissons. Aucune opération précédente au ­niveau de l’abdomen n’est connue chez la patiente.
+
+Les analyses biochimiques ont révélé des paramètres hépatiques pathologiques avec un taux de gamma-­glutamyl-transférases (GGT) de 163 U/l (N: 8–61 U/l), d’aspartate aminotransférase (ASAT) de 44 U/l (N: 10–35 U/l) et d’alanine aminotransférase (ALAT) de 58 U/l (N: 10–35 U/l). Les autres paramètres de cholestase (bilirubine: 5,6 μmol/l, phosphatases alcalines: 84 U/l) ainsi que la protéine C-réactive (CRP) et les leucocytes se trouvaient dans la norme.
+
+Au vu des symptômes et de la cholécystolithiase connue, le médecin de famille a adressé la patiente à un gastro-entérologue pour un diagnostic approfondi. L’échographie abdominale a mis en évidence un épaississement de la paroi de la vésicule biliaire allant jusqu’à 4 mm avec une concrétion de taille importante et de diamètre >1 cm et un sludge. Il s’est en outre révélé une aérobilie d’étiologie incertaine, d’où un transfert d’urgence à l’hôpital.
+
+Examen clinique et résultats
+
+A l’examen clinique, la coloration cutanée était normale. L’abdomen émettait des bruits intestinaux intenses dans les quatre quadrants, sans douleur au ballotement, ni résistance palpable. La partie droite supérieure de l’abdomen présentait une douleur à la pression et au tapotement, avec douleur ipsilatérale à la décompression et signe de Murphy positif.
+
+La tomodensitométrie (TDM) de l’abdomen (fig. 1 A–D) a confirmé une aérobilie des voies biliaires intra- et ­extra-hépatiques avec un conduit hépatocholédoque non dilaté et rempli d’air. Par ailleurs, une cholécystolithiase calcifiante périphérique a pu être mise en évidence avec une concrétion de 0,8 cm de diamètre ainsi qu’une vésicule biliaire partiellement collabée avec niveau de gaz/liquide et épaississement de la paroi de la vésicule biliaire visible par absorption du produit de contraste. La fosse de la vésicule biliaire a révélé la présence de liquide et de modifications inflammatoires au niveau du tissu adipeux mésentérique et du côlon transverse.
+
+Figure 1: Tomodensitométrie de l’abdomen avec produit de contraste, coupes axiales: A, B) Représentation de l’aérobilie (A intra-hépatique et B extra-hépatique); C) vésicule biliaire (flèche supérieure) directement adjacente au côlon transverse (flèche inférieure); D) vésicule biliaire collabée avec paroi accentuée.
+
+Diagnostic
+
+Cholécystolithiase compliquée avec signe de cholécystite et suspicion de fistule biliodigestive entre le corps de la vésicule biliaire et le côlon transverse.
+
+Traitement et évolution
+
+L’indication d’une intervention chirurgicale a été établie avec une procédure primairement laparoscopique. L’exploration intra-opératoire a permis de confirmer le diagnostic suspecté d’une fistule entre le corps de la vésicule biliaire et le côlon transverse (fig. 2A). La fistule a été laissée intacte et la vésicule ­biliaire a été préparée dans les règles de l’art avec ­représentation de l’infundibulum et identification du triangle de Calot avec le canal cystique et l’artère cystique. Les deux structures ont été séparées de manière sélective au moyen de clips Hem-o-lok® La vésicule ­biliaire a pu être détachée de la face antérieure du foie par voie rétrograde. Pour finir, la fistule a été suturée avec Endo-GIA™ 30 mm (fig. 2B).
+
+Figure 2: Situs intra-opératoire. A) Représentation de la fistule entre la vésicule biliaire (flèche supérieure) et le côlon transverse (flèche inférieure); B) suture de la fistule avec Endo-GIA™ 30 mm.
+
+L’évolution postopératoire s’est déroulée sans complication. La diarrhée a cessé et le contrôle de laboratoire réalisé au deuxième jour après l’opération a révélé des paramètres de cholestase dans la norme. Au troisième jour d’hospitalisation, la patiente a pu rentrer chez elle dans un état général favorable.
+
+Discussion
+
+En cas de cholécystolithiase, une inflammation peut survenir en raison d’une irritation mécanique chronique dans la vésicule biliaire. Les cholécystites aiguës récidivantes peuvent en outre entraîner une ulcération de la paroi de la vésicule biliaire et des organes adjacents. Du fait de l’érosion, cela peut finalement provoquer la formation d’une fistule avec une incidence de moins de 1% [1–3]. Ainsi, la fistule biliodigestive représente généralement une complication tardive d’une cholécystolithiase.
+
+Les autres causes de fistule biliodigestive décrites dans la littérature incluent ulcères peptiques, maladie de Crohn, néoplasies, opérations préalables telles qu’interventions gastriques ou lésions abdominales iatrogènes et traumatiques [4, 5].
+
+La localisation la plus fréquente d’une fistule biliodigestive se situe dans 77% des cas entre la vésicule biliaire et le duodénum. Plus rarement, avec une fréquence de seulement 15%, la fistule se forme entre la vésicule biliaire et le côlon, comme dans notre cas. Il est encore plus rare qu’une fistule n’apparaisse entre la vésicule biliaire et l’estomac (5%), entre le canal cholédoque et le duodénum (9%), entre le canal cholédoque et le canal hépatique droit (5%) ou qu’une fistule externe ne survienne entre la vésicule biliaire et la peau [1].
+
+Les patients avec fistule biliodigestive entre la vésicule biliaire et le côlon présentent généralement des symptômes d’une cholécystite sans signe d’obstruction intestinale. Les troubles classiques sont douleurs abdominales, nausée et diarrhée. Les symptômes de notre patiente étaient donc typiques. La diarrhée, éventuellement accompagnée d’une perte de poids, peut s’expliquer par une perturbation de la circulation entéro-hépatique. Par la suite, un syndrome de malabsorption et une sécrétion accrue d’eau et d’électrolytes dans le côlon peuvent apparaître, ce qui peut s’exprimer par une stéatorrhée. Bien qu’une fistule ­biliodigestive puisse également avoir pour conséquence un iléus avec calcul enclavé au niveau du côlon, cela ne survient que dans près de 5% des cas. Toutefois, un iléus se forme nettement plus souvent dans le cas d’une fistule entre la vésicule biliaire et le duodénum, le jéjunum ou l’iléon. Les sites de prédilection sont alors la valvule de Bauhin et l’iléon terminal [4].
+
+Dans la majorité des cas, le diagnostic est établi pendant l’opération ou fortuitement dans le cadre d’un examen radiologique [3, 5].
+
+Le diagnostic préopératoire peut consister en une échographie abdominale, une tomodensitométrie, une imagerie par résonance magnétique, une cholangio-pancréatographie par résonance magnétique ou une cholangio-pancréatographie rétrograde endoscopique (CPRE). Le lavement baryté était autrefois utilisé pour le diagnostic. L’établissement préopératoire du diagnostic s’avère plus simple en présence d’une obstruction intestinale. Par ailleurs, l’aérobilie peut être également très suggestive d’une fistule biliodigestive, en particulier lorsque la vésicule biliaire est atrophique et se trouve anatomiquement à proximité directe d’un autre organe. Dans notre cas, la tomodensitométrie, ayant révélé une aérobilie avec vésicule biliaire collabée à proximité ­directe du côlon, a déjà permis d’établir le diagnostic suspecté d’une fistule biliodigestive avant l’opération. Parallèlement, les diagnostics différentiels d’une aérobilie, tels qu’une ischémie intestinale, une cholangite avec germes producteurs de gaz ou une cause iatrogène, ont pu être exclus dans le cadre du diagnostic.
+
+En principe, le traitement de la cholécystite due à des calculs consiste en l’ablation chirurgicale de la vésicule biliaire. Toutefois, en présence d’une fistule biliodigestive, la procédure chirurgicale fait l’objet de controverses dans la littérature concernant la technique opératoire (procédure ouverte versus mini-invasive). La procédure doit par ailleurs être planifiée en fonction du site et de l’organe touché par la fistule. Le traitement standard repose sur la cholécystectomie avec réparation de la fistule. Etant donné que l’évidence scientifique relative à la meilleure procédure chirurgicale fait défaut, celle-ci doit dépendre de l’expérience individuelle du chirurgien [6].
+
+Les ouvrages de référence indiquent un taux élevé de conversion jusqu’à 80% pour la procédure mini-invasive. Cela est dû à une longue durée opératoire, des dissections difficiles, des hémorragies intra-opératoires et la nécessité de sutures intestinales présentant un risque accru de lésions des voies biliaires extra-hépatiques [6].
+
+Durant l’opération, il est possible, comme dans notre cas, de suturer directement la fistule au niveau du côlon ou de réaliser une dérivation par colostomie, avec, si possible, rétablissement de la continuité par la suite. Notre patiente se trouvait dans un bon état général et l’opération n’a pas été rendue plus difficile par l’inflammation. Le triangle de Calot était clairement identifiable et, outre la cholécystectomie, il a ainsi été possible de séparer et suturer directement la fistule ­biliodigestive par agrafage.
+
+L’essentiel pour la pratique
+
+• La fistule biliodigestive est un diagnostic rare en présence d’une cholécystite récidivante dans le cas d’une cholécystolithiase avec signe de cholécystite.
+
+• Lorsque l’échographie de l’abdomen révèle une aérobilie avec vésicule biliaire collabée chez des patients présentant des antécédents de longue date de cholécystolithiase ainsi qu’une diarrhée survenue récemment, une imagerie supplémentaire est recommandée, par exemple au moyen de la tomodensitométrie. Il est ainsi éventuellement possible d’établir un diagnostic suspecté avant l’opération. Dans la majorité des cas, la fistule n’est toutefois diagnostiquée que pendant l’opération.
+
+• Le traitement standard d’une fistule biliodigestive non obstructive consiste en une cholécystectomie avec réparation de la fistule. Conformément à la référence en termes de cholécystectomie, l’opération peut également être réalisée de manière mini-invasive en présence d’une fistule. Si la vue d’ensemble est insuffisante pendant l’opération, une conversion rapide vers une intervention ouverte peut être pertinente pour éviter les complications.

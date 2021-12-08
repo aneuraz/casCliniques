@@ -1,0 +1,164 @@
+Description du cas
+
+Un homme de 88 ans connu depuis plusieurs années pour un antécédent d’accident vasculaire cérébral (AVC) sylvien gauche non-séquellaire dans le contexte d’une fibrillation et d’un flutter auriculaires anciens, traité par acénocoumarol, nifédipine et aténolol, se présente suite à une chute dans un contexte de lipothymie, précédée par des bouffées de chaleur avec érythème facial. Il mentionne des épisodes similaires, d’une durée de quelques secondes, depuis 2 mois, de plus en plus fréquents (jusqu’à 25 par jour) sans facteur déclenchant.
+
+A l’examen clinique, le patient est stable et le status est dans la norme sans souffle cardiaque ausculté. L’électrocardiogramme montre une fibrillation atriale à conduction atrio-ventriculaire variable et cadence ventriculaire normocarde; le test de Schellong est négatif. Le bilan biologique est sans particularité.
+
+Question 1: A ce stade, quel est le diagnostic le plus probable pour expliquer la symptomatologie du patient?
+
+
+a) Un syndrome carcinoïde?
+
+b) Une origine médicamenteuse?
+
+c) Une mastocytose?
+
+d) Un trouble du rythme cardiaque?
+
+e) Un malaise d’origine vaso-vagale?
+
+Dans le diagnostic différentiel d’un érythème facial, on trouve le syndrome carcinoïde, le phéochromocytome et la mastocytose. Cependant, ces pathologies sont rares, d’autant plus chez la personne âgée.
+
+Une étiologie médicamenteuse reste possible au vu de l’association entre érythème facial, bouffées de chaleur et prise d’anti-calciques de type dihydropyridine, tels que la nifédipine. L’effet hypotenseur additif du bêta-­bloquant pourrait également contribuer à la symptomatologie.
+
+L’origine vaso-vagale représente l’étiologie de lipothymie la plus fréquente dans la population générale. Le tableau clinique est souvent atypique chez les patients âgés, sans corrélation claire entre les symptômes et les potentiels facteurs déclenchants. La fréquence des épisodes et un Schellong négatif semblent parler en défaveur de ce diagnostic.
+
+Un trouble du rythme cardiaque est la deuxième cause la plus fréquente de lipothymies chez les adultes, notamment dans la population gériatrique, et reste l’étiologie la plus probable dans ce cas, compte tenu de l’arythmie supraventriculaire connue. La figure 1 montre l’ECG réalisé le jour de l’arrivée.
+
+Question 2: A quel trouble du rythme correspond cet ECG (fig. 1)?
+
+
+a) Un flutter auriculaire typique avec un bloc atrio-ventriculaire du 3ème degré?
+
+b) Un flutter auriculaire typique avec une pause sinusale?
+
+c) Une fibrillation auriculaire suivie d’un bloc atrio-ventriculaire du 3ème degré?
+
+d) Une fibrillation auriculaire suivie d’un bloc atrio-ventriculaire du 2ème degré type Mobitz II?
+
+e) Une fibrillation auriculaire suivie d’une pause sinusale?
+
+Figure 1: L’ECG réalisé le jour de l’arrivée.
+
+La cadence ventriculaire irrégulièrement irrégulière et la présence d’ondes «f» de morphologies et amplitudes variables évoquent une fibrillation auriculaire et parle en défaveur d’un flutter où les ondes F sont monomorphes.
+
+Pour définir un bloc atrio-ventriculaire (BAV), une activité sinusale régulière précédant le bloc est requise.
+
+L’ECG de notre patient correspond à une fibrillation auriculaire suivie d’une pause sinusale d’une durée de 3,6 secondes avec reprise par un rythme jonctionnel. A signaler qu’avant la pause – avant et après le premier complexe QRS en précordiales –, l’activité atriale s’organise brièvement et prend l’aspect d’un flutter. La pause sinusale reproduit les symptômes rapportés sous forme de bouffées de chaleur associées à un érythème facial sans syncope. Au vu de la nette corrélation établie entre l’arythmie décelée et la symptomatologie, le diagnostic de maladie du sinus est posé.
+
+Question 3: Parmi les médicaments suivants, lequel ne favorise pas une maladie du sinus?
+
+
+a) Le diltiazem 
+
+b) La nifédipine
+
+c) L’aténolol
+
+d) Le donépézil 
+
+e) Le lithium 
+
+Les bêta-bloquants ainsi que les anti-calciques de la classe non-dihydropyridine (diltiazem, verapamil), la digoxine, les inhibiteurs de l’acétylcholinesterase (donépézil, rivastigmine), le lithium et les sympathicolytiques (clonidine) peuvent tous induire une dysfonction si­nusale [1]. Par contre, les anti-calciques de la classe des dihydropyridines (nifédipine, nicardipine, amlodipine) entraînent une vasodilatation périphérique induisant une tachycardie réflexe.
+
+En l’absence d’étiologie réversible à l’origine d’une maladie sinusale, le seul traitement efficace consiste en l’implantation d’un pacemaker.
+
+Question 4: La nomenclature du mode de stimulation d’un pacemaker se base sur un code international de 5 lettres dont les 3 premières sont les plus utilisées en pratique. A quoi correspondent-elles?
+
+
+a) Chambre écoutée, chambre stimulée, réponse à l’évènement détecté?
+
+b) Chambre écoutée, réponse à l’événement détecté, chambre stimulée?
+
+c) Chambre stimulée, chambre écoutée, réponse à l’événement détecté?
+
+d) Chambre stimulée, réponse à l’évènement détecté, chambre écoutée?
+
+e) Réponse à l’événement détecté, chambre stimulée, chambre écoutée?
+
+La première lettre correspond à la chambre stimulée, la deuxième lettre à la chambre où a lieu la détection. Les lettres utilisées se réfèrent à l’oreillette (A), au ventricule (V), aux deux (D) ou à aucun des deux (O) (tab. 1).
+
+Tableau 1: Code international de nomenclature des pacemakers.
+Lettre 1	Lettre 2	Lettre 3	Lettre 4	Lettre 5
+Chambre stimulée	Chambre écoutée	Réponse à l’événement
+détecté	Adaptation de la fréquence cardiaque	Stimulation multifocale
+O = aucune	O = aucune	O = aucune	O = aucune	O = aucune
+A = oreillette	A = oreillette	I = inhibition de
+la stimulation	R = adaptation de ­
+la fréquence cardiaque	A = oreillette
+V = ventricule	V = ventricule	T = déclenchement de
+la stimulation	 	V = ventricule
+D = A + V	D = A + V	D = T + I	 	D = A + V
+
+La troisième lettre reflète le mode de fonctionnement consécutif à un événement détecté: l’inhibition (I) correspondant à une absence d’activité du pacemaker lorsqu’une activité intrinsèque est détectée et le mode ­déclenché ou triggeré (T) signifiant que le pacemaker va émettre une activité en réponse à un événement détecté. Il existe aussi une bi-fonctionnalité avec concomitance des modes de déclenchement et inhibition (D).
+
+La quatrième lettre désigne la possibilité de modulation de la fréquence en fonction de l’activité physique du patient (R), tandis qu’une cinquième lettre décrit une éventuelle stimulation multifocale au niveau atrial (A), ventriculaire (V) ou des deux (D). Ce dernier mode de fonction est principalement utilisé dans la stimulation bi-ventriculaire lors d’une resynchronisation chez les patients insuffisants cardiaques sévères.
+
+Question 5: Quel serait le meilleur mode de stimulation dans le traitement de la maladie du sinus de notre patient?
+
+
+a) Le mode DDDR?
+
+b) Le mode AAI?
+
+c) Le mode AAIR?
+
+d) Le mode VDD?
+
+e) Le mode VVIR?
+
+Comme résumé dans le tableau 2, le mode DDDRréplique au mieux une conduction cardiaque physiologique; il représente l’option de premier choix si une activité sinusale est présente de façon continue ou intermittente [2]. C’est en particulier le cas lors d’une dysfonction ­sinusale associant des épisodes de fibrillation auriculaire paroxystiques et des troubles de la conduction atrioventriculaire.
+
+Tableau 2: Résumé des différents modes de pacemakers.
+Mode de stimulation	Indication	Contre-indication
+VVI	Stimulation du ventricule	Fibrillation auriculaire avec bradycardie symptomatique	– Syndrome du pacemaker– Nécessité hémodynamique d’un pacing bicaméral
+Ecoute du ventricule
+Inhibition du stimulateur en réponse à un ­évènement ventriculaire spontané
+AAI	Stimulation de l’oreillette	Bradycardie symptomatique avec conduction atrio-ventriculaire préservée	Dysfonction sinusale avec bloc atrio-ventriculaire associé
+Ecoute de l’oreillette
+Inhibition du stimulateur en réponse à un ­événement auriculaire spontané
+VDD	Stimulation du ventricule	Bloc atrio-ventriculaire avec fonction sinusale préservée	Dysfonction sinusale
+Ecoute de l’oreillette et du ventricule
+Inhibition ou stimulation en réponse à ­l’activité spontanée détectée
+DDD	Stimulation et écoute bi-camérale	– Dysfonction sinusale et bloc atrio-ventriculaire– Antécédent de syndrome du pacemaker	Fibrillation ou flutter auriculaires permanents
+Inhibition de la stimulation atriale si activité ­intrinsèque détectée avec stimulation ­ventriculaire après délai AV programmé
+Inhibition de la stimulation ventriculaire par une activité ventriculaire intrinsèque
+
+En l’absence de BAV, le mode préférentiel pourrait être le mode AAIou AAIR; cependant une étude récente a montré une incidence supérieure de FA paroxystique chez les patients souffrant de maladie du sinus appareillés en mode AAIR en comparaison du mode DDDR [3]. De plus, il reste associé à un risque de ré-opération si un BAV vient à se développer.
+
+Le mode VDDest utilisé en présence de BAV sans dysfonction sinusale associée.
+
+Le mode VVI(R) est utilisable dans tous les types de bradycardie et en présence de tachyarythmie atriale prépondérante (la présence d’une FA permanente imposant le mode VVIR) mais il n’assure pas le synchronisme atrio-ventriculaire. Au contraire, il favorise la désynchronisation atrio-ventriculaire par une conduction ­rétrograde, ce qui peut induire des accès de FA ou un syndromedu pacemaker (diminution du débit cardiaque avec augmentation des pressions de remplissage et vasodilatation réflexe) mal tolérés par le patient [4].
+
+Les modes VDD et AAI n’étant pas indiqués, notre ­patient a bénéficié d’un stimulateur unicaméral en mode VVIR, compte tenu de la présence d’une fibrillation auriculaire ancienne, de son âge avancé et en raison du moindre risque de complications par rapport à l’implantation d’un pacemaker DDD.
+
+La mise en place d’un stimulateur VVIR a permis la ­résolution complète des symptômes.
+
+La question concernant l’indication à la poursuite de l’anticoagulation thérapeutique reste ouverte. Le risque d’évènements thrombo-emboliques (déterminé par le score CHA2DS2-VASC) versus hémorragiques (déterminé par le score HAS-BLED) est respectivement de 4,8% et 5,8% par année.
+
+Bien que le risque hémorragique soit supérieur au risque thrombo-embolique, considérant l’antécédent d’AVC ischémique et l’absence jusqu’alors d’épisode de saignement sous anticoagulation thérapeutique, le traitement d’acénocoumarol a été poursuivi chez ce patient indépendant pour toutes les activités de la vie quotidienne avec une bonne qualité de vie.
+
+Discussion
+
+La maladie du sinus est définie comme une dysfonction du nœud sinusal se traduisant par des épisodes de bradycardie sinusale sévère (<50 bpm) ou des pauses ­sinusales (>3 sec) symptomatiques avec absence de rythme d’échappement approprié. Cette maladie est parfois accompagnée de tachyarythmies atriales (flutter et fibrillation) et de troubles de la conduction atrio-ventriculaire («syndrome tachy-brady»). Elle peut entraîner une insuffisance chronotrope (absence d’adaptation de la fréquence cardiaque aux besoins méta­boliques).
+
+La corrélation entre les anomalies électrocardiographiques et les symptômes tels qu’une lipothymie, ­syncope, dyspnée d’effort, palpitations, bouffées de chaleur ou douleurs thoraciques, est indispensable pour que le diagnostic soit retenu. A savoir que dans la population gériatrique, l’asthénie ou la fatigue peuvent être l’expression d’une maladie sinusale.
+
+L’étiologie la plus fréquente est un remodelage structurel par dégénérescence et/ou fibrose du nœud sinusal et du reste du système de conduction d’origine idio­pathique ou secondaire à l’âge. Pour rappel, le taux de collagène au niveau du nœud sinusal augmente avec l’âge: 38% chez les enfants versus 70% chez l’adulte [5]. Ce remodelage peut s’accompagner d’une altération de l’expression de certains canaux ioniques des cellules sinusales entravant leur activité électrique [1, 4].
+
+L’origine ischémique est à évoquer lors de l’apparition d’une dysfonction sinusale en cas d’infarctus du myocarde aigu impliquant l’artère coronaire droite ou l’artère circonflexe.
+
+Des troubles métaboliques (hypothyroïdie, hypo- et hyperkaliémie, hypocalcémie) ainsi que des pathologies infiltratives (hémochromatose, amyloïdose) ou inflammatoires (sarcoïdose) font également partie du bilan étiologique. Plus rarement, il existe des dysfonctions ­sinusales génétiques attribuées à des mutations de canaux ioniques spécifiques [1, 4].
+
+Plusieurs approches existent pour mettre en évidence une maladie du sinus. Si l’ECG ne révèle aucune anomalie rythmique, la prochaine étape consiste en un test d’effort, pour écarter une ischémie myocardique à l’origine des symptômes et identifier une dysfonction sinusale sous forme d’une insuffisance chronotrope.
+
+Si ce test est non contributif, un monitorage rythmique en continu est indiqué. En l’absence d’événement symptomatique, l’enregistrement Holter peut être ­répété voire prolongé si nécessaire, durant plusieurs semaines selon la tolérance du patient. A mentionner que l’implantation d’un dispositif sous-cutané reste une méthode d’investigation coûteuse en regard du prix du Holter et dont l’indication reste à considérer avec retenue à l’heure actuelle compte tenu de l’augmentation non négligeable des coûts de la santé.
+
+Une exploration électro-physiologique peut compléter les investigations lorsqu’aucune corrélation entre les divers enregistrements électrocardiographiques et les symptômes du patient n’est établie et qu’aucun autre diagnostic alternatif n’est retenu [1, 2] (fig. 2).
+
+Figure 2: Algorithme en cas de suspicion de maladie sinusale.
+
+Réponses:
+
+
+Question 1: d. Question 2: e. Question 3: b. Question 4: c. Question 5: a.

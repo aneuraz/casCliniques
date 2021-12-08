@@ -1,0 +1,64 @@
+Contexte
+
+Le «nodule de sœur Mary Joseph» (NSMJ) est un nodule ombilical pouvant se manifester comme métastase cutanée d’un carcinome intra-abdominal ou pelvien. Il a été décrit pour la première fois en 1928 par le chirurgien américain W. J. Mayo (1861–1939) et doit son nom à l’assistante du chirurgien, sœur Mary Joseph Dempsey, qui attira son attention sur l’altération ombilicale [1]. La métastase survient le plus souvent à un stade tardif de l’affection tumorale sous-jacente. Toutefois, elle peut également être le premier symptôme clinique ­décelable.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 75 ans s’est présentée en octobre 2016 en raison de saignements vaginaux depuis plusieurs mois, alors qu’elle se trouvait en post-ménopause avec absence de saignements depuis environ 20 ans. Hormis une grossesse extra-utérine en 1970, deux césa­riennes en 1971 et 1973 et l’ablation d’un polype endométrial bénin en 1996, l’anamnèse gynécologique était vierge. La patiente n’avait jamais reçu de substitution hormonale post-ménopausique. Ses comorbidités incluaient une fibrillation auri-culaire normocarde sous anticoagulation orale, une insuffisance rénale chronique (KDIGO G2), une hypertension artérielle et une obésité morbide.
+
+Statut
+
+Patiente de 75 ans dans un bon état général et un état nutritionnel adipeux (indice de masse corporelle [IMC] 43,2 kg/m²). Pression artérielle 140/79 mm Hg, pouls 76 bpm, température 36,5 °C.
+
+L’examen gynécologique au spéculum a révélé des pertes vaginales teintées de vieux sang. La portion vaginale du col n’était pas visualisable en raison de parois vaginales prolabées et d’une intolérance à la douleur de la patiente. Ni un frottis PAP ni une biopsie avec «pipelle de Cornier» n’ont pu être réalisés. L’échographie transvaginale a révélé un utérus hypertrophié avec un endomètre hétérogène, mal délimité et très épais (19 mm). En outre, une structure kystique de 9 cm, anéchogène, délimitée en partie de façon nette et en partie de façon irrégulière, a été observée dans la région annexielle droite.
+
+Résultats, diagnostic, traitement
+
+En raison du saignement post-ménopausique et de l’endomètre suspect à l’échographie transvaginale, une hystéroscopie et un curetage fractionné ont été réalisés en novembre 2016. L’examen histopathologique a révélé un adénocarcinome endométrioïde bien différencié du corps utérin. L’indication d’une hystérectomie laparoscopique avec annexectomie bilatérale a été posée, y compris afin de déterminer le caractère bénin ou malin de la structure kystique suspecte dans la région annexielle.
+
+Dans l’intervalle, la patiente nous a à nouveau été adressée en urgence par son médecin de famille en ­raison de l’apparition d’un érythème étendu sur tout l’hypogastre avec une induration sphérique dans la ­région ombilicale (fig. 1).
+
+Figure 1: Erythème hypogastrique étendu avec induration ombilicale.
+
+La tomodensitométrie (TDM) thoracique et abdominale (fig. 2) consécutive a mis en évidence une structure épaissie d’apparence inflammatoire mesurant environ 3 cm au niveau ombilical, correspondant le plus vraisemblablement à une hernie ombilicale inflammatoire chronique. La structure kystique dans la région annexielle droite déjà visualisée à l’échographie transvaginale mesurait 10 cm de diamètre à la TDM. Elle laissait suspecter un cystadénome séreux, mais il était impossible d’exclure un carcinome ovarien sur le plan radiologique. L’adénocarcinome endométrioïde du corps utérin n’a pas pu être délimité avec certitude à la TDM. Une lymphadénopathie inguinale bilatérale mesurant jusqu’à 2,5 cm a été décrite. Etant donné qu’une atteinte métastatique des ganglions lymphatiques inguinaux n’est pas typique de l’adénocarcinome endométrioïde de l’endomètre, une lymphadénopathie inguinale réactive dans le cadre d’une hernie ombilicale inflammatoire chronique a été considérée comme le plus probable. Une nouvelle biopsie n’a pas été réalisée. La TDM n’a mis en évidence aucun autre signe de métastatisation.
+
+Figure 2: TDM abdominale avec suspicion d’une hernie ombilicale inflammatoire chronique en présence d’une structure inflammatoire épaissie dans la région ombilicale.
+
+En raison de la suspicion d’une hernie ombilicale inflammatoire chronique, une antibiothérapie a été initiée. En l’absence de régression de l’induration ombilicale et de l’érythème, une résection ombilicale avec débridement et fermeture du fascia a été réalisée en ­décembre 2016. L’histologie de l’ombilic a objectivé un adénocarcinome endométrioïde et partiellement à ­cellules claires, positif aux récepteurs des œstrogènes et de la progestérone ainsi qu’à Pax-8 lors de l’immunohistochimie, avec faible inflammation périfocale chronique et fibrose cicatricielle s’étendant par endroits jusqu’au tissu adipeux sous-cutané. La structure a été entièrement ­réséquée et était bien compatible avec un NSMJ comme manifestation de l’adénocarcinome endométrioïde.
+
+Suite à des biopsies au poinçon de l’érythème hypogastrique étendu, l’examen histopathologique a ob­jectivé une réaction en partie spongiotique, en partie ­lichénoïde, compatible avec un eczéma lichénoïde. Une extension du carcinome au niveau de la peau a ainsi pu être exclue.
+
+Conformément à la décision du «tumor board» interdisciplinaire, une laparotomie longitudinale médiane inférieure et supérieure a été pratiquée en janvier 2017 afin de réaliser une hystérectomie élargie (PIVER III) avec annexectomie bilatérale, résection d’une manchette vaginale, adhésiolyse, omentectomie, lymphadénectomie pelvienne et paraaortique ainsi qu’inspection de tout l’abdomen. Des examens d’imagerie de contrôle ont été planifiés en ce qui concerne la lymphadénopathie inguinale.
+
+En intra-opératoire, l’utérus s’est révélé normal sur le plan macroscopique, tout comme l’annexe droite. L’annexe gauche était nettement hypertrophiée. Il n’y avait pas d’ascite. L’inspection de tout l’abdomen n’a montré aucun signe macroscopique d’une autre atteinte tumorale intra-abdominale. L’histopathologie a confirmé un adénocarcinome endométrioïde du corps utérin modérément différencié (pT1a, pN0 (0/49), L0, V0, G2) avec une profondeur d’infiltration maximale de 2 mm dans le myomètre, pour une épaisseur du myomètre de 6 mm. Pas d’invasion du stroma cervical ou de la ­séreuse viscérale, pas d’infiltration des paramètres. La lésion kystique au niveau de l’annexe droite cor­respondait également, sur le plan histologique, à un ­adénocarcinome endométrioïde de l’ovaire droit modérément différencié, avec une extension maximale de 15 mm, en focal jusqu’à la surface séreuse (pT1c, pN0 (0/49), L0, V0, G2). Pour les deux carcinomes, aucune invasion des vaisseaux sanguins et lymphatiques n’a été mise en évidence. D’après le rapport histopathologique, les deux carcinomes avaient une origine indépendante. Aucun des ganglions lymphatiques prélevés n’était tumoral. De même, une cytologie de lavage n’a pas montré de cellules suspectes de néoplasie maligne.
+
+En présence d’une métastase cutanée, dans le cas présent un NSMJ dans le cadre d’un double malignome ­gynécologique (carcinome de l’ovaire et du corps utérin), il s’agit d’un carcinome de stade FI-GO-IV. En ­raison de l’infiltration de la séreuse du carcinome ­ovarien, le NSMJ est le plus vraisemblablement une métastase de ce dernier. D’un autre côté, une propagation du carcinome endométrial avec métastatisation le long de l’ouraque jusqu’à l’ombilic et le long du ligament rond dans les deux aines est également possible.
+
+En raison d’une déhiscence fasciale postopératoire (éventration), une révision de la plaie et un traitement par pression négative ont été mis en œuvre. La plaie a par la suite été fermée au moyen d’une suture secondaire.
+
+Une chimiothérapie palliative a ensuite été initiée. Après trois cycles de Paraplatine, la TDM thoracique/abdominale réalisée en juin 2017 a montré des collections liquidiennes péritonéales circonscrites d’apparition nouvelle dans la partie médiane et supérieure de l’abdomen du côté gauche. Une ponction diagnostique guidée par TDM avec sclérose a permis d’exclure des cellules suspectes de malignité à la cytologie. Les collections liquidiennes ont été interprétées comme résultant le plus vraisemblablement d’une lymphocèle postopératoire. La chimiothérapie palliative a été poursuivie.
+
+Initialement, sous chimiothérapie, la taille de la lymphadénopathie inguinale bilatérale déjà décrite en préopératoire était stable lors des TDM de contrôle. En mars 2018, une augmentation de la taille des deux ­côtés a pour la première fois été observée, atteignant jusqu’à 7 cm du côté gauche et laissant suspecter des métastases des ganglions lymphatiques. Au demeurant, il n’y avait aucun signe d’autres manifestations tumorales. Une adaptation de la chimiothérapie palliative avec passage aux taxanes n’a pas entraîné de réduction clinique de la taille, si bien qu’une lymphadénectomie inguinale bilatérale a été réalisée en avril 2018. L’histologie a mis en évidence des métastases d’un adénocarcinome endométrioïde.
+
+Les lymphocèles inguinales bilatérales consécutives à la lymphadénectomie étendue et radicale ont été ponctionnées sur la base des symptômes. En raison des comorbidités, aucun autre traitement systémique n’a été administré. Le marqueur tumoral CA 125 a été déterminé avant la pose du diagnostic et à plusieurs reprises par la suite et se trouvait toujours dans la norme. A l’heure actuelle, la patiente est en rémission clinique et radiologique complète (état mai 2019).
+
+Discussion
+
+Le NSMJ correspond à une métastase cutanée dans la région ombilicale, émanant d’un carcinome intra-­abdominal ou pelvien. L’incidence du NSMJ est faible. Un NSMJ a été décrit dans seulement 1 à 3% de tous les carcinomes [2]. Dans 52% des cas, la tumeur primaire est gastro-intestinale (estomac, côlon, pancréas), et dans 28% des cas, elle est gynécologique (ovaire ou corps utérin). Dans 15 à 29% des cas, la tumeur primaire reste inconnue [3]. La tumeur semble métastaser par voie lymphogène, hématogène, per continuitatem, ou via les structures embryonnaires (ouraque) [4]. Des métastases ombilicales ont également été décrites après des interventions laparoscopiques, avec implantation directe de la tumeur via le site de trocart [5].
+
+Sur le plan clinique, l’apparence et la consistance du NSMJ ainsi que les douleurs occasionnées sont variables. Il est souvent décrit comme un nodule ombilical ou para-ombilical solide, rougeâtre, parfois dou­loureux, avec occasionnellement des sécrétions. Des ulcérations peuvent également survenir, et sa taille varie entre 0,5 et 15 cm [6]. En particulier en cas de carcinome connu au niveau de l’abdomen ou du petit bassin, un NSMJ doit être envisagé face à des altérations au niveau de l’ombilic, en plus des diagnostics différentiels typiques que sont la hernie ombilicale, le lipome ou les infections. Rarement, la lésion cutanée peut être le premier signe d’une affection maligne voire d’une récidive. Seule l’histopathologie permet la pose du diagnostic définitif.
+
+Avec une espérance de vie moyenne de dix à onze mois, le pronostic après la pose du diagnostic de NSMJ est défavorable [7]. Un procédé chirurgical radical avec chimiothérapie adjuvante est associé à un meilleur pronostic avec une plus longue espérance de vie par rapport à une opération ou une chimiothérapie seules [8].
+
+L’essentiel pour la pratique
+
+• Les altérations au niveau de l’ombilic peuvent être la première manifestation d’un carcinome au niveau de l’abdomen ou du petit bassin.
+
+• En présence d’un carcinome connu, des altérations ombilicales doivent faire penser à une métastatisation ou à une récidive.
+
+• Le tableau clinique varie. Souvent, un nodule solide, rougeâtre et parfois douloureux apparaît au niveau de l’ombilic. Il peut y avoir des ulcérations et/ou sécrétions.
+
+• Seule l’histopathologie permet un diagnostic définitif.
+
+• Le NSMJ est rare et son pronostic est défavorable.

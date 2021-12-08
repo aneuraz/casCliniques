@@ -1,0 +1,100 @@
+Fallbericht
+Anamnese und Status
+
+Wir berichten über einen 24-jährigen Mann aus Eritrea, der aus seinem Heimatland nach mehrmonatiger Reise über Äthiopien (3 Monate), Sudan (8 Monate), Libyen (7 Monate), Italien (1 Monat) im Tessin ankam.
+
+Während des Aufenthaltes in Italien wurde der Patient wegen des Verdachts auf eine Atemwegsinfektion mit Co-Amoxicillin behandelt.
+
+Nach Ankunft im Asylantenwohnheim in Chiasso (Schweiz) wurde er wegen Fieber, Bauchschmerzen und Anämie rasch der Notaufnahme des Spitals Mendrisio zugewiesen.
+
+Anamnestisch beschrieb der junge Mann einen normalerweise guten Gesundheitszustand, bestätigte jedoch einen Gewichtsverlust von etwa 5 Kilogramm während des Aufenthaltes in Lybien, was er dem dortigen Mangel an Nahrungsmitteln zusprach.
+
+Klinisch sahen wir einen mageren (46 kg) Patienten in reduziertem Allgemeinzustand, subfebril (37,9 °C), mit aufgetriebenem Abdomen und diffusem palpatorischem Druckschmerz, ohne Peritonismus. Der restliche Status zeigte keine Auffälligkeiten.
+
+Abklärungen und Diagnose
+
+Die Laborwerte zeigten eine Anämie (Hb 77 g/l), Leukopenie mit Lymphozytopenie (3,4 × 109/l), erhöhte Entzündungswerte (CRP 169 mg/l, BSR 100 mm/h), eine Hypoalbuminämie (30 g/l), einen Quick von 65% (INR 1,2) und eine γ-GT von 83 U/l (<42). Kreatinin, Urinsediment, Transaminasen und LDH waren im Normbereich.
+
+Eine Röntgenaufnahme des Thorax zeigte weder Infil­trate noch Ergüsse. Im Abdomen-Ultraschall hingegen fand sich Aszites in kleiner Menge; Leber und Milz waren in sich homogen und nicht vergrössert.
+
+Es wurden Blutkulturen angelegt, ein Blutausstrich für eventuellen Nachweis von Malaria angefertigt und Stuhlkulturen (Parasiten eingeschlossen) abgenommen. Des Weiteren wurden folgende Serologien bestimmt: Virushepatitiden (A, B, C, E), HIV, CMV, EBV, ­Coxiella, Brucellen und Schistosomen, welche alle negativ ausfielen.
+
+Eine Kontrolle des IFN-γ (Quantiferon) resultierte positiv (0,74 UI/ml, Normalwert: <0,35 UI/ml). Die Diagnostik wurde erweitert mittels Thorax-Abdomen-CT, einer Pan­endoskopie und einer Knochenmarkspunktion, die ebenfalls nicht zur Lösung des Falles beitrugen.
+
+Im nächsten Schritt wurde eine schallkontrollierte Aszitespunktion durchgeführt, die eine Erhöhung der Proteine (53 g/l) und der Lymphozyten (43,5%) zeigte. Die Kulturen für Bakterien und die PCR für Mykobakterien (Cobas Amplicor MTB) fielen negativ aus.
+
+Hingegen fand sich mit 87 U/l eine Erhöhung der Adenosin-De­aminase (ADA, Norm <40) im Aszites. Letztendlich wurde eine explorative Laparoskopie durchgeführt, welche im Bereich des Peritoneums diffuse weissliche knotenartige Läsionen zeigte (Abb. 1).
+
+Abbildung 1: Parietales anteriores Peritoneum, mit typischen weisslichen Knoten, verdächtig für tuberkulöse Peritonitis.
+
+In der Histologie fand sich eine granulomatöse nekrotisierende Entzündung (Abb. 2A) mit Säure-festen Stäbchen in der Ziehl-Neelson-Färbung (Abb. 2B). Eine zusätzlich durchgeführte Leberbiopsie zeigte keine Auffälligkeiten.
+
+Abbildung 2:A Biopsie des Peritoneums: granulomatöse nekrotisierende Entzündung (HE 400 ×).B Ziehl-Neelson-Färbung mit dem Nachweis von Säure-festen Stäbchen. (Mit freundlicher Zurverfügungstellung von Prof. Dr. med. Luca Mazzucchelli, Pathologisches Institut, Locarno.)
+
+Wir stellten also somit die Diagnose einer peritonealen Tuberkulose (TPB).
+
+Therapie und Verlauf
+
+Während zwei Monaten wurde eine antituberkulotische Vierer-Kombinationstherapie (Rifampicin, Isoniazid, Ethambutol, Pyrazinamid) mit Vitamina B6 und dann für weitere vier Monate eine Bitherapie (Rifampicin, ­Isoniazid) durchgeführt.
+
+Der Verlauf war günstig, mit Resolution sowohl der Symptomatik als auch Normalisierung der Anämie und der Entzündungswerte. Die Kulturen auf Mykobakterien im Aszites und in den entnommenen Biopsien fielen negativ aus.
+
+Trotz fehlender kultureller Bestätigung kann man bei diesem Patienten aufgrund des laparoskopischen Bildes, der typischen Histologie und des klinischen Verlaufs die Diagnose einer TPB annehmen. Unklar bleibt, ob es sich um eine Infektion mit Mycobacterium tuberculosis oder bovis handelte.
+
+Diskussion
+
+Tuberkulose ist in der schweizerischen Bevölkerung in den letzten Jahrzehnten zu einer eher seltenen Erkrankung geworden. Bei den Asylsuchenden hingegen, wie auch bei immunsupprimierten Patienten (HIV, Leberzirrhose, unter Steroiden, anti-TNF-α usw.), muss eine Tuberkulose stets von Beginn an als mögliche Diagnose eingeschlossen werden, insbesondere auch bei Fieber unklarer Genese, unspezifischer Allgemeinzustand-Verschlechterung, Gewichtsverlust usw.
+
+Im Spital Mendrisio, auf dem Migrationsweg aus Afrika liegend und in der Nähe zur Registrierungsstelle für Asylbewerber in Chiasso, sind wir häufig mit Tuberkulosefällen konfrontiert: zwischen 2004 und 2016 haben wir 103 Patienten mit aktiver Tuberkulose behandelt (davon 45 in den letzten zwei Jahren), meistens Asylsuchenden (90 Patienten bzw. 87% unserer Kasuistik).
+
+Auch wenn die Lungentuberkulose meistens dominiert, finden sich in ca. ⅛ der Fälle extrapulmonale Manifestationen. Unter unseren 103 Tuberkulose-Patienten waren 27 (also 26%) von einer extrapulmonalen Manifestation betroffen, davon einer mit peritonealer Tuberkulose (TBP).
+
+Physiopathologisch ist die TBP verschiedenartig zu erklären. Zum einen durch hämatogene oder lymphatische Streuung einer aktiven Lungen-TBC (bei 15–20% der Fälle gleichzeitig vorhanden), zum anderen durch Verschlucken von infektiösem Material der Atemwege wie auch durch Übertragung angrenzender infizierter Strukturen (urogenital, intestinal usw.).
+
+Das hauptsächlich verursachende Pathogen ist Mycobacterium tuberculosis.Es ist aber zu beachten, dass beispielsweise der Genuss unpasteurisierter Milch oder kontaminierter Lebensmittel eine TBP durch Mycobacterium bovishervorrufen kann [1, 2].
+
+Die Diagnosestellung einer TBP braucht einen fundierten klinischen Verdacht, weil sie leicht diverse abdominelle Erkrankungen imitieren kann (Morbus Crohn, Neoplasien, intestinale Parasiten usw.). Der Grossteil der Patienten mit TBP beklagt unspezifische Symptome wie Bauchschmerzen, Anorexie, Fieber, Gewichtsverlust, Diarrhoe. Oft findet sich Aszites (Tab. 1).
+
+Tabelle 1:Symptome und Zeichen einer peritonealen Tuberkulose(adaptiert nach [3]).
+Symptome	Frequenz(%)	Klinische Zeichen	Frequenz(%)
+Fieber	59	Peritonismus	47,7
+Gewichtsverlust	61	Aszites	73
+Bauchschmerz	64,5	Abdominelle Masse	6–4
+Diarrhoe	≤21	 	 
+
+Die TBP kann isoliert oder im Rahmen einer intraabdominellen Tuberkulose auftreten. Letztere kann einen Befall von Gastrointestinaltrakt, Peritoneum, Lymphknoten, Leber, Milz und Pankreas einschliessen, wobei das intestinale Vorkommen am häufigsten ist, speziell des terminalen Ileums und des Zökums.
+
+Endoskopisch unterscheidet man drei verschiedene intestinale Läsionen: ulzerös, stenotisch- oder hypertrophisch. Der Befall des Peritoneums kann «exsudativ» (durch Aszites) oder seltener «fibro-adhäsiv» (Adhärenzen, Vernarbungen, Strikturen ohne Aszites) bedingt sein. Die mesenteriellen und retroperitonealen Lymphknoten sind meistens mitbefallen und können ver­käsend oder kalzifiziert sein. Die klinischen Manifestationen sind abhängig von Lokalisation und Typ der Läsionen (Tab. 2).
+
+Tabelle2:Klinische Manifestationen der abdominellen Tuberkulose.
+ 	Typ	Klinische Charakteristika
+Dünndarm	Ulzerös	Diarrhoe, Malabsorption
+Dickdarm	Stenotisch	Obstruktion
+Ulzerös	Rektale Blutung
+Hypertrophisch	Obstruktion
+Peritoneum	Exsudativ	Aszites
+Adhäsiv	Obstruktion
+Lymphknoten	Verkäsend	Obstruktion
+Kalzifiziert
+
+Das Routine-Labor ist meist unspezifisch (Anämie, erhöhte Blutsenkungsreaktion, eventuell Hepatopathie). Hingegen sind Sonographie, Computertomographie und Kolonoskopie sehr nützlich, weil Aszites, Lymphadenopathien und eine Verdickung der Darmwand wegweisend sein können. Das CT hat eine bessere Sensitivität als der Ultraschall, um intra- und extraluminale Pathologien zu beurteilen. Die Endoskopie hilft in der Differenzierung zu anderen entzündlichen Darmerkrankungen (z.B. Morbus Crohn), vor allem durch die Möglichkeit der Entnahme für Biopsie und Kulturen.
+
+Eine isolierte TBP ist schwierig zu diagnostizieren, weil die Symptome unspezifisch und die diagnostischen Mittel z.T. noch lückenhaft sind. Die definitive Dia­gnose stützt sich auf den histologischen Nachweis von verkäsenden Granulomen und/oder auf den Nachweis von Mykobakterien. Die Aszitesflüssigkeit ist entzündlich mit Protein (>3 g/dl) und meist lymphozytenreich (>40%). Die Diagnostik durch Direktmikroskopie ist selten möglich und die Kulturen der Mykobakterien können bis zu 4–6 Wochen Zeit beanspruchen und oft negativ ausfallen (Sensitivität 35%).
+
+Diesbezüglich haben neuere diagnostische Methoden wie PCR (Polymerase Chain Reaction) und ADA ohne Zweifel die Genauigkeit der Diagnostik verbessert.
+
+Der PCR-Nachweis für TBC in der Aszitesflüssigkeit hat eine hohe Spezifität von 94%, aber eine nur mässige Sensitivität (63%, Cobas®-TaqMan™-MTB-Test) [4]. Ein ADA-Wert >40 IU/l scheint stattdessen, im Falle einer tuberkulösen Peritonitis, eine Sensitivität von 100% und Spezifität von 97% zu haben [5]. Die Bestimmung vor allem des ADA-Wertes im Aszites ist also in vielen Fällen von grosser Wichtigkeit, um eine TBP bestätigen oder ausschliessen zu können. Das Ansetzen einer empirischen Therapie im Falle eines erhöhten ADA-Wertes ist also ein guter Ansatz, während der Wartezeit der Ergebnisse von Kultur und Biopsien.
+
+Des Weiteren bleibt die Laparoskopie ein wertvolles Instrument in der Diagnostik und sollte rasch bei Verdacht auf TBP erfolgen, um Material für Biopsien und Kulturen zu gewinnen und für die Differenzialdiagnose. Speziell in dieser Untersuchung lassen sich 3 verschiedene Aspekte beurteilen: ein peritonealer Erguss mit disseminierten gelblich-weisslichen Knoten (wie bei unserem Patienten), eine fibro-adhäsive Form ohne Erguss oder ein Erguss mit oder ohne Adhärenzen. Die makroskopische Diagnostik ist in den meisten Fällen sehr zuverlässig (Sensitivität und Spezifität über 90%). Wir weisen daraufhin, dass die Entnahme einer Biopsie im Bereich der Fibro-Adhäsionen vermieden werden sollte, weil dadurch ein erhöhtes Risiko iatrogener Komplikationen provoziert wird.
+
+Die Behandlung der TBP erfolgt vorrangig medikamentös mit den konventionellen Medikamenten für eine Dauer von 6 (bis 9) Monaten und ist sehr effektiv. Ein verspätetes Ansetzen der Behandlung kann zu einer erhöhten Morbidität und Mortalität führen. Eine Studie hat gezeigt, dass über 80% der Patienten während der Wartezeit auf die Resultate der Kulturen eine klinische Verschlechterung zeigen und die Mortalität auf bis zu 35% steigt [6]. Eine chirurgische Intervention bleibt normalerweise Patienten vorbehalten, bei welchen Komplikationen auftreten, wie beispielsweise Perforation, Abszess, Fistel, starke Blutung oder mechanischer Ileus.
+
+Das Wichtigste für die Praxis
+
+• Die Diagnose einer TPB ist in Anbetracht der Seltenheit und der unspezifischen Symptomatik schwierig.
+
+• Eine tuberkulöse Peritonitis muss bei Asylsuchenden und immunsupprimierten Patienten differentialdiagnostisch bei abdomineller Schmerzsymptomatik, Fieber oder Allgemeinzustand-Verschlechterung ausgeschlossen werden, besonders bei gleichzeitiger Präsenz von Aszites.
+
+• Bei erhöhtem ADA-Wert im Aszites muss die entsprechende Behandlung mit Tuberkulostatika schnellstmöglich begonnen werden, ohne Resultate von Biopsie und Kulturen abzuwarten (bleiben oft steril).
+
+• Die Laparoskopie bleibt immer noch eine wertvolle Diagnostikmethode, vor allem in unklaren Situationen, und soll bei Verdacht auf TBP rasch erfolgen, um gezielt Biopsien für Histologie, Kultur und PCR für Mykobakterien durchführen zu können.

@@ -1,0 +1,72 @@
+Description du cas
+
+Une patiente de 70 ans, en bonne santé habituelle, consulte son médecin traitant en raison de 4 à 5 épisodes de diarrhées/jour depuis trois jours. Elle n’a pas changé son alimentation ni pris de laxatif ou voyagé récemment. Son dentiste lui a toutefois prescrit une antibiothérapie orale par co-amoxicilline suite à un traitement de racine une semaine auparavant. Son ­médecin généraliste suspecte une infection à Clostridioides (C.) difficile et réalise un dépistage des toxines A/B dans les selles par «enzyme immunoassay» (EIA), résultats négatifs. Par contre, la détection d’une enzyme de C. difficile, le glutamate déshydrogénase (GDH) par EIA, et la recherche par «polymerase chain reaction» (PCR) de gènes codant pour les toxines A et B sont positives.
+
+Question: Les résultats de laboratoire ...
+
+
+a) permettent d’exclure une infection à C. difficile.
+
+b) sont à interpréter selon la présentation clinique.
+
+c) doivent imposer une culture de selles pour confirmer l’infection à C. difficile.
+
+d) doivent être répétés car les résultats sont ambigus.
+
+Réponse
+
+
+La réponse correcte est b.
+
+Discussion
+
+L’infection à C. difficile est une cause fréquente de diarrhées intra-hospitalières mais également décrite en médecine ambulatoire. En raison d’un portage asymptomatique significatif (4,4–21% des patients hospitalisés [1], 3% des patients à leur admission à l’hôpital [2]), le diagnostic d’infection à C. difficile (CDI) reste un défi diagnostique. Clostridioides difficile, anciennement Clostridium difficile, est un bacille Gram positif, sporulé, anaérobe strict, capable selon les souches de produire deux toxines principales, une entérotoxine (tcdA) et une cytotoxine (tcdB), ainsi qu’une toxine binaire (CDT). Les toxines A et B sont des exotoxines. Elles se lient à l’épithélium intestinal et créent une inflammation ainsi qu’une sécrétion mucosale responsables des symptômes de diarrhées, douleurs abdominales et état fébrile. La toxine binaire possède deux sous-unités, CDTa avec activité enzymatique et CDTb responsable de la liaison au récepteur cellulaire. Elle altère le cytosquelette d’actine des cellules épithéliales intestinales agissant ainsi en synergie avec les toxines A et B.
+
+Selon les recommandations de l’«European Society of Clinical Microbiology and Infectious Diesases» (ESCMID), une infection à C. difficile est retenue soit en présence d’un tableau clinique compatible avec ≥3 selles liquides/jour et la présence de C. difficile produisant des toxines A et/ou B dans les selles, sans évidence pour une autre cause de diarrhée, soit en présence d’une colite pseudomembraneuse [3, 4].
+
+Une sélection rigoureuse des selles à analyser est impérative. Seules des selles non formées à liquides, correspondant à un score Bristol de stade 5 à 7 (tab. 1), devraient être transmises pour analyse. Une exception est faite en cas d’iléus avec la possibilité de réaliser un écouvillon par frottis péri-anal [5]. Selon Truong et al., le fait d’analyser uniquement les échantillons répondant aux critères diagnostiques cliniques pour une CDI (diarrhées >3 selles liquides/jour, absence de laxatifs dans les dernières 48 heures), n’augmente pas la mortalité à 30 jours, ni les hospitalisations aux soins intensifs ou les complications. L’intervention a ainsi permis de ­diminuer le nombre de tests effectués et donc la détection des colonisations asymptomatiques.
+
+Tableau 1: Score Bristol: classification des selles.
+1	Selles dures, séparées, comme des noix
+2	En forme de saucisse, mais grumeleuse
+3	En forme de saucisse avec craquelure à la surface
+4	En forme de saucisse ou serpent, lisse et douce
+5	Morceaux mous avec bords bien délimités
+6	Morceaux déchiquetés, agglomérés en une matière pâteuse
+7	Entièrement liquide, aucune partie solide
+
+Concernant le bilan biologique, plusieurs tests bactériologiques sont à disposition: 1) test de cytotoxicité («Gold standard» historique); 2) culture toxigénique comprenant la détection par tests immuno-enzymatiques (EIA) des toxines A et B à partir des selles, associée à la culture de C. difficile; 3) détection par EIA de la GDH, une enzyme de C. difficile et 4) amplification par PCR en temps réel des régions portant les gènes codant pour les toxines A, B ou binaire («nucleic acid amplification test», NAAT). Cependant, en cas de prévalence faible, aucun de ces tests ne réunit une sensibilité et spécificité suffisamment élevées pour avoir une valeur prédictive positive satisfaisante, afin de l’utiliser seul pour le diagnostic de CDI. De plus, les tests actuels disponibles ne distinguent pas un portage asymptomatique d’une souche de C. difficile toxigénique à une CDI. L’ESCMID recommande donc actuellement l’utilisation d’un algorithme décisionnel en deux ou trois étapes afin d’améliorer les valeurs prédictives positives (VPP) et négatives (VPN) des tests [3].
+
+Les tests diagnostiques peuvent être catégorisés selon qu’ils détectent des souches toxigéniques (culture toxigénique, GDH via EIA, NAAT) ou des toxines libres dans les selles (test de cytotoxicité, détection des toxines A/B via EIA). Les tests par la détection des souches toxigéniques possèdent une grande sensibilité mais ne distinguent pas une simple colonisation d’une CDI. Leur spécificité est donc mauvaise en comparaison aux tests détectant les toxines libres dans les selles (spécificité détection GDH via EIA de 82 à 95%) [6]. A l’inverse, la sensibilité de ces derniers est médiocre, avec une sensibilité variant de 29% à 86% dans le cas de la détection des toxines A/B par EIA [2].
+
+Bien que la culture et le test de cytotoxicité soient considérés comme le «gold standard» microbiologique, ils sont peu utilisés en pratique en raison de la nécessité d’expertise microbiologique et du temps nécessaire pour l’obtention des résultats (24 à 48 heures). Ils ne font donc pas partie de l’algorithme décisionnel. De plus, en l’absence de souche résistante aux antibiotiques actuels, il n’y a pas d’indication à réaliser une culture, seule technique qui permettrait la réalisation d’un antibiogramme. Les inconvénients et bénéfices des différents tests sont résumés dans la figure 1 [2].
+
+Figure 1: Inconvénients et bénéfices des différents tests (adaptée de [2]).
+
+CDI: infection à C. difficile; EIA: «enzyme immunoassay»; GDH: glutamate déshydro­génase; NAAT: «Nucleic Acid Amplification Test».
+
+L’ESCMID propose deux algorithmes décisionnels à adapter dans chaque laboratoire selon le nombre de tests réalisés et les ressources financières. La première étape de l’algorithme doit comporter un test avec une haute VPN. Ainsi, en cas de test négatif, l’infection à C. difficile peut être écartée sans investigations supplémentaires. Au contraire, en cas de résultat positif, un deuxième test avec une VPP élevée et donc une spécificité élevée est nécessaire pour confirmer le diagnostic.
+
+La détection de GDH, enzyme métabolique présente dans la majorité des souches de C. difficile toxigéniques ou non, est peu coûteuse et a une haute VPN (80–100%) [2], ce qui la définit comme un bon test de dépistage. Cependant, elle révèle uniquement la présence de C. difficile, sans prédire la présence ou l’absence de toxines.
+
+Les NAAT, basés sur une PCR en temps réel, ont une sensibilité variant entre 83 à 100% [6], permettant également de les utiliser comme test de dépistage. A noter que de multiples produits commerciaux existent pour le diagnostic moléculaire (Cobas, GenoType, Xpert, IMDx, Genspeed, BD MAX et autres), et permettent de détecter une ou plusieurs cibles: gènes codant pour la toxine B (tcdB), A (tcdA) ou binaire (cdt). A nouveau, les NAAT permettent la détection des gènes encodant les toxines et non la présence des toxines libres dans les selles. Cependant, l’avantage des NAAT est la rapidité du test permettant un résultat après 1–2 heures, plus rapide que la détection de GDH par EIA. Leurs inconvénients sont leur prix élevé et l’absence de quantification du résultat obtenu.
+
+Comme étape de confirmation, selon l’algorithme, on peut utiliser les NAAT précédemment décrits si la
+GDH EIA a été utilisée en première intention ou la détection de toxines A/B via EIA. Celle-ci utilise des anticorps monoclonaux ou polyclonaux contre les toxines du C. difficile. La spécificité du test varie entre 82 et 95% [6].
+
+Au Centre hospitalier universitaire vaudois, l’algorithme décisionnel décrit dans la figure 2 est appliqué avec le test moléculaire Cepheid GeneXpert utilisé en première intention. Ce test permet de détecter par PCR à la fois la toxine B, la toxine binaire cdt associée à des formes graves de CDI et la délétion en position 117 du gène tcdC (souche 027) nécessitant des mesures d’isolement afin de réduire les risques de dissémination de cette souche associée à des épidémies [2]. Le seuil de ­détection est de 23–460 «colony-forming units» (cfu)/écouvillon pour une infection considérée à partir de
+cinq à huit 108 cfu/g de selles. Pour rappel, CFU est l’unité utilisée pour le dénombrement des micro-organismes sur un milieu de culture solide en microbiologie. Ce test a donc une sensibilité de 93% avec une spécificité de 99% (VPP 93% et VPN 99%) [7]. En cas de test positif, celui-ci est confirmé par la recherche de toxine A/B et GDH dans les selles par EIA. Les tests microbiologiques au CHUV, à savoir l’analyse par GeneXpert, sont facturés selon les points OFAS à 180 CHF. Les immunoassays pour les toxines A/B et GDH sont évalués individuellement à 47 CHF selon les points OFAS.
+
+Figure 2: Algorithme décisionnel utilisé au CHUV (adapté de [6]).
+
+VPN: valeurs prédictives négatives, VPP: valeurs prédictives positives, NAAT: «nucleic acid amplification test», EIA: «­enzyme immunoassay», CDI: Clostridioides difficile.
+
+A noter que l’algorithme en deux temps (EIA pour toxine A/B et GDH suivi d’une confirmation par PCR en cas de résultat discordant) permet d’augmenter la sensibilité de 88 à 93%, sans modifier le nombre de faux positifs en raison de la grande spécificité des NAAT et de l’EIA pour les toxines A et B (99–100% et 99% respectivement) [7]. L’étude de Caulfield et al. en 2018 [7] révèle qu’environ 90% des selles analysées avaient un résultat concordant entre GDH et toxines A/B via EIA (soit les deux négatifs ou positifs) permettant de poser un diagnostic sans nécessité de recours à une recherche par PCR. La répétition des tests microbiologiques en cours de traitement n’apporte pas de gain sur la per­formance diagnostique. Cela augmente également le risque de détection de faux-positifs [2]. Il n’est donc pas recommandé d’analyser plusieurs échantillons de selles pour un même patient.
+
+Le critère définissant une guérison est la résolution clinique des symptômes. Il n’y a pas d’indication à répéter les tests microbiologiques à la fin de l’antibiothérapie car 20 à 56% des patients restent colonisés par C. difficile après résolution des symptômes [5] et les toxines peuvent persister jusqu’à six semaines après le traitement.
+
+Messages principaux
+
+• La recherche de Clostridioides (C.) difficile doit être effectuée uniquement en cas de diarrhées confirmées (minimum 3 selles liquides/jour, score Bristol 5 à 7).
+
+• Le diagnostic d’infection à C. difficile se base sur un algorithme diagnostique avec un premier test très sensible (NAAT ou EIA GDH dans les selles) puis un test spécifique pour la confirmation (EIA toxine A/B dans les selles).

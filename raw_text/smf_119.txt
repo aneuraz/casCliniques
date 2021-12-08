@@ -1,0 +1,166 @@
+Présentation du cas
+
+Une patiente de 19 ans s’est présentée aux urgences en raison de douleurs épigastriques droites persistant depuis une semaine, avec des nausées et un ictère. Les selles étaient normales, mais les urines avaient une coloration brune depuis quatre jours. Deux jours auparavant, elle avait mesuré une température de 38 °C. A visée antalgique, elle a pris jusqu’à 2 g/j de paracétamol, qu’elle a arrêté après deux jours par manque d’efficacité. Jusqu’alors en bonne santé habituelle, elle n’avait, à sa connaissance, jamais fait d’analyses de laboratoire. L’anamnèse était négative pour une grossesse, des voyages relevants, la consommation régulière d’alcool ou de drogues. Le statut vaccinal contre l’hépatite B était inconnu et l’anamnèse familiale négative.
+
+A l’admission, la patiente, parfaitement orientée, s’est présentée dans un bon état général et nutritionnel. Les paramètres vitaux étaient normaux. L’examen clinique a révélé un ictère scléral et cutané, ainsi qu’une douleur à la palpation au niveau de l’épigastre droit.
+
+Au laboratoire à l’admission (tab. 1), on notait la présence simultanée d’une bicytopénie (anémie et thrombocytopénie), d’une coagulopathie et d’une hépatopathie.
+
+Tableau 1: Résultats de laboratoire à l’admission.
+Hématologie	 	 	Valeurs ­normales
+Hémoglobine	80 g/l	↓	120–160 g/l
+VGM	90 fl	 	79–95 fl
+CCMH	330 g/l	 	320–360 g/l
+Leucocytes	9 G/l	 	3,5–10 G/l
+Thrombocytes	90 G/l	↓	150–450 G/l
+Coagulation	 	 	 
+INR	2,4	↑	<1,3
+Quick/TP	26%	↓	70–120%
+Chimie	 	 	 
+Sodium	138 mmol/l	 	135–145 mmol/l
+Potassium	3,7 mmol/l	 	3,6–4,8 mmol/l
+Créatinine	60 µmol/l	 	40–80 µmol/l
+Urée	4,2 mmol/l	 	2,6–6,7 mmol/l
+Glucose	4,8 mmol/l	 	4,3–6,4 mmol/l
+CRP	9 mg/l	 	<10 mg/l
+LDH	370 U/l	↑	135–214 U/l
+Lactate	1,6 mmol/l	 	0,5–2,2 mmol/l
+Albumine	24 g/l	↓	35–52 g/l
+Bilirubine	270 µmol/l	↑	<15 µmol/l
+ASAT	170 U/l	↑	11–34 U/l
+ALAT	60 U/l	↑	8–41 U/l
+yGT	300 U/l	↑	6–40 U/l
+Phosphatase alcaline	60 U/l	 	45–87 U/l
+Amylase pancréatique	36 U/l	 	13–53 U/l
+Question 1: Qu’est-ce qui ne fait pas partie des étapes diagnostiques suivantes?
+
+
+a) Formule sanguine complète et analyse approfondie de la coagulation
+
+b) Haptoglobine
+
+c) Test de Coombs
+
+d) Echographie abdominale
+
+e) Cholangiopancréatographie par résonance magnétique (Cholangio-IRM)
+
+La formule sanguine a montré une réticulocytose et de nombreuses cellules-cibles (érythrocytes en cocarde), qui se retrouvent entre autres en cas d’anémie ­hé­molytique. L’haptoglobine, effectivement diminuée (<0,05 g/l, norme 0,3–2 g/l), et un test de Coombs négatif ont permis de conclure à une anémie hémolytique à Coombs négatif. A l’analyse de la coagulation, les facteurs II (25%), V (45%) et VII (8%) étaient diminués (norme 70–120%), tandis que le fibrinogène était normal. En tenant compte de l’hépatopathie et de l’hypoalbuminémie, il a été estimé que la cause la plus probable était une insuffisance hépatique aiguë (IHA) et non pas une coagulation intravasculaire disséminée. Face à une hépatopathie ictérique, le premier examen d’imagerie réalisé a été une échographie pour évaluer les voies biliaires, la morphologie et les vaisseaux hépatiques. Elle a révélé une ascite péri-hépatique et une splénomégalie (15 cm), sans autres anomalies. Une ­ch­­­­­olangio-IRM est uniquement recommandée en deuxième ligne, notamment en cas de dilatation des voies biliaires à l’ultra-son et d’une suspicion d’une obstruction dûe par exemple à un calcul ou à une tumeur. La thrombopénie a été attribuée à la splénomégalie. Sur la base des résultats disponibles, nous avons suspecté une relation causale entre l’anémie hémolytique à Coombs négatif et l’hépatopathie.
+
+Question 2: Quelle maladie se caractérise typiquement par l’absence d’IHA avec une anémie hémolytique?
+
+
+a) Syndrome HELLP
+
+b) Paludisme
+
+c) Hépatite auto-immune
+
+d) Hépatite virale aiguë
+
+e) Maladie de Wilson (MW)
+
+Le syndrome HELLP se caractérise par la triade «hemolysis, elevated liver enzymes, low platelet count». En l’absence de grossesse chez notre patiente, ce diagnostic différentiel n’a pas été considéré. En cas de paludisme sévère, une crise hémolytique à Coombs négatif et une IHA peuvent certes survenir. En l’absence d’antécédents de voyage, nous n’avons pas réalisé de dépistage du paludisme. Bien que possible, on retrouve rarement une anémie hémolytique – à Coombs positif ou négatif – lors d’hépatite auto-immune. En cas d’hépatite virale, une anémie hémolytique n’est pas typique; une anémie aplasique a été décrite dans de très rares cas. Chez notre patiente, la sérologie n’a pas révélé de signes d’hépatite auto-immune (auto-anticorps [Ac] antinucléaires [ANA], «anti-smooth muscle» [SMA] et «anti-liver-kidney microsomal» [LKM1] négatifs). De même, il n’y avait pas d’éléments indiquant une maladie auto-immune des voies biliaires (Ac anti-mitochondries [AMA-M2] et anti-cytoplasme des polymorphonucléaires neutrophiles [ANCA] négatifs) ou une hépatite virale aiguë (Ac anti-VHA positifs [>60 UI/l], les IgM négatives correspondant à une ancienne hépatite A ou à une vaccination; antigène HBs (Ag HBs) et Ac anti-HBc négatifs, Ac anti-VHC négatifs, Ac anti-VHE négatifs). En cas de MW, il peut y avoir simultanément une IHA et une anémie hémolytique à Coombs négatif.
+
+Question 3: Quels examens ne servent pas à la pose du diagnostic en cas de suspicion de MW?
+
+
+a) Céruloplasmine sérique et cuivre dans l’urine
+
+b) Examen à la lampe à fente
+
+c) Biopsie hépatique
+
+d) Test génétique
+
+e) Imagerie par résonance magnétique (IRM) avec détermination du cuivre dans le foie
+
+Le diagnostic repose sur la combinaison de différents examens (clinique, laboratoire, histologique, génétique), la détermination du cuivre dans le foie par IRM n’en faisant pas partie. Dans un premier temps, il convient de déterminer la céruloplasmine sérique (abaissée dans 85–90% des cas) et l’excrétion de cuivre dans les urines de 24 heures (une quantité >100 µg/24 h étant évocatrice de la MW). En cas de résultat pathologique, un examen à la lampe à fente pour rechercher un anneau péri-cornéen de Kayser-Fleischer et une biopsie hépatique devraient être réalisés. L’accumulation hépatique de cuivre peut être mise en évidence au moyen de colorations spéciales, et la teneur en cuivre déterminée par photométrie.
+
+Des valeurs ≥250 µg/g de poids sec sont indicatrices d’une MW, des valeurs <50 µg/g l’excluent. En cas de valeurs comprises entre 50 et 250 µg/g, un test génétique complémentaire devrait être réalisé [1, 2]. Le score de Leipzig a été développé pour estimer la probabilité de MW dans les cas moins univoques (tab. 2). Chez notre patiente, la céruloplasmine était légèrement diminuée (0,18 g/l, norme 0,2–0,6 g/l). En raison d’une anurie, le cuivre urinaire n’a pas pu être déterminé. L’examen à la lampe à fente a montré une discrète coloration brunâtre circulaire de la face postérieure limbale de la cornée, compatible avec un anneau péri-cornéen de Kayser-Fleischer (fig. 1). La biopsie hépatique a révélé une hépatite chronique d’activité sévère avec transformation cirrhotique incomplète. La coloration par rhodamine a mis en évidence une accumulation de cuivre (fig. 2A–C), avec une teneur hépatique en cuivre de 543 µg/g (norme 10–35 µg/g de poids sec). Au vu de ces résultats (céruloplasmine diminuée, anneau péri-cornéen de Kayser-Fleischer et forte teneur hépatique en cuivre), la suspicion diagnostique de MW a été confirmée.
+
+Tableau 2: Score de Leipzig, adapté d’après [1].
+Anneau péri-cornéen de Kayser-Fleischer	Points	Anémie hémolytique à test de Coombs négatif	Points
+Présent	2	Présente	1
+Absent	 	Absente	 
+ 	 	 	 
+Symptômes neurologiques / anomalie à l’IRM ­cérébrale*	Points	Céruloplasmine sérique	Points
+Sévères	2	Normale (>0,2 g/l)	 
+Légers	1	0,1–0,2 g/l	1
+Absents	 	<0,1 g/l	2
+ 	 	 	 
+Teneur en cuivre dans le foie sec (biopsie)	Points	Cuivre dans les urines de 24 heures	Points
+>250 µg/g	2	Normal	 
+>50 et <250 µg/g	1	100–200 µg/j	1
+Normale (<50 µg/g)	–1	>200 µg/j	2
+Granules positives à la rhodamine (si mesure du cuivre hépatique impossible)	1	Normal, mais élévation >5 fois la limite supérieure de la normale après administration de D-pénicillamine**	2
+ 	 	 	 
+Analyse mutationnelle de ATP7B	Points	 	 
+Mutation sur les deux chromosomes	4	 	 
+Mutation sur un chromosome	1	 	 
+Pas de mutation	 	 	 
+ 	 	 	 
+Score total	 	Interprétation	 
+≥4 points	 	Diagnostic hautement probable	 
+2–3 points	 	Diagnostic possible, tests supplémentaires nécessaires	 
+<2 points	 	Diagnostic improbable	 
+* Hyperintensité (en T2) dans les ganglions de la base, le thalamus et le tronc cérébral (tectum et pont central).** Test de provocation à la D-pénicillamine (bien validé uniquement dans la population pédiatrique).
+
+Figure 1: Anneau péri-cornéen de Kayser-Fleischer (coloration brun doré-verte de la périphérie de la cornée par dépôt de cuivre sur la membrane de Descemet de la cornée au bord de l’iris (publication avec l’aimable autorisation du Dr S. Rothenbühler, clinique ophtalmologique, hôpital univer­sitaire de Bâle).
+
+Figure 2: Histologie de la biopsie hépatique.A, B) Les colorations à l’hématoxyline et à l’éosine (grossissement de 100 fois et 200 fois) montrent des infiltrats inflammatoires lympho-plasmocytaires dans les espaces portes avec «hépatite de la zone ­frontière» etC) la coloration à l’orcéine (grossissement de 400 fois) montre une accumulation de cuivre dans des hépatocytes et macrophages isolés. (Publication avec l’aimable autorisation du Prof. L. Terracciano, institut de pathologie, hôpital univer­sitaire de Bâle).
+
+Question 4: Quel organe n’est pas touché en cas de MW?
+
+
+a) Poumons
+
+b) Reins
+
+c) Cœur
+
+d) Peau
+
+e) Cerveau
+
+Etant donné que le foie et le cerveau sont les organes les plus souvent touchés par le dépôt de cuivre, les symptômes hépatiques, neurologiques et psychiatriques prédominent. Le tableau 3 résume les diverses manifestations cliniques. Une atteinte pulmonaire n’a jusqu’à présent pas été décrite.
+
+Tableau 3: Manifestations cliniques de la maladie de Wilson, compilées à partir de [1–5].
+Système d’organes	Symptômes
+Foie	Fréquents: élévation asymptomatique des transaminases, stéatose hépatique, hépatite aiguë, hépatite chronique active avec fibrose progressive, cirrhose hépatiqueRares: insuffisance hépatique fulminante
+Système nerveux	Fréquents: tremblements, dystonie, choréoathétose, parkinsonisme, dysarthrie, hypersalivation, dysgraphie, troubles de la concentration, troubles cognitifs, changements de ­comportement, troubles de la personnalité, états anxieux, dépression, psychose, hallucinationsRares: dysphagie, ataxie, crises épileptiques, catatonie, troubles du sommeil, en cas d’insuffisance hépatique: ­encéphalopathie
+Yeux	Fréquents:anneau péri-cornéen de Kayser-Fleischer (en cas d’atteinte hépatique isolée, dans jusqu’à 50% des cas; en cas d’atteinte neurologique, dans jusqu’à 90% des cas), ­cataracte en tournesol
+Système hématologique 	Fréquents: splénomégalieRares:leucopénie, thrombocytopénieFréquents (en cas d’insuffisance hépatique): hémolyse à Coombs négatif, coagulopathie
+Appareil locomoteur	Fréquents: ostéoporose/ostéomalacie, arthrite/arthralgie, altérations dégénératives du rachisRares: myopathie
+Système endocrinien	Fréquents: aménorrhée, dysfonction ovarienne/testiculaire, infertilité, avortements spontanésRares: hypoparathyroïdie, gigantisme
+Reins	Rares: aminoacidurie, néphrolithiase, syndrome de Fanconi (acidose tubulaire proximale)
+Cœur	Rares: arythmies, cardiomyopathie
+Tractus gastro-intestinal	Rares: pancréatite, cholélithiase
+Peau	Rares: coloration de la lunule, acanthosis nigricans, ­hyperpigmentation
+Question 5: Quelle affirmation est fausse?
+
+
+a) Les chélateurs du cuivre et le zinc sont les médicaments de premier choix.
+
+b) Sous traitement de chélateur de cuivre, les patients ont un bon pronostic à long terme.
+
+c) Une alimentation sans cuivre est une composante essentielle du traitement.
+
+d) La transplantation hépatique est jusqu’à présent le seul ­traitement curatif.
+
+e) Un dépistage familial des patients atteints de la MW est ­recommandé.
+
+Le traitement réside dans la prise précoce et à vie de chélateur du cuivre (D-pénicillamine ou trientine) et de zinc, qui permettent généralement d’avoir une espérance de vie normale en cas de diagnostic et de traitement précoces. Les chélateurs se lient au cuivre déposé dans les organes et l’excrètent par voie rénale sous forme de complexe. Le zinc réduit l’absorption entérale du cuivre. L’objectif est en premier lieu d’éliminer le cuivre accumulé en excès et en second lieu de prévenir une nouvelle accumulation. La maladie est létale, si elle n’est pas traitée. En particulier au début du traitement, les aliments riches en cuivre (crustacés, noix, cacao, champignons et abats) devraient être évités, mais un régime sans cuivre n’est pas nécessaire et pratiquement irréalisable [2, 3]. Une transplantation hépatique est indiquée en cas d’IHA et de cirrhose hépatique terminale. Etant donné que la transplantation permet de supprimer le défaut génétique de la protéine de transport du cuivre dans les hépatocytes, le patient est considéré comme guéri [3]. Dans la mesure où les frères et sœurs d’un patient atteint de la MW ont une probabilité de développer la maladie de 1:4 et que les enfants des patients ont une probabilité de 1:200, un dépistage génétique familial visant une initiation précoce du traitement chez les patients encore pré-symptomatiques est recommandé [2, 4]. En raison de l’IHA, notre patiente a été transférée dans le centre de transplantation hépatique le plus proche, où, en présence d’une encéphalopathie hépatique et de troubles de la coagulation croissants, ainsi que d’une insuffisance rénale nécessitant une dialyse, la transplantation a eu lieu quatre jours plus tard. L’évolution postopératoire a été réjouissante, avec une normalisation complète des fonctions hépatique et rénale.
+
+Discussion
+
+La MW est une maladie métabolique génétique à ­transmission autosomique-récessive, dont l’incidence s’élève à 1:30 000. La mutation du gène ATP7B perturbe la fonction de transport de la protéine hépatique ATP7B, se traduisant par une diminution de l’excrétion biliaire du cuivre et de la liaison du cuivre à la céruloplasmine [3]. Le cuivre ingéré quotidiennement avec l’alimentation (1–2 mg/j) s’accumule alors au niveau ­intra-hépatique et entraîne la destruction des hépatocytes, avec une libération de cuivre libre (non lié) dans la circulation sanguine. Par ce biais, le cuivre s’accumule dans d’autres organes, menant à des dysfonctions [1, 2]. L’anémie hémolytique à Coombs négatif est la conséquence de l’effet toxique du cuivre sur les ­érythrocytes [3].
+
+La pose du diagnostic de MW en cas d’IHA représente un cas particulier, car il se peut alors que les paramètres de laboratoire diagnostiques classiques ne soient pas interprétables: la céruloplasmine peut être faussement normale/élevée et l’excrétion de cuivre dans les urines peut ne pas être utilisable en cas défaillance rénale [1]. Pourtant en cas d’IHA, certaines anomalies de laboratoire peuvent déjà fournir des indices diagnostiques quant à la présence d’une MW. Ainsi, comme chez notre patiente, il y a souvent une anémie hémolytique à Coombs négatif concomitante, une phosphatase alcaline nettement diminuée par rapport à l’hyperbilirubinémie (phosphatase alcaline: bilirubine totale <4) et un quotient de De Ritis élevé (ASAT:ALAT) >2,2 [1–3].
+
+Bien que la MW soit globalement considérée comme une cause rare d’IHA (environ 5% des cas), une IHA s’observe à l’inverse chez jusqu’à 10% des patients avec MW. Ainsi, face à toute IHA, la MW devrait être envisagée dans le cadre du diagnostic différentiel, notamment lors de la présence d’une anémie hémolytique à Coombs négatif.
+
+Réponses:
+
+
+Question 1: e. Question 2: d. Question 3: e. Question 4: a. Question 5: c.

@@ -1,0 +1,23 @@
+Description du cas
+
+Un patient âgé de 60 ans sans antécédents médicaux connus, ni prise régulière de médicaments s’est présenté à notre consultation d’urgence en raison d’un œdème indolore à la jambe droite, présent depuis environ six semaines. Le tableau clinique se caractérisait par un œdème unilatéral rouge pâle impressionnant sur la partie inférieure de la jambe (fig. 1).
+
+Figure 1 A+B: Œdème rouge pâle de la partie inférieure de la jambe droite. Les deux images ont été prises pendant la consultation initiale du patient présenté. (La publication a lieu avec l’accord du patient).
+
+Le statut neurologique n’a révélé aucune anomalie pathologique. L’échographie Doppler a permis d’exclure une thrombose veineuse ainsi qu’une insuffisance veineuse chronique.
+
+Au cours de l’anamnèse approfondie, le patient a mentionné qu’il aimait cueillir des champignons dans son temps libre. A l’issue de questions ciblées, il s’est souvenu avoir été piqué par une tique au talon droit environ huit semaines auparavant. En présence d’une forte suspicion clinique d’acrodermatite chronique atrophiante (ACA), une sérologie de borrélies a été réalisée. Le test ELISA de détection d’anticorps IgG et IgM contreBorrelia burgdorferia fourni un résultat positif. De même, le test de confirmation par Western Blot des IgG contreBorrelia burgdorferiétait également positif. En présence d’un spectre de bandes large et positif (p83/100, VIsE, p58, p39, p20, p19) ainsi que d’un dépistage négatif des IgG/IgM contre Treponema pallidum, nous avons pu établir le diagnostic d’une ACA au stade œdémateux – une forme cutanée tardive de la borréliose de Lyme.
+
+Le traitement antibiotique par doxycycline (p.o., 100 mg 1–0–1) sur quatre semaines [1] a abouti à une ­régression complète des symptômes. Aucune réaction de Herxheimer n’est survenue au début du traitement.
+
+Discussion
+
+Les tiques dures du genre Ixodes, vivant typiquement dans les graminées, buissons et forêts généralement au-dessous de 1200 mètres d’altitude, constituent les principaux réservoirs de borrélies. Jusqu’à 40% des tiques sont porteuses de Borrelia burgdorferi [2].
+
+Avec une prévalence de 1–10% selon la région d’Europe, l’ACA est la manifestation tardive la plus fréquente de la borréliose de Lyme [3], qui, contrairement à notre exemple de cas, ne survient généralement qu’après plusieurs mois voire années après la piqûre de tique. Cela entraîne souvent un diagnostic erroné ou retardé [3]. Classiquement, le tableau clinique initial présente un stade œdémateux infiltratif avec coloration rougeâtre de la peau, comme chez notre patient. Il apparaît ensuite une coloration rouge pâle à brunâtre de la peau avec atrophie cutanée [4]. Dans plus de la moitié des cas, des paresthésies et une allodynie ont été décrites [5]. Le traitement de choix repose sur la doxycycline ou encore l’amoxicilline. Si les symptômes cutanés persistent pendant plus de six semaines malgré un traitement conforme aux directives, il convient d’envisager des diagnostics différentiels tels que la vascularite ­urticarienne, la sarcoïdose, la teigne, la sclérodermie circonscrite ou d’autres dermatopathies. Il faut néanmoins compter plusieurs mois voire années pour une guérison prolongée, en particulier en présence d’un œdème persistant dans le cadre de l’ACA [4].
+
+Résumé
+
+– Particulièrement dans les régions endémiques des borrélies, telles qu’en grande partie la Suisse, il convient de toujours envisager l’ACA en présence d’un œdème unilatéral de la jambe après exclusion d’une thrombose veineuse.
+
+– En cas de manifestations cutanées de la borréliose chez l’adulte, la doxycycline constitue le traitement de choix.

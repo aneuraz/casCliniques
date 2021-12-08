@@ -1,0 +1,72 @@
+Contexte
+
+Nous voulons présenter ici une entité rare (tumeur fibreuse solitaire [TFS]) de localisation inhabituelle (rétropéritoine).
+
+Présentation du cas
+Anamnèse
+
+Une femme de 80 ans nous a été adressée par son gynécologue traitant pour des investigations supplémentaires en raison d’une tumeur indéterminée comprimant le vagin. De plus, la patiente a constaté un gonflement de la fesse gauche présent depuis plus d’1 an, qui augmentait en taille et était particulièrement douloureux en position assise. La patiente a déclaré ne souffrir d’aucune irrégularité d’élimination des selles ou d’émission des urines, ni d’aucun symptôme B. L’anamnèse personnelle a uniquement révélé un syndrome douloureux cervico-spondylogène présent depuis des années, ainsi qu’une cholécystectomie par voie ouverte réalisée plusieurs dizaines d’années auparavant. La patiente ne prenait pas de traitement médicamenteux régulier.
+
+Status et résultats
+
+La patiente présentait un excellent état général et nutritionnel. Les paramètres vitaux étaient normaux. L’examen a révélé une nette asymétrie de la région glutéale (fig. 1) et une résistance palpable dans le bas-ventre, du côté gauche. Au toucher rectal, une masse était également palpable du côté gauche. Au niveau inguinal, aucune lymphadénopathie n’était palpable. Une déviation du vagin vers la droite a été constatée à l’inspection et à la palpation.
+
+Figure 1: Masse visible au niveau de la région glutéale gauche, avec déviation vers la droite (La publication a été réalisée avec l’accord de la patiente.).
+
+Il n’a pas été possible de réaliser un examen au spéculum ni une échographie transvaginale. Les analyses biologiques ont révélé une anémie microcytaire hypochrome (118 g/l), une leucocytose de 19,4 × 109/l et un taux de protéine C réactive légèrement élevé (26 mg/l), les autres valeurs étant normales. Une masse volumineuse au niveau du petit bassin, du côté gauche, avec un effet de déplacement était observable à l’échographie abdominale. L’IRM a montré une tumeur principalement solide et bien délimitée dans le petit bassin, qui s’étendait jusque dans les tissus mous de la fesse, avec un déplacement impressionnant des organes vers la droite et en direction ventrale (fig. 2). La tomographie par émission de positons couplée à la tomodensitométrie (TEP-TDM) au 18F-FDG du corps entier qui a suivi a révélé un métabolisme élevé de la tumeur (fig. 3), sans signe de métastase thoracique ou abdominale. L’origine de la tumeur n’a pu être déterminée radiologiquement.
+
+Figure 2: Imagerie par résonance magnétique du petit bassin, native, pondération T2: (A ) horizontale, (B ) sagittale: tumeur hypointense, bien circonscrite (flèche rouge)
+avec déplacement des organes adjacents, s’étendant jusque dans la région glutéale.
+
+Figure 3: TEP-TDM au 18F-FDG: horizontale, masse solide avec accumulation de FDG intense et hétérogène (flèche rouge).
+
+Diagnostic
+
+La biopsie percutanée guidée par échographie a abouti au diagnostic de néoplasie compatible avec une TFS. Aucun signe de malignité (hypercellularité, atypies cellulaires, mitoses, nécroses tumorales ou croissance infiltrante) n’a été constaté.
+
+Traitement
+
+Sur la base des résultats radiologiques et histologiques, une exérèse d’emblée de la tumeur a été recommandée à la patiente. La tumeur localisée dans le rétropéritoine a pu être réséquée via une laparotomie médiane. En raison d’adhérences étendues dans la région pubienne gauche, une résection macroscopique en tissu sain n’a toutefois pas été réalisée (R2). Cela a été confirmé histologiquement sur une longueur d’environ 3 cm. L’examen histologique définitif a démontré la présence d’une TFS (fig. 4) et a indiqué un risque accru de récidive et de métastases (voir ci-dessous). Le tissu réséqué mesurait 18 × 9 × 8 cm et pesait un peu plus de 1000 g (fig. 5). Après l’opération, une neurapraxie du nerf obturateur gauche est survenue. Au demeurant, la patiente s’est heureusement bien remise de l’intervention.
+
+Figure 4: Tumeur fibreuse solitaire avec de nombreuses
+mitoses (coloration HE; 400×).
+
+Figure 5 : Pièce opératoire, env. 18 × 9 × 8 cm,
+poids d’au moins 1000 g.
+
+Discussion
+
+La TFS appartient au groupe des tumeurs des tissus mous fibroblastiques ou myofibroblastiques à malignité intermédiaire (rarement métastatique). Cette entité était connue sous différents noms (par ex. «hémangiopéricytome» ou «mésothéliome bénin», etc.) et était principalement associée à la plèvre. La découverte d’une altération génétique récurrente a amené à réunir ces entités originellement indépendantes sous le terme générique de TFS [1]. Il s’agit d’une fusion intrachromosomique de gènes (NAB2-STAT6) localisée sur le bras long du chromosome 12q13, une mutation responsable de la croissance tumorale. La TFS est une entité très rare, qui survient le plus souvent au cours de la cinquième ou de la sixième décennie de la vie et qui affecte les deux sexes de façon indifférenciée [1].
+
+Les symptômes sont pour la plupart non spécifiques et dépendent de la localisation. La TFS peut survenir à n’importe quelle localisation anatomique [2]. Avec une croissance lente et le plus souvent indolente, la TFS devient cliniquement perceptible principalement par le déplacement des organes voisins et les symptômes que ce déplacement occasionne. En fonction de la localisation, elle peut atteindre une taille impressionnante, comme dans le cas présent. En présence d’un syndrome paranéoplasique, une hypoglycémie peut survenir dans environ 5% des cas; cette hypoglycémie régresse une fois la tumeur réséquée. La cause évoquée est une production d’«insulin-like growth factor» (facteur de croissance analogue à l’insuline) (IGF-2) [3].
+
+Dans le cadre du diagnostic différentiel, il convient de rechercher et d’exclure activement d’autres tumeurs des tissus mous, comme par exemple les fibrosarcomes ou les liposarcomes. Le diagnostic définitif est posé à l’aide de l’examen histologique. Outre l’observation au microscope d’une tumeur mésenchymateuse, une positivité accrue de STAT6etCD34 à l’immunophénotypage, entre autres, est révélatrice [1]. L’histologie peut également être utilisée pour évaluer le risque de métastases ou de récidives. Demicco et al. [4] proposent un modèle de stratification du risque, qui inclut l’âge (>55 ans), une activité mitotique élevée, la taille de la tumeur et les nécroses tumorales comme facteurs et qui définit trois catégories («low», «intermediate» et «high risk»).
+
+Le traitement de référence de la TFS dans le rétropéritoine est l’exérèse complète de la tumeur en cas d’affection localisée. Une résection en tissu sain doit être visée. Une radiothérapie préopératoire ou postopératoire n’est pas utilisée de manière routinière [5]. Les données disponibles sur cette thérapie sont marginales. Seuls des séries et rapports de cas sont disponibles dans la littérature, mais aucune recommandation ne peut en être tirée. En fonction de la catégorisation du risque et des résultats du traitement chirurgical, une radiothérapie adjuvante ou postopératoire peut être envisagée.
+
+Le cas présenté montre de manière exemplaire la croissance oligosymptomatique de la tumeur et les signes cliniques résultant de l›effet de déplacement.
+
+La tumeur a pu être retirée par laparotomie. Le diagnostic a été posé grâce à la détection immunohistochimique de STAT6 et de CD34. Un liposarcome dédifférencié a pu être exclu en raison de l’absence d’amplification du gène MDM2.
+
+Au vu de l’âge de la patiente, de la taille de la tumeur et de la détection de 21 mitoses/10 champs à fort grossissement (CFG), il existe un risque élevé de biologie agressive dans le cas présent, d’après le modèle ci-dessus. Compte tenu de la résection R2, une radiothérapie postopératoire a été discutée avec la patiente. Madame S. était très réticente à cet égard en raison de son âge et d’une toxicité potentielle dans le champ d’irradiation. Par conséquent, des contrôles radiologiques étroits ont été recommandés. Heureusement, les premiers contrôles (à 3 et 12 mois) n’ont montré aucune récidive tumorale.
+
+L’essentiel pour la pratique
+
+• La tumeur fibreuse solitaire était principalement associée à la plèvre, mais peut survenir dans n’importe quelle localisation.
+
+• Les symptômes surviennent principalement à la suite du déplacement des organes adjacents causé par la croissance de la tumeur.
+
+• L’ablation chirurgicale est le traitement de référence.
+
+• L’indication de la radiothérapie (préopératoire ou postopératoire) doit être posée sur la base de la constellation de risque individuelle.
+
+• Le risque de métastases et de récidives dépend de l’âge, des critères histologiques mentionnés ci-dessus et de la taille de la tumeur.
+
+Abréviations:
+
+
+NAB2: NGFI-A (Nerve Growth Factor Inducible A gen) Binding Protein
+
+STAT6: Signal Transducer and Activator of Transcription
+
+MDM2: Murine Double Minute Oncogene

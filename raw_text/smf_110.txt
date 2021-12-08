@@ -1,0 +1,73 @@
+Description du cas
+
+Un patient de 82 ans, connu pour de légers troubles cognitifs, une insuffisance rénale chronique de stade II ­(selon Cockroft-Gault) et une fibrillation auriculaire (FA) sous rivaroxaban 20 mg, est retrouvé au sol à son domicile. Tachycarde à l’arrivée des ambulanciers, il se plaint d’une douleur thoracique.
+
+Après un bilan complet aux urgences, la tomodensitométrie (TDM) thoracique met en évidence une embolie pulmonaire segmentaire. Le patient dit prendre son ­rivaroxaban tous les matins.
+
+Question: Parmi les attitudes suivantes concernant l’anticoagulation, quelle investigation n’est pas utile?
+
+
+a) Estimer le délai entre la dernière prise de comprimé et la prise de sang
+
+b) Doser l’activité anti-Xa du rivaroxaban
+
+c) Déterminer l’INR («International normalized ratio»)
+
+d) Contrôler la fonction rénale
+
+Réponse:
+
+
+La réponse correcte est c.
+
+Discussion
+
+Les anticoagulants oraux directs (ACOD) sont apparus sur le marché suisse en décembre 2008, sous les noms d’apixaban, dabigatran, édoxaban et rivaroxaban. Contrairement aux antivitamines K (AVK) et aux héparines, ces nouveaux anticoagulants oraux ont une ­action directe. A savoir l’inhibition de la thrombine (facteur IIa) indépendamment de l’antithrombine pour le dabigatran, et l’inhibition du facteur Xa libre et lié au complexe pro-thrombinase pour le rivaroxaban, l’apixaban et l’édoxaban.
+
+Ces nouveaux anticoagulants sont maintenant largement utilisés dans la prévention primaire des accidents vasculaires cérébraux (AVC) chez les patients en FA non valvulaire ou dans le traitement et la prévention secondaire de la thrombose veineuse profonde (TVP) et de l’embolie pulmonaire (EP). Le rivaroxaban et l’apixaban sont également reconnus dans la prévention primaire des TVP/EP dans le cadre de la chirurgie orthopédique prothétique (genou et hanche). Des études récentes permettent d’élargir ces indications à certains sous-groupes de patients initialement non représentés dans les études de validation, notamment les patients oncologiques.
+
+Les ACOD présentent de nombreux avantages, tels qu’une administration orale, un dosage fixe, la diminution du risque d’hémorragie intra-crânienne et l’absence d’interaction alimentaire, si ce n’est l’importance de la prise du rivaroxaban avec les repas pour une absorption optimale. Quant aux inconvénients, nous retiendrons le taux d’hémorragies gastro-intestinales plus élevé qu’avec les AVK, les interactions médicamenteuses avec les inhibiteurs ou inducteurs forts de la glycoprotéine-P et du CYP3A4/3A5 [1]. De plus, ­l’absence d’antidote spécifique des ACOD reste une préoccupation majeure, même si l’arrivée récente de l’idarucizumab, un anticorps monoclonal se liant au dabigatran, (disponible en Suisse) et l’andexanet alfa, une version recombinante et inactivée du facteur Xa humain (accepté en 2018 par la «Food and Drug Administration» [FDA]), ouvrent cette voie. En cas d’hémorragie sous anticoagulation efficace, il existe une série de mesures préconisées, à adapter selon la gravité du saignement et du taux d’activité anti-Xa mesuré. Le charbon actif peut être considéré dans les deux heures après la prise du traitement. Une efficacité partielle est reconnue pour les concentrés de complexe de prothrombine à 25–50 UI/kg (p. ex. Beriplex®, Prothromplex®) et pour le concentré de complexe de prothrombine activé (FEIBA®) aux doses de 25–50 UI/kg. Finale­ment, le facteur VII activé (NovoSeven®) peux être employé, à une dose de 90 μg/kg. Quant à l’hémodialyse, elle n’est utilisée que pour le dabigatran. Dans les situations graves, l’échange plasmatique est une option pour les autres ACOD.
+
+Les contre-indications principales des ACOD sont, en règle générale, un débit de filtration glomérulaire («glomerular filtration rate» [GFR]) inférieur à 30 ml/min selon Cockcroft-Gault, l’hépatopathie sévère (y compris cirrhose Child A pour le dabigatran), les valves prothétiques cardiaques mécaniques et le syndrome des antiphospholipides.
+
+Le rivaroxaban est un inhibiteur direct et sélectif du facteur Xa, dont le dosage est fixé selon l’indication ­clinique et la clairance à la créatinine. La biodisponibilité du médicament se situe entre 80 et 100% avec un début d’action rapide (2 à 4 heures) et une courte demi-vie (9 à 14 heures, augmentant chez la personne âgée). Une pharmacocinétique stable et prévisible rend le monitoring de la concentration plasmatique inutile de routine. Il existe néanmoins une variabilité inter-­individuelle (p. ex. âge, poids extrêmes, dysfonction hépatique ou rénale) et intra-individuelle non négligeable.
+
+Aucun test ne permet actuellement de mesurer directement l’activité anticoagulante in vivo de ces médicaments et les analyses usuelles de la coagulation (taux de prothrombine [TP]/INR, temps de céphaline activée [aPTT]) ne sont pas informatives dans ce contexte, ce qui est également le cas pour les héparines et le ­fondaparinux. Il est en revanche possible de mesurer indirectement le taux plasmatique de l’anticoagulant oral (rivaroxaban, apixaban ou édoxaban) en dosant l’activité anti-Xa, via un test chromogénique que nous détaillerons ci-dessous (fig. 1) ou, pour le dabigatran, en dosant l’activité anti-IIa. Le prix de cette analyse est de 45 points tarifaires, soit 45 CHF. Ce test chromogénique est disponible en moins de 60 minutes dans la majorité des laboratoires mais présente un certain nombre de limitations quant à son interprétation clinique [2].
+
+Figure 1: Principe du test chromogénique pour doser le rivaroxaban, l’apixaban ou l’edoxaban (illustration didactique).
+
+1. Echantillon de plasma citraté du patient contenant une concentration inconnue d’anticoagulant oral direct (ACOD) (p.ex. rivaroxaban). 2. On y ajoute du facteur Xa exogène en excès et en quantité constante. Une partie du facteur Xa exogène est inhibée par l’ACOD présent dans l’échantillon. 3. Le facteur Xa résiduel (non inhibé par l’anticoagulant) peut alors réagir avec un substrat chromogénique spécifique au facteur Xa par une réaction d’hydrolyse. 4. Cette réaction libère le chromophore (para-nitroaniline, pNA; couleur jaune) du substrat. La quantité de pNA générée (mesurée par l’absorbance à 405 nm) est inversement proportionnelle à la quantité d’ACOD. Grâce à une courbe d’étalonnage réalisée avec des calibreurs à concentration connue de rivaroxaban, la «quantité de couleur générée» est convertie en concentration de rivaroxaban (ng/ml).
+
+L’interprétation du taux plasmatique nécessite impérativement de connaître l’heure de la dernière prise de rivaroxa­ban, afin de déterminer s’il s’agit du pic de concentration observé généralement entre 2 et 4 heures ou du taux résiduel (juste avant la prise suivante). Dans notre vignette clinique, il est donc indispensable ­d’estimer le délai entre la dernière prise du médicament et la prise de sang. En fonction du dosage, il est alors possible de se référer aux résultats retrouvés dans les différentes études de phase II et III, calculés en fonction de différents percentiles (tab. 1). Ainsi, les taux au pic de concentration sous traitement de rivaroxaban 20 mg/j se situent grossièrement entre 150 et 400 ng/ml, avec un taux pic moyen de 215–270 ng/ml. Le taux résiduel présente des valeurs moyennes entre 25 et 45 ng/ml, avec un intervalle compris entre 10 et 150 ng/ml. Ces valeurs sont utiles à l’interprétation du résultat dans une situation donnée.
+
+Tableau 1: Taux pics et taux résiduels observés dans les différentes études, selon le dosage de l’anticoagulant [3].
+Anticoagulant oral	Posolgie	Taux pic1	Taux résiduel1
+Dabigatran [4]	150 mg 2×/j	175 (117–275)*	60 (40–95)*
+Rivaroxaban [5, 6]	20 mg 1×/j	250 (150–400)†	30 (10–150)†
+Apixaban [7]	5 mg 2×/j	150 (160–320)†	80 (20–230)†
+Edoxaban [8, 9, 10, 11]	60 mg 1×/j	200 (120–320)*	30 (10–60)*
+1 Valeurs médianes et IQR* («interquartile range») ou moyenne et 5/95 percentiles† approximatives sur la bases des différentes études publiées.
+
+Dans plusieurs situations cliniques, la mesure du taux plasmatique de l’anticoagulant oral serait souhaitable voire nécessaire. C’est le cas lors d’un événement thrombo-embolique (TVP, EP, AVC) ou hémorragique sous rivaroxaban, apixaban ou édoxaban en vue d’une évaluation étiologique. Le dosage de l’anti-Xa est donc indiqué dans le cas clinique ci-dessus, alors qu’une mesure de l’INR n’apporterait aucune information sur l’activité anticoagulante. A titre d’exemple, un taux résiduel de 110 ng/ml confirme que l’EP a eu lieu malgré un taux d’anticoagulant adéquat, ce qui évoque un nouvel état pro-thrombotique.
+
+En urgence, la mesure de l’activité anti-Xa est également utile pour évaluer la faisabilité d’une procédure chirurgicale. En effet, un taux résiduel inférieur à 30 ng/ml permet d’envisager une intervention sans ­aucune augmentation du risque hémorragique. Par ­ailleurs, une mesure supérieure à 400 ng/ml laisse suspecter un surdosage et serait liée à un risque hémorragique majeur. Il n’y a pas de données solides pour estimer le risque hémorragique associé aux concentrations intermédiaires [12].
+
+Déterminer la concentration plasmatique résiduelle est également indiqué dans le cas d’un changement d’anticoagulant par un autre, d’une insuffisance rénale ou hépatique (risque d’accumulation), d’un poids corporel extrême ou d’une suspicion d’interaction médicamenteuse (taux augmenté ou diminué). Il est donc important de contrôler la fonction rénale et hépatique dans le contexte d’une prise de ACOD .
+
+Dans le cas d’un saignement majeur, le dosage de l’activité anti-Xa peut aider à évaluer la part attribuable à l’anticoagulant (vs autre cause).
+
+Une corrélation entre le dosage in vitro de l’activité anti-Xa (qui exprime la concentration plasmatique du médicament) et l’activité anticoagulante in vivo des ACOD est probable mais pas facilement mesurable. Contrairement à l’activité anti-Xa spécifique de l’héparine, il n’existe pas de seuil de concentration supra- ou infra-thérapeutique validé pour le rivaroxaban ou les autres ACOD. Ce dosage doit donc être utilisé avec prudence et peut nécessiter l’avis d’un hématologue pour son interprétation [13].
+
+Des études prospectives sont nécessaires afin de permettre, entre autres, de guider l’administration d’éventuels antidotes ou d’assurer une adaptation individuelle des posologies en vue d’améliorer l’équilibre risque-bénéfice dans certains sous-groupes de patients (p. ex.: poids extrêmes, état pro-thrombotique, facteurs génétiques, interactions médicamenteuses).
+
+Certains facteurs influencent le résultat notamment un taux élevé d’hémoglobine (>2mg/ml), de bilirubine (>171 umol/l) ou de triglycérides (>1,41 mmol/l). D’autre part, la mesure peut être faussée en présence d’autres substances ayant une activité anti-Xa. C’est le cas par exemple d’un patient sous ACOD, pour lequel un relais par héparine de bas poids moléculaire / héparine non fractionnée (HPBM/HNF) est effectué en cours d’hospitalisation, sans contrôle préalable du taux d’ACOD. Le résultat peut être faussé car il n’est pas possible de discriminer l’origine de l’activité anti-Xa. Pour y remédier, des inhibiteurs spécifiques peuvent être employés afin de permettre de mesurer l’activité résiduelle sélective d’un ACOD (après élimination des HBPM/HNF par héparinase) ou d’une héparine (après absorption des ACOD par charbon actif).
+
+Pour le futur …
+
+Les ACOD sont particulièrement efficaces pour réduire la génération de thrombine [14]. Une méthode encore expérimentale s’intéresse à l’évaluation de l’effet anticoagulant in vivo, en utilisant les biomarqueurs de la ­génération de thrombine: fragments de prothrombine 1+2 (F1+2), le complexe thrombine-antithrombine (TAT) et les D-dimères, tous trois diminués par les ACOD. Ce concept permettrait d’affiner l’adaptation du dosage à certaines catégories de patients (p. ex.: poids extrêmes, patients oncologiques, etc) [3].
+
+Messages principaux
+
+• Le dosage de la concentration plasmatique d’un anticoagulant oral ­direct (ACOD) est recommandé en urgence lors d’une hémorragie ou d’une intervention non planifiée, en cas d’insuffisance rénale aiguë ou lors d’un événement thromboembolique sous traitement. La mesure du taux ­résiduel est utile pour estimer le risque d’accumulation (p.ex.: fonction rénale diminuée, interactions médicamenteuses).
+
+• Le dosage de l’activité anti-Xa est une mesure du taux plasmatique du rivaroxaban (ou apixaban ou edoxaban) et non un reflet direct de son activité anticoagulante in vivo, d’où la prudence nécessaire lors de son interprétation et les limites de son utilisation dans la pratique clinique en l’absence de cible thérapeutique validée.

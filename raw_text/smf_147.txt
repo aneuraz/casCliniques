@@ -1,0 +1,89 @@
+Description du cas
+
+Il s’agit d’un patient de 81 ans, connu pour un syndrome métabolique complet et traité par radio-chimiothérapie (cétuximab) pour un carcinome épidermoïde de la base de la langue de stade 4. Dans ce contexte, il est au bénéfice d’une nutrition entérale.
+
+Lors d’un bilan sanguin, les résultats montrent des ­protéines sériques totales à la limite supérieure de la norme (79 g/l), une anémie (hémoglobine 94 g/l) normochrome normocytaire arégénérative avec légère anisocytose («red cell distribution width» [RDW] 18,3%), une légère lymphopénie (0,79 G/l soit 16% des leucocytes), des tests de cholestase perturbés (gamma-GT 179 U/l, phosphatase alcaline 124 U/l) ainsi qu’une lactate déshydrogénase (LDH) augmentée (277 U/l), créatinine 48 μmol/l (eGFR 116 ml/min).
+
+Devant ces résultats, une électrophorèse et une immunosoustraction complétée par une immunofixation des protéines sériques sont réalisées et donnent les ­valeurs suivantes: IgG 24,1 g/l (7,00–14,50), IgA 1,85 g/l (0,71–4,07), IgM 0,89 g/l (0,34–2,41), Ig-Kappa libre 157 mg/l (3,30–19,40), Ig-Lambda libre 46,2 mg/l (5,71–26,30), rapport Kappa/Lambda libre 3,40 (0,26–1,65).
+
+Comment interprétez-vous ce résultat?
+
+
+a) Gammapathie polyclonale d’origine infectieuse (sérologie pour HSV IgM limite, sérologies EBV positives en IgG et en IgM)
+
+b) Triple gammapathie monoclonale: double IgG Kappa et mono IgG Lambda
+
+c) Gammapathie polyclonale avec des chaînes lourdes (IgG) et des chaînes légères (Kappa et Lambda) dans un contexte oncologique métastatique
+
+d) Myélome multiple de type IgG Kappa
+
+Réponse:
+
+
+La réponse correcte est b.
+
+Discussion
+
+Les résultats montrent la présence inhabituelle d’une triple gammapathie monoclonale à IgG Kappa et IgG Lambda. En effet, l’immunosoustraction de la fraction IgG (fig. 1 C) révèle sur le tracé la disparition des trois pics d’immunoglobulines, avec la disparition du principal pic à l’immunosoustraction de la fraction Kappa (flèches rouges sur fig. 1 C et D). Présence également d’une fine bande Lambda à l’immunofixation (flèche verte sur fig. 1 C et D).
+
+Figure 1: Analyse des protéines sériques:A ) électrophorèse normale avec 6 pics de protéines;B ) électrophorèse d’un patient avec myélome multiple;C ) profil de notre patient avec tracé d’immunosoustraction pour la fraction IgG etD ) pour la fraction kappa. La ligne jaune indique l’électrophorèse sans immunosoustraction, la ligne bleu turquoise l’électrophorèse avec immunosoustraction. Meilleure visualisation de la double gammapathie monoclonale IgG kappa et de la gammapathie monoclonale IgG lambda sur l’immunofixation (E ).
+
+Les résultats de l’électrophorèse des protéines sériques (prix: CHF 31.–, selon la Liste des Spécialités de l’Office fédéral de la santé publique) sont transmis sous forme quantitative (calcul de l’aire sous la courbe). En cas d’anomalie de la zone des gammaglobulines, une immunosoustraction (CHF 53.–) est réalisée. Cette dernière permet de précipiter, et donc soustraire, la fraction d’immunoglobuline souhaitée (IgG, IgM, IgA, kappa κ, lambda λ) et de réaliser à nouveau l’électrophorèse afin de préciser l’origine du pic monoclonal (ou bi-tri-/polyclonal). En cas de doute à l’immunosoustraction, une immunofixation (CHF 53.–) est réalisée où les classes d’immunoglobulines sont révélées par des anticorps spécifiques, augmentant la sensibilité. L’interprétation du résultat est donnée sous forme d’une remarque précisant le type de gammapathie, en prenant en considération les deux techniques utilisées. Enfin, un dosage des chaînes légères libres sériques (FLC [«free light chain assay»], CHF 37.– ×2) permet de calculer le rapport κ:λ. Un rapport (ratio) anormal suggère un excès ou une diminution de l’une des deux chaines légères libre qui, en principe, traduit une expansion clonale. Il permet également de diagnostiquer une maladie des chaines légères libres (en général kappa) ou une amyloïdose primaire (en général lambda). En cas d’insuffisance rénale chronique, il convient d’utiliser des normes de références adaptées. En effet, on observe une augmentation des chaines ­légères libres polyclonales dans ce contexte [1].
+
+L’électrophorèse des protéines sériques est composée de 6 pics principaux détaillés dans la figure 1 A [2] et dont les caractéristiques principales sont résumées dans le tableau 1.
+
+Tableau 1: Caractéristiques, composition et conditions physiologiques et pathologiques modifiant les différents pics observés sur une électrophorèse des protéines sériques (c.f. figure 1).
+ 	1erpic:Albumine	2èmepic:Protéines alpha-1	3èmepic:Protéines alpha-2	4èmepic:Protéines bêta-1	5èmepic:Protéines bêta-2	6èmepic:Protéines gamma
+Caractéristiques	Pic majeur (55–65%)Rare bisalbuminémie héréditaire ou acquise (bêta-lactames ou pancréatite chronique)	Pic mineur (1–4%)	Pic mineur (6–10%)	Pic mineur (4–7%)	Pic mineur (4–7%)	Pic intermédiaire (12–20%)
+Protéines	Albumine	Alpha-1-antitrypsine, prothrombine, HDL,thyroglobuline	Antithrombine, haptoglobine, plasminogène, céruloplasmine, A2M	Transferrine, fibrinogène, hémopexine, LDL	Complément C3–C4, IgA	Immunoglobulines IgA, IgG, IgM, IgD, IgE; chaines ­légères kappa et lambda
+Facteurs augmentant	Toujours fausse ­(hémoconcentration ou perfusion d’albumine)	Maladies inflammatoires aigües ou chroniques, syndrome néphrotique	Hémolyse intravasculaire (complexe hémoglobine-
+haptoglobine),
+syndrome néphrotique, maladie inflammatoire	Infection, inflammation, anémie ferriprive, paraprotéinémie dans la zone des bêta-globulines, grossesse, contraception
+hormonale	Hypercomplémentémie d’origine inflammatoire, cholestase intra- ou extrahépatique, gammapathie monoclonale à IgA, cirrhose éthylique/hépatite virale chronique (fusion des zones bêta-2 et gamma par augmentation des IgA polyclonales connue sous le terme de «bloc bêta-gamma»)	c.f. tableau 2, anticorps monoclonaux
+Facteurs diminuant	Dénutrition, néphropathies (syndrome néphrotique), hépatopathies (cirrhose, carcinome hépatocellulaire), pertes digestives (malabsorption) ou cutanées (brûlures étendues)	Hyperthyroïdie, hépatopathies, déficit congénital en alpha-1-anti­trypsine, insuffisance hépatocellulaire, dénutrition	Insuffisance hépatocellulaire, dénutrition	Insuffisance hépatique, dénutrition, surcharge martiale, pertes digestives ou rénales	Hypocomplémentémie par consommation ou déficit congénital	Déficit immunitaire commun
+variable (CVID), immunodéficience primaire (PID), ­médicaments
+(immunosuppresseurs, AINS,
+phénytoïne,
+sulfasalazine ou D-pénicillamine)
+Abréviations: AINS: anti-inflammatoire non stéroïdien; A2M: alpha-2 microglobuline; CVID: «common variable immune deficiency»; HDL: «high-density lipoprotein»; LDL: «low-density lipoprotein»; PID: «primary immuno-deficiency»
+
+La sensibilité de la combinaison 1) électrophorèse des protéines sériques avec 2) immunofixation des protéines sériques et 3) dosage des chaînes légères libres est de 97,4% pour toutes les gammapathies monoclonales, 100% pour les myélomes multiples (symptomatiques ou non) et 97,1% pour les gammapathie monoclonale de signification indéterminée (MGUS). Elle est donc ­similaire voire supérieure à l’utilisation de l’immunofixation des protéines urinaires (sensibilités de 97%, 98,7%, et 100%, respectivement) [3]. Cette dernière technique n’est en principe plus à utiliser. En effet, elle ne permet de détecter des chaines légères qu’en présence d’un dépassement de la capacité tubulaire de réabsorption de celles-ci (environ 30 mg/l). Notons encore que la prévalence d’une paraprotéinémie retrouvée dans la population générale augmente avec l’âge. Elle est globalement de 1% dans la population générale, de 5% chez les personnes de >70 ans et jusque 10% chez les personnes de >80 ans. Cet examen ne sera donc réalisé qu’en cas d’indication claire (cf. ci-dessous).
+
+Les indications médicales fréquemment rencontrées motivant la réalisation d’une électrophorèse des protéines sériques sont [3] (abréviations dans le tab. 2):
+
+Tableau 2: Etiologies (par ordre croissant de prévalence de bas en haut) cancéreuses et non cancéreuses retrouvées le plus fréquemment lors d’électrophorèses des protéines sériques anormales. Les pathologies cancéreuses sont divisées selon les immunoglobulines produites, les pathologies non cancéreuses par catégories cliniques.
+Type d’immunoglobuline	Immunoglobuline monoclonale(pathologies hémato-oncologiques)	Immunoglobuline polyclonale(pathologies non cancéreuses)	Catégories
+IgG	– MGUS (très fréquent)– Myélome multiple (MM) (fréquent)–Plasmocytome–Syndrome de POEMS/Castelman (rare)	–Arthrite rhumatoïde–Lupus érythémateux systémique–Sclérodermie–Hypothyroïdie de Hashimoto	Auto-immune
+IgM	– MM ou MGUS (très fréquent)– Macroglubulinémie de Waldenström (lymphome lymphoplasmocytaire)– Leucémie lymphoïde chronique (LLC)–Lymphome de bas grade–Plasmocytome	–HIV (lymphome, MM ou amyloidose sous HIV)–HBV/HCV (lymphome, MM ou amyloidose sous HBV/HCV)–Endocardite bactérienne–Mycobacterium tuberculosis–EBV	Infectieuse
+IgA	– MM ou MGUS (très fréquent)–Plasmocytome–Syndrome de POEMS/Castelman (rare)	–Cirrhose (alcoolique, virale, toxique, NASH)–Hépatite–Syndrome de dépendance à l’alcool	Hépatique
+Autres	– Pathologies lymphoprolifératives→LNH et LH–Maladie des chaînes lourdes (IgG, IgM, IgA, pas de dépôt amyloïde)(rare)	–Pyoderma gangrenosum–Xanthogranulomatose nécrobiotique	Cutanée
+Chaînes légères	– Maladie des chaînes légères (en général kappa, pas de dépôt amyloïde)–Amyloïdose primaire AL (en général lambda, dépôt amyloïde)	–Reconstitution immune après greffe de moelle autologue/allogreffe–CVID ou PID	Autres
+Abréviations: CVID: «common variable immune deficiency»; EBV: Epstein-Barr virus; HIV: «human immunodeficiency virus»; HBV/HCV: hepatitis B/C virus; LH: lymphome de ­Hodgkin; LNH: lymphome non-Hodgkinien; MGUS: «monoclonal gammopathy of unknown significance»; MM: myélome multiple; PID: «primary immuno-deficiency»; POEMS: «polyneuropathy, organomegaly, endocrinopathy, monoclonal protein and skin changes»; PP: paraprotéinémie.
+
+– Suspicion et suivi thérapeutique d’un myélome multiple (atteinte de type CRAB – i.e. hypercalcémie, insuffisance rénale, anémie, atteinte osseuse) [4].
+
+– Bilan d’adénopathie/cytopénie avec suspicion d’hémopathie maligne lymphomateuse (leucémie lymphoïde chronique [LLC], lymphome de Hodgkin [LH], lymphomes non-Hodgkiniens [LNH]).
+
+– Bilan d’une néphropathie d’origine indéterminée ou d’un syndrome néphrotique.
+
+– Bilan d’une neuropathie périphérique chronique d’origine indéterminée et/ou d’un syndrome du tunnel carpien (10% de gammapathie monoclonale lors des investigations) [5].
+
+– Bilan d’une insuffisance cardiaque réfractaire (amyloïdose primaire).
+
+– Infections récurrentes suspectes d’un déficit immunitaire humoral de type «common variable immune deficiency» (CVID) ou «primary immuno-­deficiency» (PID) se manifestant par un «trou d’immunoglobulines» ou thrombopénie immune (CVID).
+
+– Lors d’infection de type HIV (aspect oligoclonal en «dents de scie» par synthèse inefficace d’immunoglobulines, myélome ou lymphome induit par le HIV), ou HBV/HCV (aspect polyclonal, myélome ou lymphome induit par le HBV/HCV).
+
+– Bilan post-greffe (reconstitution immune avec aspect oligoclonal).
+
+Etant donné les nombreux paramètres influençant le tracé d’électrophorèse des protéines sériques, le cas clinique présenté plus haut est très illustratif. En effet, notre patient souffre d’une dénutrition (hypoalbuminémie à 27 g/l, protéines totales à 79 g/l dans un contexte de gammapathie monoclonale, hypoprotéinémie alpha-1/2 et bêta-1), d’une carence martiale (hyperprotéinémie bêta-1 avec transferrine mesurée à 15 mmol/l dans un contexte inflammatoire avec une ferritine dont la valeur est de 1115 mg/l), d’un carcinome épidermoïde traité par anticorps monoclonal chimérique IgG1 (pic monoclonal gamma observé uniquement avec certains anticorps monoclonaux). De plus, il présente une LDH augmentée à 277 U/l (lymphome, ­tumeur, hémolyse: hyperprotéinémie alpha-2, pic gamma), une atteinte hépatique cholestatique (gammapathie polyclonale, hypoprotéinémie alpha-1/2 et bêta-1), d’une infection par EBV (gammapathie polyclonale, hypoalbuminémie à 27 g/l, hyperpotéinémie alpha-1/2 et bêta-1). Devant la suspicion de métastases hépatiques chez notre patient, un PET-CT est réalisé et révèle deux zones hépatiques hypermétaboliques accessibles à des biopsies. L’histologie révèle la présence inattendue d’un lymphome diffus à grandes cellules B IgM-kappa CD30 négatif, Myc et Bcl-2 positifs.
+
+Cette situation permet d’illustrer les limites de l’électrophorèse avec immunosoustraction ou immunofixation. Quoique très sensible, elle ne permet pas à elle seule de différencier, par exemple, entre un myélome multiple ou un syndrome lymphoprolifératif. Le Tableau 2 illustre les étiologies les plus fréquentes triées par clonalité (mono- ou polyclonal), prévalence, catégories étiologiques et type d’immunoglobuline.
+
+Messages principaux
+
+• L’électrophorèse des protéines sériques, couplée à l’immunosoustraction, est l’examen de choix pour le diagnostic des paraprotéinémies.
+
+• L’électrophorèse des protéines sériques devrait également être demandée devant un tableau de neuropathie périphérique ou de néphropathie d’origine indéterminée, ainsi que lors d’infections récurrentes.
+
+• L’électrophorèse des protéines sériques est susceptible d’être modifiée par de nombreuses conditions physiopathologiques, il est dès lors important d’en mentionner l’indication retenue lors de chaque demande afin d’obtenir une interprétation optimale par le laboratoire.

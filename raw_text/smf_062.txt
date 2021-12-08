@@ -1,0 +1,136 @@
+Description du cas
+
+Un patient de 58 ans, connu pour un diabète de type 2 sous insuline, une hypothyroïdie et un éthylisme ancien, consulte pour une prise pondérale et une dyspnée progressive avec des œdèmes des membres inférieurs, sans douleur thoracique ni d’autre symptôme respiratoire. Il rapporte un prurit évoluant depuis des mois ainsi que des arthralgies généralisées. Mis à part les comorbidités susmentionnées, il n’y a pas d’autre antécédent personnel ou familial relevant. L’examen clinique révèle des œdèmes en anasarque, des râles crépitants pulmonaires, une turgescence jugulaire, une hépatomégalie palpable à 3 cm du bord costal, ainsi qu’une mélanodermie sans autre lésion cutanée. L’électrocardiogramme (ECG) montre un rythme sinusal sans signes d’ischémie. Au bilan biologique, les éléments notables sont un NTproBNP élevé et une cytolyse hépatique, sans cholestase. Une échographie cardiaque met en évidence une cardiomyopathie restrictive avec dysfonction systolique sévère (fraction d’éjection [FE] de 27%).
+
+Question 1: Quel examen complémentaire peut rapidement vous orienter vers le diagnostic définitif?
+
+
+a) Transferrine carboxydéficiente («carbohydrate deficient transferrin» [CDT])
+
+b) Bilan martial (ferritine et coefficient de saturation de transferrine)
+
+c) IRM cardiaque
+
+d) Biopsie myocardique
+
+e) Alpha-fétoprotéine
+
+Le CDT est un marqueur d’une consommation alcoolique excessive chronique active avec une bonne spécificité (>95%). Un CDT élevé donnerait une indication de l’étiologie, éthylique, de la cardiopathie. Néanmoins, avant de retenir ce diagnostic, de plus amples investigations sont nécessaires afin d’exclure une autre cause [1] et notre patient se déclare abstinent depuis 2 ans.
+
+Le bilan martial comprend les analyses indiquées devant ce tableau (cardiomyopathie, diabète, mélanodermie avec prurit, arthralgies et hépatomégalie), qui fait suspecter une hémochromatose. L’élévation de la ferritine n’est pas suffisante pour conclure à une surcharge en fer car il s’agit d’une protéine de la phase aiguë, élevée dans de nombreuses conditions inflammatoires et les atteintes du parenchyme hépatique. Le coefficient de saturation de la transferrine est plus spécifique. Une saturation >45% est suspecte d’une surcharge en fer et demande plus d’investigations.
+
+Une IRM cardiaque est utile, parfois indispensable, pour définir la cause d’une cardiopathie, notamment restrictive [2]. En revanche il s’agit d’un examen onéreux dont l’indication doit être posée par le cardiologue.
+
+Une biopsie myocardique permet la plupart du temps d’identifier la cause d’une cardiomyopathie, mais elle fait partie des examens de dernier recours vu son caractère invasif.
+
+L’alpha-fétoprotéine est un marqueur tumoral souvent élevé dans le contexte d’un carcinome hépatocellulaire (CHC), plus fréquent dans le contexte d’un éthylisme chronique ou d’une hémochromatose.
+
+Le bilan martial de notre patient est hautement pathologique avec une ferritine à 8600 µg/l et un coefficient de saturation de la transferrine à 94%. Une IRM cardiaque et une biopsie myocardique seront effectuées ultérieurement et montrent des signes de surcharge en fer avec hémosidérose intramyocytaire (fig. 1A–F et 2). Nous retenons donc le diagnostic d’hémochromatose.
+
+Figures 1: A–F) Images d’IRM d’hémosiderose sur les différentes coupes (axiale [A,D], coronaire [B,E], sagittale [C,F]) cardiaques (flèche). Séquence de cartographie T2* en IRM cardiaque (valeurs abaissées à 8 ms pour des valeurs normales à >20 ms).
+
+Figure 2: Biopsie endomyocardique: Le cytoplasme des cardiomyocytes sont chargés de fer. La coloration de bleu de Prusse met en évidence les ions Fe2+(grossissement 400×).
+
+On distingue l’hémochromatose primaire, d’origine génétique avec des mutations affectant les gènes impliqués dans le métabolisme du fer et sa régulation, de l’hémochromatose secondaire, principalement consécutive aux polytransfusions et/ou à une érythropoïèse inefficace.
+
+Question 2: Quel est la procédure indiquée pour déterminer l’origine de l’hémochromatose?
+
+
+a) Complément d’anamnèse
+
+b) Recherche de mutation du gène HFE
+
+c) Recherche de mutation des gènes de l’hémojuveline (HJV) et de la ferroportine
+
+d) Biopsie osteomédullaire
+
+e) Biopsie hépatique
+
+Le premier pas est un complément d’anamnèse à la ­recherche de conditions associées à une érythropoïèse inefficace (hémoglobinopathies, syndromes myélodysplasiques) ainsi qu’une anamnèse détaillée de l’historique transfusionnel du patient et dans ses parents.
+
+Les anomalies génétiques touchant les protéines clés du métabolisme du fer peuvent causer une hémochromatose primaire, les plus fréquentes (90% de cas) sont les mutations du gène HFE; les seules effectuées dans le cadre d’un dépistage [3–5]. La protéine HFE s’attache aux récepteurs 1 et 2 de transferrine (TfR1/2). En l’absence de carence en fer, le TfR1 est saturé par la transferrine biferrique et l’HFElie principalement le TfR2. Le complexe HFE-TfR2 active l’HJV qui promeut la production de l’hépcidine, la protéine régulatrice principale de l’absorption du fer au niveau intestinal. La mutation de l’HFE empêche son interaction avec le TfR2 et la production de l’hépcidine est bloquée entraînant une absorption accrue du fer (0,5–1 g de fer/an). L’hémochromatose se manifeste ainsi après l’âge de 40 ans, plus tard chez les femmes (20 g de fer environ cumulés et début de défaillances organiques).
+
+Les mutations des gènes de la ferroportine et de l’ HJV sont beaucoup plus rares. De plus, la mutation de la ferroportine est autosomale dominante; le patient aurait probablement déjà un de ses parents atteint. L’hémochromatose avec mutation de l’HJV est dite «juvénile» et se manifeste avant les 30 ans [3].
+
+La biopsie ostéomédullaire (BOM)est utile si l’hyperferritinémie est associée à une anémie ou à d’autres cytopénies. Elle diagnostiquera une maladie hématologique sous-jacente (syndrome myélodysplasique [SMD], aplasie médullaire ou anémie sidéroblastique). Dans notre cas, en absence d’anémie, la BOM n’est pas indiquée.
+
+La biopsie hépatique est actuellement, supplée par les techniques moléculaires et d’imagerie [3, 4], sauf pour la recherche des complications de type cirrhose et CHC [3–5].
+
+Question 3: Quelle atteinte d’organe est moins fréquente dans l’hémochromatose héréditaire?
+
+
+a) Cardiovasculaire
+
+b) Neurologique
+
+c) Cutanée
+
+d) Ostéoarticulaire
+
+e) Endocrinienne
+
+Le système cardiovasculaire est atteint chez environ 40% de patients. Le plus souvent on retrouve une cardiopathie restrictive ou dilatée qui se présentent chez environ 30% des patients [4–6].
+
+Le système neurologique n’est que rarement touché, grâce à la barrière hémato-encéphalique qui prévient l’accumulation pathologique du fer. Seuls des cas sporadiques avec une atteinte des noyaux gris se manifestant par des symptômes extrapyramidaux, une ataxie, un myoclonus, ou une chorée sont décrits [7].
+
+Les dépôts ferriques provoquent une hyperpigmentation cutanée chez environ 70% des patients. Une porphyrie cutanée tardive est parfois rapportée [4, 6].
+
+L’atteinte ostéoarticulaire est présente chez environ 45% de patients sous forme d’arthralgies diffuses ou d’une arthropathie de la 2ème et 3ème articulation métacarpophalangienne [4–6].
+
+L’atteinte endocrinienne est fréquente avec 48% de patients atteints d’un diabète, souvent insulino-requérant, et 45% de patients masculins atteints d’un hypogonadisme hypogonadotrope. Les autres présentations endocriniennes sont l’hypothyroïdie et l’ostéoporose [4–6].
+
+Notre patient, présente des atteintes multiples au diagnostic: une mélanodermie, des arthralgies, un diabète, une hypothyroïdie, un hypogonadisme, une ostéoporose, une cardiopathie restrictive et une cirrhose.
+
+Question 4: Quel traitement est proposé à ce stade de la maladie?
+
+
+a) Saignées hebdomadaires
+
+b) Saignées mensuelles/bimensuelles
+
+
+c) Erythrocytaphérèse
+
+d) Chélateurs du fer
+
+e) Régime diététique
+
+Un traitement par saignées hebdomadaires doit être instauré sans délais chez un patient atteint d’une hémochromatose avec complications multi-organiques. Une amélioration de la plupart des atteintes et de la survie globale est attendue. Le cible de ferritine est entre 50–100 µg/l ­[5, 8]. Chez les patients avec un surcharge en fer de >30 g cette phase initiale peut durer environ 2 ans (chaque saignée de 400 ml enlève environ 250 mg de fer) [4, 9]. Les saignées sont ensuite espacées dans la phase d’entretien, afin de maintenir le taux cible, le plus souvent 3–4× par année. En l’absence d’autre contre-indication ces patients sont alors acceptés comme donneurs de sang [5, 8, 9].
+
+L’erythrocytaphérèse permet un échange de globules rouges avec un retour isovolémique en préservant les autres éléments sanguins comme le plasma, les facteurs de coagulation et les plaquettes. Les indications suisses sont limitées à certaines hémoglobinopathies, notamment la drépanocytose. Par rapport aux transfusions, elle permet de réduire le risque d’hémochromatose secondaire [5, 9].
+
+Les chélateurs de fer sont utilisés pour le traitement de l’hémochromatose secondaire chez les patients transfuso-dépendants (thalassémie ou SMD). Pour l’hémochromatose héréditaire ils sont indiqués seulement en cas d’intolérance ou de réponse insuffisante aux saignées [5, 8, 9].
+
+Les recommandations diététiques sont d’éviter la surconsommation de la viande rouge, d’alcool ainsi que de vitamine C (>500 mg/j) qui favorise l’absorption du fer alimentaire. De plus, il est déconseillé de consommer des fruits de mer crus pour éviter les infections ­favorisées par la surcharge en fer (p.ex. Vibriovulnificus). Elles sont proposées à tous les patients, mais ne constituent pas un traitement [8, 9].
+
+Notre patient a commencé un traitement par saignées hebdomadaires de volume réduit en raison de la ­cardiopathie. Durant une année de saignées le volume total retiré est estimé à 19 l, ce qui correspond à environ 12 g de fer. Au vu d’une mauvaise tolérance et de la difficulté d’atteindre la cible thérapeutique, un traitement par déférasirox a été ajouté à la dose de 450 mg/j (environ 10 mg/kg comme proposé par la littérature [10]) avec un arrêt précoce des saignées. Le patient est toujours sous traitement par déférasirox avec un bon contrôle de sa ferritine.
+
+Question 5: Quelle complication de l’hémochromatose est irréversible, malgré la correction de la surcharge en fer?
+
+
+a) Hyperpigmentation cutanée
+
+b) Atteinte endocrinienne (diabète, hypogonadisme)
+
+c) Cirrhose hépatique et risque de CHC
+
+d) Cardiopathie
+
+e) Arthralgies
+
+Avec un traitement bien conduit, la plupart des complications de l’hémochromatose présentent une amélioration.L’hyperpigmentation cutanée régresse chez environ 70% de cas. Parmi les complications endocriniennes, l’hypogonadisme présente une amélioration chez 20% de cas, plus fréquemment chez les patients de <40 ans. De même, le profil glycémique du diabète s’améliore chez 40% de cas, mais la dépendance insulinique reste inchangée. En revanche, une fois établie, la cirrhose hépatique ne régresse pas, mais sa progression peut être ralentie avec un contrôle ferrique strict. Le risque de CHC reste inchangé malgré le traitement. Parmi les autres complications, la cardiopathie s’améliore fréquemment, les arthralgies chez environ 30% de cas et les symptômes généraux chez 55% [4, 11, 12].
+
+Avec le traitement instauré, on observe une correction progressive de la ferritine (3108 µg/l après 1 an, 198 µg/l après 2 ans et 75 μg/l après 2,5 ans) (voir fig. S1 dans l’annexe joint à l’article en ligne). Notre patient a présenté une nette amélioration de sa cardiopathie passant d’une FE de 27 à 49% après 1 an et à 57% après 2 ans. ­Malheureusement, sa cirrhose CHILD A5 est restée inchangée et 2 ans après le diagnostic d’hémochromatose il a développé un CHC multifocal BCLC («Barcelona ­clinic liver cancer») B.
+
+Discussion
+
+L’hémochromatose héréditaire est une maladie caractérisée par une accumulation pathologique du fer due à une absorption excessive au niveau intestinal. L’anomalie génétique la plus fréquente est la mutation C282Y du gène HFE à l’état homozygote. La transmission est de type autosomal récessif. L’incidence est de 10% pour les hétérozygotes et de 0,5% pour les homozygotes dans la population caucasienne. Cependant en raison d’une ­pénétrance variable, les manifestations cliniques se présentent chez 10% seulement des homozygotes, avec une prédominance masculine (28,4 vs 1,2%). La mutation H63D du gène HFE est plus rare, avec une pénétrance moindre, mais les doubles homozygotes C282Y et H63D peuvent également présenter une hémochromatose clinique. Il existe d’autres mutations rares, touchant d’autres protéines impliquées dans la régulation du métabolisme du fer, qui provoquent un tableau ­d’hémochromatose (voir tab. S1 dans l’annexe joint à l’article en ligne). Un screening génétique est recommandé pour les membres de la famille au premier degré, afin de ­détecter les cas familiaux.
+
+Les manifestations sont multi-systémiques. La triade classique est celle de cirrhose, mélanodermie et ­diabète, donnant à la maladie le nom «diabète bronzé». Le traitement de première intention consiste en saignées itératives pour obtenir une ferritine-cible de ­50–100 µg/l. La chélation médicamenteuse est réservée en cas d’intolérance ou de réponse insuffisante. Les atteintes d’organes sont pour la plupart réversibles sous traitement, sauf les atteintes cirrhotiques et le risque de CHC. Malgré un traitement bien conduit, les complications qui influencent la survie sont la ­cirrhose, le CHC et le diabète.
+
+Réponses:
+
+
+Question 1: b. Question 2: b. Question 3: b. Question 4: a. Question 5: c.
+
+L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2021.08616.

@@ -1,0 +1,119 @@
+Description du cas
+
+Patient de 83 ans, hospitalisé dans le service de médecine interne pour une dyspnée aiguë de stade NYHA III, une prise de poids de 3 kg, des œdèmes des membres inférieurs remontant à mi-cuisse et une turgescence jugulaire, malgré l’adaptation du traitement diurétique. A noter une saturation transcutanée en oxygène ­normale. Le patient est connu pour une insuffisance rénale chronique de stade III, une fibrillation auri­culaire anticoagulée par acénocoumarol et une hyper­tension artérielle traitée par enalapril-hydrocholorothiazide, spironolactone, torasémide et aténolol.
+
+Une cardiomégalie, un émoussement des récessus costo-diaphramatiques associés à un discret épanchement pleural droit sont présents à la radiographie thoracique. Une fibrillation auriculaire normocarde à 65 bpm, une déviation axiale gauche et un bloc de branche droit incomplet sont mis en évidence à l’ECG, sans comparatif à disposition.
+
+Au laboratoire, «N-terminal pro-brain natriuretic peptide» (NT-proBNP) à 11 759 ng/l et créatinine à 247 µmol/l (intervalle de référence 62–106 µmol/l).
+
+A l’échocardiographie transthoracique, la fraction d’éjection du ventricule gauche (FEVG) est conservée (>52%). Le ventricule droit présente une dilatation sévère avec une dysfonction globale. La pression pulmonaire systolique est estimée à 56 mm Hg (limite supérieure: 35 mm Hg). On note la présence d’une insuffisance mitrale modérée et insuffisance tricuspide fonctionnelle sévère sur dilatation de l’anneau.
+
+Question: Quand le dosage du NT-proBNP est-il recommandé chez un patient hospitalisé pour une dyspnée aiguë et présentant une suspicion clinique de décompensation cardiaque?
+
+
+a) A l’entrée
+
+b) A l’entrée et à la sortie
+
+c) A plusieurs reprises pendant le séjour à but de monitoring 
+
+d) Uniquement en cas de doute diagnostic
+
+Réponse:
+
+La réponse correcte est a.
+
+Discussion
+Rappel de physiologie
+
+Le «pro-brain natriuretic peptide» (pro-BNP) est secrété par les ventricules cardiaques lors d’un étirement des cardiomyocytes. Le pro-BNP est métabolisé en un métabolite actif, le «brain natriuretic peptide» (BNP), et en métabolite inactif, le NT-proBNP. Le BNP a un effet vasodilatateur sur les cellules musculaires lisses des vaisseaux sanguins, diminuant ainsi la précharge. Il agit sur le rein en induisant la diurèse et en augmentant la natriurie. Il a également un effet inhibiteur sur le système rénine-angiotensine [1, 2]. Une variabilité intra-individuelle de ces peptides allant jusqu’à 30% est observée du fait de leur sécrétion pulsatile par les ventricules cardiaques [3].
+
+Le BNP a une demi-vie courte d’environ 20 minutes tandis que le NT-proBNP a une demi-vie plus longue ­allant de 1 à 2 heures. On retrouve ainsi dans la circulation sanguine une concentration plus élevée de NT-proBNP que de BNP [4]. Si les augmentations de BNP ou de NT-proBNP ont la même signification et la même performance clinique, leurs valeurs ne peuvent pas être comparées. Pour un suivi de patient, il faut donc utiliser la même méthode de mesure [5].
+
+Interprétation des valeurs de peptides ­natriurétiques dans des conditions aiguës
+
+Selon les recommandations européennes ESC («European Society of Cardiology») de 2016 [6], il est recommandé de doser le BNP ou NT-proBNP lors de toute dyspnée aiguë associée à des signes d’insuffisance cardiaque (recommandation de classe I niveau A), ceci pour orienter le diagnostic différentiel de la dyspnée entre une cause cardiaque et non cardiaque; les peptides natriurétiques étant plus élevés chez les patients qui présentent une dyspnée secondaire à une décompensation cardiaque aiguë comparé aux autres causes de dyspnée aiguë [7].
+
+En cas de dyspnée aiguë, un NT-proBNP <300 ng/l, ou un BNP <100 ng/l, permet d’exclure une insuffisance cardiaque avec une sensibilité haute de 99% et une ­valeur prédictive négative de 98% [7]. Une ­échocardiographie n’est par ailleurs pas recommandée d’office.
+
+Pour des valeurs de NT-proBNP >300 ng/l, un seuil ajusté à l’âge est proposé; en effet, le NT-pro-BNP augmente avec l’âge en partie lié à certaines comorbidités [8].
+
+Avant 50 ans, un NT-proBNP >450 ng/l (ou >1200 ng/l en cas de maladie rénale chronique [9]), entre 50 et 75 ans >900 ng/l et dès 75 ans >1800 ng/l permet, en ­association aux signes cliniques de diagnostiquer une insuffisance cardiaque aiguë (fig. 1 et tab. 1).
+
+Figure 1: Algorithme d’interprétation du «brain natriuretic peptide» (BNP) et «N-terminal pro-brain natriuretic peptide» (NT-proBNP) en cas de dyspnée aiguë (adaptée de [10]).
+
+Tableau 1: Sensibilité, spécificité, valeurs prédicatives positive et négative du «brain natriuretic peptide» (BNP) et «N-terminal pro-brain natriuretic peptide» (NT-proBNP) selon différentes situations.
+ 	Sensibilité [%]	Spéci­ficité [%]	Valeur ­prédictive positive [%]	Valeur ­prédictive négative [%]
+Dyspnée d’origine cardiaque	 	 	 	 
+BNP >100 ng/l	90	76	79	89
+NT-proBNP >450 ng/l (<50 ans) [7]	97	93	76	99
+NT-proBNP >900 ng/l (50–75 ans) [7]	90	82	83	88
+NT-proBNP >1800 ng/l (>75 ans) [7]	85	73	92	55
+Dyspnée d’origine cardiaque chez BPCO	 	 	 	 
+BNP >100 nl/l [21]	93	77	52	98
+NT-proBNP >300 ng/l [22]	94	61	44	97
+Diagnostique d’exclusion	 	 	 	 
+NT-proBNP <300 ng/l [7]	99	60	77	98
+BPCO: bronchopneumopathie chronique obstructive
+
+Cette stratification selon l’âge permet d’augmenter la sensibilité du diagnostic d’insuffisance cardiaque ­aiguë en présence de dyspnée chez les patients jeunes et en augmente la spécificité chez les plus âgés [7].
+
+Une variation de >25% entre un dosage de NT-proBNP réalisé dans des conditions non décompensées et entre un dosage réalisé en cas d’acutisation d’une décompensation cardiaque chronique permet de poser le diagnostic d’acutisation de décompensation cardiaque chronique [9].
+
+Une zone grise est définie pour le NT-proBNP entre le seuil d’exclusion de 300 ng/l et les seuils ajustés à l’âge de confirmation de diagnostic d’insuffisance cardiaque aiguë en cas de dyspnée aiguë (entre 100 et 400 ng/l pour le BNP). En cas de valeur en zone grise, il est ­proposé d’explorer une alternative diagnostique (diagnostic différentiel de dyspnée) et de réaliser des investigations complémentaires comme une échocardiographie [10].
+
+L’insuffisance cardiaque est la principale cause d’élévation du BNP/NT-proBNP. Certaines conditions comme l’hypoxie ou l’ischémie stimulent les cardiomyocytes à sécréter du BNP/NT-proBNP.
+
+Parmi les autres causes d’élévation des peptides natri­urétiques figurent la bronchopneumopathie chronique obstructive (BPCO), l’embolie pulmonaire, l’hypertension pulmonaire, la cirrhose hépatique, la fibrillation auriculaire et l’insuffisance rénale [6] qui se retrouvent en général à des valeurs se situant dans la zone grise. Le tableau 2 illustre les causes d’élévation du BNP d’origine cardiaque et non cardiaques.
+
+Les mécanismes physiopathologiques amenant à l’augmentation des peptides natriurétiques dans les situations susmentionnées diffèrent.
+
+En cas d’obésité, la synthèse du pro-BNP est diminuée et la clairance rénale augmentée, entraînant des concentrations circulantes de peptides natriurétiques plus basses (d’environ 40%) [11].
+
+Le NT-proBNP étant principalement éliminé par voie rénale, une insuffisance rénale aiguë ou chronique engendre des taux anormalement élevé de NT-proBNP. Cette élévation n’est donc pas due à une pathologie ­cardiaque mais à un défaut de clearance des métabolites [3].
+
+Dans l’hypertension pulmonaire, l’augmentation des pressions pulmonaires entraîne une dilatation des ­cavités droites pouvant aller jusqu’à une dysfonction ventriculaire droite, entraînant ainsi une augmentation du BNP [12]. Ceci peut se voir chez des patients ­atteints de BPCO très sévère. Ainsi, la valeur prédictive positive du BNP pour une insuffisance cardiaque dans cette catégorie de patient est plus basse que dans la ­population générale [2]. Le tableau 1 indique les différentes sensibilités, spécificités, valeurs prédictives positives et négatives des peptides natriurétiques en cas de dyspnée d’origine cardiaque chez les patients BPCO.
+
+Dans la fibrillation auriculaire sans dysfonction cardiaque associée, le BNP serait sécrété directement par les oreillettes cardiaques en réponse à la dilatation chronique des oreillettes. On retrouve dès lors une élévation du NT-proBNP modérée (en général dans la «zone grise» chez les patients présentant une fibril­lation auriculaire par rapport à une population en rythme sinusal [13]).
+
+A noter que la mesure du BNP chez les patients sous ­traitement de sacubitril-valsartan (Entresto®) n’est pas fiable. En effet, le sacubitril inhibe l’action de ­dégradation du BNP de la néprilysine, augmentant donc la concentration sanguine de BNP. Il n’a par contre pas d’effet sur le NT-proBNP. De ce fait, seul le NT-proBNP doit être dosé chez les patient sous ­sacubitril-valsartan [14].
+
+Valeur pronostique
+
+Différentes études ont montré la relation entre des valeurs hautes de peptides natriurétiques et la mortalité que ce soit en ambulatoire ou en intra-hospitalier [15, 16]. Cependant, aucune recommandation claire concernant le dosage des peptides natriurétiques au décours d’une décompensation cardiaque aiguë, en particulier aucune cible de réduction ou de valeur absolue, n’est consensuellement reconnue. Néanmoins, une baisse des taux sanguins de peptides natriurétiques est associée à un meilleur pronostic et un dosage au décours d’une décompensation cardiaque aiguë pourrait être utile. Par ailleurs si les valeurs de peptides natriurétiques ne baissent pas malgré un traitement agressif au décours d’une décompensation cardiaque, le risque d’hospitalisation et de mortalité augmente significa­tivement [17, 18].
+
+Des dosages quotidiens ou répétitifs ne sont pas recommandés à l’heure actuelle [18], car les différentes études montrent des résultats divergents de l’impact d’un tel suivi sur la prise en charge des patients [6, 19, 20].
+
+De manière générale, les pathologies engendrant une augmentation de BNP ou NT-proBNP qui ne sont pas reliées directement à l’insuffisance cardiaque (tab. 2) ont un meilleur pronostic lorsque les concentrations sanguines des peptides natriurétiques sont basses (<100 ng/l pour le BNP et <300 ng/l pour le ­NT-proBNP) [10].
+
+Le tarif officiel suisse du dosage du NTpro-BNP est de CHF 70.
+
+Tableau 2: Etiologies de l’élévation du «brain natriuretic peptide» (BNP); tableau non exhaustif (adapté de [6]).
+Causes cardiaques	Décompensation cardiaque
+Syndrome coronarien aigu
+Embolie pulmonaire
+Myocardite
+Morphologiques (hypertrophie ventriculaire gauche, cardio­myopathie restrictive ou hypertrophique, valvulopathies, maladies cardiaques congénitales)
+Cardioversion, défibrillateur implantable
+Chirurgie cardiaque
+Hypertension artérielle pulmonaire
+Causes non cardiaques	Age avancé
+Insuffisance rénale
+Insuffisance hépatique (surtout cirrhose avec ascite)
+Syndrome paranéoplasique
+Bronchopneumopathie chronique obstructive
+Infections sévères
+Anémie
+Trouble endocrinologique sévère (thyrotoxicose, acidocétose diabétique)
+Dommages toxiques ou métaboliques (cancer/chimiothérapie)
+Réponse correcte
+
+La mesure du BNP ou du NT-proBNP est recommandée à l’admission chez tous les patients qui présentent une dyspnée aiguë avec une suspicion de décompensation cardiaque.
+
+Le patient décrit ci-dessus présente une dyspnée aiguë de stade NYHA III avec une clinique claire de décompensation cardiaque. Comme proposé par les recommandations européennes ESC de 2016, un dosage du NT-proBNP est donc effectué. Pour l’âge du patient (83 ans), un NT-proBNP inférieur à 300 ng/l permettrait d’exclure une insuffisance cardiaque, tandis qu’une ­valeur supérieure à 1800 ng/l conforte ce diagnostic. A l’admission, le NT-proBNP présente une élévation franche (11 759 ng/l), bien supérieure au seuil pour l’âge du patient, et nous permet donc de l’attribuer à une ­décompensation cardiaque. Le NT-proBNP à la sortie du patient reste élevé à 11 356 ng/l, étant dès lors un ­facteur de mauvais pronostic.
+
+Messages principaux
+
+• En cas de dyspnée aiguë, un dosage des peptides natriurétiques est proposé pour l’aide au diagnostic.
+
+• Une élévation du BNP et du NT-proBNP dite dans la «zone grise» peut être attribuée à des pathologies non cardiaques. Il convient donc de poursuivre les investigations (notamment avec une échocardiographie).

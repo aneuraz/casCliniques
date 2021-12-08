@@ -1,0 +1,141 @@
+Présentation du cas
+
+Il s’agit d’une patiente de 91 ans connue pour des troubles cognitifs, hospitalisée en réadaptation gériatrique suite à une fracture de la branche ischio-pubienne. Le séjour se complique par un état fébrile ­depuis 48 heures, jusqu’à 39°C, avec un épisode de frissons et des myalgies diffuses. On note des gonalgies prépondérantes à gauche entravant de manière nouvelle et importante la mobilité.
+
+L’examen clinique met en évidence une tuméfaction du genou gauche, associée à une chaleur sans rougeur, un signe du glaçon discrètement positif et une diminution de l’amplitude articulaire à 40° de flexion passive avec une impotence fonctionnelle active. Le genou droit est douloureux lors de la mobilisation active, avec une flexion à 90° en passif. On trouve également une tuméfaction nouvelle et diffuse du mollet gauche, sans érythème ni douleur, prenant le godet. Le reste de l’examen clinique est sans particularité.
+
+De plus, la patiente a présenté un unique épisode de selles diarrhéiques alors que la voisine de chambre est infectée par un norovirus.
+
+Le bilan biologique met en évidence un syndrome ­inflammatoire avec une protéine réactive C (CRP) à 50 mg/l, sans leucocytose. La bandelette urinaire montre des nitrites et des érythrocytes. Les deux paires d’hémocultures reviennent négatives, tout comme la culture d’urine.
+
+Question 1: Quel est l’examen complémentaire le plus utile?
+
+
+a) Radiographie du genou
+
+b) Ultrason du membre inférieur
+
+c) Ponction articulaire
+
+d) Coproculture
+
+e) Tous les examens ci-dessus
+
+La ponction du genou reste l’examen de choix à effectuer, permettant d’obtenir du liquide articulaire à la recherche de microcristaux ou de germes. Bien que l’épanchement articulaire du genou gauche soit cliniquement visible, il n’est malheureusement pas assez important pour effectuer une ponction dans le cas de cette patiente. On aurait pu alors effectuer la ponction sous ultrason qui offre l’avantage de bien visualiser de petits épanchements, de guider la ponction et d’évaluer la présence d’une synovite ou non. Une radiographie des genoux montre des signes de chondrocalcinose, sans signe d’érosion articulaire. Le caractère de l’œdème du mollet étant mou et non inflammatoire, une thrombose veineuse profonde du membre inférieur paraît peu probable mais l’ultrason permet de l’exclure formellement. La patiente n’a présenté qu’un épisode isolé de diarrhées, sans autre plainte digestive. Elle n’a reçu aucune antibiothérapie précédemment. Les coprocultures à la recherche d’une virose ou d’un clostridium ne sont pas indiquées à ce stade.
+
+Une semaine plus tard, l’évolution est défavorable avec la persistance de plusieurs pics fébriles entre 38,0 et 39,0, malgré une antibiothérapie empirique par Ceftriaxone. On remarque l’apparition soudaine d’un ­volumineux œdème douloureux, mou et prenant le godet, non érythémateux et froid du dos des deux mains et de la face palmaire des deux poignets (fig. 1–4). Dans ce contexte, la patiente subit une perte d’autonomie dans toutes les activités de la vie quotidienne ainsi qu’une diminution de sa mobilité et de son équilibre, avec un périmètre de marche qui passe de 200 mètres à l’aide d’une canne, à 100 mètres avec un cadre de marche sous surveillance.
+
+Figure 1: Œdème de la main droite.
+
+Figure 2: Flexion typique des doigts.
+
+Figure 3: Œdème du dos de la main gauche.
+
+Figure 4: Œdème symétrique du dos des mains.
+
+Question 2: Quel est l’examen complémentaire que vous n’effectuez pas à ce stade?
+
+
+a) Vitesse de sédimentation (VS)
+
+b) Facteur rhumatoïde
+
+c) Anticorps antinucléaires (ANA)
+
+d) Radiographie des poignets et mains
+
+e) Anticorps anticytoplasme des neutrophiles (ANCA)
+
+Le bilan biologique met en évidence un syndrome inflammatoire persistant, avec une CRP toujours autour de 50 mg/l, sans leucocytose, une VS à 90 mm, le facteur rhumatoïde et les anticorps anti-peptides cycliques citrul­linés (anti-CCP) négatifs ainsi que des ANA négatifs. Les radiographies des poignets et des mains montrent une rhizarthrose et de nombreux dépôts de chondrocalcinose dans le triangle annulaire du carpe, sans érosion articulaire. Les ANA négatifs rendent la probabilité d’un lupus érythémateux systémique (LES) faible. La recherche des ANCA n’est pas indiquée dans ce cas, car bien qu’ils soient présents dans de nombreuses maladies auto-immunes, ils ont surtout une utilité clinique dans la détection des vasculites à ANCA, telles que la granulomatose de Wegener qui n’est cliniquement pas suspecté dans cette situation.
+
+Question 3: Quel diagnostic différentiel ne retenez-vous pas?
+
+
+a) Chondrocalcinose
+
+b) Polymyalgia rhumatica
+
+c) Lupus erythémateux systémique
+
+d) Polyarthrite rhumatoide
+
+e) Synovite symmétrique seronégative non progressive avec œdème prenant le godet
+
+Chez cette patiente âgée de plus 90 ans, nous sommes face à un tableau clinique de polyarthralgies d’allure inflammatoire et de synovites symétriques des mains, sans foyer infectieux mais avec un déclin fonctionnel majeur. Une poussée de chondrocalcinose est probable et pourrait être confirmée par une ponction de liquide articulaire au niveau des poignets qui montrerait des microcristaux. A ce niveau néanmoins, les ponctions sont plus difficiles et la chance de ramener du liquide plus faible qu’au genou même lors d’une infiltration échoguidée. Une tentative de ponction du poignet par le rhumatologue ne ramène malheureusement pas suffisamment de liquide pour une microscopie directe. La polymyalgia rheumatica peut être un diagnostic possible en raison du caractère inflammatoire des atteintes articulaires, de la VS augmentée et de l’absence d’érosions articulaires. Néanmoins, l’atteinte est classiquement localisée au niveau des ceintures pelviennes et scapulaires, ce qui ne correspond pas à la clinique de notre patiente. Comme précité, les ANA négatifs rendent la probabilité d’un LES très faible. Les radiographies des poignets, des mains et des genoux qui démontrent l’absence d’érosion articulaire, le facteur rhumatoïde ainsi que les anticorps anti-peptides cycliques citrullinés (anti-CCP) négatifs rendent peu probable le diagnostic de polyarthrite rhumatoïde. En ­effet, il est actuellement admis que l’anti-CPP est le marqueur spécifique pour une polyarthrite rhumatoïde.
+
+Une spondylarthropathie séronégative est possible en raison du large spectre de présentation clinique atypique chez un patient très âgé mais reste très peu probable [2, 3, 6–8]. Le diagnostic de synovite ­symétrique séronégative avec œdème mou est évoqué (abrégé RS3PE pour «remitting seronegative symmetrical synovitis with pitting edema») en raison du caractère des œdèmes et de la présentation clinique. Le diagnostic différentiel le plus probable compte tenu des lésions typiques sur les radiographies reste une ­arthrite microcristalline qui n’a pu être formellement exclue en l’absence de ponction articulaire diagnostique (tab. 1).
+
+Tableau 1: Diagnostic différentiel rhumatologique du RS3PE chez le patient âgé.
+ 	RS3PE	Polymyalgia ­rhumatica	Polyarthrite ­rhumatoide	Spondylarthopathie séronégative	Chondrocalcinose (pseudo-goutte)
+Localisations ­principales chez le patient âgé	PériphériqueMain, poignet, pieds, genouxSymétrique	ProximaleCeintures scapulaire et pelvienneSymétrique	PériphériquePetites articulations ProximaleCeinturesSymétrique	AxialePériphériqueMembres inférieursAsymétrique	PériphériqueGenoux, poignet ProximaleHancheAxialeAsymétrique
+Œdème	Important et mou	Léger	Léger	Parfois important	Important
+FRAnti-CCP Association HLA	FR –Anti-CCP – HLA-B7	FR –Anti-CCP –HLA-DR4	FR + (–)Anti-CCP + (–)HLA-DR4(pas en routine)	FR –Anti-CCP –HLA-B27 (++/–)	FR –Anti-CCP ––
+Evolution	Parfois contractures des mains	Absence de
+séquelle	Erosions articulaires (+/–)	Erosions articulaires et néo-formations osseuses	Erosions possibles (dans la forme destructrice)
+FR: facteur rhumathoide, Anti-CCP: anti- cyclic citrullined peptide, HLA: antigène leucocytaire humain
+Question 4: Quel est l’élément typique pour un RS3PE?
+
+
+a) Prédominant chez les femmes
+
+b) Association avec HLA-B27
+
+c) Absence de syndrome inflammatoire
+
+d) Facteur rhumatoide négatif
+
+e) Atteintes articulaires distales avec érosion
+
+Le RS3PE se présente typiquement chez le patient âgé, prépondérant chez les hommes, d’installation rapide en 24–48 heures, avec des œdèmes symétriques et une atteinte des articulations métacarpophalangiennes et interphalangiennes proximales des mains. L’œdème est non érythémateux, froid, mou et prend le godet. L’atteinte des pieds, des genoux et des épaules est fréquente, cependant souvent asymétrique pour les membres inférieurs. L’impotence fonctionnelle est souvent très importante en raison des douleurs. Le facteur rhumatoïde est toujours négatif, tout comme les ANA. En revanche, un syndrome inflammatoire avec augmentation de la CRP et la VS est attendu. Une association avec le HLA-B7 a également été retrouvée dans une étude [6], tandis que le HLA-B27 est présent généralement dans les spondylarthropathies.
+
+Question 5: Quel traitement spécifique entreprenez-vous en première intention?
+
+
+a) Traitement antalgique symptomatique
+
+b) AINS
+
+c) Corticothérapie
+
+d) Méthotrexate
+
+e) Infiltration locale
+
+Typiquement, le RS3PE répond rapidement favorablement à de petites doses de corticoïdes oraux et présente un très bon pronostic avec une rémission complète en 6 à 24 mois. Notre patiente a bénéficé de Prednisone 15 mg durant dix jours, puis appliquant un schéma dégressif de 2,5 mg par semaine, jusqu’à sevrage complet. Cette réponse aux stéroïdes, à la dose utilisée chez notre patiente, n’est cependant pas spécifique du RS3PE mais pourrait également être obtenue en cas de chondrocalcinose aigue y compris polyarticulaire. Certains auteurs [9] proposent d’entreprendre un traitement de fond avec des agents antirhumatismaux modificateurs de la maladie («disease modifying antirheumatic drugs»: DMARDs) comme de l’hydroxychloroquine ou du méthotrexate, lorsque les corticoides sont contre-indiqués ou comme traitement d’épargne des corticoides, avec une bonne efficacité. Ils proposent également de les introduire en deuxième intention après échec de traitement avec les corticoides.
+
+Les AINS peuvent également soulager les symptômes, cependant dans une moindre mesure et présentent souvent de nombreuses contre-indications en particulier chez les patients âgés polymorbides. Une prise en charge en physiothérapie et ergothérapie est indiquée afin de limiter le déclin fonctionnel et de lutter contre les contractures en flexion des mains qui peuvent être séquellaires.
+
+A douze mois, l’évolution de notre patiente est positive avec une récupération fonctionnelle et un sevrage des corticoïdes, sans récidive de la symptomatologie.
+
+Discussion
+
+En 1985 McCarty et al. [1] ont décrit le RS3PE. Il s’agit d’un syndrome qui touche en priorité les patients âgés. En effet, 65% des patients ont plus de 70 ans. Les hommes sont le plus souvent atteints, à une fréquence d’environ 4 hommes pour une femme.
+
+On observe un œdème symétrique, mou, froid et prenant le godet, situé préférentiellement au dos des mains et sur la face palmaire des poignets. Il peut, plus rarement, toucher les épaules et les membres inférieurs, surtout les chevilles ou les genoux. Dans cette localisation la présentation est plus souvent asymétrique, comme c’est le cas chez notre patiente. Il existe une arthrite des petites articulations des mains. Ces atteintes s’accompagnent souvent d’une ténosynovite invalidante des gaines des extenseurs et des fléchisseurs des doigts facilement visibles à l’ultrason. Des symptômes systémiques, tels que fièvre et asthénie sont souvent présents, associés à une importante diminution de l’autonomie du patient dans les activités quotidiennes. Au niveau biologique on retrouve un syndrome inflammatoire aspécifique avec une élévation de la CRP et de la VS. Le facteur rhumatoïde est constamment négatif. La ponction articulaire reste stérile et il n’y a pas de cristaux. Les radiographies ne montrent jamais d’érosion articulaire contrairement aux arthrites érosives.
+
+Le tableau 2 résume les critères diagnostiques du syndrome RS3PE:
+
+Tableau 2: Critères diagnostiques du syndrome RS3PE [2].
+Œdème des mains symétrique prenant le godet
+Début aigu et rapide (24–48h)
+Age supérieur à 50 ans
+Facteur rhumatoïde négatif
+
+Depuis sa description originelle par McCarty, l’existence du RS3PE comme une entité clinique distincte a été mis en doute par de nombreux auteurs, certains la considèrent comme une forme œdémateuse de polyarthrite rhumatoïde séronégative particulière au sujet âgé. La physiopathologie reste pour l’heure peu claire. Néanmoins, Oliveri et al [6, 8] ont démontré à l’aide d’imagerie par résonance magnétique des mains, la présence fréquente mais non spécifique d’une ténosynovite des tendons des extenseurs des doigts expliquant l’œdème mou du dos des mains, probablement en lien avec le vascular endothelial growth factor (VEGF) qui augmente la capillarité vasculaire. Ce phénomène n’a pas été retrouvé lors des œdèmes des mains dans d’autres pathologies rhumatologiques, tel que la polyarthrite rhumatoïde ou la spondylarthropathie, où l’œdème serait expliqué dans ces cas-là par un lymphœdème sur obstruction de la circulation lymphatique.
+
+Les premières observations cliniques de McCarty ont montré une association avec le phénotype HLA-B7. En effet une association se retrouve dans 55% des patients atteints, tandis que la fréquence attendue dans la population standard n’est que de 24%.
+
+L’évolution clinique du syndrome RS3PE est en général favorable après 12–24 mois de traitement par de petites doses de cortisone (prednisone 5 à 20 mg 1×/j), sans récidive, même après l’arrêt des traitements. Comme précité, les DMARDs peuvent être une alternative aux corticoides, notamment comme traitement d’épargne des corticoides, ou lorsque ces derniers sont contre-indiqués. En l’absence de réponse clinique, les DMARDs peuvent être proposés en deuxième intention.
+
+Néanmoins, en cas d’évolution défavorable, il convient de poursuivre les investigations à la recherche d’une autre pathologie inflammatoire rhumatismale ou d’un syndrome néoplasique. En effet, dans 16% des cas de RS3PE sans rémission ou avec une rechute à l’arrêt des traitements, une hémopathie maligne ou une tumeur solide a été mise en évidence [5]. L’œdème répond dans ces cas-là mieux aux traitements de la néoplasie sous-jacente qu’aux corticoïdes.
+
+En conclusion, le RS3PE est un syndrome hétérogène, pouvant être idiopathique, paranéoplasique ou être une présentation atypique d’une maladie rhumatologique.
+
+A l’heure actuelle, c’est une entité discutable et discutée, notamment en raison du caractère souvent très œdématié de tous les rhumatismes inflammatoires du patient âgé, y compris les arthrites microcristallines, rendant le diagnostic différentiel entre les différentes pathologies complexe, raison pour laquelle la tendance serait de parler de polyarthrite séronégative œdémateuse.
+
+Néanmoins, la littérature reste très peu étoffée et datent d’il y a 20 ans, alors que d’avantage de recherches permettraient notamment de mieux distinguer le RS3PE des autres pathologies rhumatologiques ainsi que de mieux comprendre le lien entre le RS3PE et les processus néoplasiques.
+
+Réponses:
+
+
+Question 1: c. Question 2: e. Question 3: c. Question 4: d. ­Question 5: c.

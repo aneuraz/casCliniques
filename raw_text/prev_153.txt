@@ -1,0 +1,14 @@
+La saturation des urgences pèse sur la sécurité des patients
+
+Le problème ne saurait en rien être vu comme une spécificité française. Tous les pays du monde souffrent de cette question, la littérature est abondante partout et les solutions sont également partout les mêmes, justement pas totalement efficaces, en grande partie parce que le problème de la saturation des urgences a tendance à croître plus vite que le pouvoir d’efficacité des solutions connues.
+
+Cet article résume les fondamentaux du problème, les solutions et l’évolution de la question.
+
+Pas de doute, la saturation des urgences pèse sur la sécurité des patients. Le lien entre saturation et retards dans les premiers gestes thérapeutiques est bien documenté depuis longtemps avec un risque d’engagement du pronostic vital (notamment étayé par une série d’articles sur les retards de prise en charge aux urgences des infarctus, AVC, traumas, ou encore administration retardée d’antibiotiques en contexte de pneumonies, etc…).
+
+Beaucoup de solutions d’amélioration locales ont été essayées pour gérer la saturation, notamment avec les techniques de Lean et Six Sigma, ce afin d’accroître l'efficacité, réduire l'encombrement dans les couloirs et améliorer la qualité des soins.
+
+Cependant, nous savons tous que la solution consiste d’abord à éviter la saturation, plus qu’à la traiter une fois installée. Pour ce faire :
+
+Une première gamme de solutions relève encore de l’action locale, mais organisationnelle (voir O’Neil, 2018, Morley, 2018). Il s’agit de mieux gérer la file d'attente, créer des lits d’observations, créer des flux séparés de patients en fonction de leur gravité et /ou pathologies. Attention, beaucoup de ces solutions souvent de bon sens ne sont pas évaluées par la littérature comme très efficaces, par exemple l’augmentation du nombre de lits de porte dans un lieu parallèle au couloir principal des urgences.
+Une seconde gamme de solutions est plus systémique, en lissant par exemple le calendrier des chirurgies électives pour ouvrir des places dans les services, en déchargeant rapidement les patients de gravité moindre vers d’autres structures hospitalières du secteur, ou, mieux encore, en évitant aux patients d’arriver par des conventions avec la médecine générale.

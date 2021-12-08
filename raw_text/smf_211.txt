@@ -1,0 +1,33 @@
+Présentation du cas
+
+Chez une patiente de 47 ans, un processus expansif entre l’estomac et le lobe hépatique gauche a été découvert fortuitement à l’occasion d’une échographie abdominale. L’imagerie par résonance magnétique de la partie supérieure de l’abdomen (fig. 1) qui a alors été réalisée a montré une masse gastrique à hauteur du fundus; elle était de consistance solide, avec une prise de contraste intense et homogène, et mesurait 4,3 × 3,3 × 3,9 cm.
+
+Figure 1: Imagerie par résonance magnétique de la partie supérieure de l’abdomen, avec tumeur prenant fortement le contraste entre le fundus gastrique et le lobe hépatique gauche (remerciements au Dr Dennis Hibbeln, service de radiologie, hôpital cantonal de Saint-Gall, pour le cliché).
+
+Dans le cadre du diagnostic différentiel, une tumeur stromale gastro-intestinale (GIST), un léiomyome ou un lymphome ont été envisagés. En outre, une néovascularisation anormale du processus à partir des vaisseaux gastriques au niveau du fundus et possiblement aussi à partir des vaisseaux de la capsule hépatique adjacente du lobe hépatique gauche a été constatée en tant que signe potentiel d’une infiltration. Au demeurant, la représentation du foie était normale, avec en particulier pas de signes de lésions suspectes de métastases. De même, les aires ganglionnaires lymphatiques locorégionales dans la partie supérieure de l’abdomen et dans la partie supérieure du rétropéritoine étaient normales.
+
+A la gastroscopie, une masse sous-muqueuse a été visualisée dans le corps de l’estomac, du côté de la petite courbure, avec un aspect très évocateur d’une GIST (fig. 2).
+
+Figure 2: Gastroscopie avec tumeur sous-muqueuse sphérique et nidus typique d’une tumeur stromale gastro-intestinale (GIST) (remerciements au Dr Gian-Marco Semadeni, service de gastro-entérologie, hôpital cantonal de Saint-Gall, pour le cliché).
+
+La tomodensitométrie de stadification réalisée ensuite n’a pas montré de lésions suspectes de métastases au niveau thoraco-abdominal.
+
+La tumeur a par la suite été réséquée sans problème par voie laparoscopique et le défaut au niveau de l’estomac a été fermé par suture. L’opération a duré 100 minutes.
+
+L’examen histopathologique n’a étonnamment pas ­révélé de GIST. Il s’est avéré que la tumeur était un schwannome de 4,5 cm avec ulcération centrale, qui a pu être ­réséqué en marges saines. Le schwannome présentait une forte immunoréactivité typique à la protéine S-100 et au collagène IV, avec une négativité pour alpha-­SMA, CD34, CD 117 (KIT) et DOG1. Par ailleurs, l’index de prolifération (Ki-67) d’env. 1% était très bas (fig. 3).
+
+Figure 3: Histologie typique avec tumeur sous-muqueuse à cellules fusiformes et ­infiltrat lymphoïde environnant (coloration à l’hématoxyline et à l’éosine, grossissement 25×).
+
+L’évolution postopératoire s’est déroulée sans com­plications et la patiente a pu quitter l’hôpital au 7e jour post-opératoire. Lors du contrôle clinique qui a eu lieu 6 semaines après l’opération, la patiente était asymptomatique.
+
+Discussion
+
+Les GIST sont les tumeurs mésenchymateuses digestives les plus fréquentes et elles représentent dès lors un diagnostic différentiel majeur en cas de processus expansifs de l’estomac. Le schwannome fait, quant à lui, partie des tumeurs mésenchymateuses gastro-intestinales très rares. Dans la plus vaste série publiée jusqu’à présent, englobant 51 cas de schwannome gastrique [1], le rapport d’incidence entre la GIST et le schwannome a été estimé à 45:1, avec une distribution femmes:hommes de 4:1 et un âge moyen de survenue d’env. 60 ans. Les symptômes initiaux englobaient les hémorragies gastro-intestinales avec sang occulte dans les selles, méléna ou hématémèse, ou encore les troubles épigastriques, les malaises et une perte de poids en raison d’une sténose du pylore, mais les schwannomes pouvaient également être détectés de façon totalement fortuite en raison d’autres maladies ou dans le cadre d’autres opérations. Le diamètre de la tumeur allait de 1,0 à 10,5 cm, avec une taille moyenne de 5,1 cm [1].
+
+Le diagnostic définitif de schwannome est posé par l’examen pathologique et immunohistochimique de la préparation chirurgicale. Les schwannomes présentent une forte coloration pour la protéine S-100 et des colorations négatives pour CD117 (KIT), CD34, la desmine et SMA. Les schwannomes gastriques peuvent parfois exprimer le CD34, tandis que les marqueurs CD117 (KIT), SMA et desmine sont généralement négatifs [2].
+
+A l’histologie, des cellules fusiformes à l’agencement variable, qui sont souvent organisées selon une ar­chitecture microtrabéculaire-microfasciculaire, sont retrouvées. Des atypies nucléaires sont possibles, mais l’activité mytotique reste faible. Au niveau péri-tumoral, on retrouve souvent un infiltrat lymphoïde en forme de taches. Les schwannomes gastriques ont un très bon pronostic [1]. Dans l’étude mentionnée ci-dessus, aucun cas de récidives ou de métastases n’a été ­décrit. Ainsi, contrairement aux GIST, la taille de la ­tumeur et le taux de mitose n’ont pas d’importance pronostique [1].
+
+Résumé
+
+Le schwannome fait partie des diagnostics différentiels très rares d’un processus expansif gastrique. Il est typiquement découvert de façon fortuite et il est fréquent qu’une GIST soit suspectée en premier lieu en raison de sa fréquence. Le pronostic du schwannome gastrique réséqué en marges saines est excellent [1, 3] La résection laparoscopique est dans la mesure du possible le traitement de choix [3].

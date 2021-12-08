@@ -1,0 +1,117 @@
+Description du cas
+
+Un sexagénaire se présente aux urgences dermatologiques en raison de l’apparition progressive depuis trois semaines d’un prurit intense généralisé à prédominance nocturne, l’empêchant de dormir. Il est connu pour un tabagisme actif à 60 UPA et une cardiopathie ischémique avec la pose d’un stent actif sur ­l’artère interventriculaire neuf ans auparavant.
+
+L’anamnèse ne révèle ni voyage récent, ni contact avec des animaux, ni allergie, ni terrain atopique.
+
+Le status montre un érythème maculo-papulaire eczématiforme excorié, prédominant au niveau de l’hémi-
+abdomen inférieur, des membres, du dos et du menton, sans signe du sillon ni de l’aile delta au dermato­scope (visualisation de la tête d’un sarcopte au bout d’une galerie). L’érythème épargne les plis du coude et les genoux. Le traitement habituel consiste en de l’acide acétylsalicylique, du métoprolol, du périndopril, et de l’atorvastatine.
+
+Le laboratoire montre une leucocytose à 17,4 G/l (norme: 4,0–10,0 G/l) avec une éosinophilie à 7,66 G/l (norme: 0,05–0,3 G/l), une hémoglobine à 147 g/l (norme: 133–177 g/l), des plaquettes à 265 G/l (norme: 130–350 G/l), et une vitesse de sédimentation (VS) à 22 mm/h (norme: <10 mm/h). Les fonctions rénale et hépatique, l’hémoglobine glyquée et la TSH sont dans la norme.
+
+Question 1: Quelle étiologie semble actuellement la moins probable?
+
+a) Une origine médicamenteuse
+
+b) Une xérose cutanée
+
+c) Une parasitose, p.ex. la gale
+
+d) Une dermatite atopique
+
+e) Une maladie systémique
+
+Le patient présente un prurit généralisé subaigu avec des lésions secondaires au grattage. Les examens de laboratoire montrent une éosinophilie très importante. Une étiologie atopique ne peut donc être exclue, bien que l’anamnèse soit négative. L’éosinophilie peut être associée à une parasitose, dont la gale, que l’on ne peut exclure actuellement, malgré l’absence du signe du sillon caractéristique. Beaucoup de médicaments peu­vent provoquer un prurit. Finalement, une maladie systémique, une néoplasie des organes solides, ou une hémopathie ne peuvent être exclues.
+
+La xérose cutanée est la cause de prurit la plus fréquente chez les patients âgés mais la moins probable ici. En effet, elle donne lieu à une peau sèche et craquelée et n’est pas associée à une perturbation des examens de laboratoire. Elle est souvent aggravée par des bains fréquents et l’eau chaude, ainsi que l’exposition à des températures élevées avec un taux d’humidité bas. Le traitement consiste en l’éviction des facteurs aggravants et une bonne hydratation cutanée [1].
+
+Le patient est traité pour une dermatite atopique: par bétaméthasone et polidocanol (dans Cold Cream 5%) topiques, et oralement par desloratadine et hydroxyzine. De plus, un traitement d’épreuve d’ivermectine a été administré afin d’écarter la suspicion de gale. A deux semaines, le patient ne présente aucune amélioration des symptômes, mais des lésions stables.
+
+Question 2: Quel examen complémentaire semble le moins pertinent à ce stade?
+
+a) Une recherche de parasites
+
+b) Une biopsie cutanée
+
+c) Un bilan immunologique (ANA, ANCA)
+
+d) Un scanner thoraco-abdominal
+
+e) Une sérologie HIV et hépatites virales (HBV, HCV)
+
+En l’absence d’amélioration, le bilan est complété par la recherche d’une maladie systémique. Néanmoins, un bilan auto-immun n’est pas indiqué en première intention, vu l’absence d’autres signes évocateurs.
+
+L’éosinophilie justifie la recherche de parasites par des sérologies pour la toxocarose, la distomatose hépatique, l’ascaridiose, et la trichinose ainsi que par l’examen des selles: recherche antigénique de Giardia lamblia et Entamoeba histolytica, et 3 examens directs. Tous ces examens sont négatifs. La biopsie cutanée montre une dermatite périvasculaire superficielle non spécifique, avec une inflammation vasculaire non spécifique à l’immunofluorescence. Les sérologies HIV et HCV reviennent négatives. Le dépistage HBV montre uniquement des anticorps antiHBc positifs d’interprétation peu claire, menant à un dosage de virémie, indosable. Un scanner thoraco-abdominal montre des plages de condensation péri-hilaire, péri-bronchique lobaire moyenne et lobaire inférieure droite associées à des adénopathies hilaires s’étendant jusque dans la région sous-carinaire, et à des épaississements des septas interlobulaires avec micronodulations, compatibles en premier lieu avec une lésion néoplasique primaire probablement associée à une lymphangite carcinomateuse.
+
+Question 3: Quel est l’examen nécessaire pour poser le diagnostic étiologique?
+
+a) Une IRM cérébrale
+
+b) Un PET-CT du tronc
+
+c) Une bronchoscopie avec biopsie transbronchique
+
+d) Une échocardiographie
+
+e) Des fonctions pulmonaires
+
+Devant une suspicion de néoplasie, il est prioritaire d’effectuer une biopsie, pour obtenir un diagnostic pathologique. Une bronchoscopie avec biopsie transbronchique est indiquée. Selon les guidelines de l’«European Society for Medical Oncology» (ESMO), l’imagerie cérébrale est indiquée en cas de cancer pulmonaire uniquement si un traitement à visée curative est envisagé (stades localisés). Pour les situations palliatives (stades métastatiques), elle n’est conseillée qu’en présence de symptômes ou signes neurologiques. Le PET-CT est recommandé lors de la découverte de cancer pulmonaire de stade localisé afin d’exclure une atteinte métastatique avant une prise en charge à visée curative. En effet, sa sensibilité est meilleure que celle du scanner conventionnel pour la détection des métastases ganglionnaires ou à distance et aidera à guider l’attitude thérapeutique oncologique [2]. Une échocardiographie sera aussi indiquée, non pas en raison de la cardiopathie sous-jacente, mais parce que l’hyperéosinophilie est responsable d’atteintes d’organes notamment cardiaque (p.ex. myocardite, cardiomyopathie dilatée, endocardite, péricardite constrictive) [3]. De plus, les fonctions cardiaque et pulmonaire peuvent influencer et limiter le choix du traitement oncologique: chimiothérapie, radiothérapie, et/ou résection chirurgicale.
+
+Le bilan complémentaire effectué (biopsie transbronchique, IRM cérébrale et PET-CT) amène au diagnostic de carcinome pulmonaire épidermoïde de stade IV avec métastases ganglionnaires sus- et sous-diaphragmatiques. L’échocardiographie montre une bonne fonction systolique du ventricule gauche sans anomalie de la cinétique ni hypertrophie, et sans épanchement péricardique.
+
+En parallèle, le traitement symptomatique du prurit est intensifié. Le patient reçoit désormais de la desloratadine, de l’hydroxyzine, de la béthaméthasone, de la doxépine (antidépresseur tricyclique), de la crème Dexeryl® (glycérol, vaseline blanche, paraffine liquide), et une émulsion dermo-nettoyante d’acide undécyclénique (Pruri-Med®).
+
+Question 4: Quel est le traitement le plus efficace du prurit paranéoplasique?
+
+a) Un traitement causal
+
+b) Des antihistaminiques
+
+c) Un traitement local
+
+d) Des antidépresseurs
+
+e) Une thérapie par rayons ultraviolets (UV)
+
+Dans le cas d’un prurit paranéoplasique, le traitement causal est le plus efficace. En effet, les antihistaminiques, les traitements topiques et les antidépresseurs sont souvent insuffisants pour soulager les sym­ptômes. La seule indication pour la thérapie UV en oncologie concerne certains lymphomes T cutanés (mycosis fungoides) [4].
+
+L’étendue néoplasique chez ce patient ne permettant pas un traitement curatif, une chimiothérapie palliative de carboplatine et gemcitabine est débutée. Trois semaines après la première dose, le prurit diminue puis disparaît complètement, permettant un sevrage progressif de tous les traitements symptomatiques.
+
+Question 5: Parmi ces pathologies oncologiques, laquelle est la moins souvent associée à un prurit paranéoplasique?
+
+a) Lymphome de Hodgkin
+
+b) Lymphome non-Hodgkinien
+
+c) Leucémie
+
+d) Polycythemia vera
+
+e) Cancer pulmonaire non à petites cellules
+
+La prévalence du prurit paranéoplasique est difficile à estimer en raison de l’absence de définition claire, du manque de différenciation dans les études entre prurit aigu et chronique, ainsi que du peu d’études prospectives. Les néoplasies hématologiques sont les plus fréquemment associées à un prurit paranéoplasique. Un prurit chronique est rapporté par environ 30% des ­patients atteints d’un lymphome de Hodgkin, 10% des patients avec un lymphome non-Hodgkinien et 5% des patients souffrant d’une leucémie. 48% des patients avec une polycythemia vera présentent un prurit, typiquement aquagénique. Dans de rares cas, le prurit paranéoplasique précède l’apparition d’une tumeur solide, comme chez ce patient [5].
+
+Discussion
+
+Le prurit généralisé, motif de consultation très fréquent, est une sensation subjective de démangeaison entraînant une réaction motrice de grattage. Outre les diverses étiologies explorées ci-dessus, il peut aussi accompagner des pathologies neurologiques, telles que des accidents vasculaires cérébraux, et des pathologies psychiatriques. Le prurit chronique, défini comme durant plus de 6 semaines, a une prévalence de 8 à 16% dans la population générale [5]. Il est le plus souvent lié aux pathologies dermatologiques comme la xérose cutanée de la personne âgée mais peut être un signe de maladie systémique chez 16 à 36% des patients. Le prurit paranéoplasique est souvent décrit comme un prurit qui précède ou apparaît au début de la maladie, non provoqué par une compression ou infiltration tumorale, et disparaissant le plus fréquemment avec le traitement de la maladie oncologique sous-jacente [4]. Il est souvent très sévère, résistant aux traitements médicamenteux et à prédominance nocturne (signe aspécifique). Il peut ou non être associé à des lésions de grattage secondaires (excoriations, hyperpigmentation, lichénification) [6].
+
+Le prurit aquagénique, se développant au contact de l’eau, est typiquement associé à la polycythemia vera et plus rarement à d’autres maladies lymphoprolifératives. Il peut précéder de plusieurs années l’apparition d’une maladie myéloproliférative ou d’un lymphome T cutané (CTCL). Il est dans ce cas indiqué de réaliser une formule sanguine complète et une radiographie thoracique annuellement afin de détecter précocement ces pathologies [4].
+
+La physiopathologie du prurit paranéoplasique est mal connue. Il existe des voies spécifiques dans la moelle épinière: une dépendante de l’histamine et l’autre non, situées dans le tractus spino-thalamique. Certaines cytokines, également associées aux maladies lympho­prolifératives (IL-6, IL-8 et IL-31), semblent aussi jouer un rôle dans le prurit chronique et pourraient constituer une cible thérapeutique du prurit dans l’avenir [4].
+
+En cas de prurit chronique généralisé, une anamnèse complète et un examen clinique méticuleux sont essentiels. La présence de lésions cutanées primaires suggère une cause dermatologique. En l’absence de celles-ci, devant des lésions secondaires ou chez les patients de plus de 65 ans avec un examen clinique pathologique, un laboratoire incluant formule sanguine complète, LDH, TSH, créatinine, tests hépatiques, calcémie corrigée, ferritine, hémoglobine glyquée et sérologies HIV, HBV et HCV devrait être effectué, ainsi qu’une radiographie thoracique ou un CT thoraco-abdominal à la recherche d’un lymphome. Des examens plus approfondis (par exemple zinc, bilan auto-immun et des atopies) seront ensuite guidés par les résultats des examens mentionnés ci-dessus [1, 4].
+
+Le traitement du prurit paranéoplasique repose sur celui de la maladie sous-jacente. Les symptômes diminuent souvent avec l’efficacité du traitement oncologique et réapparaissent lors de récidive néoplasique.
+
+Le traitement symptomatique, d’efficacité modeste, a été évalué dans de rares études, réalisées pour la plupart dans le cadre de maladies lymphoprolifératives. Il comporte des antihistaminiques sédatifs (hydroxyzine), des antidépresseurs tricycliques (doxépine, amitriptyline) et tétracycliques (mirtazapine), des inhibiteurs sélectifs de la recapture de la sérotonine (sertraline, paroxétine, fluvoxamine), des anti-épileptiques (gabapentine, prégabaline), la thalidomide, et la thérapie par ultraviolets dont l’efficacité est prouvée uniquement dans le lymphome T cutané [4, 6].
+
+D’autres traitements symptomatiques du prurit
+comprennent les antagonistes de récepteurs des opioïdes (naloxone, naltrexone) et un antagoniste du récepteur de la neurokinine (aprépitant) [6].
+
+Cette vignette clinique montre l’importance d’approfondir la démarche diagnostique en cas de prurit chronique ou sévère, le traitement de la cause étant le plus efficace.
+
+Réponses
+
+
+Question 1: b. Question 2: c. Question 3: c. Question 4: a.
+Question 5: e.

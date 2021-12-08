@@ -1,0 +1,111 @@
+Description du cas
+
+Une patiente de 75 ans, connue pour un syndrome métabolique, présente une dyspnée de stade NYHA III en péjoration, avec apparition d’oedèmes des membres inférieurs, de palpitations et d’oppression thoracique. L’anamnèse révèle également des sudations profuses, une agitation avec insomnie, un tremor, des nausées et diarrhées, ainsi qu’une perte pondérale de 4 kg.
+
+À son arrivée, la patiente est afébrile. La fréquence ­cardiaque est irrégulière à 150 bpm, la tension artérielle à 140/110 mm Hg, la saturation à 93% à l’air ambiant et la fréquence respiratoire à 24/min. L’examen clinique révèle des signes de décompensation cardiaque globale. L’électrocardiogramme montre une ­fibrillation auriculaire (FA) avec réponse ventriculaire rapide, sans signes d’ischémie. Le bilan biologique met en évidence des D-dimères à 900 ng/ml (référence du laboratoire: <500 ng/ml; référence ajustée à l’âge, ­au-delà de 50 ans: seuil de D-dimères = âge ×10, donc <750 ng/ml) et une troponine T haute sensibilité à 10 ng/l (référence <14 ng/l).
+
+Question 1: Quel examen ne vous semble pas pertinent?
+
+
+a) Echocardiographie
+
+b) Dosage de la TSH
+
+c) Bilan électrolytique complet
+
+d) Angio-CT pulmonaire
+
+e) Gazométrie artérielle
+
+Un bilan électrolytique est indiqué dans le cadre de troubles du rythme, afin de pouvoir corriger d’éventuelles carences qui favoriseraient l’arythmie. Le dosage de la TSH est nécessaire, afin d’exclure une thyréotoxicose comme facteur causal de la FA. L’angio-CT pulmonaire permet d’écarter une origine thromboembolique dans un contexte de D-dimères augmentés, mais il est judicieux d’attendre le dosage de la TSH avant de l’effectuer, sous peine de faire décompenser une hyperthyroïdie sous-jacente. La gazométrie artérielle permet d’évaluer les échanges gazeux dans un contexte de désaturation avec tachypnée. L’échocardiographie n’est pas recommandée en aigu, car une évaluation de la fonction cardiaque serait moins fiable en raison de la tachyarythmie.
+
+Chez cette patiente, le bilan biologique ne met pas en évidence de troubles électrolytiques ni de syndrome inflammatoire, la fonction rénale est conservée. On ­relève une anémie normochrome normocytaire (114 g/l) et une TSH indétectable. Le dosage des hormones thyroïdiennes montre une T3 libre à 16,7 pmol/l (plage de référence 3,1–6,8 pmol/l) et une T4 libre à 55,3 pmol/l (référence 12–22 pmol/l).
+
+A l’examen physique, on note la présence d’un tremor, l’absence d’hyperréflexie et d’atteinte ophtalmologique. La thyroïde n’est pas palpable, ni douloureuse, sans nodule(s) ou asymétrie.
+
+Question 2: À ce stade, quel est votre diagnostic le plus probable?
+
+
+a) Fibrillation auriculaire idiopathique
+
+b) Hyperthyroïdie primaire avec crise thyréotoxique
+
+c) Phéochromocytome
+
+d) Crise Addisonienne
+
+e) Diabète de type 1
+
+La patiente a une TSH indétectable et des hormones ­périphériques augmentées, posant le diagnostic d’une hyperthyroïdie primaire. La crise thyréotoxique («thyroid storm») est définie par une hyperthyroïdie manifeste avec signes d’une décompensation systémique (atteinte du système nerveux central, cardiovasculaire, et un état fébrile) [1, 2, 6]. La FA s’inscrit donc dans le contexte de l’hyperthyroïdie.
+
+Un phéochromocytome se manifeste typiquement par des épisodes paroxystiques médiés par l’augmentation de la sécrétion des catécholamines (pâleur, céphalées, anxiété, diaphorèse, tachycardie, crise hypertensive), qui peuvent ressembler à une crise thyréotoxique. La crise Addisonienne (insuffisance surrénalienne aiguë) peut être associée avec un collapsus cardiovasculaire. Finalement, le diabète peut se manifester sous la forme d’urgence endocrinienne avec une décompensation hyperosmolaire ou acidocétosique, avec un spectre allant de symptômes tels que la polyurie, polydipsie et perte pondérale, à des troubles de l’état de conscience/coma [7].
+
+Question 3: L’hyperthyroïdie primaire peut être causée par:
+
+
+a) Une maladie de Basedow
+
+b) Des nodules thyroïdiens autonomes
+
+c) Une thyroïdite
+
+d) Une origine médicamenteuse sur amiodarone
+
+e) Toutes les réponses sont justes
+
+L’hyperthyroïdie primaire peut être causée par des ­anticorps stimulants anti-récepteur de la TSH en cas de maladie de Basedow, ou par une production hormonale autonome par des nodules thyroïdiens. Les thyroïdites mènent à un relargage d’hormones thyroïdiennes sur destruction du parenchyme. L’amiodarone peut également induire une destruction du parenchyme ou conduire à une synthèse hormonale accrue due à une surcharge iodée, ou un tableau mixte [3].
+
+Chez cette patiente, l’ultrason a permis d’écarter la présence de nodules et a mis en évidence un volume thyroïdien à la limite supérieure (volume de 18 ml) avec un ­parenchyme hétérogène. La recherche des anticorps anti-­récepteur de la TSH (= «thyroid stimulating antibodies» [TSAB], «thyroid stimulating immunoglobulins» [TSI]) a révélé des taux augmentés à 12 U/l (référence <1,75 U/l). Ce tableau évoque une maladie de Basedow, appelée «Graves’ disease» dans la littérature anglophone [4, 8].
+
+Question 4: Parmi les signes cliniques suivants, lesquels ne sont pas typiquement associés à la maladie de Basedow?
+
+
+a) Erythème palmaire, onycholyse, aplatissement et amincissement des ongles, myxœdème prétibial, clubbing digital
+
+b) Goitre, frémissement à la palpation, souffle thyroïdien
+
+c) Retard oculo-palpébral, exophtalmie, irritation de la conjonctive, œdème palpébral
+
+d) Hypotension orthostatique, bradycardie
+
+e) Hyperréflexie avec relaxation raccourcie, tremor, force musculaire proximale diminuée
+
+Tous les signes ci-dessus, excepté l’hypotension et la bradycardie, peuvent être associés à une maladie de Basedow [4, 9].
+
+Question 5: Quels traitements devraient être débutés concernant cette hyperthyroïdie?
+
+
+a) Thionamides (carbimazole, methimazole ou propylthiouracile)
+
+b) Thionamides, bétabloquants et hydrocortisone
+
+c) Thionamides et hydrocortisone
+
+d) Thionamides, bétabloquants, hydrocortisone et solutions iodées
+
+e) Thionamides et bétabloquants
+
+Lors d’une crise thyréotoxique, une thérapie immédiate et multimodale doit être débutée. Un traitement comprenant des thyréostatiques qui inhibent la synthèse de novo des hormones thyroïdiennes, de l’hydrocortisone (bloc de conversion périphérique de T4 en T3), ainsi que des solutions iodées/iodures (bloc de libération d’hormones) est indiqué [3, 7, 10]. Un traitement symptomatique par bétabloquants est également nécessaire. Un traitement suboptimal d’une crise thyréotoxique peut avoir des conséquences graves (coma), voire létales (environ 10%, voire jusqu’à 30% des cas) [5, 12]. En cas d’hyperthyroïdie simple sans critère de gravité, un traitement par thionamides, et si nécessaire des bétabloquants en cas de tachycardie, tachyarythmie, tremor, peut être suffisant.
+
+Discussion
+
+Le diagnostic de la crise thyréotoxique, une urgence endocrinienne, est un diagnostic clinique. Le score de Burch-Wartofsky peut aider à prédire la probabilité qu’il s’agisse d’une crise thyréotoxique [1]. Ce score tient compte de la présence de symptômes touchant le système nerveux central, le degré de fièvre et de tachycardie, la présence d’une FA, les symptômes cardiaques et gastro-intestinaux. Un total de <25 points rend le diagnostic peu probable, tandis qu’un score >45 confirme le diagnostic. La patiente présentait un score très élevé (65 points). La crise thyréotoxique peut survenir lorsqu’une hyperthyroïdie est présente depuis longtemps, sans être traitée, mais il existe souvent un facteur déclenchant sous-jacent (infection, traumatisme, opération ou intoxication aiguë à l’iode) [1, 2, 6, 12]. Le traitement se base sur la combinaison de thionamides, de solutions iodées/iodure, d’hydrocortisone et de bétabloquants (tab. 1) [5]. La thérapie multimodale utilisée dans la situation de «thyroid storm» permet d’abaisser et de normaliser les hormones périphériques en quelques jours chez la plupart des patients.
+
+Tableau 1: Traitements de la crise thyréotoxique [3, 5, 7, 11].
+Traitements	Molécules	Voie ­d’administration	Action	Effets indésirables notoires	Dosages
+Antithyroïdiens de ­synthèse/thionamides	CarbimazoleMéthimazole*Propylthiouracile (PTU)	Orale	Blocage de la synthèse de novo d’hormones.Blocage de la conversion de T4 en T3 (PTU).	Fréquents: ­manifestations ­cutanées.Rares: hépato­toxicité, ­agranulocytose, vasculite.	Carbimazole: 15–20 mg 3×/jour, puis adapter ­selon les taux de T4 et T3.PTU: 500–1000 mg en dose de charge puis 250 mg toutes les 4 heures.
+Solutions iodées/iodure	Lugol 2%	Orale	Blocage de la synthèse de novo d’hormones.Blocage du relargage d’hormones thyroïdiennes (à administrer au minimum 1 heure après les thionamides, afin que l’iode ne serve pas de substrat pour la néosynthèse d’hormones).	Hypersensibilité à l’iode (rare)	3 ml 3×/jour, soit un total de 180 mg d’iode/jour (1 ml = 20 mg d’iode)
+Iodure de ­potassium	Orale	37,5–65 mg 3×/jour
+Glucocorticoïdes	Hydrocortisone	Orale ou ­intraveineuse	Réduction de la conversion de T4 en T3.Prophylaxie de l’insuffisance ­surrénalienne relative.	Hyperglycémie, ­rétention hydro-­sodée	Orale: 25–100 mg aux 8 heures.Intraveineuse: 300 mg en dose de charge, puis 100 mg aux 8 heures.
+Bêtabloquants	Propanolol (p.o.)Métoprolol (p.o.)Atenolol (p.o.)Esmolol (i.v.)	Orale ou ­intraveineuse	Blocage des récepteurs béta-­adrénergiques(Propanolol à hautes doses: ­inhibe la conversion de T4 en T3).	Bradycardie, ­bronchospasme, ­collapsus cardiaque; éviter si décompensation cardiaque ­aiguë	Propanolol: 10–40 mg 3–4×/jour. Metoprolol: 25–50 mg 2×/jour (max 100 mg 2×/jour).Atenolol: 25–100 mg 1–2×/jour Esmolol: dose de charge de ­250–500 μg/kg, puis perfusion de 50–100 μg/kg/min.
+Antipyrétiques	Paracétamol (aspirine® à éviter)	 	Diminution de l’inflammation par blocage des cyclo-oxygenases.	Hépatotoxicité	Max. 3–4 g/jour, au besoin
+* Le méthimazole n’est pas disponible en Suisse. Le carbimazole est métabolisé en méthimazole.
+
+En absence de «thyroid storm», si seuls les thionamides sont utilisés, les hormones périphériques se normalisent généralement après quelques semaines, une fois que toutes les hormones stockées ont été libérées. Un contrôle biologique devrait être effectué toutes les 6–8 semaines et la dose d’antithyroïdiens de synthèse doit être ajustée en tenant compte du bilan thyroïdien. La normalisation de la TSH étant souvent lente, la posologie des thionamides doit être ajustée selon les taux de T4 et T3. Après normalisation des hormones, il est souvent possible de maintenir un bon contrôle avec de petites doses de carbimazole. Le traitement doit être poursuivi pendant environ 12 à 18 mois; il peut alors être arrêté si les taux de TSH et des TSAB sont dans la norme. En cas de non rémission après ce délai, d’intolérance au traitement, ou d’autres facteurs ayant un impact sur la prise en charge (gros goitre, nodules suspects, risque cardiovasculaire élevé), un traitement par radio-iode ou chirurgie peut être proposé [5]. Contrairement à des recommandations plus anciennes, les guidelines actuelles indiquent que le traitement à long terme par les thionamides est une alternative thérapeutique raisonnable chez certains patients [3].
+
+Concernant la patiente présentée ici, les traitements de carbimazole, hydrocortisone et solution iodée ont été maintenus durant 5 jours en raison d’une cinétique de réponse des taux des hormones libres plutôt lente, avant de sevrer les deux derniers. La patiente est sortie sous traitement de carbimazole et bétabloquant après 8 jours. Une nouvelle hospitalisation a été nécessaire après 3 semaines, en raison d’une récidive de FA rapide avec décompensation cardiaque, rappelant la nécessité d’un suivi rapproché.
+
+Réponses:
+
+
+Question 1: a. Question 2: b. Question 3: e. Question 4: d. Question 5: d.

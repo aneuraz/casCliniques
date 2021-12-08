@@ -1,0 +1,123 @@
+Madame M. est une patiente de 78 ans, adressée par son médecin traitant en raison d’une élévation des paramètres inflammatoires biologiques. Elle rapporte une asthénie, une anorexie et une odynophagie depuis quatre jours, associées à une rhinorrhée et un trismus douloureux évoluant depuis neuf mois et actuellement en aggravation.
+
+Elle est connue pour une fibrillation atriale avec antécédent d’accident vasculaire cérébral, une bronchopneumopathie chronique obstructive et une hypothyroïdie. Le traitement médicamenteux est le suivant: rivaroxaban, eltroxine, mirtazapine et un inhalateur de bromure ipratrorium.
+
+Cliniquement, l’état général est conservé et la patiente est afébrile, normocarde et normotendue. Le seul élément pathologique retrouvé est une douleur à la palpation des articulations temporo-mandibulaires (ATM).
+
+Question 1: Lequel de ces examens complémentaires vous semble le moins pertinent?
+
+
+a) Formule sanguine complète, protéine C-réactive (CRP) et vitesse de sédimentation (VS)
+
+b) CT-scan de la tête et du cou
+
+c) Test rapide Streptococcus pyogenes
+
+d) Dosage des antistreptolysines O (ASLO)
+
+e) Frottis du fond de gorge avec culture bactérienne
+
+Dans cette situation, un phénomène infectieux doit être recherché en premier lieu. Le bilan biologique montre une leucocytose à 13,8 g/l (N: 5–10 g/l), une CRP à 273 mg/l (N: <5 mg/l), et une VS de 89 mm/h (N: <20 mm/h). Un frottis pharyngé avec bactériologie et test rapide pour leStreptococcus pyogenessont également utiles pour guider le traitement. Ce dernier ­revient positif. Un CT-scan du massif facial et du cou est effectué afin d’exclure des complications locales, et se révèle sans particularité. Une recherche des ASLO n’apporte ici aucun élément utile au diagnostic.
+
+Question 2: Laquelle de ces hypothèses ne rentre pas dans votre diagnostic différentiel?
+
+
+a) Une pharyngite bactérienne aiguë
+
+b) Une dysfonction de l’articulation temporo-mandibulaire
+
+c) Une vascularite
+
+d) Une névralgie du nerf trijumeau
+
+e) Une maladie de Still de l’adulte
+
+Après une évaluation par les oto-rhino-laryngologistes (ORL) et chirurgiens maxillo-faciaux, le diagnostic de dysfonction de l’ATM décompensée par une pharyngite bactérienne aiguë est retenu. Une maladie de Still de l’adulte ou une vascularite ne sont pas exclues, mais semblent moins probables qu’une origine infectieuse à ce stade. La présentation clinique n’évoque par contre pas une névralgie du nerf trijumeau.
+
+De la pénicilline i.v. est initiée et la patiente est admise dans le service de médecine interne. Trois jours plus tard, elle développe un sepsis avec état fébrile, frissons et hypotension artérielle. Une adénopathie cervicale gauche douloureuse nouvelle est mise en évidence, sans autre changement du status. Une réanimation liquidienne est entreprise et la pénicilline changée pour de l’amoxicilline-clavulanate. Toutefois, la température reste >39 °C et les examens de laboratoires montrent une augmentation de la leucocytose (16,6 g/l) et de la CRP (381 mg/l). Parallèlement, la patiente développe un flou visuel monoculaire droit. Un examen du fond d’œil est réalisé (fig. 1) et révèle des anomalies suggestives d’une artérite gigantocellulaire (AGC).
+
+Figure 1: Examen du fond d’œil montrant un œdème papillaire.
+
+Question 3: Parmi ces anomalies du fond d’œil, laquelle est caractéristique d’une AGC?
+
+
+a) Un décollement de la rétine
+
+b) Des drusen
+
+c) Des exsudats lipidiques
+
+d) Un œdème papillaire pâle
+
+e) Une thrombose de la veine centrale de la rétine
+
+L’œdème papillaire pâle est le signe le plus caractéristique de cette pathologie. Il s’accompagne parfois de nodules cotonneux reflétant l’ischémie rétinienne. Plus rarement, une thrombose de l’artère centrale de la rétine ou de l’artère cilio-rétinienne postérieure peuvent également être observées.
+
+Avant l’introduction éventuelle d’un traitement, un nouveau CT-scan cou-thorax est effectué, et permet d’exclure une complication infectieuse locale telle qu’un abcès rétro-pharyngé ou un syndrome de Lemierre.
+
+Question 4: Dans cette situation, quelle attitude thérapeutique est la meilleure?
+
+
+a) Corticothérapie orale et méthotrexate
+
+b) Corticothérapie orale et anti-TNF-α
+
+c) Corticothérapie orale
+
+d) Corticothérapie orale et tocilizumab
+
+e) Corticothérapie intraveineuse
+
+La corticothérapie i.v. à haute dose est ici le traitement de premier choix en raison de la menace visuelle. Plusieurs agents, dont le tocilizumab et le méthotrexate, ont montré un effet bénéfique pour l’induction et le maintien de la rémission, et permettent une épargne cortisonique. Ils n’ont cependant pas été étudiés dans le contexte d’une menace visuelle, et sont en général ­réservés aux patients avec un haut risque d’effet indésirable secondaire aux corticostéroïdes, ou ayant présenté une rechute de la maladie lors du sevrage des corticostéroïdes. Les anti-TNF-α n’ont par contre pas montré de clair effet bénéfique.
+
+De la méthylprednisolone i.v. 500 mg/j est donc débutée pour une durée de trois jours, puis relayée par de la prednisone orale à 1 mg/kg/j.
+
+Question 5: Lequel de ces examens ne permet pas de confirmer le diagnostic?
+
+
+a) L’échographie des artères temporales
+
+b) L’angio-imagerie à résonance magnétique (IRM) cérébrale
+
+c) La biopsie rétinienne
+
+d) La tomographie par émission de positons (PET)-CT
+
+e) La biopsie de l’artère temporale
+
+L’examen histopathologique d’une biopsie de l’artère temporale constitue le «gold standard» et confirme ici le diagnostic d’AGC (fig. 2). Il est important de rappeler que l’initiation d’une corticothérapie ne doit pas être retardée par une procédure diagnostique en présence d’une menace visuelle. L’échographie, l’angio-IRM et le PET-CT peuvent parfois se substituer à la biopsie en cas de tableau clinique très évocateur. La biopsie rétinienne n’est pas indiquée dans le cas présent.
+
+Figure 2: Artérite avec rares cellules géantes et thrombose occlusive en organisation; un aspect histologique en accord avec une maladie de Horton.A) Section de veine (sur la droite) et de l’artère (sur la gauche). Artère d’architecture remaniée montrant une oblitération quasi complète de sa lumière (faible grossissement, coloration standard, Hématoxyline et Eosine, HE).B)Lame élastique interne (en noir, pointes de flèches) interrompue sur une grande partie de la circonférence artérielle (même niveau de coupe et agrandissement que A, coloration de Van Gieson Elastine, VGEL).C)Infiltrat inflammatoire mixte en présence de rares cellules géantes multinucléées (dont une entourée); au sein de son cytoplasme, un fragment de lame élastique phagocyté (fort grossissement, HE, agrandissement de zone rectangulaire de la coupe A).
+
+Après l’introduction du traitement, la fièvre et les symptômes ORL cèdent rapidement et la vision de l’œil droit recouvre partiellement. La patiente présente par la suite une récidive de céphalées temporales lors de la baisse de la prednisone de 1 à 0,75 mg/kg/j qui nécessite une augmentation transitoire de la dose.
+
+A 18 mois de la présentation initiale, la patiente est ­stable sous prednisone 7 mg/j, avec un projet de poursuivre le sevrage de la prednisone à raison d’1 mg/j par mois. Elle conserve néanmoins un déficit visuel de l’œil droit.
+
+Discussion
+
+L’artérite giganto-cellulaire est la vasculite la plus fréquente des vaisseaux de moyen et grand calibre. Elle est presque exclusivement retrouvée chez des personnes de plus de 50 ans, avec un âge moyen au diagnostic de 74–76 ans, et une proportion homme:femme de 1:2,5. L’incidence dans cette catégorie d’âge varie entre 1 et 20 par 100 000 personnes/an, notamment en fonction de l’ethnie, avec l’incidence la plus faible en Asie et en ­Afrique et la plus élevée en Europe du Nord [1–2]. Au vu de l’âge grandissant de la population, une augmentation importante de la charge de la maladie est ­attendue d’ici à 2050. La morbidité liée à l’AGC et à son traitement est élevée, mais la mortalité ne semble pas différer significativement de celle de la ­population en bonne santé du même âge [1].
+
+La physiopathologie reste partiellement incomprise, mais résulte vraisemblablement d’interactions complexes entre des facteurs génétiques, immuns et environnementaux. L’élément initial est l’activation des cellules dendritiques de l’interface adventice-media des artères atteintes, dont la distribution est préférentiellement située au niveau des vaisseaux de moyen et grand calibre. Celles-ci vont localement recruter des lymphocytes T et des monocytes, résultant progressivement en une invasion de la media par une coalescence de macrophages formant des cellules géantes multi-nucléées. La forte sécrétion locale de cytokines pro-inflammatoires, métalloprotéinases et radicaux libres va alors favoriser la destruction et le remodelage de la paroi artérielle, provoquant l’occlusion progressive de la lumière artérielle, dont la traduction clinique se manifeste par une ischémie locale.
+
+Les symptômes classiques tels que les céphalées, la sensibilité du scalp et de la région temporale, la claudication de la mâchoire et les troubles visuels («amaurosis fugax», baisse subite de l’acuité visuelle, diplopie) sont le résultat de cette ischémie. Les symptômes généraux tels que fièvre, asthénie, anorexie et perte pondérale sont eux, la conséquence de l’inflammation systémique et sont présents dans 20–50% des cas. L’AGC est également associée à la «polymyalgia rheumatica» dans 40–60% des cas, dont les symptômes caractéristiques sont la raideur matinale associée à des douleurs des ceintures scapulaire et pelvienne [1]. Les complications les plus redoutées de l’AGC sont la perte visuelle, les symptômes neurologiques et rarement, la rupture ou dissection d’un anévrisme aortique.
+
+En plus de cette présentation classique, une large palette de symptômes a été rapportée dans près de 20% des cas, incluant des manifestations «sepsis-like» ou de la sphère ORL tels qu’une toux irritative, une odynophagie, une dysphonie, et une ischémie linguale allant de paresthésies à la nécrose [3, 4]. Chez ces patients, l’association d’une altération de l’état général, de symptômes de la sphère ORL peu spécifiques et d’une élévation des paramètres inflammatoires biologiques évoque en premier lieu une origine infectieuse, et retarde souvent le diagnostic d’ACG jusqu’à ce que des troubles visuels apparaissent. Certains auteurs proposent donc de considérer le diagnostic d’AGC chez tout patient de plus de 50 ans présentant des symptômes ORL persistants [3].
+
+Le diagnostic repose avant tout sur la reconnaissance d’une constellation compatible de symptômes, signes et examens de laboratoire tels que la VS et la CRP. Il faut ensuite qu’il soit confirmé par une biopsie de l’artère temporale montrant une panartérite non-nécrosante. Un examen histopathologique négatif n’exclut cependant pas le diagnostic en raison de l’atteinte segmentaire des vaisseaux, de ce fait un prélèvement d’une longueur d’au moins 1 cm est recommandé. L’ultrason (US), l’IRM et le PET-CT peuvent parfois se substituer à la biopsie [2, 4]. Malheureusement, le diagnostic lors de tableaux cliniques incomplets ou atypiques reste difficile, et conduit fréquemment à un délai prolongé entre l’apparition des premiers symptômes et la confirmation de la maladie. Une révision des critères de l’«American College of Rheumatology» (ACR), initialement établis à des fins de classification des vasculites, a récemment été proposée comme aide au diagnostic (tab. 1). Cependant, l’inflammation de la sphère ORL fait partie des critères d’exclusion, rendant d’autant plus difficile le diagnostic de cette forme atypique.
+
+Tableau 1: Critères de l’«American College of Rheumatology» (ACR) révisés en 2016 pour le diagnostic précoce de l’artérite gigantocellulairea (adapté de [5]). 
+Critères précocesAge ≥50 ans au début des manifestationsAbsence de critères d’exclusionb	Score
+Critères du groupe ICéphalée nouvelle localiséecAnomalies visuelles subitescPolymyalgia rheumatica Claudication de la mâchoirecAnomalies de l’artère temporaled	1 point1 point2 points1 point1–2 points
+Critères du groupe IIFièvre ou anémie d’origine indéterminéeVS ≥50mm/heAnalyse histopathologique compatiblef	1 point1 point1–2 points
+a En présence de ≥3 points sur 11 dont au moins un point faisant partie du groupe I, le diagnostic d’artérite gigantocellulaire est confirmé.b Les critères d’exclusion sont : inflammation ophtalmique ou de la sphère ORL, du rein, de la peau, atteinte du système nerveux central périphérique, infiltration pulmonaire, adénopathies, raideur de nuque, ulcération ou gangrène digitale.c Aucune étiologie alternative expliquant mieux les symptômesd Tuméfaction ou absence de pouls de l’a. temporale 1 point / douleur de l’a. temporale 1 pointe Ignorer en présence d’une polyarthrite rhumatoïdefNécrose fibrineuse vasculaire ou péri-vasculaire avec infiltration leucocytaire 1 p. / et granulome 1 p.
+
+Les glucocorticoïdes à haute dose sont la pierre angulaire du traitement. Il s’agit classiquement d’un traitement de prednisone à une dose de 40 à 60 mg par jour, qui permet d’obtenir une rémission chez la majorité des patients atteint d’une vasculite des gros vaisseaux. En cas de risque ischémique immédiat, particulièrement ophtalmique ou neurologique, l’administration de méthylprednisolone i.v. à une dose de 250 à 1000 mg/jour pendant trois jours est préconisée avant d’effectuer un relais oral. Cette recommandation n’est toutefois basée que sur des données cliniques rétrospectives de faible qualité.
+
+Une fois la rémission obtenue, un sevrage de la prednisone doit être entrepris de manière progressive et précautionneuse en raison du risque élevé de rechute. En effet, les rechutes sont traitées par la réintroduction ou l’augmentation de la posologie des glucocorticoïdes, susceptible d’entraîner une forte exposition cumulative et un risque accru d’effet indésirables. Pour cette raison, il est recommandé de cibler une dose de 15–20 mg/jour de prednisone dans les deux à trois mois suivant la rémission, et une dose de ≤5 mg/jour après une année de traitement environ [6]. Bien qu’il n’existe pas de consensus concernant la durée totale du traitement de prednisone, la plupart des experts de la Ligue Européenne Contre le Rhumatisme (EULAR) estime qu’un traitement de deux ans ou plus est nécessaire dans la majorité des cas.
+
+L’exposition prolongée aux glucocorticoïdes expose les patients à des complications bien connues de ce traitement. Pour cette raison, plusieurs traitements immunosuppresseurs ont été étudiés à des fins d’épargne cortisonique. Le méthotrexate a notamment été expérimenté dans trois études randomisées contrôlées. Celles-ci ont mis en évidence une réduction du risque de récidive allant de 35% (premières récidives) à 51% (secondes récidives), avec toutefois un effet d’épargne cortisonique tardif [7]. D’autres molécules telles que la dapsone, la ciclosporine, l’infliximab et l’adalimumab n’ont pas montré de bénéfice; alors que l’azathioprine, l’etanercept et l’abatacept n’ont montré qu’une efficacité modeste [2, 4]. Récemment, des essais randomisés contrôlés testant le tocilizumab, un inhibiteur du récepteur de l’IL-6, ont montré des résultats prometteurs en termes d’épargne cortisonique. Ainsi, une réduction de près de 50% de la dose totale de glucocorticoïdes a été observée, de même qu’un sevrage cortisonique deux fois plus rapide. L’induction d’une rémission était ainsi obtenue après 26 semaines contre 52 semaines lors d’un traitement par glucocorticoïdes seuls [8]. Ce traitement est pour le moment recommandé dans les cas de récidive ou de risque accru d’effets indésirables liés aux glucocorticoïdes
+
+Réponses:
+
+
+Question 1: d. Question 2: d. Question 3: d. Question 4: e. Question 5: c.

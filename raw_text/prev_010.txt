@@ -1,0 +1,69 @@
+Cas clinique
+
+Un homme de 34 ans est victime d'un accident de scooter durant l'été 2014. Dans les suites, il se plaint de douleurs thoraciques prédominant à droite, associées à des épisodes de sueurs qui l’amènent à consulter son médecin traitant. Ce patient exerce la profession d’ouvrier maçon mais semble ne plus avoir d’activité régulière depuis 2012. L’interrogatoire retrouve une intoxication alcoolo-tabagique ancienne et, en 2004, une pleuropneumopathie du lobe inférieur gauche ayant conduit à une pleurésie enkystée, traitée par décortication en juillet 2005.
+
+Le 7 septembre 2014, un scanner thoracique est réalisé à la demande du médecin traitant, concluant à :
+
+"Présence d'adénopathies médiastinales d'allure primitive. Par ailleurs, très volumineuse masse ganglionnaire dans le creux axillaire droit, mesurée à 35 mm".
+
+Le 15 septembre 2014, le médecin généraliste évoque la nécessité d'un nouveau scanner thoracique et souhaite un avis pneumologique.
+
+Le 18 septembre 2014, de sa propre initiative, le patient consulte le pneumologue l’ayant pris en charge en 2004 pour sa pleuropneumopathie. Ce dernier confirme l'existence de volumineuses adénopathies axillaires droites et médiastinales. Il propose un traitement par antibiotique et corticoïde (Augmentin® - Celestene®) dans l'hypothèse d'un "hémothorax post-traumatique".
+
+Le 25 septembre 2014, le médecin traitant évoque une mononucléose infectieuse mais aucun bilan biologique n'est réalisé dans ce sens.
+
+Le 21 novembre 2014, un nouveau scanner thoracique, réalisé par le même radiologue montre la persistance des lésions précédemment décrites et qui semblent avoir légèrement augmenté de volume.
+
+Le 24 novembre 2014, le pneumologue revoie le patient. Les adénopathies persistent et ont même augmenté de volume. Il envisage une biopsie sous échographie ou chirurgicale et propose d’en discuter avec le radiologue (absence de courrier).
+
+Le 28 novembre 2014, le radiologue, réalise la biopsie par ponction sous échographie d'une adénopathie axillaire droite. Elle est envoyée au laboratoire d'anatomo-pathologie. Aucun courrier n’est adressé au médecin généraliste, ni au pneumologue.
+
+Le compte rendu de l’anatomopathologiste, en date du 10 décembre 2014 conclue à :
+
+"Biopsie axillaire d'interprétation difficile ne permettant pas d'éliminer ou d'affirmer un processus inflammatoire de type mononucléose infectieuse ou une lésion lymphomateuse. Le prélèvement est envoyé au chef du service d’anatomo-pathologie pour avis".
+
+Ce compte rendu est adressé, par coursier, au radiologue. Il est envoyé par courrier au médecin traitant et au pneumologue.
+
+Le 24 décembre 2014, le chef de service d’anatomopathologie du CHU adresse le complément de réponse suivant : 
+
+"Lésion suspecte d'un lymphome hodgkinien. Cependant une mononucléose infectieuse ne peut être exclue. Prélèvement à refaire".
+
+Ce nouveau compte rendu est donné, par coursier, au radiologue Il est envoyé par courrier au médecin traitant et au radiologue.
+
+Le médecin traitant déclare ne pas avoir reçu directement ce compte-rendu et évoque la possibilité d'une numérisation de ce document directement dans le dossier informatique du patient. Le pneumologue, selon ses dires, n'a pas reçu ce document.
+
+Le radiologue range ce document dans le dossier du patient, sans donner suite. L’anatomo-pathologiste fournit, lors de l'expertise, l'attestation de l'envoi de ce document par son secrétariat, qui est jugée comme étant "difficilement compréhensible" par l'ensemble des participants à l'expertise.
+
+Le 12 décembre 2015, soit un an plus tard, le patient consulte aux urgences du CHU pour des douleurs thoraciques :
+
+"Patient apyrétique, auscultation normale, radio thorax normale, bilan biologique normal. Prescription de Topalgic® et de paracétamol".
+
+Ce traitement atténue les douleurs et ce n’est que 6 mois plus tard, le 4 juin 2016, que le patient reconsulte son médecin traitant pour, à nouveau, une volumineuse adénopathie axillaire droite associée à du prurit.
+
+Une échographie est demandée et confirme le diagnostic clinique. A la suite de ce résultat, et devant la forte insistance du patient, le médecin traitant fait une recherche plus attentive dans son ordinateur et parvient à retrouver le compte rendu de la biopsie ganglionnaire de décembre 2014.
+
+Le 10 juillet 2016, un PET scan conclue à :
+
+"Hyper métabolisme ganglionnaire sus et sous diaphragmatique suspect, compatible avec une pathologie lymphomateuse".
+
+Le 4 août 2016, le patient est adressé à un oncologue médical qui programme un prélèvement ganglionnaire.
+
+Le 17 août 2016, ce prélèvement ganglionnaire est réalisé par voie chirurgicale en clinique. L’examen anatomopathologique retient le diagnostic de maladie de Hodgkin classique scléro-nodulaire, résultat confirmé par le chef du service d’anatomopathologie.
+
+Le 9 septembre 2016, le patient est adressé en consultation d’hématologie où le diagnostic retenu était celui de maladie de Hodgkin stade III Aa, avec une atteinte sus et sous diaphragmatique mais en l'absence de signes généraux et de signes biologiques d'inflammation. Il ne semble pas qu’une biopsie ostéomédullaire ait été faite.
+
+Le 14 septembre 2016, lors d’une hospitalisation en clinique, une chambre implantable (dispositif PAC) est posée en situation jugulaire droite.
+
+La chimiothérapie de type ABVD est débutée le 20 septembre 2016 et poursuivie sur 6 cures.
+
+Le 19 octobre 2016, changement de PAC en raison de douleurs sur le premier dispositif.
+
+Le 23 novembre 2016 (après deux mois de chimiothérapie, un nouveau PET scan donne des résultats très satisfaisants avec quasi normalisation de la fixation des adénopathies sous-pectorales et axillaires droites, disparition des autres foyers et absence d'apparition de nouveau foyer suspect.
+
+Le 28 février 2017, fin de la chimiothérapie (6 cures ABVD).
+
+Le 22 mars 2017, le PET scan est normal.
+
+Le 18 décembre 2017, consultation d’hématologie :
+
+"On peut conclure à la persistance de la rémission complète".

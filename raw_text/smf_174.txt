@@ -1,0 +1,86 @@
+Contexte
+
+La bêta-thalassémie majeure est due à des mutations ponctuelles homozygotes ou hétérozygotes composites et à des délétions au sein du gène de bêta-globine induisant une production réduite, voire nulle, des chaînes de bêta-globine ainsi qu’un déséquilibre de synthèse entre chaînes alpha- et bêta-globine. Cela conduit à la formation d’érythrocytes microcytaires pathologiques qui présentent une morphologie anormale («target cells»), à une hémolyse accrue et, en conséquence, à une anémie. Les complications apparaissent notamment en raison de l’expansion de la moelle osseuse avec hématopoïèse extra-médullaire et de l’absorption ferrique intestinale accrue avec ­surcharge en fer consécutive. Ces complications n’entraînent pas toujours un besoin de transfusions. Dans les pays industrialisés, les complications graves de la bêta-thalassémie majeure sont devenues rares du fait des transfusions érythrocytaires régulières accompagnées de chélateurs de fer (élimination du fer) et de la possibilité d›un traitement curatif par transplantation allogénique de cellules souches [1, 2, 5].
+
+Présentation du cas
+Anamnèse
+
+Deux jeunes femmes et un jeune homme avec bêta­-thalassémie homozygote connue ont fui le Proche-Orient avec leurs familles pour venir se réfugier en Suisse. Pendant leur exil, ils n’ont pas reçu de traitement adéquat. Ils se sont en conséquence présentés dans notre hôpital universitaire avec des complications sévères en 2015 et 2017.
+
+Patiente 1: Elle s’est présentée pour la première fois dans notre service des urgences fin 2017, à l’âge de 14 ans. Elle était dans un état général (EG) extrêmement mauvais, assise dans un fauteuil roulant car elle n’était plus en mesure de marcher, et elle se plaignait de détresse respiratoire, de douleurs abdominales et de fortes douleurs osseuses. L’anamnèse a révélé que la patiente souffrait d’une bêta-thalassémie majeure diagnostiquée à l’âge d’un an, et qu’un traitement par transfusions érythrocytaires était initié tous les trois à quatre mois lorsque le taux d’hémoglobine était en dessous de 40 g/l. Elle recevait, à chaque fois, un traitement chélateur partiel (et de ce fait inefficace) par déféroxamine par voie intraveineuse directement après la transfusion. Des chélateurs oraux n’étaient pas disponibles.
+
+Patiente 2: La sœur de la patiente 1, âgée de 17 ans, s’est présentée en même temps dans un EG légèrement meilleur. L’anamnèse a également révélé qu’elle souffrait d’une bêta-thalassémie majeure. Depuis l’âge de sept ans, elle recevait des transfusions érythro­cytaires régulières avec administration consécutive de déféroxamine par voie intraveineuse tous les 30 à 35 jours. Elle se plaignait surtout de détresse respiratoire survenant lorsque le taux d’hémoglobine était trop bas mais ne présentait pas d’autres symptômes subjectifs.
+
+Les parents des deux patientes sont consanguins.
+
+Patient 3: Il s’est présenté chez nous fin 2015, à l’âge de 15 ans. L’anamnèse a montré qu’il souffrait d’une bêta­-thalassémie majeure depuis l’âge de trois ans et qu’il recevait des transfusions érythrocytaires sans traitement chélateur toutes les trois à quatre semaines. Un diabète mal contrôlé était en outre connu depuis trois ans, qui était traité par insuline sous-cutanée.
+
+Statut
+
+Patiente 1: L’examen clinique a montré, outre un EG très mauvais, une ascite massive ainsi qu’une dyspnée marquée. Sur le plan clinique, de mauvais alignements de plusieurs membres, notamment de l’avant-bras et de la cuisse gauches, ont également été observés, correspondant, sur le pan radiologique, à des fractures ­pathologiques non traitées. Elle présentait en outre un nanisme avec une taille de 120 cm (–6,37 «standard deviation score» [SDS]) et un poids de 26,3 kg (–3,75 SDS) (fig. 1 et 2).
+
+Figure 1: Signes cliniques de la patiente 1 à l’admission. On note la couleur grisâtre de la peau, une cicatrice sans particularité faisant suite à une splénectomie (A ), l’abdomen protubérant en présence d’une hépatomégalie et d’une ascite (B ) ainsi que le mauvais alignement du bras et de la jambe gauches. La publication a été réalisée avec l’accord de la famille.
+
+Figure 2: Clichés radiographiques de la patiente 1. (A ) Avant-bras gauche, (B ) cuisse gauche et (C ) thorax a.p. à l’admission avec mise en évidence de nombreuses fractures, d’une structure osseuse ostéopénique ainsi que d’une cardiomégalie et d’une hépatomégalie.
+
+Patiente 2: Cette patiente présentait également un nanisme avec une taille de 139,7 cm (–3,56 SDS), et un poids de 42,3 kg (–1,89 SDS).
+
+Patient 3: Ce patient s’est présenté dans un très mauvais EG. Il présentait une peau de couleur gris verdâtre et un nanisme avec une taille de 133 cm (–4,37 SDS) et un poids de 31,2 kg (–3,65 SDS).
+
+Les autres signes cliniques et résultats de laboratoire peuvent être consultés dans le tableau S1 de l’annexe en ligne de l’article.
+
+Diagnostic
+
+Les examens d’imagerie ainsi que les autres examens diagnostiques ont révélé une surcharge en fer hépatique et cardiaque sévère avec cirrhose hépatique, trouble de la fonction hépatique, cardiomyopathie et dysfonction cardiaque chez tous les patients. L’imagerie par résonance magnétique (IRM) du crâne a montré une hémosidérose prononcée à divers endroits (fig. 3) chez l’ensemble des trois jeunes patients; les dépôts se trouvaient surtout au niveau de l’hypophyse, ce qui a contribué au déficit en hormones de croissance et à l’absence de puberté.
+
+Les autres observations cliniques ont été résumées dans le tableau S2 de l’annexe en ligne de l’article.
+
+Figure 3: IRM du patient 3. (A ) Séquence axiale sensible à la susceptibilité magnétique (SWI pour «susceptibility weighted ­imaging») avec hypointensité marquée au sein des plexus choroïdes du 3e ventricule et du ventricule latéral, compatible avec une sidérose. Selon la classification NHICP (number of hypointensity in the choroidplexus) [3], dépôts de fer de grade V au sein des plexus choroïdes. (B ) La séquence axiale pondérée en T2 montre une chute du signal au niveau des glandes lacrymales des deux côtés, ce qui est compatible avec une sidérose. (C ) La séquence sagittale pondérée en T2* montre une chute marquée du signal de l’adénohypophyse en présence de dépôts de fer. On remarque également l’élargissement de la voûte crânienne ainsi que l’hyperplasie adénoïde.
+
+Résultats génétiques
+
+Les anomalies génétiques ont été présentées dans le ­tableau S3 de l’annexe en ligne de l’article.
+
+Traitement
+
+Un programme de transfusions érythrocytaires régulières avait pour but d’inhiber l’érythropoïèse endogène. Les volumes et les intervalles de transfusions ont été adaptés à la situation cardiaque. Malgré le risque d’allo-immunisation, les résultats des analyses de génétique moléculaire du groupe sanguin détaillées de la patiente 1, avec une hémoglobine initiale de 56 g/l, n’ont pas été attendus, en raison du risque de décompensation cardiaque. Elle a dû être transfusée en urgence. Le traitement a été contrôlé au moyen des taux de réticulocytes devant être maintenus à un niveau le plus bas possible, en tant que signe de l’inhibition adaptée de l’érythropoïèse. Un traitement chélateur par dé­férasirox en association à la défériprone, adapté en fonction des taux de ferritine correspondants, a été débuté. Les détails de ce traitement et les traitements supplémentaires des différentes complications sont présentés dans le tableau S4 de l’annexe en ligne de l’article.
+
+Evolution
+
+Une évolution favorable a été observée en octobre 2018 après onze mois chez les patientes 1 et 2, et après 35 mois chez le patient 3. Des diminutions significatives des concentrations de ferritine sérique ont été démontrées chez les patients 1 et 3. Sous transfusions érythro­cytaires régulières, des valeurs d’hémoglobine de >100 g/l ont été mesurées chez l’ensemble des trois patients, un résultat qui entre dans l’intervalle cible visé.
+
+Patiente 1: L’ajustement des différents traitements s’avère difficile du fait de la sévérité de la maladie et de la mauvaise adhésion au traitement de la patiente. En présence d’un taux d’hémoglobine stable depuis cinq mois, de taux de réticulocytes considérablement abaissés ainsi que d’une ferritine en régression et actuellement de 9751 µg/l (initialement de 9790 µg/l), les perfusions à intervalles de trois semaines sont poursuivies.
+
+Tandis que des instructions exhaustives quant au traitement du diabète ont été délivrées, des valeurs de ­glycémie entre 10–15 mmol/l sont souvent mesurées à jeun et le traitement doit régulièrement être adapté en conséquence. En présence d’une hypothyroïdie et d’une insuffisance cardiaque, un traitement de substitution à faible dose a été initié et sa posologie a dû être considérablement augmentée au cours de l’évolution (levothyroxinum natricum 5 µg/kg/j). Un traitement par calcitriol a été conduit en raison des résultats osseux, tandis qu’un traitement par bisphosphonates a été considéré et mis en place à la suite de valeurs nettement pathologiques à la densitométrie osseuse et en raison de la «peripheral quantitative computed tomography» (pQCT), (voir tab. S2 de l’annexe en ligne de l’article). Les douleurs osseuses sont contrôlables sous analgésie fixe.
+
+Patiente 2: Les valeurs de ferritine se sont accrues à la suite des transfusions érythrocytaires, l’hémoglobine pré-transfusionnelle est de plus de 100 g/l, ou actuellement même de 120 g/l, et les taux de réticulocytes sont bas. Le traitement chélateur par défériprone et déférasirox peut être poursuivi en adaptant constamment la posologie. Sur le plan clinique, la patiente se porte bien et la puberté a commencé spontanément. Les tests portant sur tous les axes hypophysaires n’ont pas montré de déficits, si bien qu’un traitement par hormones de croissance n’était pas indiqué.
+
+Patient 3: De façon réjouissante, la valeur de ferritine initiale de 8015 µg/l est descendue à 344 µg/l. Le chélateur oral actuel, déférasirox, a en conséquence pu être arrêté et une monothérapie par défériprone est poursuivie. Les taux de réticulocytes sont toutefois considérablement accrus, ce pourquoi un intervalle de transfusion de deux semaines doit être respecté en vue d’inhiber l’érythropoïèse endogène. Un schéma de transfusion si serré n’aurait pas été envisageable initialement en raison du risque de décompensation cardiaque. La surcharge cardiaque en fer à l’IRM-T2* est certes en régression, mais reste sévère. De façon réjouissante, il s’est produit une normalisation de la surcharge en fer au niveau du foie. La réussite du traitement du diabète s’avère modérée du fait de l’adhésion variable au traitement, mais la fructosamine reste néanmoins élevée au fil du temps. Le patient est désormais sous un traitement par hormones de croissance et testostérone initié après qu’un déficit de ces axes ait été mis en évidence dans les tests de stimulation. Ce traitement est bien toléré et l’évolution est favorable. Le patient va désormais à l’école et se porte très bien sur le plan clinique.
+
+Après le traitement par elbasvir/grazoprévir d’une infection par le virus de l’hépatite C (VHC) connue, l’ARN de l’hépatite C n’était plus détectable. Il est donc possible de parler de «sustained virological response» (SVR12), indiquant que l’infection par le VHC est guérie.
+
+Discussion
+
+Les patients atteints de bêta-thalassémie majeure qui consultent pour la première fois notre clinique universitaire en tant que réfugiés peuvent présenter des altérations cliniques extrêmement graves et marquées qui ne sont plus observés sous cette forme dans les pays occidentaux.
+
+L’étiologie du syndrome d’ostéoporose-ostéopénie est complexe. Des facteurs génétiques, remodelage osseux accru, toxicité du fer, expansion de la moelle osseuse, déficit en hormone de croissance, hypogonadisme, hypoparathyroïdie et traitement inadéquat jouent tous un rôle central [6]. Le traitement des complications mentionnées, notamment par bisphosphonates, est recommandé [7].
+
+L’ensemble des trois patients présentaient une sidérose myocardique avec un risque de mortalité élevé. Outre les cardiomyopathies dilatatives et restrictives, les ­périomyocardites et myocardites, des arythmies surviennent également dans le cadre de la dysfonction cardiaque, et le risque correspondant s’avère proportionnel à la sévérité de la sidérose cardiaque. L’anémie hémolytique chronique est à l’origine de dysfonction ventriculaire gauche et droite ainsi que d’une hypertension pulmonaire. La surcharge en fer avec lésion directe des cellules conduit à une dysfonction diastolique ventriculaire gauche [8].
+
+Le traitement nécessite une collaboration interdisciplinaire étroite entre les spécialistes. Outre la prise en charge des coûts qui n’est la plupart du temps pas complète, un interprète avec une bonne connaissance de la langue doit toujours être présent lors des décisions, clarifications et explications centrales. La collaboration étroite avec les autres membres de la famille est d’une pertinence décisive pour la bonne adhésion au traitement et la compréhension de la maladie. A titre d’exemple, le traitement doit être expliqué de façon simplifiée sur la base d’images des médicaments et ­d’illustrations des comprimés afin que les patients puissent prendre leurs médicaments de façon autonome également en cas de connaissances orales et écrites de la langue insuffisantes.
+
+L’essentiel pour la pratique
+
+• Chez les patients qui présentent une anémie hémolytique microcytaire d’origine indéterminée et qui sont originaires des régions de la Médi­terranée, d’Asie, Afrique, ou d’Amérique latine, un dépistage de la thalassémie devrait être réalisé et selon l’origine du patient, l’hétérozygotie composite et la drépanocytose devraient être exclues.
+
+• Pour ce qui est des séquelles hormonales, en pratique, un dépistage du diabète (glucose à jeun et fructosamine) peut déjà être réalisé et une ­hypothyroïdie recherchée.
+
+• En cas d’anomalies, nous recommandons d’adresser le patient à un centre spécialisé pour la coordination de tous les spécialistes nécessaires: l’initiation d’un traitement avec transfusions érythrocytaires régulières, le début d’un traitement chélateur, la substitution hormonale et les traitements de soutien doivent être conduits dans le cadre d’une collaboration interdisciplinaire.
+
+• Chez les patients atteints d’asplénie, un carnet d’urgence doit être délivré. De plus, une vaccination annuelle contre la grippe (selon les recommandations actuelles de l’Office fédéral de la santé publique) est recom­mandée, tout comme un schéma de vaccination de rattrapage adapté individuellement, selon les vaccins déjà documentés du patient [4].
+
+• Pour un traitement adéquat, l’instruction et l’éducation des patients au moyen de la visualisation du plan de traitement s’avèrent essentielles en raison de la compréhension de la langue souvent initialement insuffisante.
+
+L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2019.08327.
+
+Les auteurs ont présenté les rapports de cas dans le cadre de présentations de posters lors du congrès de la Société Suisse de Pédiatrie 2018 à Lausanne («Severe haemochromatosis in three refugee adolescents with B-Thalassaemia») et du congrès de l’«European Society for Praediatric Endocrinology» (ESPE) 2018 à Athènes, Grèce, («Endocrine challenges in patients with thalassaemia»).

@@ -1,0 +1,164 @@
+Description du cas
+
+Cette patiente de 26 ans d’origine irakienne, refugiée en Suisse depuis novembre 2015, consulte pour une asthénie importante, un état fébrile fluctuant, des arthralgies ainsi que des vertiges récurrents depuis son premier ­accouchement en février 2015. Un premier examen clinique décrit une hypotension artérielle (72/48 mm Hg) et un possible souffle au foyer aortique. Le laboratoire en ambulatoire confirme une anémie microcytaire hypo­chrome hyporégénérative (hémoglobine [Hb] 11,3 g/dl; leucocytes 10,2 G/l; plaquettes 453 G/l; ferritine 199 μg/l; fer 4,2 μmol/l), déjà diagnostiquée avant son arrivée en Suisse, et une hypothyroïdie pour lesquelles la patiente bénéficie d’une substitution ferrique orale et de lévothyroxine. Concernant l’hypotension artérielle, celle-ci est traitée par étiléfrine. La patiente nous est adressée pour la poursuite du bilan.
+
+Question 1: Parmi les éléments suivants, lequel serait le plus relevant à réaliser au status?
+
+
+a) Examen abdominal
+
+b) Palpation thyroïdienne
+
+c) Recherche d’un nystagmus
+
+d) Palpation des pouls périphériques
+
+e) Test de Schellong
+
+Tous sont importants mais face à une jeune patiente avec une hypotension, des vertiges et un possible souffle cardiaque, une évaluation détaillée du status vasculaire s’impose. Chez notre patiente, le pouls radial droit est faible, alors que le gauche n’est pas perçu. On note un souffle carotidien bilatéral, prédominant à droit et une différence de tension artérielle de plus de 10 mm Hg entre les deux bras. La tension artérielle est normale aux membres inférieurs (127/50 mm Hg). Les pouls ­tibiaux postérieurs et pédieux sont bien palpés et symétriques.
+
+L’examen abdominal révèle un abdomen souple, in­dolore, sans hépatosplénomégalie, sans masse pulsatile. Par ailleurs, aucune adénopathie n’est mise en évidence.
+
+La palpation thyroïdienne, réalisée dans le cadre d’une possible thyroïdite, est sans particularité.
+
+Lors de vertiges, la présence d’un nystagmus peut contribuer à la différenciation entre une éventuelle ­atteinte périphérique ou centrale. Aucun nystagmus n’a été objectivé chez notre patiente.
+
+En présence d’une hypotension avérée, l’utilité d’un test de Schellong est relative.
+
+Question 2: A ce stade, quel examen paraclinique ­effectueriez-vous en priorité?
+
+
+a) Bilan autoimmun: ANA, ANCA
+
+b) Angio-CT cervico-thoraco-abdominal
+
+c) Bilan thyroïdien
+
+d) Echocardiographie trans-thoracique
+
+e) Bilan lipidique
+
+Devant un tel status vasculaire il est important de pra­tiquer en priorité un bilan angiologique complet. Un ­angio-CT cervico-thoraco-abdominal met en évidence de multiples sténoses pluri-étagées des axes vasculaires de l’arc aortique et supra-aortiques. Il y a, notamment, des épaississements pariétaux importants avec des occlusions et des sténoses à différents niveaux (fig. 1). ­Devant une atteinte artérielle aussi importante, sont ­recherchées particulièrement des atteintes rénales, qui ne sont pas présentes chez cette patiente.
+
+Figure 1: Angio-CT cervico-thoraco-abdominal.A ) Coupe coronale avec une sténose de l’artère carotide commune droite, ainsi qu’une occlusion partielle de l’artère subclavière droite.B ) La reconstruction en trois dimensions confirme ces atteintes et met également en évidence des atteintes des sténoses des artères vertébrales postérieures (non-visibles sur ce cliché).
+
+Un bilan auto-immun n’est pas à réaliser en priorité et s’avère peu utile dans le contexte d’une atteinte des grands vaisseaux.
+
+Une échocardiographie montre une légère régurgitation aortique avec une fraction d’éjection du ventricule gauche à 60–65%, sans dilatation, ni atteinte valvulaire. Le souffle ausculté est donc probablement d’origine ­carotidienne.
+
+Le bilan thyroïdien est non contributif sous substitution orale chez notre patiente.
+
+Un bilan lipidique et la recherche des facteurs de risque cardio-vasculaire sont utiles en prévention secondaire mais non prioritaires pour le diagnostic chez cette jeune patiente.
+
+Par contre, en présence de cette atteinte vasculaire, la recherche d’un syndrome inflammatoire est essentielle pour avancer dans le diagnostic. Chez notre patiente, le laboratoire révèle une vitesse de sédimentation (VS) à 112 mm/h et une protéine C réactive (CRP) à 94 mg/l.
+
+Question 3: Quel est votre diagnostic?
+
+
+a) Granulomatose avec polyangéite (maladie de Wegener)
+
+b) Syndrome d’Ehlers-Danlos
+
+c) Artérite à cellules géantes (ou maladie de Horton)
+
+d) Artérite de Takayasu
+
+e) Dysplasie fibromusculaire
+
+Une première étape dans le diagnostic différentiel d’une atteinte des grands vaisseaux est la distinction entre une atteinte inflammatoire et non inflammatoire.
+
+Parmi les possibles atteintes non–inflammatoires, on peut citer le syndrome d’Ehlers-Danlos (type IV, vasculaire: atteinte de la synthèse du collagène de type III) et la dysplasie fibromusculaire, une atteinte vasculaire non-inflammatoire et non-athérosclérotique aboutissant à des sténoses, occlusions, dissections et anévrismes.
+
+Parmi les atteintes inflammatoires touchant les vaisseaux, il faut penser à la granulomatose avec polyangéite, l’artérite à cellules géantes ou maladie de Horton et l’artérite de Takayasu.
+
+La polyangéite atteint classiquement les artères de ­petit calibre intéressant les sphères ORL, rénale et ­pulmonaire, ce qui ne s’applique pas au cas de notre patiente.
+
+Le diagnostic différentiel entre l’artérite à cellules géantes ou maladie de Horton et l’artérite de Takayasu est plus subtil. Il est même débattu si ces deux maladies ne sont pas le spectre d’une même pathologie [1]. Les critères permettant une distinction entre ces deux diagnostics sont l’âge, la distribution de l’atteinte artérielle alors que les marqueurs inflammatoires, la symptomatologie clinique et l’histopathologie ne sont pas déterminants.
+
+La maladie de Horton est une vasculite granulomateuse qui se manifeste essentiellement chez les sujets âgés de plus de 50 ans, de race caucasienne et atteint principalement les branches extra-crâniennes de l’artère carotide externe. L’artérite de Takayasu atteint plus fréquemment des femmes, de moins de 40 ans, avec une distribution mondiale mais une prédominance en Asie. Elle touche l’aorte, ses branches primaires ainsi que les artères pulmonaires [2].
+
+Il s’agit du diagnostic retenu chez cette patiente. Un ­tableau avec les différents critères de l’artérite de ­Takayasu est présenté dans la discussion.
+
+Question 4: Quelle doit être la prise en charge de première intention chez de cette patiente?
+
+
+a) Antihypertenseur, antiagrégant plaquettaire et statine
+
+b) Inhibiteur du TNF alpha
+
+c) Corticothérapie
+
+d) Prise en charge chirurgicale invasive: pontage
+
+e) Etiléfrine
+
+La pierre angulaire du traitement repose sur une cor­ticothérapie au long cours associée à un deuxième ­traitement immunosuppresseur (méthotrexate, azathioprine, mycofenolate mofetil ou cyclophosphamide) [5]. Les thérapies biologiques agissant sur le TNFα (infliximab) ou sur les récepteurs IL-6 (tocilizumab) [3] n’interviennent qu’en seconde ligne en cas de non-­réponse au traitement anti-inflammatoire.
+
+Le contrôle des facteurs de risque cardiovasculaire est primordial et l’administration d’acide acétylsalicyli­que est indiquée afin de prévenir des évènements cardiovasculaires ou des accidents vasculaires cérébraux.
+
+Sur le plan chirurgical, des angioplasties percutanées ou pontages peuvent être effectuées en présence de sténoses irréversibles, de symptômes d’ischémie. Les gestes invasifs sont, en général, effectués dans une deuxième phase (non-inflammatoire) de l’atteinte ­vasculaire. A noter que les deux types d’interventions sont associés à un taux élevé de resténoses.
+
+Chez notre patiente, un geste endovasculaire ou chirurgical ont été jugés impossibles à réaliser.
+
+La patiente est initialement mise au bénéfice de cor­ticothérapie orale, de méthotrexate sc. hebdomadaire et d’Aspirine Cardio®. Le traitement par Etiléfrine est suspendu au vu de cette hypotension factice. Le suivi de la tension artérielle est réalisé dès lors aux membres inférieurs.
+
+Question 5: Parmi les attitudes suivantes, laquelle (lesquelles) est (sont) indiquée(s) dans le suivi de cette patiente?
+
+
+a) Suivi des paramètres inflammatoires et imagerie vasculaire à 3 mois
+
+b) Suivi des fonctions pulmonaires
+
+c) Réalisation d’Elispot TB
+
+d) Prévention de l’ostéoporose
+
+e) Toutes les réponses
+
+Dans le cadre d’une artérite de Takayasu, la réponse au traitement s’évalue par le monitoring des paramètres inflammatoires biologiques et de l’imagerie vasculaire. Un score, nommé l’ITAS («Indian Takayasu Clinicial ­Activity Score») a été validé pour déterminer l’activité de la maladie [5].
+
+Outre l’importance d’évaluer une possible réactivation d’une tuberculose latente sous traitement immunosuppresseur, une association étiologique entre la tuberculose et l’artérite de Takayasu est décrite dans la littérature, d’où l’importance de réaliser un Elispot TB. Celui-ci était négatif chez notre patiente.
+
+Dès l’introduction d’un traitement par corticothérapie au long cours, il est primordial de suivre l’apparition d’un éventuel diabète cortico-induit et de prévenir une ostéoporose.
+
+Une prise de méthotrexate impose le suivi des paramètres hépatiques et la réalisation de fonctions pulmonaires complètes en raison de la toxicité médicamenteuse possible. Une évaluation de la contraception est également nécessaire en raison d’un risque fœtal tératogène associé à la prise de méthotrexate. La maladie de Takayasu induit également un important risque de complications vasculaires dans le contexte d’une grossesse [4].
+
+Discussion
+
+L’artérite de Takayasu est une vasculite granulomateuse chronique nommée également la «maladie des femmes sans pouls» ou le «syndrome de l’arc aortique».
+
+D’un point de vue étiologique, la cause n’est pas connue avec cependant plusieurs hypothèses notamment génétique, infectieuse et immunitaire [5].
+
+Cliniquement, il faut distinguer la phase pré-occlusive ou systémique, qui en aigu, est marquée par des symptômes généraux (fièvre, arthro-myalgies, érythème noueux, douleurs intéressant les trajets artériels, atteinte oculaire) de la phase occlusive ou vasculaire, qui est la conséquence des lésions inflammatoires. Le délai entre les premiers symptômes et le diagnostic est en moyenne de 0,8–3,5 ans.
+
+Le diagnostic repose principalement sur des critères cliniques et une imagerie suggestive (tab. 1). Une biopsie est rarement nécessaire pour confirmer le diagnostic.
+
+Tableau 1:Critères de classification pour l’artérite de Takayasu de l’«American College of Rheumatology»
+de 1990 (adapté selon [8]).
+Critères
+Age de la première manifestation de la maladie avant ou à 40 ans
+Claudication des extrémités, en particulier des membres ­supérieurs
+Diminution du pouls brachial d’un ou des deux côtés
+Différence de >10 mm Hg de la pression artérielle systolique mesurée entre les 2 bras
+Souffle audible sous-clavier ou au niveau aortique abdominal
+Sténoses ou occlusions artériographiques de l’aorte, de ses branches primaires, ou des artères de grand calibre des ­extrémités supérieures ou inférieures, non dues à l’athéro­sclérose ou une dysplasie fibromusculaire
+La présence de 3 critères ou plus classe une artérite inflammatoire comme artérite de Takayasu. (Notre patiente compte 5 critères.)
+
+Une claudication au niveau des membres supérieurs, une asymétrie tensionnelle, une abolition des pouls ou encore un souffle sus-claviculaire sont les manifes­tations typiques de l’atteinte des artères axillaires et sous-clavières. Les vertiges, la syncope ou encore la ­diplopie sont généralement transitoires et la conséquence d’une diminution du débit sanguin cérébral.
+
+A l’étage abdominal, les artères rénales sont fréquemment touchées ce qui entraîne une hypertension artérielle d’origine rénovasculaire (30–40% des patients). Cependant, il faut reconnaître une hypotension ar­térielle factice lorsque les artères sous-clavières sont sténosées. Dans ce cas de figure, il convient de prendre la mesure aux chevilles. Lorsque l’aorte est atteinte, une claudication intermittente des membres inférieurs peut survenir.
+
+Les artères pulmonaires sont le siège de sténoses ou d’anévrismes dans 50% des cas, rarement symptomatique.
+
+Une atteinte coronaire se retrouve jusque dans 15% des cas, alors qu’une atteinte valvulaire (typiquement insuffisance aortique) est plus fréquente (40% des cas).
+
+Les examens de laboratoire mettent avant tout en évidence un syndrome inflammatoire. Il n’y pas de marqueur spécifique. Une nouvelle protéine inflammatoire, la pentraxin 3 est en cours d’évaluation [6].
+
+Sur le plan de l’imagerie, l’US-Doppler vasculaire, l’angio-CT, l’angio-IRM ainsi que la tomographie par émission de positrons au flurodéoxyglucose sont actuellement utilisés à des fins diagnostiques et de suivi de la maladie. L’angiographie artérielle n’est plus l’examen de référence en raison de son caractère invasif, la nécessité d’une exposition aux radiations et l’injection de produit de contraste [7].
+
+Même lors d’atteinte vasculaire sévère, l’introduction d’un traitement immunosuppresseur peut induire une réversibilité des lésions et symptômes. De ce fait, la survie de l’artérite de Takayasu est en moyenne de 95% à 5 ans et de 91% à 10 ans. Les décès sont dus à une ­insuffisance cardiaque dans la majorité des cas, suivis par ceux d’origine cérébro-vasculaire.
+
+Réponses:
+
+
+Question 1: d. Question 2: b. Question 3: d. Question 4: c. ­Question 5: e.

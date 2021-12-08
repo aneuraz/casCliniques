@@ -1,0 +1,37 @@
+Contexte
+
+Nous rapportons le cas d’un lipome intrapéricardique géant chez un patient âgé de 73 ans, qui a été découvert lors d’une échocardiographie dans le cadre d’un bilan cardiologique en raison d’une dyspnée d’effort progressive.
+
+Présentation du cas
+
+Un patient de 73 ans (indice de masse corporelle 33 kg/m2) a fait l’objet d’un bilan cardiologique en raison d’une dyspnée de classe fonctionnelle NYHA II–III et de légères palpitations survenant au repos. Parmi ses ­f­acteurs de risque cardiovasculaire connus figuraient une hypertension artérielle, une dyslipidémie et un tabagisme (10 paquets-années).
+
+Le cliché du thorax présentait une ombre cardiaque fortement agrandie (fig. 1).
+
+Figure 1: Radiographie thoracique conventionnelle avec ­ombre cardiaque fortement agrandie. Pas d’indices évocateurs d’infiltrats ou de métastases. Pas de signes d’insuffisance cardiaque.
+
+L’échocardiographie transthoracique a montré une fonction ventriculaire gauche tout juste normale, avec une fraction d’éjection de 59%. Aucune pathologie intracardiaque n’a été constatée, mais l’examen a néanmoins permis de visualiser un processus expansif intrapéricardique géant, qui comprimait fortement l’oreillette droite et oblitérait quasiment la veine cave supérieure. L’examen de résonance magnétique a révélé un processus expansif intrapéricardique hypodense, d’un diamètre maximal de 10,5 × 12 × 11 cm, adjacent à l’oreillette droite, au septum interauriculaire, à l’oreillette gauche et au péricarde (fig. 2). La tumeur apparaît hyperintense sur les images pondérées en T1 et T2, ce qui indiquait un tissu graisseux. En outre, la veine cave ­supérieure était engainée et quasiment oblitérée par la tumeur.
+
+Figure 2: Imagerie par résonance magnétique avec déplacement des gros vaisseaux vers la gauche en raison de la ­volumineuse tumeur intrapéricardique (*).
+
+Même si les caractéristiques du processus expansif étaient évocatrices d’un lipome, un liposarcome ne pouvait pas être exclu dans le cadre du diagnostic ­différentiel. Chez ce patient symptomatique en raison de la compression importante du cœur, une résection tumorale était néanmoins de toute façon indiquée.
+
+Une angiographie coronaire a été réalisée avant l’excision tumorale planifiée. Lors de cet examen, une coronaropathie bitronculaire a été diagnostiquée.
+
+Le patient a été préparé pour l’opération de résection tumorale et la pose de deux pontages aorto-coronariens. L’intervention a été pratiquée par une sternotomie médiane. Après ouverture du péricarde, mise en évidence d’un volumineux processus expansif, encapsulé avec une surface lisse, ressemblant clairement à un lipome sur le plan macroscopique. Le cœur et les gros vaisseaux thoraciques étaient refoulés de manière impressionnante dans la moitié gauche du thorax (fig. 3).
+
+Figure 3: Vue intra-opératoire après ouverture du péricarde. L: lipome, VCS: veine cave supérieure, Ao: aorte ascendante, OD: oreillette droite.
+
+Il était impossible de mobiliser la tumeur sans compromettre l’hémodynamique, si bien que les étapes ultérieures ont été réalisées sous circulation extracorporelle. Lors de la dissection, il s’est avéré que le pédicule du volumineux processus expansif avait adhéré au septum interauriculaire. Etant donné que la tumeur s’étendait également derrière la veine cave supérieure dans le sinus transverse (derrière l’aorte ascendante et le tronc pulmonaire), la veine cave supérieure a dû être sectionnée pour permettre une excision complète. ­Ensuite, la tumeur a pu être retirée aisément du sinus transverse. Une résection in toto a ainsi été possible. La veine cave supérieure sectionnée a fait l’objet d’une anastomose directe après la résection tumorale. Enfin, la revascularisation aorto-coronarienne par double pontage a été effectuée (avec l’artère mammaire gauche et un segment veineux).
+
+Le poids total de 1400 g de la pièce réséquée correspondait à la taille mesurée à la l’IRM (fig. 4).
+
+Figure 4: Pièce réséquée in toto pesant 1,4 kg.
+
+L’analyse histologique a confirmé notre suspicion de lipome. Grâce à l’hybridation in situ fluorescente (FISH) négative pour MDM2, un liposarcome a pu être exclu.
+
+L’évolution post-opératoire a été simple mis à part un épisode de fibrillation auriculaire. Le patient a quitté l’hôpital au 9ème jour et a suivi une rehabilitation stationnaire. Après 10 mois le patient a nécessité l’implantation d’un stimulateur DDD en raison d’un sick sinus. Au premier contrôle annuel après l’intervention, le ­patient était en bon état general, la dyspnée d’effort avait quasiment disparue et l’échocardiographie ne montrait pas de suspicion de récidive.
+
+Discussion
+
+Les tumeurs cardiaques primitives sont extrêmement rares, leur incidence étant comprise entre 0,0017% et 0,56% d’après des rapports d’autopsie [1]. Les lipomes intrapéricardiques et intracardiaques représentent environ 10% de toutes les tumeurs cardiaques primitives [2]. Ils peuvent se développer à partir du péricarde, du myocarde ou de l’endocarde [3–7]. La majorité des lipomes sont asymptomatiques et ils sont le plus souvent découverts fortuitement lors d’examens d’imagerie, tels que l’échocardiographie, l’imagerie par résonance magnétique ou la tomodensitométrie [4]. Les symptômes dépendent de la localisation de la tumeur et peuvent inclure fatigue, dyspnée, syncopes, douleurs thoraciques, palpitations ou mort cardiaque subite [5–8]. En règle ­générale, ces tumeurs peuvent être réséquées sans ­problème sans machine cœur-poumon. En raison de la très grande taille de la tumeur, de l’extension rétrocavale dans le sinus transverse et de l’instabilité hémodynamique causée par la manipulation de la tumeur dans notre cas, la résection a été effectuée sous circulation extracorporelle. Le suivi s’effectuera à intervalles réguliers.

@@ -1,0 +1,70 @@
+Cas clinique
+
+Patient de 21 ans en bonne santé habituelle hormis une entéropathie au gluten. Il consulte en raison de l’apparition de selles liquides à raison de 6 fois par jour en quantité importante malgré la poursuite du régime d’éviction du gluten qu’il suivait jusque-là. Il ne relate pas d’hématochézie, mais de légères crampes abdominales. La symptomatologie a débuté 3 jours auparavant, sans évolution franche depuis lors. Il travaille comme informaticien, n’a pas effectué de voyage récent et ne rapporte pas de contage dans son entourage. A l’examen clinique il est en état général conservé, sa fréquence cardiaque est à 90 bpm, il est normotendu à 120/75 mm Hg et fébrile à 38,3 °C. Son abdomen est sensible de manière diffuse mais sans détente ni défense, et le toucher rectal ne révèle pas d’anomalie.
+
+L’assistant en stage à votre cabinet a profité d’une diarrhée constatée au cabinet pour réaliser une PCR («polymerase chain reaction») des selles qui revient positive pour un Campylobacterspp..
+
+Question: Comment interprétez-vous ce résultat?
+
+
+a) Significatif, au vu d’une probabilité pré-test élevée vous débutez un traitement par azythromycine.
+
+b) Significatif, même avec une probabilité pré-test élevée vous attendez la coproculture pour débuter une antibiothérapie.
+
+c) Significatif, malgré la probabilité pré-test élevée vous ne débutez pas d’antibiothérapie.
+
+d) Non significatif, il s’agit probablement d’un faux positif.
+
+Réponse:
+
+
+La réponse correcte est c.
+
+Discussion
+
+Le diagnostic des diarrhées a considérablement changé depuis quelques années avec l’introduction de tests moléculaires rapides ou classiques pouvant potentiellement remplacer la culture bactérienne ou être utilisés comme tests de dépistage. Pour cette raison, de nombreux tests moléculaires rapides commerciaux sont proposés pour le diagnostic des gastroentérites bactériennes, parasitaires ou virales.
+
+Pour les diarrhées, le BD MAX™ (Becton Dickinson, USA) est un test fréquemment utilisé en Suisse [1]. Il comprend un panel d’amorces ciblant les bactéries et toxines les plus souvent associées aux diarrhées sous nos latitudes:
+
+– Campylobacter spp.;
+
+– Salmonella spp.;
+
+– Shigella spp. etEscherichia (E.) coli entéroinvasive (EIEC).
+
+Ainsi que certaines bactéries avec un effet pathogène plus marqué comme:
+
+– Shiga toxines (Sxt1/2) notamment présentes chez les E. colientérohémorragique (EHEC/STEC/VTEC) et Shigella dysenteriae [2].
+
+En fonction de la clinique, d’autres panels peuvent lui être adjoints ou être effectués de manière isolés, notamment les toxines de Clostridioides difficile, les panels viraux ou parasitaires. D’autres systèmes proposent des panels élargis permettant de rechercher de manière conjointe jusqu’à 22 micro-organismes (BIOFIRE®, bioMérieux, Marcy-l’Etoile, France) [1].
+
+Bien que de récentes études montrent que les tests moléculaires offrent une meilleure sensibilité et spécificité que la culture [2], d’autres études relèvent que la sensibilité de la PCR pourrait être inférieure à la culture par enrichissement pour certains microorganismes, notamment Salmonella [3].
+
+Cette controverse est probablement due au fait que les performances varient selon les cibles incluses dans les panels proposés. Les résultats de ces études doivent être interprétés avec précaution car de multiples facteurs pré-analytiques (qualité du prélèvement, milieux de prélèvement, temps d’acheminement au laboratoire, …) et analytiques (préparation de l’analyse, quantité de matériel utilisé, …) peuvent influencer les performances des tests moléculaires ainsi que des cultures bactériennes. Il est à relever que si une analyse réciproque est effectuée sur le même échantillonnage de selles, la culture a en général une sensibilité plus faible que les tests moléculaires [3]. L’avantage indiscutable des tests moléculaires est la rapidité de résultat (~ 2–3 heures) comparé à la culture bactérienne qui peut prendre plusieurs jours.
+
+Cet avantage est contrebalancé par le fait que la PCR ne donne aucune information sur la charge et la viabilité bactérienne présente. La PCR donne un résultat qualitatif ciblant l’ADN de micro-organismes mort ou vivant et peut être positive lors d’une infection symptomatique, lors d’un portage ou après une infection ancienne puisque la persistance du signal par PCR (portage de convalescence) peut perdurer plusieurs semaines [4].
+
+Au vu de ces éléments, afin de limiter les erreurs d’interprétation, la PCR lorsqu’elle est positive est toujours couplée à la réalisation d’une coproculture sur des milieux sélectifs permettant la croissance des pathogènes entériques tout en inhibant la croissance des autres germes de la flore gastro-intestinale. Ainsi, la récupération du microorganisme en culture permet de vérifier sa viabilité mais également de réaliser un antibiogramme. Cependant, un résultat de PCR positif avec culture négative ne permet pas d’exclure la présence de bactéries pathogènes vivantes chez le patient car la culture bactérienne est en général moins sensible et/ou la viabilité bactérienne dans le prélèvement soumis au laboratoire n’est pas garantie. Ainsi, au Centre hospitalier universitaire vaudois (CHUV) en 2018, le taux de récupération par culture après des PCR positives est de 58% pour les Campylobacterspp., 73% pour les Salmonella spp. et 35% pour les Shigella spp.. A noter qu’en 2018, moins de 10% des selles adressées aux CHUV étaient positives pour la recherche de Campylobacter spp., Salmonella spp. et Shigella spp..
+
+Pour le Clostridioides difficiledont la PCR a une sensibilité et spécificité de l’ordre de 94%, en lieu et place de la coproculture, un test immuno-enzymatique (TIE) permettant de détecter la glutamate déshydrogénase et les toxines A/B est effectué. Cet examen restera négatif si Clostridioidesdifficile est absent ou présent en quantité inférieure au seuil de dépistage du TIE. L’analyse combinée de ces éléments devient assez évidente lors d’une double positivité ou d’une double négativité mais rend son interprétation difficile lors d’une PCR positive et d’un TIE négatif. Cet examen ne donne pas non plus d’information sur les éventuelles résistances qui deviennent de plus en plus prévalentes [5]. Malgré cela, les antibiogrammes ne sont pas réalisés, en raison de concentrations minimales inhibitrices (CMI) pour métronidazole et vancomycine sans lien évident avec la réponse clinique, d’une absence de critère d’interprétation et une variabilité importante de la mesure de CMI pour la fidaxomicin [6].
+
+La tarification de ces examens peut varier d’un laboratoire à l’autre comme vous pourrez le constater sur le tableau 1. Il est surprenant de constater que cet examen, malgré une main d’œuvre très réduite reste pour l’instant plus cher que la culture standard, probablement en raison de prix des réactifs généralement onéreux. Un programme de réévaluation de la liste des analyses et des tarifs à la prestation est en cours et pourrait aboutir à une modification significative des tarifs pour les analyses moléculaires.
+
+Tableau 1: Tarification en CHF des analyses par PCR («polymerase chain reaction») et coprocultures de différents laboratoires universitaires et privés. Les coprocultures effectuées uniquement en cas de PCR positives sont généralement facturées comme recherche de germe additionnel.
+ 	PCRnégative	PCRpositive	Coproculturenégative	Coproculturepositive	Totalmax.
+Laboratoire 1 panel BD MAX™	100	177	Compris	Compris	177
+Laboratoire 2 panel BD MAX™	100	177	Compris	Compris	177
+Laboratoire 2 panel BIOFIRE®	303	380	Compris	Compris	380
+Laboratoire 3 Panel BD MAX™	180	180	22	70	250
+Laboratoire 4 Panel BD MAX™	180	180	22	70	250
+Laboratoire 5 Panel BIOFIRE®	360	360	22	70	430
+
+En conséquence, les tests moléculaires offrent de bonnes performances de sensibilité et spécificité ainsi qu’un rendu des résultats rapides mais ne sont pas suffisants pour évaluer le rôle pathogène du micro-organisme retrouvé. En effet, tout résultat de laboratoire doit être confronté à la clinique et de telles analyses ne devraient pas être prescrites sans une valeur prétest élevée afin d’éviter d’obtenir des résultats moléculaires positifs ne reflétant pas une infection active ou ne justifiant pas une prise en charge spécifique.
+
+Dans notre cas, l’absence de critère de sévérité (signes d’hypovolémie, >6 selles/24 heures, douleurs abdominales sévères, nécessité d’hospitalisation), de critère de diarrhée inflammatoire (muco-purulente, sanguinolente, température >38,5 °C) de même que l’absence de comorbidité pouvant être exacerbée par les diarrhées (≥70 ans, cardiopathie, immunosuppression, maladie inflammatoires de l’intestin, grossesse), la durée encore inférieure à sept jours et l’absence d’implication en terme de santé publique (travail agro-alimentaire, restauration, soignant …) nous incite selon les guidelines actuels à nous abstenir de rechercher la cause de ces diarrhées ainsi qu’à débuter un traitement autre que symptomatique [2]. Au vu de ces éléments, le fait qu’un jeune collègue ait demandé une PCR de manière trop précoce ne doit pas nous pousser à sur interpréter et sur traiter cette diarrhée. Ceci d’autant plus que ce résultat peut témoigner aussi bien d’un portage sain, d’une infection au décours avec une faible persistance d’un Campylobacter spp. mort ou vivant ou comme c’est très probablement le cas dans notre situation, d’une infection par un Campylobacter avec un réel rôle pathogène dont la grande majorité sont malgré tout d’évolution spontanément favorable avec une différence de symptomatologie d’un jour seulement sous antibiotique comparativement au placebo [7].
+
+Messages principaux
+
+• La PCR («polymerase chain reaction») ne donne aucune information sur le rôle pathogène du micro-organisme retrouvé. Sa rapidité, sa sensibilité et sa spécificité en font un très bon premier examen pour autant que la valeur pré-test soit élevée.
+
+• La culture reste l’examen de choix pour évaluer les éventuelles résistances.

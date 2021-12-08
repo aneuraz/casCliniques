@@ -1,0 +1,21 @@
+Présentation du cas
+
+Une patiente de 78 ans nous a été adressée pour un bilan pneumologique approfondi en raison d’une toux sèche irritative persistante et d’une dyspnée d’effort, qui survenait déjà lors des efforts de faible intensité (stade 3 sur l’échelle mMRC1). Lors du premier examen, des râles crépitants de type velcro ont été perçus à l’auscultation et la patiente présentait une faible saturation périphérique en oxygène de 88% en air ambiant. En raison de ces anomalies, une tomodensitométrie (TDM) thoracique a été réalisée.
+
+La TDM a mis en évidence un pattern caractéristique de «crazy paving», consistant en des réticulations sur un fond de verre dépoli (fig. 1).
+
+Figure 1: Tomodensitométrie, coupe axiale: pattern de «crazy paving» massif et touchant tous les lobes pulmonaires.
+
+La patiente a été femme au foyer durant toute sa vie, et des expositions environnementales spécifiques ont donc pu être exclues. En raison d’une fibrillation auriculaire tachycarde, la patiente prenait déjà de l’amiodarone à la dose de 200 mg/j depuis sept ans.
+
+Une bronchoscopie avec lavage broncho-alvéolaire (LBA) a été réalisée. Le liquide de LBA s’est révélé normal à l’examen macroscopique. L’examen cytologique a montré la présence de cellules spumeuses (fig. 2), qui sont typiquement retrouvées chez les patients atteints d’une pneumopathie à l’amiodarone. La mise en évidence des cellules spumeuses concorde avec le diagnostic, mais elle ne le prouve cependant pas, car ces cellules spumeuses surviennent également dans 50% des cas chez des patients asymptomatiques traités par amiodarone.
+
+Figure 2: Cellules spumeuses (flèches), telles qu’elles ­surviennent typiquement en cas de pneumopathie à ­l’amiodarone (coloration Giemsa, grossissement de 400 fois).
+
+Discussion
+
+La pneumopathie à l’amiodarone survient chez les patients prenant de l’amiodarone durant plus de deux mois. Son incidence est estimée à 1–5% des patients prenant régulièrement le médicament. La maladie survient plus fréquemment chez les patients âgés et chez ceux prenant des doses cumulatives élevées. Sur le plan clinique, elle se manifeste typiquement par une toux sèche et par une dyspnée. Le pattern de «crazy paving» était initialement considéré comme étant pathognomonique du diagnostic de protéinose alvéolaire. Aujourd’hui, on sait que ce pattern peut s’observer dans une multitude de maladies, comme par exemple l’hémorragie alvéolaire, la pneumonie lipoïde, la pneumonie organisée et enfin aussi la pneumonie due au COVID-19.
+
+La principale mesure thérapeutique consiste à arrêter l’amiodarone. Des corticoïdes peuvent en outre être administrés pour accélérer le rétablissement, de la prednisone à la dose de 0,5 mg/kg de poids corporel étant classiquement prescrite (des études randomisées et contrôlées à ce sujet font néanmoins défaut). En raison de la longue demi-vie du médicament, un traitement prolongé de 4–12 mois est recommandé, en réduisant lentement la dose sous contrôle clinique.
+
+Chez notre patiente, une amélioration clinique massive a été obtenue après avoir interrompu le médicament durant deux mois et administré de la prednisone. Elle ne toussait plus, la dyspnée d’effort avait disparu et la TDM de suivi (un examen fonctionnel pulmonaire n’était pas possible en raison des antécédents d’accident vasculaire cérébral de la patiente) a montré une réduction massive du pattern de «crazy paving».

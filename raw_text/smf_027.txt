@@ -1,0 +1,74 @@
+Contexte
+
+Au cœur de la pandémie de COVID-19 en avril 2020, un homme au début de la trentaine s’est présenté avec une toux sèche et des épisodes fébriles intermittents allant jusqu’à 40 °C. Malgré un tableau clinique correspondant et une imagerie suggestive, les prélèvements PCR1SARS-CoV-2 répétés étaient à chaque fois négatifs.
+
+Même si la toux et la fièvre font penser à une infection à la COVID-19, nous devons rester ouverts à d’autres diagnostics.
+
+Description du cas
+Anamnèse
+
+Un patient au début de la trentaine a été adressé par le médecin de famille au service des urgences en présence de fièvre et toux d’origine indéterminée avec quelques mucosités transparentes depuis 4 semaines. Une perte de poids de 10 kg avait par ailleurs été enregistrée au cours des 6 derniers mois. Plusieurs mois auparavant, une diarrhée avec mise en évidence de Blastocystis hominis dans les selles avait été traitée au cabinet de médecine de famille par du métronidazole pendant 10 jours.
+
+Examen clinique et résultats
+
+Lors de l’examen d’admission, le patient était afébrile (37,4 °C) et se trouvait dans un état général réduit et un état nutritionnel de cachexie (indice de masse corporelle 18 kg/m2). Il était stable au niveau circulatoire (pression artérielle 128/85 mm Hg) et légèrement ­tachycardique (pouls 106/min). La fréquence respiratoire et la saturation en oxygène (95% à l’air ambiant) affichaient des valeurs normales. A l’auscultation, un bruit respiratoire accentué se faisait entendre dans la région basale gauche, le reste du statut était normal.
+
+Les analyses biochimiques ont révélé, à l’admission, un taux légèrement accru de protéine C-réactive (17 mg/l) ainsi qu’un taux élevé de lactate déshydrogénase (724 U/l). Il existait une légère anémie microcytaire normochrome (hémoglobine 135 g/l; volume moyen corpusculaire [VMC] 80 fl; teneur corpusculaire moyenne en hémoglobine [TCMH] 28 pg). Les autres valeurs de laboratoire (leucocytes et thrombocytes, électrolytes, valeurs rénales, transaminases) étaient normales. Les nombres absolu et relatif de lymphocytes se situaient tout juste dans la normale. Les prélèvements nasopharyngés PCR SARS-CoV-2 répétés trois fois en 5 jours étaient tous négatifs. Aucun test sérologique SARS-CoV-2 n’a été réalisé.
+
+Lors de la radiographie conventionnelle du thorax, une légère baisse de la transparence dans le segment postéro-basal était reconnaissable sur la vue latérale, pour des résultats sinon normaux. La tomodensitométrie (TDM) thoracique n’a ensuite permis de mettre en évidence aucune embolie pulmonaire en présence d’un taux accru de D-dimères. Des infiltrats en verre dépoli et en forme de tâches étaient visibles dans tous les lobes et segments pulmonaires, avec accentuation au niveau des lobes inférieurs et surtout à la périphérie des deux côtés (fig. 1). Selon les radiologues, le résultat était compatible avec une pneumopathie interstitielle virale associée à la COVID-19 au stade précoce.
+
+Figure 1: A) et B) Tomodensitométrie (coupes axiale): Infiltrats en verre dépoli et en forme de tâches concernant tous les lobes et segments pulmonaires. Accentuation au niveau des lobes inférieurs et à la périphérie des deux côtés.
+
+Evolution
+
+Nous avons recueilli sur place une anamnèse détaillée et remarqué en particulier la symptomatique B prononcée. Le patient a rapporté une perte de poids de 10kg avec une baisse d’appétit au cours des 6 derniers mois, des épisodes fébriles intermittents allant jusqu’à 40 °C et des sueurs nocturnes parfois abondantes. L’anamnèse de l’entourage était normale, sa compagne n’avait eu aucun symptôme. Le patient se trouvait ­lui-même depuis 3 semaines en auto-isolement à son domicile, il s’était rendu une fois au marché. L’anamnèse de voyage est également restée sans résultat, le patient n’a mentionné aucun antécédent de consommation de drogue, ni de contact sexuel à risque.
+
+L’anamnèse approfondie nous a incité à rechercher d’autres maladies infectieuses ou néoplasiques et une recherche de foyer a été initiée. Les cultures sanguines ainsi que les tests de détection d’agents pathogènes d’une pneumonie atypique, tels que les légionelles, se sont avérés négatifs. Les analyses biochimiques ont continué d’enregistrer des paramètres d’inflammation légèrement accrus et stables, la vitesse de sédimentation était de 48 mm/h. Les sérologies des hépatites A, B et C ainsi que le sérodiagnostic de la syphilis se sont ­révélés négatifs. Un test de dépistage du VIH de 4e génération a été réalisé.
+
+Diagnostic
+
+Deux jours après admission, les analyses biochimiques ont permis de mettre en évidence une infection par le VIH en présence d’un test de dépistage du VIH réactif, suivi d’un test de confirmation positif. Une PCR de la charge virale a été pratiquée au centre de référence ­nationale, confirmant le diagnostic avec plus de 450 000 copies/ml. Le nombre de cellules CD4 était de 126/μl avec une part de 10%, ce qui correspond, selon la classification du «Centers for Disease Control and Prevention» (CDC), à la catégorie 3 (nombre de cellules CD4 au-dessous de 200/μl) et ainsi à un risque élevé de survenue de maladies définissant le SIDA.
+
+Un échantillon d’expectoration induite a été prélevé et une pneumonie à Pneumocystis jirovecii (PCP) a été ­détectée par PCR. Le diagnostic d’une infection par le VIH au stade CDC C3 a ainsi été déterminé. Aucune immunofluorescence n’a été réalisée et il a été renoncé à un lavage bronchoalvéolaire, car les résultats et le ­tableau clinique correspondaient bien à une PCP. La perte involontaire de poids de plus de 10% du poids ­corporel en l’espace de 6 mois indiquait la présence du syndrome de dépérissement, une autre maladie définissant le SIDA.
+
+Traitement
+
+Au vu du diagnostic confirmé d’une PCP, il a été opté pour un traitement hautement dosé par triméthoprime/sulfaméthoxazole, adapté au poids toutes les 8 heures. Etant donné que la saturation en oxygène ­affichait une valeur normale, le traitement a été administré par voie orale et il n’a été fait appel à aucun traitement stéroïdien en présence d’une pression partielle de l’oxygène >10 kPa (>70 mm Hg) [1]. La dyspnée, la toux et la fièvre se sont continuellement améliorées et l’évolution a révélé une bonne tolérance.
+
+Au vu de la nette amélioration de son état général et de la baisse de la dyspnée, le patient a pu quitter l’hôpital après 10 jours. Il a été décidé de conclure le traitement antibiotique hautement dosé d’une durée de 3 semaines et d’initier le traitement du VIH après la sortie. Au bout de 3 semaines, l’association triméthoprime/sulfaméthoxazole a été poursuivie à dosage prophylactique 3 jours par semaine jusqu’à atteindre le rétablissement du nombre de cellules CD4 au-dessus de 200/μl.
+
+Selon les directives internationales actuelles telles que celles de la «European AIDS Clinical Society» (EACS), le traitement antirétroviral doit être initié aussi tôt que possible et dans un délai de 2 semaines après début du traitement d’une infection opportuniste [2]. L’avantage d’un traitement antirétroviral précoce dépasse souvent le risque relativement faible d’un syndrome d’immunoreconstitution en présence d’une PCP.
+
+Le contrôle de la résistance du VIH entre-temps disponible n’a permis de mettre en évidence aucune mutation associée à une résistance. Conformément aux ­directives, un traitement faisant appel à une préparation combinée de bictégravir, emtricitabine et fumarate de ténofovir alafénamide a été établi.
+
+Suite de l’évolution
+
+Lors des consultations ambulatoires suivantes, le patient ne s’est plaint d’aucun effet indésirable et prenait constamment du poids en présence d’un appétit accru.
+
+Des consultations en infectiologie et des contrôles de laboratoire réguliers ont eu lieu. Le dernier nombre de cellules CD4 12 semaines après début du traitement antirétroviral s’élevait à 600/μl (17%) et la charge virale VIH a baissé au-dessous de 40 copies/ml.
+
+Discussion
+
+Même si la toux et la fièvre font penser à une infection à la COVID-19, nous devons rester ouverts à d’autres diagnostics différentiels. Il convient de noter que les résultats répétés de la PCR SARS-CoV-2 peuvent également être faussement négatifs. En présence d’une ­suspicion durable avec imagerie suggestive (p. ex. ­infiltrats typiques en verre dépoli), des examens diagnostiques approfondis au moyen d’expectorations ou de lavage bronchoalvéolaire sont indiqués.
+
+En cas de fièvre persistante de genèse incertaine et de perte de poids inexpliquée, il faut toujours envisager une maladie au VIH et effectuer un test de dépistage du VIH-1 et VIH-2 de 4e génération (anticorps + antigène p24). Réalisé 6 semaines après la situation de risque, un test de 4e génération négatif exclut une ­infection par le VIH.
+
+Selon l’Office fédéral de la santé publique (OFSP), l’information du patient sur l’exécution du test est suffisante: «La personne consultant pour des symptômes/douleurs fait une demande générale de diagnostic, il suffit alors de lui dire que, dans sa situation, le dépistage du VIH est recommandé par la directive de l’OFSP [3].»
+
+L’anamnèse détaillée inclut une anamnèse de voyage, de l’entourage et une anamnèse sexuelle ainsi que la question concernant l’abus de drogues. Elle implique également un examen corporel approfondi, y compris l’inspection des téguments et de la bouche (p. ex. leucoplasie orale chevelue) ainsi que la palpation de toutes les stations de ganglions lymphatiques. En présence de fièvre inexpliquée, une infection par le VIH doit être exclue malgré une anamnèse et un statut d’examen normaux. Il convient également d’envisager les co-infections fréquentes telles que la syphilis ou l’hépatite C.
+
+Une infection par le VIH peut se manifester sous diverses formes et n’est donc pas facilement perceptible. Des évolutions asymptomatiques après contamination sont également possibles, de sorte que, en cas d’anamnèse sexuelle suggestive, il convient de réaliser un test VIH même en l’absence de symptômes ou de signes d’une infection par le VIH [4]. L’OFSP a publié une liste de tableaux cliniques pour lesquels la pratique d’un test VIH est recommandée. Elle inclut des ­tableaux cliniques tels qu’une dermatite séborrhéique, une infection invasive à pneumocoques, une infection à l’herpès zoster chez les personnes de moins de 50 ans ou encore une diarrhée chronique [3].
+
+Des données fiables issues de l’Etude suisse de cohorte VIH (SHCS) soutenue par des collaborations internationales montre que la prophylaxie de la PCP peut être suspendue en présence d’une charge virale VIH supprimée et d’un nombre de cellules CD4 >100/μl. Une étude SHCS récemment publiée décrit même l’abandon de la prophylaxie de la PCP en présence d’une charge virale VIH supprimée, nonobstant le nombre de cellules CD4 [5, 6].
+
+L’essentiel pour la pratique
+
+• En présence d’une fièvre persistante ou inexpliquée avec ou sans perte de poids, il convient de rechercher une infection par le VIH. L’établissement précoce du diagnostic par les médecins de famille revêt une ­importance décisive [3].
+
+• Après l’établissement du diagnostic, une bonne collaboration avec les spécialistes en infectiologie est essentielle pour pouvoir déterminer l’indication d’autres examens diagnostiques et le moment du traitement antirétroviral.
+
+• De nos jours, un traitement antirétroviral efficace permet d’atteindre une espérance de vie normale et, initié précocement, d’éviter des maladies opportunistes associées au VIH telles que la pneumonie à Pneumocystis jirovecii.
+
+• Les médecins de famille jouent un rôle central pour la suite de l’évolution et peuvent apporter une aide relative à l’observance de la prise des médicaments ainsi qu’à la prévention et au traitement de comorbidités.
+
+• Lors de l’administration de nouveaux médicaments, il convient par ­ailleurs de toujours vérifier le potentiel d’interaction avec le traitement antirétroviral (https://www.hiv-druginteractions.org/checker) et de consulter, le cas échéant, le ou la spécialiste.

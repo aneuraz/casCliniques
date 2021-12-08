@@ -1,0 +1,52 @@
+Contexte
+
+L’anévrisme mycotique (AM) est une manifestation ­clinique rare et potentiellement fatale, causée par l’infection focale d’une paroi artérielle, avec risque élevé de rupture.
+
+Virchow décrit pour la première fois une dilatation sacculaire de la paroi artérielle d’origine infectieuse en 1847 [1]. Le terme «mycotique» est utilisé pour la première fois par Osler en 1885 pour décrire un anévrisme aortique compliquant une endocardite infectieuse [2]. Ce terme fait penser à tort à une origine uniquement fongique alors que la plupart des anévrismes mycotiques sont d’origine bactérienne [2].
+
+L’AM est dû à une dégénérescence de la paroi artérielle secondaire au processus inflammatoire aigu provoqué par l’infection. Au niveau histologique, on retrouve un infiltrat neutrophilique avec une abondance d’enzymes de type collagénases et élastases, dont l’activation mène à une lésion profonde de la paroi et à une ­dilatation sacculaire du vaisseau [3]. Le processus physiopathologique des AM est à différencier de celui des anévrismes sacculaires non-infectieux. Même si ces derniers sont secondaires à une laxité de la paroi artérielle de nature inflammatoire, l’origine de cette inflammation est différente en l’absence d’infection. En effet, elle est attribuée au stress endothélial ou «shear stress» provoqué par les turbulences du flux sanguin [4].
+
+Cliniquement, les AM se manifestent souvent au stade avancé d’un état septique, voire directement par une rupture, rendant alors la prise en charge difficile.
+
+Présentation du cas
+Anamnèse et examen clinique
+
+Un patient de 79 ans s’est présenté pour un état fébrile évoluant depuis 4 jours, associé à une toux légèrement productive. Il était connu pour une hypertension artérielle essentielle, un diabète de type II, une insuffisance artérielle des membres inférieurs de stade IIB ­selon Leriche et Fontaine et un antécédent d’amputation transmétatarsienne pour une ostéite chronique de l’avant-pied gauche. Il était également connu pour une insuffisance rénale terminale d’origine hypertensive et diabétique, dialysée trois fois par semaine. L’examen physique à l’admission fut sans particularité, y compris la fistule artério-veineuse au membre supérieur gauche et l’avant pied gauche, qui restaient tout à fait calmes.
+
+Examens et résultats
+
+Malgré l’absence de foyer pulmonaire clinique ou radiologique, un traitement empirique par ceftriaxone fut introduit d’emblée devant la suspicion d’une pneumonie. Les hémocultures prélevées à l’admission sont rapidement revenues positives pour un Staphylococcus aureus sensible à la méthicilline (4 bouteilles/6). Le traitement de ceftriaxone fut alors remplacé par la flucloxacilline, ce qui permit une résolution initiale de la fièvre.
+
+Deux jours plus tard, le patient était à nouveau fébrile avec frissons et sudations nocturnes. De nouvelles ­hémocultures ont été prélevées et sont revenues positives pour le même germe, malgré un taux résiduel thérapeutique de flucloxacilline.
+
+Un bilan paraclinique large fut alors effectué à la recherche d’une origine infectieuse profonde. Ainsi, au vu des antécédents, une imagerie par résonance magnétique (IRM) du pied gauche fut réalisée, ne révélant aucune anomalie du signal osseux et permettant d’exclure une origine ostéo-articulaire à ce niveau-là. Un scanner thoraco-abdominal injecté s’est révélé sans particularité, infirmant le diagnostic initial de pneumonie. Un bilan angiologique permit d’exclure une thrombose de la fistule artério-veineuse. Un bilan ophtalmologique ne montra pas de signes d’embole ­septique. Une échocardiographie transthoracique fut dans les limites de la norme. Une échographie transoesophagienne ne montra pas de végétations mais un comblement de l’espace péricardique avec une cavitation en regard de l’anneau tricuspidien. Ce résultat ­motiva un scanner cardiaque injecté mettant en évidence un anévrisme de l’artère coronaire droite. Finalement, une coronarographie révéla une formation anévrismale de 7 × 6 mm au niveau du segment moyen de cette artère (fig. 1).
+
+Figure 1: Coronarographie: formation anévrismale de 7×6 mm au niveau du segment moyen de l’artère coronaire droite.
+
+Au vu de l’ensemble des examens effectués, de l’anomalie découverte au niveau coronarien et de l’absence de point d’appel clinique, il a été décidé de ne pas effectuer d’autres investigations tels qu’une IRM du rachis ou un PET-CT (tomographie par émission de positrons).
+
+Evolution
+
+La bactériémie persista jusqu’au 12e jour d’hospitalisation, sans instabilité hémodynamique. Au terme des investigations sus-décrites, soit au 28e jour d’hospitalisation, le patient fut traité chirurgicalement avec une exclusion de l’anévrisme par ligature puis résection et pontage veineux sur la coronaire droite. La partie anévrismale réséquée fut envoyée en bactériologie; la PCR («polymerase chain reaction») pour Staphylococcus aureus revint positive. Une antibiothérapie fut poursuivie pendant 4 semaines après l’intervention, avec une évolution finalement favorable.
+
+Discussion
+
+Pendant longtemps, les AM furent associés à des endocardites à germes virulents tels que streptocoque ­beta-hémolytique du groupe A, Streptococcus pneumoniae ou Haemophilus influenzae [5]. Avec la large disponibilité des antibiotiques, les AM sont désormais plus fréquemment associés à des interventions endovasculaires ou à l’injection de drogue. Parmi les germes classiquement incriminés, on retient le Staphylococcus aureusou encore la Salmonella non typhi [6, 7].
+
+L’origine de l’infection est l’inoculation d’un microorganisme dans la paroi artérielle. Elle peut être due à une lésion directe de la paroi par une auto-injection, par un acte iatrogène ou accidentellement par un traumatisme [7]. Une propagation par contiguïté à partir d’une infection adjacente, extravasculaire, est également possible [8]. Enfin, l’infection peut être hématogène, causée par des emboles septiques au sein des vasa vasorum, comme dans le cas de l’endocardite, ou par une bactériémie généralement associée à un foyer infectieux distant. La formation d’un AM dans un contexte de bactériémie est un événement rare, ne survenant qu’en cas de rupture de continuité de l’endothélium [5, 6].
+
+Dans la situation que nous rapportons, nous n’avons pas identifié de foyer infectieux initial. Une inoculation bactérienne iatrogène au moment de la dialyse nous paraît l’hypothèse la plus probable. Ainsi, une bactériémie a pu secondairement causer l’infection ­focale de la coronaire droite, à priori siège d’une plaque athéromateuse et d’un endothélium vulnérable.
+
+Il faut relever, en termes de prévalence, que les AM ne constituent que 1% des anévrismes aortiques traités chirurgicalement [9] et 1–4% de tous les anévrismes intracrâniens [10]. Les AM touchent plus fréquemment les artères fémorales (38%), l’aorte abdominale (31%), les artères mésentériques (8%) [5, 6] et les artères cérébrales (1–4,5%) [10, 11]. L’atteinte des coronaires est un évènement rare [12], à priori favorisé par un dommage endothélial, comme suspecté chez notre patient. Une revue systématique de la littérature a identifié, entre 1812 et 2017, 97 cas d’anévrisme mycotique coronarien, dont 22 lors d’une infection systémique, à foyer primaire identifié ou non identifié [13].
+
+A l’heure actuelle, aucune recommandation n’a été ­validée concernant la stratégie diagnostique, la durée de l’antibiothérapie (en général 6 à 8 semaines) et le type de prise en charge chirurgicale [7]. La difficulté à définir précisément une conduite à tenir est due principalement à la rareté de ce diagnostic, à la localisation variable des AM et à des prises en charge différentes selon les spécialités impliquées (chirurgie vasculaire, chirurgie cardiaque, neurochirurgie, etc) [7].
+
+Le pronostic est directement lié à la présence ou non d’une rupture vasculaire ainsi qu’à la localisation anévrismale. La mortalité péri-opératoire était de 21% dans une série de 43 AM de l’aorte [9]. Les AM rompus au niveau intracrânien sont associés à une mortalité de 90% [14]. Les AM périphériques présentent un meilleur pronostic, avec une mortalité de 0–15% [9]. La survie à 1 an et 5 ans est estimée à 82% et 50% respectivement, contre une survie à 91% et 69% chez des patients traités chirurgicalement pour un anévrisme aortique non infecté [9].
+
+L’essentiel pour la pratique
+
+• L’anévrisme mycotique est rare, résultant de l’inoculation d’un microorganisme dans la paroi artérielle. Le contexte habituel est celui d’un geste non-stérile sur un vaisseau ou celui d’un foyer infectieux associé à la dissémination hématogène de microorganismes qui infectent ensuite la paroi artérielle.
+
+• Devant une bactériémie persistante sans endocardite, il est nécessaire de prendre en compte le germe identifié, le contexte du patient et, bien sûr, les manifestations cliniques. Sur la base de cette analyse complète, un anévrisme mycotique pourra être recherché.
+
+• Face à un anévrisme mycotique, une prise en charge médico-chirurgicale rapide s’impose, avec une survie à 1 an favorable si la rupture est évitée.

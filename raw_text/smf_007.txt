@@ -1,0 +1,55 @@
+Contexte
+
+La pseudomélanose colique (PC) correspond à une pigmentation foncée inoffensive de la muqueuse colique liée à des dépôts de lipofuscine dans la lamina propria. La cause la plus fréquente est l’utilisation de laxatifs végétaux contenant des anthranoïdes. La présence d’un pigment brun dans les macrophages de la muqueuse colique a été décrite en tant que «melanosis coli» (mélanose colique) par Virchow en 1857 [1], car la coloration a été attribuée à la présence de mélanine. Désormais, on sait qu’il s’agit du pigment lipofuscine, qui résulte de la dégradation des cellules épithéliales coliques apoptotiques. L’intensité de la pigmentation foncée peut être légère à prononcée. La vraie mélanose colique avec la mélanine comme pigment (du grec «melanos» = noir) désigne en revanche une pigmentation foncée en taches potentiellement néoplasique de la muqueuse colique. Dans la plupart des publications, la distinction n’est cependant pas faite entre les deux entités, à savoir la PC et la vraie mélanose colique.
+
+Présentation du cas
+Anamnèse
+
+Nous décrivons le cas d’une patiente de 49 ans chez laquelle des investigations complémentaires ont été demandées par le service de chirurgie en raison d’une fistule anal supra-sphinctérienne ne guérissant pas. Le diagnostic de maladie de Crohn active a pu être posé à la coloscopie et à l’histologie (fig. 1A). Sous traitement par perfusions d’infliximab, une rémission a pu être obtenue 14 mois plus tard (fig. 1B), avec une fistule péri-anale complètement guérie. Deux ans plus tard, à l’occasion d’une coloscopie de contrôle, une pigmentation foncée impressionnante nouvellement survenue de l’ensemble du cadre colique a été constatée (fig. 2A).
+
+Figure 1: Coloscopie lors de la pose du diagnostic de la maladie de Crohn active avec grand ulcère (A) et 14 mois plus tard en rémission avec ulcère guéri avec cicatrice (B).
+
+En raison de céphalées, la patiente avait pris quotidiennement de l’ibuprofène 400 mg par voie orale pendant 2–3 jours en tant que médicament de secours. Elle a affirmé ne pas avoir pris de laxatifs ou de préparations à base de fer, à l’exception de gouttes de Gelum® que son naturopathe en Allemagne lui avait prescrites quatre semaines avant la coloscopie en raison de céphalées. Elle en avait pris 50 gouttes par jour durant deux jours à la suite de quoi elle a constaté des selles noires passagères.
+
+Diagnostic
+
+A l’examen histologique, la suspicion clinique de pseudomélanose colique (fig. 2B) a pu être confirmée; ­demeurant la muqueuse colique était sans particularités, avec notamment aucun signe d’activité de la maladie de Crohn.
+
+Figure 2: Coloscopie et histologie de contrôle plus de trois ans après la pose du diagnostic de maladie de Crohn. A) Coloscopie avec pseudomélanose colique. B) Histologie (coloration à l’hématoxyline-éosine avec un grossissement de 200 fois) avec coloration de Perls (recherche de fer) négative. Dépôts pigmentaires brunâtres semblables à la mélanine dans le cytoplasme de plusieurs histiocytes. Les altérations sont typiques d’une pseudomélanose (dépôts de lipofuscine, flèche bleue).
+
+Discussion
+Brève parenthèse au sujet de la pseudomélanose colique
+
+La coloration de la muqueuse colique est dans la plupart des cas corrélée à l’utilisation chronique de laxatifs contenant des anthranoïdes (préparations à base de rhubarbe, de bourdaine ou de séné, par ex. Padma lax® et Agiolax® avec séné) [2,3]. La PC survient après environ 3 à 13 mois [4] et ne provoque aucun symptôme subjectif chez les patients. Il s’agit d’une découverte sporadique. Habituellement, les personnes ont un âge moyen à avancé, sans différence entre les sexes pour le groupe d’âge des 60–75 ans [5]. L’anamnèse devrait permettre d’identifier une cause possible de la PC, par exemple l’utilisation chronique de laxatifs. A ce jour, aucune corrélation entre les laxatifs osmotiques et la PC n’a encore été mise en évidence.
+
+La PC affecte plus fréquemment la portion proximale que la portion distale du côlon, ce qui s’explique par la plus forte concentration de toxines qui y règne, par la différence d’absorption le long du côlon et par la distribution des macrophages qui métabolisent les cellules mortes par apoptose [6]. Les anthranoïdes restent inactifs jusqu’à ce qu’ils atteignent le côlon. Une fois arrivés dans le côlon, ils sont activés, ce qui entraîne la nécrose cellulaire de la lamina propria. A son tour, cela conduit à une activation accrue des macrophages et à l’incrustation de la lipofuscine dans la lamina propria de la muqueuse colique, qui prend une coloration brun foncé à noire [2]. Des études récentes n’ont pas montré d’association entre le carcinome colorectal et les substances contenant des anthranoïdes. De même, aucun lien entre le carcinome colorectal et la PC n’a été mis en évidence [7]. L’arrêt de la prise de laxatifs entraîne généralement la régression complète de la PC en l’espace d’un an [7, 8]. Aucune complication significative n’est connue en cas de prise de laxatifs durant de nombreuses années avec une PC [6, 9]. Au contraire, les polypes coliques peuvent même être mieux visualisés dans le cadre de la coloscopie de dépistage [10].
+
+Diagnostics différentiels
+
+Le diagnostic de suspicion clinique de PC peut être confirmé par examen histologique au moyen d’une biopsie de la muqueuse colique prélevée lors d’une coloscopie et la PC peut ainsi être distinguée de la vraie mélanose colique, qui peut aussi survenir dans le cadre du syndrome de Peutz-Jeghers (SPJ) autosomique dominant [11]. Le SPJ se manifeste typiquement par des pigmentations orales et cutanées qui sont déjà constatées à un âge jeune, ce qui facilite le diagnostic différentiel. La présence de nombreux polypes dans l’intestin grêle (plus rarement dans l’estomac et le côlon) est caractéristique du SPJ, avec un risque de malignité augmenté de 2–3%. La probabilité de survenue d’un carcinome colique est 15 fois plus élevée.
+
+Des colorations de la muqueuse ont également été décrites après la prise de fer par voie orale. Elles se manifestent de manière similaire à la PC et à la vraie mélanose colique, mais la distinction peut être faite à l’histologie [12]. Par ailleurs, des dépôts pigmentaires accrus dans la lamina propria ont été décrits chez 25 patients ne prenant pas de laxatifs, qui étaient atteints de maladies inflammatoires chroniques de l’intestin depuis en moyenne sept ans [12,13]. Dans la littérature, d’autres maladies chroniques, telles que l’hypertension artérielle, l’insuffisance rénale chronique et le diabète sucré, ont également été décrites en tant que cause de PC intestinale [14,15], tout comme la prise régulière d’anti-inflammatoires non stéroïdiens avec apoptose cellulaire [16–18] (mais sans distinction entre la PC et la vraie mélanose colique).
+
+Le cas présenté
+
+Chez notre patiente, il y a eu pour la première fois une suspicion macroscopique de PC lors de la coloscopie réalisée en février 2019, mais aucun déclencheur connu de PC n’était présent. A l’examen histologique, la PC a pu être confirmée par la mise en évidence de dépôts de lipofuscine dans la lamina propria (fig. 2B) et l’exclusion de mélanine. La coloration de Perls (recherche de fer) était négative. Compte tenu de la rémission endoscopiquement avérée de la maladie de Crohn depuis un an, cette maladie inflammatoire chronique de l’intestin ne semble également pas être la cause de la PC nouvellement survenue [5, 13]. La patiente ne présentait pas de diabète sucré, d’insuffisance rénale chronique ou d’hypertension artérielle. Hormis les médicaments déjà mentionnés (ibuprofène et gouttes de Gelum®), la patiente a réaffirmé n’avoir pris aucun autre médicament, en particulier pas de laxatifs et de produits phytothérapeutiques.
+
+Dans notre cas, la patiente avait pris uniquement de l’ibuprofène durant 2–3 jours. Comme ce n’était pas la première fois que la patiente prenait cet analgésique de secours, nous partons du principe qu’il n’est pas la cause de la PC survenue pour la première fois. Ainsi, les gouttes de Gelum® semblent être la cause la plus vraisemblable de la PC nouvellement documentée. L’aspect impressionnant est que la patiente a pris durant deux jours seulement les gouttes de Gelum® contenant du fer et que nous avons constaté une coloration prononcée et durable de l’ensemble du cadre colique: tandis que la PC disparaît en général totalement en l’espace d’un an après l’arrêt des dérivés anthraquinoniques [7, 8], la muqueuse colique de notre patiente était encore colorée lors de la coloscopie de contrôle un an plus tard. Ce n’est que deux ans plus tard que la pseudomélanose n’était plus détectable à la coloscopie.
+
+Jusqu’à présent, la PC n’avait jamais été décrite en tant qu’effet indésirable connu des gouttes de Gelum®. D’après la notice, 100 g de gouttes de Gelum® contiennent 30 g de complexe potassium-fer(III)-phosphate-citrate, qui se lie à l’ammoniac dans le tube digestif. Les gouttes de Gelum® ont été évaluées dans une étude clinique pour le traitement de l’encéphalopathie hépatique minime [19], mais pas pour le traitement des céphalées.
+
+Le mécanisme d’action exact par lequel les gouttes de Gelum® pourraient provoquer une PC n’a pas été étudié et reste incertain. Une hypothèse pourrait être la destruction de la muqueuse colique par le complexe potassium-fer(III)-phosphate-citrate ou par l’acide lactique contenu dans les gouttes de Gelum®, avec des dépôts de lipofuscine consécutifs.
+
+Il convient de mentionner que les gouttes de Gelum® ne sont pas un médicament autorisé, mais uniquement un dispositif médical de classe IIb – et elles ne nécessitent dès lors pas d’autorisation par les autorités compétentes en matière de médicaments. Pour les dispositifs médicaux tels que les gouttes de Gelum®, la mention de la composition qualitative et quantitative n’est pour l’instant pas exigée (contrairement aux médicaments).
+
+L’essentiel pour la pratique
+
+• Le diagnostic de pseudomélanose colique est posé par endoscopie et confirmé par histologie.
+
+• La pseudomélanose colique devrait être distinguée de la vraie mélanose colique. Toutefois, cette distinction n’est le plus souvent pas faite dans la littérature.
+
+• Les personnes atteintes de pseudomélanose colique associée à la prise de laxatifs ne présentent pas de risque accru de cancer.
+
+• La pseudomélanose colique disparaît généralement en l’espace d’un an après l’arrêt de la prise des dérivés anthraquinoniques.
+
+• Les patients prennent fréquemment des médicaments ou des dispositifs médicaux de leur propre initiative. Contrairement aux médicaments, les dispositifs médicaux ne doivent pas mentionner la composition qualitative et quantitative des principes actifs, mais ils peuvent pourtant aussi déclencher des effets indésirables.

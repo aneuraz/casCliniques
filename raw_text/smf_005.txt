@@ -1,0 +1,158 @@
+Description du cas
+
+Un patient de 82 ans, se présente en urgence chez son médecin généraliste en raison d’une cyanose douloureuse des doigts II et V de la main droite et II et III à gauche, en évolution depuis une semaine, sans traumatisme, ni notion d’utilisation d’outils ­vibrants ou percutants. Il ne signale pas d’asthénie, de perte pondérale ou d’état fébrile. Le reste de l’anamnèse est non contributive (absence d’arthralgies, de myalgies, de symptômes digestifs, de dyspnée, de douleurs thoraciques ou de palpitations).
+
+Dans son histoire médicale, figurent une hypertension artérielle traitée, un tabagisme chronique actif à 40 UPA et un surpoids («body mass index» à 27,8 kg/m2). Il bénéficie d’un traitement d’amlodipine 10 mg, une fois par jour et d’acide acétylsalicylique 100 mg, une fois par jour en prévention primaire.
+
+A l’examen clinique, il est normocarde, hypertendu à 155/100 mm Hg, symétrique entre les deux bras. On note une cyanose permanente et une hypothermie du II. / V. doigt à droite et du II. / III. doigt à gauche. Le test d’Allen est pathologique des deux côtés avec une pâleur persistante au niveau des doigts atteints. Le test du chandelier ne modifie pas la clinique. La sensori-motricité est préservée. Le patient ne présente pas de plaies ni d’ulcères au niveau des doigts et on n’observe pas de sclérodactylie. Les pouls périphériques sont palpables aux quatre membres. On n’ausculte pas de souffle vasculaire aux quatre membres ni de souffle cardiaque. On ne palpe pas de masse pulsatile au niveau abdominal ou au niveau des quatre membres. L’examen clinique des membres inférieurs est sans particularité.
+
+Question 1: A ce stade, quels examens supplémentaires proposez-vous?
+
+
+a) Continuer le même traitement médicamenteux et revoir le patient dans une semaine
+
+b) Introduire un traitement anticoagulant
+
+c) Adresser le patient à un angiologue pour un examen vasculaire par échographie-doppler et mesure des pressions digitales
+
+d) Adresser le patient à un angiologue pour un examen par capillaroscopie
+
+e) Adresser le patient en radiologie pour un examen par CT natif thoraco-abdominal
+
+A ce stade, l’anamnèse et l’examen clinique ne suffisent pas à poser un diagnostic définitif et d’autres ­investigations sont nécessaires. Une attitude expectative avec nouveau contrôle à une semaine n’est donc pas suffisante et fait courir un risque d’aggravation intercurrente au patient. De même, l’introduction d’une anticoagulation avant d’avoir procédé à d’autres investigations n’est pas indiquée à ce stade.
+
+La capillaroscopie est un examen non invasif qui permet d’évaluer la microcirculation au niveau des doigts avec l’aide d’un microscope et qui s’avère utile dans certaines maladies immunologiques comme la sclérodermie. Cependant, nous n’avons pas d’argument pour une maladie de ce type.
+
+Le CT natif thoraco-abdominal ne fournit que peu d’information sur l’anatomie artérielle et n’est donc pas ­indiqué. Un angio-CT ne permettrait pas de confirmer le diagnostic d’ischémie, raison pour laquelle il n’est pas indiqué avant la réalisation d’un bilan angiologique complet.
+
+Le patient est alors adressé dans notre service d’angiologie pour un examen vasculaire en urgence.
+
+A l’examen vasculaire, les pressions artérielles digitales à la main droite sont: doigt I 130 mm Hg, II 0 mm Hg, III 130 mm Hg, IV 125 mm Hg, V 25 mm Hg. A la main gauche: doigt I 130 mm Hg, II 60 mm Hg, III 25 mm Hg, IV 120 mm Hg, V 130 mm Hg.
+
+Nous confirmons donc une ischémie digitale D2 et D5 à droite et D2 et D3 à gauche.
+
+A l’examen écho-doppler des membres supérieurs, les artères sous-clavières, axillaires, humérales, radiales et cubitales sont normalement perméables, sans plaques, ni sténose, et sans lésion anévrismale. Au ­niveau des doigts, on note une occlusion des artères ­digitales propres des doigts II et IV droits, ainsi que des doigts II et III gauches.
+
+Question 2: Quel est votre diagnostic différentiel par rapport à l’atteinte digitale?
+
+
+a) Syndrome de Raynaud
+
+b) Ischémie aiguë digitale bilatérale
+
+c) Hématome digital spontané
+
+d) Engelures
+
+e) Acrocyanose essentielle
+
+La présentation clinique, les valeurs de pression digitale abaissées et la mise en évidence d’occlusions artérielles au niveau des artères digitales permettent de poser le diagnostic d’ischémie aiguë digitale.
+
+Le syndrome de Raynaud correspond à un vasospasme localisé au ­niveau des extrémités, plutôt paroxystique, souvent ­déclenché par l’exposition au froid, entraînant une gêne réversible et des modifications de couleur des téguments (pâleur, cyanose, érythème). Il peut être idiopathique ou secondaire (sclérodermie, maladies hématologiques, médicamenteux). L’hématome digital spontané est une entité bénigne qui se présente comme une ­ecchymose digitale secondaire à la rupture spontanée d’une veine digitale sous-cutanée, qui peut initialement être douloureuse mais qui évolue favorablement. L’engelure est une lésion inflammatoire caractérisée par une rougeur qui apparaît sur la peau des extrémités à la suite d’une exposition prolongée au froid. L’acrocyanose primaire est un trouble non douloureux, bénin, qui touche le plus souvent les jeunes femmes de moins de 30 ans, caractérisé le plus souvent par l’apparition de mains violacées, froides et moites [1–3; 6].
+
+Question 3: Quelle est la cause la plus probable de l’ischémie aiguë digitale chez notre patient?
+
+
+a) Occlusion thrombotique des artères digitales
+
+b) Embolie artérielle
+
+c) Connectivite
+
+d) Phénomène paranéoplasique
+
+e) Maladie de Buerger
+
+Toutes ces propositions sont des causes possibles d’ischémie aiguë digitale. En raison des multiples ­occlusions des artères digitales propres bilatéralement, chez un patient de 82 ans, la cause embolique semble la plus probable. Une occlusion thrombotique des artères digitales est possible mais moins probable dans ce contexte.
+
+Les connectivites sont caractérisées par la formation d’auto-anticorps dirigés contre un ou plusieurs organes. Dans le cas de la sclérodemie par exemple, l’inflammation aboutit à un dépôt excessif de collagène dans les tissus et occasionne des troubles de la circulation sanguine. Dans le cas de notre patient, l’absence d’autres symptômes suggestifs d’une connectivite, comme une altération de l’état général, perte de poids ou état fébrile rend cette étiologie moins probable. La même réflexion s’applique à l’hypothèse d’un état ­hypercoagulable dans un contexte paranéoplasique. En effet, l’anamnèse et le status ne révèlent pas d’éléments suggestifs d’une néoplasie active. Le diagnostic de maladie de Buerger peut être évoqué puisque notre patient est tabagique et de sexe masculin. Néanmoins, cette maladie commence généralement à un plus jeune âge (<45 ans) et correspond dans tous les cas à un ­diagnostic d’exclusion.
+
+Nous complétons le bilan avec un échodoppler de l’aorte et des membres inférieurs qui met fortuitement en évidence un anévrisme de l’aorte abdominale (AAA) infrarénale de 6 cm (en diamètre antéro-postérieur) et de plus de 9 cm en mesure latéro-latérale, sans autres anévrismes associés notamment au niveau des axes ilio-fémoro-poplités.
+
+Au vu de l’examen angiologique et de l’hypothèse diagnostique, un bilan étiologique complémentaire est nécessaire.
+
+Question 4: Dans ce contexte, quel examen n’est pas indiqué?
+
+
+a) Un angio-CT de l’aorte thoraco-abdominale
+
+b) Une échocardiographie
+
+c) Un enregistrement ECG de 24 heures (Holter)
+
+d) Un bilan biologique extensif
+
+e) Une artériographie des membres supérieurs
+
+Un angio-CT de l’aorte thoraco-abdominale est réalisé afin de chercher une source emboligène et dans le cadre du bilan pré-opératoire de l’AAA. Il confirme un AAA infrarénal de 6 × 10 cm, sans signes de rupture. Il n’y pas d’anévrisme, de dissection ni de plaques emboligènes au niveau du reste de l’aorte. Cet examen ne montre pas non plus de lésions suspectes d’ une néoplasie. Les examens cardiologiques par Holter et échocardiographie mettent en évidence une fibrillation auriculaire (FA) permanente non datée, sans thrombus ou masse intra-cavitaire avec une fraction d’éjection du ventricule gauche (FEVG) normale. Ce diagnostic est donc retenu comme source emboligène ayant entraîné l’ischémie digitale. Par ailleurs un bilan biologique initial ne montre pas de syndrome inflammatoire ni d’arguments pour une hémopathie maligne (pas de blastes, de thrombocytose ou de polyglobulie). On débute alors un traitement anticoagulant par rivaroxaban 20 mg/jour pour la FA. L’artériographie des membres supérieurs n’est donc pas indiquée puisque cet examen n’apporterait pas d’informations supplémentaires par rapport au bilan angiologique et à l’angio-CT et qu’un geste de revascularisation n’est pas indiqué dans cette situation.
+
+En raison de la présence de cet AAA découvert fortuitement mesurant plus de 5,5 cm, une cure endovasculaire par endoprothèse aorto-bi-iliaque («endovascular aneurysm repair» [EVAR]) élective a été retenue et réalisée trois semaines après le diagnostic.
+
+L’évolution clinique a été favorable avec résolution complète de la symptomatologie digitale sous traitement anticoagulant associé à son traitement habituel d’aspirine cardio et amlodipine. En raison d’une FA permanente rendant nécessaire une anticoagulation au long cours (CHA2DS2-VASc Score à 4 points versus HAS-BLED Score à 2 points), l’anti-agrégation plaquettaire a été ensuite arrêtée.
+
+Discussion
+
+L’ischémie aiguë digitale est une pathologie rare, mais grevée d’une morbidité très importante si elle n’est pas diagnostiquée rapidement et traitée de façon adéquate, pouvant aller jusqu’à l’amputation. Au vu du très large spectre étiologique (tab. 1), cette pathologie concerne la médecine interne de même que de nombreuses spécialités.
+
+Tableau 1: Etiologie des ischémies digitales [1–5].
+Connectivites	Sclérodermie
+Lupus érythémateux disséminé
+Connectivite mixte («mixed connective tissu disorder» [MCTD], Syndrome de Sharp)
+Connectivite indifférenciée («undifferentiated connective tissue disease» [UCTD])
+Polyarthrite rhumatoïde
+Syndrome de Sjögren
+Vasculites	Vasculites des petits vaisseaux:
+– Granulomatose de Wegener
+– Syndrome de Churg-Strauss
+– Polyangéite microscopique
+– Vasculite leucocytoclasique nécrosante cutanée
+– Vasculite cryoblobulinémique: VIH, hépatite B et C
+– Purpura de Henoch-Schönlein
+Causes emboliques	Cardiopathies emboligènes: fibrillation auriculaire, thrombus intracavitaire, valvulopathie, myxome de l’oreillette ou endocardite
+Sténose ou anévrisme de l’artère sous-clavière: athéromateuse, post-traumatique
+Syndrome du défilé cervico-thoraco-brachial
+Causes hématologiques	Syndrome des anticorps antiphospholipides (SAPL)
+Néoplasies myéloprolifératives (thrombocytémie essentielle et polycythemia vera)
+Coagulation intravasculaire disséminée (CIVD)
+Causes néoplasiques	Cancers du sein, de l’ovaire, de l’estomac, du poumon, ORL
+Causes médicamenteuses et toxiques	Tartrate d’ergotamine (ergotisme), bétabloquants, contraception orale en association avec le tabac
+Chimiothérapie ou traitement immunosuppresseur par méthotrexate
+Vasoconstricteurs locaux: abus de sympathomimétiques par voie nasale (prednazoline, fénoxazoline)
+Amines
+Nicotine, chlorure de vinyle, chrome, arsenic, résine époxy, trichloroéthylène, benzène et silicone
+Cocaïne
+Cannabis
+Autres causes	Vasculites associées au COVID-19 [7]
+Maladie de Buerger (thromboangéite oblitérante)
+Maladie des vibrations: utilisation de tronçonneuses, marteauxpiqueur , fraiseuses, polisseuses
+Syndrome du marteau hypothénar
+Artériopathie digitale sur athérome
+Hémodétournement: fistule artérioveineuse de dialyse
+Iatrogène: ponction ou cathétérisme de l’artère radiale
+
+La prise en charge initiale doit toujours comporter une évaluation angiologique afin de déterminer l’atteinte artérielle et le niveau d’ischémie, qui permettront d’orienter les investigations nécessaires et l’introduction d’un traitement en urgence.
+
+Une anamnèse détaillée est très importante pour l’orientation diagnostique. En plus de l’âge et du sexe du patient, de sa profession et de ses hobbies, il est important de préciser ses facteurs de risque cardio-vasculaires notamment le tabagisme, ses antécédents et les traitements en cours, ainsi que la présence d’un syndrome de Raynaud, uni- ou bilatéral et l’âge d’apparition.
+
+A l’examen clinique cardio-vasculaire, les pouls périphériques sont palpés et des souffles vasculaires ou cardiaques recherchés. La pression artérielle doit être mesurée aux deux bras et un test d’Allen réalisé. L’épreuve du chandelier et la manœuvre de Wright sont effectuées à la recherche d’un syndrome du cervico- thoraco-brachial.
+
+La prise de pressions artérielles digitales sert à confirmer le diagnostic d’ischémie digitale. Une occlusion ou une sténose artérielle sera ensuite recherchée par échographie-doppler.
+
+Après le bilan angiologique initial qui permet de poser le diagnostic, mais également de s’assurer de l’absence de source embolique au niveau du membre supérieur, la réalisation d’un bilan extensif étiologique est ­requise. Celui-ci sera guidé par l’appréciation clinique, en éliminant en priorité les causes les plus fréquentes (tab. 1) [1–5].
+
+La prise en charge thérapeutique dépend de l’étiologie. Dans tous les cas, des mesures préventives devraient être instaurées d’emblée (protection contre le froid, éviction des médicaments vasoconstricteurs ainsi que sevrage du tabac) et un traitement médicamenteux améliorant la perfusion artérielle doit être débuté (anticoagulation, parfois en association avec un vasodilatateur artériel tel que l’ilomédine®). Des antalgiques peuvent être nécessaires en phase aiguë pour les cas les plus sévères. En cas d’ulcération, les soins locaux doivent être prodigués afin d’éviter une surinfection. Par la suite, l’adaptation du traitement de fond se fait en fonction de l’étiologie retenue (traitement anticoagulant ou antiplaquettaire, traitement de fond d’une connectivite, chimiothérapie).
+
+Dans la majorité des cas, une prise en charge chirurgicale n’est pas requise. L’amputation est réservée aux cas qui évoluent défavorablement.
+
+Messages clés pour le médecin praticien
+
+– Bien que l’ischémie aiguë digitale soit une pathologie rare, il est important de la reconnaitre et de l’investiguer.
+
+– Un bilan angiologique initial est nécessaire pour ­déterminer la sévérité de l’ischémie et guider le ­bilan étiologique.
+
+– La survenue d’une ischémie aiguë digitale impose la mise en route d’un traitement symptomatique et étiologique.
+
+Réponses:
+
+
+Question 1: c. Question 2: b. Question 3: b, Question 4: e.

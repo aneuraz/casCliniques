@@ -1,0 +1,82 @@
+Contexte
+
+Déterminer l’étiologie de valeurs hépatiques élevées peut représenter un défi considérable. Lors de la phase précoce, la présentation clinique n’est souvent pas in­dicative du diagnostic. Une anamnèse exhaustive et ­répétée, l’examen clinique et les analyses de laboratoire ciblées sont essentiels pour le diagnostic différentiel. Les procédés d’imagerie (échographie, tomodensitométrie, imagerie par résonance magnétique) et dans des cas sélectionnés, une biopsie du foie, viennent élargir les possibilités diagnostiques pour l’évaluation d’une hépatopathie.
+
+Présentation du cas
+Anamnèse
+
+Un patient âgé de 46 ans, jusqu’alors en bonne santé, a été adressé pour une échographie abdominale avec recherche d’une cholécystite aiguë en raison de douleurs épigastriques «en vagues». Le patient s’était initialement présenté chez le médecin de famille en raison de troubles dyspeptiques passagers qui avaient régressé suite à l’administration d’un inhibiteur de la pompe à protons. Chez le médecin de famille, les analyses de laboratoire ont montré une forte élévation des transaminases et des paramètres de cholestase, une bilirubine totale élevée, ainsi qu’une légère élévation de la CRP et des valeurs normales de leucocytes (tab. 1).
+
+Tableau 1: Valeurs de laboratoire du patient.
+ 	Valeurs normales	Médecin de famille	Première présentation du patient	Avant ­traitement par ­pénicilline	Après ­traitement par ­pénicilline	Evolution	Suivi
+ 	 	Jour 0	Jour 2	Jour 27	Jour 90	Jour 174	Jour 441
+Hémoglobine (g/l)	135–175	123	148	146	162	158	153
+Leucocytes (G/l)	4,5–11,5	8,8	10,8	10,5	8,9	11,4	12,5
+CRP (mg/l)	<5	19	26	10	13	2,8	2,9
+ASAT (U/l)	<41	158	112	45	31	21	29
+ALAT (U/l)	<41	410	413	92	67	33	47
+γ-GT (U/l)	<50	1274	1235	338	240	168	372
+Phosphatase alcaline (U/l)	<117	436	402	317	131	80	92
+Bilirubine totale (µmol/l)	<21	42,3	59	139	13	10	9
+Titre de Treponema pallidum (TPHA), quantitatif	Négatif	 	 	20 480	1280	 	2560
+Titre au test Venereal disease ­research laboratory (VDRL)	Négatif	 	 	32	2	 	<1
+
+Le patient a rapporté être revenu d’un séjour à l’étranger il y a deux semaines. Pendant ce séjour, aucun trouble gastro-intestinal n’était survenu. Lorsqu’il a été interrogé, le patient a déclaré ne pas avoir eu de rapports sexuels à risque, de piqûres de moustique ou de contacts avec des animaux. Depuis son retour en Suisse, il présente une fatigue prononcée et des sueurs nocturnes, et il a perdu environ 3 kg au cours des deux dernières semaines. Le patient a déclaré ne pas présenter de fièvre, céphalées, vertiges, toux, dyspnée, douleurs articulaires, douleurs dans les membres ou symptômes urogénitaux.
+
+Concernant les substances novices, le patient a indiqué un tabagisme (15 paquets-année), une consommation régulière de cannabis (1–2 joints/jour), ainsi qu’une petite bière et un verre de vin par jour. Il a par ailleurs déclaré ne pas prendre de médicaments, de préparations à base de plantes ou de suppléments vitaminiques de façon régulière. L’anamnèse personnelle était normale, à l’exception d’une tonsillectomie pendant l’enfance. L’anamnèse familiale ne comprenait aucune hépa­topathie spécifique connue.
+
+Statut
+
+Lors de sa première présentation, le patient âgé de 46 ans et de constitution mince, était dans un bon état général. Les paramètres vitaux étaient normaux (pression artérielle à 110/76 mm Hg, pouls à 86/min et tempé­rature à 36,6 C°).
+
+Aucun exanthème n’était visible sur la peau bronzée, les muqueuses étaient normales. A la palpation, aucun ganglion lymphatique hypertrophié n’a été détecté. L’examen abdominal a montré des bruits intestinaux normaux; la paroi abdominale était souple et non douloureuse. Le foie était palpable juste au-dessous de l’arc costal, la rate n’était pas palpable et les loges rénales n’étaient pas douloureuses à la percussion.
+
+Résultats
+
+Les analyses de laboratoire ont confirmé les transaminases et les paramètres de cholestase élevés, ainsi que l’hyperbilirubinémie (tab. 1). L’INR et la numération plaquettaire étaient dans la norme, et une hypergammaglobulinémie n’a pas été trouvée. Le patient était vacciné contre l’hépatite A (Ac anti-VHA, détermination quantitative à 78 UI/l) et l’hépatite B (Ac anti-HBs, 569 UI/l). Il n’y avait pas d’augmentation significative de la ferritine (327 μg/l), la saturation de la transferrine était de 21%. La sérologie n’a pas révélé d’indices d’hépatite C ou E, d’infection par le virus de l’immunodéficience humaine (VIH) ou le virus d’Epstein-Barr (EBV), ou d’échinococcose.
+
+Par ailleurs, les analyses de laboratoire n’ont pas révélé d’indices d’hépatite auto-immune (pas de mise en évidence d’anticorps antinucléaires [AAN], d’anticorps IgG dirigés contre l’actine, d’anticorps IgG anti-LKM1 ou d’anticorps IgG anti-SLA). Le test de dépistage sérologique pour la cholangite biliaire primitive (CBP) au moyen des IgG et/ou IgA dirigés contre l’antigène mitochondrial M2 (AAM-M2) ainsi que contre les protéines de la membrane nucléaire gp210 et sp100/ nuclear dots, avec 42 unités, n’était pas significativement accru (valeur de référence: EIA des IgG et IgA anti-M2, -gp210 et -sp100 <21 unités). Après la régression des symptômes aigus, la répétition du même test de dépistage a donné un résultat de 6 unités, soit un résultat normal.
+
+A l’échographie abdominale, la vésicule biliaire présentait une paroi fine, sans concrétions. Le canal cholédoque était visible sur tout son trajet, et présentait une dilatation minime, avec un diamètre maximal de 7 mm. Les voies biliaires intra-hépatiques étaient accentuées au centre et à gauche, et plusieurs hémangiomes d’aspect typique avec un diamètre maximal de 2 cm ont été visualisés dans le lobe hépatique droit. Aucun signe indirect de cirrhose, aucune hépatomégalie et aucune ascite n’ont été constatés.
+
+Evaluation initiale et diagnostic approfondi
+
+Sur la base de l’anamnèse et des résultats disponibles, aucun indice ne suggérait une étiologie virale, toxique ou lithogène de l’hépatopathie. Par ailleurs, il n’y avait pas d’indice sérologique d’hépatite auto-immune, ­d’hémochromatose, de cholangite biliaire primitive ou de cholangite à IgG4. Pour le diagnostic différentiel, les altérations morphologiques des voies biliaires intra-hépatiques au centre et à gauche pourraient être interprétées comme des signes d’une maladie obstructive ou parasitaire dans la région de la convergence biliaire ou comme la première manifestation d’une cholangite sclérosante primitive (CSP). Une cholangio-­pancréatographie par résonance magnétique (CPRM) a été réalisée afin d’exclure relativement une CSP, une tumeur, ou une cholélithiase non détectée jusqu’ici. Cet examen n’a montré ni altération «en perles enfilées» ­typique d’une CSP, ni ectasies/ruptures des voies biliaires ni matériel intraluminal.
+
+Les sérologies réalisées par la suite pour les échinocoques, Coxiella burnetii, les Brucella et Entamoeba histolyticaétaient négatives.
+
+Evolution
+
+Entre-temps, le patient est rentré chez lui dans un bon état général et sans symptômes. Dans le cadre d’un contrôle ambulatoire réalisé quelques semaines plus tard, un exanthème maculo-papuleux a été observé sur le tronc et sur la paume des deux mains (fig. 1). Après avoir été à nouveau interrogé, le patient a cette fois-ci indiqué avoir eu un contact sexuel oral unique avec une connaissance féminine pendant son séjour à l’étranger.
+
+Figure 1: Lésions cutanées typiques en cas de syphilis.A ) ­Syphilide palmaire: exanthème polymorphe de couleur rose.B ) et D ) Exanthème maculo-papuleux brun-rouge à la structure grossière sur le tronc.
+
+D’un point de vue clinique et anamnestique, une syphilis au stade secondaire avec hépatopathie syphilitique a été fortement suspectée à ce moment donné.
+
+Diagnostic et traitement
+
+Le diagnostic de la syphilis a été confirmé par un titre élevé dans le cadre du test «Venereal Disease Research Laboratory» (VDRL, titre 1:32, norme <1), un testTreponema pallidum hemagglutination assayhautement positif (TPHA, titre: 1:20 480, norme <1:80) et un test des anticorps réactif (IgG et IgM contre Treponema pallidum positifs). Un deuxième test de dépistage du VIH s’est à nouveau révélé négatif.
+
+Le diagnostic a ensuite été complété par une biopsie hépatique percutanée. Sur le plan histologique, le tissu hépatique présentait une inflammation cellulaire mixte portale et lobulaire avec activité d’interface, peu de foyers nécro-inflammatoires lobulaires, des épithéliums biliaires irréguliers, une cholestase intra-hépatique, ainsi qu’une faible fibrose portale. L’analyse de pa­thologie moléculaire n’a pas mis en évidence l’ADN de Treponema pallidum.
+
+En raison du tableau clinique et des analyses de laboratoire univoques, nous avons posé le diagnostic d’hépatite syphilitique malgré l’absence de mise en évidence deTreponema pallidumdans le tissu hépatique. Le patient a reçu une dose unique de 2,4 millions d’unités de benzathine benzylpénicilline par voie intramusculaire. Par la suite, les paramètres sérologiques ainsi que les transaminases et les paramètres de cholestase ont diminué de façon adéquate (tab. 1).
+
+Discussion
+
+Le cas décrit dans cet article porte sur une affection hépatique de la maladie systémique de la syphilis, qui est perceptible sur les plans clinique et sérologique. En raison de la diversité de sa présentation clinique, la maladie est souvent qualifiée de «maladie caméléon».
+
+Une atteinte hépatique au stade secondaire de l’infection syphilitique a été décrite dans des cas isolés [1–4]. Dans env. 10% des cas, une augmentation de la phosphatase alcaline ou des transaminases peut survenir [2]. Il n’est pas rare que la valeur de la bilirubine sérique soit normale. L’hépatite syphilitique évolue souvent de façon cliniquement inapparente, et les évolutions fulminantes sont rares [5]. En règle générale, l’anamnèse et l’exanthème palmo-plantaire typique, qui survient dans env. 90% des cas, mènent au diagnostic [2]. Une lymphadénopathie peut survenir dans des cas isolés, mais cela n’était toutefois pas le cas chez notre patient. Les mécanismes physiopathologiques sous-jacents comprennent une lésion des hépatocytes directement induite par l’agent pathogène ou médiée par le système immunitaire. Le tableau histologique de l’hépatite syphi­litique n’est pas clairement défini, et la pathologie moléculaire ne permet pas toujours une mise en évidence à partir d’une préparation [1, 3].
+
+Les caractéristiques décrites dans la littérature incluent par ex. des altérations inflammatoires initialement non spécifiques, une dysplasie des cellules de Kupffer, des nécroses focales, une stéatose macrovésiculaire ou des lésions cholestatiques [1–4]. Dans le cas présent, le résultat histopathologique est compatible avec une hépatite syphilitique.
+
+En 2015, la Commission fédérale pour la santé sexuelle a publié des recommandations actualisées pour le diag­nostic et le traitement de la syphilis [6]. Sur la base de l’anamnèse, des observations cliniques et des résultats sérologiques, nous supposons une syphilis précoce ­secondaire chez ce patient. L’hépatite syphilitique est une manifestation de cette dernière. Après traitement par pénicilline G, les transaminases et les paramètres de cholestase diminuent en général fortement, comme cela a été observé dans notre cas.
+
+En cas d’hépatopathie d’origine indéterminée, comme dans notre cas, le diagnostic de syphilis ne figure pas au premier plan. Il convient d’exclure en priorité une hépatopathie virale, auto-immune ou toxico-métabolique.
+
+Dans le cas présent, aucun indice ne suggérait une hépatite vitale ou une hépatopathie auto-immune. Au moyen des tests des anticorps nommés plus haut, de l’imagerie par CPRM et du résultat histologique, une hépatopathie auto-immune a pu être exclue. Il n’y avait pas d’indice d’hémochromatose.
+
+Dans le cadre du diagnostic différentiel, nous n’avons pas pu exclure l’alcool comme cause concomitante des altérations des valeurs de laboratoire et des anomalies histologiques décrites. La consommation régulière d’alcool qui a été indiquée et l’élévation isolée des valeurs de γ-GT, qui a également persisté suite à l’arrêt du traitement antibiotique, plaident en faveur d’une composante toxique.
+
+L’essentiel pour la pratique
+
+Lors de l’évaluation d’une hépatopathie d’origine indéterminée, il convient également de penser à une hépatite syphilitique en cas de constellation de risques correspondante. En plus des analyses de laboratoire, l’anamnèse et l’examen clinique répétés au fil du temps sont essentiels.

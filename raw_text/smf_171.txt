@@ -1,0 +1,119 @@
+Présentation du cas
+
+Une patiente âgée de 86 ans, qui souffrait depuis trois semaines d’une infection fébrile persistante accompagnée de nausées, vomissements et diarrhée, a été admise en urgence. Par ailleurs, une anamnèse recueillie auprès d’un tiers a indiqué une confusion aiguë. A l’admission, la patiente était légèrement hypertendue (131/92 mmHg), tachycarde (121/min), afébrile (37,2 °C) et désorientée dans toutes les sphères. L’examen clinique réalisé à l’admission était au demeurant normal. Les analyses de laboratoire ont révélé une hypocalcémie (corrigée par l’albumine 1,30 mmol/l; référence: 2,1–2,65 mmol/l) et une hyperphosphatémie (2,17 mmol/l; référence: 0,87–1,45 mmol/l). En présence d’une insuffisance rénale connue (KDIGO stade G4), le taux de créatinine était accru (174 μmol/l; référence: 44–80 μmol/l, DFGe 23 ml/min/1,73 m2). L’électrocardiogramme (ECG) montrait un allongement de l’intervalle QT corrigé pour la fréquence (570 ms) (fig. 1).
+
+Figure 1: Electrocardiogramme à l’admission: allongement de l’intervalle QT corrigé pour la fréquence (env. 570 ms).
+
+Parmi les autres diagnostics secondaires figuraient un syndrome métabolique ainsi qu’un antécédent de carcinome sigmoïdien (pT3, N0, M0), qui avait été traité il y a 19 ans de manière purement chirurgicale dans une intention curative. Alors qu’elle se trouvait encore au service des urgences, la patiente a été en proie à une crise d’épilepsie généralisée tonico-clonique.
+
+Question 1: Quelle cause pourrait être à l’origine de la crise d’épilepsie?
+
+
+a) Hypomagnésémie
+
+b) Encéphalite
+
+c) Processus expansif
+
+d) Hypocalcémie
+
+e) Toutes les causes a à d sont possibles
+
+Une diarrhée sévère ou prolongée peut entraîner une perte considérable de magnésium et, par conséquent, une crise d’épilepsie comme complication (rare).
+
+Les prodromes gastro-intestinaux ou respiratoires peuvent précéder le tableau clinique d’une encéphalite. En présence de modifications inexpliquées du statut mental, une encéphalite ne peut être exclue.
+
+Un processus expansif cérébral (par exemple hémorragie, tumeur) est une cause possible de crise épileptique, qui doit être exclue par imagerie. Au vu des résultats présents (hypocalcémie, hyperphosphatémie, intervalle QT prolongé) et des manifestations cliniques (confusion, crise d’épilepsie), une hypocalcémie symptomatique doit également être envisagée comme cause possible de la crise épileptique.
+
+L’anamnèse élargie recueillie auprès d’un tiers fournit l’indication d’une opération de la thyroïde il y a plusieurs années avec, depuis lors, une substitution régulière de vitamine D3. Il en résulte la suspicion d’une ­hypocalcémie symptomatique due à une hypoparathyroïdie postopératoire. Nous administrons du gluconate de calcium par voie intraveineuse et initions un traitement antiépileptique. Peu après, une nouvelle crise d’épilepsie généralisée tonico-clonique survient.
+
+Question 2: Quel examen vous aide à confirmer votre ­diagnostic de suspicion?
+
+
+a) Echographie des parathyroïdes
+
+b) Détermination du taux de parathormone (PTH)
+
+c) Scintigraphie des parathyroïdes
+
+d) Tomographie par émission de positons (TEP) à la choline
+
+e) Aucun autre examen n’est nécessaire
+
+Une hypocalcémie indéterminée doit toujours conduire à un examen diagnostique approfondi au moyen de la détermination du taux de parathormone intacte (iPTH). La PTH régule l’homéostasie calcique dans l’organisme (effet directement au niveau des os et des cellules rénales) et influence indirectement l’absorption du calcium dans le tractus gastro-intestinal par activation de la vitamine D. Il existe une étroite interaction entre la PTH et la concentration de calcium dans le sang. Si la PTH fait défaut dans cette boucle de régulation, il survient caractéristiquement une hypocalcémie et une hyperphosphatémie.
+
+L’échographie des parathyroïdes, la scintigraphie des parathyroïdes et la TEP à la choline sont des examens réalisés pour localiser des adénomes parathyroïdiens dans le cadre de l’hyperparathyroïdie primaire. Ces examens n’ont aucun intérêt pour le diagnostic d’une hypocalcémie.
+
+Une hypocalcémie symptomatique nécessite sans exception un traitement d’urgence et des investigations complémentaires.
+
+Nous observons un taux normal de PTH au moment de l’hypocalcémie (5,4 pmol/l; référence: 1,6–6,9 pmol/l). D’autres causes d’hypocalcémie sévère (hypomagnésémie, médicaments) peuvent être exclues.
+
+Question 3: Quelle constellation de laboratoire est caractéristique pour le diagnostic?
+
+
+a) Calcium élevé, PTH faible
+
+b) Calcium faible, PTH normale à faible
+
+c) Calcium normal, PTH faible
+
+d) Calcium faible, PTH élevée
+
+e) Calcium élevé, PTH normale à élevée
+
+Une hypoparathyroïdie survient le plus souvent en lien avec des opérations de la thyroïde ou des parathyroïdes. Tandis que le diagnostic d’une hypoparathyroïdie ne pose généralement aucun problème directement après l’intervention chirurgicale, une hypoparathyroïdie doit être également suspectée chez les patients présentant des symptômes neuromusculaires plus tard après l’opération. Des investigations approfondies avec détermination des taux de calcium, d’albumine, de phosphate, de magnésium, de 25-OH-vitamine D et d’iPTH doivent ensuite avoir lieu. Afin de garantir une interprétation correcte des valeurs, une détermination simultanée du taux d’iPTH et de calcium corrigé par l’albumine est indispensable. Le calcium ionisé doit, quant à lui, être déterminé chez les malades critiques, car la liaison du calcium à l’albumine est influencée par la valeur de pH, et la valeur mesurée du calcium corrigé par l’albumine peut ainsi être faussée chez ces patients. La combinaison d’une valeur d’iPTH faible ou inadéquatement normale et d’un faible taux de calcium est indicatrice du diagnostic d’hypoparathyroïdie. Il convient de noter que la concentration de PTH peut être accrue en présence d’une maladie rénale chronique. Afin d’exclure un effet insuffisant de la PTH (résistance à la parathormone), par exemple en raison d’une carence en magnésium, il est recommandé, lors de la recherche d’une hypocalcémie, de déterminer simultanément le taux de magnésium. Chez notre patiente, le diagnostic d’hypoparathyroïdie a été rejeté à tort en raison du taux normal d’iPTH.
+
+La manifestation aiguë d’une hypoparathyroïdie peut se présenter sous forme de tétanie, avec survenue de formes légères (engourdissement péri-oral, paresthésies des mains et des pieds, ainsi que crampes musculaires) à sévères (spasmes au niveau des mains et des pieds, spasme laryngé, crampes musculaires toniques jusqu’à crise de grand mal). Par ailleurs, des manifestations cardiovasculaires (hypotension, allongement du QT) et psychiatriques (états anxieux, dépression, états confusionnels) peuvent être observées.
+
+Question 4: Quel régime thérapeutique initiez-vous après stabilisation de la situation aiguë?
+
+
+a) Poursuite inchangée de la substitution de vitamine D3
+
+b) Substitution par PTH humaine recombinante
+
+c) Augmentation de la substitution de calcium
+
+d) Augmentation de la substitution de vitamine D3
+
+e) Passage au calcitriol
+
+Etant donné que l’activation de la vitamine D3 dépend de la présence de PTH, une substitution de vitamine D3 constitue une mesure thérapeutique insuffisante.
+
+Des études ont pu montrer qu’une normalisation du calcium sérique pouvait être obtenue sous substitution par PTH humaine recombinante avec réduction simul­tanée de la substitution de vitamine D active et de calcium [1]. A l’avenir, cette option thérapeutique ­gagnera probablement en importance. L’autorisation en Suisse est encore attendue.
+
+Afin de prévenir au maximum les symptômes associés au traitement et les complications tardives, il convient en premier lieu d’éviter une augmentation de la substitution de calcium et de considérer cette option comme deuxième choix en cas de contrôle thérapeutique insuffisant après passage au calcitriol.
+
+Sur la base des raisons mentionnées ci-dessus (activation de la vitamine D3 dépendante de la PTH), une régulation suffisante du calcium ne peut être attendue sous augmentation de la substitution de vitamine D3, et cela ne constitue donc pas une option thérapeutique.
+
+Il est impératif de passer au calcitriol. Le traitement ­débute par 1 g de calcium 2–3 × jour et 0,25 μg de calcitriol 2–3 × jour, et peut être complété par du magnésium. Si un rétablissement de la fonction des parathyroïdes est constaté par la suite, le traitement de substitution doit être progressivement réduit et si possible arrêté afin d’éviter une hypercalcémie.
+
+Sous calcitriol (2 × 0,5 μg) et calcium (3 × 1 g) par voie orale, notre patiente présente une normalisation des valeurs de calcium. L’évolution clinique ultérieure se révèle sans complication et sans nouvelle survenue d’une crise épileptique, même après l’arrêt du traitement antiépileptique.
+
+Le dossier médical de la patiente nous a permis de constater qu’elle avait déjà présenté des hypocalcémies répétées par le passé. La première a été documentée directe­ment après la thyroïdectomie totale en 2006 en présence d’un important goitre multinodulaire, à la suite de quoi une substitution par 4 × 1 g de calcium et 2 × 0,25 μg de calcitriol avait été initiée. Au cours des années suivantes, une hypocalcémie (par exemple de 1,49 mmol/l en 2015) a été documentée à plusieurs reprises sous traitement, sachant que le traitement avait entre-temps été modifié à tort (3 × 1 g de calcium et gouttes de vitamine D3).
+
+Question 5: Laquelle des maladies suivantes ne fait pas partie des complications tardives possibles d’un traitement oral de substitution?
+
+
+a) Néphrolithiase
+
+b) Calcifications des ganglions de la base
+
+c) Hypercalcémie
+
+d) Néphrocalcinose
+
+e) Insuffisance rénale chronique
+
+Le principal défi du traitement de l’hypoparathyroïdie persistante consiste à réguler de manière optimale le taux de calcium tout en évitant les symptômes et complications tardives. Un taux de calcium dans la norme inférieure (et un taux de phosphate dans la norme supé­rieure) sans hypocalciurie sont considérés comme les valeurs cibles [2]. L’absorption tubulaire rénale du calcium normalement stimulée par la PTH fait défaut en présence d’une hypoparathyroïdie, ce qui peut ­entraîner une hypercalciurie et, par conséquent, une néphrolithiase, une néphrocalcinose et une insuffisance rénale chronique [3, 4]. En conséquence, un taux de calcium urinaire ≤300 mg/24 h est indiqué comme valeur cible thérapeutique. Lors de la substitution par calcitriol, il convient de viser un taux de calcium dans la norme inférieure et d’éviter impérativement une hypercalcémie. Les calcifications des ganglions de la base font, quant à eux, partie des complications tardives ­potentielles d’une hypoparathyroïdie non traitée ou d’une hypocalcémie.
+
+Discussion
+
+Une hypoparathyroïdie est une complication possible d’opérations de la thyroïde lorsque l’irrigation sanguine des parathyroïdes a été entravée durant l’intervention ou que des tissus parathyroïdiens ont été ­retirés par inadvertance. Dans certaines situations, il convient d’envisager l’ablation de tissu parathyroïdien, par exemple pour éliminer de la façon la plus complète possible le tissu cancéreux. La probabilité d’une hypoparathyroïdie postopératoire après chirurgie de la thyroïde dépend notamment de l’expérience du chirurgien (nombre d’opérations de la thyroïde par an) [5] et de l’étendue de la résection de la thyroïde ou des ganglions lymphatiques. Des évolutions transitoires (régression en l’espace de quelques jours à mois) et persistantes (>douze mois) sont observées. Une évolution transitoire après une thyroïdectomie totale est relativement fréquente (10 à 20%), tandis qu’une évolution persistante en présence d’un chirurgien très expérimenté est relativement rare (<1%). Dans notre exemple, la difficulté diagnostique consistait à reconnaître une valeur de PTH clairement trop faible pour la sévérité de l’hypocalcémie ainsi que la substitution erronée de ­vitamine D.
+
+Pour toute crise d’épilepsie d’étiologie incertaine, il est en principe recommandé de déterminer en urgence le taux de calcium. Une hypocalcémie symptomatique sévère nécessite en priorité l’initiation immédiate d’un traitement par gluconate de calcium en intraveineuse. A long terme, l’hypoparathyroïdie sera traitée par une substitution de calcium et de calcitriol. Outre la détermination régulière du calcium sérique corrigé par ­l’albumine (objectif: norme inférieure), d’excrétion du calcium dans les urines doit également être contrôlée afin d’éviter des conséquences rénales graves de l’hypoparathyroïdie. De manière générale, l’implication d’un endocrinologue est recommandée pour l’ajustement et la surveillance du traitement.
+
+Réponses:
+
+
+Question 1: e. Question 2: b. Question 3: b. Question 4: e. Question 5: b.

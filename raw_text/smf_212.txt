@@ -1,0 +1,88 @@
+Description du cas
+
+Une femme âgée de 57 ans, connue pour une hypertension artérielle et un diabète de type 2 non insulino-­requérant, présente également une dénutrition protéino-calorique. Son indice de masse corporelle est de 16,0 kg/m2.
+
+Son médecin passe en revue sa médication. En présence d’une dénutrition, la fiabilité de l’estimation de la fonction rénale par la mesure de la créatinine plasmatique est questionnée.
+
+Son bilan biologique, incluant une mesure de la cystatine C, est reporté dans le tableau 1.
+
+Tableau 1: Bilan biologique de la patiente.
+Test de laboratoire	Valeurs	Valeurs de référence
+Créatinine [μmol/l]	85	44–80 (femme)
+62–106 (homme)
+Cystatine C [mg/l]	1,3	0,48–0,82 (femme <60 ans)
+0,54–0,94 (homme <60 ans)
+0,63–1,03 (≥60 ans)
+Albumine/Créatinine urine [mg/mmol]	2,4	<3,0
+Question: Qu’effectuez-vous ensuite?
+
+
+a) Un dosage de la créatinine sur une récolte d’urines (24 h).
+
+b) Une mesure de la clearance de l’inuline.
+
+c) Une estimation du débit de filtration glomérulaire avec la formule associant créatinine et cystatine C selon CKD-EPI («Chronic Kidney Disease – Epidemiology Collaboration»).
+
+d) Une estimation du débit de filtration glomérulaire avec la formule basée sur la cystatine C selon CKD-EPI.
+
+Réponse
+
+
+La réponse correcte est c.
+
+Discussion
+Introduction
+
+Le débit de filtration glomérulaire (DFG) est une dimension qui correspond à la fonction rénale. Il correspond au volume de plasma filtré par la totalité des glomérules chaque minute. La détermination du DFG est importante pour diagnostiquer et suivre une maladie rénale ainsi que pour ajuster la posologie de certains médicaments. Comme la mesure du DFG impose un ­recours à des processus compliqués, chronophages et onéreux, des méthodes d’estimation ont été développées. Un marqueur endogène parfait doit être généré à débit constant et éliminé uniquement par les reins par la seule filtration glomérulaire (sécrétion tubulaire négligeable). La créatinine plasmatique, bien que faiblement sécrétée par le tubule rénal, possède les qualités suffisantes pour tenir ce rôle à la condition d’en connaître les limitations. Au sein de populations diverses testées pour un DFG mesuré («gold standard»), des formules d’estimation du DFG (DFGe) ont été développées à partir de la créatininémie. Outre la créatininémie, ces formules, obtenues par des méthodes de régression, intègrent divers paramètres cliniques (sexe, âge et ethnie). Celles-ci ont ensuite été validées dans ­diverses populations et contextes cliniques.
+
+L’estimation du DFG par ces formules (MDRD pour ­«modified of diet in renal disease», CKD-EPI) présente des limitations relatives notamment à l’usage de la créatininémie, fortement influencée par la masse musculaire. D’autre part, la signification de la sécrétion ­tubulaire de créatinine est plus grande en cas d’insuffisance rénale, ce qui tend à surestimer le DFG. D’autres marqueurs ont ainsi été évalués. Le seul possédant une signification clinique à ce jour est la cystatine C.
+
+Caractéristiques du test
+
+La cystatine C est une protéine non glycosylée de bas poids moléculaire (13 kDa). C’est un inhibiteur des cystéines protéinases. Elle est produite à un taux constant par toutes les cellules nucléées, sans variation nycthémérale. Le régime alimentaire ne l’influence pas. Néanmoins, des études montrent qu’un taux augmenté de cystatine C est associé avec le sexe masculin, le poids, le diabète, l’inflammation, l’hyperthyroïdie et l’âge. L’influence de ces facteurs reste toutefois modeste. La cystatine C est librement filtrée au niveau glomérulaire puis entièrement catabolisée dans les tubules proximaux. Contrairement à la créatinine elle n’est pas sécrétée. Son excrétion urinaire est ainsi très faible [1].
+
+Son dosage s’effectue par néphélométrie (Siemens) ou par immunoturbidimétrie (notamment Beckman Coulter, Abbott et Roche Diagnostics). La méthode est calibrée sur le standard primaire ERM-DA471 disponible auprès de l’«International Federation of Clinical Chemistry and Laboratory Medicine». Il persiste toutefois à ce jour une certaine variabilité analytique liée au ­recours à des méthodologies différentes. La facturation de l’analyse est de 21 CHF, contre 2.50 CHF pour la créatinine. Les valeurs de référence peuvent varier ­selon la méthode d’analyse [2].
+
+Utilité du test
+
+Pour la patiente en préambule, la fonction rénale a été estimée par la formule du CKD-EPI, qui associe la créatininémie et la cystatine C. Cette formule, qui intègre le sexe, l’âge et l’ethnie, a été développée sur la base d’un échantillon de diverses populations totali­sant 5352 patients puis validée auprès d’une autre population de 1119 patients. Un calculateur est disponible sur le site de la fondation américaine du rein (https://www.kidney.org/professionals/kdoqi/gfr_calculator). L’utilisation conjointe de la créatinine et de la cystatine C offre des performances légèrement meilleures que d’autres équations n’incluant qu’un marqueur [3]. Ainsi, la fiabilité (définie comme la proportion de valeurs de DFGe ayant un écart <30% par rapport au DFG mesuré) de la formule CKD-EPI créatinine-cystatine C est de 91,8%, contre 87,2% pour la formule CKD-EPI créatinine et 85,9% pour la formule CKD-EPI cystatine C [1].
+
+La formule CKD-EPI basée uniquement sur la créatinine indique un DFGe de 66 ml/min/1,73 m2 (tab. 2). L’équation associant créatinine et cystatine C suggère que la fonction rénale de cette patiente est inférieure (DFGe 58 ml/min/1,73 m2). Le stade de la maladie rénale chronique se trouve ainsi modifié, d’un stade G2,A1 à un stade G3a,A1 selon KDIGO («Kidney ­Disease: ­Improving Global Outcomes Working Group») [4]. Ceci doit ­inciter notamment à vérifier la posologie des médicaments.
+
+Tableau 2: Débit de filtration glomérulaire.
+Débit de filtration glomérulaire estimé (DFGe [ml/min/1,73m2])	Valeurs de la ­patiente
+Formule CKD-EPI basée sur la créatinine	66
+Formule CKD-EPI basée sur la créatinine et la cystatine C	58
+Formule CKD-EPI basée sur la cystatine C	52
+CKD-EPI: «Chronic Kidney Disease – Epidemiology Collaboration»
+Utilisation du test
+
+En clinique, la mesure de la créatinine est suffisante et économique. La cystatine C ne remplace pas la créatinine mais s’utilise en seconde intention pour pondérer un ­résultat. Les recommandations KDIGO proposent trois cas de figure où la cystatine C peut être mesurée [3, 5]:
+
+− Lorsque la valeur de la créatininémie est jugée peu fiable, ce qui introduit une erreur systématique quelle que soit la formule appliquée. Cela peut être le cas pour des patients de poids extrêmes (obèses ou sarcopéniques) ou lors de régimes particuliers (hyperprotéinés ou végétariens).
+
+− Lorsqu’il est important d’évaluer la fonction rénale avec une précision plus importante. Un recours à une équation intégrant la cystatine C est alors susceptible de limiter le risque d’erreurs ayant des conséquences significatives. Ex.: lors de la prescription de médicaments à excrétion rénale avec intervalle théra­peutique étroit ou dans le bilan d’évaluation des donneurs vivants de reins.
+
+− Pour le diagnostic ou la précision du stade de la maladie rénale chronique. Il est recommandé de mesurer la cystatine C en cas de DFGe entre 45 et 59 ml/min/1,73 m2et en l’absence d’albuminurie (stade G3a,A1 selon KDIGO). Le diagnostic de maladie rénale chronique peut alors être infirmé chez les patients dont le DFG estimé par l’équation combinée (créatinine et cystatine C) est égal ou supérieur à 60 ml/min/1,73 m2. Une discrimination entre un stade G3a et G3b peut aussi apporter des éléments pronostiques.
+
+Approches diagnostiques en pratique
+
+L’approche du DFG est en principe obtenue par l’utili­sation de la créatininémie, marqueur endogène largement disponible et peu coûteux. Deux principes sont à disposition:
+
+1. La créatininémie est introduite dans une équation, dont le choix dépend du contexte clinique.
+
+a) La formule Cockcroft-Gault, qui estime la clairance de la créatinine, est globalement moins fiable pour approcher le DFG que les équations MDRD et CKD-EPI, surtout pour les valeurs extrêmes de la fonction rénale. Cette formule, vieille de plus de 40 ans, reste pourtant la référence (contestée) pour l’adaptation des médicaments.
+
+b) Les équations MDRD et CKD-EPI: l’équation CKD-EPI a montré des avantages en comparaison à l’équation MDRD. Outre une fiabilité un peu meilleure, son développement à partir d’une ­population d’individus plus large (notamment dans les meilleures fonctions rénales) permet de rendre des valeurs pour des DFGe jusqu’à 90 ml/min/1,73 m2 (contre 60 ml/min/1,73 m2 pour MDRD). Par rapport à l’équation MDRD, l’équation CKD-EPI créatinine corrige en ­effet partiellement la sous-estimation du DFG aux valeurs élevées de celui-ci. Il s’agit en principe de la méthode de référence en 2019. L’intégration de la cystatine C apporte des avantages dans les situations mentionnées plus haut.
+
+2. La mesure de la clearance de la créatinine à partir d’une récolte d’urines de 24 heures. Cette méthode est limitée par la contrainte de la récolte et par les mêmes limitations propres à la créatinine. Pour les valeurs de DFG faibles (DFGe <30 ml/min/1,73 m2), l’urée est associée à la créatinine pour la mesure de la clearance moyenne de l’urée et de la créatinine à partir d’une récolte d’urines de 24 h. Seule, l’urée est un très mauvais indicateur de la fonction rénale car son taux plasmatique dépend de divers facteurs (état d’hydratation, fonction hépatique, catabolisme).
+
+Enfin, si la mesure de la clearance de l’inuline (marqueur exogène) est considérée comme la méthode de référence, son application reste limitée par la complexité de sa réalisation et les coûts. Elle n’a donc aucune place en pratique.
+
+Au total, la nécessité de connaître la fonction rénale exacte d’un patient ne trouve pas forcément une justification clinique. Il est plus important d’être en mesure d’appréhender l’évolutivité d’une néphropathie et d’an­ti­ciper l’évolution vers un stade plus avancé de la maladie rénale pour mettre en place la stratégie de suivi et de traitement la plus appropriée pour un patient particulier. Dans ce cadre, la cystatine C peut apporter une plus-value. A l’avenir, la cystatine C pourrait prendre une place significative auprès de patients dont les paramètres anthropométriques se sont modifiés au décours d’évènements médico-chirurgicaux majeurs.
+
+Messages principaux
+
+• Le dosage de la cystatine C aide à pondérer et à mieux estimer la fonction rénale dans certaines situations.
+
+• Cette mesure n’est pas une analyse de routine. Dans certaines situations (poids extrêmes, médicaments à faible intervalle thérapeutique, …), elle peut apporter un avantage par rapport à l’usage de la seule créatinine.

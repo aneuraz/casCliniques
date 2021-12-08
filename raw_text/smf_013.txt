@@ -1,0 +1,119 @@
+Description du cas
+
+Une patiente âgée de 77 ans est admise en urgence pour une dyspnée de repos accrue depuis le matin même. La patiente décrit ne pas avoir de toux, de fièvre ou de douleurs thoraciques. Elle rapporte des épisodes de dyspnée présents depuis des années, surtout en position assise et debout, jamais en position couchée ni pendant la nuit. La fille de la patiente (infirmière diplômée) a pu mesurer une saturation pulsée en oxygène (SpO2) périphérique de 79% avec l’oxymètre de pouls. Malgré l’apport de 3 l d’oxygène par canule nasale par le service d’urgence, seule une oxygénation de 88–90% a pu être atteinte.
+
+Les antécédents de santé pertinents de cette patiente sont des embolies récidivantes des artères pulmonaires (EAP), un syndrome d’apnée du sommeil traité par ventilation en pression positive continue (CPAP), une cardiopathie hypertensive (HFpEF) et un statut après accident vasculaire cérébral (AVC) sur un foramen ovale perméable (FOP) il y a sept ans. Un traitement anticoagulant oral par rivaroxaban en doses thérapeutiques est pris quotidiennement.
+
+A l’admission, la patiente était afébrile, hypertendue (152/75 mm Hg), légèrement tachycarde (102/min) et tachypnéique (32/min), avec une SpO2 périphérique de 88% sous apport nasal d’oxygène (FiO2 28%). L’examen cardio-pulmonaire était sans particularités.
+
+L’électrocardiogramme montre un rythme sinusal normocarde sans troubles de repolarisation. L’analyse des gaz du sang artériel a objectivé une insuffisance respiratoire partielle avec une PaO2 de 77 mm Hg (sous FiO2 28%) et une PaCO2 de 30 mm Hg (pH 7,39, bicarbonate 19,4 mmol/l, gradient A-a 69,7 mm Hg). Le NT-pro-BNP se situait dans la norme (185 pg/ml).
+
+Etant donné les antécédents d’EAP récidivants, une angiographie par tomodensitométrie (angio-CT) du thorax a été réalisée aux urgences. Celle-ci n’a pas montré d’EAP aiguë, d’infiltrats ni d’altérations du parenchyme pulmonaire ou de malformation artérioveineuse.
+
+Question 1: Quelle est votre étape diagnostique suivante?
+
+
+a) Echocardiographie transthoracique (ETT)
+
+b) Petite exploration de la fonction pulmonaire (spirométrie)
+
+c) Scintigraphie pulmonaire
+
+d) Pléthysmographie corporelle et capacité de diffusion
+
+e) Polysomnographie
+
+Une évaluation de la fonction pulmonaire a été réalisée à l’aide d’une pléthysmographie corporelle et de la mesure de la capacité de diffusion afin d’exclure un trouble de ventilation ou de diffusion. La spirométrie est insuffisante dans ce cas, car ni le volume résiduel, ni le volume pulmonaire total, ni la capacité de diffusion ne sont évalués. La scintigraphie pulmonaire est l’examen de choix pour exclure une inadéquation ventilation-perfusion (inadéquation V/P). Nous avons renoncé à l’examen supplémentaire par scintigraphie pulmonaire en raison du traitement anticoagulant et de l’angio-CT thoracique normal (absence de pathologie pouvant mener à une inadéquation V/P expliquant cette hypoxémie prononcée). La polysomnographie sert notamment au diagnostic des apnées du sommeil compliquées et n’apporterait pas d’éléments nouveaux dans ce cas. Une ETT n’est actuellement pas l’étape diagnostique suivante en présence d’un examen cardio-pulmonaire normal, d’un NT-pro-BNP dans la norme et d’un angio-CT thoracique normal.
+
+La pléthysmographie corporelle a permis d’exclure une maladie pulmonaire restrictive avec une capacité pulmonaire totale de 4,43 l (97% de la cible). En outre, aucune obstruction n’a pu être détectée: le volume expiratoire maximal en une seconde (VEMS) était de 1,78 l (98% de la valeur cible) et la capacité vitale forcée de 1,91 l (79% de la valeur cible), ce qui a permis de calculer un indice de Tiffeneau de 0,93. La capacité de diffusion corrigée (DLCOc) était également normale (4,63 mmol/min*kPa, 79% de la valeur cible).
+
+Question 2: Quel est le mécanisme physiopathologique le plus probable à la base de cette hypoxémie?
+
+
+a) Hypoventilation
+
+b) Inadéquation ventilation/perfusion
+
+c) Shunt droite-gauche
+
+d) Trouble de la diffusion
+
+e) Fraction inspirée en oxygène (FiO2) réduite
+
+Après l’exclusion des tableaux cliniques fréquents, il faut prendre du recul et se rappeler les cinq mécanismes physiopathologiques de l’hypoxémie pour la suite de la clarification diagnostique (tab. 1): hypoventilation, trouble de la diffusion, inadéquation V/P, shunt droite-gauche (shunt DG) et FiO2 réduite [1]. Puisqu’une FiO2 réduite joue surtout un rôle à haute altitude, ce mécanisme peut facilement être exclu ici. La valeur de PaCO2réduite chez cette patiente ainsi que l’absence de médicaments avec effet dépresseur sur la respiration, l’absence d’une maladie de fond neurologique sous-jacente et les volumes pulmonaires normaux s’opposent à la présence d’un trouble de la ventilation au sens d’une hypoventilation. Contrairement au cas présent, des troubles de la diffusion, par exemple en cas de pneumopathie interstitielle ou d’emphysème, se manifestent initialement typiquement par une dyspnée et une baisse de la saturation en oxygène à l’effort. Ce pathomécanisme a pu être formellement exclu comme origine de la dyspnée étant donné la DLCOc normale (observation soutenue par un CT thoracique normal). L’angio-CT thoracique normal et le traitement anticoagulant parlent contre la présence d’une inadéquation V/P. Le dernier pathomécanisme possible de l’hypoxémie est donc le shunt DG.
+
+Tableau 1: Mécanismes pathophysiologiques et diagnostic différentiel de l’hypoxémie.
+Mécanisme pathophysiologique	Caractéristiques	Diagnostics différentiels1
+Hypoventilation	– PaCO2 plus touchée que PaO2– Réponse à l’augmentation de la FiO2	– SNC: substances avec effet dépresseur sur la respiration (p. ex. médicaments, drogues), lésion structurelle, ischémie– Syndrome obésité-hypoventilation– Maladies neurologiques et musculaires (syndrome de Guillain-Barré, sclérose latérale amyotrophique, myasthénie, dystrophie musculaire, etc.)– Maladies de la paroi thoracique (p. ex. «flail chest», cyphoscoliose)
+Inadéquation ventilation-perfusion	– Augmentation du gradient A-a en oxygène2– Réponse à l’augmentation de la FiO2	– Maladies respiratoires obstructives (BPCO, asthme bronchique)– Embolie de l’artère pulmonaire– Pneumopathie interstitielle
+Shunt droite-gauche	– Augmentation du gradient A-a en oxygène– Pas de réponse ou réponse partielle à l’augmentation de la FiO22	– Shunts anatomiques: shunts intracardiaques, malformations artérioveineuses pulmonaires, syndrome hépato-pulmonaire3– Shunts physiologiques: atélectasies, pneumonie, syndrome de détresse respiratoire aiguë
+Trouble de la diffusion	– Augmentation du gradient A-a en oxygène– Hypoxémie initiale déclenchée ou renforcée par l’effort– Réponse à l’augmentation de la FiO2	– Pneumopathie interstitielle– Emphysème– Insuffisance cardiaque (œdème pulmonaire)
+Baisse de la FiO2	– Réponse à l’augmentation de la FiO2	– Séjour à haute altitude
+1 Liste non exhaustive du diagnostic différentiel 2 Gradient A-a en oxygène: différence entre la pression partielle de l’oxygène alvéolaire (A) et de l’oxygène artériel (a) (PAO2–PaO2). 3 Syndrome hépatopulmonaire: la vasodilatation pulmonaire due à l’hépatopathie mène une augmentation de la perfusion comparée à la ventilation, et ainsi à un shunt fonctionnel.SNC: système nerveux central; BPCO: bronchopneumopathie chronique obstructive.
+Question 3: Quelle est votre étape diagnostique suivante?
+
+
+a) Echocardiographie transthoracique (ETT)
+
+b) Echocardiographie transœsophagienne (ETO)
+
+c) Angiographie pulmonaire
+
+d) Cathétérisme du cœur droit
+
+e) Test fonctionnel du shunt
+
+L’échocardiographie et l’angiographie pulmonaire permettent uniquement la localisation d’un shunt anatomique (et non l’aspect fonctionnel du shunt et donc la relevance clinique) soit au niveau du cœur ou des poumons. Indépendamment de la localisation de la pathologie anatomique sous-jacente, le test fonctionnel du shunt permet un diagnostic non invasif d’un shunt DG ainsi que la quantification de son volume sans utiliser de cathéter pulmonaire. La PaO2 artérielle est mesurée avant et après l’application d’une FiO2 de 100% et l’importance du shunt peut être estimée à l’aide de la formule suivante:
+
+Figure 1:A ) Échocardiographie transœsophagienne (ETO) vue 4 chambres 42°: large anévrisme du septum interauriculaire (flèche).B ) ETO 70°: anévrisme du septum interauriculaire avec déhiscence tissulaire (flèche), membrane mobile, mais avec liaison antérieure.C ) ETO avec test à bulles 70°: images séquentielles avec indication d’un shunt du FOP de degré III détecté par échographie de contraste (flèche) sous manœuvre de Valsalva.
+
+LA: oreillette gauche; RA: oreillette droite; LV: ventricule gauche; RV: ventricule droit; EV: valvule d’Eustachi.
+
+Une fraction de 3–5% du shunt est physiologique, à cause de petits shunts vasculaires anatomiques (veines thébésiennes, veines bronchiques) [2]. Chez le patient sain avec fraction de shunt <5%, la PaO2 sous FiO2 100% devrait se situer >600 mm Hg. Notre patiente présentait une valeur initiale de la PaO2 de 53 mm Hg et une valeur de 116 mm Hg sous FiO2 100%, ce qui permet de calculer un volume significatif du shunt de 28%.
+
+Une corrélation structurelle avec un shunt DG dans les poumons (atélectasies, pneumonie) n’était pas détectable sur le CT thorax réalisé à l’admission. Une ETT a été réalisée pour évaluer la taille actuelle du FOP préalablement documenté ainsi que pour obtenir une preuve morphologique du shunt DG par imagerie (fig. 1). Le test à bulles avec injection d’une solution de NaCl à 0,9% pour l’échographie de contraste a permis d’objectiver un FOP de grade III avec anévrisme du septum interauriculaire, une valvule d’Eustachi persistante et un shunt DG sous manœuvre de Valsalva. La pression artérielle pulmonaire et les deux fonctions ventriculaires ainsi que leurs dimensions étaient normales, sans pathologie valvulaire pertinente.
+
+Question 4: Quel est le traitement de choix pour cette patiente?
+
+
+a) Oxygénothérapie à domicile
+
+b) Fermeture percutanée du FOP
+
+c) Antagoniste calcique
+
+d) Fermeture chirurgicale du FOP
+
+e) Pas de thérapie
+
+En cas de shunt DG, une oxygénothérapie ne pourra pas corriger l’hypoxémie, puisqu’elle n’influence pas la fraction de shunt. Les antagonistes calciques représentent un traitement possible en cas d’hypertension pulmonaire, ce qui n’est pas le cas chez cette patiente. Étant donné l’hypoxémie récidivante et les épisodes de dyspnée, le FOP avec shunt fonctionnel prouvé doit être interprété comme symptomatique chez cette patiente, ce qui justifie sa fermeture. La fermeture chirurgicale du FOP n’est plus réalisée que dans de rares situations de nos jours. Le traitement de choix est la fermeture percutanée du FOP [3], ce que nous avons donc réalisé chez notre patiente. La dyspnée s’est nettement améliorée après l’intervention et les saturations en oxygène documentées par la suite se situaient entre 92% et 97% à l’air ambiant.
+
+Question 5: Quelle est l’anomalie anatomique supplémentaire qui prédispose à un shunt DG chez les patients avec FOP?
+
+
+a) Valvule d’Eustachi persistante
+
+b) Insuffisance tricuspidienne
+
+c) Anévrisme du septum interauriculaire
+
+d) Toutes les réponses a–c sont correctes
+
+e) Aucune réponse n’est correcte
+
+Un FOP peut être retrouvé chez 20–25% de la population normale et est généralement asymptomatique [4]. Certaines anomalies anatomiques comme une insuffisance tricuspidienne, un anévrisme du septum interauriculaire et une valvule d’Eustachi persistante prédisposent à l’apparition d’un shunt DG chez les patients avec FOP [5]. Dans la circulation fœtale, la valvule d’Eustachi sert à guider directement le sang dans l’oreillette gauche à travers le foramen ovale. Si cette valvule persiste, un shunt DG peut donc apparaitre à l’âge adulte même en cas de pression artériopulmonaire normale [3, 6].
+
+Discussion
+
+Ce rapport de cas décrit une patiente souffrant depuis des années d’une dyspnée intermittente en raison d’un shunt DG sur FOP de grade III et anévrisme du septum interauriculaire ainsi que les considérations pertinentes pour le diagnostic différentiel permettant de mener à un traitement causal réussi. Le test fonctionnel du shunt fournit la preuve d’un shunt DG à l’origine de l’hypoxémie, l’ETT avec test à bulles assurant anatomiquement le diagnostic d’un FOP après l’exclusion des causes alternatives du shunt.
+
+L’anamnèse avec épisodes récidivants de dyspnée en position assise et debout, mais jamais en position couchée, est digne d’attention . Associée au FOP avec shunt DG prouvé lors de la manœuvre de Valsalva, elle ­permet de postuler un syndrome de platypnée-orthodéoxie (POS) dans lequel des épisodes de dyspnée (platy-pnée) et d’hypoxémie (-déoxie) surviennent typiquement en position verticale (ortho-) ou au cours de la manœuvre de Valsalva [5, 7].
+
+Le POS est un syndrome relativement rare, décrit pour la première fois en 1949 par Burchell et al. [3]. Le FOP ou les défauts du septum auriculaire représentent l’origine la plus fréquente du POS; les autres origines sont de graves pneumopathies et hépatopathies au cours desquelles le volume du shunt augmente en raison de shunts artérioveineux pulmonaires basaux, ce qui mène à une désaturation [3, 4]. Une composante fonctionnelle avec désaturation dépendant de la position ainsi qu’une composante anatomique avec preuve d’un FOP ou d’un défaut du septum auriculaire avec shunt DG sont indispensables pour le diagnostic [6, 8]. Le traitement définitif de ce syndrome est la fermeture du FOP [3]. Dans une série de cas avec 683 patients avec FOP, un POS a pu être démontré chez 17 patients (2,5%). Après la fermeture du FOP, une amélioration de l’hypoxémie et de la dyspnée a été observée chez 11 patients (65%) et une grave pneumopathie concomitante a été considérée comme responsable de l’absence de réponse chez les autres [9].
+
+En cas d’hypoxémie persistante d’origine non claire, se rappeler les cinq mécanismes physiopathologiques de l’hypoxémie permet l’établissement du diagnostic différentiel et donc en général d’identifier l’origine du trouble sous-jacent. En cas d’anamnèse avec épisodes de dyspnée en position verticale, il faut considérer un POS et rechercher un shunt DG à l’aide d’un test de shunt fonctionnel. L’origine la plus fréquente d’un POS est un shunt DG associé à un FOP [3].
+
+Réponses:
+
+
+Question 1: d. Question 2: c. Question 3: e. Question 4: b. ­Question 5: d.

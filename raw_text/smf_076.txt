@@ -1,0 +1,109 @@
+Description du cas
+
+Une patiente de 43 ans, d’origine marocaine, est hospitalisée en raison de douleurs invalidantes des mains, des poignets et des chevilles depuis un mois. À l’examen clinique, la palpation des articulations métacarpo-phalangiennes et des poignets est douloureuse. Les articulations ne sont pas ponctionnables et les radiographies sont non contributives. Le bilan biologique montre une protéine C réactive (CRP) à 30 mg/l (norme: <10 mg/l) et une vitesse de sédimentation (VS) à 80 mm/h (norme: <10 mm/h). Le facteur rhumatoïde et les anti-CCP reviennent positifs. Le diagnostic de polyarthrite rhumatoïde est posé. Un T-SPOT®.TB est effectué avant l’instauration d’un traitement immunomodulateur et revient positif. La patiente a émigré en Suisse à l’âge de 20 ans et une anamnèse de contage pour la tuberculose (TB) est négative.
+
+Quelle est l’étape suivante de la prise en charge?
+
+
+a) La patiente a probablement été vaccinée avec le vaccin bilié de Calmette et Guérin (BCG) et le résultat est un faux positif.
+
+b) Il faut faire une radiographie thoracique et exclure la présence d’une TB active.
+
+c) Il s’agit d’une TB active et il faut débuter une quadrithérapie antituberculeuse.
+
+d) Il s’agit d’une TB latente et il faut débuter un traitement de rifampicine.
+
+Réponse:
+
+
+La réponse correcte est b.
+
+Discussion
+Epidémiologie
+
+A l’échelle mondiale, l’Organisation mondiale de la Santé (OMS) estime le nombre de cas de TB latente à 1,7 milliards, soit 23% de la population totale [1]. Suite au contact avec le bacille de Mycobacterium tuberculosis (MTB), il est estimé que 90% des personnes vont rester asymptomatiques, l’infection étant éliminée ou restant contrôlée sous forme de TB latente. Dans 5% des cas il y a le développement d’une TB active dans les deux ans, notamment chez les enfants de moins de 5 ans et les patients immunosupprimés. Le 5% restant développera une infection tardive lors d’une diminution de l’immunité [1, 2].
+
+Principe des IGRA
+
+Pour identifier les infections latentes à MTB il existe le test de sensibilité à la tuberculine ou Mantoux (TST), et les tests sanguins de détection de production de l’interféron gamma (IFN-γ; «Interferon Gamma Release Assays» [IGRA]). Il est important de noter que tous deux n’identifient pas directement le bacille mais la réponse immunitaire cellulaire retardée. Le TST ne sera pas abordé ici mais ses principales limitations à connaître sont les faux positifs chez les patients vaccinés au BCG et les infections aux mycobactéries non tuberculeuses (MNT). Les IGRA sont des tests in vitro qui détectent la présence de lymphocytes T effecteurs sensibilisés à MTB et produisant l’IFN-γ. Les antigènes utilisés dans les tests sont spécifiques à MTB, et ne sont pas retrouvés chez la plupart des MNT [3].
+
+Deux tests IGRA sont disponibles sur le marché suisse: le T-SPOT®.TB (tarif facturable CHF 129) et le QuantiFERON®-TB, dont l’ancienne génération Gold-In-Tube (QFT-GIT; CHF 129) est progressivement remplacée par le Gold Plus (QFT-Plus; CHF 100). Le sang prélevé sur le patient est incubé avec les tubes contenant les antigènes et les tubes contrôles. Le T-SPOT®.TB utilise la méthode ELISPOT pour donner le résultat avec un nombre de lymphocytes T stimulés pour 250 000 cellules en «spot forming units» (SFU). Les tests QuantiFERON®, qui utilisent la méthode ELISA, donnent le résultat sous forme de quantification de l’IFN-γ produit, en UI/ml [3, 4].
+
+Interprétation des tests
+
+Les résultats des IGRA sont définis comme positifs, négatifs, ou non interprétables. Les résultats non interprétables comprennent ceux qui sont indéterminés (QFT) et invalides (T-SPOT®.TB), définis par une réponse forte dans le tube de contrôle négatif, ou au contraire une faible réponse dans le contrôle positif. Le résultat est qualifié comme «borderline» lorsqu’il est en-dessous mais proche du seuil défini par le fabricant. Les patients avec des IGRA non interprétables doivent être retestés avec le même IGRA. En cas d’obtention de deux tests non interprétables, il est suggéré d’effectuer l’autre type d’IGRA (fig. 1).
+
+Figure 1: Démarche d’interprétation des «Interferon Gamma Release Assays» (IGRA) pour les patients originaires de pays à faible prévalence de tuberculose (TB).
+
+Lors de l’obtention des échantillons, il est important de respecter les instructions du fabricant concernant la quantité de sang à prélever, l’ordre des tubes à remplir, et leur manipulation afin de minimiser les sources de variabilité des IGRA. Le délai d’incubation à respecter est de 16 heures pour le QuantiFERON® et de 48 heures pour le T-SPOT®.TB avec l’utilisation du réactif «T-cell Xtend».
+
+Il faut également savoir que lorsqu’un IGRA est effectué à la suite d’un TST, un effet d’activation immunitaire peut engendrer des faux positifs, si le délai entre les deux examens dépasse 3 jours [3].
+
+Performances des tests
+
+Le tableau 1 montre les performances des tests dans les régions géographiques à faible incidence. En l’absence de «gold standard» pour le diagnostic de TB latente, ces valeurs sont donc des extrapolations. La sensibilité est estimée à partir des cas de TB active confirmés par microbiologie, et la spécificité à partir d’une population à bas risque, c’est-à-dire dans une région à faible incidence et sans anamnèse de contage. La spécificité des IGRA dépasse les 95%. La sensibilité du QuantiFERON®de nouvelle génération est supérieure à l’ancienne (94 vs 81%) pour égaler celle du T-SPOT®.TB. [3, 4].
+
+Tableau 1: Performances des «Interferon Gamma Release Assays» (IGRA) (adapté de [3, 4]).
+Performances des tests
+ 	Sensibilité	Spécificité
+T-SPOT®.TB	92%	98%
+QuantiFERON®-TB Gold-In-Tube	81%	99%
+QuantiFERON®-TB Gold Plus	94%	96%
+
+Il est montré qu’une grande majorité des patients avec un test positif (>95%) n’évolue pas vers une TB active, ce qui est cohérent avec le risque naturel d’activation de la maladie. Les IGRA doivent par conséquent être uniquement utilisés pour les patients chez qui un traitement de la TB latente est envisagé en cas de résultat positif. Leur très bonne valeur prédictive négative (99% pour QFT-GIT et 98% pour T-SPOT®.TB) pour une progression vers une maladie active, lorsque la probabilité pré-test est faible, permet d’écarter raisonnablement ce risque en cas de test négatif chez un patient immunocompétent habitant dans une zone à faible incidence [3].
+
+Indications aux IGRA
+
+Le tableau 2, adapté des recommandations de l’OMS, énumère les principales indications aux IGRA dans les pays à faible incidence de TB (moins de 100 cas par 100 000 habitants), classées selon le risque de développement d’une maladie active.
+
+Tableau 2: Risque de développement d’une tuberculose (TB) active et indications aux «Interferon Gamma Release Assays» (IGRA) selon recommandations de l’Organisation mondiale de la Santé (OMS) (adapté de [5, 6]).
+Risque	Recommandation OMS
+Haut risque	Recommandé
+Exposition récente à un cas de TB ­contagieuse 
+Patients infectés par le VIH
+Transplantation d’organe ou de moelle osseuse
+Insuffisance rénale terminale dialysée
+Silicose
+Traitement immunosuppresseur (anti-TNFα)
+Risque modéré	À considérer
+Populations à risque de co-infection avec VIH: prisonniers, sans-abri, toxicomanes ­intraveineux
+Séquelles radiologiques d’antécédent de TB non traitée ou insuffisamment traitée
+Risque d’exposition dans le cadre professionnel
+Migrants provenant d’un pays à haute prévalence de TB
+Bas risque	Non recommandé
+Diabète
+Dénutrition
+Tabagisme actif
+Consommation d’alcool à risque
+
+Lors d’une enquête d’entourage, les personnes exposées récemment à un cas index de TB contagieuse doivent être dépistées, en raison du risque élevé de ­développer elles-mêmes la maladie dans les 2 ans. La pratique de la Ligue pulmonaire Vaudoise, qui est mandatée par le médecin cantonal pour ces enquêtes, est d’effectuer le test à 8 semaines chez les adultes immunocompétents. Un test effectué avant ce délai peut produire un résultat faussement négatif. Les personnes immunosupprimées et les enfants de moins de 5 ans doivent bénéficier d’une évaluation clinique sans délai après une exposition [1].
+
+Chez les personnes infectées par le VIH, le risque de développer une TB active, avec une infection nouvelle ou une réactivation, est augmenté de 10 à 110 fois [5]. Il faut retenir que la sensibilité des IGRA est réduite chez ces patients, et de manière plus importante pour le QFT-GIT (61%), que pour le T-SPOT®.TB (72%). Ceci s’explique par la corrélation de la sensibilité au nombre de lymphocytes CD4+. Le processus technique de comptage cellulaire dans le T-SPOT®.TB atténue ce phénomène. Un test négatif ne dispense donc pas de l’évaluation clinique du risque pour décider de l’instauration d’un traitement préventif en cas d’exposition avérée. À noter qu’un taux de CD4+ inférieur à 200 cellules par mm3 chez les patients séropositifs augmente le nombre de résultats non interprétables [3].
+
+Parmi les autres situations à haut risque indiquant la réalisation d’un IGRA, il faut citer la greffe d’organe ou de moelle osseuse, l’insuffisance rénale terminale dialysée, ainsi que la silicose [5, 6].
+
+Concernant l’indication aux IGRA avant prise de traitements immunosuppresseurs, elle se base principalement sur des avis d’experts, car en dehors des anti-­TNFα, le risque effectif des autres classes est moins bien connu [7]. À noter par ailleurs qu’une lymphopénie inférieure à 0,5 G/l augmente le taux de résultats non interprétables [5].
+
+Un IGRA est à considérer chez les populations à risque d’une co-infection avec le VIH (tab. 2). Les patients avec des séquelles radiologiques de TB non traitée ou insuffisamment traitée, sous forme de lésions d’aspect fibrotiques, présentent également un risque modéré. La ­situation des personnes à risque d’exposition dans le cadre professionnel ainsi que des migrants provenant d’un pays à haute prévalence de TB nécessite l’évaluation d’un dépistage en raison du risque d’infection récente et donc de développement d’une maladie active [5, 6]. Une fois effectué, la répétition du test en routine pour le suivi, notamment chez le personnel soignant, n’est pas recommandée en raison du risque de conversion et réversion, dû à la variation de la réponse immunitaire dans le temps [1].
+
+Le tableau 2 mentionne les risques considérés comme faibles et ne justifiant pas à eux seuls d’effectuer un IGRA selon l’OMS [5, 6].
+
+À noter que les recommandations des «Centers for Disease Control and Prevention» (CDC) américaines identifient certains facteurs de risque supplémentaires de réactivation d’une infection latente, justifiant un dépistage: les néoplasies pulmonaires, cérébrales et ORL; les hémopathies malignes; un antécédent de gastrectomie ou bypass iléo-jéjunal; la corticothérapie avec dosage journalier équivalent ou plus élevé que 15 mg de prednisone [8]. L’indication avant la chimiothérapie est discutable, avec peu de données disponibles, et est à pondérer avec les risques liés à un traitement de TB latente administré en parallèle au traitement oncologique.
+
+Situations inadaptées aux IGRA
+
+Certaines situations ne se prêtent pas à l’usage des IGRA. Il s’agit notamment du cas des enfants de moins de 5 ans. Les études montrent un taux élevé de résultats non interprétables et une sensibilité insuffisante des IGRA pour justifier leur utilisation à la place du TST [3].
+
+Les IGRA ne sont pas recommandés pour l’exclusion d’une TB active, qu’elle soit pulmonaire ou extra-pulmonaire, car leur valeur prédictive négative pour la présence de la maladie active est médiocre. De manière générale, ils ne doivent pas faire partie d’un bilan de santé ou du bilan d’une fièvre d’origine indéterminée (FUO). Ils ne sont pas recommandés dans la population gériatrique en raison de son incidence élevée de TB latente, et n’ont pas d’utilité dans le suivi de l’efficacité d’une thérapie [3].
+
+Conclusion
+
+Chez notre patiente, qui ne présente pas de toux, expectorations ni symptômes B, il n’y a pas d’argument clinique pour une TB active, pulmonaire ou extra-pulmonaire, et la radiographie thoracique est normale. Ceci permet d’exclure une TB active et le diagnostic retenu est une TB latente. Un traitement par rifampicine est introduit pour une durée de 4 mois. Le traitement de méthotrexate est débuté en parallèle, avec contrôles itératifs des tests hépatiques en raison de l’hépatotoxicité combinée. En l’absence de rémission de la polyarthrite rhumatoïde à 6 mois, un traitement d’anti-TNFα (infliximab) est alors introduit.
+
+Les IGRA sont les examens de choix pour la détection de la TB latente en Suisse. La seule indication pour le TST reste le dépistage chez les enfants de moins de 5 ans. Les IGRA sont des tests détectant la réponse immunitaire d’hypersensibilité de type IV. Leur usage requiert une bonne connaissance de leurs performances, ainsi que de leurs indications et limitations. Ils doivent être réservés aux patients chez qui un traitement de la TB latente est envisagé en cas de résultat positif.
+
+Messages principaux
+
+• Les «Interferon Gamma Release Assays» (IGRA) identifient la réponse immunitaire d’hypersensibilité de type IV, médiée par les lymphocytes T, après un contact avec Mycobacterium tuberculosis.
+
+• Ils doivent être réservés aux patients chez qui un traitement de la tuberculose latente est envisagé en cas de résultat positif.

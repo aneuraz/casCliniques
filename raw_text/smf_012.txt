@@ -1,0 +1,58 @@
+Contexte
+
+Le magnésium est un minéral qui assure des fonctions centrales dans la régulation d’autres électrolytes et de nombreuses enzymes impliquées dans notre métabolisme. Il est également coresponsable de l’activation de la thiamine (vitamine B1) et joue ainsi un rôle essentiel dans le bon fonctionnement du système nerveux. Nous décrivons le cas d’une patiente atteinte d’un cancer du côlon qui, au cours du traitement par cétuximab, a développé une hypomagnésémie sévère et des symptômes encéphalopathiques impressionnants, qui se sont résolus rapidement et totalement après l’administration de magnésium et de thiamine.
+
+Présentation du cas
+Anamnèse
+
+Chez cette patiente de 75 ans, un adénocarcinome du côlon sigmoïde pT3 pN2b cM0 a été diagnostiqué. Suite à une résection recto-sigmoïdienne avec pose d’une sigmoïdostomie, la patiente a reçu une chimiothérapie adjuvante par FOLFOX4. Deux ans plus tard, une première récidive avec une métastase solitaire dans l’annexe droite a été réséquée chirurgicalement. Une deuxième récidive dans les ganglions lymphatiques supraclaviculaires gauches a fait l’objet d’une radiothérapie un autre quatre ans plus tard. Lors d’une troisième récidive trois ans plus tard, avec métastases au niveau des ganglions lymphatiques supraclaviculaires et axillaires gauches, il a été décidé d’initier un traitement systémique. L’analyse mutationnelle de la tumeur a montré un gène KRAS de type sauvage, ce qui est prédictif d’une réponse à une immunothérapie par anticorps anti-récepteur du facteur de croissance épidermique (EGFR).
+
+Un traitement par leucovorine/irinotécan/fluorouracile (FOLFIRI) en association avec l’anticorps anti-EGFR cétuximab a été débuté. Une bonne réponse clinique au traitement a été constatée, mais la patiente a développé au cours des trois mois suivants des nausées progressives, une dysgueusie, des douleurs abdominales et une perte de poids de cinq kilogrammes; elle ne présentait pas de diarrhées. En raison de difficultés à s’alimenter, la patiente a été hospitalisée. Outre la chimiothérapie/immunothérapie, sa liste de médicaments incluait 5 mg de périndopril, 1,25 mg d’indapamide et de l’éplérénone 25 mg pour une hypertension artérielle, ainsi que 12,5 mg de bisoprolol et 2 × 5 mg d’apixaban pour une fibrillation auriculaire.
+
+Examen clinique
+
+La patiente s’est présentée dans un état général diminué. Elle était orientée, avait un poids de 88 kg et une taille de 159 cm (indice de masse corporelle 34,8 kg/m2), sa pression artérielle était de 130/95 mm Hg, son pouls s’élevait à 67/min, sa température corporelle était de 36,6 °C et sa SpO2 était de 94%. L’examen clinique était sans particularités, à l’exception d’une pâleur cutanée, d’un gonflement des ganglions lymphatiques supraclaviculaires gauches, d’ectasies veineuses thoraciques et d’un lymphœdème du bras gauche.
+
+Diagnostic
+
+Les analyses de laboratoire ont révélé les résultats suivants: hémoglobine 112 g/l (120–160 g/l), sodium 136 mmol/l (136–145 mmol/l), potassium 2,9 mmol/l (3,4–5,0 mmol/l), calcium 1,27 mmol/l (2,1–2,6 mmol/l), phosphate 1,32 mmol/l (0,87–1,45 mmol/l), albumine 32 g/l (32–46 g/l), créatinine 122 µmol/l (44–80 µmol/l).
+
+Traitement et évolution
+
+Sur le plan thérapeutique, une substitution liquidienne et une supplémentation en potassium ont tout d’abord été initiées. Nous avons expliqué le faible taux de calcium par la carence en vitamine D, avec une valeur de 25-OH-vitamine D de 20 nmol/l (25–140 nmol/l). La parathormone n’était que légèrement augmentée, s’élevant à 10,8 pmol/l (<6,9 pmol/l). Du calcium et de la vitamine D3 ont été administrés. En raison des nausées persistantes, nous avons réalisé une gastroscopie, qui a révélé plusieurs ulcères duodénaux, raison pour laquelle un traitement suppresseur d’acidité par pantoprazole (40 mg p.o.) a été instauré.
+
+En l’espace d’une semaine, la patiente a développé une faiblesse progressive; par ailleurs, des changements de personnalité, une désorientation, des difficultés à trouver les mots, des troubles visuels ainsi qu’une apathie ont été constatés. Elle présentait des paresthésies, des myoclonies et une démarche mal assurée. Les réflexes étaient faibles et la force était globalement réduite. Ni l’imagerie par résonance magnétique (IRM) crânienne ni l’électroencéphalogramme (EEG) n’ont permis de trouver de cause expliquant les symptômes cérébraux aigus; en particulier, des métastases et une hémorragie ont pu être exclues.
+
+Malgré la supplémentation, les analyses de laboratoire ont montré une persistance de l’hypokaliémie (2,8 mmol/l) et de l’hypocalcémie, ainsi qu’une hypomagnésémie prononcée (0,17 mmol/l [norme 0,7–1,05 mmol/l]; magnésium non déterminé auparavant). L’électrocardiogramme (ECG) a montré la fibrillation auriculaire déjà connue, sans nouvelles pathologies. En plus de la supplémentation en potassium et en calcium, une supplémentation orale en magnésium a désormais été initiée.
+
+Compte tenu de la perte de poids de neuf kilogrammes en l’espace de deux mois (10% du poids corporel) et de la malnutrition et dénutrition, nous avons songé dans le cadre du diagnostic différentiel à la possibilité d’un syndrome de renutrition inappropriée avec encéphalopathie de Wernicke consécutive. Nous avons initié une tentative de traitement par thiamine i.v. durant trois jours. La concentration de thiamine n’a pas été déterminée. En l’espace de 24 heures, l’état de la patiente s’est amélioré et une semaine plus tard, la plupart des symptômes encéphalopathiques avaient disparu.
+
+La normalisation des électrolytes était lente malgré la supplémentation. Au moment de la sortie de l’hôpital, la concentration de magnésium était encore basse. Après la reprise du traitement par anticorps avec une supplémentation concomitante en magnésium et thiamine, la fraction excrétée de magnésium a été déterminée; elle était très élevée, de l’ordre de 42% ([UrineMg × Plasmacréatinine] / [PlasmaMg × Urinecréatinine × 0,7] × 100; norme = <4%), ce qui a permis de conclure à une perte rénale excessive de magnésium.
+
+Discussion
+
+Après quelques jours de traitement anti-EGFR par cétuximab, cette patiente de 75 ans avec cancer du côlon métastatique a développé des symptômes encéphalopathiques sévères. Nous avons estimé que l’hypomagnésémie en était le déclencheur potentiel. Toutefois, la faible concentration de magnésium en soi ne semblait pas être responsable de l’encéphalopathie, car une amélioration clinique rapide a été obtenue alors que la concentration de magnésium ne s’était pas sensiblement améliorée. Dans la mesure où la supplémentation en thiamine par voie intraveineuse a entraîné une amélioration prononcée en l’espace de quelques jours, nous concluons que la patiente présentait soit une ­véritable carence en vitamine B1 soit une carence fonctionnelle en vitamine B1. Cela signifie que soit les réserves de thiamine étaient effectivement faibles suite à la carence alimentaire préalable, ce qui a encore été renforcé par la reprise de l’alimentation (syndrome de renutrition inappropriée), soit la thiamine présente n’a pas pu être activée en raison de la carence en magnésium [1] et n’était dès lors pas disponible en quantité suffisante pour le système nerveux.
+
+Conséquence caractéristique, l’hypomagnésémie a entraîné de faibles concentrations de potassium et de ­calcium, qui se sont uniquement normalisées progressivement avec la correction du magnésium. De faibles concentrations de magnésium sont à l’origine d’une ­inhibition de la pompe sodium-potassium tubulaire, avec perte rénale de potassium [2]. Chez notre patiente, il n’y avait pas de perte électrolytique dans le cadre d’une diarrhée associée à la chimiothérapie.
+
+L’hypocalcémie sévère ne s’expliquait que partiellement par la carence en vitamine D. Normalement, une hyperparathyroïdie secondaire peut approximativement corriger les valeurs plasmatiques de calcium. Nous postulons que cela n’était pas suffisamment possible, car une hypomagnésémie inhibe typiquement la sécrétion de parathormone (PTH). Des symptômes cardiaques, tels que des arythmies, ou des anomalies à l’ECG n’ont pas été observés chez notre patiente.
+
+Comment cette hypomagnésémie impressionnante s’est-elle développée? Nous partons du principe que d’une part, l’alimentation réduite a empêché de couvrir les besoins journaliers de 320–420 mg de magnésium [3]. D’autre part, il y avait une perte rénale accrue, ce qui est plus pertinent sur le plan étiologique. Trois médicaments pris par la patiente entraient en ligne de compte pour l’expliquer: l’indapamide, l’inhibiteur de la pompe à protons (IPP) et l’anticorps anti-EGFR cétuximab. La perte rénale de magnésium induite par l’indapamide est faible et semble insignifiante [3]. Sous IPP, une hypomagnésémie s’observe uniquement après un traitement de longue durée et à dose élevée [4]. Chez notre patiente, le traitement par IPP a uniquement été initié à l’hôpital et il n’a donc probablement pas joué de rôle causal.
+
+Nous considérons que le cétuximab est le principal responsable de l’hypomagnésémie sévère persistante. Bien que le mécanisme de la perte de magnésium induite par le cétuximab ne soit pas totalement élucidé, un aspect important est qu’il y a une forte densité de récepteurs de l’EGF dans la branche ascendante de l’anse de Henlé, qui régulent l’excrétion du magnésium [5, 6]. Le blocage des récepteurs de l’EGF empêche l’activation de la tyrosine kinase liée au récepteur intracellulaire (TRPM6), ce qui conduit à une réabsorption ­réduite (potentiellement uniquement partiellement réversible) ou à une perte rénale accrue de magnésium [6].
+
+L’hypomagnésémie constitue un effet de classe des anti­corps anti-EGFR: elle s’observe chez environ 30% des patients sous cétuximab [6]. Des symptômes sévères, comme chez notre patiente, sont rares. Un cas similaire d’hypomagnésémie et de perte de conscience sous cétuximab a été décrit dans la littérature [7]. Bien que la supplémentation orale en magnésium ne suffise généralement pas pour compenser les pertes rénales [8], la faible concentration sérique de magnésium reste le plus souvent asymptomatique et le traitement par cétuximab peut être poursuivi.
+
+Actuellement, la patiente continue à être traitée par ­cétuximab à la dose usuelle, avec en parallèle une supplémentation orale quotidienne par 60 mmol de ­magnésium et 100 mg de thiamine. Sous ce traitement, la concentration de magnésium s’est stabilisée à 0,45 mmol/l, avec une fraction excrétée de magnésium toujours accrue (65%), et la patiente est restée asymptomatique.
+
+L’essentiel pour la pratique
+
+• Au cours du traitement par anticorps anti-EGFR (cétuximab ou panitumumab), une perte rénale de magnésium peut se développer, ce qui constitue un effet de classe de ce groupe de médicaments.
+
+• Les hypomagnésémies sont fréquentes, mais elles évoluent le plus ­souvent de manière asymptomatique.
+
+• Les hypomagnésémies très prononcées peuvent s’accompagner de troubles électrolytiques sévères et de symptômes encéphalopathiques.
+
+• Les symptômes encéphalopathiques s’expliquent en partie par une ­carence en thiamine, car le magnésium est un cofacteur important de l’efficacité de la thiamine.
+
+• Au cours d’un traitement par cétuximab, des mesures régulières de la concentration de magnésium et une supplémentation précoce sont ­recommandées.

@@ -1,0 +1,146 @@
+Description du cas
+
+Vous voyez pour la première fois un patient de 21 ans. L’anamnèse relève une dyspnée NYHA II, présente depuis plusieurs années, constante, ne s’accompagnant pas de douleurs thoraciques, de palpitations, de toux ou de fièvre. A l’examen clinique, il est pâle et ictérique, normotendu, normocarde, afébrile et sa saturation O2 à l’air ambiant est de 95%. L’auscultation cardiaque, pulmonaire et le status abdominal sont sans particularité. A la formule sanguine, vous retrouvez une anémie normochrome normocytaire régénérative (Hb 81 g/l, érythrocytes 2,6 T/l, MCV 96 fl, MCHC 324 pg/l, réticulocytes 978 G/l), sans perturbation des autres lignées. Les LDH sont à 144 U/l (N: 135-225 U/l) et l’haptoglobine est en-dessous du seuil de détection. Vous constatez par ailleurs une cytolyse hépatique modérée (AST, ALT et PA 2× la norme, bilirubine totale 3× la norme, GGT et bilirubine directe dans l’intervalle de référence). La fonction rénale est normale.
+
+Question 1: Quel examen vous parait le moins pertinent à ce stade?
+
+
+a) Test direct à l’antiglobuline (DAT, test de Coombs)
+
+b) Complément d’anamnèse
+
+c) Frottis sanguin périphérique
+
+d) Ultrason abdominal
+
+e) Ektacytométrie
+
+Face à une anémie hémolytique (AH), le DAT permet de détecter la présence d’anticorps liés aux érythrocytes et, de ce fait, une cause auto-immune [1]. Chez votre patient ce test est négatif.
+
+Toute démarche diagnostique comprend une anamnèse détaillée. Votre patient, d’origine portugaise, est né et a grandi en Suisse. Il ne prend pas de médicaments. L’anémie est connue de longue date et justifie parfois une transfusion administrée par son médecin traitant. Il a subi une splénectomie et une cholécystectomie dans l’enfance. L’anamnèse familiale est négative pour ces mêmes éléments.
+
+Le frottis sanguin est un examen essentiel, son observation permettant de visualiser les anomalies de taille ou de forme des globules rouges (GR). Chez votre patient, vous observez une discrète anisocytose, quelques acanthocytes et une polychromasie (colo­ration bleuâtre des GR, reflétant la réticulocytose) (fig. 1).
+
+Figure 1: Le frottis sanguin de votre patient montre une discrète anisocytose avec présence de quelques acanthocytes (flèches), représentant des cellules déplétées en ATP, ainsi qu’une polychromasie, reflétant la réticulocytose. Grossissement 50x.
+
+En raison de la cytolyse observée, l’ultrason abdominal (US) permet de visualiser la structure hépatique, la perméabilité des voies biliaires et de la circulation portale. L’US confirme l’absence de rate et de vésicule biliaire.
+
+L’ektacytométrie est une technique permettant de mesurer la déformabilité des GR. Elle s’effectue dans des laboratoires spécialisés et intervient dans un deuxième temps afin de différentier les anomalies de la membrane érythrocytaire.
+
+Question 2: Parmi ces maladies, laquelle ne fait pas partie du diagnostic différentiel d’une anémie hémolytique corpusculaire?
+
+
+a) Sphérocytose héréditaire
+
+b) Syndrome hémolytique urémique (SHU)
+
+c) Hémoglobinurie paroxystique nocturne (HPN)
+
+d) Thalassémies
+
+e) Déficits enzymatiques du globule rouge
+
+Si l’hémolyse est due à une anomalie propre au GR (impliquant la membrane, l’Hb ou la machinerie enzymatique) on parle d’AH corpusculaire (voir tab. S1 dans l’annexe joint à l’article en ligne 1). Si elle est due à une anomalie extrinsèque (conséquence d’une agression sur un GR normal) on parle d’AH extra-corpusculaire. La sphérocytose se caractérise par une atteinte des protéines du cytosquelette ou de la membrane érythrocytaire. Les GR sont sphériques, peu déformables et, de ce fait, leur destruction splénique est accrue. L’hémolyse est chronique.
+
+Le SHU, souvent lié à une infection par bactéries productrices de shigatoxines, se définit par la présence d’une AH, d’une thrombocytopénie et d’une atteinte rénale. Au frottis on retrouve des schistocytes (GR fragmentés).
+
+L’HPN se caractérise par la perte d’ancrage de protéines nécessaires à la l’inhibition du complexe d’attaque du complément. Elle est suspectée face à une maladie thrombotique avec hémoglobinurie. La présence en cytométrie de flux de GR déficitaires pour ces protéines est diagnostique.
+
+Dans les thalassémies, la synthèse des chaînes de globine α et/ou β est réduite. L’anémie est microcytaire hypochrome. Au frottis on retrouve des cellules cibles. L’analyse par chromatographie de l’Hb et une analyse génétique posent le diagnostic.
+
+Le déficit en glucose-6-phosphate déhydrogénase (G6PD) est une maladie liée au chromosome X. La diminution d’activité de cet enzyme réduit la tolérance à l’oxydation. L’hémolyse s’observe typiquement lors d’un stress (p.ex. infection). Le déficit en pyruvate kinase (PKD) fait suite à des mutations récessives du gène PKLR présent sur le chromosome 1. La diminution d’activité de cet enzyme réduit la production d’ATP (fig. 2) et, de ce fait, la durée de vie du GR [2]. L’hémolyse est chronique, le frottis peu démonstratif (fig. 1).
+
+Figure 2: Schéma simplifié de la glycolyse. La pyruvate kinase (PK) régule une étape cruciale de la glycolyse. En cas de déficience de la PK (en rouge) on observe une diminution de la capacité énergétique du globule rouge (défaut de synthèse de l’ATP) et une accumulation des produits des étapes en amont, notamment du 2,3-DPG qui décale la courbe de dissociation de l’oxygène vers la droite. AG-348 est un d’activateur allostérique de la PK («first in class»). Sélectif, et disponible par voie orale, il est actuellement en cours d’étude. ADP: adénosine diphosphate; ATP: adénosine triphosphate; 1,3-DPG: 1,3-disphosphoglycérate; 2,3-DPG: 2,3-disphosphoglycérate; 3-PG: 3-disphosphoglycérate; PEP: phosphoenolpyruvate.
+
+Face à une AH DAT-négative, au caractère chronique, peu symptomatique, sans altérations au frottis, vous suspectez un PKD.
+
+Question 3 : Quelle est la prochaine étape diagnostique ?
+
+
+a) Mesure de l’activité enzymatique de la PK après transfusion
+
+b) Mesure de l’activité enzymatique de la PK hors crise hémolytique
+
+c) Mesure des produits de dégradation intermédiaires (p.ex. 2,3-diphosphoglycérate)
+
+d) Génotypage du gène PKLR
+
+e) Aucune, les investigations de base (examen clinique, formule sanguine, frottis sanguin, marqueurs d’hémolyse) étant suffisantes
+
+Le diagnostic de PKD se pose en mesurant l’activité de l’enzyme par spectrophotométrie. L’interprétation des résultats nécessite une attention particulière. Des valeurs faussement normales pouvant se rencontrer dans les situations suivantes : a) transfusion récente (interférence par les GR sains du donneur), b) réticulocytose, c) élimination incomplète des thrombocytes (Tc) et des globules blancs (GB).
+
+Après avoir mis en évidence la diminution de l’activité de la PK, le séquençage du gène PKLR, est fortement recommandé afin de confirmer le diagnostic.
+
+La recherche de produits de dégradation intermédiaires est parfois utilisée en cas de forte suspicion clinique face à une activité conservée à la spectrophotométrie. Certaines variantes de la PK peuvent en effet ne pas être actives in vivo et afficher une activité normale voire augmentée in vitro.
+
+Question 4 : Quel traitement est recommandé dans l’immédiat?
+
+
+a) Maintien d’une Hb adéquate par transfusion, supplémentation en acide folique
+
+b) Allogreffe de cellules souches hématopoïétiques
+
+c) Splénectomie
+
+d) Prophylaxie anti-thrombotique
+
+e) Agent activateur de la PK
+
+La prise en charge actuelle consiste en thérapies de support, parmi lesquelles, la transfusion occupe la première place. L’acide folique est un cofacteur nécessaire à la synthèse de l’ADN du GR. En raison du «turnover» accru suite à l’hémolyse chronique une supplémentation est recommandée. L’augmentation du 2,3-diphosphoglycérate (fig. 2), favorise la libération d’O2 dans les tissus modérant les symptômes. L’évaluation des besoins transfusionnels repose davantage sur l’état clinique et les circonstances (p.ex. croissance, infection) plutôt que sur un seuil fixe [3].
+
+L’allogreffe de cellules souches hématopoïétiques est potentiellement curative mais s’associe à une morbidité et mortalité significatives [4]. Elle n’est réservée qu’aux cas les plus graves [5].
+
+La splénectomie est recommandée chez les patients dépendants des transfusions et ne tolérant pas l’anémie. Habituellement totale, elle permet une augmentation du taux de base d’Hb de 10–30 g/l [5] une amélioration de la survie des GR transfusés et, souvent, élimine le besoin en transfusions. Parmi les facteurs de non réponse, citons une bilirubine élevée, des valeurs d’Hb très basses (<70 g/l) et des mutations de type non-sens [3]. Parmi les complications liées au geste citons, en peropératoire, l’hémorragie, l’infectio n du site opératoire, la splénose (auto-transplantation de tissu suite à une rupture de l’organe) et les thromboses (notamment au niveau de l’axe spléno-mésaraïque). A plus long terme, les patients sont exposés à un risque accru de thrombose veineuse profonde et d’embolie pulmonaire ainsi qu’à des infections sévères à germes encapsulés (justifiant une vaccination ciblée). La mortalité associée est très élevée.
+
+Les thromboses font partie des complications de toute hémolyse. Une incidence accrue a été établie pour l’HPN et certaines hémoglobinopathies. Le risque chez les patients avec PKD semble faible. Une prophylaxie anti-thrombotique n’est pas indiquée en prévention primaire.
+
+AG-348 est un activateur allostérique de la PK-R (fig. 2). Administré par voie orale, il augmente l’efficacité catalytique et la stabilité protéique de la plupart des variantes de la PK-R in vitro et in vivo [6].
+
+Question 5: Parmi ces examens, lequel ne fait pas partie du suivi chez un patient transfusion-dépendant?
+
+
+a) Dosage de la ferritine sérique
+
+b) IRM cardiaque
+
+c) Dosage de la vitamine D
+
+d) Dépistage d’une allo-immunisation
+
+e) Ultrason abdominale
+
+Nous avons résumé dans le tableau 1le suivi suggéré par les experts [5]. La surcharge en fer est la complication la plus fréquemment rencontrée. En plus des transfusions, l’hématopoïèse inefficace induit une absorption accrue du fer alimentaire. La mesure de la ferritine sérique est un indice de la quantité de fer stocké dans l’organisme. Néanmoins, de nombreuses pathologies qui ne sont pas corrélées aux variations du fer ­(inflammation, alcoolisme, cytolyse hépatique, syndrome métabolique) peuvent amener à une hyper-ferritinémie. De plus, son taux corrèle mal avec la surcharge au niveau des organes cibles (tels que le cœur, le foie et les glandes endocrines) [7]. Un bilan complet comprend une évaluation de l’axe gonadotrope, thyréotrope, de la glycémie et une mesure de la concentration en fer intrahépatique et intracardiaque par IRM (module T2*). L’introduction d’une chélation s’inspire de l’expérience acquise dans le traitement d’autres anémies chroniques comme la thalassémie [2]. Une chélation sera proposée aux patients avec une ferritine >800–1000 μg/l, une concentration en fer intra-hépatique >3 mg/g et/ou un raccourcissement du T2* myocardique <20 ms [8].
+
+Tabelle 1: Follow-up recommandé chez un patient avec anémie hémolytique chronique et une dépendance aux transfusions.
+Complication	Monitoring	Prise en charge
+Surcharge en fer	Ferritine sérique	Chélation¹
+PancréasSélectivité pour les cellules β	HbA1c
+HypophyseSélectivité pour l’hypophyse antérieure	TSH, FSH, LH
+Articulations	 
+Cœur	IRM cardiaque T2*
+Foie	AST, ALT, GGT, PA, ­bilirubine totaleIRM hépatique
+Splénectomie	 	Vaccinations²
+Lithiases biliaires	US abdominal↓	Cholécystectomie
+Hématopoïèse extra-médullaireDéformations osseuses	Dénsitométrie osseuseDosage Vit. D – Ca2+	Supplémentation
+Hémopathies malignesSMD, LMMC	Formule sanguine ­complèteFrottis	Thérapies ciblées
+Ulcères des membres inférieurs	Dosage Zinc	Supplémentation
+¹ Déférasirox (Jadenu®), Deferoxamini mesilas (Desféral®)² En Suisse on recommande la vaccination contre les pneumocoques (PCV-13®)et les méningocoques (Menveo®). Pour une protection optimale il faut que la vaccination de base soit terminée au moins 2 semaines avant splénectomie. Concernant les pneumocoques un rappel par le PCV-13® n’est pas proposé. Un rappel par le Menveo® est recommandé à intervalle de 5 ans. La vaccination antigrippale est également administrée chaque année puisque celle-ci augmente le risque d’infections invasives à germes encapsulés. * L’indication à réaliser une IRM est posée par les spécialistes. ↓ L’échographie abdominale constitue l’outil diagnostic de choix lors d’un tableau clinique évocateur de colique biliaire. En l’absence de symptômes un dépistage systématique n’est pas indiqué.SMD: syndrome myélodysplasique; LMMC: leucémie myélo-monocytaire chronique
+
+Suite à l’hématopoïèse extramédullaire et aux déficiences hormonales, l’ostéopénie est une autre complication fréquente. Des fractures sont décrites chez 20% des patients [3]. Une carence en vitamine D et en calcium doit être évitée.
+
+Bien que rare (environ 3% de patients), l’allo-immunisation est une complication grave, qui rend plus difficile, voire impossible, la recherche de produits sanguins compatibles [3]. Une allo-immunisation est facilement dépistée par les tests pré-transfusionnels de routine.
+
+Comme pour les autres AH, les lithiases biliaires sont fréquentes (45% des patients) [3]. L’échographie abdominale est l’examen diagnostic de choix. Il n’est recommandé que si le patient présente une clinique évocatrice. A savoir que le risque persiste même après splénectomie. Pour cette raison certains experts proposent une cholécystectomie au moment de la splénectomie même en l’absence de calculs au sein de la vésicule biliaire. Il nous paraît important de souligner que les patients atteints d’un déficit en PK nécessitent une prise en charge spécialisée en collaboration avec le centre de référence d’hématologie.
+
+Une fois le diagnostic de PKD confirmé, nous avons continué le suivi en alternance avec le médecin traitant en visant dans une premier temps à optimiser les seuils de transfusion et la chélation du fer. Le patient s’est vu offrir de participer à ACTIVATE-T, une étude multicentrique de phase III, visant à démontrer l’efficacité de l’AG-348 (Mitapivat) ouverte au Centre hospitalier universitaire vaudois (CHUV) et s’adressant aux patients adultes, sans atteinte d’organe ou ­comorbidité significative, dépendant ou non de transfusions.
+
+Discussion
+
+Le PKD est une maladie congénitale autosomique récessive rare. Sa vraie prévalence étant inconnue, elle est estimée à 51 cas par million en Europe. Néanmoins, elle constitue la cause la plus fréquente d’AH due à un déficit enzymatique. Ses manifestations peuvent être très variables, allant de la dépendance transfusionnelle à une hémolyse chronique peu symptomatique. Les mécanismes physiopathologiques à l’origine de cette grande variabilité sont encore mal connus. Le diagnostic doit être évoqué face à une anémie normocytaire normochrome régénérative, avec un DAT négatif et sans anomalies morphologiques spécifiques au frottis sanguin. La mesure de l’activité enzymatique de la PK constitue le «gold standard»diagnostic, cependant, son interprétation n’est pas facile et dépend, entre autre, du degré de réticulocytose et de l’intervalle depuis la dernière transfusion. La recherche de mutations au niveau du gène PKLR viendra confirmer le diagnostic. Un screening devrait être proposé à la fratrie et aux parents d’un malade. Ces derniers peuvent également faire appel aux test prénatals afin de déterminer si une grossesse ultérieure est affectée. Parmi les complications le plus fréquentes, citons la surcharge en fer, les lithiases biliaires, l’hématopoïèse extramédullaire et l’ostéopénie. Le traitement repose sur la transfusion sanguine, la splénectomie et la chélation du fer. Un activateur pharmacologique de l’activité PK résiduelle est en cours d’investigation, notamment au CHUV.
+
+Réponses:
+
+
+Question 1: e. Question 2: b. Question 3: a. Question 4: a. Question 5: e.
+
+L’annexe est disponible en tant que document ­séparé sur https://doi.org/10.4414/fms.2020.08483.

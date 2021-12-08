@@ -1,0 +1,173 @@
+Description du cas1
+
+Une jeune patiente de 28 ans vous consulte pour un prurit généralisé évoluant depuis plusieurs jours. Elle n’a pas d’antécédent notable, excepté une sinusite au décours traitée par amoxicilline et acide clavulanique. Les paramètres vitaux sont dans les normes, hormis une fréquence cardiaque à 100 battements par minute. Vous notez à l’examen clinique un ictère conjonctival, sans autre anomalie.
+
+Question 1: Quel examen biologique sanguin vous paraît le moins pertinent?
+
+
+a) Formule sanguine complète
+
+b) Tests hépatiques et créatinine
+
+c) Ferritine
+
+d) B-hCG
+
+e) Tryptase
+
+Les étiologies d’un prurit généralisé sont multiples. Elles peuvent être d’origine dermatologique, systémique, neurologique ou psychiatrique (tab. 1). L’anamnèse doit être précisée, notamment pour la prise de médicaments ou de toxiques, les voyages et les relations sexuelles. Il n’y a pas de consensus quant au bilan biologique initial à proposer. Dans le cas présent, et en l’absence de lésion cutanée visible, une formule sanguine complète est effectuée à la recherche d’une éosinophilie ou d’une anémie, les tests hépatiques et la ­bilirubine totale sont dosés à la recherche d’une élévation des transaminases avec ou sans cholestase, la créatinémie est mesurée à la recherche d’une insuffisance rénale, et la ferritine à la recherche d’un déficit en fer. Chez une patiente en âge de procréer une grossesse doit être écartée (pruritus gravidarum avec ou sans cholestase, dermatose gestationnelle).
+
+Tableau 1: Classification IFSI: étiologie du prurit chronique (modifié d’après [1]).
+ 	Exemples de diagnostics
+Cat. I: Pathologies dermatologiques
+Dermatoses inflammatoires	Dermatite atopique, psoriasis
+Dermatoses infectieuses	Piqûres d’insecte, pédiculose
+Dermatoses autoimmunes	Dermatite herpétiforme, pemphigoide ­bulleuse, dermatomyosite
+Génodermatoses	Maladie de Darier, maladie de Hailey-Hailey
+Dermatoses de la grossesse	Eruption polymorphique de la grossesse, pemphigoide gestationnelle, prurit gestationnel
+Néoplasies	Lymphome cutané à cellules T ou à cellules B, leucémie infiltrant la peau
+Cat. II: Pathologies systémiques
+Endocrinologiques et métaboliques	Insuffisance rénale chronique, pathologie hépatique avec ou sans cholestase, ­hyperthyroïdisme
+Infectieuses	HIV, helminthose, parasitose
+Hématologiques et lymphoprolifératives	Déficit ferrique, polycythémia vera
+Néoplasies viscérales	Tumeurs solides du col, de la prostate, ou du colon
+Grossesse	Pruritus gravidarum avec ou sans cholestase
+Induit par des médicaments	Opiacés, IEC, amiodarone, hydrochlorothiazide, œstrogène, simvastatine, allopurinol
+Cat. III: Pathologies neurologiques
+Origine neurogénique
+(sans lésion neuronale)	 
+Neuropathiques (avec lésion neuronale)	Sclérose en plaque, infarctus cérébral ou ­spinale, névralgie post-herpétique
+Cat. IV: Pathologies psychiatriques 
+Somatoforme	Dépression, trouble anxieux, schizophrénie, hallucinations tactiles, fatigue
+Cat. V: Etiologies mixtes
+Cat. VI: Autres	Origine non déterminée
+
+La tryptase est un marqueur de la dégranulation mastocytaire, et est ainsi un marqueur d’anaphylaxie ou mastocytose. Si une réaction médicamenteuse peut être évoquée, elle n’est pas de type anaphylactique, et un dosage de la tryptase n’est ainsi pas recommandé.
+
+Vous effectuez ainsi le bilan biologique, tel que discuté préalablement. Il n’y a pas d’anomalie de la formule sanguine complète, la créatinine est dosée à 49 μmol/l (normes 44–80 μmol/l). Les tests hépatiques sont perturbés avec ASAT 655 U/l (normes 8–32 U/l), ALAT 935 U/l (normes 9–36 U/l), phosphatase alcaline 214 U/l (normes 36–108 U/l) et γ-GT 92 U/l (normes 6–42 U/l). La bilirubine totale est dosée à 97 μmol/l (normes 0–21 μmol/l), la directe à 93 μmol/l (normes 0–10 μmol/l). Le dosage de la β-hCG est négatif (<1 U/l). La ferritine est à 200 μg/l (normes 30–300 μg/l).
+
+Question 2: A ce stade de la prise en charge, quel examen vous semble le moins pertinent?
+
+
+a) Anamnèse ciblée sur la prise de toxiques et/ou médicaments
+
+b) Sérologies pour les hépatites virales
+
+c) Dosage TSH
+
+d) Dépistage d’une hépatite autoimmune
+
+e) Cholangio-IRM
+
+Une hépatite d’origine médicamenteuse peut être due à une toxicité directe, ou idiosyncrasique. Elle doit être soigneusement recherchée, et toujours suspectée. Ici, vous retenez une exposition récente à l’amoxicilline et acide clavulanique. C’est notamment l’évolution biologique à l’arrêt du médicament incriminé qui permettra de conforter ou non ce diagnostic. Le status vaccinal pour les hépatites A et B, les voyages effectués, les habitus alimentaires et pratiques sexuelles doivent être précisés. Sous nos latitudes, il est recommandé un dépistage sérologique pour les hépatites A, B, C, D (si HBV positif), E (couplé à une PCR sanguine pour l’hépatite E), CMV, EBV et HIV. Une hépatite autoimmune peut se manifester par une hépatite aiguë. Pour ses conséquences thérapeutiques, elle doit être évoquée, et recherchée notamment par le bilan immunologique en dosant dans un premier temps les IgG totaux, les anticorps anti-nucléaires, anti-muscle lisse et anti-actine.
+
+Une dysthyroïdie peut être associée à une perturbation des tests hépatiques. Un dosage de la TSH est donc recommandé.
+
+Une élévation importante et nettement prédominante de la bilirubine directe est en faveur d’une obstruction dite post-hépatique. Malgré l’absence de facteurs de risque tels que l’ethnie, l’âge, le surpoids, la prise de médicaments favorisants, et l’absence de douleurs lithiasiques, un ultrason abdominal doit être effectué. Il permettra non seulement d’évaluer la structure du foie mais également la vascularisation, à la recherche notamment d’une thrombose de la veine porte ou des veines hépatiques. La cholangio-IRM est un outil diagnostic important pour l’évaluation des voies pancréatico-biliaires et caractérisation des masses hépatiques. Pour des questions de coût et disponibilité, il est proposé en seconde intention, si l’ultrason n’est pas conclusif. Ainsi, un ultrason abdominal est préféré à une cholangio-IRM en première intention.
+
+Par conséquent, vous complétez le bilan biologique par des sérologies pour les hépatites virales A, B, C et E, HIV et CMV qui reviennent négatives. Le bilan auto-­immun est positif pour la recherche d’anti-nucléaires à 1/640 d’aspect moucheté et anti-muscle lisse à 1/80. L’anti-actine est à 15 U (<20 U). Les IgG totaux sont ­élevés à 15,90 g/l (normes 7,0–14,5 g/l). La TSH est indosable, et les dosages des T3 et T4 libres sont demandés en complément (cf infra). Vous organisez un ultrason abdominal, sans anomalie structurelle ou vasculaire visualisable. Afin de préciser le diagnostic, vous adressez la patiente à un confrère hépatologue. A la lumière des examens déjà effectués, il agende une biopsie hépatique transjugulaire. L’examen anatomopathologique met en évidence un aspect d’hépatite chronique sévère avec un infiltrat à prédominance lympho-plasmocytaire portal débordant au sein des lobules, correspondant à une hépatite de l’interface avec de la nécrose en pont, quelques rosettes hépatocytaires et des images d’empéripolèse (fig. 1).
+
+Figure 1: Lésions histologiques observées dans la biopsie hépatique. La biopsie hépatique montre les aspects histologiques ­typiques d’une hépatite autoimmune:A: à la ­coloration standard (Hématoxyline-éosine) hépatite de l’interface sévère avec ponts nécrotico-inflammatoires, formations de rosettes hépatocytaires (encart, dans le cercle) et empéripolèse diffuse (encart, flèches). Grossissement: ×10 et ×40.B: à la coloration au Trichrome de Masson il existe des dépôts de collagène débutants. ­Grossissement: x10.
+
+Question 3: Au vu des résultats à disposition, quels diagnostics retenez-vous?
+
+
+a) Cholangite biliaire primitive
+
+b) Hépatite autoimmune de type 1
+
+c) Hépatite autoimmune de type 2
+
+d) Cholangite sclérosante primitive
+
+e) Hépatite lupique
+
+L’hépatite autoimmune est une maladie inflammatoire chronique du foie d’origine autoimmune. C’est une maladie rare, touchant toutes les ethnies et classes d’âge, mais préférentiellement les sujets de sexe féminin. L’évolution est le plus souvent indolente, mais elle peut également se manifester par une hépatite aiguë avec dysfonction hépatocellulaire ou par un tableau de cirrhose. C’est la constellation biologique, immunologique et anatomopathologique qui permet de poser le diagnostic: si une hypergammaglobulinémie est très fréquemment associée à l’ensemble des hépatites autoimmunes, la type 1 est associée avec des anticorps anti-nucléaires ou anti-muscle lisse, celle de type 2, moins fréquente, est associée aux anticorps anti-LKM-1 ou anti cytosol hépatique dit de type 1, et celle de type 3, encore plus rare, est associée à des anticorps ­anti-SLA/LP et anti-Ro52. L’examen anatomopatho­logique est typique s’il met en évidence une hépatite de l’interface sévère avec nécrose en pont, des rosettes hépatocytaires (c’est-à-dire des hépatocytes organisés en structures arrondies autour d’une lumière optiquement vide) et un phénomène d’empéripolèse (ce qui signifie la présence de lymphocytes dans le cytoplasme des hépatocytes).
+
+Quoique les pathologies soient distinctes, certains patients atteints d’une hépatite autoimmune présentent des caractéristiques de cholangite biliaire primitive ou de cholangite sclérosante primitive (syndrome de ­chevauchement) posant un problème diagnostic. Des investigations supplémentaires sont alors nécessaires avec un dosage des anticorps anti-mitochondries et des IgM totaux, une cholangiographie ou une cholangio-IRM, et une biopsie hépatique.
+
+Jusqu’à 60% des patients atteints d’un lupus présentent une perturbation des tests hépatiques, le plus souvent sans relevance clinique. Les causes sont multiples, et le praticien doit rester vigilent, pour notamment ne pas méconsidérer une cause vasculaire, ou une maladie virale associée.
+
+Le tableau clinique, biologique et anatomopathologique est ici suggestif d’une hépatite autoimmune de type 1 (tab. 2 et 3).
+
+Tableau 2: Critères diagnostiques simplifiées pour l’hépatite autoimmune (reproduit de [2]: European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Autoimmune hepatitis. J Hepatol. 2015;63(4):971–1004, © 2017, avec l’aimable permission de Elsevier, http://www.sciencedirect.com/science/journal/01688278?sdc=1; et de [5]: Hennes EM, Zeniya M, Czaja AJ, Parés A, Dalekos GN, Krawitt EL, et al. Simplified criteriafor the diagnosis of autoimmune hepatitis. Hepatology. 2008;48(1):169–76, avec l’aimable permission de John Wiley & Sons).
+Paramètre	Valeur	Score
+ANA ou SMA +	≥1:40	+ 1
+ANA ou SMA +	≥1:80	+ 2
+LKM	≥1:40	+ 2
+SLA/LP+	N’importe quel titre	+ 2
+IgG	> valeur supérieure de la norme	+ 1
+> 1,1 × valeur supérieure de la norme	+ 2
+Histologie ­hépatique	Compatible	+ 1
+Typique	+ 2
+Atypique	+ 0
+Absence d’hé­patite virale	Non	+ 0
+Oui	+ 2
+Hépatite autoimmune si ≥7 points; Hépatite autoimmune probable si ≥6 points; sensibilité de 95% et specificité de 90%.ANA = anticorps antinucléaire; SMA = anticorps anti-muscle lisse; LKM = anticorps anti-microsome hépatique-rénal; SLA = anticorps anti-antigène soluble du foie; LP = anticorps anti-foie-pancréas.
+Tableau 3: Caractéristiques des hépatites autoimmunes (modifié d’après [3]).
+ 	Hépatite autoimmune type 1(90% de cas)	Hépatite autoimmune type 2(10% de cas)
+Caractéristiques des ­auto-anticorps	ANA, SMA or anti-SLA/LP; association avec HLA-DR3, -DR4 et -DR13	Anti-LKM1, anti-LC, rarement anti-LKM3; ­association avec HLA-DR3 et -DR7
+Répartition géographique	Mondiale	Mondiale
+Age de présentation	Tout âge (distribution bimodale habituellement avec 1er pic lors de l’adolescence et 2e lors de la 4e–6e décennie)	Habituellement enfants et jeunes adultes
+Ratio femme-homme	3:1	1:1
+Phénotype clinique	Variable	Généralement sévère
+Aspect histologique	Sévérité histopathologique variable	Généralement atteinte histologique avancée
+Traitement 1eligne	Predniso(lo)ne 0,5–1 mg/kg/j et rajout d’azathioprine 1–2 mg/kg/j en traitement de maintien	Predniso(lo)ne 0,5–1 mg/kg/j et rajout d’azathioprine 1–2 mg/kg/j en traitement de maintien
+Traitement et risque de ­récidive	En général bonne réponse au traitement ­d’induction. Risque de récidive après arrêt du traitement	Echec de traitement fréquent
+Nécessité d’un traitement d’entretien à long-terme	Variable	100%
+ANA = anticorps antinucléaire; SMA = anticorps anti-muscle lisse; anti-SLA/LP = anticorps anti-antigène soluble du foie/anti-foie-pancéras; LKM = ­anticorps anti-microsome hépatique-rénal; anti-LC = anticorps anti-cytosol hépatique.
+
+Le complément de bilan thyroïdien vous revient: la thyroxine libre (T4) est à 60 pmol/l (normes 12–22 pmol/l) et la triiodothyronine libre (T3) à 16,9 pmol/l (normes 3,1–6,8 pmol/l). A l’anamnèse orientée, votre patiente rapporte une nervosité, une insomnie, une intolérance au chaud et des palpitations occasionnelles. Vous complétez le bilan biologique par un dosage des anticorps anti-thyroïdiens qui sont fortement positifs avec des anticorps anti-récepteur de la TSH à 11,7 U/l (normes <1,75 U/l) des anticorps anti-thyroperoxydase à 439,2 kU/l (normes <43 kU/l) et des anticorps anti-thyroglobuline à 346 kU/l (normes <33 kU/l). Un ultrason thyroïdien met en évidence une hypervascularisation des deux lobes thyroïdiens sans nodule visualisé.
+
+Question 4: Vous retenez ainsi une maladie de Basedow. Chez votre patiente, quel traitement vous semble le moins indiqué?
+
+
+a) Propranolol
+
+b) Antithyroïdien de synthèse (carbimazol ou propylthiouracile)
+
+c) Lorazépam
+
+d) Cholestyramine
+
+e) Prednisone
+
+Les anti-thyroïdiens de synthèse, tels de que les methimazol et propylthiouracile, sont habituellement proposés en première intention pour leur in­hibition directe sur la synthèse d’hormone thyroïdienne et la conversion de thyroxine (T4) en triiodothyronine (T3). Ils sont néanmoins contre-indiqués en cas de perturbation sévère des tests hépatiques. Il est ici préférable de surseoir à ce traitement jusqu’à l’amélioration significative des tests hépatiques. Les deux autres options thérapeutiques sont l’iode radiomarqué et la chirurgie, mais habituellement préférées en l’absence de réponse satisfaisante aux anti-thyroïdiens.
+
+Les β-bloquants, par leur effet antagoniste adrénergique, sont utilisés pour réduire les symptômes sympatiques (tremor, tachycardie, sudation). A haute dose, ils ont également une action inhibitrice sur la conversion tissulaire de thyroxine en triiodothyronine. Le traitement symptomatique d’une maladie de Basedow comprend également les benzodiazépines tels que le lorazépam, d’élimination essentiellement rénale. Quant à la cholestyramine, elle est habituellement utilisée dans le traitement du prurit d’origine cholestatique, en augmentant l’élimination des acides biliaires par les selles en formant des complexes insolubles dans le tube digestif. Mais elle permet également une augmentation de l’élimination de la triiodothyronine par des mécanismes similaires.
+
+Les corticoïdes diminuent la conversion de la thyroxine en triiodothyronine, permettant une rapide ­réduction de la triiodothyronine sérique. Ils ne sont pas proposés en dehors de manifestations sévères ou ­préparations opératoires, pour leurs effets secondaires à court et long terme. Néanmoins, votre patiente présente déjà une indication indépendante à un traitement immunosuppresseur, avec un bénéfice potentiel indirect sur le contrôle de l’hyperthyroïdie.
+
+Selon discussion pluridisciplinaire avec vos collègues endocrinologues et hépatologues, vous décidez d’initier un traitement de corticostéroïdes en sus d’un traitement symptomatique pour l’hyperthyroïdie. Le traitement par anti-thyroïdien de synthèse sera introduit dans un deuxième temps, après amélioration des tests hépatiques.
+
+Question 5: A l’annonce du diagnostic d’hépatite autoimmune, votre patiente s’est renseignée sur internet. Elle vous interroge sur la véracité des différentes informations lues sur les forums. Laquelle de ces affirmations n’est pas correcte?
+
+
+a) Le traitement permet une rémission.
+
+b) Il faut craindre des rechutes.
+
+c) L’hépatite autoimmune est fréquemment associée à d’autre maladie autoimmune.
+
+d) Lorsque l’hépatite autoimmune est diagnostiquée au stade de cirrhose, le risque de carcinome hépatocellulaire est augmenté.
+
+e) En l’absence de symptômes, il n’y a pas d’indication à un traitement.
+
+Le traitement d’une hépatite autoimmune doit être ­initié précocément pour prévenir les complications telles que le développement d’une cirrhose et les récurrences. Il consiste en première ligne à un traitement de corticoïdes et azathioprine, avec un taux de rémission de 85%. L’évolution peut être marquée par des rechutes, en particulier pour les hépatites autoimmunes de type 2 ou 3 (table 3). Un traitement d’entretien par azathioprine est indiqué.
+
+Quelle que soit la cause, une cirrhose, est associée à un risque de carcinome hépatocellulaire. Un suivi de dépistage est alors proposé.
+
+La présence d’une autre maladie autoimmune est observée chez près de ¼ des patients atteints d’une hépatite autoimmune, telles les dysthyroïdies, maladies inflammatoires du tube digestif ou diabète de type I. Cette notion est par ailleurs intégrée dans certains scores diagnostiques d’hépatite autoimmune.
+
+L’évolution clinique et biologique de votre patiente est favorable sous traitement de corticoïdes. Vous observez une normalisation de ses tests hépatiques ainsi que de l’hyperbilirubinémie à 1 mois, permettant l’introduction séquentielle d’azathioprine, puis de carbimazol.
+
+Discussion
+
+L’hépatite autoimmune est une maladie rare (prévalence de 42,9 pour 100 000), avec 2 pics d’incidence à l’enfance-adolescence, et entre 40 et 60 ans. Il est important d’évoquer ce diagnostic dans le contexte d’une perturbation des tests hépatiques, en raison de son ­implication thérapeutique. Si la maladie est associée à des anticorps non spécifiques, la physiopathologie reste incertaine à ce jour. La présentation clinique étant variable, c’est la constellation d’auto-anticorps et l’examen histologique qui permettent de poser le ­diagnostic et de préciser le type d’hépatite auto­immune. L’évolution est habituellement favorable sous immunosuppresseur, mais le traitement est souvent prolongé, notamment en cas d’hépatite autoimmune de type 2 et 3.
+
+Prêt de 25% des patients avec une hépatite autoimmune présentent une autre maladie immune médiée, et doit amener à la vigilance du praticien.
+
+Réponses:
+
+
+Question 1: e. Question 2: e. Question 3: b. Question 4: b. ­Question 5: e.

@@ -1,0 +1,117 @@
+Présentation du cas
+
+Un patient obèse (IMC 36,4 kg/m2) de 72 ans nous a été adressé en raison d’une dyspnée d’effort progressive et d’une toux depuis douze mois. Initialement, plusieurs épisodes de dyspnée d’intensité maximale et d’accès de toux étaient survenus. Face à une suspicion d’exacerbations d’une bronchopneumopathie chronique obstructive (BPCO), des corticostéroïdes à dose d’attaque et parfois aussi des antibiotiques ont été administrés de façon répétée. Ce traitement a le plus souvent entraîné une amélioration transitoire des symptômes. A l’exception d’une néphrolithiase survenue dans le passé, l’anamnèse personnelle du patient était vierge. Le patient avait arrêté de fumer il y a six ans (consommation cumulée de cigarettes de cinq à dix paquets-­années). Au cours des dernières semaines, la dyspnée avait à nouveau considérablement augmenté; même des efforts physiques minimes entraînaient une détresse respiratoire et le patient avait du mal à s’allonger.
+
+Question 1: Lequel de ces diagnostics différentiels est le moins probable sur la base des informations connues jusqu’à présent?
+
+
+a) Asthme bronchique
+
+b) Insuffisance cardiaque
+
+c) Maladie neuromusculaire
+
+d) BPCO
+
+e) Sténose des voies respiratoires
+
+L’anamnèse est globalement bien compatible avec un asthme bronchique. Il n’est pas rare que le diagnostic initial soit posé à un âge avancé («late-onset»). La réponse au traitement d’attaque par corticostéroïdes serait bien compatible avec ce diagnostic.
+
+La dyspnée progressive et l’orthopnée sont également des symptômes cardinaux d’une insuffisance cardiaque ou d’une faiblesse diaphragmatique, par exemple dans le cadre d’une maladie neuromusculaire. Les décompensations cardiaques peuvent occasionner une toux; de même, les maladies neuromusculaires peuvent parfois provoquer des aspirations et une toux suite à des troubles de la déglutition, mais également une dyspnée importante en position allongée.
+
+Une BPCO est plutôt improbable, notamment en raison de la dynamique des symptômes avec une absence complète de symptômes jusqu’à il y a un an et désormais une évolution rapidement progressive en l’espace de douze mois. De plus, face à une telle intensité de la dyspnée, il devrait s’agir d’une BPCO avancée, ce qui n’est pas compatible avec la faible consommation ­cumulée de cigarettes du patient. Un déficit en alpha-1 antitrypsine avec un emphysème pulmonaire disproportionné serait concevable. Une première manifestation à cet âge, plusieurs années après le sevrage tabagique, serait néanmoins très inhabituelle.
+
+Une sténose des voies respiratoires, par exemple suite à une compression extrinsèque de la trachée, doit entrer en ligne de compte dans le diagnostic différentiel. A la fois une aggravation de la dyspnée sous l’effet de la pesanteur en position allongée et un effet décongestionnant exercé par les corticostéroïdes pourraient être interprétés dans ce cadre.
+
+Sur le plan clinique, le patient était stable sur le plan hémodynamique et compensé sur le plan cardiaque, avec une oxygénation suffisante. A l’auscultation, des sibilances expiratoires étaient perceptibles au niveau des champs pulmonaires apicaux. Les analyses de laboratoire de routine (créatinine, électrolytes, protéine C réactive [CRP] et hémogramme) n’ont pas révélé d’anomalies concluantes; le «brain natriuretic peptide» [BNP] et la gazométrie artérielle étaient également sans particularités.
+
+Question 2: Quel examen complémentaire réalisez-vous à présent?
+
+
+a) Spirométrie avant et après bronchodilatation
+
+b) Tomodensitométrie (TDM) thoracique
+
+c) Echocardiographie
+
+d) Test de provocation bronchique à la méthacholine
+
+e) Examen de la déglutition
+
+La réalisation d’une spirométrie avant et après bronchodilatation s’avère très utile pour mieux catégoriser les symptômes. Cet examen permet de déceler un asthme bronchique et une BPCO et, sur la base de la forme de la courbe débit-volume, une sténose des voies respiratoires peut également être identifiée. Si la spirométrie est en outre réalisée en position allongée, une diminution de la capacité vitale forcée (CVF) de <20% par rapport à la position assise permet également d’exclure une parésie diaphragmatique pertinente. Une TDM thoracique pourrait être judicieuse dans le cadre des investigations approfondies, mais compte-tenu de l’anomalie obstructive décelée à l’auscultation pulmonaire, il ne s’agit pas de la première étape diagnostique. Une cause cardiaque des symptômes est improbable chez ce patient compensé sur le plan cardiaque avec un BNP normal. Un test de provocation bronchique à la méthacholine négatif rend un asthme bronchique improbable. Un examen de la déglutition est recommandé en présence d’indices évocateurs d’une maladie neuromusculaire ou en cas d’aspirations répétées.
+
+Question 3: Comment interprétez-vous la courbe ­débit-­volume du patient sur la figure 1?
+
+
+a) Dysfonction des cordes vocales
+
+b) BPCO
+
+c) Sténose des voies respiratoires intrathoraciques variable
+
+d) Sténose des voies respiratoires extrathoraciques variable
+
+e) Sténose des voies respiratoires fixée
+
+Figure 1: Courbe débit-volume avant (ligne bleue) et après (ligne rouge) la bronchodilatation. L’axe vertical correspond au débit (l/s) et l’axe horizontal correspond au volume.
+
+En cas de dysfonction des cordes vocales, l’adduction inspiratoire des cordes vocales entraîne un aplatissement de la courbe débit-volume inspiratoire. La courbe débit-volume expiratoire en cas de BPCO n’est habituellement pas aussi aplatie, mais elle présente un «peak flow» plus élevé et une allure concave, parfois avec une «cassure» typique de l’emphysème en tant que signe d’un collapsus bronchique. Etant donné qu’il y a un net aplatissement de la courbe débit-volume ­expiratoire avec une inspiration normale, il s’agit ici d’une sténose des voies respiratoires intrathoraciques variable. Dans ce cas de figure, il se produit lors de ­l’expiration un rétrécissement des voies respiratoires ­intrathoraciques par rétraction des poumons et du thorax et ainsi un renforcement de la sténose des voies respiratoires. En revanche, en cas de sténose des voies respiratoires au niveau extrathoracique, un rétrécissement se produirait lors de l’inspiration sous l’effet de la pression négative régnant dans les voies respiratoires par rapport à l’environnement (fig. 2). Une sténose des voies respiratoires fixée entraîne une restriction du ­débit inspiratoire et expiratoire (fig. 3A–3D). A la spirométrie, on observe en plus sur la courbe inspiratoire un aspect en dents de scie («saw-tooth sign»), qui est l’expression d’un écoulement d’air turbulent (fig. 1). Ce signe a été initialement décrit chez les patients avec apnée obstructive du sommeil et il était autrefois considéré comme un marqueur de rétrécissement des voies respiratoires extrathoraciques. Entre-temps, il a toutefois été montré dans diverses études de cas que cet aspect de courbe pouvait, comme dans notre cas, également s’observer en cas de sténose intrathoracique des voies respiratoires.
+
+Figure 2: Représentation schématique d’une sténose des voies respiratoires au niveau extrathoracique et intrathoracique durant l’expiration et durant l’inspiration.
+
+Figure 3: A ) Courbe débit-volume normale.B ) Sténose des voies respiratoires extrathoraciques variable.C ) Sténose des voies respiratoires intrathoraciques variable.D ) Sténose des voies respiratoires fixée.
+
+Sur la base des caractéristiques de la courbe débit-­volume de notre patient, il est possible sur le plan anatomique de localiser la sténose des voies respiratoires dans la région intrathoracique. Il s’agit alors le plus souvent d’une sténose trachéale.
+
+Question 4: Laquelle des maladies suivantes ne provoque ­habituellement pas de sténose trachéale?
+
+
+a) Granulomatose avec polyangéite (GPA)
+
+b) Polychondrite récidivante
+
+c) Processus expansif malin
+
+d) Aspiration d’un corps étranger
+
+e) Granulomatose éosinophilique avec polyangéite (GEPA)
+
+En cas de GPA, une atteinte trachéo-bronchique peut se produire, prenant alors le plus souvent la forme d’une sténose sous-glottique. La polychondrite récidivante est une maladie inflammatoire rare avec atteinte et destruction du cartilage. L’atteinte laryngo-trachéo-bronchique est l’une des formes de manifestation les plus fréquentes parmi les nombreuses possibles et elle peut mettre en jeu le pronostic vital. Les processus expansifs malins et les aspirations de corps étrangers font partie des causes les plus fréquentes d’une sténose trachéale. De même, les sténoses trachéales ont souvent une origine cicatricielle, par exemple suite à une in­tubation de longue durée ou à une trachéotomie. En ­revanche, une GEPA ne provoque habituellement pas de sténose trachéale. Les symptômes cliniques prédominants sont l’asthme et la rhinite, et la principale anomalie est l’éosinophilie.
+
+Question 5: Quel examen complémentaire réalisez-vous?
+
+
+a) Radiographie thoracique
+
+b) Echographie des tissus mous du cou et du médiastin
+
+c) TDM thoracique avec produit de contraste
+
+d) TDM thoracique sans produit de contraste
+
+e) Bronchoscopie
+
+La radiographie conventionnelle du thorax est une modalité rapidement disponible et elle peut être utile pour obtenir un premier aperçu. Dans le cas de notre patient, cet examen montre un processus expansif dans le médiastin supérieur (fig. 4). Afin de pouvoir évaluer l’ampleur de la sténose trachéale, une radiographie thoracique n’est toutefois pas suffisante. L’échographie se prête bien pour visualiser les tissus mous du cou et la thyroïde, mais elle ne permet que difficilement de visualiser le médiastin, et uniquement sa partie crâniale. La modalité d’imagerie de choix est la TDM thoracique (fig. 5). Il s’agit de la modalité d’imagerie la plus adaptée pour visualiser le médiastin et les voies respiratoires centrales. L’examen est généralement réalisé avec du produit de contraste afin de mieux visualiser les ganglions lymphatiques et les processus expansifs. En raison de la possibilité d’un cancer de la thyroïde ou d’un nodule autonome, il convient de ne pas employer de produit de contraste iodé. En effet, l’utilisation d’un produit de contraste iodé peut d’une part déclencher une hyperthyroïdie ou une crise thyréotoxique et d’autre part la possibilité de mettre en œuvre un traitement par iode radioactif en cas de cancer de la thyroïde s’en trouve retardée. Avant de ­réaliser une bronchoscopie, un examen d’imagerie ­devrait être pratiqué.
+
+Les processus expansifs dans le médiastin supérieur sont le plus souvent des thymomes, des lymphomes, des tumeurs germinales ou des processus expansifs émanant de la thyroïde. Dans le cadre du processus diagnostique, une ponction à l’aiguille fine, soit par voie percutanée soit par voie bronchoscopique au moyen d’une échoendoscopie bronchique (EBUS), représente généralement l’étape suivante. La bronchoscopie est aussi particulièrement utile pour l’évaluation endoluminale de la sténose des voies respiratoires. En raison de la sténose trachéale de haut grade chez notre patient, nous avons toutefois décidé de ne pas réaliser de bronchoscopie sous sédation, car face à une sténose des voies respiratoires aussi prononcée, la lumière ré­siduelle pourrait se fermer en position allongée. Le ­patient a été transféré dans un centre pour y faire l’objet d’une hémithyroïdectomie directe sous intubation à fibre optique avec «extracorporeal membrane oxygenation» (ECMO) en réserve. L’examen histologique a ­révélé un goitre uninodulaire non malin.
+
+Figure 4: La radiographie thoracique (en position debout) montre un processus expansif dans le médiastin supérieur.
+
+Figure 5: Tomodensitométrie thoracique montrant un processus expansif dans le médiastin supérieur qui émane du lobe gauche de la thyroïde, avec une compression extrinsèque de la trachée.
+
+Discussion
+
+Les points clés pertinents pour la pratique suivants peuvent être retenus du cas présenté:
+
+– Tous les «wheezings» ou bruits respiratoires obstructifs ne sont pas dus à un asthme ou à une BPCO. Une spirométrie simple, qui peut être réalisée dans chaque cabinet, permet d’exclure ces diagnostics différentiels, comme dans notre cas, et elle doit donner lieu à des réflexions plus approfondies.
+
+– En présence d’une sténose des voies respiratoires, une simple réflexion d’ordre mécanique permet de déterminer si la localisation de la sténose est intrathoracique ou extrathoracique.
+
+– En cas de suspicion d’un processus expansif dans le médiastin supérieur, l’utilisation d’un produit de contraste iodé doit être soigneusement évaluée afin de ne pas compromettre le diagnostic ou le traitement de maladies thyroïdiennes.
+
+– Les processus expansifs volumineux dans le médiastin sont associés à un risque anesthésique accru et une évaluation minutieuse du procédé d’anesthésie adapté est dès lors requise. La sédation, la relaxation et le positionnement du patient peuvent conduire à un collapsus des voies respiratoires inférieures et ainsi compliquer ou rendre impossible une intubation et une ventilation artificielle.
+
+Réponses:
+
+
+Question 1: d; Question 2: a; Question 3: c; Question 4: ­e; ­Question 5: d.

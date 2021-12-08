@@ -1,0 +1,101 @@
+Contexte
+
+La polyglobulie n’est pas uniquement un effet indésirable typique du traitement supraphysiologique de testostérone, mais survient également assez fréquemment lors du traitement de substitution physiologique. La polyglobulie en cas d’abus de stéroïdes androgènes anabolisants (SAA) est moins connue, mais tout aussi pertinente sur le plan clinique. Non seulement parmi les bodybuilders professionnels, mais également de plus en plus souvent chez les amateurs ambitieux, les SAA sont souvent pris en association avec d’autres substances. Selon Antidoping Suisse, les SAA sont les troisièmes substances illégales les plus souvent consommées outre les médicaments contre l’impuissance et des produits amincissants.
+
+Présentation du cas
+Anamnèse
+
+Un homme âgé de 55 ans a été adressé en urgence par le médecin de famille pour un examen diagnostique approfondi en raison de céphalées persistantes depuis trois semaines, d’une faiblesse générale, d’un manque d’entrain ainsi que de malaises répétés sans perte de connaissance.
+
+Statut et résultats
+
+Au moment de l’admission, le patient était apyrétique, en état de décompensation cardio-respiratoire avec des valeurs tensionnelles hypertensives (169/102 mm Hg) et présentait une apparence musculeuse impressionnante pour un indice de masse corporelle (IMC) de 33,2 kg/m2. L’examen de la peau a révélé plusieurs lésions acnéiques nettement saillantes sur le haut du dos et au niveau des épaules, une cicatrice de sternotomie et des rétractions capitonnées sur les deux mamelons.
+
+Les analyses de laboratoire ont révélé un taux d’hémoglobine de 210 g/l, un hématocrite de 0,59 ainsi qu’une insuffisance rénale avec un DGFe de 52 ml/min (tab. 1).
+
+Tableau 1: Résultats de laboratoire pathologiques à l’admission.
+Paramètre de laboratoire	Résultat	Valeur normale
+Paramètre de laboratoire	0,597	0,40–0,54
+Hématocrite	210 g/l	140–180 g/l
+Erythrocytes	6,7 T/l	4,6–6,4 T/l
+Thrombocytes	122 G/l	150–300 G/l
+Urée	8,5 mmol/l	2–8 mmol/l
+Créatinine	132 µmol/l	<115 µmol/l
+DFGe (CKD-EPI)	52 ml/min	93 ml/min
+(50–59 ans)
+Cholestérol total	4,6 mmol/l	<5,0 mmol/l
+Triglycérides	3,4 mmol/l	<1,7 mmol/l
+Cholestérol LDL	2,7 mmol/l (en dessous de 40 mg ­atorvastatine)	2,6 mmol/l
+Cholestérol HDL	1,0 mmol/l	>1,0 mmol/l
+FSH	1,82 U/l	1–9 U/l
+LH	0,25 U/l	1–9 U/l
+Testostérone libre	17,1 pmol/l	31–142 pmol/l
+Valeurs de référence du Centre de médecine de laboratoire (Zentrum für Labormedizin [ZLM]), hôpital cantonal de Saint-Gall.
+
+La gazométrie artérielle n’a donné aucune indication d’hypoxémie. L’anamnèse personnelle du patient a révélé une maladie coronarienne avec double pontage aortocoronarien réalisé il y a quatre ans en présence de sténoses du tronc commun et du rameau interventriculaire antérieur (RIVA). Rétrospectivement, une polyglobulie était déjà observable à ce moment, avec un taux d’hémoglobine de 208 g/l et un hématocrite de 0,61.
+
+La détermination du taux d’érythropoïétine réalisée par le médecin de famille avant l’entrée à l’hôpital se trouvait dans la norme; en l’absence de preuve d’une mutation au niveau du gène JAK2, rien n’indiquait une Polycythaemia vera.
+
+Au vu de la morphologie musclée et du bodybuilding, un abus d’anabolisants était suspecté. Interrogé à ce sujet, le patient a confirmé s’être injecté hebdomadairement 2 × 200 mg de propionate de testostérone par voie intramusculaire en observant un intervalle de trois jours entre les deux injections, jusqu’à il y a un mois. Il a déclaré avoir réalisé ces injections en vue de la préparation d’une compétition, afin d’augmenter sa performance et développer sa masse musculaire. L’effet de cette préparation dépôt est comparable à celui de l’énanthate de testostérone, autorisé en Suisse. Ainsi, en l’absence d’indication d’une autre étiologie – particulièrement en l’absence d’indices d’hypoxémie chronique, de tumeur maligne ou de Polycythaemia vera – le diagnostic d’une polyglobulie due à l’utilisation répétée de SAA a été établi. D’autres signes biochimiques du précédent abus d’anabolisants incluaient un faible taux d’hormone folliculo-stimulante (FSH) de 1,82 U/l et un taux réduit d’hormone lutéinisante (LH) de 0,25 U/l pour un taux de testostérone libre pathologiquement faible avec 17,1 pmol/l (tab. 1).
+
+Traitement
+
+Afin d’empêcher une complication thromboembolique, une saignée a été réalisée à trois reprises (à chaque fois 450 ml avec substitution de liquide) et un traitement antithrombotique prophylactique à base d’héparine de bas poids moléculaire a été initié. Au bout de six jours, le patient a pu retourner à son domicile avec un taux d’hémoglobine de 192 g/l et exempt de symptômes. Les effets indésirables de l’abus de SAA ont été discutés en détail avec le patient.
+
+Discussion
+
+La polyglobulie est définie comme une augmentation des globules rouges avec hausse de l’hématocrite et/ou de l’hémoglobine au-dessus des valeurs normales spécifiques au sexe (hématocrite à 0,52 et hémoglobine à 185 g/l chez l’homme, et respectivement à 0,48 et/ou à165 g/l chez la femme) [1]. En fonction de l’étiologie, la polyglobulie est classée selon les formes primaire, secondaire et combinée. La polyglobulie relative dans le cadre d’un volume plasmatique réduit, également appelée pseudo-polyglobulie, constitue une forme exceptionnelle. Les causes fréquentes d’une polyglobulie sont l’hypoxie chronique (tabagisme, hypoxémie d’origine pulmonaire ou cardiaque y compris syndrome d’apnée du sommeil), les médicaments (érythropoïétine, testostérone ou SAA, diurétiques) ou, plus rarement, une Polycythaemia vera ou des néoplasies productrices d’érythropoïétine (carcinome à cellules rénales, carcinome hépatocellulaire, hémangioblastome et autres) (fig. 1) [1].
+
+Figure 1: Algorithme diagnostique et causes les plus fréquentes de polyglobulie.
+* La masse érythrocytaire est calculée automatiquement; elle correspond au nombre d’érythrocytes par microlitre (valeur de référence: 4,6–6,4 T/l).
+
+Indépendamment de l’étiologie sous-jacente, les symptômes suivants peuvent se manifester en raison de l’hyperviscosité résultante: fatigue, céphalées, troubles visuels jusqu’à perte temporaire de la vision, myalgies, faiblesse, paresthésies ainsi qu’un ralentissement mental comme signe d’un approvisionnement en oxygène limité du système nerveux central. Dans les cas extrêmes des complications thromboemboliques présentant le tableau clinique d’un accident ischémique transitoire ou d’un accident vasculaire cérébral (AVC) peuvent survenir (tab. 2).
+
+Tableau 2: Effets indésirables les plus fréquents de l’abus de testostérone et de (SAA).
+Système cardiovasculaire	Risque accru de maladie coronarienne, mort cardiaque subite et accident vasculaire cérébral
+Cardiomyopathie
+Dyslipidémie (HDL-C ↓↓, LDL-C ↑)
+Hypertension artérielle
+Polyglobulie
+Système hormonal	Atrophie testiculaire et troubles de la spermiogenèse
+Dysfonction érectile
+Gynécomastie
+Acné
+Virilisation chez les femmes
+Hyperplasie de la prostate, éventuellement risque accru de cancer de la prostate
+Foie	Stéatose hépatique et tumeurs hépatiques (17-alpha-alkylés)
+Troubles neuro­psychiques	Dépression et, après arrêt, manque d’entrain et apathie, ­fluctuations de l’humeur
+Agressivité accrue
+Musculo-squelettique	Rupture de tendon
+Adapté selon [6].
+
+Le tableau clinique, les résultats d’analyses et avant tout les déclarations du patient ont été déterminants pour le diagnostic d’une polyglobulie induite par SAA. Il n’existait aucun indice de causes alternatives de la polyglobulie.
+
+Le risque cardiovasculaire est nettement accru en cas d’abus de SAA. Mort cardiaque subite, infarctus myocardiques et AVC sont des complications typiques, parfois fatales. Outre la polyglobulie, les principaux facteurs de risque incluent une dyslipidémie souvent accompagnée d’une baisse prononcée du cholestérol à lipoprotéine haute densité (C-HDL) et d’une augmentation du cholestérol à lipoprotéine basse densité (C-LDL) ainsi qu’une hypertrophie ventriculaire gauche. Ainsi, la maladie coronarienne connue chez le patient doit également être considérée en relation avec l’abus de SAA.
+
+La polyglobulie est un effet indésirable connu, fréquent et dose-dépendant de la testostérone ou des SAA. Des contrôles réguliers de la formule sanguine sont également indiqués durant les premiers mois d’un traitement de substitution de testostérone en cas d’hypogonadisme [2]. Des études randomisées sur le traitement de substitution de testostérone en cas d’hypogonadisme ont permis de montrer que le risque de polyglobulie augmentait significativement avec un dosage croissant, et cela majoritairement chez les hommes à partir de la 60 ans [3]. Sur le plan physiopathologique, la polyglobulie est due à une suppression de la production d’hepcidine, un régulateur essentiel du métabolisme du fer, et à une stimulation de la production d’érythropoïétine. Cela entraîne d’une part un recalibrage du «set point» de l’érythropoïèse pour l’érythropoïétine, et d’autre part une assimilation accrue du fer, plus précisément de l’absorption intestinale du fer (fig. 2) [4].
+
+Figure 2: Mécanismes pathogéniques de la polyglobulie induite par des anabolisants.
+
+A: La testostérone entraîne l’inhibition de la synthèse hépatique d’hepcidine et ainsi l’augmentation de l’assimilation intestinale du fer ⇒ polyglobulie.
+
+B: La testostérone entraîne la stimulation de la production d’érythropoïétine (EPO) dans les reins et ainsi la modification du «set point» de l’EPO ⇒ polyglobulie.
+
+L’abus d’anabolisants est aussi un phénomène fréquent chez les athlètes amateurs, bien que des données exactes concernant l’épidémiologie fassent défaut. La testostérone et les SAA sont souvent utilisés de manière concomitante. Des dosages pouvant atteindre jusqu’à 1000 mg de testostérone par semaine sont courants. Outre Internet, «Das Schwarze Buch», qui fournit des informations détaillées sur l’utilisation des SAA, est une source répandue parmi les amateurs intéressés [5].
+
+Outre la stature généralement athlétique des patients, l’acné, la gynécomastie et l’atrophie testiculaire sont des signes cliniques typiques de l’abus de testostérone et de SAA. Il n’est pas rare de constater cet abus dans le cadre de l’examen diagnostique d’une infertilité. Des modifications psychiques telles que des dépressions en présence d’un manque général d’entrain sont principalement observées après l’arrêt des anabolisants, ce qui s’explique par le taux durablement faible de testostérone en l’absence de synthèse endogène. L’agressivité accrue en cas d’abus d’anabolisants est un phénomène souvent décrit dans les ouvrages médicaux, mais pas nécessairement à escompter (tab. 2).
+
+L’administration de testostérone exogène ou de SAA supprime la sécrétion de gonadotrophines et, ainsi, de faibles valeurs LH/FSH sont mesurées au laboratoire. Lorsque le contrôle en laboratoire a lieu rapidement après une administration de testostérone, les valeurs de testostérone sont souvent nettement accrues. Chez notre patient en revanche, la dernière injection de testostérone remontait déjà à plusieurs semaines, ce qui s’est objectivé au laboratoire par le faible taux de testostérone libre pour des valeurs LH/FSH toutefois durablement faibles. Selon l’intensité et la durée de l’abus d’anabolisants, 12 à 18 mois peuvent être nécessaires jusqu’au rétablissement de la synthèse endogène de testostérone. Dans certains cas, des dommages irréversibles de la production d’hormones mâles et de la fertilité surviennent. Les valeurs accrues de créatine kinase (CK) peuvent s’expliquer par les injections intramusculaires et l’entraînement intensif régulier. En cas d’utilisation concomitante d’hormones de croissance, la ­valeur d’IGF-1 est accrue. Afin d’éviter les effets indésirables typiques que sont la gynécomastie et l’atrophie testiculaire ainsi que la suppression de l’axe gonadotrope, les athlètes prennent souvent des antiœstrogènes (tamoxifène, citrate de clomifène) ou des inhibiteurs de l’aromatase (létrozole, anastrozole) de façon supplémentaire, les gonadotrophines sont plus rarement utilisées. Afin de prévenir l’alopécie, le finastéride est parfois employé. Plusieurs semaines avant une compétition, des substances dites «brûle-graisses» destinées à accélérer le métabolisme et augmenter la température corporelle sont utilisées en plus de diurétiques pour réduire le tissu adipeux sous-cutané. En raison de son puissant effet, l’hormone thyroïdienne de substitution liothyronine (T3) est préférablement utilisée, tout comme l’éphédrine. Notamment l’emploi non contrôlé de diurétiques provoque des déséquilibres électrolytiques et peut, en raison de l’augmentation consécutive de la viscosité du sang, renforcer une polyglobulie existante.
+
+D’après notre expérience, les patients ne révèlent souvent l’utilisation de SAA qu’avec hésitation et uniquement en réponse à une question ciblée. Il est d’autant plus important de les informer des effets indésirables survenant régulièrement et parfois fatals, et de les soutenir pendant l’arrêt du traitement. Un accompagnement psychothérapeutique est souvent indiqué.
+
+L’essentiel pour la pratique
+
+• Lors du diagnostic d’une polyglobulie, il convient d’envisager, outre la Polyzythämia vera, une hypoxémie chronique avec production accrue d’érythropoïétine ou administration d’érythropoïétine – également un abus d’anabolisants.
+
+• Les caractéristiques visibles d’un abus d’anabolisants sont des proportions musculaires excessives, l’atrophie testiculaire, souvent associées à de l’acné au niveau des épaules, du cou et dans le haut du dos, une gynécomastie ainsi qu’une infertilité. La mort cardiaque subite, les infarctus myocardiques et les AVC sont de possibles effets indésirables
+fatals.
+
+• L’analyse de laboratoire révèle des gonadotrophines supprimées, des valeurs de testostérone parfois considérablement accrues en cas d’utilisation de préparations de testostérone, une polyglobulie et une dyslipidémie typique avec un taux de cholestérol HDL nettement réduit.
+
+• En cas de suspicion fondée, le patient doit être confronté et informé des effets indésirables de l’abus de SAA. Il convient de lui offrir un soutien lors de l’arrêt des substances.

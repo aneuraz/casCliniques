@@ -1,0 +1,60 @@
+Fallbericht
+Anamnese
+
+Eine 80-jährige Patientin wurde aus einer psychia­trischen Klinik wegen fortschreitender kognitiver Beeinträchtigung im Rahmen einer depressiven Episode ­sowie rezidivierender Stürze auf den Hinterkopf zu­gewiesen. Sie sei in den letzten 1,5 Jahren mehrfach «wie ein Brett» gestürzt. Auf gezieltes Nachfragen berichtete die Patientin, aufgrund einer eingeschränkten Beweglichkeit und zunehmenden Ruhe- und Aktions­tremors das Essen häufig zu verschütten. Darüber hinaus habe sie vermehrt Schluckbeschwerden mit gelegentlichem Verschlucken.
+
+Aktenanamnestisch wurde ein Schwindel unklarer Ätiologie als Ursache für ihre Stürze postuliert bei demen­tieller Entwicklung und depressiver Symptomatik.
+
+Gemäss den Familienangehörigen bestand eine deut­liche Progredienz der Symptomatik, einhergehend mit einer Verschlechterung des Allgemeinzustandes innerhalb des letzten Jahres. Die aktuelle Medikationsliste bestand aus Duloxetin (30 mg, 1×/Tag) aufgrund der vermuteten depressiven Verstimmung, Rivaroxaban (20 mg, 1×/Tag) bei bekanntem paroxysmalem Vorhofflimmern und Pantoprazol (20 mg, 1×/Tag) bei Refluxbeschwerden. Neuroleptika waren bis zur Hospitalisation nicht eingenommen worden.
+
+Status und Befunde
+
+Bei Eintritt präsentierte sich die Patientin in leicht reduziertem Allgemeinzustand mit deutlicher psychomo­torischer Verlangsamung. Die Vitalparameter waren normwertig und der kardiologische, pulmonale und ­abdominelle Status ohne pathologischen Befund.
+
+In der neurologischen Untersuchung war die Patientin zeitlich unscharf, aber zur Person und situativ adäquat orientiert. Es imponierten eine deutliche Hypomimie und Dysarthrophonie bei insgesamt reduzierter Gesichtsmimik sowie pathologischem und verzögertem Schluckakt. Des Weiteren bestand ein leichter Rigor ­aller Extremitäten und ein symmetrisch beidseitiger Ruhe-, Halte- und Aktionstremor unterschiedlichen Ausmasses der oberen wie der unteren Extremitäten. Eine Einschränkung der Feinmotorik mit verlangsamtem Finger- und Fusstapping sowie eine Brady-/Dys­diadochokinese waren ebenfalls objektivierbar. Fokale sensomotorische Ausfälle der Extremitäten waren nicht festzustellen. Die Untersuchung der Hirnnerven zeigte eine vollständige vertikale Blickparese. Die Muskeleigenreflexe waren mittellebhaft und es lagen keine Pyramidenbahnzeichen vor. Beim Gehen war der Oberkörper aufgerichtet, die Armmitbewegungen waren praktisch aufgehoben und das Gangbild war kleinschrittig. Sie zeigte eine ausgeprägte axiale Rigidität und eine Falltendenz nach dorsal. Aufgrund der Unfähigkeit, selbstständig zu gehen und zu stehen, war die Patientin auf den Rollstuhl angewiesen.
+
+Diagnose
+
+Der Rigor in Kombination mit dem Ruhetremor erfüllte die Kriterien zur Diagnose eines Parkinson-Syndroms. Die «Unified Parkinson Disease Rating Scale» (UPDRS) Teil 3 lag bei insgesamt 45 Punkten. Die Symmetrie der Befunde deutete auf ein atypisches Parkinson-Syndrom hin. Die posturale Instabilität mit einhergehenden Sturz­ereignissen im frühen Krankheitsverlauf sowie die pathognomonische vertikale Blickparese (Abb. 1) waren suggestiv für eine progressive supranukleäre Paralyse (PSP).
+
+Abbildung 1: In der nachempfundenen Untersuchung der Okulomotorik ist die Folgebewegung der Augen nach kranial (in Richtung der Lichtquelle) nicht möglich. Es resultiert eine «vertikale Blickparese», welche für die progressive supranukleäre Paralyse (PSP) pathognomonisch ist. Die Publikation erfolgt mit dem Einverständnis des abgebildeten Autors T.M.N.
+
+Passend zur Klinik zeigte sich in der Magnetresonanztomographie (MRT) des Schädels eine mesenzephal ­betonte Atrophie mit charakteristischem Kolibri- und «Mickey Mouse»-Zeichen (Abb. 2).
+
+Abbildung 2: A ) Sagittale T1w in der Mittellinie mit charakteristischem «hummingbird sign» (Kolibri-Zeichen) mit mesenzephaler Atrophie (→) bei relativer Aussparung der Pons (*).B ) T1w in axialer Ebene auf Höhe des pontomesenzephalen Überganges mit charakteristischem «Mickey Mouse»-Zeichen bei markanter Atrophie des Tegmentum mesencephali mit Vertiefung der Fossa interpeduncularis (*) und der Sulci laterales ­mesencephali (∆).
+
+Therapie und Verlauf
+
+Die probatorische Aufdosierung von L-Dopa bis auf 750 mg zeigte keine Verbesserung der Parkinson-Symptomatik. Im Anschluss an die akutstationäre Hospi­talisation erfolgte eine Verlegung in die stationäre Neurorehabilitation zwecks Verbesserung der Gangsicherheit und kognitiver Stabilisierung mit dem Ziel einer Rückkehr in die häusliche Umgebung.
+
+Während der stationären Rehabilitation war die Patientin auf eine komplette Unterstützung in den grundlegenden Alltagsfunktionen angewiesen. Eine Verbesserung der posturalen Instabilität war trotz intensiver täglicher Physio- und Ergotherapie nicht zu erreichen. Aufgrund der Schluckbeschwerden erfolgte die Nahrungszufuhr unter logopädischer Aufsicht, wobei die Patientin nur auf Aufforderung geringe Nahrungsmittelmengen zu sich nehmen konnte. In Rücksprache mit den Angehörigen und aufgrund der raschen Progredienz der Erkrankung wurde auf die weitere Rehabili­tation verzichtet sowie die vorbestehende L-Dopa-­Behandlung sistiert. Es erfolgte die Entlassung nach Hause mit Unterstützung durch die örtliche Spitex. Die Patientin ist nach der Entlassung im zeitnahen Verlauf verstorben.
+
+Diskussion
+
+Die progressive supranukleäre Paralyse (PSP) gehört zur Gruppe der sogenannten atypischen Parkinson-Syndrome [1]. Das durchschnittliche Manifestations­alter liegt bei etwa 65 Jahren und hat eine Prävalenz von 5/100 000.
+
+Ätiopathogenetisch handelt es sich um eine primäre Tauopathie mit Akkumulation von Tau-Proteinen und Alpha-Synuklein in Astrozyten verschiedener Hirn­regionen. Es wird von einer gemischt genetischen und umweltbedingten Genese ausgegangen. Eine Beeinträchtigung der mitochondrialen Funktion wird postuliert, wobei die genauen Mechanismen weitgehend ungeklärt sind [2].
+
+Je nach primär vorherrschendem Befallsmuster werden verschiedene klinische Phänotypen unterschieden [1]. Der häufigste klinische Phänotyp der PSP wird als Steele-Richardson-Olszewski-Syndrom (SRO) bezeichnet, das nach den Erstbeschreibern Steele, Richardson und Olszewski im Jahre 1964 benannt wurde und mit dem klassischen Bild der axial-betonten Rigidität mit posturaler Instabilität, Fallneigung nach hinten, einer vertikalen Blickparese und dementieller Entwicklung einhergeht. Aufgrund der vertikalen Blickparese kommt es zur schlechter kontrollierten Nahrungsaufnahme (sog. «dirty tie sign»). Darüber hinaus ist häufig eine Antriebsminderung bei Frontalhirnsyndrom, eine spastische Sprech- und Schluckstörung sowie eine Störung der Exekutivfunktion beschrieben.
+
+Erst kürzlich wurden neue Diagnosekriterien durch die «Movement Disorder Society» (MDS) erarbeitet [3]. Dabei werden die a) okulomotorische Dysfunktion, b) posturale Instabilität, c) Akinesie sowie d) kognitive Dysfunktion als Kardinalsymptome definiert, welche jeweils in unterschiedliche Schweregrade eingeteilt werden. Dadurch sowie mithilfe weiterer diagnostischer Hinweise (klinisch wie radiologisch) ist eine Einschätzung der Wahrscheinlichkeit einer PSP möglich. Im Gegensatz zu den früheren diagnostischen Kriterien des «National Institute of Neurological Disorders and Stroke» (NINDS) sowie der «Society for Progressive ­Supranuclear Palsy» (SPSP) aus dem Jahre 1996 be­rücksichtigen die neuen Kriterien das breite klinische Spektrum der unterschiedlichen PSP-Phänotypen. ­Diagnostisch sichernd ist der (post-mortem) histologische Nachweis der Taupathie mit pathognomonischen «­tufted astrocytes».
+
+Die differentialdiagnostische Abgrenzung zum Morbus Parkinson und zu anderen atypischen Parkinson-Syndromen unterstützend, sind in der MRT des Schädels eine Volumenminderung des Mesenzephalons mit erweitertem III. Ventrikel und Atrophie der supe­rioren zerebellären Pedunkel mit Erweiterung der Fossa interpeduncularis charakteristisch. Hierdurch entsteht das in der axialen Ebene beschriebene«Mickey Mouse»-Zeichen (Abb. 2) sowie das in der sagittalen Ebene typische Kolibri-Zeichen (engl. «hummingbird sign», Abb. 2), das in etwa 2/3 der Fälle zu beobachten ist [4].
+
+Therapie
+
+Das therapeutische Vorgehen ist symptomorientiert und bedarf einer intensiven logopädischen, psychologischen, ergo- und physiotherapeutischen Begleitung. Im Gegensatz zum Morbus Parkinson führt die Gabe von L-Dopa in der Mehrheit der Fälle nicht zu einer Verbesserung der Parkinsonsymptomatik und sollte bei Nichtansprechen wieder abgesetzt werden. Für die tägliche Einnahme von Coenzym Q10 (5 mg/Tag) zur Verbesserung der mitochondrialen Funktion ist Evidenz bezüglich einer milden Verbesserung der motorischen und neuropsychologischen Symptomatik vorhanden, wobei spätere Studien diesen Effekt nicht reproduzieren konnten [5].
+
+Das Wichtigste für die Praxis
+
+Bei Verdacht eines (atypischen) Parkinson-Syndroms ist:
+
+• die Untersuchung der Okulomotorik zur Suche der vertikalen Blickparese wegweisend;
+
+• ein Blick auf die mesenzephalen Strukturen in der Magnetresonanztomographie zur Erkennung eines Kolibri- oder «Mickey Mouse»-Zeichens wertvoll;
+
+• das therapeutische Vorgehen symptomorientiert und bedarf einer intensiven logopädischen, psychologischen, ergo- und physiotherapeutischen Begleitung;
+
+• die Therapie mit L-Dopa nur selten erfolgreich;
+
+• die durchschnittliche Überlebenszeit nach Diagnosestellung 7–8 Jahre.

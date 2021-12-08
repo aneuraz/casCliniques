@@ -1,0 +1,75 @@
+Contexte
+
+Face à une hypotension symptomatique, une multitude de diagnostics différentiels doivent être pris en compte. Dans un contexte d’urgence, les réflexions initiales s’orientent le plus souvent vers une origine cardiologique ou septique, une hypovolémie induite par une hémorragie aiguë ou une déshydratation, une confusion médicamenteuse ou un surdosage médicamenteux, ainsi qu’une anaphylaxie. Après exclusion de ces causes, et en particulier chez les patients jeunes, il faut ensuite penser à une intoxication, à une cause neurologique ou à une endocrinopathie.
+
+Ce faisant, il convient avant tout d’exclure une insuffisance surrénalienne, dont l’évolution peut être fatale en cas de crise addisonienne.
+
+Présentation du cas
+Anamnèse
+
+Une patiente âgée de 37 ans, qui avait subi une gastrectomie en manchon («sleeve») en 2015 suivie d’une conversion en bypass gastrique proximal en 2017 dans le cadre d’une obésité morbide, a été transférée depuis la clinique psychiatrique en raison d’une hypotension persistante.
+
+Suite aux opérations bariatriques, elle avait perdu environ. 80 kg au total, si bien que l’hypertension artérielle préalable ne nécessitait plus de traitement. L’indice de masse corporelle (IMC) actuellement constant était de 31,5 kg/m². Une polyarthrite rhumatoïde et une goutte étaient connues en tant que diagnostics concomitants. La patiente était en conséquence traitée par 15 mg de prednisolone une fois par jour, méthotrexate et golimumab (inhibiteur du facteur de nécrose tumorale [TNF] α).
+
+La patiente avait été admise en psychiatrie en raison d’un épisode dépressif modéré et de crises dissociatives récidivantes. Du fait de l’hypotension croissante et d’une baisse de la vigilance, la patiente a été adressée au service des urgences.
+
+Statut et résultats
+
+A l’admission, la patiente était somnolente et sa vigilance était fluctuante (nadir de 5 sur l’échelle de Glasgow). Elle présentait une tachypnée intermittente et des valeurs de pression artérielle correspondant à une hypotension (82/44 mm Hg, fréquence cardiaque 58/min). L’examen physique de la patiente obèse était au demeurant normal. Lorsqu’elle a été interrogée, elle a indiqué souffrir de douleurs épigastriques intermittentes, pour lesquelles il n’y avait aucun corrélat clinique.
+
+L’électrocardiogramme a montré une bradycardie sinusale, avec une dépolarisation et une repolarisation autrement normales. La radiographie conventionnelle du thorax et l’analyse urinaire étaient également sans particularités. Les analyses de laboratoires ont indiqué une insuffisance rénale aiguë (tab. 1).
+
+Tableau 1: Données de laboratoire.
+Sérum	 	Valeur de référence	Jour 1	Jour 24
+Sodium	mmol/l	136–145	138	 
+Potassium	mmol/l	3,4–5,0	5,0	 
+Calcium	mmol/l	2,1–2,6	2,13	 
+Créatinine*	µmol/l	44–80	180	 
+Urée	mmol/l	1,7–8,3	13,2	 
+DFGe (CKD-EPI)	ml/min/1,73 m2	≥90	31	 
+Glucose veineux	mmol/l	3,9–6,4	8,2	 
+Protéine C réactive	mg/l	<5	1	 
+Aldostérone	ng/l	7–236	39,3	119
+Rénine	mU/l	8–39,9	4031	171,3
+Rapport aldostérone/rénine	ng/mU	<11,5	0,0	0,7
+ACTH	ng/l	10–46 ng/l	14 ng/l	 
+Urine
+Sodium	mmol/l	 	36	 
+Osmolalité	mmol/kg	50–1400	184	 
+Dépistage toxicologique	Bisoprolol et métabolites positifsLisinopril positifDiurétiques négatifs
+* Sang capillaire
+DFGe (CKD-EPI): débit de filtration glomérulaire calculé selon la formule de la «Chronic Kidney Disease Epidemiology Collaboration».
+
+La constellation des résultats disponibles, incluant une hypotension symptomatique, un taux de rénine sérique très élevé et un taux d’aldostérone sérique dans la norme inférieure (résultats obtenus lors des examens ambulatoires réalisés trois jours auparavant), laissait supposer une insuffisance surrénalienne primaire.
+
+Traitement et évolution
+
+Un traitement substitutif par hydrocortisone à dose élevée avec Solu-Cortef® 100 mg en bolus intraveineux a en conséquence été initié et poursuivi en continu avec 100 mg/24 h les jours suivants. L’absence d’hyperpigmentation s’expliquait par la corticothérapie au long terme et par l’absence d’augmentation de l’hormone corticotrope (ACTH) qu’elle induit (tab. 1)
+
+En raison des douleurs gastriques dont la patiente se plaignait, une tomodensitométrie épigastrique a été réalisée. Aucun indice d’hémorragie aiguë ou de masse dans le cortex surrénal n’a été trouvé. Etant donné que les auto-anticorps étaient négatifs (anticorps anti-surrénaliens et anti-21-hydroxylase) et que les paramètres inflammatoires étaient normaux, il n’y avait pas non plus d’indices suggérant une origine auto-immune ou infectieuse des symptômes.
+
+Vu qu’une amélioration initiale des paramètres vitaux faisait défaut malgré une administration liquidienne intraveineuse forcée et qu’une suicidalité aiguë était présente, la patiente a été admise en unité de soins intensifs (USI). A l’USI, la pression artérielle, dont les valeurs correspondaient toujours à une hypotension, a dû être stabilisée au moyen de catécholamines à faible dose administrées par voie intraveineuse, d’autant plus que les valeurs pouvaient tomber à 70/40 mm Hg pendant les crises dissociatives. Les valeurs de rétention rénale se sont normalisées dès le jour suivant sous substitution volémique; l’hypotension et la bradycardie ont toutefois persisté.
+
+Au vu de la suicidalité aiguë de la patiente, qui prenait en outre un traitement antihypertenseur par un inhibiteur de l’enzyme de conversion de l’angiotensine (ECA) et un bêtabloquant en raison des opérations baria­triques, une intoxication médicamenteuse a également été envisagée. La mise en évidence qualitative de lisinopril et de bisoprolol ainsi que de ses métabolites dans les urines a rapidement suivi. Après confrontation avec les résultats nouvellement obtenus, la patiente a reconnu prendre ces substances. Il s’est avéré que la patiente avait de nouveau pris ces médicaments en cachette et en plus grande quantité lors de son traitement psychiatrique stationnaire, et avec l’intention de se suicider.
+
+Après 24 heures supplémentaires de soins à l’USI, la dose de catécholamines a pu être réduite progressivement et la patiente est restée stable sur le plan cardio-circulatoire, y compris pendant l’emploi nécessaire de sédatifs. La fréquence cardiaque s’est normalisée. L’équilibre électrolytique s’est également avéré stable par la suite, et l’administration de prednisolone a pu se poursuivre à la dose initiale.
+
+Sur le plan clinique, les crises dissociatives et la suicidalité aiguë devenaient de plus en plus prédominantes, si bien que la patiente a pu être re-transférée en service psychiatrique après six jours passés en USI.
+
+Discussion
+
+Le diagnostic ou l’exclusion d’une insuffisance surrénalienne primaire (maladie d’Addison) peut s’avérer très complexe, en particulier chez les patients déjà ­traités par corticoïdes. Via l’activation du système rénine­-angiotensine-aldostérone, l’insuffisance surrénalienne primaire donne lieu à une forte élévation de la rénine sérique, avec des valeurs d’aldostérone sérique à la limite inférieure de la normale ou abaissées [1], car la production d’aldostérone dans le cortex surrénal ne parvient également pas à être augmentée de façon adéquate. En cas d’insuffisance surrénalienne secondaire (par exemple dans le cadre d’une corticothérapie), le système rénine-angiotensine-aldostérone reste intact, ce qui signifie que l’aldostérone endogène peut au besoin être augmentée, mais l’ACTH est cependant supprimée. En cas d’insuffisance surrénalienne primaire et de corticothérapie concomitante, il faudrait donc s’attendre à une ACTH supprimée, avec une valeur ­élevée de rénine et des valeurs d’aldostérone à la limite inférieure de la normale ou abaissées. Une constellation similaire s’observe également en cas d’intoxication par un inhibiteur de l’ECA (ou un sartan), comme nous le postulons dans notre cas. Nous n’avons pas trouvé de cause d’une éventuelle maladie d’Addison et l’évolution, avec une régression rapide de l’hypotension et du taux sérique de rénine, s’oppose elle aussi à ce diagnostic. En raison de la corticothérapie à long terme, un test de stimulation à l’ACTH n’aurait pas fourni de renseignements supplémentaires [2]. Le taux relativement bas d’ACTH peut s’expliquer par la corticothérapie, mais la dose de 15 mg de prednisolone n’aurait peut-être pas été suffisante pour une telle situation de stress. Notre patiente ne présentait pas d’hyponatrémie, ce qui rendait un déficit en minéralocorticoïdes improbable [1]. La prise supplémentaire du bêtabloquant a renforcé l’hypotension et explique en outre la bradycardie initiale malgré la déshydratation prononcée.
+
+En résumé, notre patiente a présenté une hypotension sévère consécutive à une intoxication par inhibiteurs de l’ECA et bêtabloquants [3, 4], ce qui était la cause de la supposée insuffisance surrénalienne primaire avec une concentration sérique de rénine fortement accrue et une valeur d’aldostérone sérique à la limite inférieure de la normale en raison du blocage de l’ECA. D’autres symptômes, tels que la baisse de la vigilance et les douleurs épigastriques, étaient également compatibles avec le diagnostic de suspicion de crise addisonienne.
+
+Après examen attentif et analyse méticuleuse de la docu­mentation préalable et du traitement préalable, la confirmation diagnostique finale a pu être apportée par la mise en évidence qualitative des substances responsables dans l’urine.
+
+Comme le montre cet exemple, une remise en question minutieuse et critique du diagnostic de suspicion initial est utile et aboutit parfois à des revirements surprenants.
+
+L’essentiel pour la pratique
+
+• En cas d’hypotension sévère, il convient aussi toujours de songer à une intoxication par des antihypertenseurs, en particulier en l’absence d’indices évocateurs d’une infection, d’une origine cardiaque ou d’une hypovolémie.
+
+• La pose du diagnostic d’intoxication peut s’avérer très délicate et en cas de manque de coopération de la part du patient, elle requiert un doigté particulier et une analyse minutieuse.
+
+• En cas d’insuffisance surrénalienne primaire, la concentration sanguine de rénine est accrue, tandis que la concentration d’aldostérone est à la limite inférieure de la normale ou abaissée. En cas d’insuffisance surrénalienne secondaire, les concentrations de rénine et d’aldostérone sont le plus souvent normales, car le système rénine-angiotensine-aldostérone n’est pas affecté.

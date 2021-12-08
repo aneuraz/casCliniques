@@ -1,0 +1,85 @@
+Contexte
+
+Dans cet article, nous présentons le cas d’un jeune patient qui a été victime d’une intoxication accidentelle à l’éthylène glycol. Ce type d’intoxication se produit le plus souvent dans une intention suicidaire ou en cas d’alcoolisme chronique. L’éthylène glycol (utilisé dans les antigels) provoque une acidose métabolique à trou anionique élevé et une insuffisance rénale aiguë en ­raison de ses métabolites toxiques. La formation des métabolites est empêchée par blocage de l’alcool déshydrogénase au moyen d’éthanol ou de fomépizole; en outre, les métabolites devraient être éliminés par dialyse. De nombreux patients survivent sans séquelles à long terme; notre patient a malheureusement présenté une longue évolution compliquée, avec une issue défavorable.
+
+Présentation du cas
+Anamnèse
+
+Un patient de 39 ans a été amené par ses proches au service des urgences d’un hôpital périphérique parce qu’il n’était plus vraiment réactif et respirait «bizarrement» depuis plusieurs heures. Une consommation excessive chronique d’alcool était connue chez le patient. Une tomodensitométrie crânienne a été réalisée et elle était sans particularités. Le patient a été transféré vers l’hôpital central pour y faire l’objet d’investigations diagnostiques approfondies et y être traité.
+
+Statut
+
+Le patient n’était pas réactif, avec un score de 3–7 sur l’Echelle de coma de Glasgow («Glasgow Coma Scale» [GCS]). Les pupilles étaient moyennement dilatées, avec une réaction à la lumière ralentie. Le patient était normotendu, normocarde et afébrile. Il présentait une tachypnée avec une fréquence respiratoire de l’ordre de 30/min; la saturation périphérique en oxygène s’élevait à 98% en air ambiant. L’examen clinique était au demeurant normal sur le plan cardiaque, pulmonaire et abdominal.
+
+Résultats
+
+La gazométrie artérielle a révélé une acidose métabolique sévère (pH 6,9, bicarbonate 3,2 kPa, excès de base –28,5 mmol/l). Le lactate n’a pas pu être déterminé à ce moment-là (tab. 1).
+
+Tableau 1: Evolution des paramètres de laboratoire.
+Heure	h	02h40	03h40	05h09	07h15	07h51	08h54	09h25	11h05	14h04	18h02	05h24
+Remarque	 	Veineux	 	Ventilation	Début de la dialyse	–	–	 	–	–	–	–
+pH	 	6,90	6,98	6,97	 	7,06	7,20	 	7,28	7,39	7,46	7,43
+pCO2	kPa	2,2	2,8	1,9	 	3,7	3,7	 	4,7	4,6	3,9	5,4
+pO2	kPa	10,5	31,9	41,4	 	25,9	18,2	 	19,9	25,5	12,3	14,2
+HCO3-	kPa	3,2	2,8	3,3	 	7,8	10,7	 	16,2	20,4	20,1	26,5
+Excès de base	mmol/l	–28,5	–25,6	–27,3	 	–23,3	–16,8	 	–9,8	–3,3	–2,2	2,9
+Ethylène glycol	mg/l	 	 	 	 	 	 	1430	 	180	75	64
+Lactate	mmol/l	Non déterminable	–	–	 	–	–	 	14,7	4,6	1,7	0,8
+
+Les analyses de laboratoire ont montré une insuffisance rénale aiguë avec hyperkaliémie (créatinine 310 μmol/l, potassium 8,9 mmol/l), une leucocytose et une protéine C réactive de 32 mg/l. En outre, la créatine kinase (7000 U/l) et les transaminases étaient élevées. Le trou anionique calculé s’élevait à 44 mmol/l (norme: 3–11 mmol/l) et le trou osmolaire était nettement augmenté, s’élevant à 64,4 mosmol/kg (norme: 2 ± 6 mosmol/kg).
+
+Le test par bandelette urinaire a indiqué une hématurie et une protéinurie. A l’examen microscopique, les cristaux représentés dans la figure 1 étaient visibles et il n’y avait pas d’érythrocytes glomérulaires. L’analyse toxicologique des urines et le taux sanguin d’éthanol étaient normaux. La toxicologie sérique, sur échantillon prélevé après l’initiation d’une perfusion de midazolam, était uniquement positive pour les benzodiazépines.
+
+Figure 1: Sédiment urinaire avec cristaux d’oxalate, microscope à contraste de phase avec grossissement de 200 fois.
+
+Diagnostic
+
+La cause de la baisse de vigilance a pu être identifiée en considérant ensemble les anomalies au niveau de la ­gazométrie artérielle, le trou anionique et le trou ­osmolaire augmentés, ainsi que la présence de cristaux dans l’urine. Le diagnostic d’intoxication à l’éthylène glycol a ainsi pu être posé.
+
+Rétrospectivement, nous avons appris que les proches du patient avaient retrouvé deux bouteilles vides d’antigel dans la voiture.
+
+Traitement et évolution
+
+A son admission, le patient a été intubé préventivement et sédaté. Un échantillon sanguin a été prélevé pour mesure du taux d’éthylène glycol et un traitement par l’antidote éthanol a été initié jusqu’à la réception du ­fomépizole recommandé. En raison de l’insuffisance ­rénale aiguë, nous avons initié une hémodialyse, qui a également servi à corriger l’acidose métabolique sévère et à éliminer l’éthylène glycol et ses métabolites.
+
+Par la suite, le patient a présenté de nombreuses complications. Une pneumonie par aspiration a été traitée par antibiotiques. Ensuite, le patient a été en proie à une panentérite à Clostridium très sévère, avec suspicion de colite pseudomembraneuse et bactériémie à Enterobacter cloacaepar transmigration, qui a nécessité une laparotomie exploratrice avec coloscopie intra-opératoire, la réalisation d’une fistule caecale et la mise en œuvre d’un «Vacuum Assisted Closure» abdominal. Il a ainsi été possible d’administrer de la vancomycine en lavements, vu que le péristaltisme était absent et qu’il n’était donc pas possible d’administrer le traitement via sonde gastrique. Le patient a présenté un delirium de sevrage alcoolique sévère. La dialyse a dû être poursuivie pour une durée totale d’un mois, jusqu’à ce que la diurèse soit suffisante. La fonction ­rénale s’est améliorée jusqu’à un débit de filtration glomérulaire estimé (DFGe) de 29 ml/min/1,73 m2. Sur le plan cognitif, le patient présentait encore des limitations considérables et un besoin d’assistance après huit semaines de traitement stationnaire.
+
+Discussion
+
+Chez les patients comateux, outre l’imagerie crânienne, la gazométrie artérielle fournit également des informations essentielles et elle devrait être prescrite rapidement. Si une intoxication aux alcools est suspectée sur la base de l’anamnèse et de la présentation clinique, il convient de se concentrer sur le trou anionique et le trou osmolaire, les électrolytes avec glucose, les valeurs rénales, le lactate, le taux d’éthanol et de méthanol et l’analyse urinaire [1].
+
+La gazométrie artérielle de notre patient a montré une acidose métabolique sévère, avec un trou anionique et un trou osmolaire nettement augmentés. Trou anionique = ([Na+] + [K+] + [Ca2+] + [Mg2+]) – ([HCO3–] + [Cl–]).
+
+Dans le cadre du diagnostic différentiel, d’autres maladies associées à un trou anionique augmenté doivent être exclues. Un trou anionique élevé peut s’observer dans le cadre d’une urémie, de maladies avec acidocétose ou acidose lactique ou d’intoxications [2].
+
+L’osmolarité sérique augmentée et le trou osmolaire élevé fournissent des renseignements diagnostiques supplémentaires. Le trou osmolaire correspond à la différence entre l’osmolarité sérique mesurée et l’osmolarité sérique calculée et, en présence d’un trou anionique augmenté, il peut être évocateur d’une intoxication par un alcool toxique (éthylène glycol, méthanol, alcool isopropylique, diéthylène glycol, propylène glycol) même en l’absence d’acidose [3].
+
+En cas d’intoxication à l’éthylène glycol, une dynamique typique s’observe. Initialement, l’accumulation de l’alcool ionisé provoque une forte élévation du trou osmolaire. Lors de la conversion de l’alcool en métabolites ionisés, le trou osmolaire diminue, mais le trou anionique augmente [1].
+
+Une forte élévation du lactate peut rendre le diagnostic différentiel plus compliqué. Il s’agit souvent d’une erreur de détermination, car le glycolate peut causer une réaction croisée avec la L-lactate-oxydase, qui est utilisée dans les appareils de gazométrie artérielle pour la détection du lactate. Les valeurs faussement élevées de lactate peuvent amener à suspecter une acidose lactique, qui peut orienter dans la mauvaise direction sur le plan étiologique [4].
+
+L’éthylène glycol est le dialcool le plus simple et il entre dans la composition des antigels, des liquides lave-glaces et d’autres produits industriels. Son nom provient de son odeur sucrée.
+
+En Suisse, les intoxications à l’éthylène glycol sont fort heureusement rares. En moyenne, seules deux intoxications sévères par an sont recensées (pour 8,4 millions d’habitants) [5].
+
+Les symptômes d’une intoxication à l’éthylène glycol sont semblables à ceux d’une intoxication au méthanol, mais les métabolites sont cependant différents. En cas d’intoxication à l’éthylène glycol, le temps de latence est de six à douze heures, mais il peut aussi atteindre jusqu’à 96 heures. Les symptômes initiaux peuvent être une sensation d’ivresse et une sédation [1].
+
+Ce n’est pas la substance en soi qui est toxique, mais ses métabolites. Dans le foie, l’éthylène glycol est scindé en aldéhyde glycolique, en glyoxal, en acide glyoxylique et en oxalate par l’alcool déshydrogénase et par l’acétaldéhyde déshydrogénase. L’oxalate forme avec le calcium des cristaux, qui sont responsables d’atteintes d’organes cibles. L’approche thérapeutique consiste dès lors à empêcher la formation de métabolites toxiques [6]. Des hypocalcémies peuvent survenir accessoirement.
+
+Les cristaux d’oxalate se déposent dans les poumons, le cœur et les reins. Des symptômes neurologiques peuvent déjà survenir au cours des douze premières heures. Des symptômes cardiaques et pulmonaires s’y ajoutent après environ douze heures. Une insuffisance rénale survient généralement après 48–72 heures. Les cristaux d’oxalate peuvent alors être mis en évidence dans l’urine, comme chez notre patient [1]. Etant donné que notre patient présentait déjà une insuffisance ­rénale lorsqu’il est arrivé à l’hôpital et que cela ne faisait probablement pas 48 heures qu’il était inconscient, il est vraisemblable qu’une insuffisance rénale puisse aussi déjà débuter plus tôt.
+
+En cas de suspicion d’intoxication à l’éthylène glycol et de paramètres de laboratoire concordants, un traitement devrait être initié immédiatement. Outre la sécurisation des voies respiratoires et de la circulation, du bicarbonate devrait être administré afin de réduire l’acidose ­métabolique. Pour entraîner le blocage compétitif de ­l’alcool déshydrogénase et ainsi éviter la formation de métabolites toxiques, du fomépizole ou, alternativement, de l’éthanol devrait être administré. Il est en outre essentiel de débuter sans délai une hémodialyse (si disponible), qui élimine les métabolites et réduit l’acidose [7]. Par la suite, une hémodialyse devient de surcroît le plus souvent nécessaire en raison de l’insuffisance rénale aiguë. Depuis l’introduction du fomépizole, il est dans certains cas d’intoxication légère possible d’éviter une hémodialyse. Le fomépizole est supérieur à l’éthanol, mais il est nettement plus onéreux (1000 euros de coûts de traitement par patient) et il est rarement disponible immédiatement dans les hôpitaux périphériques.
+
+Concrètement, cela signifie que si du fomépizole n’est pas disponible, de l’éthanol doit être administré immédiatement. L’objectif est d’atteindre un taux sanguin d’alcool d’1–1,5 pour mille. L’éthanol peut être administré par voie intraveineuse (58 ml d’éthanol à 96% dilués avec 500 ml de glucose à 5%) ou par voie orale via sonde gastrique (vin avec 10–14% d’éthanol ou spiritueux ­dilués à 20% d’éthanol). Sous dialyse, la dose doit être augmentée [8]. En cas de traitement par fomépizole, il convient d’administrer une dose de charge de 15 mg/kg de poids corporel, suivie de 10 mg/kg de poids corporel toutes les 12 heures. Après 48 heures, l’administration toutes les 12 heures est ajustée à 15 mg/kg de poids corporel. En cas de mise en œuvre d’une hémodialyse, les intervalles d’administration sont d’abord raccourcis à six heures, puis à quatre heures, car le fomépizole est dialysable. Le traitement doit être poursuivi jusqu’à ce que la concentration plasmatique soit inférieure à 3,2 mmol/l (20 mg/dl). L’hémodialyse doit elle aussi être poursuivie jusqu’à la normalisation des valeurs de pH et l’atteinte de faibles concentrations plasmatiques d’éthylène glycol (<20 mg/dl ou <3,2 mmol/l) [7].
+
+En cas de traitement précoce au moyen d’un antidote, le pronostic des patients est bon et les séquelles peuvent être évitées.
+
+L’essentiel pour la pratique
+
+• En cas de coma d’origine indéterminée, une gazométrie artérielle doit impérativement être réalisée pour le diagnostic initial.
+
+• Le trou anionique et le trou osmolaire sont déterminants pour le diagnostic différentiel.
+
+• L’initiation rapide d’un traitement est essentielle pour le pronostic du ­patient; il ne faut pas attendre le résultat de la détermination du taux d’éthylène glycol.
+
+• Les patients avec suspicion d’intoxication à l’éthylène glycol doivent ­rapidement être transférés vers un hôpital avec possibilité de dialyse.

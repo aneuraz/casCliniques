@@ -1,0 +1,50 @@
+Contexte
+
+Dans la pratique clinique quotidienne, on part le plus souvent du principe «Ce qui est fréquent est fréquent» et on agit en conséquence. La toux et la fièvre avec une opacité concomitante à la radiographie thoracique sont souvent l’expression d’une pneumonie, qui est en général associée à un bon pronostic durant l’enfance. Cet article décrit le cas d’un enfant apparemment en bonne santé, chez lequel une pneumonie a été suspectée au service des urgences, alors que les examens complémentaires ont permis de diagnostiquer une ­tumeur pulmonaire inhabituelle.
+
+Présentation du cas
+Anamnèse
+
+Un garçon de cinq ans qui paraissait jusqu’alors en bonne santé a été adressé en urgence par le pédiatre à l’hôpital pédiatrique. Depuis neuf jours, le garçon présentait une toux productive, une rhinite et une fièvre élevée quotidiennement (jusqu’à 40,3 °C), qui parvenait toujours à être abaissée correctement par ibuprofène. ­Depuis trois jours, le garçon présentait en outre une diarrhée et il a vomi à une reprise le jour où il s’est présenté. L’hémogramme réalisé par le pédiatre a montré des leucocytes normaux (5,3 G/l) et une protéine C réactive légèrement augmentée (CRP, 13,9 mg/l). A l’auscultation, un bruit respiratoire asymétrique a été détecté, raison pour laquelle le pédiatre a prescrit une radiographie du thorax. Cet examen a révélé une volumineuse diminution de la transparence pulmonaire du côté gauche. En outre, le patient présentait une perte de poids d’1,2 kg en l’espace d’une semaine.
+
+Statut et résultats
+
+Lorsqu’il s’est présenté au service des urgences, le patient était afébrile, dans un état général légèrement ­diminué avec uniquement une légère obstruction ­nasale; sa fréquence respiratoire était de 20/min et sa saturation en oxygène de 97% en air ambiant. A l’auscultation, il y avait essentiellement une hypoventilation au niveau de l’hémithorax gauche. Hormis une légère rougeur du pharynx, l’examen physique était au demeurant sans particularités. La radiographie thoracique externe a montré une consolidation acinaire confluente étendue du lobe supér­ieur gauche (fig. 1).
+
+Figure 1: La radiographie thoracique lors de la présentation au service des urgences montre une consolidation acinaire confluente étendue du lobe supérieur gauche.
+
+En raison d’une suspicion de pneumonie gauche, le garçon a été hospitalisé pour être traité par antibiothérapie intraveineuse (amoxicilline). A ce moment-là, une oxygénothérapie n’était pas nécessaire. L’échographie a confirmé la présence d’une consolidation du lobe supérieur gauche, y compris de la lingula, et un épanchement pleural hyperéchogène a été suspecté. Compte-tenu de l’évolution sans complication, l’antibiothérapie intraveineuse a été délaissée au profit d’une antibiothérapie orale, si bien que le patient a pu rentrer chez lui le troisième jour d’hospitalisation, en bon état général. Le patient a été traité par antibiotique durant dix jours.
+
+Thérapie et évolution
+
+En raison de l’examen d’imagerie impressionnant, un contrôle de suivi a eu lieu à la consultation de pneumologie après trois semaines. Sur le plan clinique, le garçon ne présentait plus de symptômes et la perte de poids avait à nouveau été compensée. A l’examen physique, un bruit respiratoire affaibli du côté gauche persistait toujours, sans signes de détresse respiratoire, avec une saturation en oxygène en air ambiant toujours normale. La spirométrie était normale pour l’âge, avec une capacité vitale forcée (CVF) d’1,21 litre (84% de la valeur prédite) et un volume expiratoire maximal par seconde (VEMS) d’1,13 litre (93% de la valeur prédite). Seule la pléthysmographie corporelle a montré une capacité vitale légèrement réduite s’élevant à 1,21 litre (79% de la valeur prédite). La radiographie thoracique de suivi a révélé une diminution de transparence persistante. La tomodensitométrie (TDM) thoracique a montré un processus expansif à contours lisses de tonalité graisseuse d’un diamètre de 11 × 4 cm, et un lipome pleural gauche a dès lors été fortement ­suspecté (fig. 2).
+
+Figure 2: La tomodensitométrie thoracique montre un processus expansif à contours lisses de tonalité graisseuse adjacente à la paroi thoracique gauche, d’un diamètre de 11 × 4 cm (cercle). Le poumon gauche présente un volume réduit.
+
+Par la suite, une thoracotomie gauche a été réalisée. En intra-opératoire, nous avons retrouvé une volumineuse masse s’apparentant à un lipome, émanant de la plèvre et comprimant essentiellement le lobe supérieur (fig. 3); une résection macroscopiquement complète de la masse a été possible.
+
+Figure 3: Pièce réséquée: tumeur graisseuse mature pédiculée d’une taille de 140 × 100 × 50 mm.
+
+L’examen histopathologique a montré une tumeur graisseuse mature pédiculée d’une taille de 140 × 100 × 50 mm avec des travées vasculaires éparses au niveau focal ainsi que des altérations myxoïdes focales (fig. 4).
+
+Figure 4: L’histologie montre une tumeur graisseuse avec des travées vasculaires éparses au niveau focal ainsi que des altérations myxoïdes focales (colorations HE; fig. 4A avec grossissement d’environ 200x; fig. 4B avec grossissement d’environ 400x).
+
+L’évolution postopératoire de même que le contrôle ­radiologique après quatre semaines étaient sans particularités (fig. 5).
+
+Figure 5: Radiographie thoracique postopératoire: apparence normale par rapport à l’âge.
+
+Discussion
+
+Les symptômes initiaux (toux et fièvre), mais sans tachypnée, ne sont pas des indices univoques d’une pneumonie, même en présence d’une opacité correspondante sur la radiographie du thorax; dans notre cas, cette opacité a été interprétée à tort comme un épanchement pleural à l’échographie. La radiographie du thorax réalisée en raison des manifestations cliniques frappantes a finalement dévoilé le lipome pleural, découvert fortuitement. Compte-tenu de la croissance tumorale vraisemblablement lente, le patient ne présentait pas de ­limitations physiques et les valeurs de spirométrie étaient normales. Les affections tumorales pulmonaires sont rares durant l’enfance, si bien qu’en partant du principe «Ce qui est fréquent est fréquent», cette éventualité n’a pas été envisagée en premier lieu. Outre la toux et la fièvre, les enfants souffrant de pneumonie présentent souvent aussi une détresse respiratoire et des symptômes thoraciques; une pneumonie peut toutefois également se traduire par une perte d’appétit et une consommation réduite de liquides avec déshydratation, par des douleurs abdominales ou uniquement par un état général diminué. En cas d’anamnèse de voyage ou d’anamnèse environnementale positive, il convient aussi toujours de songer à d’autres causes, telles que des infections parasitaires (par exemple échinocoques), mais aussi à une tuberculose pulmonaire. Dans de rares cas, un lymphome malin du médiastin entre également en ligne de compte dans le diagnostic différentiel.
+
+Les lipomes sont des affections fréquentes de la peau, mais ils ont aussi dans de rares cas une localisation intra-thoracique. Ce cas de figure est même très rare chez les enfants, puisque seuls 15 cas ont été décrits dans la littérature spécialisée jusqu’à 2012. Sur la base de leur localisation, ils sont subdivisés en trois groupes: lipomes intra-thoraciques, lipomes de localisation intra-thoracique avec extension crâniale et finalement, lipomes de localisation intra-thoracique avec extension extra-thoracique [1]. En règle générale, ces tumeurs sont asymptomatiques et elles sont le plus souvent découvertes fortuitement à la radiographie thoracique sous forme de diminution de transparence. Une TDM thoracique permet déjà de conclure à un lipome en raison de la masse homogène hypodense bien définie. Le diagnostic définitif est néanmoins posé sur la base de l’examen histologique [2, 3]. Ces tumeurs sont bénignes, mais elles peuvent néanmoins devenir très volumineuses (un poids de jusqu’à 8 kg a été décrit) [1]. Le plus souvent, leur croissance est très lente, mais il existe des exceptions [4]. Les lipomes intra-thoraciques peuvent également être congénitaux [3]. Indépendamment de la localisation, une excision complète de la tumeur est le seul traitement recommandé [3, 5]. En cas de résection complète, les cas décrits jusqu’à présent ont montré une évolution sans complication [3–5], comme cela a également été le cas chez notre patient.
+
+L’essentiel pour la pratique
+
+• En cas de présentation clinique atypique d’une pneumonie ou d’anomalie radiologique prononcée évocatrice d’une pneumonie, un contrôle radiologique de suivi devrait être réalisé trois à quatre semaines après la fin du traitement et/ou des examens supplémentaires devraient être initiés.
+
+• Les lipomes sont des tumeurs bénignes qui se retrouvent souvent au niveau de la peau, mais ont dans de rares cas aussi une localisation intra-­thoracique. Les adultes en sont plus souvent touchés que les enfants.
+
+• Les patients avec un lipome intra-thoracique sont le plus souvent (ou du moins durant de nombreuses années) asymptomatiques.
+
+• En cas d’anomalie asymétrique à l’auscultation et de diminution de la transparence à la radiographie thoracique et lorsqu’il n’y a pas d’indices supplémentaires évocateurs d’une pneumonie et/ou que le patient ne répond pas au traitement, il convient d’étendre le diagnostic afin de ne pas passer à côté d’une affection pulmonaire rare.

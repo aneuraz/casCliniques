@@ -1,0 +1,115 @@
+Présentation du cas
+
+Monsieur X est un patient de 39 ans, qui travaille comme chauffeur professionnel de bus. Il est connu pour un diabète de type 2 non-insulino requérant, traité par metformine. Il consulte pour une toux sèche chronique apparue un an auparavant et s’intensifiant progressivement depuis lors. Cette toux est compliquée d’épisodes de syncope apparus quelques mois aupara­vant. Il ne présente pas de dyspnée, d’orthopnée ou d’œdème des membres inférieurs. Il n’a pas de fièvre mais évoque des sudations profuses depuis un an et une diminution de son appétit, sans perte pondérale. Son «body mass index» (BMI) est de 26 kg/m2. Il fume un paquet par semaine depuis 24 ans. Il a un antécédent d’allergie aux graminées, sans symptômes depuis deux ans. Un traitement d’épreuve par formotérol/­budésonide pour sa toux est resté sans efficacité. L’examen clinique est sans particularité, notamment au niveau ORL, pulmonaire et cardiaque.
+
+Question 1: Quel diagnostic différentiel semble le moins probable pour expliquer cette toux avec syncope?
+
+
+a) Asthme
+
+b) Reflux gastro-œsophagien (RGO)
+
+c) Médicamenteux
+
+d) Infection
+
+e) Syndrome de toux d’origine des voies aériennes supérieures (STOVAS)
+
+Le patient ne reçoit pas de traitement associé à la survenue de toux, tel que par exemple un inhibiteur de l’enzyme de conversion de l’angiotensine. Sans imputer toute la symptomatologie au tabac, un traitement d’épreuve pour les trois causes les plus fréquentes de toux chronique, soit le RGO, le STOVAS et l’asthme est débuté [1, 2]. Il est mis au bénéfice d’un inhibiteur de la pompe à protons (IPP, pantoprazole), d’un spray corticoïde nasal (mométasone) et de corticoïdes inhalés asso­ciés à un bronchodilatateur (budésonide et formotérol).
+
+Malgré une diminution partielle des symptômes après l’introduction du traitement combiné, la toux perdure et s’accompagne quelques mois plus tard de nouveaux épisodes de syncope à la toux.
+
+Question 2: Quelle investigation ne semble pas appropriée pour déterminer l’origine de cette toux?
+
+
+a) Fonctions pulmonaires et tests de provocation
+
+b) Imagerie thoracique et examen des expectorations
+
+c) Examen endoscopique de la sphère ORL
+
+d) Gastroscopie (OGD)
+
+e) Echocardiographie
+
+A ce stade, plusieurs investigations s’imposent. Des fonctions pulmonaires, effectuées chez ce patient à plusieurs reprises, s’avèrent normales avec une absence de syndrome obstructif.
+
+Le scanner thoracique est dans la norme. D’un point de vue infectieux, la recherche de Bordetella pertussis est négative.
+
+Une nasofibroscopie est réalisée pour rechercher des polypes, une déviation de la cloison nasale, ou d’autres anomalies mécaniques qui ne répondraient pas à un traitement pharmacologique. Elle montre un œdème de Reinke bilatéral, un léger érythème et un épaississement de la commissure laryngée postérieure. Durant la consultation ORL le patient présente aussi un hemmage persistant, c’est-à-dire un raclement répété du fond de gorge.
+
+L’OGD révèle une pangastrite sévère avec œsophagite de reflux de grade A selon la classification de Los Angeles en présence d’Helicobacter (H.) pylori.
+
+Dans l’hypothèse d’un RGO, un test d’épreuve aux IPP pendant trois mois est recommandé. S’il s’avère efficace, cela suffit pour poser le diagnostic. Cependant, en cas de persistance de la toux, il faut rechercher un reflux non acide et cela même en l’absence de symptômes, qui n’écarte pas cette cause de toux. L’examen de choix est l’impédance pH-métrie qui permet (à l’inverse de la pH-métrie) d’identifier des reflux non acides et de les relier aux épisodes de toux. Sous IPP à double dose, elle montre ici 70 épisodes de reflux en 24 heures (norme à moins de 48) dont 69 non-acides et 1 acide. 16 épisodes de toux sont signalés, dont 11 en lien avec un reflux non-acide. Un deuxième examen répété à distance et sans IPP montre cette fois-ci 129 épisodes de reflux, dont 75 acides et 54 non-acides. Le patient signale pendant l’examen 21 épisodes de toux dont 9 liés à un reflux acide et 7 à un reflux non-acide.
+
+Dans ce contexte, et en l’absence de symptômes d’insuffisance cardiaque, une échocardiographie à la recherche d’une toux d’origine cardiaque ne semble pas appropriée.
+
+Question 3: Quelle est, à ce stade, l’origine la plus probable de cette toux avec syncope?
+
+
+a) RGO
+
+b) Infection
+
+c) STOVAS
+
+d) Asthme
+
+e) Bronchiectasies
+
+De tous les examens effectués, celui qui paraît expliquer le plus raisonnablement l’origine de la toux est l’impédance pH-métrie, effectuées dans ce cas à deux reprises. La première, sous IPP à double dose, met en évidence un reflux non-acide corrélé à la toux avec un score de De Meester négatif, parlant contre une exposition pathologique à l’acide. A l’inverse, lorsque l’impédance pH-métrie est répétée sans IPP, le score de De Meester est positif, parlant pour une exposition œsophagienne pathologique à l’acide. Le patient présente donc un reflux mixte, acide et non-acide, le premier bien maitrisé lorsqu’il est sous IPP. Plus ­intéressant, durant les deux impédance pH-métries, l’index symptomatique («symptom index» [SI]) est positif car plus de 50% des épisodes de toux signalés par le patient durant l’enregistrement de 24 heures sont liés à un reflux (acide ou non-acide). Un autre score, celui de la probabilité d’association symptomatique («symptom association probability» [SAP]) est les deux fois à la limite de la positivité avec respectivement 93% puis 92%, pour un seuil de positivité fixé à ≥95% pour la corrélation entre les épisodes de reflux et la toux. L’association d’un SI positif avec un SAP à la limite de la positivité indique, dans ce cas, une haute probabilité d’association cliniquement pertinente entre les épisodes de reflux et les symptômes [3].
+
+Nous concluons que l’origine de cette toux est probablement multifactorielle, avec au premier plan un RGO (acide et non-acide) mis en évidence durant les impédance pH-métries et par un examen nasopharyngé qui montre des signes indirects de RGO. Le larynx est par ailleurs décrit comme «irritable» (c’est-à-dire avec un seuil abaissé à la toux) accompagné d’un hemmagechronique auto-entretenu. Le tout, ne ­l’oublions pas, chez un patient fumeur actif.
+
+Question 4: Quel traitement n’est pas adéquat pour ce patient?
+
+
+a) Prise en charge logopédique
+
+b) Mesures hygiéno-diététiques (surélévation de la tête du lit, repas léger le soir, éviter de se coucher peu de temps après le dîner, etc.)
+
+c) Chirurgie anti-reflux
+
+d) Procinétiques
+
+e) Ranitidine
+
+La première OGD montrant une pangastrite sévère en présence d’H. pylori, une éradication est indiquée. Il bénéficie d’une thérapie séquentielle (amoxicilline puis clarithromycine/métronidazole). Une deuxième OGD après plusieurs mois de traitement par IPP ne montre plus d’œsophagite de reflux mais l’H. pyloriest toujours présent. Il reçoit un traitement de deuxième ligne (amoxicilline-levofloxacine). L’éradication est cette fois confirmée par un test respiratoire négatif. Durant toute cette période, il bénéficie toujours d’un traitement par IPP simple ou double dose selon les symptômes et les résultats des examens. Comme l’impédance pH-métrie sous IPP montre presque exclusivement des reflux non-acides cela parle en défaveur d’une inefficacité des IPP et l’ajout d’un autre antiacide, comme la ranitidine, n’est pas indiqué.
+
+En parallèle, il convient de prendre en charge sa maladie de reflux (acide ou non). Cela consiste en des ­mesures hygiéno-diététiques, des pro-cinétiques afin ­d’accélérer la vidange gastrique et, si nécessaire, d’une prise en charge chirurgicale.
+
+Enfin, pour son larynx décrit comme «irritable» qui favorise la toux chronique, une prise en charge logopédique avec des exercices de contrôle respiratoire afin d’éviter le phénomène d’hemmage qui entretient la toux doit être proposé.
+
+L’évolution de la toux est lentement favorable avec notamment la prise en charge logopédique qui montre d’excellents résultats et sous IPP pour les reflux acides. Les traitements pro-cinétiques essayés (dompéridone, métoclopramide, baclofène) semblent quant à eux peu efficaces. Enfin, un peu plus d’un an après le début de la prise en charge, il cessera complètement de tousser et ne présentera plus de syncope malgré le tabagisme ­persistant. Par contre, il reste dépendant des IPP, avec une maladie de reflux symptomatique sous forme de ­pyrosis lorsqu’il essaie d’arrêter le traitement. Dans ce contexte, et après avoir confirmé l’absence de trouble de la motilité œsophagienne avec une manométrie, il bénéficie finalement d’une chirurgie anti-reflux selon Nissen afin d’éviter de devoir prendre des IPP au long cours.
+
+Le patient présentera aussi un état dépressif qui s’améliorera avec un suivi spécialisé. Il s’explique en partie par le poids psycho-social de sa pathologie pour lequel il est mis à l’arrêt de travail dès le début de la prise en charge. En effet, les syncopes à la toux constituent une contre-indication formelle à la conduite et ce patient ne peut donc pas exercer sa profession.
+
+Question 5: Quelle condition n’a aucune importance pour reprendre l’activité de chauffeur professionnel dans ce cas?
+
+
+a) Absence de syncope à la toux depuis plus de cinq ans
+
+b) RGO traité
+
+c) Cause respiratoire sous-jacente contrôlée
+
+d) BMI inférieur à 30 kg/m2
+
+e) Repasser son permis de conduire pour la catégorie professionnelle
+
+Aucune recommandation suisse ne statue à ce sujet. Les seules qui semblent exister sont anglaises (DVLA)[4] et proposent: (1) cinq ans sans syncope depuis le dernier événement pour les catégories professionnelles, ou un an si la condition respiratoire sous-jacente est bien contrôlée, (2) que le patient arrête de fumer, (3) que le BMI soit inférieur à 30 kg/m2, et (4) que le RGO soit traité. En effet les syncopes à la toux surviennent majoritairement chez les patients obèses (et fumeurs), car l’obésité abdominale est à l’origine d’un blocage du retour veineux durant les épisodes de Valsalva répétés, secondaires à la toux.
+
+Hormis l’arrêt du tabac, le patient remplit tous les autres critères: il ne tousse plus, n’a plus présenté de syncope à la toux depuis un an et demi, un BMI de 26 kg/m2 et son RGO est bien traité. Le problème respiratoire ainsi que le tabac ne semblent pas être des facteurs étiologiques centraux de sa toux et donc, bien qu’il fume encore deux ou trois cigarettes par jour, il est jugé apte à reprendre une activité de chauffeur professionnel. Il n’a pas besoin de repasser son permis, ne l’ayant jamais perdu. A l’heure de la publication de cet article, il a retrouvé un travail.
+
+Discussion
+
+Face à un nouveau diagnostic de toux chronique, un traitement d’épreuve pour les trois diagnostics principaux (RGO, STOVAS, asthme), instaurés de manière successive ou en parallèle (puis retrait des médicaments un à un en cas d’amélioration) est indiqué. Si comme dans ce cas il n’y a pas d’amélioration, des ­examens spécialisés sont nécessaires.
+
+Au niveau gastroentérologique, il y a lieu de séparer les problématiques. Bien que la pangastrite sévère en présence de H. pyloridoive être traitée, elle n’a pas de lien direct avec la toux. En cas de toux persistante malgré un traitement d’IPP, c’est une impédance pH-métrie qui doit être proposée. Si en effet elle montre un reflux mixte acide et non-acide, il ne faut pas centrer l’approche seulement sur le traitement de l’acidité, mais aussi sur la prise en charge générale du RGO.
+
+Enfin, les syncopes à la toux contre-indiquent la conduite automobile, de sorte qu’avant que le patient ne soit à nouveau apte il faut que la cause sous-jacente soit bien traitée et/ou qu’une certaine durée depuis la dernière syncope se soit écoulée.
+
+Réponses:
+
+
+Question 1: c. Question 2: e. Question 3: a. Question 4: e. ­Question 5: e.

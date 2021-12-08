@@ -1,0 +1,88 @@
+Contexte
+
+Nous présentons un cas d’endocardite de la fièvre Q avec hémorragie intracérébrale postopératoire et mise en évidence cérébrale de Coxiella burnetii par PCR («polymerase chain reaction»). Chez les porteurs de valves cardiaques artificielles présentant un état inflammatoire d’origine indéterminée, il est décisif de penser précocement à une endocardite [1].
+
+Les endocardites à cultures négatives représentent un défi sur le plan du diagnostic différentiel et des analyses sérologiques rapides s’avèrent alors utiles [2].
+
+Rapport de cas
+Anamnèse, examen clinique et premiers résultats externes
+
+Le 9 janvier, un patient de 63 ans avec antécédents d’implantation d’une valve aortique biologique, coronaropathie monotronculaire et épilepsie connue s’est présenté au cabinet de médecine de famille d’un hôpital avec un érythème du visage. Il souffrait depuis ­environ six mois de poussées de fièvre récidivantes avec sueurs nocturnes. Il a perdu 22 kg au cours des 15 derniers mois, ce qui était initialement voulu. Les analyses de laboratoire ont montré une pancytopénie: leucopénie (3,3 G/l), anémie (Hb 11,1 g/dl) et thrombocytopénie (91 G/l). Les transaminases (ASAT 106 U/l) et la protéine C réactive (CRP; 59 mg/l) étaient augmentées. Face à une suspicion de collagénose, les anticorps antinucléaires (ANA) ont été déterminés. Des hémocultures n’ont pas été prélevées. Dans le cadre du diagnostic différentiel, l’érythème du visage a été interprété comme un érysipèle (atypique), et un traitement par amoxicilline/acide clavulanique a été administré durant une semaine; le traitement s’est révélé concluant sur la base de l’évolution clinique et de l’évolution de la CRP (4,5 mg/l). Par la suite, le ­patient a été en proie à une toux productive pendant un certain temps.
+
+Le 15 mars, le patient s’est présenté chez le médecin de famille en raison d’un purpura au niveau des deux jambes. L’échographie a révélé une splénomégalie. Les analyses de laboratoire ont montré une persistance de la leucopénie (3,5 G/l) et de l’anémie (Hb 9,0 g/dl); la ­vitesse de sédimentation (VS; 110 mm/h) et la CRP (12,9 mg/l) étaient augmentées. Alors que l’examen initial avait révélé un titre accru d’ANA (1:2560), un lupus est apparu improbable suite à une détermination différenciée des anticorps.
+
+Un bilan hématologique était planifié le 2 avril. Toutefois, le patient à nouveau fébrile (38,1 °C) a dû être hospitalisé le 28 mars en raison de douleurs pectangineuses. Les examens (troponine T hs d’au maximum 479 ng/l, créatine kinase normale, ECG à 12 dérivations montrant un bloc auriculo-ventriculaire I sans signes d’ischémie) ont mené au diagnostic d’infarctus du myocarde sans élévation du segment ST (NSTEMI). L’échocardiographie transthoracique a montré une dégénérescence de la valve aortique biologique implantée, avec une légère insuffisance et une hypokinésie inférieure du ventricule gauche. En raison de l’état inflammatoire fébrile d’origine indéterminée («fever of unknown origin» [FUO]), il a tout d’abord été décidé de ne pas réaliser d’angiographie coronaire, et des examens supplémentaires ont été initiés. Les analyses de laboratoire ont montré une persistance de l’élévation de la CRP (19 mg/l). La VS, les ANA augmentés (1:640) et les facteurs rhumatoïdes élevés (478 U/ml) ont fait évoquer une maladie rhumatologique dans le cadre du diagnostic différentiel, et la lymphadénopathie et la splénomégalie objectivées à la tomodensitométrie (TDM) thoracique/abdominale étaient même suggestives d’un lymphome. Au total, 11 paires d’hémocultures, prélevées entre le 28 mars et le 12 avril et mises en culture dans des conditions aérobies et anaérobies durant au minimum six jours (2 paires durant 14 jours), sont restées stériles; le patient n’avait pas reçu d’antibiotiques à ce moment-là. La tomographie par émission de positons couplée à la tomodensitométrie (TEP/TDM) du 9 avril, réalisée en premier lieu en raison d’une suspicion de maladie lymphoproliférative, a montré une forte activité métabolique autour de la valve aortique prothétique (fig. 1).
+
+Figure 1: TEP/TDM 18F avec visualisation de l’abcès paravalvulaire (jaune).
+
+Une échocardiographie transœsophagienne a con­firmé la présence d’un abcès paravalvulaire avec légère insuffisance aortique transvalvulaire et paravalvulaire (fig. 2). Il n’y avait pas de végétations valvulaires.
+
+Figure 2: Cliché fixe de l’échocardiographie transœsophagienne montrant la valve aortique biologique dans l’axe court (A) et dans l’axe long (B). L’abcès paravalvulaire est marqué par un astérisque (*).
+
+Evolution, diagnostic et traitement externes
+
+Sur la base des résultats, une endocardite sur prothèse valvulaire à culture négative a été diagnostiquée. Des sérologies à la recherche d’agents pathogènes intracellulaires (Bartonella, Brucella, Chlamydia, Coxiella burnetii) ont été prélevées; une antigénurie légionelle a été réalisée et une PCR du sang a été réalisée pour rechercher Tropheryma whipplei et, en raison des manifestations cliniques, Francisella tularensis (tab. 1, [3–7]). Compte tenu de la possibilité d’une infection à Mycobacterium chimaera chez ce patient ayant par le passé subi une intervention de chirurgie cardiaque ouverte, des hémocultures ont été prélevées sur tubes citratés et une PCR espèce-spécifique du sang a été prescrite [8, 9]. Le traitement empirique de l’endocardite sur prothèse valvulaire, qui fait appel à la vancomycine, à la gentamicine et à la rifampicine, a été complété par de la clarithromycine et de l’éthambutol.
+
+Tableau 1: Examens en cas d’endocardite à culture négative*.
+Germe	Maladie	Mise en évidence	Contexte
+Coxiella burnetii	Fièvre Q	Sérologie (critère majeur, pour le diagnostic d’endocardite), PCR de tissu (valve ­cardiaque, etc.); attention: réactions ­croisées avec Bartonella henselae.	Contact avec des animaux, zoonose (cf. texte)
+Bartonellaspp.	Maladie des griffes du chat (B. henselae)	Sérologie, PCR de sang ou de tissu	Contact avec des chats (B. henselae) ou ­conditions d’hygiène précaires (B. quintana; transmission par les poux)
+fièvre des ­tranchées (B. quintana)
+Brucellaspp.	Brucellose	Sérologie, PCR	Contact avec des animaux, zoonose; voyage dans des pays méditerranéens, consommation de lait non pasteurisé
+Tropheryma whipplei	Maladie de Whipple	PCR, biopsie duodénale avec mise en ­évidence de macrophages PAS-positifs	Arthralgies, diarrhée et perte de poids, douleurs abdominales; touche surtout les hommes; ­maladie rare
+Chlamydiaspp.	Pneumonie (C. pneumoniae) 	Sérologie; attention: réactions croisées ­fréquentes avec Bartonella spp.Endocardite très rare	Endocardite très rare
+trachome (C. trachomatis)
+­psittacose (C. psittaci)
+Mycoplasmaspp.	Pneumonie	Sérologie	Endocardite rare
+Legionellaspp.	Pneumonie	Antigène dans l’urine, sérologie, PCR	Endocardite rare
+Francisella tularensis	Tularémie	Sérologie, PCR du sang	Contact avec des animaux, zoonose; lymphadénopathie, fièvre, pneumonie; endocardite ­extrêmement rare
+Aspergillusspp.	Aspergillose	PCR, mise en évidence de galactomannane libre	Porteurs de valves cardiaques artificielles, ­patients immunodéprimés
+Candidaspp.	Candidose	PCR, milieux de culture spécifiques, mise en évidence d’antigènes et d’anticorps de ­Candida (mannane et anti-mannane)	Toxicomanie, nutrition parentérale, chirurgie ­intestinale extensive, tumeur maligne, antibio­thérapie préalable
+* Représente env. 10% de toutes les endocardites. Les examens initiaux recommandés sont surlignés en bleu. Les endocardites peuvent également donner des cultures négatives en raison d’une antibiothérapie préalable.Il convient de veiller à une durée d’incubation suffisamment longue des hémocultures (jusqu’à 14 jours, et non pas 6 jours comme habituellement) afin de ne pas manquer des bactéries à croissance lente comme Corynebacterium acnes ou le groupe HACEK.
+L’endocardite marantique, l’endocardite de Libman-Sacks et l’endocardite dans le cadre de la maladie de Behçet sont également des endocardites à cultures négatives.La PCR à large spectre du sang avec amplification de l’ARN ribosomique 16S (bactéries) ou de l’ARN ribosomique 18S (champignons) est utile pour l’identification du germe, mais elle a une faible sensibilité. PCR: «polymerase chain reaction»; HACEK: Haemophilus spp., Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae.
+
+Conformément aux lignes directrices, la prothèse biologique a été explantée en l’espace de quelques jours, la racine aortique a été débridée, la voie d’éjection ventriculaire gauche a été reconstruite et une bioprothèse (racine aortique) a été implantée. En outre, un pontage aorto-coronaire veineux a été réalisé sur l’artère coronaire droite sténosée.
+
+En postopératoire, le patient a été victime d’un infarctus étendu de l’artère cérébrale moyenne avec transformation hémorragique (le plus vraisemblablement hémorragie liée à une embolie septique), provoquée par l’anticoagulation du circuit extracorporel et par le traitement par acide acétylsalicylique. En raison de l’effraction ventriculaire de l’hémorragie avec déviation de la ligne médiane et compression débutante du tronc cérébral, le patient a été transféré vers l’hôpital central (fig. 3).
+
+Figure 3: La tomodensitométrie crânienne réalisée au 3e jour postopératoire montre une volumineuse hémorragie pariéto-­temporale à droite avec effraction ventriculaire, un œdème périfocal, une déviation de la ligne médiane et un engagement sous-falcoriel vers la gauche, un engagement uncal à droite, ainsi qu’une accumulation de liquide céphalo-rachidien.
+
+Evolution ultérieure, diagnostic et traitement
+
+Un drainage ventriculaire a été mis en place en urgence et plus tard, l’hématome a été évacué. La PCR bactérienne à large spectre de la valve aortique explantée s’est révélée positive pour Coxiella burnetii, tout comme la PCR du tissu cérébral et la sérologie sanguine (fig. 4).
+
+Figure 4: Evolution du titre d’anticorps dirigés contre les antigènes de phase I et de phase II de Coxiella burnetii.
+
+Le diagnostic d’endocardite de la fièvre Q chronique est en premier lieu posé sur la base de la sérologie. Dans le cas de notre patient, le diagnostic sérologique a été retardé en raison d’une réaction croisée [10] avec Bartonella henselae et a uniquement été obtenu après le résultat de la PCR de la valve aortique et du tissu cérébral, mais a confirmé le diagnostic.
+
+Les anti-infectieux administrés jusqu’alors ont été interrompus et un traitement par doxycycline et ciprofloxacine a été initié. Par la suite, la ciprofloxacine a été délaissée au profit du traitement de première ligne par hydroxychloroquine. Le patient a suivi une réhabilitation stationnaire durant six mois. Actuellement, il fait l’objet d’une prise en charge neurologique, infectiologique et cardiologique ambulatoire. Les contrôles sérologiques de suivi (fig. 4) confirment une réponse au traitement.
+
+
+Discussion
+Introduction
+
+La fièvre Q est une zoonose répandue à l’échelle mondiale, qui est causée par la bactérie intracellulaire obligatoire à Gram négatif Coxiella burnetii[1, 11, 12]. Un très faible nombre de bactéries suffit pour provoquer une infection. Parmi les réservoirs figurent les oiseaux, les tiques et divers mammifères, comme entre autres les moutons, les bovins ou les chèvres [11]. Le patient avait justement eu des contacts avec des chèvres à l’étranger, comme l’a révélé l’anamnèse postopératoire. La contamination se fait le plus souvent par inhalation d’aérosols infectés et très rarement par transmission orale [11, 13].
+
+Manifestations cliniques
+
+La période d’incubation est de 2–3 semaines [11]. Les symptômes initiaux ne sont pas spécifiques. Les cas symptomatiques présentent une évolution pseudo-grippale, sous forme de pneumonie atypique ou d’hépatite. Des exanthèmes livides avec de la fièvre sont décrits dans 20% des cas, tandis qu’une méningo-encéphalite ou une (péri)myocardite est décrite dans 0,5–1% des cas. Dans environ 1% des cas, une fièvre Q chronique se développe après des semaines voire des années, le plus souvent (⅔) sous forme d’endocardite ou d’infection sur prothèse vasculaire. Les facteurs prédisposants d’une telle évolution sont les valvulopathies, la présence de matériel étranger implanté et l’immunosuppression [11]. Des infarctus systémiques ou cérébraux d’origine embolique peuvent survenir [11]. Par ailleurs, des glomérulonéphrites à complexes immuns, une hépatomégalie, une splénomégalie ou une insuffisance cardiaque se retrouvent également [11].
+
+Diagnostic
+
+La combinaison d’une réaction inflammatoire systémique et d’une cardiopathie valvulaire, ainsi qu’une exposition possible révélée par l’anamnèse, doivent faire évoquer une endocardite de la fièvre Q. Les ­analyses de laboratoire révèlent une anémie, une thrombocytopénie, des paramètres inflammatoires augmentés (y compris sédimentation sanguine), des transaminases augmentées ou une élévation de la créatinine. Des auto-anticorps et des complexes immuns libres peuvent parfois être mis en évidence. A l’échocardiographie, une végétation valvulaire est uniquement objectivée dans environ 12% des cas [11]. La TEP/TDM peut contribuer à la pose du diagnostic d’endocardite [2].
+
+Coxiella burnetii est responsable de plus de 50% de toutes les endocardites à cultures négatives [12]. Le diagnostic repose sur la mise en évidence d’anticorps. Au cours de la maladie aiguë, des anticorps dirigés contre l’antigène de phase II sont en premier lieu formés; des titres élevés d’anticorps anti-phase I sont typiques d’une évolution chronique [1]. Un titre d’IgG de phase I >1:800 est diagnostique d’une endocardite [2, 11, 12, 14, 15]. La bactérie peut être mise en évidence dans le tissu par examen immunohistochimique ou par PCR espèce-spécifique [2, 11].
+
+Traitement
+
+Le traitement antibiotique de l’endocardite de la fièvre Q repose sur l’association de doxycycline et d’hydroxychloroquine [1, 2, 11, 16]. La doxycycline en monothérapie n’est pas bactéricide en raison de l’acidité dans les phagolysosomes. L’hydroxychloroquine y exerce une action alcalinisante; l’association des deux principes actifs est bactéricide [1, 11]. C’est avec ce traitement d’association de 18 à 24 mois que les plus faibles taux de rechute ont été décrits [1, 11, 12]. L’objectif est d’atteindre des concentrations sériques de 1 ± 0,2 µg/ml pour l’hydroxychloroquine et de >5 µg/ml pour la doxycycline, ce qui est vérifié au moyen de contrôles [1, 11, 17]. En raison du profil d’effets indésirables de l’hydroxychloroquine, d’autres options thérapeutiques ont été recherchées. L’association de doxycycline et de ciprofloxacine semble constituer une alternative aussi efficace [16]. Une chirurgie est notamment indiquée en cas d’infection non contrôlée (abcès), d’insuffisance cardiaque due à une destruction valvulaire progressive ou (dans de rares cas) de végétations volumineuses [2, 11].
+
+Afin de déterminer la durée de traitement, des analyses sérologiques sont réalisées tous les 1–6 mois. Des contrôles de suivi échocardiographiques et ophtalmologiques sont nécessaires tous les trois mois [1, 11, 12]. Une baisse du titre d’IgG de phase I à <1:200 est visée [2]. Une diminution d’au moins quatre fois du titre après la première année est un bon indicateur de succès thérapeutique [1, 12].
+
+L’essentiel pour la pratique
+
+• Chez les patients porteurs d’une valve cardiaque artificielle qui présentent un état inflammatoire, il convient de songer précocement à une endocardite. Le diagnostic et le traitement sont interdisciplinaires («équipe pluridisciplinaire de prise en charge de l’endocardite»).
+
+• Lorsque les hémocultures sont négatives, des agents pathogènes à culture négative doivent être recherchés par sérologie. Coxiella burnetii est l’agent pathogène le plus prévalent.
+
+• La doxycycline et l’hydroxychloroquine représentent le traitement de choix. Des sérologies de suivi régulières et des contrôles de la concentration des médicaments sont nécessaires.

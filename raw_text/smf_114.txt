@@ -1,0 +1,87 @@
+Présentation du cas
+Anamnèse
+
+Après la prise de 100 comprimés de Cipralex® à 20 mg (2 g d’escitalopram) ainsi que d’héroïne et de cocaïne dans une intention suicidaire, la patiente de 21 ans a alerté les services de secours et a été transportée au service des urgences. Depuis deux semaines seulement, elle participait à un programme de méthadone pour se défaire de sa polytoxicomanie.
+
+Elle suivait un traitement psychiatrique régulier en raison d’un trouble dépressif, d’un trouble de la personnalité schizoïde et d’un syndrome d’Asperger. Elle prenait un traitement d’entretien par Fluanxol®.
+
+Statut
+
+A son admission, la patiente présentait de multiples coupures, qui ont dû être traitées chirurgicalement. Elle était tachycarde (pouls 121/min), normotendue (pression artérielle 122/63 mm Hg) et afébrile et avait une saturation en oxygène (SpO2) de 95% en air ambiant. L’examen interniste-neurologique a révélé une exophtalmie, des fasciculations périorales, des pupilles intermédiaires et une nette agitation. D’après les renseignements téléphoniques fournis par le centre toxicologique de Zurich, la prise d’escitalopram n’entraînerait pas de complications potentiellement fatales, mais une surveillance de la patiente durant environ quatre heures au service des urgences était nécessaire. Le centre toxicologique a en effet précisé que les concentrations plasmatiques maximales sont normalement atteintes environ quatre heures après la prise.
+
+A l’électrocardiogramme (ECG) à douze dérivations, aucun allongement du QT n’était détectable. Après la surveillance, la patiente, qui était toujours suicidaire et agitée, a par conséquent été placée à des fins d’assistance dans une clinique psychiatrique en raison d’une mise en danger de sa propre personne.
+
+Evolution
+
+Le soir de son arrivée à la clinique psychiatrique, la patiente a été transférée en urgence vers le service des urgences de l’hôpital aigu le plus proche en raison d’une suspicion de syndrome sérotoninergique. Elle a développé des myoclonies de tout le corps, ne pouvait plus marcher et avait du mal à parler. Une fuite urinaire et une morsure de la langue n’ont pas été constatées. En raison d’un manque de lits, la patiente a été admise à l’unité de soins intensifs de l’hôpital aigu impliqué en premier lieu. A son admission, elle se trouvait dans un état général diminué et était stable sur le plan cardiopulmonaire (pression artérielle 119/76 mm Hg, pouls 78/min), avec une SpO2 de 96% en air ambiant et une température de 38,1 °C. Elle était éveillée, mais désorientée et agitée. L’examen neurologique n’a révélé ni nystagmus du regard excentré ni clonus oculaire; en revanche, tous les réflexes ostéo-tendineux étaient augmentés. Les mains présentaient un tremblement fin, et la démarche était incertaine avec les jambes écartées.
+
+L’examen cardiaque et pulmonaire était sans particularités, les bruits intestinaux étaient vifs. Des coupures superficielles croûteuses récentes étaient visibles au niveau du cou. Au niveau des deux bras, la patiente présentait des cicatrices d’anciennes coupures.
+
+Les analyses de laboratoire ont révélé une valeur accrue de myoglobine de 26 360 µg/l (norme 25–58), une créatinine kinase augmentée de 276 U/l (norme <170), ainsi que des transaminases élevées: ASAT 770 U/l (norme <35) et ALAT 143 U/l (norme <35). L’analyse toxicologique des urines était positive pour les benzodiazépines, la cocaïne, la méthadone et la morphine / les opiacés.
+
+Par la suite, la créatinine kinase a fortement augmenté jusqu’à une valeur maximale de 115 430 U/l. Malgré une hydratation intensive visant à prévenir une lésion tubulaire causée par la myoglobine, l’urine avait une coloration brune-violette prononcée. Les paramètres de rétention rénale se sont détériorés temporairement avec une valeur maximale de créatinine de 94 µmol/l (valeur initiale 80), correspondant à une détérioration du débit de filtration glomérulaire estimé (DFGe) passant de 112 ml/min à 69 ml/min. Suite au traitement par benzodiazépines, les myoclonies avaient déjà nettement régressé le jour suivant; l’hyperréflexie prononcée a persisté pendant deux jours, puis a disparu progressivement.
+
+Discussion
+
+Le syndrome sérotoninergique [1, 2] est une réaction médicamenteuse indésirable potentiellement fatale causée par les agonistes sérotoninergiques [3, 4]. Dans de rares cas, il peut déjà survenir lors de la prise des doses recommandées, mais le plus souvent, il résulte d’un surdosage. Le surdosage peut concerner la prise d’un seul médicament, mais une prise concomitante de différents agonistes sérotoninergiques et de substances entraînant une inhibition du transporteur de la sérotonine, telles que la cocaïne ou la méthadone, est fréquemment impliquée [5], aboutissant alors de façon cumulative à un syndrome sérotoninergique via une concentration accrue de sérotonine dans les synapses des neurones sérotoninergiques cérébraux.
+
+Dans l’histoire de la médecine, un cas illustre est celui de la patiente âgée de 18 ans Libby Zion [6]. Elle est dé­cédée en 1984 d’un syndrome sérotoninergique ayant résulté de l’administration de péthidine et de l’antidépresseur phénelzine (inhibiteur sélectif de la mono­amine oxydase, IMAO) par des médecins assistants inexpérimentés et surmenés, qui ont en outre été ­insuffisamment supervisés.
+
+Le diagnostic de syndrome sérotoninergique repose classiquement sur la triade suivante: hyperactivité du système nerveux autonome, altérations qualitatives de la conscience et troubles neuromusculaires (tab. 1).
+
+Tableau 1: Signes classiques du syndrome sérotoninergique. Toutes les anomalies ne sont pas systématiquement présentes chez tous les patients (toxicité sérotoninergique).
+Triade du syndrome sérotoninergique
+Signes d’hyperactivité du système nerveux autonome	Tachycardie
+Hypertension artérielle
+Hyperhidrose
+Mydriase
+Vomissements
+Diarrhée
+Hyperthermie
+Altérations qualitatives de la conscience	Anxiété
+Délirium hyperactif
+Agitation motrice (akathisie)
+Désorientation
+Troubles neuromusculaires (avant tout au niveau des membres inférieurs)	Réflexes ostéo-tendineux ­augmentés
+Myoclonies
+Tremblements
+Rigidité musculaire dans les cas sévères
+
+Sur le plan clinique, le syndrome sérotoninergique peut donner lieu à des manifestations très variées. Dans les cas de symptômes plutôt légers, les patients afébriles se présentent avec une tachycardie, des tremblements musculaires et une hyperhidrose. Il y a typiquement des réflexes ostéo-tendineux augmentés et des myoclonies, qui sont plus prononcées au niveau des membres inférieurs. Dans les cas plus sévères, un délirium hyperactif s’y ajoute typiquement. L’examen clinique révèle alors parfois une rigidité musculaire prononcée (tension musculaire augmentée), qui peut masquer les myoclonies, et souvent une fièvre élevée. Les patients sont hypertendus et tachycardes. Plus tard, un état de choc pouvant avoir une évolution fatale peut se développer. Les anomalies de laboratoire typiques incluent une acidose métabolique, une rhabdomyolyse avec créatine kinase accrue, une myoglobinurie et éventuellement une insuffisance rénale. Dans les cas sévères, le syndrome sérotoninergique peut conduire à une coagulation intravasculaire disséminée.
+
+Le diagnostic du syndrome sérotoninergique est un diagnostic clinique. L’anamnèse médicamenteuse doit être recueillie méticuleusement, sans omettre les médicaments non soumis à ordonnance et les substances illégales. Un algorithme [1] est présenté dans la figure 1.
+
+Figure 1: Algorithme pour la pose du diagnostic du syndrome sérotoninergique. (From: Boyer EW, Shannon M. The Serotonin-Syndrome. N Engl J Med. 2005;352:1112–20. ­Copyright © 2005, Massachusetts Medical Society. Translated/reprinted with permission from ­Massachusetts Medical Society.)
+
+En cas de surdosage des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS), environ 14–16% des patients développent un syndrome sérotoninergique. Toutefois, ce syndrome passe souvent inaperçu dans la pratique clinique quotidienne, peut-être en raison des présentations atypiques (lorsque seules certaines composantes du syndrome sérotoninergique sont présentes, il est question de toxicité sérotoninergique) ou d’une sensibilisation insuffisante de l’équipe soignante.
+
+Divers médicaments ou associations de médicaments peuvent être responsables d’un syndrome sérotoninergique. Les plus fréquemment incriminés sont les IMAO (outre des antidépresseurs, les antibiotiques isoniazide et linézolide font également partie de ce groupe), les antidépresseurs tricycliques, les ISRS et les inhibiteurs de la recapture de la sérotonine et de la noradrénaline (IRSN) et certains opioïdes (en particulier le tramadol, la péthidine et la méthadone; en revanche, la morphine, la codéine, l’oxycodone et la buprénorphine ne provoquent probablement pas de syndrome sérotoninergique [2]). Certains antitussifs (dextrométhorphane) et même le millepertuis sont également connus pour déclencher un syndrome sérotoninergique, tout comme des drogues illégales, telles que l’amphétamine, la cocaïne, l’ecstasy et le LSD (tab. 2). Les triptans ne peuvent probablement pas déclencher un syndrome sérotoninergique [7], au même titre que les antiémétiques (ondansétron) en tant qu’inhibiteurs des récepteurs de la 5-hydroxytryptamine [2].
+
+Tableau 2: Médicaments pouvant provoquer un syndrome sérotoninergique et leur mécanisme d’action.
+Classe médicamenteuse	Exemples	Mécanisme d’action
+ISRS	Citalopram, escitalopram, fluoxétine, fluvoxamine, ­paroxétine, sertraline	Inhibition de la recapture de la sérotonine dans le ­neurone (présynaptique)
+IRSN, IRDN	Duloxétine, venlafaxine, ­mirtazapine, bupropion
+Antidépresseurs ­tricycliques	Clomipramine, opipramol, trimipramine
+Opioïdes	Fentanyl, péthidine, ­tramadol, méthadone
+Antitussifs et anti­grippaux	Dextrométhorphane, ­chlorphénamine
+Phytothérapeutiques	Millepertuis
+Drogues et psychostimulants	Cocaïne, diverses nouvelles substances psychoactives, MDMA (ecstasy)	Libération accrue de ­sérotonine à partir de la ­présynapse
+LSD, psilocybine	Agonisme des récepteurs sérotoninergiques
+(Lisdex)amphétamine,
+méthylphénidate	Inhibition de la recapture de la sérotonine dans le ­neurone (présynaptique) et agonisme des récepteurs sérotoniner-giques
+IMAO	Moclobémide	Inhibition de la monoamine oxydase > dégradation ­ré-duite de la sérotonine
+Antibiotiques	Linézolide, isoniazide
+Antiparkinsoniens	Safinamide, rasagiline
+Acide aminé	L-tryptophane	Synthèse accrue de séroto-­nine à partir du tryptophane
+
+Dans le cadre du diagnostic différentiel, outre les intoxications aux anticholinergiques (réflexes ostéo-tendineux normaux, pas de bruits intestinaux) et l’hyperthermie maligne liée à une anesthésie par inhalation, le syndrome malin des neuroleptiques entre avant tout en ligne de compte. Le syndrome malin des neuroleptiques se distingue principalement du syndrome sérotoninergique par un début plus lent s’étalant sur plusieurs jours (à la différence du syndrome sérotoninergique, qui se développe rapidement), des réflexes ostéo-tendineux diminués et une rigidité musculaire prononcée. A l’anamnèse, il n’y a pas de prise de substances sérotoninergiques, le syndrome malin des neuroleptiques étant déclenché par les antagonistes des récepteurs dopaminergiques [8]. Le syndrome malin des neuroleptiques régresse aussi plus lentement. Enfin, chez les patients avec encéphalites, des signes sérotoninergiques peuvent être retrouvés.
+
+La première étape dans le traitement du syndrome sérotoninergique consiste à arrêter tous les médicaments qui peuvent en être responsables. Une surveillance étroite, une substitution volémique et l’administration de benzodiazépines pour traiter l’agitation et les myoclonies sont recommandées. Les patients avec des formes sévères ­particulières pourraient en outre profiter de l’adminis­tration d’antagonistes sérotoninergiques. La cyproheptadine, exclusivement sous forme orale, n’est plus commercialisée en Suisse. Des neuroleptiques atypiques ayant une activité antagoniste des récepteurs de la 5-hydroxytryptamine 2A ont été utilisés avec succès, notamment l’olanzapine 10 mg par voie sublinguale. Des preuves issues d’études cliniques font néanmoins défaut, et des cas de syndrome sérotoninergique survenus sous traitement par olanzapine ont même été rapportés dans la littérature [9]. Face à des évolutions sévères avec hyperthermie prononcée et agitation, il convient d’envisager précocement une sédation par benzodiazépines y compris relaxation musculaire par myorelaxant non dépolarisant, suivie d’une intubation avec ventilation mécanique. Dans la mesure où certains antidépresseurs, en particulier le citalopram, peuvent entraîner un allongement de l’intervalle QT, des ECG répétés sont nécessaires, par exemple toutes les huit heures, jusqu’à la normalisation du QT. L’administration de sulfate de magnésium (2 g i.v.) est recommandée en cas d’allongement du QTc supérieur à 560 ms ou de survenue de torsades de pointe.
+
+L’essentiel pour la pratique
+
+• Le syndrome sérotoninergique est une réaction médicamenteuse indésirable souvent sous-diagnostiquée et potentiellement fatale.
+
+• Sur le plan clinique, il se caractérise avant tout par la triade symptomatique associant hyperactivité du système nerveux autonome, altérations qualitatives de la conscience et troubles neuromusculaires. La fièvre, l’hyperréflexie, les myoclonies et l’agitation sont typiques.
+
+• Sur le plan thérapeutique, l’arrêt de tous les médicaments sérotoninergiques est une priorité absolue; la prise en charge comprend également une surveillance étroite, y compris ECG à douze dérivations, une substitution volémique et l’administration de benzodiazépines. Dans les cas ­sévères, une relaxation musculaire par agent non dépolarisant et une ventilation mécanique sont en outre indiquées.

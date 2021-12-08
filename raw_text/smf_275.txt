@@ -1,0 +1,60 @@
+Contexte
+
+Les douleurs abdominales représentent un large chapitre de la médecine d’urgence dont l’approche diagnostique est notamment basée sur l’histoire clinique du patient et la localisation de la douleur. De nombreuses étiologies peuvent provoquer l’apparition de douleurs abdominales, mais lorsque celles-ci sont associées à une masse palpable ou à un hématome, le diagnostic différentiel s’affine et comprend notamment la pancréatite aiguë et un saignement abdominal (intra-/extrapéritonéal, intraparietal).
+
+Présentation du cas
+Anamnèse
+
+Il s’agit d’une femme de 78 ans hospitalisée pour réhabilitation pneumologique. La patiente est connue pour une hypertension pulmonaire combinée pré-postcapillaire (groupe 2 et 5) dans le contexte d’une insuffisance cardiaque à fraction d’éjection conservée et d’une sarcoïdose stable sous 5 mg de prednisone par jour. Elle n’a pas d’antécédent chirurgical et bénéficie de 100 mg par jour d’acide acétylsalicylique en prévention cardiovasculaire primaire.
+
+La patiente est réveillée une nuit par une douleur de l’hypochondre gauche, d’apparition subite, sans symptôme associé, ni notion de traumatisme. Elle décrit une douleur localisée en hypochondre gauche, non irradiante, ni respiro-dépendante. Elle rapporte uniquement avoir eu d’importantes quintes de toux précédant la douleur.
+
+Status
+
+Les paramètres vitaux sont dans la norme. La palpation abdominale révèle une masse dure, non-mobilisable, mesurant 10 × 5 cm au niveau du flanc gauche, sans péritonisme. L’examen clinique à 48 heures met en évidence l’apparition d’un hématome du flanc gauche s’étendant en fosse iliaque gauche associé à un hématome ombilical (fig. 1).
+
+Figure 1: Flèche rouge: hématome abdominal (signe de Cullen). Flèche jaune: hématome du flanc (signe de Grey-Turner). La publication a été réalisée avec l’accord de la patiente.
+
+Résultats
+
+La formule sanguine montre une chute de 20 g/l de l’hémoglobine à 72 h, sans leucocytose, ni perturbation des tests hépatiques et pancréatiques.
+
+En raison d’une suspicion de fractures costales sur efforts de toux, une radiographie du grill costal est effectuée ne montrant pas de fractures. Une radiographie de l’abdomen sans préparation réalisée à la recherche de signes d’iléus, décrit une coprostase du colon gauche et transverse.
+
+Suite à la mise en évidence de l’hématome abdominal, nous réalisons un CT abdominal non injecté à cause d’une insuffisance rénale chronique. Un hématome intramusculaire du muscle grand droit est visualisé du côté gauche, sans dissection du fascia transversalis (fig. 2).
+
+Figure 2: CT-scan abdominal non injecté montrant un hématome de la gaine du muscle grand droit (flèche rouge).
+
+Diagnostic
+
+Hématome du muscle grand droit de type I.
+
+Prise en charge
+
+Au vue de la stabilité hémodynamique, aucune mesure de réanimation n’a été nécessaire. Nous avons opté pour un traitement conservateur axé sur une antalgie simple par paracétamol. La chute de l’hémoglobine n’a pas nécessité de transfusion sanguine.
+
+Discussion
+
+L’hématome du muscle du grand droit est une entité clinique rare et souvent mal diagnostiquée. Il résulte d’une lésion des branches des artères épigastriques supérieures dans la gaine du muscle grand droit ou d’une déchirure musculaire directe.
+
+Bien qu’il représente moins de 2% des causes de douleurs abdominales, il est important de savoir l’identifier en raison de son taux de mortalité allant de 4 à 25% [1] chez les patients anticoagulés. Hormis les traumatismes abdominaux, les principaux facteurs de risque d’hématome du muscle grand droit comprennent les interventions abdominales (chirurgie, paracentèse d’ascite, dialyse péritonéale), la prise d’anticoagulant et les contractions forcées du muscle grand droit notamment lors d’efforts de toux.
+
+La présentation clinique consiste généralement en une douleur abdominale associée à une masse palpable. La douleur est habituellement aiguë, non irradiante et peut toucher les quatre quadrants. Dans un second temps, un hématome peut apparaître et s’étendre facilement vers le pelvis en raison de l’absence d’aponévrose postérieure à la partie inférieure du muscle droit, sous la ligne arquée.
+
+Comme pour la pancréatite, les signes de Cullen et de Grey Turner sont retrouvés. Ils représentent respec­tivement un saignement de l’ombilic et des flancs. La persistance ou augmentation de la douleur lors de la contraction abdominale (signe de Carnett) parle en faveur d’une atteinte de la paroi abdominale. Si une masse est palpée et ne franchit pas la ligne médiane et reste palpable lors de la contraction abdominale, l’origine est probablement pariétale (signe de Fothergill).
+
+Le diagnostic repose sur l’imagerie. L’échographie abdominale a une sensibilité de 80–90% et se révèle surtout importante dans le suivi radiologique de l’hématome. Le meilleur outil diagnostic reste le CT-scan abdominale avec une sensibilité et spécificité de 100% [2]. Ce dernier est également indispensable pour classifier la sévérité de l’hématome en trois types.
+
+Berna et al. [3] propose une classification de sévérité de l’hématome du muscle grand droit basée sur le CT-scan abdominal. Dans le type I, l’hématome est intramusculaire, unilatéral, d’aspect fusiforme et se résout en un mois. Dans le type II, le saignement dissèque le fascia transversalis, peut devenir bilatéral et se résout en 2–4 mois. Dans le type III, l’hématome se propage à la cavité péritonéale [3]. Dans notre vignette ci-dessus, l’hématome est de type I en raison de l’absence de dissection du fascia transversalis.
+
+Le suivi repose principalement sur la clinique et le dosage de l’hémoglobine. Dans la majorité des cas, l’hématome est autolimité et les patients sont stables sur le plan hémodynamique. Le traitement reste en premier lieu conservateur. Il se compose d’une analgésie simple et d’une gestion de l’hémostase avec discussion de l’arrêt des anticoagulants et antiagrégants. En cas d’instabilité hémodynamique réfractaire, un remplissage volumique s’impose et un contrôle invasif de l’hémorragie par embolisation ou ligature vasculaire doit être considéré [3, 4].
+
+L’essentiel pour la pratique
+
+• L’hématome du muscle grand droit fait partie du diagnostic différentiel des douleurs abdominales surtout si celles-ci sont associées à une masse et un hématome.
+
+• Bien que l’hématome du muscle grand droit soit surtout décrit chez les patients anticoagulés, il peut se produire sous antiagrégation.
+
+• Le diagnostic se pose généralement par échographie ou CT scan. Ce dernier permet également la stratification de l’hématome et la visualisation d’un éventuel saignement actif.
+
+• Le traitement reste conservateur sauf en cas d’instabilité hémodynamique nécessitant une hémostase par embolisation ou ligature vasculaire.

@@ -1,0 +1,120 @@
+Contexte
+
+Les douleurs abdominales hautes sont un motif fréquent de consultation au cabinet de médecine de ­famille et au service des urgences. En particulier chez les patients jeunes, il est fréquent qu’aucune explication ne soit trouvée et que les symptômes régressent spontanément avec le temps. En cas de survenue d’anomalies cliniques concomitantes, il convient néanmoins d’initier des investigations diagnostiques complémentaires.
+
+Rapport de cas
+Anamnèse
+
+Nous présentons le cas d’une patiente de 31 ans jusqu’­alors en bonne santé, qui s’est présentée au cabinet d’urgences en raison de douleurs abdominales hautes d’intensité croissante au cours des dernières semaines, ainsi que d’une augmentation de la circonférence abdominale. La patiente a en outre rapporté des nausées sans vomissements, une perte d’appétit et une prise de poids d’environ 3 kg en l’espace d’un mois. La patiente était originaire d’Algérie et vivait depuis un an en Suisse.
+
+Examen clinique
+
+Le patiente s’est présentée dans un état général légèrement diminué et afébrile. Les paramètres vitaux étaient normaux (pression artérielle 111/76 mm Hg; pouls 100/min; température 37,1 °C; SpO2 98% en air ambiant). L’examen clinique a révélé un abdomen fortement ballonné et tendu avec une douleur à la pression diffuse, en particulier dans la partie supérieure de l’abdomen, et un signe de Murphy positif. Les sclères étaient légèrement ictériques. L’examen clinique était au demeurant sans particularités.
+
+Autres examens
+
+Les analyses de laboratoire ont montré une légère polyglobulie, ainsi qu’une leucocytose et une thrombocytose prononcées avec une valeur non élevée de protéine C réactive (CRP). Un tableau d’insuffisance hépatique a également été identifié, avec une élévation modérée des transaminases, une élévation spontanée de l’INR et une faible concentration de protéines totales (tab. 1). L’échographie abdominale a révélé une ascite dans les quatre quadrants, une splénomégalie et un kyste ovarien du côté gauche.
+
+Tableau 1: Valeurs de laboratoire lors de l’admission.
+ 	 	Norme	A l’ad­mission
+Hématologie	Hémoglobine	12,3–15,8 g/dl	16,2
+Hématocrite	37–47%	51
+Erythrocytes	4,0–5,2 T/l	6,8
+Leucocytes	3,0–9,6 G/l	18,79
+Thrombocytes	150–400 G/l	733
+Coagulation	Temps de ­prothrombine	78–120%	44
+INR	 	1,53
+Chimie clinique	Créatinine	50–98 µmol/l	55
+Bilirubine	<20,5 µmol/l	25
+ASAT (GOT)	<34 U/l	42
+ALAT (GPT)	<55 U/l	47
+Gamma-GT (GGT)	<36 U/l	76
+Phosphatase ­alcaline	<150 U/l	126
+Albumine	35–52 g/l	39
+Protéines totales	60–83 g/l	57
+CRP	<5 mg/l	7,0
+INR: «International Normalized Ratio»; ASAT: aspartate aminotransférase; GOT: glutamate oxalacétate transaminase; ALAT: alanine aminotrans­férase; GPT: glutamate pyruvate transaminase; GGT: gamma-glutamyltranspeptidase; CRP: protéine C réactive.
+
+Une cause infectieuse de l’insuffisance hépatique a pu être exclue par analyses de laboratoire (sérologie de l’hépatite négative, et sérologies négatives pour le virus de l’immunodéficience humaine [VIH], le virus d’Epstein-Barr [EBV], le cytomégalovirus [CMV] et le virus Herpes simplex [HSV]), de même qu’une origine auto-immune. Une ponction d’ascite n’a pas permis de mettre en évidence une péritonite bactérienne spontanée ou des cellules malignes.
+
+La tomodensitométrie a montré une obstruction thrombotique de l’ensemble des veines hépatiques avec des signes secondaires d’hypertension portale (ascite, épanchements pleuraux bilatéraux, splénomégalie) (fig. 1). Le diagnostic de syndrome de Budd-Chiari a donc pu être posé.
+
+Figure 1: La tomodensitométrie coronaire montre une hépatomégalie avec accumulation non homogène du produit de contraste, sans veines hépatiques visibles lors de la phase veineuse portale. Ascite prononcée des quatre quadrants (x).
+
+Traitement et évolution
+
+Nous avons alors initié une anticoagulation thérapeutique par énoxaparine et avons réalisé un bilan de thrombophilie. Face à un statut mutationnel positif de Janus kinase (JAK) 2 et une morphologie de la moelle osseuse concordante, une néoplasie myéloproliférative de type maladie de Vaquez a pu être diagnostiquée et elle a été interprétée comme étant la cause de l’obstruction thrombotique des veines hépatiques et donc du syndrome de Budd-Chiari.
+
+La gastroscopie a objectivé une duodénite érosive ­légère et des signes secondaires d’hypertension portale, mais sans varices œsophagiennes ou fundiques.
+
+Malgré l’anticoagulation thérapeutique initiée et le traitement diurétique, l’obstruction thrombotique des veines hépatiques a persisté et la patiente a présenté par la suite à plusieurs reprises une ascite nécessitant une ponction. Pour cette raison, l’indication d’une mise en place d’un shunt porto-systémique intrahépatique par voie transjugulaire (TIPS) a été posée. A la portographie au CO2, une multitude de collatérales ont été visualisées, mais aucune veine hépatique (fig. 2).
+
+Figure 2: Portographie au CO2: injection de CO2après insertion d’un ballon d’occlusion par la veine hépatique droite obstruée. Visualisation du CO2dans les multiples collatérales.
+
+Après ponction réussie de la veine porte, seul un nombre modéré de collatérales ont été visualisées à la portographie directe, ce qui était compatible avec une obstruction des veines hépatiques d’évolution rapide (fig. 3). Après l’intervention, la quantité d’ascite a rapidement diminué, suite à quoi le traitement diurétique a pu être lentement réduit.
+
+Figure 3: Injection de produit de contraste directement dans la veine porte (x) avec visualisation de la veine coronaire (flèche) et de petites varices œsophagiennes (astérisque).
+
+Environ un mois après sa sortie de l’hôpital, la patiente s’est à nouveau présentée au service des urgences en raison de douleurs abdominales croissantes et d’une prise de poids. En dépit d’une nouvelle augmentation de la diurèse, une augmentation de l’ascite a été constatée à l’échographie. La cause en était une obstruction thrombotique du TIPS, qui était survenue malgré un traitement anticoagulant bien contrôlé par Marcoumar® (INR 2–3). Le TIPS obstrué a pu être recanalisé avec succès par voie interventionnelle moyennant une thrombolyse locale. Le TIPS a en outre été prolongé pour se finir juste en-dessous de l’oreillette (fig. 4).
+
+Figure 4: Shunt porto-systémique intrahépatique par voie transjugulaire (TIPS) bien fonctionnel avec flux uniquement encore minime dans la veine coronaire.
+
+En raison de cet évènement thrombotique survenu malgré une anticoagulation adéquate, le traitement par Marcoumar® a été interrompu, et un traitement «off-label» par rivaroxaban plus un traitement anti­agrégant plaquettaire par acide acétylsalicylique ont été initiés. Après une évaluation hématologique, nous avons débuté en plus par la suite un traitement cytoréducteur par Litalir®. Environ huit mois après la première consultation, la patiente présentait un bon état général, avec une fonction hépatique normale sans récidive d’ascite et une bonne fonction du TIPS.
+
+Discussion
+
+Il existe de nombreux diagnostics différentiels possibles face à des douleurs abdominales en lien avec une ascite, et une évaluation approfondie s’impose. Le syndrome de Budd-Chiari (SBC), comme dans le cas de la patiente décrite, en est une cause rare. Il s’agit d’une ­affection qui est causée par une obstruction du drainage au niveau des veinules hépatiques, des grandes veines hépatiques et de la veine cave inférieure post-hépatique, sans mise en évidence d’une cause cardiaque (insuffisance cardiaque droite) [1]. Dans nos contrées, la maladie touche plus fréquemment les femmes que les hommes et elle survient le plus souvent entre l’âge de 20 et 40 ans, sachant que les enfants et les personnes âgées peuvent également en être ­atteints. En Asie, le SBC affecte plus fréquemment les hommes et se manifeste à un âge plus tardif (à partir de 45 ans) [1, 2]. Dans env. 75% des cas, des facteurs prédisposants sont à l’origine du SBC; dans les pays occidentaux, il s’agit le plus souvent de maladies myéloprolifératives (tab. 2) [3].
+
+Tableau 2: Causes du syndrome de Budd-Chiari [3].
+Causes fréquentes
+ 	Hypercoagulopathies ­congénitales	Déficit en antithrombine III
+Déficit en protéine C
+Déficit en protéine S
+Mutation du facteur V de Leiden
+Mutation de la prothrombine
+ 	Hypercoagulopathies
+acquises	Maladies myéloprolifératives, mutation de JAK-2
+Hémoglobinurie paroxystique nocturne
+Syndrome des antiphospholipides
+Tumeurs malignes
+Grossesse
+Contraceptifs oraux
+Causes plus rares	Invasion tumorale, carcinome hépatocellulaire
+Aspergillose
+Syndrome de Behcet
+Sténoses congénitales ou obstructions membraneuses intravasculaires
+Traumatisme
+Maladies inflammatoires chroniques de l’intestin, maladie cœliaque
+ 	Idiopathique
+JAK: Janus kinase
+
+En fonction de la localisation, il convient de faire la distinction entre la forme primaire du SBC, dans laquelle la cause émane de l’intérieur de la veine (thrombus, sténoses congénitales, obstructions membraneuses), et la forme secondaire du SBC, qui se caractérise par une compression des veines depuis l’extérieur (abcès, tumeur, kyste).
+
+En outre, dépendant de l’évolution, on distingue une forme fulminante, une forme aiguë, une forme subaiguë et une forme chronique. L’évolution fulminante et l’évolution aiguë se caractérisent par la survenue rapide de symptômes d’hypertension portale, avec ascite, ­ictère et nécroses des cellules hépatiques. L’évolution subaiguë et l’évolution chronique donnent souvent lieu à des symptômes très discrets, et des évolutions totalement asymptomatiques ont également été décrites (tab. 3) [3].
+
+Tableau 3: Symptômes du syndrome de Budd-Chiari.
+Symptômes généraux	Douleurs abdominales, hépatomégalie, nausées, ­vomissements
+Symptômes spécifiques	Forme fulminante (rare, en l’espace de quelques jours/­semaines): ictère, élévation des transaminases, encéphalopathie ­hépatique
+Forme aiguë (plusieurs semaines):ictère, élévation des transaminases, ascite tenace, absence de collatérales veineuses portales
+Forme subaiguë (développement insidieux, symptômes en l’espace de 3 mois):élévation des transaminases, ascite (il est possible que ces deux symptômes soient discrets), collatérales veineuses portales, évolution asymptomatique possible
+Forme chronique:Complications d’une cirrhose hépatique (ictère, ascite, œdèmes, hémorragie gastro-intestinale dans le cadre de ­collatérales veineuses portales, encéphalopathie hépatique)Evolution asymptomatique possible
+
+L’échographie-doppler couleur possède une sensibilité et une spécificité d’au moins 85%, ce qui en fait l’examen de premier choix dans le cadre des investigations diagnostiques. L’angio-tomodensitométrie et l’angiographie par résonance magnétique représentent des alternatives, en particulier pour visualiser l’anatomie veineuse et le parenchyme hépatique, y compris en vue d’un éventuel traitement interventionnel [3, 4].
+
+Le traitement vise d’une part l’hypertension portale et ses complications et d’autre part la genèse thrombotique et les affections sous-jacentes. La mise en place d’un TIPS constitue une bonne alternative thérapeutique, notamment chez les patients avec SBC et complications non maîtrisables de l’hypertension portale, et elle est en particulier bien tolérée par les patients avec fonction hépatique relativement bonne. La mise en place d’un TIPS devrait être envisagée précocement comme intervention de premier choix chez les ­patients avec réponse insuffisante à un traitement médicamenteux, car cette intervention permet d’améliorer considérablement la survie sans transplantation par rapport au traitement médicamenteux [5]. En raison de l’évènement thrombotique sous-jacent, les patients devraient faire l’objet d’une anticoagulation thérapeutique par antagonistes de la vitamine K (par example Marcoumar®) afin d’obtenir une valeur d’INR de 2–3. Si possible, toute affection sous-jacente diagnostiquée dans le cadre des examens devrait en plus être traitée spécifiquement.
+
+En l’absence de traitement, le SBC symptomatique est associé à une mortalité élevée, de l’ordre d’environ 90% en l’espace de trois ans. Moyennant une mise en œuvre progressive de toutes les options thérapeutiques (traitement médicamenteux, thrombolyse et angioplasie, TIPS, transplantation hépatique), un taux de survie à cinq ans de 90% peut être atteint [1].
+
+L’essentiel pour la pratique
+
+• Le syndrome de Budd-Chiari (SBC) représente une cause rare de douleurs abdominales et d’ascite, et il devrait être envisagé dans le cadre des ­investigations.
+
+• Les patients peuvent se présenter avec des symptômes très peu spécifiques.
+
+• Le diagnostic est posé au moyen de l’imagerie, soit par échographie, soit par tomodensitométrie et imagerie par résonance magnétique.
+
+• Dans nos contrées, le SBC est le plus souvent causé par une thrombophilie (surtout maladies myéloprolifératives).
+
+• En raison des thromboses veineuses hépatiques, une anticoagulation thérapeutique doit être initiée. Par ailleurs, l’hypertension portale et toute maladie sous-jacente potentielle doivent faire l’objet d’un traitement spécifique.
+
+• Le taux de mortalité élevé en l’absence de traitement peut être abaissé considérablement moyennant la mise en œuvre de toutes les options thérapeutiques.

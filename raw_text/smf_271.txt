@@ -1,0 +1,52 @@
+Einleitung
+
+Dyspnoe beschreibt ein subjektives Empfinden von Kurzatmigkeit und stellt eine häufige Ursache für Arztkonsultationen dar. Die Abklärung von Dyspnoe stellt Ärzte und Patienten zum Teil vor grosse Herausforderungen. Häufig liegt als Ursache ein Asthma bronchiale zugrunde. Gemäss Definition der Global Initiative for Asthma (GINA) ist Asthma bronchiale charakterisiert durch eine chronische Atemwegsentzündung, die einhergeht mit Symptomen wie giemender Atmung, Kurzatmigkeit, thorakalem Engegefühl und Husten sowie ­einer variablen exspiratorischen Flusslimitation. Die Präsentation der Symptome ist im zeitlichen Verlauf und in der Intensität typischerweise fluktuierend. Für die Diagnosesicherung sind neben einer detaillierten Anamnese zumindest eine Spirometrie und ggf. andere technische Hilfsmittel (Bronchoprovokationstest, FeNO, Sputumuntersuchung, Bildgebung) notwendig.
+
+Trotz allem können einige Erkrankungen als Asthma bronchiale fehlgedeutet werden. Diese Fallberichte beschreiben anhand von zwei Beispielen eine behandelbare und seltene Differenzialdiagnose eines «Asthma Mimics».
+
+Fallberichte
+Patientin 1
+
+Die 28-Jährige (BMI 18,8 kg/m2) wurde in ihrem Beruf als Physiotherapeutin seit einigen Wochen wiederholt von Bekannten im Spitalumfeld aufgrund eines auffälligen Atemgeräusches unter Belastung angesprochen. Sub­jektiv empfand die Patientin eine Anstrengungsdyspnoe (MRC 2) sowie ein thorakales Engegefühl, welches durch Husten akzentuiert wurde. Die Patientin war bis anhin gesund und nahm keine Medikamente ein.
+
+In der pneumologischen Sprechstunde konnte nach Belastung auf der Treppe über 4 Stockwerke ein deut­licher und kontinuierlicher in- und exspiratorischer Stridor reproduziert werden. Sowohl die dynamischen Lungenvolumina als auch die CO-Diffusionskapazität waren numerisch unauffällig, lediglich in der Fluss-­Volumen-Kurve zeigte sich eine inspiratorische und weniger ausgeprägt auch eine exspiratorische Atemflusslimitation. Im CT-Befund (Abb. 1) konnte eine isolierte subglottische Trachealstenose ohne Hinweise auf eine stenosierende Tumormasse identifiziert werden. Die endgültige Diagnosestellung erfolgte über eine dia­gnostische flexible Bronchoskopie, aufgrund derer eine isolierte, kurzstreckige ca. 70%ige Einengung des Tracheallumens geschätzt wurde. Die Schleimhaut im Bereich der Stenose war intakt, ohne Hinweise auf eine floride Entzündung oder einen Tumor. Aufgrund fehlender klinischer Risikofaktoren (keine Intubation, keine Operationen, Familienanamnese bland) sowie negativen ANCA-Autoantikörpern musste von einer idiopathischen subglottischen Trachealstenose aus­gegangen werden.
+
+Abbildung 1: Radiologischer Befund vonPatientin 1mit Nachweis einer Trachealstenose ca. 4 cm unterhalb der Epiglottis (Einengung durch eine Gewebsbrücke ventral). Darüber und darunter unauffällige Darstellung der Trachea als auch der zentralen Luftwege.
+
+Im Rahmen von zwei aufeinanderfolgenden starren Bronchoskopien im Zentrumsspital wurde die segel­artige Stenose mit Hilfe eines elektrischen Messers (VIO® 200 D, Erbe Elektromedizin GmbH, Tübingen, Deutschland) unter Schonung des Nervus recurrens inzidiert und anschliessend mit dem starren Bronchoskop vorsichtig bougiert (für Verlauf siehe Abb. 2 A, C, D; für Prozedur [1]). Nach passagerer Besserung der respiratorischen Beschwerden kam es ein Jahr nach der Intervention wieder zu einer stridorösen Atmung mit einer lungenfunktionell objektivierbaren Flusslimitation. Eine erneute bronchoskopische Intervention ist daher geplant. Eine chirurgische Sanierung (Tracheasegmentresektion) lehnt die Patientin aktuell ab.
+
+Abbildung 2: Bronchoskopischer Direktnachweis einer subglottischen Trachealstenose mit Lumeneinengung beiPatientin 1(ca. 70%) (A ) undPatientin 2(ca. 50%) (B ). Unmittelbarer postinterventioneller Zustand (C ) beiPatientin 1und bei der 3-monatigen Verlaufskontrolle (D ) mit freier unauffälliger Trachea.
+
+Patientin 2
+
+Die 48-Jährige (BMI 34,5 kg/m2) beklagte seit längerem Anstrengungsdyspnoe mit belastungsabhängigem thorakalem Engegefühl sowie ein ständiges Fremdkörpergefühl im Hals. Es folgten diverse, zum Teil invasive Abklärungen jeweils ohne richtungsweisende Befunde (u.a. Koronarangiographie, Angio-CT-Thorax, Echo­kardiographie, Rechtsherzkatheter, Spirometrie). Die Spiroergometrie ergab eine leicht eingeschränkte körperliche Leistungsfähigkeit mit leicht eingeschränkter maximaler Sauerstoffaufnahme ohne ventilatorische Limitation oder O2-Desaturation unter Belastung. Letztlich wurden die Beschwerden im Rahmen einer körperlichen Dekonditionierung und einer Angststörung ­interpretiert, obschon ein inadäquater Anstieg des Atemminutenvolumens beschrieben wurde.
+
+Nach zwei Jahren ohne Besserung der Beschwerden ­erfolgte bei Verdacht auf ein Asthma bronchiale eine erneute pneumologische Abklärung. Die Spirometrie ergab eine deutliche Abflachung der in- und exspiratorischen Fluss-Volumen-Kurve (Abb. 3), so dass der Verdacht auf eine extrathorakale Atemwegsstenose gestellt wurde. Bronchoskopisch konnte eine subglottische Trachealstenose mit Einengung des Tra­cheallumens um ca. 50% bestätigt werden. Retrospektiv zeigte bereits eine 2 Jahre zuvor durchgeführte Spirometrie einen analogen Befund, der jedoch nicht als solcher erkannt wurde.
+
+Abbildung 3: Beispiel einer Abflachung der in- und exspiratorischen Fluss-Volumen-Kurve anhand des Befundes vonPatientin 2(A ), das dem Befund einer subglottischen Trachealstenose entspricht. Erneute Spirometrie vonPatientin 2drei Monate postinterventionell (B ) bei unauffälligem Befund und beschwerdefreier Patientin.
+
+Es erfolgte eine interventionelle Therapie mittels starrer Bronchoskopie, wobei vor der Dilatation die Lamellen der Trachealstenose mit Hilfe eines elektrischen Messers in analoger Weise wie oben beschrieben inzidiert wurden. Unmittelbar postinterventionell war die Pa­tientin beschwerdefrei mit Normalisierung der Fluss-Volumen-Kurve in der Spirometrie (Abb. 3). Auch ein Jahr nach dem Eingriff war die Patientin komplett beschwerdefrei.
+
+Diskussion
+
+Trachealstenosen treten aufgrund einer Vielzahl unterschiedlicher benigner und maligner Erkrankungen auf. Nach Ausschluss einer zugrunde liegenden Ätiologie (siehe unten) kann die Diagnose einer idiopathischen Trachealstenose gestellt werden. Betroffen sind überwiegend Frauen [2, 3]. Eine familiäre Disposition ist in Einzelfällen beschrieben [4].
+
+Zentrale Atemwegsstenosen können akut im Rahmen einer Fremdkörperaspiration, einer Schleimhautschwellung (z.B. Quincke-Ödem, Laryngitis, nach Inhalationstrauma) oder langsam progredient aufgrund einer ­extraluminalen Kompression (z.B. Struma, Tumor, Lymphadenopathie, Gefässanomalien) oder einer intraluminalen Einengung auftreten (z.B. Tumor, Stimmbandparese, Narben, Entzündung). Das Auftreten von narbenbedingten Trachealstenosen nach Tracheotomien oder Intubationen ist eine bekannte Spätkom­plikation. Die Angaben zur Häufigkeit sind in Ab­hängigkeit der Definition einer Trachealstenose sehr unterschiedlich. Selten liegen Systemerkrankungen wie eine Granulomatosis mit Polyangiitis (ehemals Morbus Wegener) [5], eine Polychondritis oder eine Sarkoidose zugrunde. Nach diesen Differentialdiagnosen sollte aktiv gesucht werden.
+
+Idiopathische subglottische Trachealstenosen sind typischerweise kurzstreckig mit zirkulärer Einengung des Lumens. Patienten beklagen in der Regel langsam progrediente unspezifische klinische Symptome wie Belastungsdyspnoe oder Husten. Das Vorhandensein eines Stridors deutet auf eine Flusslimitation hin und sollte den dringenden Verdacht auf eine zentrale Atemwegsstenose lenken.
+
+In der initialen Abklärung kann bereits die Interpre­tation der Fluss-Volumen-Kurve einer einfachen Spirometrie den Verdacht auf eine Atemwegsstenose lenken. Hier zeigt sich das typische Bild einer abgeflachten Fluss-Volumen-Kurve (Abb. 3). Die numerischen Werte für FEV1, FVC, FEV1/FVC können durchaus normal sein. Die Untersuchung ist abhängig von der Kooperation des Patienten sowie von der korrekten Anleitung durch das durchführende Personal. Die Abnormalität der Fluss-Volumen-Kurve muss reproduzierbar sein. Die Guidelines fordern mindestens drei akzeptable Manöver (maximaler in- und exspiratorischer Effort).
+
+Es wird zwischen Obstruktionen der oberen (Mund bis Larynx) und zentralen Atemwege (Trachea und Hauptbronchien) unterschieden. Die Obstruktionen können fixiert oder variabel sein. Klassischerweise wird zusätzlich zwischen variabler extra- und intrathorakaler Obstruktion unterschieden, die mit variabler in- und exspiratorischer Flusslimitation einhergehen können. Bei fixierten Stenosen – wie in unserem Fall – ist neben der inspiratorischen auch die exspiratorische Kurve abgeflacht (sogenannte «box shape»-Kurve).
+
+Eine CT sollte zum Erkennen bzw. Ausschluss einer ex­traluminalen Kompression der Atemwege erfolgen (z.B. Struma, Tumor; CAVE: keine Jod-haltigen Kontrastmittel bei möglicher Schilddrüsenpathologie!). Letztlich kann durch eine flexible Bronchoskopie die Diagnose gesichert und das Ausmass, die genaue Lokalisation und allenfalls bereits die Ätiologie der Stenose erfasst werden. Es muss jedoch dringend davon abgeraten werden, die Stenose mit dem flexiblen Bronchoskop ohne Bereitschaft und Fertigkeiten für eine starre Broncho­skopie zu passieren, da Todesfälle durch Anschwellen des stenotischen Areales beschrieben sind.
+
+Die Behandlung richtet sich nach der zugrundeliegenden Grundkrankheit. Nach Intervention und seltener auch nach chirurgischer Therapie neigen viele Stenosen zu Rezidiven. Die meisten idiopathischen Trachealstenosen können je nach Lokalisation und Ausdehnung bronchoskopisch interventionell behandelt werden [2]. In speziellen Fällen oder bei häufigen Rezidiven kann das betroffene Trachealsegment chirurgisch reseziert werden.
+
+Das Wichtigste für die Praxis
+
+• Subglottische Trachealstenosen stellen eine relativ seltene, jedoch wichtige Differentialdiagnose der chronischen Dyspnoe dar und werden häufig als Asthma bronchiale oder funktionelle Beschwerden fehlinterpretiert.
+
+• In einigen Fällen liegen ätiologisch eine vorangegangene invasive Beatmung bzw. Tracheotomie, Tumorkompression oder Systemerkrankung zugrunde.
+
+• Unabhängig von den numerischen Werten für FEV1, FVC oder FEV1/FVC lohnt es sich, die Fluss-Volumen-Kurve der Spirometrie zu interpretieren.

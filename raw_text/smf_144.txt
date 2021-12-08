@@ -1,0 +1,120 @@
+Présentation du cas
+
+Il s’agit d’un patient de 84 ans, en bonne santé habituelle, qui présente des nucalgies droites lui évoquant un torticolis, en l’absence de faux-mouvement, pour lesquelles il utilise un anti-inflammatoire topique en gel. Trois jours après le début des douleurs, et 24 heures après l’application du traitement local, des lésions cutanées érythémateuses douloureuses, à caractère de brûlures, non prurigineuses apparaissent sur le cou et l’oreille droite, avec un œdème localisé. Il consulte alors une permanence où un diagnostic d’allergie est retenu. Le patient se voit prescrire de la prednisone per os 50 mg pour trois jours. Après quatre jours de douleurs, le patient constate une progression des lésions avec développement d’un aspect vésiculaire. Il contacte alors son médecin traitant, qui l’adresse aux urgences du centre hospitalier universitaire vaudois (CHUV) à cinq jours du début des symptômes.
+
+A l’admission, le patient rapporte une progression des lésions cutanées qui s’étendent de l’épaule droite à la nuque et au cuir chevelu. Elles sont maintenant indolores mais atteignent l’oreille droite avec une tuméfaction locale. Le patient décrit une hypoacousie nouvelle, associée à des vertiges en aggravation rendant la marche impossible, ainsi que des céphalées. Il rapporte également une asthénie. Son épouse s’inquiète d’une ptose labiale droite nouvelle et d’un œdème facial depuis l’introduction des corticoïdes. Ces signes et symptômes neurologiques sont apparus rapidement dans les dernières 24 heures.
+
+A l’examen clinique, le patient est hémodynamiquement stable. Il présente un ralentissement psychomoteur avec ataxie à la marche, une atteinte du nerf VII avec une chute de la commissure labiale droite et une hypoacousie. Le test de Weber est latéralisé à droite et le test de Rinné est négatif à droite (surdité de transmission). Au niveau cutané, on observe la présence de vésicules en bouquet sur fond érythémateux sur les territoires C2 à C5 à droite, d’âges différents ainsi qu’une nécrose cutanée et une tuméfaction du pavillon de l’oreille droite obstruant l’orifice auriculaire.
+
+Question 1: Quel est le diagnostic le plus probable parmi les propositions suivantes?
+
+
+a) Eczéma de contact allergique aux anti-inflammatoire non stéroïdien (AINS) topiques
+
+b) Réactivation du varicella-zoster-virus (VZV) (zona)
+
+c) Primo-infection à VZV (varicelle)
+
+d) Réactivation du herpès simplex virus-1 (HSV-1)
+
+e) Périchondrite dans le cadre d’une pathologie inflammatoire systémique
+
+L’eczéma de contact est une manifestation des allergies cutanées, avec typiquement des lésions érythémateuses, vésiculeuses et prurigineuses, mais non douloureuses. Le virus VZV (HHV-3) est à l’origine de la varicelle (primo-infection avec éruption vésiculeuse généralisée ­associée à un prurit et à une fièvre modérée) et du zona (réactivation avec éruption cutanée vési­culaire et ­douloureuse délimitée selon les dermatomes correspondant à la racine nerveuse du ou des ganglion(s) rachidien(s) touchés). Une réactivation HSV-1 cause typiquement une atteinte cutanéomuqueuse vésiculeuse mais dont la topographie ne respecte pas le territoire d’un dermatome. La périchondrite de l’oreille est une inflammation, non nécessairement infectieuse, aboutissant à un œdème diffus, avec érythème et douleur intense. Le patient présente une éruption vésiculaire douloureuse, étendue sur plusieurs dermatomes (C2 à C5) et compliquée d’une atteinte neurologique. Cette constellation évoque premièrement un zona.
+
+Question 2: A ce stade, quel examen vous paraît le plus pertinent?
+
+
+a) Recherche d’ADN viral VZV et HSV par «polymerase chain reaction» (PCR) sur frottis de vésicule
+
+b) Immunofluorescence par microscopie électronique d’un frottis de vésicule
+
+c) IRM cérébrale et ponction lombaire
+
+d) Cytodiagnostic sur frottis de vésicule (test de Tzanck)
+
+e) Recherche d’une immunosuppression (HIV, dosage des immunoglobulines, …)
+
+Le zona est avant tout un diagnostic clinique. Il peut certes être confirmé par une PCR VZV faite sur un frottis de vésicule, mais cet examen n’est pas requis [1]. Le test cytodiagnostic de Tzanck (frottis montrant des cellules géantes multi nucléées) est utile pour orienter le diagnostic vers une origine virale [2]. Cependant ce dernier n’est pas spécifique et ne distingue pas le virus HSV du virus VZV. L’immunofluorescence est moins spécifique (90 versus >95%) et nettement moins sensible que la PCR (80 versus 95%) [3, 4]. A noter que le test de Tzanck et l’immunofluorescence sont des examens surannés dans le cadre d’un centre ayant accès à la PCR. L’imagerie par résonance magnétique (IRM) ­cérébrale et la ponction lombaire sont à effectuer dans le contexte de complications neurologiques (multinévrite ou méningo-encéphalite par exemple). Le patient présente des troubles neurologiques potentiellement centraux (ralentissement psychomoteur, ataxie), pouvant être associés à un zona. L’IRM cérébrale et la ponction lombaire semblent donc indiqués. Si ces examens se révèlent positifs (lésions cérébrales / cérébelleuses à l’IRM, leucorachie augmentée, PCR VZV positive dans le liquide céphalo-ra­chidien), un traitement d’acyclovir IV à hautes doses est requis.
+
+Bien que cela ne soit pas nécessaire au diagnostic, un test de Tzanck est réalisé pour notre patient, se révélant positif, ainsi qu’une recherche d’ADN VZV et HSV par PCR, qui revient positive pour VZV. En raison de la sévérité de l’atteinte, une immunosuppression est recherchée, avec entre autres des sérologies pour le HIV, et peut être écartée. Vu l’incidence élevée du zona dans la population âgée (3,15/1000 dans la population générale, 6,25/1000 chez les >60 ans) et son augmentation avec l’âge [5], la recherche d’une immunosuppression n’est à effectuer qu’en cas d’atteinte sévère ou chez les patients de moins de 50 ans (office fédéral de la santé publique, 2015). L’anamnèse détaillée révèle que le patient a reçu des injections de cellules souches «anti-aging», sous la forme de cocktails boostant. La présence de corticoïdes dans ces mélanges n’est pas exclue. La prise initiale de stéroïdes durant trois jours pourrait également avoir contribué au caractère floride et extensif des lésions.
+
+A noter que dans certaines situations, le recours aux sérologies peut s’avérer utile. C’est le cas dans des formes pauci-vésiculaires ou herpétiformes mais surtout dans des formes avésiculaires ou lors de douleurs sans substrat évident. Les douleurs prodromales peuvent mimer un grand nombre de pathologies (cholécystite, sciatique, etc.) et le zona devrait faire partie du diagnostic différentiel. Une analyse comparative des taux d’IgG, d’IgM et d’IgA permet de poser un diagnostic plus précoce. Cela peut être également utile face à des lésions cutanées cicatricielles ou des ulcères chroniques dont l’origine est mal identifiée afin de poser un diagnostic à posteriori dont l’intérêt est avant tout pronostic et thérapeutique pour les douleurs [6, 7].
+
+Le diagnostic de zona des dermatomes C2 à C5 droits avec atteinte des nerfs crâniens VII et VIII est retenu, motivant l’introduction d’un traitement antiviral par valacyclovir 1000 mg 3×/jour pour une semaine ainsi que d’une antalgie. Le traitement est débuté dès son arrivée à l’hôpital, à cinq jours de l’apparition des premiers symptômes. L’évolution est marquée par la progression des lésions cutanées, leur apparition dans le territoire C3 controlatéral et une augmentation de la tuméfaction du pavillon auriculaire droit. On constate également une aggravation de l’hypoacousie droite et de la paralysie faciale droite présentes à l’entrée. L’ataxie et le ralentissement psychomoteur persistent. Une IRM cérébrale est alors demandée.
+
+Question 3: Au vu de la présentation clinique, quel diagnostic est premièrement suspecté?
+
+
+a) Paralysie faciale idiopathique (de Bell)
+
+b) Syndrome de Guillain-Barré
+
+c) Syndrome de Ramsay-Hunt
+
+d) Neurosyphilis
+
+e) Encéphalite à VZV avec cérébellite
+
+Une atteinte faciale périphérique peut être d’origine idiopathique, ou encore associée à une polyradiculonévrite dans le syndrome de Guillain-Barré ou à une atteinte infectieuse de type zona ou borréliose. La neurosyphilis est une manifestation rare et tardive de la syphilis tertiaire, avec des troubles neuro-psycho-comportementaux et une ataxie locomotrice (tabès) ou une méningo-encéphalite. Devant un diagnostic d’infection au virus varicelle-zona accompagnée d’une ­paralysie faciale nouvelle chez notre patient, le diagnostic retenu est le syndrome de Ramsay-Hunt. Il s’agit d’une forme compliquée de zona (comme le zona ophtalmique, ou le zona avec complications neurologiques). Le syndrome de Ramsay-Hunt (également appelé zona géniculé ou zona otique) est caractérisé par une paralysie faciale périphérique, des douleurs au niveau du pavillon de l’oreille, et un rash érythémateux vésiculaire de l’oreille (conduit externe ou tympan). Les symptômes et signes fréquemment associés sont le tinnitus, l’hypoacousie ou surdité, les nausées et vomissements, les vertiges et le nystagmus [8–10]. Au niveau anatomopathologique, ce syndrome reflète la réactivation du VZV latent dans le ganglion géniculé, qui reçoit les branches du nerf facial, avec dissémination secondaire de l’infection au nerf VIII. Ce syndrome peut s’associer à une multinévrite avec atteinte des nerfs V, IX et X [9]. Cependant, la présence de signes centraux fait suspecter une atteinte centrale (encéphalite ou cérébellite) associée à la névrite faciale périphérique. Une imagerie cérébrale par IRM normale la rend moins probable, bien que la ponction lombaire soit plus adaptée pour écarter une atteinte du système nerveux central.
+
+Le traitement du syndrome de Ramsay-Hunt est habituellement le valacyclovir (1000 mg 3×/jour pour 7 à 10 jours). Dans les cas les plus sévères (vertiges, tinnitus, perte auditive) un traitement d’acyclovir IV est donné en association à de la prednisone (1 mg/kg pour 5 jours). De plus, toute complication neurologique centrale (méningite, encéphalite et myélite) doivent être traitées IV pour 10 à 14 jours [11]. Chez notre patient, le traitement de valacyclovir est relayé par de l’acyclovir IV 10 à 15 mg/kg/dose 3×/jour en raison de la progression clinique.
+
+Dans le cadre d’un zona disséminé, le patient nécessite également des mesures additionnelles d’isolement contact et aérosols, jusqu’à l’absence de nouvelles vésicules et au minimum pour cinq jours. Pour un zona localisé, qui est contagieux par contact direct avec les ­vésicules, par l’intermédiaire du personnel (mains) ou par contact indirect avec des objets contaminés, il n’y a pas besoin de mesures additionnelles, mais il faut couvrir les lésions. La contagiosité s’étend pour une durée de sept jours, ou plus si de nouvelles lésions actives ­apparaissent.
+
+Quelques jours plus tard, l’apparition d’une hypo­phonie avec dysarthrie est constatée. Dans le même temps, le patient présente des signes de détresse respiratoire (tirage, balancement thoraco-abdominal et tachypnée) rapidement progressifs, motivant une surveillance aux soins intensifs durant quelques jours. L’évolution est favorable et le patient réintègre le service de médecine interne. L’origine retenue à cette insuffisance respiratoire aigüe est une progression de la multinévrite zostérienne avec atteinte des nerfs crâniens VII, VIII, IX et X à droite avec atteinte du diaphragme. En raison de l’atteinte de plus de trois dermatomes, on peut même parler alors de zoster multiplex (ou zona disséminé).
+
+Question 4: Laquelle des complications suivantes n’est pas associée au zona?
+
+
+a) Pneumonie
+
+b) Dissémination viscérale
+
+c) Méningo-encéphalite et cérébellite
+
+d) Vasculopathie (dont AVC ischémiques)
+
+e) Toutes les complications ci-dessus sont associées au zona
+
+Grâce à un traitement consistant d’antiviraux, antibiotiques, antalgiques et traitements locaux, l’évolution permet un transfert dans une clinique de réadaptation après un mois d’hospitalisation en milieu aigu. Les séquelles fonctionnelles et psychologiques restent pourtant importantes, avec persistance de troubles de la marche et de névralgies difficilement contrôlables avec l’arsenal habituel, dont des antidépresseurs, des agonistes des canaux calciques (gabapentine, préga­baline) et les opiacés, malheureusement d’efficacité ­limitée.
+
+Question 5: Parmi les propositions suivantes au sujet de la vaccination, laquelle est incorrecte?
+
+
+a) La vaccination contre le zona (ZostaVax® ou Shingrix®) est recommandée pour toutes les personnes immunocompétentes âgées de 65 à 79 ans.
+
+b) Les coûts de la vaccination sont remboursés par l’assurance obligatoire des soins.
+
+c) Les vaccins contre le zona ne sont pas destinés à la prévention de la varicelle, au traitement du zona et des névralgies post-zostériennes.
+
+d) Si l’anamnèse et la sérologie sont négatives pour la varicelle, il est recommandé de vacciner contre la varicelle (Varilix®).
+
+e) Pour notre patient, on préconise une vaccination à distance contre le zona.
+
+Concernant la question 5, les réponses a, c, d et e sont correctes. En effet, les vaccins contre le zona sont destinés à la prévention contre le zona (et non celui de la ­varicelle) et pas à son traitement, et ne protègent pas contre les douleurs post-zostériennes.
+
+La vaccination contre le zona par le vaccin ZostaVax®, un vaccin vivant atténué, est recommandée en Suisse pour les personnes âgées de 65 à 79 ans [12] car la fréquence et la sévérité des maladies à herpès zoster et leurs complications sont élevées dans cette tranche d’âge. La recommandation se limite à 79 ans, car l’efficacité du vaccin est moindre à partir de 80 ans. Le vaccin ZostaVax® a été autorisé en Suisse en 2006, est disponible depuis 2013 et est inscrit au plan vaccinal en 2018, mais reste actuellement sans remboursement par les caisses (tab. 1).
+
+Tableau 1: Recommandations 2018 pour la vaccination contre l’herpès zoster pour deux groupespar l’Office fédéral de la santé publique (OFSP)/la Commission fédérale pour les vaccinations (CFV).
+Vaccination recommandée­complémentaire contre l’herpès­zoster	La vaccination contre l’herpès zoster est recommandée avec une seule dose du vaccin à virus vivant atténué pour les personnes immunocompétentes entre 65 et 79 ans. Cela, indépendamment du fait que la personne ait contracté la varicelle et/ou le zona par le passé. Il n’est pas nécessaire de tester l’immunité à l’égard du virus varicelle-­zoster avant une vaccination.
+Vaccination recommandée pour les groupes à risque	La vaccination contre l’herpès zoster est recommandée avec une seule dose du vaccin à virus vivant atténué pour les personnes âgées de 50 à 79 ans, qui actuellement ne ­présentent aucune immunodéficience ou seulement une immunodéficience «légère» et chez lesquelles on s’attend à une immunodéficience en raison de l’introduction ­prochaine d’un traitement immunosuppresseur. La vaccination devrait être administrée au moins quatre semaines avant un déficit immunitaire modéré ou sévère possible. Cette recommandation doit faire l’objet d’une évaluation précise des risques (âge, présence de polymorbidité et de polymédication) et des bénéfices attendus de la vaccination contre le zona et si nécessaire d’un conseil auprès d’un spécialiste en immunologie et/ou vaccinologie.
+
+L’administration du vaccin contre le zona 3–10 ans après un épisode est considérée sûre et efficace [13, 14]. Néanmoins, il n’existe pas de recommandations explicites sur le délai à respecter pour la vaccination après un épisode de zona. Cette latence de plusieurs années s’explique par le fait qu’il y un risque d’induire un zona avec ce vaccin vivant atténué, et également parce ce que la réactivation provoque généralement une ­réponse immunitaire suffisante pour protéger le patient dans les premiers mois suivant l’épisode. Actuellement, un délai d’au moins cinq ans semble faire consensus auprès des collègues infectiologues suisses, et c’est ce délai qui a été proposé à notre patient. Cette vaccination ne devrait être pratiquée que dans le cadre des recommandations formulées à l’échelle du pays, à savoir chez les patients de 65 à 79 ans.
+
+Le vaccin vivant atténué ZostaVax® confère une protection chez 50–60% des personnes vaccinées [15]. La «U.S. Food and Drug Administration» (FDA) a approuvé un vaccin recombinant (Shingrix®) avec adjuvant contre le VZV pour la prévention du zona chez les adultes dès 50 ans aux USA [16]. Ce vaccin a montré une efficacité d’environ 90% en termes de protection vaccinale [15]. Le comité des médicaments à usage humain de l’agence européenne EMA a aussi donné un avis positif à la mise sur le marché de Shingrix®. Le Shingrix® est disponible, mais encore de façon très limitée et nous ne disposons pas de recommandations officielles sur son usage. Il est ainsi possible de l’obtenir en Suisse par l’intermédiaire d’une pharmacie zurichoise le faisant livrer depuis l’Allemagne. Ce vaccin recombinant (contenant deux protéines virales mais pas de virus entiers vivants atténués) a l’avantage par rapport au Zostavax® d’être plus efficace (>90% de protection), même chez les sujets les plus âgés, et de pouvoir être aussi donné aux sujets immunosupprimés qui en ont le plus besoin. L’arrivée du Shingrix® pourrait changer la donne en matière de recommandation vaccinale [17]. La question du délai de la vaccination après un épisode de zona devrait également être simplifiée avec l’utilisation du Shingrix®, pour lequel il est spécifié qu’il n’y a pas de délai à respecter si ce n’est de ne pas vacciner en phase active [18]. ­Parcontre, contrairement au ZostaVax®, il nécessite deux doses à un et trois mois d’intervalle, et son administration est associée à des effets ­indésirables plus fréquents et plus intenses au point d’injection, ce qui en fait une stratégie de prévention qui pourrait, malgré sa plus grande efficacité, ne pas contribuer à majorer les taux de couverture vaccinale sur le plan populationnel.
+
+Discussion
+
+Le patient présente un zona multiplex compliqué d’une atteinte neurologique (une multinévrite des nerfs crâniens VII, VIII, IX et X avec un syndrome de Ramsay-Hunt, une paralysie de la corde vocale droite et une paralysie diaphragmatique droite), d’une atteinte ophtalmique (kératite superficielle) ainsi que d’une périchondrite du pavillon auriculaire droit. Les multiples complications présentées par le patient sont rares, mais rappellent la nécessité de ne pas banaliser cette infection et ses conséquences. Un traitement antiviral rapidement instauré est la seule manière de limiter le risque de complications, qui sont, dans la majeure partie des cas, imprévisibles. Par ailleurs, la présence de douleurs prodromales, d’atteinte de mul­tiples dermatomes et d’atteinte céphalique sont des critères de mauvais pronostic.
+
+Par rapport au traitement du zona, il est recommandé d’initier une thérapie antivirale per os pour sept jours chez les personnes de plus de 50 ans et à ≤72 h de présentation clinique, ainsi que chez les patients immunosupprimés, quel que soit le délai depuis l’apparition des symptômes. L’utilisation du traitement IV est réservée aux formes ophtalmiques, otiques ou neurologiques ainsi que dans les formes étendues ou com­pliquées, comme illustré ici par notre patient. Le traitement antiviral de choix est le valacyclovir (moins de doses par jour) ou l’acyclovir IV adaptés à la fonction rénale. La thérapie antivirale accélère la résolution des lésions cutanées ainsi que la durée et sévérité des névralgies aiguës. Cependant, les résultats sur les douleurs post-herpétiques sont moins claires [8, 19, 20, 10].
+
+Concernant l’utilisation des corticostéroïdes, ceux-ci peuvent jouer un rôle dans les situations compliquées, par exemple dans le cas du syndrome de Ramsay-Hunt. Cependant, deux revues systématiques de la «Cochrane Library» publiées en 2008 et 2010 concluent que les corticostéroïdes prescrits à la phase aiguë du zona sont inefficaces dans la prévention des névralgies post-zostériennes à six mois. Les corticostéroïdes ne doivent pas être utilisés en routine et sont donc à réserver aux formes ophtalmiques graves du zona ou neurologiques compliquées, sous la forme intraveineuse [21, 22].
+
+Ce cas clinique rappelle la nécessité de reconnaître rapidement une infection par VZV afin d’initier au plus vite un traitement antiviral et de limiter ainsi les séquelles fonctionnelles sévères que peuvent engendrer les névralgies post-zostériennes. Le diagnostic de zona est avant tout clinique. Les complications sévères restent rares, mais, dans le cas de ce patient, très invalidantes. La prévention par la vaccination, et la diffusion des recommandations suisses à ce sujet, devraient permettre de diminuer ces situations.
+
+Reponses:
+
+
+Question 1: b; Question 2: c; Question 3: c; Question 4: e;
+Question 5: b.

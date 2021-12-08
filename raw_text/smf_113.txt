@@ -1,0 +1,141 @@
+Présentation du cas
+
+Un patient âgé de 70 ans s’est présenté à notre service des urgences avec des douleurs oppressantes dans la région inférieure du sternum. Cette symptomatique douloureuse était déjà apparue la veille et avait régressé spontanément. Un nouvel épisode est désormais survenu. Par ailleurs, il souffrait depuis quelques jours de problèmes de reflux qui ne correspondaient pas à la pression douloureuse. Il ne présentait ni dyspnée, ni nausée, ni vomissement. Une symptomatique B a également été niée.
+
+L’unique maladie préexistante était une hypertension artérielle, pour laquelle il prenait régulièrement un ­inhibiteur de l’ECA. A part cela, il avait été fumeur de nombreuses années auparavant (25 paquets-année).
+
+Le patient se trouvait dans un bon état général au moment de l’admission. Globalement, les paramètres vitaux étaient normaux. L’abdomen était souple avec des bruits intestinaux réguliers et une douleur à la pression dans l’épigastre, le reste de l’examen ne présentait aucune anomalie.
+
+A l’électrocardiogramme, le rythme sinusal était normocarde sans trouble de la repolarisation. Les analyses biochimiques ont indiqué un taux de troponine en dessous de la valeur limite. Le taux de bilirubine totale s’est par ailleurs révélé accru, avec une valeur de 86 µmol/l. A ce moment, le patient ne présentait aucun ictère cutané ni scléral. En outre, le taux de transaminases était accru avec une valeur de l’ASAT à 216 U/l et de l’ALAT à 239 U/l, le taux de protéine réactive C (CRP) s’élevait à 31 mg/l.
+
+Une médication analgésique et un inhibiteur de la pompe à protons ont été administrés au patient. Cela a déjà permis une bonne réduction de la symptomatique douloureuse sans qu’aucun diagnostic n’ait encore été établi.
+
+Question 1: Quel diagnostic est le plus probable au vu des résultats jusqu’à présent disponibles?
+
+
+a) Reflux gastro-œsophagien
+
+b) Infarctus du myocarde sans élévation du segment ST ­(NSTEMI)
+
+c) Cholécystolithiase/cholédocholithiase
+
+d) Cholécystite/cholangite
+
+e) Douleurs musculosquelettiques
+
+En présence de douleurs au niveau du sternum et de l’abdomen supérieur ainsi que de facteurs de risque, il convient, lors de l’évaluation initiale au service des urgences, de considérer la possibilité d’une genèse coronarienne. En présence d’un électrocardiogramme et d’un taux de troponine normaux ainsi qu’un début anté­rieur de la symptomatique, celle-ci semble plutôt improbable, et cela n’expliquerait pas non plus les valeurs hépatiques.
+
+Le reflux gastro-œsophagien connu du patient ainsi que des maladies gastriques associées telles qu’un ulcère pourraient certes éventuellement expliquer la symptomatique clinique, mais, tout comme une cause musculosquelettique, ne seraient toutefois pas une raison expliquant l’augmentation des transaminases. La formation de calculs ou une inflammation au niveau des voies biliaires peuvent être envisagées en présence de douleurs épigastriques et d’une élévation des paramètres de la cholestase. Toutefois, en l’absence de fièvre et en présence de paramètres de l’inflammation bas, une cholécystite ainsi qu’une cholangite semblent moins probables à ce moment. Ainsi, la cholécystolithiase/cholédocholithiase reste le diagnostic le plus probable, d’une part en raison de la symptomatique et d’autre part au vu de la fréquence.
+
+L’échographie de l’abdomen a mis en évidence le foie avec un parenchyme hyperéchogène comme signe d’une hépatite stéatosique. La vésicule biliaire apparaissait globalement floue et contractée avec une paroi accentuée. Les voies biliaires intra-hépatiques et extra-­hépatiques n’étaient pas bloquées. De même, aucun concrément n’a pu être représenté. Le pancréas était difficilement visible. Ainsi, l’échographie n’était pas concluante pour le diagnostic.
+
+Le soir du même jour, le patient a développé une fièvre de 38,9 °C (auriculaire) et des frissons. Les douleurs abdominales étaient persistantes, les paramètres vitaux stables. Le lendemain, une coloration jaune de la peau et des sclères sont apparus. Il a par ailleurs rapporté que ses selles étaient désormais claires et son urine d’une couleur foncée.
+
+Les analyses biochimiques ont indiqué une nouvelle augmentation du taux de bilirubine à 162 µmol/l, les transaminases étaient toujours aussi élevées. La lipase et l’amylase se trouvaient encore dans les normes. En outre, les paramètres de l’inflammation étaient désormais nettement accrus avec une CRP de 118 mg/l et un taux de leucocytes de 14,3 G/l.
+
+Question 2: Quel est désormais le diagnostic le plus probable?
+
+
+a) Cholangite en présence de concréments du canal cholédoque
+
+b) Cholangite en présence de carcinome de la tête du pancréas
+
+c) Pancréatite
+
+d) Hépatite
+
+e) Hémolyse
+
+Au vu du tableau clinique désormais accentué avec fièvre, frissons et ictère ainsi que des paramètres de la cholestase et de l’inflammation en hausse, il convenait désormais d’envisager en premier lieu un foyer ­infectieux dans les voies biliaires. Les concréments obstruant les voies biliaires sont la cause la plus fréquente – entre 28 et 70% selon les ouvrages de référence – de la cholangite cholestatique. En présence d’une symptomatique survenue de manière relativement aiguë, une genèse maligne semblait moins probable [1]. La pancréatite survient certes souvent en ­association avec des concréments des voies biliaires, mais était ici moins probable en présence de valeurs de lipase normales et d’une présentation clinique atypique. Au vu des résultats biochimiques et du tableau clinique, une hépatite virale aiguë semblait certes possible, mais une telle augmentation de la CRP serait en revanche trop élevée. Les analyses sérologiques de l’hépatite réalisées ensuite étaient négatives.
+
+Une hémolyse peut théoriquement aussi être la cause d’un ictère, mais n’est toutefois guère probable en association avec la symptomatique décrite par le patient et les composants infectieux.
+
+Après prélèvement de cultures sanguines, un traitement antibiotique par ceftriaxone et métronidazole a été initié.
+
+Question 3: Quel examen doit désormais être réalisé pour établir le diagnostic?
+
+
+a) Analyses biochimiques approfondies
+
+b) Echographie de contraste / «contrast-enhanced ultrasound» (CEUS)
+
+c) Cholangio-pancréatographie par résonance magnétique (CPRM)
+
+d) Biopsie du foie
+
+e) Cholangio-pancréatographie rétrograde endoscopique (CPRE)
+
+L’examen indiqué à ce moment-là serait une CPRM pour rechercher des concréments dans le canal cholédoque ou des masses dans le système des voies biliaires ou à proximité de la papille, ou encore une ­échographie endoscopique. Cette dernière n’est pas disponible dans l’hôpital régional du cas décrit. Dans les lignes directrices actuelles, les deux méthodes d’examen sont considérées comme équivalentes [7]. La CPRM met en évidence par IRM la totalité des voies biliaires et pancréatiques, c’est-à-dire la région où se trouve supposément la pathologie sous-jacente.
+
+Contrairement à la CPRE, la CPRM est non invasive et s’accompagne ainsi d’un taux inférieur de complications pour une sensibilité et une spécificité comparables, elle est donc purement diagnostique. En règle générale, la CPRE thérapeutique fait suite à l’établis­sement du diagnostic, en particulier en présence de concréments. En cas d’urgence, comme par exemple de cholangiosepticémie, la CPRM ou l’échographie endo­scopique ne doivent pas retarder la CPRE au risque de dégrader le pronostic. Même lorsqu’une cholédocholithiase a déjà été mise en évidence par échographie, la CPRE est l’intervention de premier choix car elle permet une approche thérapeutique directe [7].
+
+Une biopsie du foie ne serait actuellement pas pertinente car le problème peut parfaitement être extra-hépatique; de même, des analyses biochimiques approfondies ne sont pas nécessaires avant l’imagerie. Une échographie de contraste est utilisée pour caractériser avec précision les masses intra-hépatiques, mais n’est pas pertinente dans notre cas. La CPRM (fig. 1, 2) a permis de visualiser en particulier un diverticule duodénal de dimensions 5,7 × 3,4 × 3,4 cm se situant directement au niveau de la papille duodénale majeure, recouvrant ainsi celle-ci. Les voies biliaires à proprement parler étaient fines et normales. Elles ne présentaient aucun concrément, ni aucune masse à suspicion tumorale. Les cultures sanguines ont par la suite révélé des E. coli pansensibles.
+
+Figure 1: CPRM coupe frontale,1 ) le canal hépatique commun et2 ) le canal cystique (provenant de la vésicule biliaire) se rejoignent pour former3 ) le canal hépato-cholédoque (DHC) qui a été déplacé dans son ensemble en raison du diverticule duodénal (flèche).4 ) Canal pancréatique.
+
+Figure 2: CPRM coupe transversale,1 ) duodénum avec diverticule duodénal avoisinant (flèche).2 ) Tête du pancréas avec canal pancréatique. Papille (*) directement située au niveau du diverticule.
+
+Une représentation endoscopique de la situation a ensuite été réalisée. Le gros diverticule se trouvait directement au niveau de la papille et entraînait un effet compressif, il contenait des résidus alimentaires emprisonnés qui ont pu être évacués. De manière concomitante, une gastrite érosive a été détectée ainsi que des varices œsophagiennes (fig. 3, 4).
+
+Figure 3: Gastro-duodénoscopie, vue dans le diverticule ­duodénal rempli de résidus alimentaires.
+
+Figure 4: Gastro-duodénoscopie, représentation du diverticule après évacuation. La papille duodénale majeure (flèche) est visible en haut à droite.
+
+Dès le lendemain, les paramètres de l’inflammation et de la cholestase avaient nettement diminué. L’ictère cutané et scléral avait régressé, de même que les selles et l’urine avaient retrouvé une couleur normale.
+
+Par la suite, un Fibroscan a été réalisé, révélant une fibrose modérée. Aucune biopsie n’a jusqu’à présent été pratiquée.
+
+Discussion
+
+La recherche du diagnostic s’est avérée être une entreprise délicate. Quelques signes cliniques déterminants ne se sont développés qu’en cours d’évolution. L’examen diagnostique initial d’urgence n’a fourni aucun résultat concluant. La genèse exacte de l’infection, présumée par la suite, des voies biliaires bel et bien obstruées était d’abord incertaine. A ce moment-là, une cholédocholithiase semblait la plus probable, même si elle n’a pas pu être mise en évidence à l’échographie. La constellation globale semblait trop aiguë pour une affection tumorale. La CPRM a finalement pu établir le diagnostic d’un diverticule duodénal juxta-papillaire.
+
+Mais comment expliquer la symptomatique aiguë? Il est probable que le diverticule ait existé depuis longtemps et que sa taille ait progressivement augmenté. Les résidus alimentaires emprisonnés ainsi que l’œdème dû à l’inflammation ont supposément entraîné le recouvrement de la papille ainsi qu’une cholangite ascendante secondaire. Lors de la CPRM, les voies biliaires n’étaient plus obstruées et l’endoscopie a révélé une situation qui n’était plus que peu inflammatoire. A ce moment-là, le patient recevait toutefois déjà un traitement antibiotique depuis plusieurs jours. Cela permet de postuler que, d’une part, le traitement antibiotique et, d’autre part, le traitement endoscopique du gros diverticule étaient les deux composantes du traitement réussi.
+
+Il serait néanmoins envisageable qu’une cholédocholithiase ou une évacuation de calculs aient également eu lieu, même si cela n’était pas visible à la CPRM. En effet, la sensibilité de la CPRM pour détecter une cholédocholithiase est d’approximativement 90% [6].
+
+Question 4: Comment est appelé le tableau clinique du diverticule duodénal juxta-papillaire obstructif?
+
+
+a) Syndrome de Mirizzi
+
+b) Syndrome de Lemmel
+
+c) Syndrome d’Alagille
+
+d) Syndrome de Caroli
+
+e) Syndrome de Summerskill-Walshe-Tygstrup
+
+Dans la littérature, le tableau clinique d’un diverticule duodénal juxta-papillaire entraînant un ictère obstructif est appelé syndrome de Lemmel. Il a été décrit pour la première fois en 1934 par Gerhard Lemmel [5]. Il présente généralement un tel diverticule duodénal dans la partie descendante du duodénum et, dans la mesure où il se trouve à proximité de la papille duo­dénale majeure, est qualifié de diverticule duodénal juxta-papillaire. Ceux-ci sont généralement asymptomatiques [2].
+
+Dans le cas du syndrome de Mirizzi, le canal hépatique commun est comprimé par un calcul biliaire impacté dans le col vésiculaire ou dans le canal cystique.
+
+Le syndrome d’Alagille est un trouble autosomique dominant caractérisé par des hypoplasies intra-hépatiques des petites voies biliaires, la maladie se manifeste déjà durant l’enfance. Concernant le syndrome de Caroli, il s’agit d’une dilatation cystique des grandes voies biliaires intra-hépatiques, transmise selon le mode d’hérédité autosomique récessif, accompagnée par ailleurs d’une fibrose hépatique. Il survient des cholangites bactériennes récidivantes et le risque de carcinome des voies biliaires est accru.
+
+Le syndrome de Summerskill-Walshe-Tygstrup est une pathologie bénigne présentant une cholestase intra-­hépatique intermittente sans progression vers une lésion hépatique.
+
+Question 5: Chez combien de patients environ des diverticules duodénaux sont-ils découverts lors d’examens de CPRE?
+
+
+a) <1%
+
+b) 5%
+
+c) 20%
+
+d) 50%
+
+e) 70%
+
+Lors des examens CPRE, des diverticules duodénaux sont mis en évidence chez environ de 2–7% des patients [3]. Dans de rares cas, des complications pan­créatico-biliaires peuvent se manifester, par exemple lorsque le diverticule s’infecte. Un ictère peut alors survenir, même sans concrément obstructif. Un examen diagnostique approfondi est nécessaire. La tomodensitométrie ou la cholangio-pancréatographie par résonance magnétique conviennent à cet effet.
+
+Le traitement optimal dépend toujours de la patho­genèse sous-jacente. Le cas échéant, un traitement chirurgical peut même être requis. Il représente toutefois une grosse intervention avec un taux accru de complications. C’est pourquoi une approche conservatrice est privilégiée dans la mesure du possible [4].
+
+Résumé
+
+Chez les patients présentant un ictère cutané et scléral, des concréments biliaires ou des tumeurs sont souvent d’abord envisagés comme déclencheurs. Toutefois, s’il n’existe aucun signe de ces deux maladies, le syndrome de Lemmel peut aussi être considéré – une cause rare de l’ictère.
+
+Réponses:
+
+
+Question 1: c. Question 2: a. Question 3: c. Question 4: b. ­Question 5: b.

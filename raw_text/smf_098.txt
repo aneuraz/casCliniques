@@ -1,0 +1,79 @@
+Contexte
+
+La prise en charge diagnostic de l’épanchement pleural implique la collecte par ponction du liquide pleural. L’analyse initiale du liquide permet de différencier la nature exsudative versus transsudative de l’épanchement en utilisant les critères de Light [1, 2]. Les analyses biochimiques de seconde ligne (glucose, cholestérol, triglycéride, lipase, amylase) peuvent être réalisées lorsque l’étiologie de l’épanchement n’a pas pu être identifiée par les analyses standards.
+
+Les dosages de l’amylase et de la lipase pleurale, utiles lors de situations cliniques évocatrices, ouvrent le diagnostic différentiel d’une pathologie pancréatique lorsque les valeurs pleurales dépassent les valeurs sériques [3].
+
+Rapport de cas
+Anamnèse
+
+Il s’agit d’un patient de 57 ans, connu pour une ancienne dépendance à l’alcool ainsi que des épisodes de pancréatite aiguë sur fond de pancréatite chronique se manifestant par des douleurs épigastriques. L’une des poussées s’est compliquée d’un épanchement pleural gauche. Celui-ci a été drainé et l’analyse du liquide pleural a montré un exsudat sans cellules malignes. Après retrait du drain thoracique et résolution des symptômes digestifs, le patient a été suivi en ambulatoire. Il présente alors un écoulement persistant au niveau de l’orifice du drain pleural.
+
+Le patient consulte aux urgences deux mois après l’épisode décrit ci-dessus, avec un tableau de détresse respiratoire aiguë, d’installation rapide sur deux jours, sans manifestations digestives.
+
+Status
+
+Le patient présente les paramètres vitaux suivants: une saturation transcutanée en oxygène à 86% à l’air ambiant, une hypotension à 86/54 mm Hg, et une tachycardie régulière à 128 battements par minute. L’auscultation retrouve une hypoventilation sur la plage pulmonaire gauche, et des bruits cardiaques assourdis. L’examen clinique montre ainsi des signes de détresse respiratoire aigüe et une instabilité hémodynamique.
+
+Résultats
+
+Un volumineux épanchement pleural gauche est mis en évidence par échographie. Un drain thoracique est inséré et permet le retrait de 2000 ml de liquide séro-sanguinolent. L’analyse du liquide pleural retrouve un taux de lipase à 140 000 U/l, un taux d’amylase à 39 700 U/l, 1417 cellules/μl avec 36% de neutrophiles, 22% de lymphocytes. Le rapport LDH pleural/sérique de 2,7 est révélateur d’un exsudat. Le bilan biologique retrouve un syndrome inflammatoire avec une leucocytose à 13,6 G/l, une CRP à 234 mg/l, une lipase élevée à 712 U/l.
+
+Le drainage thoracique gauche se complique d’un œdème de ré-expansion, d’évolution favorable sous ventilation non invasive aux soins intensifs. Le patient est admis dans le service de médecine interne dès J(our)3. Il présente des douleurs épigastriques à partir de J5.
+
+A J6, une cholangio-IRM avec reconstruction tridimensionnelle objective une collection partiellement liquidienne au niveau de la queue du pancréas, remontant dans l’arrière-cavité des épiploons jusqu’au hiatus diaphragmatique et à la plèvre gauche (fig. 1).
+
+Figure 1: A ) Coupe coronale de la cholangio-IRM diagnostique passant par la WON («walled-off necrosis»): * épanchement pleural gauche, ** WON. B) Coupe axiale de la cholangio-IRM diagnostique passant par la fistule entre la WON et la plèvre: * fistule entre la WON et la plèvre, ** épanchement pleural gauche.
+
+Diagnostic
+
+Cette collection mature et encapsulée de 13 × 4 cm possède un contenu nécrotique non cloisonné, et présente donc les caractéristiques d’une «walled-off necrosis» (WON) avec un trajet fistulaire vers la plèvre gauche (fig. 1).
+
+Traitement
+
+A J8, une échoendoscopie digestive haute («endoscopic ultrasound» [EUS]) confirme la nature partiellement nécrotique (30%) de la collection dans sa partie inférieure. Un «lumen-apposing metal stent» (LAMS, 15 × 10 mm) est mis en place par voie transgastrique au niveau sous-cardial sous contrôle EUS et permet le drainage rapide de la WON dans la lumière gastrique (fig. 2).
+
+Figure 2: Drainage de la WON par voie transgastrique. WON: «walled-off necrosis», LAMS: «lumen apposing metal stent»
+
+On réalise dans le même temps une gastrostomie percutanée (PEG). Celle-ci est mise en position déclive pour favoriser le drainage actif du contenu gastrique et permettre l’inversion du flux de la fistule pancréatico-pleurale vers l’estomac, puisque celui-ci dépend de la différence de pression thoraco-abdominal inspiratoire.
+
+Enfin, la mise en place d’une sonde naso-jéjunale permet de nourrir le patient tout en évitant un contact entre le bol alimentaire et la cavité de la WON, ce qui limite les risques infectieux.
+
+Evolution
+
+Sous ce traitement, les douleurs épigastriques s’estompent et la lipase sanguine se normalise. Sur le plan respiratoire, l’épanchement pleural gauche ne récidive pas après le retrait du drain thoracique à J9. Le patient regagne son domicile après 15 jours d’hospitalisation.
+
+Une cholangio-IRM de contrôle à un mois de l’épisode aigu permet de constater la résolution de la WON [4]. Indirectement l’absence de récidive de l’épanchement pleural indique une résolution de la fistule entre la plèvre et la WON. Afin de limiter les complications en lien avec le maintien prolongé du LAMS, une seconde endoscopie permet de remplacer le stent métallique par deux prothèses plastiques de type double pig-tail. Lors du geste, l’injection de produit de contraste permet de visualiser la cavité rétro-péritonéale résiduelle de la WON, qui a une taille réduite à 2 cm. Les prothèses plastiques permettent le maintien du shunt entre la cavité résiduelle et la lumière gastrique. La sonde naso-jéjunale est également retirée et remplacée par la mise en place d’une sonde d’extension jéjunale à travers la PEG (PEG-J) pour assurer la poursuite de la nutrition entérale.
+
+A trois mois de l’épisode aigu, une cholangio-IRM permet d’exclure le diagnostic de «disconnected pancreatic duct syndrome» (DPDS) et la présence de fistule péri-pancréatique résiduelle. Le patient présente en outre une bonne évolution clinique, avec une prise de poids de 3 kg dans le cadre d’un soutien nutritionnel spécialisé.
+
+Dès lors, les deux prothèses transgastriques ainsi que la PEG-J sont retirées sans complications.
+
+Discussion
+
+Une des complications fréquentes (prévalence estimée entre 30% à 60%) de la pancréatite aiguë est la formation de collections pancréatiques et péri-pancréatiques [5]. Celles-ci sont nommées selon la classification d’Atlanta révisée en 2012 en fonction du temps les séparant du début de l’épisode aigu et de la nature de leur contenu (tab. 1) [6].
+
+Tableau 1: Classification d’Atlanta pour les collections liquidiennes pancréatiques et péripancréatiques.
+ 	Phase aiguë (<4 semaines)	Phase tardive (>4 semaines)
+Présence de contenu ­nécrotique	Collection nécrotique aiguë	«walled-off necrosis»
+Absence de contenu ­nécrotique	Collection péri-pancréatique aiguë	Pseudo-kyste pancréatique
+
+La WON est une collection mature avec une paroi et un contenu hétérogène survenant dès la quatrième semaine après un épisode de pancréatite aiguë. Elle résulte de la digestion du tissu pancréatique et péri-pancréatique, aboutissant à la formation d’une collection bien limitée, de contenu liquidien et nécrotique, intra- et/ou extra-pancréatique. On distingue la WON du pseudo-kyste pancréatique par sa composante nécrotique, identifiée grâce à une imagerie dédiée (IRM, échographie abdominal ou EUS).
+
+La WON doit être drainée lorsqu’elle devient symptomatique par compression des organes adjacents, ou dans le cas de complications infectieuses associées. La prise en charge écho-endoscopique par voie transmurale est aujourd’hui privilégiée [7]. L’utilisation de stents métalliques de gros calibre de type LAMS offre un drainage rapide et une voie d’accès pour la réalisation d’une éventuelle nécrosectomie non chirurgicale, si nécessaire [8].
+
+La fistule pancréatique est une complication plus rare de la pancréatite. Son incidence est très variable selon son caractère iatrogène ou non. Elle survient classiquement au décours d’une atteinte de l’intégrité du canal pancréatique principal, entraînant une fuite importante de sécrétions pancréatiques et la digestion des tissus adjacents. Le trajet de ces fistules est variable et peut exceptionnellement déboucher antérieurement dans la cavité péritonéale, provoquant ainsi une ascite pancréatique. Plus fréquemment, le trajet reste rétropéritonéal mais peut, comme dans le cas présent, évoluer en direction ascendante vers le hiatus diaphragmatique, et de là, vers la cavité pleurale et le médiastin [9].
+
+La prise en charge endoscopique des fistules pancréatiques consiste à rediriger le flux des sécrétions exocrines vers l’estomac ou le duodénum par la pose d’une ou plusieurs prothèses transmurales. Il est également possible de favoriser le flux physiologique au travers du canal de Wirsung par la pose de prothèses trans-papillaires [4].
+
+Dans le cas de notre patient, le caractère massif de la WON et de l’épanchement pleural a fait suspecter une atteinte initiale du canal pancréatique principal, que nous n’avons pas pu confirmer sur le plan radiologique. Néanmoins le drainage trans-mural de la WON a permis la résolution de la fistule associée ainsi que la guérison de l’atteinte canalaire pancréatique suspectée.
+
+L’atteinte chronique du pancréas est associée à une dénutrition protéino-énergétique multifactorielle, qui associe une malabsorption (liée à l’atteinte des fonctions exocrines), un état d’hyper-catabolisme (secondaire à l’état inflammatoire latent), ainsi qu’une diminution des prises nutritionnelles en raison des douleurs abdominales post-prandiales [10]. La nutrition entérale permet de limiter l’atrophie de la muqueuse intestinale à long terme et le risque de translocation bactérienne associé. Sa supériorité sur la nutrition parentérale est démontrée. La mise en place d’une sonde naso-jéjunale versus naso-gastrique a également montré son intérêt [11]. Dans le cas particulier du patient, l’abord jéjunal permet non seulement d’éviter le reflux du contenu alimentaire vers la WON, mais également de diminuer le débit de la fistule pancréatico-pleurale par la mise au repos de l’activité pancréatique exocrine.
+
+L’essentiel pour la pratique
+
+• Les collections pancréatiques et péri-pancréatiques sont des complications fréquentes et leur prise en charge implique en premier lieu une caractérisation précise via la réalisation d’une tomodensitométrie abdominale injectée initiale: collection de la phase aiguë versus tardive, avec ou sans nécrose, stérile ou infectée. Au besoin, la présence de nécrose est précisée par une imagerie dédiée (IRM, échographie abdominal ou «endoscopic ultrasound»).
+
+• Lorsque la collection pancréatique devient symptomatique, le drainage par voie endoscopique transmurale est la prise en charge de choix. Elle doit s’accompagner d’une prise en charge nutritionnelle spécialisée.
+
+• L’épanchement pleural d’origine pancréatique peut être symptomatique d’une fistule de la voie pancréatique principale. Sa prise en charge nécessite le rétablissement d’un drainage vers la cavité digestive des sécrétions pancréatiques, associé également à une prise en charge nutritionnelle.

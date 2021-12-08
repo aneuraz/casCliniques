@@ -1,0 +1,60 @@
+Contexte
+
+En Europe, il est rare de devoir traiter des patients victimes de blessures par balles chez lesquels il y a une atteinte de l’aorte. Les blessures pénétrantes de l’aorte sont toutefois associées à une mortalité élevée, car la perte de sang massive peut très rapidement donner lieu à un état de choc hémorragique.
+
+Nous décrivons le cas exceptionnel d’un patient chez lequel une plaie par balle de l’aorte a uniquement été diagnostiquée dix jours après une tentative de suicide.
+
+Présentation du cas
+Anamnèse et statut
+
+Un jeune homme de 29 ans nous a été amené par la REGA. Il a été trouvé étendu sur le sol à son domicile, avec à côté de lui une arme à feu de petit calibre (projectiles de 6 mm). A l’arrivée de la REGA, le patient était conscient. Il présentait des signes de centralisation circulatoire avec tachycardie (fréquence cardiaque 125/min) et sueurs froides, et une substitution volémique par perfusions de solution cristalloïde a donc été mise en œuvre. Il s’est avéré que le patient s’était infligé au total trois blessures par balles dans l’abdomen et le thorax dans une intention suicidaire.
+
+A son arrivée dans la salle de réanimation du centre des urgences, le patient était conscient (Glasgow Coma Scale [GCS] 15), toujours tachycarde (fréquence cardiaque 124/min), mais hémodynamiquement stable (pression artérielle 109/73 mm Hg). A l’examen clinique, trois blessures par balles ont été retrouvées: une au niveau de l’hémithorax gauche ventral, une au niveau de l’hémithorax droit ventral et une au niveau de la partie supérieure gauche de l’abdomen. L’abdomen ne présentait pas de signes de péritonite. En raison des hémopneumothorax bilatéraux diagnostiqués cliniquement, des drains thoraciques bilatéraux ont été ­posés, avec initialement une faible quantité de sang drainée.
+
+Résultats et diagnostic
+
+Compte tenu de la situation hémodynamique stable sans péritonite, une tomodensitométrie (TDM) avec produit de contraste du thorax et de l’abdomen a ensuite été réalisée (fig. 1). Elle a révélé un hémopéricarde dans le cadre d’une lésion péricardique et d’une lésion myocardique suspectée, des lésions diaphragmatiques bilatérales, des lacérations hépatiques au niveau des segments I, II, III et IVa, un petit hématome rétropéritonéal (au niveau para-aortique gauche), périhépatique et périsplénique, ainsi que de l’air libre intrapéritonéal et du liquide libre dans le petit bassin. Par ailleurs, il y avait une suspicion de lésion du mésentère du côlon transverse. Au niveau para-aortique gauche, à hauteur de la naissance des artères mésentériques, un projectile a été mis en évidence. Toutefois, rien n’indiquait avec certitude qu’il y avait une lésion de l’aorte, des artères viscérales ou d’autres gros vaisseaux artériels et veineux, car aucune source hémorragique active n’a été diagnostiquée.
+
+Figure 1: Angio-TDM initiale, coupe axiale (A ) et sagittale (B ): paroi aortique intacte et absence de signes d’hémorragie, ­projectile de localisation pré-vertébrale (flèche).
+
+Traitement
+
+Une laparotomie médiane a été réalisée en urgence. Durant l’intervention, il a été procédé à une hémostase rigoureuse au niveau des blessures par balles du foie dans le segment II/III et le segment IVa/I, ainsi qu’au niveau du mésentère du côlon transverse. Les lésions diaphragmatiques bilatérales et deux lésions de l’intestin grêle (situées env. 10 et 30 cm après le ligament de Treitz) ont été suturées. Au niveau transdiaphragmatique, le péricarde a été ouvert et il a été procédé à la suture d’une lésion épicardique dans la région de l’apex du cœur, avec pose d’un drain péricardique. En raison des lésions concomitantes, l’aorte viscérale n’a pas été explorée malgré le petit hématome rétropéritonéal non expansif et le projectile de localisation para-aortique. Finalement, une échographie duplex des vaisseaux hépatiques a encore été réalisée en intra-opératoire, et une thrombose de la veine porte au niveau des segments II et III a été diagnostiquée à cette occasion.
+
+Evolution
+
+La surveillance postopératoire à l’unité de soins intermédiaires puis dans le service normal s’est déroulée sans évènements particuliers. Les drains ont été ­retirés et le patient a rapidement récupéré. A l’échocardiographie transthoracique réalisée au septième jour postopératoire, une bonne fonction ventriculaire gauche (fraction d’éjection ventriculaire gauche 55%) a été objectivée. Compte tenu de la bonne évolution clinique, rien ne laissait présager une hémorragie pertinente ou une augmentation de l’hématome rétropéritonéal, si bien qu’une TDM de contrôle a uniquement été réalisée avant le transfert planifié du patient vers la clinique de psychiatrie au dixième jour postopératoire. Cet examen a révélé deux faux anévrismes de l’aorte, qui n’étaient pas détectables à la TDM initiale (fig. 2). L’un des faux anévrismes était localisé au niveau de la face ventrale de la paroi aortique du côté droit, en position directement crâniale par rapport à la naissance de l’artère mésentérique supérieure, et l’autre était localisé du côté opposé, au niveau de la paroi aortique postérieure gauche, à côté du projectile. Ces faux anévrismes étaient évocateurs d’une lésion par balle de l’aorte.
+
+Figure 2: Angio-TDM postopératoire après 10 jours: faux anévrisme (flèches blanches) de l’aorte au niveau de la naissance de l’artère mésentérique supérieure (*), projectile de localisation pré-vertébrale (flèche noire).
+
+Lors de la relaparotomie consécutive avec rotation viscérale bilatérale, les deux lésions aortiques en forme de fente, chacune d’une longueur de 4 mm, ont été suturées sous clampage supra-cœliaque (fig. 3). Le projectile (6 mm) a été extrait.
+
+Figure 3: Vue intra-opératoire après relaparotomie et rotation viscérale du côté droit: (a ) aorte viscérale; (* ) suture renforcée à la naissance de l’artère mésentérique supérieure; (b ) veine cave inférieure; (c ) veine rénale gauche; (d ) veine rénale droite;e ) ­duodénum; f ) foie; g ) vésicule biliaire; h ) rein droit.
+
+L’évolution postopératoire s’est déroulée sans particularités. En raison de la thrombose de la veine porte, une anticoagulation orale a été initiée. Sept jours plus tard, le patient a pu être transféré à la clinique de psychiatrie pour y suivre un traitement stationnaire. Lors du contrôle trois mois après l’intervention, le patient a ­déclaré ne présenter aucun trouble abdominal. ­L’angio-TDM a montré une situation postopératoire correcte et l’anticoagulation a pu être interrompue en raison d’une perfusion veineuse portale normale.
+
+Discussion
+
+Ce cas montre que les lésions pénétrantes de l’aorte peuvent passer inaperçues durant plusieurs jours et qu’il est possible d’y survivre. Peu de cas similaires ont été décrits dans la littérature [1, 2].
+
+La sévérité d’un traumatisme causé par des blessures par balles dépend de différents facteurs. Le calibre et la vitesse à la bouche des armes et projectiles utilisés jouent notamment un rôle. Il convient de faire la distinction entre les armes ayant une vitesse à la bouche élevée de 750–950 m/s, comme par exemple celles utilisées dans le domaine militaire, et les armes ayant une vitesse à la bouche faible (250–400 m/s), comme l’arme de petit calibre utilisée par notre patient. Il en résulte des lésions tissulaires plus ou moins prononcées, dépendant de l’énergie cinétique du projectile.
+
+La localisation du point d’entrée et la trajectoire de la balle dans le corps avant d’arriver à l’aorte jouent également un rôle. En principe, le projectile peut auparavant être freiné et dévié par des structures osseuses et d’autres tissus [1, 2].
+
+Nous partons du principe que l’utilisation d’une arme de petit calibre avec une faible vitesse à la bouche et l’âge du patient ont été déterminants pour la survie de notre patient. La paroi aortique saine d’un jeune patient sans altérations artériosclérotiques présente une élasticité élevée. De ce fait et en raison du petit calibre utilisé, la paroi aortique a pu se refermer spontanément au niveau du point d’entrée et de sortie du projectile. La blessure n’a par conséquent pas provoqué d’hémorragie aiguë. Ce n’est que par la suite que des faux anévrismes se sont formés en raison de l’endommagement des couches de la paroi [1, 2].
+
+Une question qui se pose est de savoir si face à une trajectoire transaortique évocatrice du projectile, il n’aurait pas fallu en premier lieu procéder à une exploration du rétropéritoine et de l’aorte viscérale. En particulier les hématomes rétropéritonéaux liés à une blessure pénétrante devraient, d’après divers algorithmes et lignes directrices, faire l’objet d’une exploration chirurgicale de façon routinière [4, 5]. Il convient cependant de garder à l’esprit que l’ouverture d’hématomes rétropéritonéaux à des fins d’exploration peut conduire à des hémorragies potentiellement fatales et difficilement contrôlables [3]. Une expertise correspondante est dès lors absolument indispensable. Dans le doute, en cas de circulation stabilisée et d’hématome rétropéritonéal non expansif, un traitement initialement conservateur avec tamponnement («packing») et un transfert du patient vers un hôpital central sont ­associés à un meilleur devenir.
+
+Dans le cas présenté, la TDM a uniquement révélé un hématome rétropéritonéal minime, sans hémorragie rétropéritonéale active. En intra-opératoire également, seul un hématome rétropéritonéal minime et non ­expansif était perceptible. Compte tenu des blessures concomitantes, la prise en charge en premier lieu conservatrice était la bonne décision, y compris rétrospectivement. Une exploration rétropéritonéale réalisée dans le cadre de la première opération aurait peut-être davantage mis en danger le patient, car la lésion initialement bien couverte de la paroi aortique aurait pu évoluer vers une hémorragie incontrôlable. Dans notre cas, la prise en charge secondaire apparaît être la variante la plus sûre, y compris rétrospectivement. Après une telle décision, il est essentiel de rester très vigilant et de réaliser un nouvel examen d’imagerie de contrôle par la suite, comme cela a été le cas chez notre patient.
+
+L’essentiel pour la pratique
+
+• Les plaies par balle de l’aorte peuvent passer inaperçues et il est possible d’y survivre.
+
+• Chez les patients avec blessures par balles et mise en évidence d’un projectile à proximité de l’aorte ou des gros vaisseaux, une atteinte vasculaire doit toujours être suspectée, même si l’examen d’imagerie initial ne livre aucun indice allant dans ce sens. Il est absolument indispensable de réaliser des examens d’imagerie de contrôle.
+
+• En principe, les lésions pénétrantes thoraciques, thoraco-abdominales et abdominales devraient être traitées dans un hôpital central.
+
+• Un hématome rétropéritonéal consécutif à une plaie pénétrante devrait faire l’objet d’une exploration chirurgicale.
+
+• En cas d’instabilité hémodynamique ou d’hématome rétropéritonéal expansif et/ou pulsatile décelé en intra-opératoire, une «damage control surgery» est indiquée, avec le cas échéant un transfert dans un centre de traumatologie.

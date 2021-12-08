@@ -1,0 +1,151 @@
+Description du cas
+
+Une patiente de 18 ans, en bonne santé habituelle, consulte aux urgences pour des douleurs épigastriques postprandiales et une dysphagie haute évoluant ­depuis plusieurs mois mais en péjoration sur les derniers jours. Elle signale également une perte pondérale d’environ 16 kg en 5–6 mois ainsi qu’une inappétence et une satiété précoce. Elle rapporte occasionnellement des nausées mais pas de vomissements ou de pyrosis. La patiente présente une tendance à la constipation avec des périodes pouvant aller jusqu’à 5 jours sans selles. Elle ne consomme ni tabac, ni alcool; elle ne prend aucun traitement. Cliniquement la patiente est en état général conservé et afébrile. L’abdomen est souple, sensible sur tous les quadrants, douloureux aux hypochondres, sans défense ou détente. Les bruits abdominaux sont normaux en fréquence et en tonalité. Le bilan biologique est rassurant et ne révèle pas de syndrome inflammatoire, pas d’anémie, des tests hépato-pancréatiques sont dans la norme. Le test de grossesse est négatif (tab. 1). Les symptômes s’améliorent spontanément aux urgences et la patiente rentre à domicile sans traitement.
+
+Tableau 1: Bilan biologique de la patiente.
+ 	Résultats	Valeurs de référence
+Hémoglobine	131	117–157 g/l
+MCV	85	80–100 fl
+Ferritine	112	10–150 µg/l
+Vitamine B12	246	145–569 pmol/l
+Vitamine B9	15,3	8,81–60,73 nmol/l
+ 	 	 	 
+ 	Résultats au diagnostic	Résultats à 6 mois	Valeurs de référence
+IgA totales	1,47	1,22	0,55–1,74 g/l
+IgA antitransglutaminase	86	14	<20 U
+
+Le jour suivant elle consulte à nouveau pour des douleurs épigastriques, cette fois-ci associées à deux épisodes de diarrhée, sans fièvre. Le tableau clinique est superposable à celui du jour précédent. Le nouveau bilan biologique est sans particularité et la sérologie pour Helicobacter (H.) pylorirevient négative. Les douleurs épigastriques diminuent légèrement après prise de paracétamol et d’ésomeprazole. Au vu de l’importance des douleurs et du caractère récidivant, une gastroscopie est agendée pour la semaine suivante.
+
+Question 1: Quel traitement privilégier en cas de dyspepsie avec Helicobacter pylori négatif?
+
+
+a) Anti-histaminiques-H2 (Anti-H2)
+
+b) Inhibiteurs de la pompe à protons (IPP)
+
+c) Prokinétiques
+
+d) Antiacides de contact
+
+e) Aucun
+
+Les inhibiteurs de la pompe à protons (IPP) représentent le traitement empirique de choix lors d’une dyspepsie non investiguée chez les patients avec recherche d’H. pylori négative ou qui présentent encore des symptômes malgré le traitement d’éradication de l’H. pylori. Ils sont plus efficaces que les antiacides et les antagoniste H2 même si l’efficacité semble démontrée plutôt au niveau des symptômes de reflux que sur les épigastralgies. A noter que les anti-histaminiques H2 (ranitidine) ont montré une efficacité supérieure au placebo tandis que l’efficacité des antiacides de contact semble comparable à celle du placebo. Les patients ne répondant pas à un traitement IPP, devraient bénéficier d’un traitement prokinétique (dompéridone ou métoclopramide) [1].
+
+La modalité de prise des IPP et la compliance doivent être contrôlées en cas d’échec du traitement.
+
+La patiente se présente une nouvelle fois aux urgences le lendemain (3ème consultation en 3 jours). Elle décrit des douleurs épigastriques qu’elle estime à 10/10 (échelle visuelle analogique [EVA]) apparues une quinzaine de minutes après l’ingestion d’une compote dans la matinée. Il n’y a pas de trouble digestif autre.
+
+Comme les jours précédents, l’examen clinique et le bilan biologique sont rassurants.
+
+Un ultrason abdominal, réalisé afin d’exclure une li­thiase biliaire, ne révèle aucune anomalie.
+
+L’œsogastroduodénoscopie est effectuée quelques jours plus tard. Le gastroentérologue ne retrouve pas d’anomalie permettant de rendre compte de la symptomatologie douloureuse et de la perte pondérale (fig. 1). Des biopsies gastriques et duodénales sont effectuées. L’examen histo-pathologique décrit cependant une discrète atrophie villositaire associée à une lymphocytose intra-­épithéliale au niveau de la muqueuse duodénale; la muqueuse gastrique est dans la norme.
+
+Figure 1: Gastroscopie, pas d’anomalie notable objectivée.
+
+Question 2: Quel est le diagnostic différentiel de l’atrophie villositaire?
+
+
+a) Giardiase
+
+b) Maladie de Whipple
+
+c) Sprue tropicale
+
+d) Entéropathie associée à un lymphome T
+
+e) Toutes
+
+Toutes ces pathologies peuvent être associées à une atrophie villositaire [2].
+
+Dans la Giardiase, les trophozoïtes sont responsables des altérations des entérocytes et ils sont retrouvés plus fréquemment dans le deuxième duodénum que dans le bulbe; l’atrophie villositaire tend à régresser après traitement. Cliniquement elle se manifeste par des diarrhées aiguës, ballonnement, flatulence et crampes abdominaux.
+
+La maladie de Whipple est caractérisée par des axes villositaires déformés et trapus; seules les atteintes ­sévères provoquent une atrophie villositaire; le duodénum peut être épargné tandis que le jéjunum et l’iléon sont atteints. Sur le plan clinique on retrouve une diarrhée, une stéatorrhée, des symptômes systémiques tels que des arthralgies et une fièvre et occasionnellement une atteinte du système nerveux central (myorythmies oculomasticatoires, myoclonies, démence).
+
+Dans la sprue tropicale l’examen histologique révèle une atrophie villositaire de degré variable dans 10% des cas avec des lésions s’étendant jusqu’au niveau de l’iléon; cette maladie est essentiellement rencontrée en Extrême Orient et en Amérique du Sud. La sprue tropicale s’associe généralement avec une diarrhée ­aiguë fébrile initialement, une malabsorption et une anorexie.
+
+L’entéropathie associée à un lymphome T présente des caractéristiques histologiques similaires à celles de la maladie cœliaque ou de la sprue réfractaire [2].
+
+Chez notre patiente, la présence de l’atrophie villositaire et de la lymphocytose intra-épithéliale suggèrent en premier lieu le diagnostic de maladie cœliaque. ­Selon la classification histologique de Marsh, qui considère le nombre de lymphocytes intra-épithéliaux, l’hypertrophie des cryptes et l’atrophie villositaire, il s’agit d’un stade 3a. La classification de Marsh s’étend d’un stade 1 (augmentation isolée des lymphocytes) à un stade 4 (atrophie villositaire totale) [3].
+
+Suite aux résultats histo-pathologiques, un dosage d’anticorps est effectué.
+
+Question 3: Quel test sérologique doit-on effectuer en priorité lors d’une suspicion de maladie cœliaque?
+
+
+a) IgA antiendomysium + IgA totales
+
+b) IgA antigliadine désaminée + IgA totales
+
+c) IgG antigliadine + IgA totales
+
+d) IgG antitransglutaminase + IgA totales
+
+e) IgA antitransglutaminase + IgA totales
+
+Le dosage des anticorps antitransglutaminase de classe IgA est le test qui offre les meilleures performances diagnostiques chez les patients de plus de 2 ans et il est recommandé comme test de dépistage. Environ 2% de la population générale présente un déficit sélectif de IgA; un dosage des IgA totales est donc recommandé systématiquement afin d’interpréter correctement le taux des IgA antitransglutaminase ou antigliadine.
+
+Chez les patients avec un déficit des IgA totales, le dosage des anticorps antitransglutaminase de type IgG doit être considéré [3, 4].
+
+Question 4: Quels sont les taux de spécificité et sensibilité des anticorps IgA antitransglutaminase?
+
+
+a) 85.5%, Spécificité 93.5%
+
+b) Sensibilité 95%, Spécificité 95%
+
+c) Sensibilité 91%, Spécificité 89.5%
+
+d) Sensibilité 89.5%, Spécificité 92.5%
+
+e) Sensibilité 95%, Spécificité 90%
+
+La sensibilité des IgA antitransglutaminase pour la maladie cœliaque non traitée est d’environ 95%; la spécificité est aussi de 95% ou plus [4].
+
+Le bilan sérologique de la patiente montre une valeur d’IgA dans les normes à 1,47 g/l (référence 0,55–1,74 g/l); les IgA antitransglutaminase sont augmentées à 86 U (référence <20 U).
+
+Au vu de la sérologie positive, un diagnostic de maladie cœliaque est donc retenu. Un régime sans gluten est prescrit.
+
+Question 5: Quelle(s) céréale(s) ci-dessous peut-elle consommer?
+
+
+a) Blé
+
+b) Orge
+
+c) Avoine
+
+d) Seigle
+
+e) Aucun
+
+Le régime strict sans gluten reste le seul traitement ­efficace de la maladie cœliaque; il consiste en l’éviction complète des produits à base de blé, d’orge et de seigle. L’avoine pure non contaminée n’est pas toxique dans plus de 95% des cas et peut être consommée en quantités modérées [3–5].
+
+A six mois du diagnostic, la patiente se sent beaucoup mieux et a notamment remarqué la disparition des épigastralgies et de la dysphagie. Elle n’a pas éprouvé de difficultés à suivre le régime sans gluten. Le bilan ­sérologique à six mois montre une valeur de IgA totales à 1,22 g/l avec un taux de IgA antitransglutaminase baissé à 14 U.
+
+Discussion
+
+La maladie cœliaque est une maladie inflammatoire chronique de l’intestin grêle secondaire à l’ingestion de gliadine, fraction du gluten, une protéine de sto­ckage présente dans le blé, l’orge et le seigle. Chez les individus génétiquement prédisposés (HLA-DQ2/DQ8), la gliadine modifiée est présentée aux lymphocytes T spécifiques du gluten par les cellules présentatrices de l’antigène; la cascade inflammatoire déclenchée entraîne la destruction des cellules épithéliales qui conduit à l’atrophie des villosités intestinales.
+
+La maladie cœliaque peut se manifester à tout âge, avec un rapport femme : homme de 2 : 1.
+
+Les symptômes classiques comme la stéatorrhée, la perte pondérale, les diarrhées chroniques, sont présents chez environ la moitié des adultes; néanmoins la maladie cœliaque peut être pauci-symptomatique ou se présenter par des symptômes peu spécifiques tels qu’une fatigue chronique, qui peut en partie s’expliquer par des carences (hypocalcémie, hypovitaminose A, B, D, E, K), une gêne abdominale, un ballonnement, ou même des symptômes extradigestifs, notamment rhumatologique, hématologique (anémie ferriprive), dermatologique (dermatite herpétiforme, disparition des plis cutanés) et hépatique (élévation des transaminases) [4, 5].
+
+A noter le syndrome de Plummer-Vinson, également appelé syndrome de Kelly Paterson ou «dysphagie ­sidéropénique» qui se définit par une triade classique: l’anémie ferriprive, la dysphagie et le diaphragme œsophagien supérieur. Cette triade devrait faire rechercher systématiquement une maladie cœliaque.
+
+La recherche de maladie cœliaque devrait également être envisagée chez les patients présentant des pathologies avec une composante auto-immune telles que le diabète, la cholangite sclérosante primaire, la thyroïdite auto-immune, la maladie d’Addison, le syndrome de Sjögren, l’œsophagite à éosinophiles et chez les ­patients atteints d’une maladie inflammatoire chroniques de l’intestin [3, 5].
+
+L’efficacité du régime doit être évaluée à distance; la normalisation des anticorps peut prendre jusqu’à une année. La compliance devrait être assurée par une diététicienne spécialisée.
+
+Si les symptômes sont toujours présents, malgré un ­régime bien conduit, il faut alors évoquer un diagnostic alternatif et le recours à une nouvelle endoscopie peut alors être nécessaire pour mieux comprendre le mécanisme de non-réponse [6].
+
+La maladie cœliaque réfractaire est une complication qui se caractérise par la présence de symptômes malgré un régime strict sans gluten pendant au moins six mois. Le forme de type 1 présente une augmentation de lymphocytes de phénotype normal, tandis que la forme de type 2 est considérée comme un lymphome de faible degré de malignité.
+
+Les lymphomes T associés aux entéropathies (EATL), le plus souvent décrits comme de haut degré de malignité, sont très rares (<1% des lymphomes non hodgkiniens), et associés à une maladie cœliaque dans 70% des cas [3].
+
+Le traitement de la forme de type 1 repose sur la corticothérapie (prednisone, budésonide) et les immunosuppresseurs (azathioprine). Dans la forme de type 2 le traitement initial est basé sur les stéroïdes; compte tenu du risque d’une progression vers un EATL sous traitement immunosuppresseur, l’azathioprine doit être évité.
+
+Réponses:
+
+
+Question 1: b. Question 2: e. Question 3: e. Question 4: b. ­Question 5: c.

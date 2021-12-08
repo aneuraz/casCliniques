@@ -1,0 +1,82 @@
+Présentation du cas
+Anamnèse
+
+Une patiente de 33 ans s’est présentée au service des ­urgences après cinq crises nocturnes avec perte de conscience passagère. Elle raconte s’être couchée avec une sensation de pression et de réplétion abdominales. Au cours de la nuit, elle s’est réveillée, a dû vomir et a appelé son mari. Ce dernier l’a trouvée aréactive. Elle ne réagissait plus aux sollicitations verbales de son mari, ses quatre membres tressaillaient et ses yeux étaient révulsés. Il n’y a pas eu de cri initial, la crise a duré 1 à 2 minutes. Après avoir repris conscience, la patiente était encore désorientée durant quelques minutes, puis elle a ressenti un grand épuisement. Elle ne s’est pas plainte de courbatures musculaires par la suite.
+
+Dans un contexte d’épilepsie connue durant l’enfance, qui se manifestait aussi à l’époque par une perte de conscience et des troubles abdominaux, la patiente a ­interprété cet épisode comme une nouvelle crise et est à nouveau allée se coucher. Durant la même nuit, quatre crises supplémentaires de sémiologie similaire sont survenues. Au cours de ces cinq crises au total, la patiente a présenté une perte de selles à une reprise; on ne sait pas si elle a également présenté des fuites d’urine. Elle s’est présentée le lendemain matin, de bonne heure, au service des urgences.
+
+Antécédents
+
+La patiente s’était vue diagnostiquer une épilepsie au Portugal, à l’âge de 3 ans, et elle avait été victime de crises épileptiques env. tous les 3 ans jusqu’à l’âge de 23 ans malgré la prise d’acide valproïque (Depakine® Chrono 500 mg). Les investigations menées au Portugal n’avaient pas permis d’identifier une cause. Les dossiers médicaux n’étaient pas disponibles. A l’âge de 23 ans, elle a arrêté le traitement antiépileptique de sa propre initiative. La patiente, qui est par la suite venue résider en Suisse, a été victime de deux autres crises à l’âge de 28 et 29 ans, ce qui a amené la patiente à consulter un neurologue praticien. Les électroencéphalogrammes (EEG) réalisés par ce dernier étaient sans particularités. Sur la base des éléments anamnestiques fournis par des tiers, avec convulsions cloniques des extrémités, le neurologue a estimé que la patiente souffrait de grand mal épileptique et a recommandé en urgence un traitement par lévétiracétam (Keppra®), ce que la patiente a toutefois refusé. D’après la patiente, toutes les crises dont elle avait été victime jusqu’à présent étaient précédées d’une forte sensation de pression gastrique avec d’importantes nausées allant jusqu’aux vomissements, mais c’était la première fois qu’une encoprésie s’était produite.
+
+Statut
+
+Etat général légèrement diminué, pâleur, hypotension (pression artérielle au niveau du bras droit: 98/53 mm Hg; bras gauche: 89/48 mm Hg, pouls 76/min). Température de 37,2 °C. Patiente parfaitement orientée à tous les ­niveaux, sans anomalie neurologique, morsure de la langue visible (localisation exacte non documentée). L’électrocardiogramme (ECG) réalisé à l’admission a montré un rythme sinusal normocarde sans particularités, avec en particulier aussi un intervalle QTc normal (437 ms).
+
+Analyses de laboratoire
+
+Hypokaliémie (3,2 mmol/l), neutrophilie (92%, le plus vraisemblablement liée au stress), légère élévation de la créatine kinase totale (CK-NAC; 233 U/l; valeur normale: <190 U/l).
+
+Traitement
+
+La patiente a été hospitalisée pour surveillance, réhydratation et supplémentation du potassium. En outre, un traitement antiépileptique par lévétiracétam a été initié à la dose de 2 × 250 mg/j; ce traitement a été augmenté à 2 × 500 mg/j au Jour 2 et à 2 × 750 mg/j au Jour 5.
+
+Evolution
+
+Le lendemain, la patiente s’est rendue aux toilettes pour aller à la selle sans être accompagnée. Une soignante qui venait par hasard dans la chambre a entendu un grand bruit dans les toilettes, est allée voir et a retrouvé la patiente allongée au sol, tout d’abord aréactive et immobile. En l’espace d’env. 1 minute, la patiente a repris conscience. Les paramètres vitaux mesurés à ce moment-là étaient normaux. Par la suite, la patiente a fait l’objet d’une surveillance télémétrique (ECG, oxymétrie de pouls, pression artérielle).
+
+Le soir même, une alarme de réanimation s’est déclenchée en raison d’une asystolie. La patiente a été retrouvée inconsciente dans sa chambre. Elle a rapidement pu être réveillée avec des stimuli douloureux, un rythme sinusal a été observé à l’ECG. Durant l’épisode, la patiente a perdu des selles et de l’urine. L’enregistrement ECG télémétrique durant l’épisode a montré initialement une bradycardie croissante, suivie d’un bloc AV de 2e et 3e degré sans rythme de substitution ventriculaire, avec asystolie consécutive durant 14 secondes et enfin, retour spontané d’un rythme sinusal (fig. 1). Après discussion de l’évènement avec les neurologues consultés, la patiente a été transférée dans un hôpital central pour faire l’objet d’investigations plus poussées par vidéo-EEG de longue durée.
+
+Figure 1: Bloc AV de 3edegré et asystolie durant une surveillance ECG télémétrique.
+
+L’IRM crânienne qui y a été réalisée selon un protocole d’épilepsie, avec basculement temporal et coupes fines de l’hippocampe, n’a pas montré d’anomalies. A la ­vidéo-EEG de longue durée sur 8 jours, aucun potentiel typique de l’épilepsie et aucune anomalie focale n’ont pu être identifiés, sachant toutefois que du lévétiracétam à dose croissante avait auparavant été administré durant 7 jours. L’ECG concomitant a révélé des épisodes de bradycardies asymptomatiques sur le plan clinique et un bloc AV de 1er degré limite (PQ 210 ms), mais pas de blocs de degrés plus élevés.
+
+En raison de l’asystolie symptomatique documentée, la patiente a fait l’objet d’un bilan cardiologique. Ni l’échocardiographie ni l’IRM n’ont révélé de cardiopathie structurelle. En particulier, ces examens n’ont pas montré d’éléments évocateurs d’une sarcoïdose cardiaque ou de résidus d’une myocardite ancienne. La sérologie pour les Borrelia était négative. En raison du bloc AV de 3e degré intermittent et de l’asystolie, la patiente s’est vue implanter un stimulateur cardiaque implantable double chambre à fréquence asservie (DDDR) et a pu rentrer chez elle le lendemain.
+
+Une semaine plus tard, elle s’est à nouveau présentée la nuit dans notre service d’urgences accompagnée de son mari. Elle a décrit un nouvel épisode survenu à la maison, avec palpitations cardiaques, perte de conscience et convulsions des quatre membres observées par son mari, comme cela s’était également produit lors des anciennes crises. Depuis qu’elle avait quitté l’hôpital central, la dose de lévétiracétam avait été réduite progressivement à 1 × 500 mg par jour, l’objectif étant de l’arrêter complètement.
+
+La patiente s’est présentée aux urgences dans un état général légèrement réduit, elle tremblait et présentait une tachypnée, ses paramètres vitaux étaient stables et elle a été admise en unité de soins intermédiaires (USI) pour y être surveillée. L’enregistrement ECG nocturne a montré des épisodes répétés avec arrêt de l’activité du nœud sinusal et survenue d’un rythme de substitution un peu plus lent, probablement jonctionnel (altération morphologique de l’onde P), suivi d’un bloc AV de plus haut degré (perte d’un seul complexe QRS), avec ensuite une stimulation correcte par le stimulateur durant env. 1 minute. L’intervalle R-R le plus long durant cet épisode était de 1,1 seconde.
+
+Discussion
+
+Les troubles du rythme cardiaque associés à l’épilepsie ne sont pas rares et ils sont soupçonnés être une cause majeure de morts subites inexpliquées chez les patients épileptiques («sudden unexpected death in epilepsy» [SUDEP]). Ces SUDEP concernent 0,5–1% des patients épileptiques par année et représentent la principale cause de décès de ces patients [1].
+
+Un lien intéressant entre les arythmies et l’épilepsie a été découvert dans des études, qui ont identifié un trouble des canaux ioniques comme étant une prédisposition génétique moléculaire singulière pour ces deux entités [1]. Ainsi, plusieurs gènes codant pour le syndrome du QT long montrent une double expression dans le cœur et le cerveau, et potentiellement aussi dans les cellules nerveuses autonomes. Les patients souffrant d’un syndrome du QT long présentent une incidence élevée de crises épileptiques. Ainsi, un seul mécanisme pourrait expliquer le lien entre l’épilepsie, l’arythmie et la mort subite [1].
+
+En 1906, il a été décrit pour la première fois que les crises épileptiques pouvaient influencer la fonction cardiaque autonome [3]. Les arythmies les plus fréquemment associées aux crises épileptiques sont les tachycardies sinusales, qui surviennent dans plus de 90% des crises épileptiques et sont le plus souvent inoffensives. Les bradyarythmies potentiellement fatales associées aux crises d’épilepsie sont regroupées sous le terme «syndrome de bradycardie comitiale» ou «ictal bradycardia syndrome» [4].
+
+Une recherche dans la littérature des cas de bradyarythmies induites par l’épilepsie pour la période de 1906 à 2013 a permis d’identifier 11 cas avec bloc AV, dont neuf avec bloc AV de 3e degré [5]. Dans cinq de ces cas, le bloc AV était suivi d’une asystolie. Chez tous les patients, une épilepsie focale en était à l’origine, et les blocs AV sont survenus durant des crises non convulsives.
+
+Fergus et al. [11] ont conduit une étude chez 20 patients avec épilepsie connue et enregistreur d’évènement implanté, et ont ainsi pu enregistrer le rythme cardiaque sur une période d’observation de 220 000 heures durant au total 377 crises d’épilepsie. Ils ont trouvé des bradycardies inférieures à 40/min. chez sept de ces patients et dans 2,1% des crises, avec des asystolies potentiellement fatales chez trois patients.
+
+Altenmüller et. al. [10] ont décrit un cas pratiquement analogue au nôtre avec bloc AV complet et asystolie, dans lequel le foyer épileptique a pu être localisé dans le lobe temporal à l’EEG et la bradyarythmie a pu être reproduite par stimulation externe de cette zone du cerveau [10].
+
+Schule et al. ont comparé des patients avec asystolie ictale et des patients avec asystolie d’origine vasovagale et ne sont pas parvenus à détecter des différences rythmologiques entre les deux groupes [6]. Les auteurs partent du principe que les deux types d’asystolie sont la conséquence de la stimulation des centres réflexes médullaires, qui sont responsables d’une forte augmentation temporaire du tonus vagal. Ils considèrent dès lors que l’implantation d’un stimulateur cardiaque n’est pas indiquée en cas d’asystolies ictales, étant donné qu’il s’agit d’un mécanisme auto-limitant qui cesse spontanément, comme pour les asystolies vasovagales [6].
+
+Même si cette hypothèse s’avérait exacte et même si l’asystolie passagère n’est pas directement responsable d’un risque de mortalité accrue, les syncopes qu’elle occasionne peuvent être à l’origine d’accidents, par ex., et ainsi représenter une mise en danger pour les patients concernés. C’est ce que suggère également une analyse rétrospective de Moseley et al., qui a montré une réduction significative du nombre de chutes et de la morbidité après l’implantation d’un stimulateur cardiaque chez sept patients avec syncopes ictales [7]. Cet aspect joue un rôle dans la mesure où l’implantation d’un ­stimulateur cardiaque est en soi associée à une morbidité à court et à long terme accrue [8], de sorte qu’une évaluation du rapport bénéfice-risque est avant tout essentielle chez les patients jeunes. Des observations à long terme montrent néanmoins qu’après l’implantation d’un stimulateur cardiaque, les patients sans comorbidités supplémentaires ont une espérance de vie comparable à celle de la population générale [9].
+
+Lorsqu’une syncope est interprétée comme étant d’origine épileptique (comme dans notre cas, sur la base de la présentation et de l’anamnèse de la patiente), il convient de ne pas passer à côté d’autres causes, telles que des arythmies cardiogéniques primaires potentiellement fatales. D’un autre côté, une épilepsie peut aussi être diagnostiquée à tort comme une syncope cardiaque, lorsque des bradyarythmies graves surviennent en tant que conséquence de l’épilepsie [2].
+
+Ce cas montre à quel point il peut être difficile de faire la distinction entre une syncope convulsive liée à une asystolie et une asystolie ictale. L’enregistrement EEG/ECG combiné durant une telle crise apporte la réponse.
+
+La séquence électrophysiologique de la bradyarythmie documentée chez notre patiente est en faveur d’une induction vagotonique, étant donné qu’à la fois l’activité du nœud sinusal et celle du nœud AV a été supprimée graduellement et qu’aucun rythme de substitution ventriculaire n’est survenu. Il est impossible de déterminer si cette vagotonie est d’origine épileptogène ou si elle a une autre cause.
+
+Durant l’enregistrement vidéo-EEG sur 8 jours, aucun potentiel typique de l’épilepsie n’a été observé, sachant toutefois que la patiente avait préalablement été traitée durant 7 jours par lévétiracétam. L’étiologie des pertes de conscience n’a dès lors pas pu être déterminée à ce moment-là. Selon Mothersill et al. [12], lorsque l’EEG de longue durée ne révèle pas de potentiels typiques de l’épilepsie spécifiques durant les crises, comme cela a été le cas chez notre patiente, la probabilité d’épilepsie est très faible (1,5%; valeur prédictive négative 98,5%).
+
+Dans le doute, il convient de traiter à la fois le trouble du rythme cardiaque (ici avec un stimulateur cardiaque) et l’épilepsie avec un antiépileptique à une dose suffisante. Si de nouvelles crises devaient malgré tout encore survenir et si une intensification du traitement antiépileptique s’avérait inefficace, il faudrait évaluer si une chirurgie de l’épilepsie pourrait améliorer ces situations potentiellement fatales.
+
+Dans le cas de notre patiente, l’implantation d’un stimulateur cardiaque pour prévenir de nouvelles syncopes induites par asystolie était dès lors indiquée, d’autant plus que la patiente refusait de prendre un traitement antiépileptique et avait déjà fait preuve d’une mauvaise observance par le passé.
+
+Le nouvel épisode avec perte de conscience et convulsions cloniques dont a été victime la patiente à son domicile, 1 semaine après l’implantation d’un stimulateur cardiaque et donc sous protection contre la bradycardie, avec une dose de lévétiracétam entre-temps diminuée, et qui était comparable aux anciennes crises est, d’après nous, évocateur d’une genèse principalement ictale des crises. Toutefois, la genèse reste finalement indéterminée, car la patiente est retournée vivre définitivement dans son pays d’origine peu après sa deuxième hospitalisation chez nous, rendant ainsi impossible un suivi supplémentaire de l’évolution après arrêt complet des antiépileptiques.
+
+L’essentiel pour la pratique
+
+• En cas de crises épileptiques avec altération de la conscience, il convient aussi toujours de songer à un trouble du rythme cardiaque dans le cadre du diagnostic différentiel, même en cas d’épilepsie connue.
+
+• Les patients doivent être activement interrogés quant à la présence de symptômes cardiaques entre les crises, et il faut tenter de faire la distinction entre les arythmies ictales et les arythmies cardiogéniques primaires, car à la fois le traitement et le pronostic divergent.
+
+• La principale méthode diagnostique est l’enregistrement EEG-ECG de longue durée, même si cet examen ne permet pas toujours de déterminer la cause.
+
+• En cas d’arythmies cardiogéniques, l’administration d’antiépileptiques sans traiter la maladie sous-jacente peut avoir des conséquences fatales. En cas d’arythmies ictales, le traitement antiépileptique représente la principale mesure thérapeutique.
+
+• Il n’est pas clairement déterminé si un traitement par stimulateur cardiaque améliore le pronostic des patients avec bradyarythmies épileptogènes. Des études observationnelles ont montré que les stimulateurs cardiaques permettaient de réduire les blessures et les chutes.

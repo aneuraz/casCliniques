@@ -1,0 +1,100 @@
+Fallbericht
+
+Ein 74-jähriger Patient wurde im Februar 2016 zur weiteren Abklärung einer Olecranon-Fraktur sowie einer ausgeprägten Hyperkalzämie stationär aufgenommen.
+
+Zu dem Knochenbruch kam es, als der Patient auf der Haustreppe ausgerutscht und dabei auf den rechten Ellenbogen gestürzt war.
+
+Als Grunderkrankung war seit dem Jahre 2003 eine seropositive, erosive, rheumatoide Arthritis bekannt; diesbezüglich wurde der Patient an einem Zentrumsspital betreut. In der Vorgeschichte wurde abwechselnd bzw. in Kombination Methotrexat, Salazopyrin, Leflunomid und Etanercept eingesetzt.
+
+Seit 2006 bestand unter Methotrexat eine Remission, das Medikament wurde zudem gut vertragen.
+
+Ende 2015 traten vermehrt Schmerzen über den Ellenbogen, in Finger- und Handgelenken sowie in Knie- und Zehengelenken auf. Bei Verdacht auf einen entzündlichen Schub der rheumatoiden Arthritis wurden zusätzlich Prednison sowie NSAR bei Bedarf eingenommen.
+
+Auf Grund der anamnestischen und sonographischen Aktivitätszunahme der Arthritis wurde in der rheumatologischen Sprechstunde Anfang 2016 Adalimumab, ein TNF-α-Blocker, begonnen.
+
+Als Begleiterkrankungen war eine leichte arterielle Hypertonie, eine Hypercholesterinämie und eine Prostatahyperplasie bekannt.
+
+Hospitalisation und Abklärung
+
+In der Eintrittsuntersuchung waren die Vitalparameter normal, die klinische Untersuchung fiel bis auf eine ausgeprägte Allodynie mit Punctum maximum über den Ellenbogen, den Finger- und Handgelenken sowie den Knie- und Zehengelenken beidseits unauffällig aus. Der rechte Ellenbogen war geschwollen, überwärmt und stark schmerzhaft.
+
+Die medikamentöse Therapie bestand aus Atorvastatin, einem Kalzium-/Vitamin-D-Präparat, Chondroitinsulfat, Finasterid, Prednison 20 mg und Diclofenac 2 × 100 mg täglich sowie aus Adalimumab 40 mg subkutan einmal alle zwei Wochen, Methotrexat 25 mg subkutan einmal wöchentlich und Folsäure peroral 5 mg zweimal wöchentlich.
+
+In der Blutuntersuchung wurde wie eingangs erwähnt eine ausgeprägte Hyperkalzämie gemessen, (max. Albumin-korr. Kalzium: 4,45 mmol/l [Normwert 2,2–2,6 mmol/l], Phosphat 1,8 mmol/l [Normwert 0,8–1,4 mmol/l]).
+
+Im Röntgen-Bild des Olecranons rechts fiel eine diffuse Minderung der Knochendichte mit mottenfrassartiger Arrosion und Kortikalisunterbrechung der proximalen Ulna auf. Es handelte sich um eine pathologische Fraktur, da der Sturz aus geringer Höhe und mit insgesamt kleiner Krafteinwirkung geschah (Abb. 1).
+
+Abbildung 1: Seitliche Aufnahme Ellenbogen rechts; mottenfrassartige Destruktion des proximalen Olecranon sowie der posterioren Ulna-Kante.
+
+In den folgenden Absätzen wird nun der klinisch-dia­gnostische Prozess bis hin zur definitiven Diagnosestellung aufgezeigt, es werden die diversen Arbeits­hypothesen und Differentialdiagnosen genannt sowie deren Ausschluss erklärt.
+
+Der initiale Verdacht einer destruktiven Osteomyelitis konnte mittels MRI-Untersuchung sowie nur gering erhöhten Entzündungsparameter entkräftet werden; es fielen jedoch weitere, Kontrastmittel-anreichernde, teilweise weichteildichte sowie destruktive Stellen des Knochenmarks im distalen Humerus, Radiusköpfchen und in der proximalen Ulna rechts auf. In der anschliessenden Ganzkörper-CT-Untersuchung konnten multiple osteolytische Herde in den Röhrenknochen, vor allem der distalen Extremitäten, aber auch im Sternum, der Claviculae und zweier Rippen nachgewiesen werden.
+
+Die Ursache dieses ausgedehnten und multifokalen Knochenbefundes war unklar. Zum Teil handelte es sich um Osteolysen sowie um weichteildichte, unspezifische ossäre Veränderungen.
+
+Die rheumatische Grunderkrankung kam auf Grund des Verteilungsmusters mit Befall der Röhrenknochen und, wie sich später in der PET-CT darstellte, des Achsenskeletts nicht in Frage.
+
+Eine gewisse Ähnlichkeit mit diesen multiplen osteolytischen Herden (Abb. 2) haben die in der Literatur beschriebenen, jedoch klinisch selten vorkommenden Akroosteolysen und sogenannten «braune Tumore» im Rahmen einer Ostitis fibrosa generalisata cystica Von Recklinghausen, verursacht durch einen langjährigen, fortgeschrittenen Hyperparathyreoidismus.
+
+Abbildung 2: Ap-Aufnahme Hand rechts mit multiplen,
+vorwiegend gelenknahen Osteolysen.
+
+Das Parathormon (PTH) war jedoch im unteren Normbereich. Eine Hypervitaminose D als Ursache der Hyperkalzämie bei normwertigem PTH konnte ebenso ausgeschlossen werden, es bestand sogar ein ausgeprägter Mangel (1,25-[OH]2-Vitamin D: <8 pg/ml [Normwert >15 pg/ml]). Zudem sind solche Knochenveränderungen bei einer Hypervitaminose D nicht bekannt.
+
+Als weitere Differentialdiagnose kam ein Multiples Myelom in Frage, es bestand jedoch keine Paraproteinämie bei knapp normwertiger Nierenfunktion. Eine Knochenmarksbiopsie sowie die Durchflusszytome­trie des peripheren Blutes mit Immunphänotypisierung fielen unauffällig aus.
+
+Als nächster Schritt wurde am rechten Olecranon eine Feinnadelbiopsie durchgeführt sowie eine Knochenbiopsie entnommen. In der histologischen und immunhistochemischen Aufarbeitung ergab sich der Verdacht eines malignen B-Zell-Lymphoms, auf Grund der kleinen Biopsie konnte keine endgültige Diagnose gestellt werden.
+
+Letztlich konnte in der chirurgischen Knochenbiopsie des in der PET-CT auffälligen Herdes in der linken Patella histologisch ein diffus grosszelliges B-Zell-Lymphom (DLBCL = «diffuse large B-cell lymphoma») nachgewiesen werden (Abb. 3). Nebst des Patella-Herdes sowie des Befalls der distalen Extremitäten konnten in der PET-CT ein Befall der Wirbelsäule inkl. Dens axis, ein Milzbefall sowie ein Fokus im rechten Hoden gesehen werden (Abb. 4).
+
+Abbildung 3: Histologische Knochenbiopsiepräparate aus dem Bereich der linken Patella (Vergrösserung × 400).A:In der HE-Färbung erkennt man mittig die kompakte Knochenstruktur mit vereinzelt eingeschlossenen Osteozyten sowie angrenzend beidseitig Infiltrate des DLBCL.B:In der immunhistochemischen Färbung für CD20, einem B-Zellmarker, erkennt man die diffuse immunhistochemische Positivität für CD20 (braun gefärbt).
+
+Abbildung 4: PET-CT-Übersichtsaufnahme mit starker Stoffwechselaktivität (schwarz) in den Lymphom-befallenen Knochen, Milz und Hoden. Angeschnitten der Befall der linken Patella. Ansammlung aktiver Metaboliten in der Harnblase und physiologische Anreicherung im ZNS.
+
+Laut Fachliteratur besteht ein erhöhtes Risiko für eine ZNS-Beteiligung, wenn der Hoden durch das Lymphom befallen ist. Ein ZNS-Befall konnte mittels Liquoruntersuchung ausgeschlossen werden.
+
+Zusammenfassend bestand ein DLBCL im Stadium IVA mit ausgeprägtem extranodulärem, ossärem Befall. Der vorwiegend periartikuläre ossäre Befall erschwerte die Diagnosestellung, da ebendort auch die rheumatoide Arthritis im Vorfeld aktiv war und primär ein rheumatischer Schub mit Gelenksarrosionen vermutet wurde.
+
+Die Hyperkalzämie ist im Rahmen des destruktiven, osteolytischen Befalls des Lymphomes erklärbar, die Produktion eines parathormonverwandten Peptides (PTHrP) kann jedoch nicht ausgeschlossen werden.
+
+Therapie und Verlauf
+
+Die Olecranon-Fraktur wurde konservativ mittels Spalt-Gips bis zur Einleitung einer tumorspezifischen Therapie fixiert.
+
+Die Hyperkalzämie konnte erfolgreich mit parenteraler Volumengabe und forcierter Diurese, Bisphosphonaten und Calcitonin gesenkt werden.
+
+Mit mittelstarken Opioiden und Prednison (50–25 mg/d) konnte eine suffiziente Schmerztherapie der Fraktur sowie der rheumatoiden Arthritis erreicht werden.
+
+Auf Grund einer während der Hospitalisation eingetretenen mittelschweren Panzytopenie (min. neutrophile Granulozyten 200/μl, min. Thrombozyten 81 000/μl, min. Hämoglobin 8,5 g/dl) wurde die Therapie mit Methotrexat und Adalimumab gestoppt. Die Ursache der Panzytopenie war am ehesten die myelotoxische Nebenwirkung beider Medikamente. Die Blutbildung erholte sich daraufhin spontan.
+
+Als tumorspezifische Therapie wurde im Verlauf eine fokussierte perkutane Bestrahlung der Ellenbogenregion rechts durchgeführt, konkomitant wurde eine Immunchemotherapie nach dem R-CHOP-Protokoll mit zwei anschliessenden Gaben Rituximab mono appliziert.
+
+Diese wurden weitgehend gut vertragen, die analgetische Therapie konnte ausgeschlichen werden.
+
+In der Verlaufskontrolle vier Monate nach Diagnose bestand klinisch, laborchemisch sowie radiologisch in der PET-CT-Untersuchung eine komplette metabolische Remission.
+
+Diskussion
+
+In dem geschilderten Fall ist die Korrelation zwischen langjähriger rheumatoider Arthritis und dem gehäuften Auftreten von Lymphom-Erkrankungen sowie die extranodale und vorwiegend ossäre Ausbreitung des DLBCL von besonderem Interesse.
+
+Auch wenn sich die Lebenserwartung von Patienten mit rheumatoider Arthritis auf Grund spezifischer Therapeutika (disease-modifying anti-rheumatic drugs [DMARD]; Biologica) verbessert hat, besteht weiterhin eine erhöhte Mortalität gegenüber der Normalbevölkerung. Ursächlich dafür ist ein erhöhtes Risiko von Begleiterkrankungen, insbesondere von kardiovaskulären Erkrankungen und Infektionen.
+
+Die «European League Against Rheumatism» (EULAR) empfiehlt deshalb eine konsequente Impfung gegen Influenza sowie gegen Pneumokokken und einen zurückhaltenden Gebrauch bzw. eine rasche Reduktion von Kortikosteroiden, ebenso wie regelmässige Kon­trollen und Therapie der kardiovaskulären Risikofaktoren [1].
+
+Ausserdem treten bei Patienten mit rheumatoider Arthritis häufiger Lymphom-Erkrankungen im Vergleich zur Normalbevölkerung auf. Wie bei unserem Patienten kommt insbesondere das DLBCL vermehrt vor [2]. Grund dafür ist wahrscheinlich eine im Rahmen einer chronischen Entzündung ständige Aktivierung von B- und T-Zellen. Das Risiko, ein Lymphom zu entwickeln, scheint besonders für Patienten mit schwerer Arthritis, mit positiven Rheumafaktoren sowie langfristiger hoher Krankheitsaktivität hoch zu sein [3, 4]. In einer Metaanalyse konnte aufgezeigt werden, dass die Inzidenzrate für Lymphom-Erkrankungen bei Patienten mit rheumatoider Arthritis knapp vierfach höher ist als in der Kontrollgruppe ohne rheumatoide Arthritis [5]. Interessanterweise besteht wahrscheinlich kein generell erhöhtes Risiko für andere Tumorerkrankungen.
+
+Entgegen der ursprünglichen Vermutung spielen die heutzutage breit eingesetzten DMARD-Therapeutika inklusive der Biologica eine untergeordnete onkogene Rolle bei rheumatoider Arthritis [4, 6].
+
+Das DLBCL gehört zu den aggressiven Non-Hodgkin-Lymphomen (NHL) und ist das häufigste NHL. In der Regel führen unspezifische Beschwerden wie B-Symptome und eine Lymphadenopathie zur Abklärung und Diagnose, ein vorwiegend isolierter Knochenbefall mit muskuloskelettalen Schmerzen und pathologischen Frakturen entspricht der Ausnahme. Knochentumore lymphatischer Genese sind selten. Laut Literatur [7, 8]kommt es in etwa 10% der NHL zu einem Knochenbefall, davon wiederum tritt nur in ca. 1–5% ein primärer Befall auf. Als primärer ossärer Befall gilt ein singulärer oder multipler Knochenbefall des Lymphoms mit oder ohne regionaler Lymphknotenbeteiligung, jedoch ohne systemischen und/oder fern-nodulären Befall bei Diagnosestellung bzw. innerhalb sechs Monate danach [7]. Auf Grund der geringen Prävalenz gibt es nur wenig Daten zum primär ossären DLBCL. Dennoch besteht eine bessere Prognose für NHL mit primärem Knochenbefall als mit herkömmlichem Befall.
+
+Bei unserem Patienten handelt es sich laut oben aufgeführten Kriterien um einen sekundären Befall, da zum einen die Milz als nicht regionales lymphatisches Gewebe sowie der Hoden als extranodales Gewebe befallen ist.
+
+Das Wichtigste für die Praxis
+
+• Lymphome, insbesondere das diffus grosszellige B-Zell-Lymphom (DLBCL), treten im Zusammenhang mit einer rheumatoiden Arthritis häufiger auf .
+
+• Hartnäckige Gelenkbeschwerden mit oder ohne B-Symptomatik bei einer langjährig bekannten rheumatoiden Arthritis können in einzelnen Fällen nicht durch die Grunderkrankung, sondern wie hier geschildert, durch ein neu aufgetretenes Lymphom mit ossärem Befall verursacht sein.
+
+• Eine Hyperkalzämie bei einer rheumatoiden Arthritis ist eine «Red flag» und muss abgeklärt werden.
+
+• Diagnostisch waren in dem geschilderten Fall wiederholte Knochenbiopsien; dies zeigt, dass für die definitive Diagnose eines DLBCL eine genügend grosse chirurgische Knochenbiopsie nötig ist.

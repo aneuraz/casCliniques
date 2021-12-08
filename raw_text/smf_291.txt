@@ -1,0 +1,64 @@
+Fallbericht
+Anamnese
+
+Ein 64-jähriger Patient stellte sich mit einer depressiven Symptomatik in unserer alterspsychiatrischen Poliklinik vor. Die mittelgradig depressive Episode als Folge eines massiven Erschöpfungssyndroms wegen Überengagements am Arbeitsplatz wurde durch eine Kombination aus Psychotherapie und antidepressiver Pharmakotherapie erfolgreich behandelt.
+
+Ein halbes Jahr nach Remission erschien der Patient notfallmäs­sig in Begleitung seiner Ehefrau, welche angab, dass sie den Patienten seit einer Stunde beun­ruhigt und verwirrt erlebe. Dieser stelle wiederholt Fragen nach Zeit, Ort sowie situativen Umständen und könne sich nur lückenhaft an Dinge des Vortages erinnern. Die Veränderung sei plötzlich und ohne Vorwarnung eingetreten. Im Vorfeld der Konsultation habe der Patient über Kopfschmerzen geklagt.
+
+Anamnestisch bestanden keine Hinweise auf Trauma oder bekannte Epilepsie. Der Patient leide seit Jahren unter einer arteriellen Hypertonie, welche medikamentös gut eingestellt sei.
+
+Status
+
+Der wache und kontaktfähige Patient imponierte ratlos und unruhig. Den Behandler erkannte er nicht, ­bezüglich Zeit, Ort und Situation war er vollständig desorientiert, zur Person hingegen vollständig orientiert. Die Aufmerksamkeit war mässig reduziert. Beim 3-Wort-Test war die unmittelbare Wiedergabe intakt, der verzögerte Abruf und das Wiedererkennen gelangen jedoch nicht. Ereignisse der vergangenen Tage konnten nur bruchstückhaft erinnert werden, das Erinnern weiter zurückliegender Ereignisse (z.B. Schulzeit, Berufslehre, Hochzeit) ging deutlich besser. Der übrige psychopathologische Befund war weitgehend unauffällig.
+
+Der afebrile Patient war kardiopulmonal stabil, der Blutdruck normoton, neurologisch zeigte sich eine diskrete Kraftminderung im rechten Bein gegenüber links, ein Vorbefund lag nicht vor.
+
+Befunde
+
+Zur ätiologischen Klärung und insbesondere zum Ausschluss eines zerebrovaskulären Ereignisses wurde der Patient in die Akutsomatik überwiesen. Die umgehend durchgeführte zerebrale Magnetresonanztomographie (cMRT) zeigte bis auf periventrikulär betonte, am ehesten mikrovaskulär bedingte Hyperintensitäten keine Auffälligkeiten. Neben einer Laboranalyse (z.B. Glukose, Elektrolyte) und der Ableitung eines Elektroenzephalogramms (EEG) wurden aufgrund des Vorliegens eines zerebrovaskulären Risikofaktors eine Dopplersonographie der hirnversorgenden Gefässe, ein EKG und eine Echokardiographie durchgeführt. Alle Untersuchungen blieben ohne pathologischen Befund.
+
+Diagnose
+
+Transiente globale Amnesie (TGA).
+
+Therapie und Verlauf
+
+Der Patient wurde etwas mehr als 24 Stunden stationär überwacht. Die Symptomatik bildete sich nach ca. zehn Stunden zurück und war nach 24 Stunden praktisch vollständig verschwunden.
+
+Obwohl die kognitiven Funktionen wieder weitgehend intakt waren, berichtete der Patient eine Woche nach Ereignis über einige Tage anhaltendes, subjektiv eingeschränktes Wohlbefinden mit Verunsicherung. Für die Zeit der Episode blieb eine mnestische Lücke zurück.
+
+Sowohl der Patient als auch dessen Ehefrau waren sehr verunsichert und äusserten ausgeprägte Ängste vor einer erneuten Episode.
+
+Diskussion
+
+Die transiente globale Amnesie (TGA) ist eine gutartige, akut auftretende Funktionsstörung des Gehirns mit plötzlich auftretender Neugedächtnisstörung. Im Vordergrund steht eine anterograde Amnesie mit einer Lern- und Speicherstörung, die oft begleitet wird von einer weniger stark ausgeprägten retrograden Amnesie mit beeinträchtigtem Erinnern von Inhalten, die zeitlich wenig weit zurückliegen. Die Störung ist selbstlimitierend und bildet sich nach spätestens 24 Stunden zurück.
+
+Die Diagnostik stützt sich hauptsächlich auf die somatisch-neurologische Untersuchung, die kognitive Kurztestung sowie den Ausschluss anderer Ursachen für eine amnestische Episode. Wesentlich ist die Abgrenzung einer TGA von einer transienten epileptischen Amnesie (TEA) [1]. Die TEA ist nur von kurzer Dauer, die Rezidivrate ist hoch, die Patienten sind ebenfalls zu komplexen Handlungen fähig, stellen aber nicht wiederholt dieselben Fragen; ferner zeigt das EEG epilepsie­typische Auffälligkeiten. Weitere relevante Differen­zialdiagnosen, welche sich anamnestisch und klinisch in aller Regel gut differenzieren lassen, sind eine Commotio cerebri (Traumaereignis, Prellmarken am Kopf, gegebenenfalls Bewusstseinsverlust, Erbrechen), eine Hypoglykämie, eine Intoxikation (Einnahme von Drogen oder Medikamenten wie z.B. Benzodiazepinen, Vigilanzstörung), eine Herpes-Enzephalitis (Fieber, Sprachstörung, weitere fokal-neurologische Zeichen), ein zerebrovaskulärer Insult (ischämisch oder hämorrhagisch) mediotemporal (fokal-neurologische Zeichen wie z.B. Hemianopsie) sowie eine dissoziative Amnesie (vorwiegend jüngere Patienten nach emotionaler Belastung, vordergründige oder ausschliessliche retrograde Amnesie, Desorientierung auch zur Person).
+
+Die TGA-Diagnose ist eine klinische Diagnose und wird mittels folgender Kriterien von Caplan et al. [2] sowie Hodges und Warlow [3] gestellt:
+
+– akut auftretende und isolierte Neugedächtnisstörung;
+
+– Dauer mindestens 1 Stunde, Rückbildung innerhalb von 24 Stunden;
+
+– erhaltenes prozedurales Gedächtnis;
+
+– Fehlen von Begleitsymptomen wie fokal-neurologischen Zeichen, Bewusstseinstrübung, Desorientierung zur Person, zusätzlicher kognitiver Defizite sowie vorausgehendem Trauma und Epilepsie.
+
+Die TGA ist eine seltene Störung der zweiten Lebenshälfte, der Altersgipfel liegt in der sechsten Dekade, die Häufigkeit bei Frauen und Männern zeigt keine Unterschiede. Die Ätiopathogenese der TGA ist bis heute unbekannt [4]. Etwa jeder fünfte Patient erleidet im Verlauf eine erneute Episode.
+
+Meist gehen einer TGA Ereignisse voraus, welche möglicherweise Auslöser oder Trigger darstellen, dazu zählen psychischer Stress, starke körperliche Belastung, Geschlechtsverkehr und Sprung ins kalte Wasser. Nicht selten geben die Patienten Kopfschmerzen im Vorfeld des Ereignisses an. Aufgrund der klinischen Präsentation wird eine Funktionsstörung im mediobasalen Temporallappen angenommen, da insbesondere die Hippocampusformation massgeblich an der Speicherung neuer Informationen und am Abruf und Wiedererkennen von Informationen, die zeitlich nicht weit zurückliegen, beteiligt ist . Hinweise darauf sind die bei etwa der Hälfte der Patienten nach 24–72 Stunden sichtbaren und reversiblen hippocampalen Hyperintensitäten in der MRT [5]. Klinisch unterscheiden sich die beiden Gruppen nicht voneinander. Die aktuelle Datenlage ergibt keine Anhaltspunkte auf ein erhöhtes vaskuläres Risiko. Auch scheint eine stattgehabte TGA kein Risikofaktor für eine demenzielle Entwicklung zu sein. Bezüglich persistierender Gedächtnisstörungen nach TGA ist die Studienlage inkonsistent. Während eine Untersuchung sechs Monate nach TGA noch Störungen des verbalen Gedächtnisses nachweisen konnte [6], ergab eine Metaanalyse keine Hinweise auf persistierende neuropsychologische Defizite [7].
+
+Eine spezifische Behandlung beziehungsweise Rezidivprophylaxe existieren nicht. Die Störung ist selbstlimitierend. In der akuten Phase bedarf es der Überwachung des Patienten. Kann diese nicht durch eine Bezugsperson sichergestellt werden, sollte sie stationär erfolgen. Bei eindeutiger Klinik ist keine apparative Diagnostik erforderlich. Bei Unklarheit ist jedoch eine solide Ursachendiagnostik angezeigt.
+
+Das Wichtigste für die Praxis
+
+• Die transiente globale Amnesie (TGA) stellt ein passageres kognitives Defizitsyndrom dar, das akut auftritt und zwischen ein und maximal 24 Stunden dauert.
+
+• Die Neugedächtnisstörung mit vordergründiger anterograder Amnesie stellt das Leitsymptom der TGA dar.
+
+• Zusätzliche kognitive Defizite umfassen eine retrograde Amnesie und eine zeitliche, örtliche sowie situative Desorientiertheit.
+
+• Die Diagnose wird in aller Regel klinisch gestellt, eine weitergehende Dia­gnostik ist bei eindeutigem klinischen Bild nicht erforderlich.
+
+• Aufgrund der spontanen Rückbildung drängt sich keine spezifische Behandlung auf. Ist die Aufsicht durch eine Bezugsperson gewährleistet, ist eine ambulante Führung des Patienten vertretbar.

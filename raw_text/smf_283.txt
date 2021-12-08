@@ -1,0 +1,123 @@
+Fallbericht
+Anamnese
+
+Wir berichten über einen 19-jährigen Patienten, bei dem eine vor zwei Jahren diagnostizierte, idiopatische thrombozytopenische Purpura bekannt ist. Der Pa­tient wurde wegen Durchfall, Erbrechen und Fieber vorstellig. Darüber hinaus klagte er über diffuse Muskel- sowie Halsschmerzen und einen kontinuierlichen Thoraxschmerz, den er als stechend, atem- und lageabhängig beschrieb. Des Weiteren fand sich in der Anamnese ein seit zwei Wochen bestehendes Rezidiv der bekannten Purpura, welches vor 11 Tagen mit Dexamethason (40 mg für 4 Tage, alle 2 Wochen) behandelt wurde.
+
+Klinischer Status
+
+Klinisch fand sich ein erschöpfter, eupnoischer Patient mit stabiler Hämodynamik, normalem Herz-/Thoraxbefund, Fieber (39° C), Dehydratationszeichen und leicht gerötetem Rachen. Die Inspektion der Haut zeigte keinerlei Auffälligkeiten. Die Palpation des Abdomens ergab einen leichten diffusen Druckschmerz und eine gesteigerte Peristaltik.
+
+Befunde und Diagnose
+
+Die Laborbefunde zeigten erhöhte Entzündungsparameter (CRP 121 mg/l, 15 400/μl Leukozyten mit Linksverschiebung) und eine leichte prärenale Nierenfunktionseinschränkung (Kreatinin 110 μmol/l). Die Elektrolyte lagen im Normbereich und die Thrombozytopenie (43 000/μl) hielt sich im Vergleich zu den Vorwerten stabil. Die Herzenzyme waren deutlich erhöht (Troponin I >40 000 ng/l; CK 1657 U/l). Das EKG zeigte ausserdem typische Perikarditiszeichen mit diffuser ST-Streckenhebung (Abb. 1). Wir stellten deshalb die Diagnose einer Myoperikarditis.
+
+Abbildung 1: Diffuse ST-Streckenhebungen bei Myoperikarditis.
+
+Im folgenden Herzultraschall konnten ein Perikarderguss und eine Beeinträchtigung der kardialen Pumpfunktion ausgeschlossen werden. In den Stuhlkulturen wuchsen Campylobacter jejuni als auch Salmonella infantis (nicht typhoid), beide resistent auf Ciprofloxacin.
+
+Therapie und Verlauf
+
+Der Patient wurde initial für 2 Tage auf der Intensivstation überwacht. Wir fingen eine Behandlung mit Colchicin (0,5 mg/12 h) an und zusätzlich, wegen der idiopatischen thrombozytopenischen Purpura, nach 3 Tagen die übliche hochdosierte Ste­roid­therapie für die Dauer von 4 Tagen. Des Weiteren behandelten wir symptomatisch und in Anbetracht der Immunsuppression gaben wir Azithromycin (500 mg/Tag) gemäss Antibiogramm über 10 Tage.
+
+Im Verlauf zeigte sich eine komplette Remission der Symptomatik, bestätigt durch eine Kontroll-Herzultraschall (nach zwei Wochen) und Normalisierung der Herz­enzyme. Im EKG fand sich der typische Verlauf einer ­Perikarditis (Abb. 2). Acht Wochen später wurde eine kardiale Magnetresonanztomographie durchgeführt, in der sich subepikardiale Nekrosezeichen des lateralen und anterioren medio-apikalen Myokards, ohne jegliche funktionelle Einschränkung, fanden (Abb. 3 und 4).
+
+Abbildung 2: Myoperikarditis-Verlaufs-EKG mit Entwicklung negativer T-Wellen.
+
+Abbildung 3: 4-Kammer-Bild mit T2-gewichteter Aufnahme (T2-MAP). Darstellung des Myokardödems der Lateralwand (hellviolett) als Zeichen der akuten Entzündung.
+
+Abbildung 4: 4-Kammer-Bild nach Kontrastmittel («late en­hancement»). Darstellung der Myokardnekrose der Lateralwand (weisse Stellen), mit typischem subepikardialem Muster.
+
+Diskussion
+
+Zusammenfassend waren wir mit einem Patienten konfrontiert, der an einer febrilen bakteriellen Gastroenteritis mit begleitender Myoperikarditis litt. Die letztere Diagnose wurde anhand des Thoraxschmerzes, der typischen EKG-Veränderungen und einer Erhöhung der Herzenzyme gestellt (Tab. 1).
+
+Tabelle 1: Diagnosekriterien der Perikarditis
+und Myoperikarditis, modifiziert nach [4].
+Perikarditis (≥ 2Kriterien)
+Typischer Thoraxschmerz (pleuritisch, stärker bei Inspiration, verringert bei ­Anteroflexion des Rumpfes)
+Perikardreiben
+Typische EKG-Veränderungen
+Perikarderguss
+Myoperikarditis: Diagnose Perikarditis +≥1 der folgenden Kriterien (ohne andere ­Ursachen)
+Erhöhung der Herzenzyme
+Entzündungszeichen / systolisch neu aufgetretene fokale/globale Dysfunktion im ­Herzultraschall oder -MR
+Myokard-Biopsie (nur in speziellen Fällen)
+
+In den meisten Fällen einer Myoperikarditis (bei ca. 40%) lässt sich keine Grunderkrankung eruieren (Tab. 2). Es wird vielmehr eine immunologisch vermittelte Ursache vermutet. An zweiter Stelle finden sich Infektionen, speziell Viruserkrankungen, welche auch als Verursacher der idiopathischen Form diskutiert werden. Bakterien sind in weniger als 7% Auslöser einer Myoperikarditis und rufen meist schwerwiegende Krankheitsbilder hervor. Beispielsweise zeichnen sich Salmonellen dadurch aus, dass sie zur Endotheladhäsion und -invasion befähigt sind. Dadurch steigt das Risiko (vor allem beim immunsupprimierten und älteren Patienten) von Bakteriämien mit metastatischer Aussaat (Abszesse, Osteomyelitis) oder es kommt durch den direkten Angriff auf die Gefässstrukturen zu lokalen Entzündungen (Endokarditis, Aortitis, Myoperikarditis). Campylobacter jejuni wird in den letzten Jahren immer häufiger als Ursache einer Myoperikarditis ­beschrieben [1–3]. Neben der febrilen Durchfallerkrankung sind akute wie auch späte Komplikationen bekannt. Zu diesen zählen zum Beispiel die Guil­lain-Barré-Polyradikulitis, eine ophthalmologische Betei­ligung (Konjunktivitis/Uveitis anterior), eine reaktive Spondylarthritis, eventuell auch in Form eines Reiter-Syndroms. Des Weiteren sind kutane Manifestationen bekannt (Urtikaria, Erythema nodosum, Vaskulitis, Zellulitis). Als kardiale Komplikation kommt die Myo­perikarditis sehr selten vor (nur in etwa 0,4% der Fälle) und gemäss der wenigen Literaturangaben, scheinen überwiegend junge, männliche Patienten betroffen zu sein, wenige Tage in Folge einer Enteritis. Der klinische Verlauf ist meist rasch und mit positivem spontanem Verlauf.
+
+Tabelle 2: Häufigste Ursachen für Perikarditis und/oder Myoperikarditis
+(modifiziertnach [4, 5]).
+Idiopathisch	40% (DD viral/post-viral/immunvermittelt)
+Infektiöse Ursachen
+Viral(alle Viren, hier eine ­Auflistung der
+häufigsten)	Coxsackie-Viren A und B
+Adenoviren
+Herpes-Viren (CMV, EBV, HHV 6)
+Echo-Virus
+Influenza-Virus
+Hepatitis-C-Virus
+Parvovirus B19
+Röteln-Virus
+Bakteriell	TBC (am Häufigsten in Endemiegebieten)
+Staphylokokken, Streptokokken, Haemophilus
+Mycoplasma pneumoniae, Chlamydia psittaci/trachomatis
+Neisseria gonorrhoeae/meningitidis
+Salmonellen, Shigellen, Campylobacter
+Lyme-Krankheit (Borrelia burgdorferi)
+Legionellen
+Mykotisch	Candida
+Aspergillus
+Histoplasma
+Nocardia
+Coccidiomycosis
+Parasitär	Toxoplasmose
+Malaria
+Amöben
+Echinokokken
+Nicht infektiöse Ursachen
+Metabolisch	Urämie
+Hyper-/Hypothyreose
+Systemerkrankungen	Sarkoidose
+Rheumatoide Arthritis
+Systemischer Lupus erythematodes
+Rheumatisches Fieber
+Konnektivitiden
+Granulomatosemit Polyangiitis
+Colitisulcerosa, Morbus Crohn
+Hypereosinophilie
+Kawasaki-Syndrom
+Zöliakie
+Bestrahlung	 
+Tumoral	Karzinome, Lymphome
+Toxisch/medikamentös	Alkohol
+Kokain
+Antrazyklin
+Cyclophosphamid
+Clozapin
+Mesalazin
+Methyldopa
+Schwermetalle
+Stickstoffmonoxid
+Nach Impfung	Anti-Pocken
+Diphtherie-Tetanus-Keuchhusten
+Anti-Tetanus
+DD = Differentialdiagnose; HHV = Humanes Herpesvirus; CMV = Zytomegalie-Virus;
+EBV = Epstein-Barr-Virus; TBC = Tuberkulose
+
+Der pathophysiologische Mechanismus ist noch nicht vollständig geklärt.Campylobacter jejuni scheint, im Vergleich zu Salmonellen, keine direkte Invasion des Myokards zu tätigen. Positive Blutkulturen finden sich ausschliesslich bei stark immunsupprimierten Patienten oder bei den seltenen Infektionen durch Campylobacter fetus. Der zugehörige Mechanismus scheint also indirekt zu sein und ist wahrscheinlich immunologisch vermittelt durch das Phänomen eines molekularen Mimikry und/oder einer Kreuzreaktion der myokardialen Antigene. Diese Vermutung wird auch durch den Zusammenhang von Campylobacter jenuni-Infek­tionen mit den anderen immunvermittelten mit Syndromen bestärkt. Diese scheinen durch eine Hypersensibilitätsreaktion Typ 2 hervorgerufen zu werden.
+
+In unserem Fall haben wir rückblickend die kardiale Problematik, in Anbetracht des benignen Verlaufs und der immunologischen Grunderkrankung, am ehesten der Campylobacter-Infektion zugeschrieben, obwohl Salmonellen als Auslöser nicht ganz ausgeschlossen sind.
+
+Eine Myoperikarditis wird nach zugrundeliegender ­Ursache (falls bekannt) und symptomatisch mit Antiphlogistika behandelt. Colchicin (2 × 0,5 mg/Tag, für 3–6 Monate) wird bei alleiniger Perikarditis eingesetzt, auch als Rezidivprophylaxe. Der Einsatz von Glu­kokortikoiden steht noch zur Diskussion, da Studien kontroverse Ergebnisse lieferten, vor allem, was einen möglichen Anstieg von Rezidiven angeht. Bei Myoperikarditis steht keine evidenzbasierte Behandlung zur Verfügung. Unter den lebensmittelassoziierten Infektionen ist das Vorkommen von Campylobacter jejuni klar im Steigen und immer weiter verbreitet. Hingegen nehmen Salmonellosen zunehmen ab [6]. Im Gegensatz zu anderen lebensmittelassoziierten Pathogenen, ist Campylobacter deutlich resistent gegen Fluorochinolone, mit steigender Tendenz. Laut Schweizerischem Zentrum für Antibiotikaresistenzen beträgt die Chinolonresistenz für Campylobacter 59,4% versus 2,3% für Makrolide [7]. Es ist also empfehlenswert, eine Therapie mit Azithromycin zu beginnen, auch als empirische Behandlung einer schweren febrilen Durchfallerkrankung.
+
+Es soll allerdings betont werden, dass Campylobacter-Infektionen häufig selbstlimitierend sind und keine antibiotischen Behandlung benötigen. Ausnahmen sind schwere hochfebrile Verläufe mit blutigem Durchfall, extraintestinale Manifestationen, Immunsuppression und Schwangerschaft.
+
+Das Wichtigste für die Praxis
+
+• Als seltene Komplikation einer akuten febrilen Gastroenteritis kann eine Myoperikarditis auftreten.
+
+• Das Auftreten von Enteritiden durch Campylobacter jejuni als primäre Ursache von bakterieller Diarrhöen ist steigend in der Schweiz.
+
+• Dementsprechend findet sich ein Anstieg etwaiger extraintestinaler Komplikationen (Guillain-barré, Perimyokarditis, Reiter-Syndrom)
+
+• Die ansteigende Resistenz gegen Fluorochinolone befürwortet den Einsatz (falls indiziert) von Makroliden als empirische Therapie einer febrilen Gastroenteritis.

@@ -1,0 +1,60 @@
+Contexte
+
+Les inhibiteurs du co-transporteur sodium-glucose de type 2 (SGLT-2) sont une nouvelle classe d’antidiabétiques oraux, validée pour le traitement du diabète de type 2, permettant une baisse de la glycémie indépendamment de l’insuline. Son utilisation a montré un bénéfice sur les facteurs de risque cardiovasculaire rendant son utilisation attrayante [1]. Toutefois, dans le courant de l’année 2015, Swissmedic et d’autres institutions de pharmacovigilance ont rapporté de rares cas d’acidocétose chez les patients bénéficiant de ce traitement. Cette complication, potentiellement grave, est d’autant plus difficile à diagnostiquer que la glycémie, dans ces cas, n’est que modérément augmentée, voire normale. Il est donc indispensable de connaitre les facteurs favorisants d’une telle complication et d’être attentif aux moindres symptômes et signes cliniques évocateurs afin de permettre une prise en charge rapide et adéquate.
+
+Rapport de cas
+Anamnèse
+
+Une patiente de 74 ans, connue pour un diabète de type 2 de longue date, traitée par empagliflozine (Jardiance®), gliclazide (Diamicron®) et insuline (Toujeo®), présente une asthénie depuis 3 jours, une perte pondérale ainsi que des vomissements le jour de sa venue aux urgences.
+
+Résultats
+
+Le bilan biologique montre une acidose métabolique sévère à trou anionique augmenté (pH: 7,11, pO2: 102 mmHg, pCO2: 20 mmHg, HC03: 9,0 mmol/l, trou anionique: 26 mmol/l, lactates: 1,8 mmol/l). La glycémie est à 13,7 mmol/l et l’hémoglobine glyquée à 10,5%. Des corps cétoniques sont retrouvés dans les urines et le sérum en grande quantité (β-hydroxybutyrate sanguin: 14 090 μmol/l [N: 68–170 μmol/l]). Le dosage du C-peptide revient effondré à 0,03 nmol/l (N: 0,27–1,27 nmol/l).
+
+Diagnostic, traitement et évolution
+
+Au vu du tableau clinique suspect d’une acidocétose diabétique euglycémique, la patiente est admise dans l’unité des soins intensifs où une perfusion intraveineuse de glucose et d’insuline sont débutées. Les traitements d’empagliflozine et gliclazide sont stoppés. L’évolution est rapidement favorable avec correction complète de l’acidose en deux jours. Un traitement adapté d’insuline basale et bolus est poursuivi et un enseignement thérapeutique auprès de la patiente est effectué.
+
+Discussion
+Pharmacologie
+
+Les inhibiteurs du SGLT-2 sont de nouveaux antidiabétiques oraux qui agissent sur le co-transporteur sodium-glucose de type 2 au niveau du tubule proximal du rein, augmentant ainsi l’excrétion de glucose et abaissant ­la glycémie indépendamment de l’insuline. D’autres ­effets intéressants ont été rapportés tels qu’une perte pondérale et une baisse de la tension artérielle [1, 2]. Trois molécules – canagliflozine, dapagliflozine et empagliflozine – ont été validées comme traitement de seconde ligne chez des patients diabétiques de type 2 uniquement, avec peu d’effets secondaires, parmi lesquels nous citerons le risque augmenté d’infections uro-génitales.
+
+Toutefois, c’est en juillet 2015 que Swissmedic publie une mise en garde contre la survenue de cas rares mais sévères d’acidocétose imputables aux inhibiteurs du SGLT-2, en insistant sur leur caractère atypique. En ­effet, la glycémie était, dans ces cas-là, normales ou peu augmentée contrairement aux acidocétoses diabétiques «classiques» rencontrées chez les diabétiques de type 1 [3]. La glycosurie provoquée par les inhibiteurs du SGLT-2 engendre une diminution de la glycémie à l’origine d’une réduction de la sécrétion d’insuline. En parallèle, il se produirait une augmentation de la sécrétion des hormones contre-régulatrices telles que le glucagon stimulant ainsi la lipolyse au niveau hépatique et la cétogenèse. Il a été démontré que la production de glucagon n’était pas uniquement liée à l’insulinopénie mais que les inhibiteurs du SGLT-2 agissaient directement sur la production de glucagon par les cellules alpha [1]. A noter, que les inhibiteurs du SGLT-2 induiraient également une réabsorption rénale des corps cétoniques, péjorant ainsi la situation. La glycosurie persistante induite par le traitement explique l’absence d’élévation significative de la glycémie [4]. Certaines conditions, telles que l’abus d’alcool, la réduction rapide d’un traitement d’insuline exogène, la chirurgie, les infections, la diète pauvre en hydrates de carbone, le jeûne et la déshydratation, ont été rapportés comme facteurs précipitants pour la survenue d’une acidocétose chez les patients sous traitement d’inhibiteurs du SGLT-2 [2].
+
+Symptômes, signes et critères ­diagnostiques
+
+L’élévation modérée de la glycémie et la présence parfois non significative de corps cétoniques dans les urines rendent le diagnostic d’acidocétose diabétique difficile à poser. Douleurs abdominales, nausées, vomissements, tachycardie, tachypnée associée ou non à une respiration de Kussmaul ou troubles de l’état de conscience chez un patient traité par inhibiteurs du SGLT-2 doivent faire évoquer cette hypothèse clinique. Les critères diagnostiques émis par l’«American College of Endocrinology» et l’«American Association of Clinical Endocrinologists» sont une acidose métabolique avec un pH inférieur à 7,3, un taux sanguin de β-hydroxybutyrate supérieur à 3,8 mmol/l, un anion gap supérieur à 10 et un trouble de l’état de conscience allant de la confusion au coma [5]. La détection de corps cétoniques à la bandelette urinaire ne fait pas partie des critères diagnostiques en raison de la diminution de l’excrétion rénale des corps cétoniques par les inhibiteurs SGLT-2. De plus, la bandelette urinaire ne détecte que l’acétoacétate alors que le corps cétonique principal responsable de l’acidocétose diabétique est le β-hydroxybutyrate [1].
+
+Prévention et recommandations [1]
+
+Afin de diminuer le risque d’une telle complication, il est nécessaire de connaitre le type de diabète présenté par le patient. En effet, la prescription des inhibiteurs du SGLT-2 n’est pas recommandée dans les cas de diabète de type 1, compte tenu d’une prédisposition aux acidocétoses par absence de sécrétion endogène d’insuline. Le diabète de type 1 se présente généralement dans l’enfance ou à l’adolescence. Toutefois, il peut se présenter à un âge plus avancé comme un diabète auto-immun latent de l’adulte (LADA). L’évolution vers une dépendance à l’insuline est plus lente et un diagnostic erroné de diabète de type 2 est souvent posé. Des anticorps circulants dirigés contre les îlots de Langerhans peuvent être détectés. Chez les patients suspects de présenter un LADA – jeune âge, BMI inférieur à 25 kg/m2, diabète rapidement décompensé – il est nécessaire d’effectuer des analyses plus poussées avant de débuter un traitement par inhibiteur du SGLT-2.
+
+De plus, les patients présentant un diabète de type 2 de longue évolution sous traitement d’insuline présentent une probable dysfonction de la fonction des cellules béta et sont, par conséquent, également à plus haut risque de développer une acidocétose diabétique. C’est le cas de notre patiente dont le dosage du C-peptide est effondré, faisant suspecter une production endogène d’insuline déficitaire. Chez ces patients, il est important de ne pas baisser de manière trop rapide les doses d’insuline et de bien anticiper un risque de complication face à des facteurs favorisants.
+
+Enfin, pour tous les patients sous inhibiteur du SGLT-2, il est indispensable de débuter rapidement un enseignement concernant les facteurs favorisants la survenue d’acidocétose et d’inciter les patients à consulter en cas de survenue de signes ou symptômes évocateurs (tab. 1).
+
+Tableau 1:Recommandations au patient avant l’introduction d’un inhibiteur du SGLT-2.
+Maintenir une bonne hygiène génitale
+Bien s’hydrater
+Éviter une alcoolisation importante
+Éviter une diète pauvre en hydrates de carbone ou un jeûne
+En cas de jeûne, interrompre le médicament au moins 24 heures avant
+En cas de nausées, vomissements, douleurs abdominales, fatigue inhabituelle, difficultés respiratoires, arrêter le ­médicament et consulter rapidement
+Conclusion
+
+Le risque d’une acidocétose diabétique secondaire aux inhibiteurs du SGLT-2 est plus important chez des patients dont la production endogène d’insuline est déficitaire, tels que ceux présentant un diabète de type 1, un LADA ou un diabète de type 2 de longue durée. L’introduction d’un tel traitement chez cette population peut nécessiter un avis de spécialiste et d’autres investigations.
+
+Le diagnostic d’acidocétose diabétique chez un patient traité par un inhibiteur du SGLT-2 et présentant des signes et des symptômes évocateurs, doit être suspecté bien que la glycémie ne soit que modérément augmentée. Sa détection précoce permet une diminution de la mortalité. Le traitement incriminé doit être stoppé et une prise en charge rapide par insuline, hydratation et apport en glucide doit être mise en place rapidement.
+
+L’essentiel pour la pratique
+
+• L’éducation du patient concernant les facteurs favorisants une acidocétose est indispensable.
+
+• Les patients sous traitement d’inhibiteur des SGLT-2 doivent consulter rapidement en cas de survenue de nausées, vomissements, douleurs abdominales, trouble de l’état de conscience, dyspnée.
+
+• Le diagnostic d’acidocétose diabétique doit être évoqué chez ces patients même si la glycémie est normale ou que modérément augmentée.
+
+• Le diagnostic d’acidocétose diabétique secondaire aux inhibiteurs des SGLT-2 se fait à l’aide d’une acidose métabolique avec un pH inférieur à 7,3, d’un trou anionique augmenté et de la présence de corps cétoniques en quantité augmentée dans le sang.
+
+• Les patients prédisposés à un risque augmenté d’acidocétose devraient bénéficier d’une consultation spécialisée avant l’introduction d’un inhibiteur du SGLT-2.

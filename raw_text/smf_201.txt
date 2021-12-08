@@ -1,0 +1,38 @@
+Présentation du cas
+Anamnèse
+
+Une patiente de 54 ans s’est présentée en urgence en raison d’une toux sèche irritative, d’un abattement et de douleurs dans les membres. Elle n’avait pas de maladies préexistantes et ne prenait pas de traitement au long cours. Depuis la veille, son mari était hospitalisé à l’unité de soins intensifs en raison d’un sepsis avec pneumonie à Legionella. Il était sous ventilation arti­ficielle et traité par antibiotiques. Depuis deux semaines, le couple possédait un jacuzzi, qu’il avait déjà utilisé plusieurs fois.
+
+Statut
+
+La patiente s’est présentée sans fièvre (température 37,0 °C, mesure auriculaire) et dans un bon état général. Les excursions respiratoires étaient normales et un murmure vésiculaire était perceptible au niveau de tous les champs pulmonaires. L’abdomen était souple et indolore.
+
+Résultats et diagnostic
+
+La radiographie thoracique n’a pas montré d’infiltrats. A l’exception d’une protéine C réactive élevée (115 mg/l), les analyses de laboratoire étaient normales (leuco­cytes 7700/µl), de même que les analyses urinaires. L’antigène urinaire des légionnelles était toutefois à la limite de la positivité. Sur la base de l’anamnèse et du tableau clinique, nous avons posé le diagnostic de ­fièvre de Pontiac.
+
+Discussion
+
+La fièvre de Pontiac est une forme bénigne de l’infection à Legionella pneumophila. Elle survient le plus souvent de façon aiguë et en plus de la fièvre, elle se manifeste par un abattement et une toux. Une pneumonie ne se développe pas. Des symptômes gastro-intestinaux concomitants, tels que nausées, vomissements et diarrhée, ne sont pas rares [1]. Les symptômes sont très peu spécifiques, et des investigations étiologiques ne sont généralement pas réalisées en raison de la présentation grippale.
+
+Le diagnostic peut néanmoins être suspecté sur la base d’une exposition dans une situation épidémiologique à risque (transmission aérogène par de l’eau chaude contenant l’agent pathogène). C’était le cas chez cette patiente, vu qu’elle possédait depuis peu un jacuzzi et que son mari était hospitalisé en raison d’une pneumonie à Legionella sévère. Par la suite, l’analyse des échantillons d’eau du jacuzzi a confirmé le diagnostic, révélant une contamination massive avec >200 000 légionnelles par litre.
+
+Le diagnostic de fièvre de Pontiac a été corroboré par la mise en évidence directe de l’antigène des légionnelles dans l’urine, bien qu’il était uniquement discret (fig. 1).
+
+Figure 1: Résultats du test de l’antigène urinaire des ­légionnelles.
+
+L’antigène urinaire des légionnelles est déterminé par un procédé immunochromatographique, avec un résultat déjà disponible après 15 minutes. La spécificité du test d’antigène urinaire avoisine les 100%. Bien que le test détecte uniquement le sérogroupe 1 de ­Legionella pneumophila, les kits de test disponibles en Suisse présentent une sensibilité de 94% pour ce sérogroupe [2]. Etant donné que la majorité des légionelloses (91,5%) sont causées par Legionella pneumophila et non pas par d’autres souches de légionnelles et que 84,2% d’entre elles appartiennent au sérogroupe 1 [3], le test représente une bonne modalité diagnostique. Cela vaut également pour la situation épidémiologique en Suisse. Ainsi, entre 2004 et 2008, 93,5–98,9% de tous les cas de légionellose signalés à l’Office fédéral de la santé publique (OFSP) étaient dus à Legionella pneumophila (pas de données concernant le sérogroupe) [2]. A cet égard, une bonne anamnèse concernant les voyages et une exposition éventuelle est essentielle, car d’autres espèces de légionnelles se rencontrent dans d’autres pays ou par exemple en cas de manipulation de compost ou de terre. Ainsi, la sensibilité du test de l’antigène des légionnelles dans l’urine serait plus faible et des tests diagnostiques supplémentaires devraient être utilisés. En Suisse, en 2006, plusieurs types pathogènes et non-pathogènes de légionnelles ont été isolés à partir de différents terreaux de plantation, et des études réalisées en Grande-Bretagne, en Grèce et aux Pays-Bas ont également décrit un lien entre les ­infections via la terre et le compost. En Australie, en Nouvelle-Zélande, au Japon et aux Etats-Unis, des infections à Legionella longbeachae également attribuables au terreau ont été décrites. La mise en culture serait ici une bonne méthode diagnostique car, contrairement au test de l’antigène des légionnelles dans l’urine, elle permet d’identifier toutes les espèces du genre Legionella, ainsi que les infections mixtes [2].
+
+Il convient de noter qu’en fonction des études, une sensibilité comprise entre 36 et 95% a été décrite [4, 5]. Une sévérité croissante de la maladie était néanmoins corrélée à une sensibilité croissante: 37,9% en cas de pneumonie légère et 85,7% en cas de pneumonie sévère [4]. Ainsi, pour les formes légères (comme la fièvre de Pontiac) et au stade précoce de la maladie, l’excrétion d’antigènes dans l’urine peut être faible et il se peut alors qu’aucune bande de couleur n’apparaisse sur la plaquette de test ou que seule une discrète bande de couleur soit visible (fig. 1). En cas de test négatif et de forte suspicion, il est recommandé de prescrire un contrôle par la suite, ce qui n’a pas été fait chez notre patiente.
+
+En raison du bon état général de la patiente, aucune ­antibiothérapie n’a été administrée. Les symptômes ont disparu au cours des jours suivants et la patiente est restée en bonne santé par la suite. Contrairement aux formes sévères avec pneumonie, complications septiques consécutives et évolutions parfois fatales (légionellose), le pronostic de la fièvre de Pontiac est bon même sans antibiothérapie [2]. Le mari de la patiente, qui souffrait de légionellose, a pu être extubé après une antibiothérapie de longue durée. Il a ensuite été transféré dans une clinique de réhabilitation en raison d’une polyneuropathie de réanimation. Le jacuzzi a été vidangé et le bassin a été intensivement décolonisé avec de l’eau chlorée.
+
+L’essentiel pour la pratique
+
+• La fièvre de Pontiac est une forme bénigne de l’infection à Legionella pneumophila. Outre des symptômes grippaux, elle se manifeste souvent par des troubles gastro-intestinaux. Le pronostic est bon même sans antibiothérapie.
+
+• Le test de l’antigène des légionnelles dans l’urine détecte uniquement le sérogroupe 1 de Legionella pneumophila. La majorité des légionelloses (91,5%) sont causées par cette souche de légionnelles, et 84,2% d’entre elles appartiennent au sérogroupe 1 [2]. Compte-tenu de la ­situation épidémiologique en Suisse, il s’agit d’une bonne méthode pour confirmer la maladie.
+
+• Une bonne anamnèse concernant les voyages et une exposition éventuelle est essentielle, car d’autres espèces de légionnelles peuvent être pathogéniques dans ces situations et ne pas être détectées par le test de l’antigène dans l’urine. En cas de manipulation de terre et de compost ou de voyage en Australie, en Nouvelle-Zélande, au Japon ou aux Etats-Unis, une mise en culture devrait être envisagée pour le diagnostic.
+
+• La sensibilité du test de l’antigène dans l’urine augmente avec la sévérité de la maladie, car l’excrétion de l’antigène dans l’urine est faible dans les formes légères. Cela peut également être le cas au stade précoce de la maladie et le test devrait dès lors être répété par la suite en cas de forte suspicion.

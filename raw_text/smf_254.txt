@@ -1,0 +1,25 @@
+Fallbericht
+
+Ein 40-jähriger, vielreisender Unternehmer meldete sich in der Notfallpraxis mit Fieber >39 Grad und einem Ulkus am Schienbein rechts. Die Lymphknoten inguinal rechts waren geschwollen und schmerzhaft. Das CRP war mit 46 mg/l leicht erhöht, die Leukozyten waren normal. Unter einer Therapie mit Co-Amoxicillin 3 × 625 mg/Tag zeigte sich innerhalb einer Woche eine zögerliche Besserung. Während der Patient entfieberte und das Ulkus allmählich abheilte, vergrösserten sich in der rechten Leiste die Lymphknoten innerhalb der nächsten Wochen, ulzerierten und entleerten ein weisslich-seröses Sekret (Abb. 1 und 2).
+
+Abbildung 1: Ulkus im Bereich der Tibiavorderkante
+am Unterschenkel rechts nach 6 Wochen.
+
+Abbildung 2: Lymphknotenpaket mit Ulkus nach 6 Wochen
+in der rechten Leiste.
+
+Die Franciscella-tularensis-Titer im Blut waren mit IgM 312,3 U/ml (Norm <10) und IgG >300 U/ml (Norm <10) stark erhöht und bestätigten die vermutete Dia­gnose einer ulzero-glandulären Tularämie. Unter einer Therapie mit 200 mg Tetracyclin/Tag während drei Wochen heilte der Leistenbefund ab. Ein Jahr später ist der Patient gesund und vollständig beschwerdefrei.
+
+Diskussion
+
+Die Tularämie, auch Hasenpest genannt, ist eine Zoonose, die hauptsächlich bei Nagern vorkommt [1]. Die Erstbeschreiber waren die Herren McCoy und Chapin im Jahr 1911 [2, 3]. In seltenen Fällen kann sich diese Zoonose, die durch das Bakterium Franciscella tularensis verursacht wird, auf den Mensch übertragen. Dabei handelt es sich um ein aerobes gram-negatives, fakultativ intrazelluläres, kokkoides Stäbchenbakterium. Die Übertragung erfolgt entweder mehrheitlich über den direkten Kontakt der erkrankten Tiere oder durch Insekten- oder Zeckenstiche (Zwischenwirt).
+
+In unserem Coup d’œil berichtete der Patient auf ­Nachfrage, dass er, bevor sich ein Ulkus am Schienbein bildete, eine Zecke weggekratzt hatte.
+
+Eine Zunahme der Erkrankung kann man seit 2012 in der Schweiz feststellen. Seit 2004 ist die Erkrankung hierzulande meldepflichtig.
+
+10–50 Bakterien reichen aus, um eine Infektion über die verletzte Haut auszulösen. Die übliche Inkubationszeit beträgt 3–5 Tage. Die Hälfte aller Tularämiefälle entfallen auf die ulzero-glanduläre oder die glanduläre Form. Die initiale Klinik ist oft unspezifisch und weist Ähnlichkeiten mit grippalen Symptomen auf. Es bestehen Gliederschmerzen, Fieber, Schüttelfrost, Müdigkeit und im Verlauf oft eine Schwellung der Lymphknoten. Bei unserem Patienten handelt es sich um die ulzero-glanduläre Form.
+
+Die übliche Behandlung besteht aus einer antibiotischen Therapie [4]. Bleibt die Erkrankung lokal begrenzt, kann die antibiotische Therapie per os durchgeführt werden. Gelegentlich ist auch eine chirurgische Sanierung bei abszedierenden Lymphknoten nötig. Es kann bei jeder Verlaufsform zu Komplikationen kommen. Die unbehandelte Tularämie, insbesondere bei der Unterart tularensis, ist bei 5–15% der Fälle tödlich.
+
+Die Wahl des Antibiotikums ist bei der Tularämie entscheidend, da das Bakterium Franciscella tularensisnicht empfindlich auf die Penicillin-Antibiotika ist. Die Intention sollte also sein, bei einem möglichen Zeckenbiss mit der Bildung eines Ulkus, Entwicklung von Lymphknotenpakten in der Lymphabflussbahn und begleitet von Fieber einen Abstrich oder eine Serologie durchzuführen, um möglichst rasch eine Diagnose zu erzwingen und eine resistenzgerechte Antibiose einzuleiten.

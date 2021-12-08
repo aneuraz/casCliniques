@@ -1,0 +1,40 @@
+Contexte
+
+La découverte d’anomalies à la palpation de la poitrine est souvent source de grandes inquiétudes pour la personne concernée. Dans cette situation, la patiente souhaite des examens rapides et un diagnostic fiable permettant de faire une distinction sûre entre une tumeur «bénigne» et une tumeur «maligne». Lors du diagnostic clinique et du diagnostic d’imagerie de la poitrine, l’objectif est de détecter les tumeurs malignes mais également d’éviter les interventions diagnostiques inutiles en cas d’anomalie bénigne.
+
+En présence de tumeurs de croissance rapide, et en dépit du caractère bénin assuré d’une lésion, l’évolution ultérieure doit être observée attentivement et d’autres étapes diagnostiques doivent éventuellement être initiées. La «core needle biopsy» (TruCut) écho-guidée a fait ses preuves dans le diagnostic et lorsqu’elle est réalisée par un opérateur expérimenté, elle permet d’atteindre une sécurité diagnostique de plus de 90% dans le diagnostic du cancer du sein [1].
+
+Description du cas
+Anamnèse et status
+
+Une patiente péri-ménopausée de 50 ans s’est présentée en raison d’une masse à la palpation remarquée depuis quelques semaines, d’environ 4 cm, située dans le quadrant supérieur extérieur du sein droit. Il y a 10 ans, trois fibroadénomes avaient été retirés dans cette zone, la cicatrice avait formé une chéloïde nette.
+
+Examens complémentaires
+
+Lors de la mammographie, une masse ovalaire à contours lisses de 42 mm au maximum a été décrite et classée comme «très vraisemblablement bénigne» (BI-RADS 3, fig. 1). En accord avec la palpation, l’échographie a révélé une masse à contours lisses de 42 mm au maximum avec des critères bénins.
+
+Figure 1: Mammographie – masse ovalaire à contours lisses du côté droit.
+
+Cette masse a également été classée BI-RADS 3 à l’imagerie par résonance magnétique (fig. 2). Un échantillon tissulaire a été prélevé de la masse dans le cadre d’une biopsie à l’aiguille TruCut, et l’examen histologique a conclu que la masse évoquait un «tissu mammaire avec fibrose, kystes et métaplasie musculaire lisse, correspondant en première ligne à un hamartome».
+
+Figure 2: Imagerie par résonance magnétique – masse à contours lisses absorbant le produit de contraste du côté droit.
+
+Traitement et évolution
+
+Dans la mesure où, en présence d’une tumeur bénigne, la patiente ne souhaitait pas subir de nouvelle excision chirurgicale du côté droit, un contrôle de suivi après six mois a été recommandé. Le contrôle a eu lieu un an plus tard chez la patiente entre-temps post-ménopausée. Avec une taille de 45 mm, la masse présentait une légère croissance. En raison de la croissance et du caractère gênant de la tumeur, la patiente souhaitait désormais une excision locale, qui a été réalisée selon la technique «round block» en incisant autour de la chéloïde péri-mammaire. Lors de l’opération, la tumeur à contours lisses a été entièrement retirée, avec sa capsule de tissu conjonctif.
+
+L’examen histologique de la tumeur a montré une morphologie hétérogène. Outre une composante fibro-épithéliale encapsulée avec zones de fibroadénome régressif, il existait également des zones de tumeur phyllode avec malignité principalement «borderline» et un petit foyer de composante sarcomateuse maligne, avec nécroses dégénératives étendues. L’indication d’une nouvelle résection locale dans le lit tumoral a été posée et l’intervention a été réalisée sans complications deux semaines plus tard. Aucune extension de la tumeur phyllode connue n’a été observée. Afin de réduire le risque de récidive locale, la patiente a reçu une radiothérapie adjuvante au niveau du sein droit.
+
+Discussion
+
+Les fibroadénomes sont les tumeurs solides bénignes les plus fréquentes. A l’échographie et à la mammographie, ils se présentent typiquement comme des masses homogènes à contours lisses [2]. Les fibroadénomes font partie des lésions fibro-épithéliales du sein et correspondent à des néoplasies biphasiques avec prolifération de composantes épithéliales et stromales [3].
+
+La pathogenèse des lésions fibro-épithéliales n’est pas totalement élucidée. Leur survenue et leur croissance sont vraisemblablement soumises à une influence hormonale; de plus, des études actuelles indiquent également des composantes génétiques [4]. Les tumeurs phyllodes constituent des altérations de plus haut grade de tissu glandulaire stromal dont le caractère varie (caractère bénin, «borderline» ou malin). Avec moins de 1% de l’ensemble des néoplasies mammaires, ces tumeurs sont rares et le plus souvent bénignes, bien qu’elles présentent, en tant qu’altérations au potentiel biologique incertain (lésion B3), un taux de récidive élevé et nécessitent un traitement chirurgical différent des fibroadénomes [5]. Les tumeurs phyllodes malignes comportent le risque le plus élevé de récidive locale (jusqu’à 30%) et le plus grand potentiel métastatique [3]. Les tumeurs mixtes, composées pour partie d’un fibroadénome et pour partie de composantes d’une tumeur phyllode ou de lésions de plus haut grade, peuvent compliquer la pose du diagnostic et conduire à un retard du traitement adéquat [3].
+
+En cas de fibroadénomes, une excision mini-invasive au moyen d’une biopsie sous vide ou bien l’excision ouverte locale n’est généralement indiquée qu’en cas de symptômes ou sur souhait de la patiente; les tumeurs phyllodes doivent être réséquées in sano. Les examens d’imagerie ne permettent pas de faire la distinction entre un fibroadénome et une tumeur phyllode [2], si bien que l’examen histologique au moyen d’une «core needle biopsy» est décisif. Toutefois, les résultats faux-négatifs constituent ici aussi un risque de sous-estimation. Sur le plan clinique, les tumeurs phyllodes se présentent souvent avec une croissance rapide ou – comme dans le cas présenté – avec une augmentation de volume dans le cadre d’une tumeur bénigne auparavant stable. Il convient donc par la suite, même en cas d’histologie bénigne et surtout en cas de croissance rapide et chez les femmes péri- ou post-ménopausées, de réaliser un nouveau diagnostic au moyen d’une biopsie sous vide ou d’une excision ouverte. Les carcinomes mammaires, en particulier lorsqu’ils sont «triple négatif», peuvent être confondus avec des fibroadénomes lors des examens d’imagerie [6].
+
+En présence d’une tumeur phyllode maligne, celle-ci devrait être réséquée chirurgicalement avec une «marge de sécurité» dans le tissu sain. Une radiothérapie adjuvante abaisse nettement le taux de récidive locale, toutefois sans influence sur la survie globale [7]. La taille de la tumeur et la distance entre celle-ci et la marge de résection sont des facteurs centraux qui doivent être pris en compte lors de l’indication d’une radiothérapie.
+
+L’essentiel pour la pratique
+
+En cas de tumeur mammaire diagnostiquée comme «bénigne» mais qui présente néanmoins une croissance, il convient de remettre en question le caractère bénin. Un diagnostic plus poussé devrait être indiqué sans hésiter.

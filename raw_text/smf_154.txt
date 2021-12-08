@@ -1,0 +1,60 @@
+Contexte
+
+La dégénérescence kystique de l’adventice est une affection non-artériosclérotique rare, qui déclenche une claudication intermittente. Elle touche souvent les hommes jeunes et d’âge moyen sans facteurs de risque cardiovasculaire. Les kystes sont uniloculaires ou multiloculaires et ils contiennent des mucoprotéines et de l’acide hyaluronique. Ils sont localisés dans l’adventice et provoquent un rétrécissement voire une obstruction de la lumière vasculaire par compression excentrique. Dans 85% des cas, l’artère poplitée est touchée. En règle générale, les kystes ont une localisation unilatérale, mais des cas de kystes adventitiels bilatéraux ont également été publiés [1–3].
+
+La pathogenèse de la dégénérescence kystique de l’adventice est indéterminée. Diverses théories sont discutées dans la littérature. D’une part, des traumatismes répétitifs sont évoqués comme étant responsables d’une dégénérescence chronique de l’adventice, qui conduit ­finalement à la formation de kystes [4]. D’autre part, une origine synoviale est postulée, car les kystes ressemblent à un ganglion sur le plan biochimique et histologique [5]. La troisième théorie estime que les kystes sont l’expression d’une dégénérescence systémique myxomateuse dans le cadre d’une maladie du tissu conjonctif généralisée, tandis qu’une autre théorie postule que la cause réside dans l’incorporation de cellules mésenchymateuses dans les vaisseaux en formation durant la phase de développement embryonnaire [4].
+
+L’échographie permet de poser le diagnostic et de quantifier le degré de sténose de l’artère. La tomodensitométrie et l’imagerie par résonance magnétique peuvent également être utilisées comme modalités d’imagerie.
+
+Présentation du cas
+Anamnèse
+
+Un patient de 74 ans s’est présenté avec une claudication d’effort du mollet gauche. Les symptômes ne survenaient explicitement que lors de l’effort et cessaient après une pause de 1–2 minutes. Les douleurs au mollet, qui apparaissaient après une distance de marche de 200 m, étaient déjà présentes depuis environ un an et étaient lentement progressives. Le patient ne présentait pas de symptômes au repos, en position debout et en position allongée. Il était uniquement encore capable de monter des escaliers et de gravir des pentes à un rythme lent. Parmi les antécédents médicaux connus du patient figuraient une coronaropathie et une artériopathie oblitérante des membres inférieurs (AOMI). Dans le cadre de l’AOMI, un stent avait déjà été posé dans l’artère fémorale superficielle gauche dans le passé. Le patient présentait une hypertension artérielle et une hypercholestérolémie en tant que facteurs de risque cardiovasculaire.
+
+Résultat clinique et diagnostic
+
+A l’examen clinique, le pouls poplité et les pouls pédieux du côté gauche n’étaient pas palpables. Par rapport au pied droit, le pied gauche était plus froid et le temps de remplissage capillaire était discrètement allongé. La sensorimotricité était préservée. Le patient ne présentait pas d’altérations cutanées trophiques.
+
+Les oscillogrammes ont révélé une amplitude réduite à hauteur du mollet et de l’orteil I du côté gauche (fig. 1A). L’indice tibio-brachial («ankle-brachial index», ABI) était diminué à gauche (0,58) et normal à droite (1,12).
+
+Figure 1: A ) Oscillogrammes avant la ponction du kyste.B ) Oscillogrammes deux mois après la ponction du kyste. C: cuisse, M: mollet, GO: gros orteil.
+
+A l’échographie en mode B, une structure ovalaire anéchogène mesurant 1,2 cm × 1,7 cm × 0,9 cm a pu être mise en évidence dans la paroi de l’artère poplitée gauche, avec une sténose de la lumière vasculaire (fig. 2).
+
+Figure 2: Echographie en mode B avec mise en évidence d’une structure kystique dans la paroi de l’artère poplitée gauche, avec sténose de la lumière vasculaire.
+
+L’échographie duplex avec codage couleur a montré un effet de repli de spectre («aliasing»), et la mesure de la vitesse du flux systolique dans la zone sténosée a permis d’objectiver une sténose de haut grade (>90% selon Ranke) (fig. 3A).
+
+Figure 3: A ) Echographie duplex avec mise en évidence d’une sténose de haut grade (>90% selon Ranke) à l’analyse de fréquence doppler.B ) Echographie duplex avec codage couleur de l’artère poplitée gauche deux mois après l’aspiration du contenu du kyste.
+
+Diagnostic
+
+Dégénérescence kystique de l’adventice de l’aorte poplitée gauche.
+
+Traitement et évolution
+
+Le traitement s’est déroulé en ambulatoire. Le patient a été positionné en décubitus ventral; après une dés­infection de la jambe gauche et la mise en place d’un champ stérile, le patient a fait l’objet d’une anesthésie locale par lidocaïne 1%. Ensuite, le kyste a été visualisé en coupe transversale au moyen d’une sonde linéaire de 9,0 MHz. La ponction a été réalisée par voie percutanée avec une aiguille 19G en utilisant un porte-aiguille de biopsie. L’aiguille a pu être positionnée précisément dans le kyste sous contrôle échographique. Environ 1 ml de contenu du kyste a pu être ponctionné (fig. 4).
+
+Figure 4: Masse mucineuse aspirée.
+
+Par crainte d’une aspiration incomplète en raison du contenu mucineux du kyste, ce dernier a été ponctionné à plusieurs reprises afin d’agrandir l’orifice ­pariétal pour que le matériel résiduel puisse s’écouler spontanément vers l’extérieur. Après la ponction, le site de ponction a été comprimé manuellement durant trois minutes, et le patient a ensuite pu quitter l’hôpital sans bandage compressif et sans limitation de ses activités physiques.
+
+Un flux normal au sein de l’artère poplitée a pu être documenté lors d’une échographie de contrôle réalisée immédiatement après la ponction, ainsi qu’après deux mois (fig. 3B). Les courbes de l’oscillogramme et l’ABI se sont également normalisés (fig. 1B). La claudication d’effort du mollet a immédiatement disparu après la ponction et le patient est asymptomatique à ce jour (cinq mois).
+
+Discussion
+
+Depuis la première description de la dégénérescence kystique de l’adventice par Atkins et Key en 1947 [1], ­environ 700 cas ont été rapportés dans la littérature [6]. Il s’agit de rapports de cas isolés ou de petites séries de cas. En raison de la rareté de la maladie, il est impossible de réaliser des études contrôlées et donc de définir un traitement de référence standard. En général, l’excision chirurgicale du kyste ou la résection du segment vasculaire touché avec remplacement par interposition d’un greffon veineux sont privilégiées. Les approches thérapeutiques faisant appel à l’angioplastie transluminale percutanée ont échoué en raison de la morphologie de l’occlusion. Les artères non-athérosclérotiques chez les patients avec affection kystique ­adventitielle présentent un recoil en raison de leur compliance après la dilatation [7].
+
+En raison du manque de données concernant les résultats à long terme des interventions chirurgicales, nous estimons qu’il est justifié de réaliser en premier lieu une intervention mini-invasive, telle que la ponction percutanée guidée par échographie, en tant que traitement primaire. La méthode est sûre, rapide et réalisable en ambulatoire, comme l’avait déjà montré l’étude de Do et al. en 1997 [8]. Une étude de suivi a montré une absence de symptômes durant 11 ans chez une patiente après ponction de kyste guidée par échographie [9]. Si une récidive survient malgré tout, il reste toujours possible de réaliser une intervention chirurgicale.
+
+Dans de rares cas, une guérison spontanée consécutive à une résorption, un déplacement ou une extravasation du contenu du kyste est possible [10, 11].
+
+L’essentiel pour la pratique
+
+• Chez les individus sains sans facteurs de risque d’artériopathie oblitérante des membres inférieurs, il convient de songer à une dégénérescence kystique de l’adventice en cas de survenue d’une claudication.
+
+• La dégénérescence kystique de l’adventice touche généralement l’artère poplitée.
+
+• L’échographie duplex, la tomodensitométrie et l’imagerie par résonance magnétique peuvent être utilisées pour le diagnostic.
+
+• Outre la résection chirurgicale du kyste, l’aspiration percutanée guidée par échographie représente une option thérapeutique.

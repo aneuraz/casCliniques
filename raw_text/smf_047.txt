@@ -1,0 +1,32 @@
+La grippe existe-t-elle encore?
+
+A l’échelle mondiale, l’activité de la grippe a fortement régressé au cours de la pandémie de COVID-19 [1]. La concordance des données issues de différents pays est impressionnante. Aux Etats-Unis, deux semaines après la déclaration de l’état d’urgence national (13 mars 2020), une régression historique de 98% de la positivité des tests a été enregistrée alors que le volume des tests a uniquement diminué de 61%. Durant la saison grippale dans l’hémisphère sud, la grippe n’a guère circulé: en prenant les chiffres combinés pour l’Australie, le Chili et l’Afrique du Sud, sur >83 000 tests de dépistage de la grippe réalisés au total, seuls 51 étaient positifs [2]. En Australie, il n’y a pas eu du tout d’épidémie de grippe et ce, malgré une augmentation du volume des tests réalisés [2, 3]. En Europe, seuls 712 cas de grippe ont été détectés au cours de cette saison hivernale (semaines calendaires 40/2020–08/2021), ce qui correspond à une baisse de 99,5% par rapport à l’année précédente [4].
+
+Quelle est la situation en Suisse? D’après les données de surveillance de l’Office fédéral de la santé publique (OFSP), 21 cas de grippe ont été mis en évidence en Suisse depuis le début de l’année (situation au 30 mars 2021), alors que pour la même période, les chiffres s’élevaient à 11 169 cas en 2020 et à 12 496 cas en 2019 [5].
+
+Une analyse de données réalisée dans notre institution (Inselgruppe, Berne) est parvenue à un constat identique: malgré la réalisation, depuis novembre 2020, de tests combinés intensifs pour le SARS-CoV-2 et les virus de la grippe chez les patients admis en ­urgence à l’hôpital, avec ~3300 tests réalisés au total (1er novembre 2020 – 10 avril 2021), aucun cas de grippe n’a été détecté (fig. 1). Au cours des années précédentes, >220 cas de grippe avaient à chaque fois été diagnostiqués durant l’épidémie de grippe (2017/18: 260; 2018/19: 276; 2019/20: 238).
+
+Figure 1: Evolution épidémiologique de l’épidémie annuelle de grippe à l’Inselgruppe de Berne par rapport aux années précédentes. L’absence de grippe au cours de cette ­saison hivernale 2020/21 est représentée en bleu, avec un total de ~3300 tests négatifs (1.11.2020–10.4.2021). Courbes épidémiques historiques calculées sur 14 jours, avec en gris à l’arrière-plan les cas ­cumulés de grippe détectés par jour.
+
+Moy. mob.: moyenne mobile.
+
+Source des données: test de grippe A ou B, Institut des maladies infectieuses (IFIK), Université de Berne, que nous remercions pour l’aimable mise à disposition des données.
+
+Pourquoi la grippe a-t-elle disparu?
+
+Les données observationnelles ne sont pas appropriées pour démontrer des liens de causalité. Toutefois, les données mentionnées ci-dessus sont bien compatibles avec l’hypothèse selon laquelle les mesures non-pharmacologiques destinées à juguler la pandémie de
+COVID-19 ont prévenu l’apparition des épidémies hivernales de grippe [2, 6]. Cela est également plausible sur le plan biologique: les mesures non-pharmacologiques, telles que la distanciation physique, le port du masque et l’hygiène des mains, protègent non seulement contre le SARS-CoV-2, mais également contre d’autres virus respiratoires qui sont transmis via les particules respiratoires, comme par ex. les virus de la grippe. Du fait de la mobilité massivement limitée par la paralysie du transport aérien et par les fermetures de frontières et du fait des quarantaines/isolements, les quelques rares virus de la grippe détectés ont du mal à circuler et à provoquer des épidémies locales.
+
+Un facteur supplémentaire pouvant conduire à une interruption plus substantielle de la transmission est le plus faible nombre de reproduction de base des virus de la grippe (R = 1,3 [7]) par rapport au SARS-CoV-2 (R = 2,8 [8]). Les autres explications relatives potentielles des plus faibles nombres de cas de grippe sont: (1.) moins de consultations médicales pour des maladies respiratoires, (2.) moins de diagnostics en raison de la focalisation sur le SARS-CoV-2 et (3.) moins de centres de laboratoire faisant remonter les données [4].
+
+La grippe reviendra-t-elle?
+
+La question du pronostic pour les saisons grippales post-pandémie ne fait pas l’unanimité parmi les experts. En raison de la non-élimination et du grand réservoir naturel de virus influenza dans le monde animal, on s’attend à ce que la circulation de la grippe reprenne tôt ou tard à l’échelle globale une fois que la pandémie de COVID-19 aura décliné et que les mesures non-pharmacologiques ne seront plus appliquées. Une question fâcheuse reste ouverte: La disparition temporaire des virus influenza entraîne-t-elle une baisse de l’immunité de base et donc une plus grande vulnérabilité vis-à-vis de la (prochaine) grippe?
+
+Que devons-nous faire?
+
+En plus d’être associées à une morbidité et une mortalité élevées avec 3–5 millions de cas graves et 290 000–650 000 décès d’après les estimations [9, 10], les épidémies annuelles globales de grippe génèrent également des coûts socio-économiques, qui ne sont guère chiffrables car difficilement quantifiables d’un point de vue méthodologique mais qui sont probablement lourds [11].
+
+En se basant sur l’hypothèse raisonnable selon laquelle la disparition de la grippe est en grande partie attribuable aux mesures non-pharmacologiques mises en œuvre dans le cadre de la pandémie de COVID-19, il ­serait profitable de discuter de façon proactive de la ­manière dont ces mesures doivent être intégrées dans la gestion des futures épidémies de grippe. En plus de la vaccination contre la grippe, cela pourrait constituer un plus important pour conférer une protection supplémentaire aux groupes de personnes vulnérables contre les épidémies de grippe durant les mois d’hiver.
+
+Indépendamment des mesures de santé publique, nous avons appris comment chacun pouvait contribuer à sa propre santé et à celle de son entourage proche: appliquer l’étiquette respiratoire [12], avoir une bonne hygiène des mains, éviter les contacts humains inutiles en cas de maladies grippales et ne pas hésiter à porter un masque.

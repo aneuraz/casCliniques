@@ -1,0 +1,62 @@
+Contexte
+
+En décembre 2019, les premiers cas d’infection à SARS-CoV-2 sont décrits dans la région de Wuhan en Chine. Dès le 11 mars 2020, l’Organisation mondiale de la Santé (OMS) déclare que le COVID-19 est une pandémie. Rapidement les hôpitaux suisses sont confrontés à la prise en charge de patients avec des tableaux cliniques plus ou moins sévères de pneumonies à SARS-CoV-2. Nous rapportons le cas d’un patient présentant un syndrome de détresse respiratoire aigu (SDRA) en lien avec cette nouvelle infection virale. La prise en charge se complique avec l’apparition d’un événement thromboembolique.
+
+Présentation du cas
+Anamnèse
+
+Un homme de 73 ans, connu pour une hypertension ­artérielle traitée, consulte aux urgences pour un syndrome grippal avec une toux et un état fébrile. Un frottis naso-pharyngé se révèle positif pour une infection à SARS-CoV-2. Le patient quitte les urgences avec des instructions d’isolement à son domicile. Trois jours plus tard, il développe une dyspnée de stade NYHA IV associée à des douleurs thoraciques motivant une nouvelle consultation aux urgences.
+
+Statut et résultats
+
+A son admission, le patient est afébrile et présente une détresse respiratoire avec une saturation à 74% à l’air ambiant, une tachypnée à 40/min, un tirage sus-claviculaire et un balancement thoraco-abdominal.
+
+Le laboratoire montre un syndrome inflammatoire avec une protéine C réactive (CRP) à 398 mg/l et des leucocytes à 11 G/l. La gazométrie révèle une hypoxémie à 48 mm Hg sous une fraction inspirée en oxygène (FiO2) à 30% (PaO2 [pression partielle artérielle en oxygène]/FiO2 à 160 mm Hg). La radiographie du thorax montre un infiltrat interstitiel bilatéral.
+
+Traitement et évolution
+
+Notre patient présente une hypoxémie modérée d’évolution défavorable aux urgences sous oxygénothérapie standard avec une aggravation des signes de détresse respiratoire. Il est admis aux soins intensifs où il est immédiatement mis sous ventilation mécanique invasive (fig. 1). La prise en charge initiale de ventilation mécanique est celle d’un SDRA avec une ventilation dite protectrice.
+
+Figure 1: Evolution clinique du patient. DV: décubitus ventral; FiO2: fraction inspirée en oxygène; PaO2: pression partielle artérielle en oxygène.
+
+Sur proposition des infectiologues, les traitements d’hydroxychloroquine et de lopinavir/ritonavir sont initiés et associés à une antibiothérapie de ceftriaxone. Une prophylaxie anti-thrombotique par héparine non-fractionnée (HFN) à 10 000 UI/24h est administrée par voie intraveineuse continue.
+
+Jour 1:Très rapidement l’hypoxémie s’aggrave avec un rapport PaO2/FiO2 à 94 mm Hg. La ventilation protectrice est poursuivie avec une FiO2 à 60%, un volume courant (Vt) de 480 ml (poids du patient prédit 80 kg), une fréquence respiratoire à 18/min et une pression expiratoire positive (PEP) à 14 cm H2O. On mesure une pression de plateau à 29 cm H20, une pression motrice de 15 cm H20 et une compliance statique de 32 ml/cm H20. Au vu de l’évolution défavorable, le spectre antibiotique est élargi par du piperacilline/tazobactam. Un traitement de remdesevir à usage compassionnel est introduit à la place de l’hydroxychloroquine et du lopinavir/ritonavir.
+
+Jour 2 à 8:La situation se dégrade avec une augmentation des besoins en oxygène. En raison de la gravité de l’hypoxémie, plusieurs séances de décubitus ventral (DV) sont appliquées permettant une amélioration de l’oxygénation (fig. 1).
+
+Jour 9: Dès le 9e jour, l’état du patient se détériore nécessitant une augmentation de la FiO2 à 100%. Une ­séance de DV ne permet pas l’amélioration de l’oxygénation. Au bilan biologique, les D-dimères s’élèvent à 35 000 μg/l. Un angio-CT thoracique met en évidence des embolies pulmonaires intéressant les artères ­lobaires et segmentaires du lobe moyen, des lobes inférieurs droit et gauche. Une atteinte étendue du parenchyme pulmonaire est décrite avec des images en verre dépoli de répartition majoritairement périphérique ­typiques de l’atteinte par SARS-CoV-2 et des condensations postéro-basales (fig. 2).
+
+Figure 2: A) Angio-CT thoracique du patient. Embolie pulmonaire intéressant l’artère pulmonaire lobaire (flèche) correspondante à la zone aérée en bleu (B).B) Représentation colorimétrique du volume pulmonaire aéré (bleu) / non aéré (jaune).C) Parenchyme pulmonaire correspondant.
+
+Une échocardiographie montre une dilatation modérée et une dysfonction du ventricule droit présumée nouvelle. Le patient présente des embolies pulmonaires qui sont stratifiées de risque intermédiaire haut selon les guidelines de la ­Société Européenne de Cardiologie (ESC). L’anticoagulation par HNF est ­augmentée à dose thérapeutique pour un poids de 84 kg.
+
+Jour 10: L’hypoxémie est réfractaire aux séances de ventilation en DV. Une thrombolyse systémique d’altéplase est administrée à une dose totale de 100 mg. Suite à la thrombolyse, le patient présente une amélioration rapide et modérée de l’oxygénation (fig. 1) sans complication hémorragique majeure selon l’«International Society on Thrombosis and Haemostasis» (ISTH).
+
+Jour 11 à 24: L’état du patient se stabilise globalement. L’oxygénation s’améliore progressivement.
+
+Discussion
+
+Le diagnostic du SDRA est basé sur une association d’éléments cliniques, gazométriques, radiologiques et ventilatoires selon les critères de Berlin.
+
+Il est caractérisé par un œdème de la membrane ­alvéolo-capillaire, une atélectasie du parenchyme ­pulmonaire lié à une augmentation des sécrétions bronchiques qui diminuent le volume pulmonaire aéré et contribuent à l’effet shunt responsable du développement d’une hypoxémie.
+
+Dans le SDRA, la ventilation protectrice est utilisée pour améliorer les échanges gazeux sans aggraver les lésions pulmonaires existantes. La réduction du Vt à 6–8 ml par kilo de poids prédit permet de maintenir la pression de plateau à <30 cm H2O dans le but d’éviter une sur-distension des zones ­normalement aérées. La réduction du Vt est potentiellement responsable d’un dérecrutement alvéolaire participant à l’effet shunt. Le DV peut pallier au dérecrutement en redistribuant la ventilation vers les zones dorsales, en diminuant la compression des poumons par le cœur, en augmentant la compliance thoracique et en drainant les sécrétions bronchiques dont l’accumulation favorise les atélectasies [1]. L’étude PROSEVA montre une réduction de la mortalité à 28 jours de 32,8 à 16% des patients atteints de SDRA sévère mis précocement en DV [2].
+
+Après chaque séance de DV, nous constatons une ­augmentation du rapport PaO2/FiO2. L’absence d’amélioration constatée au 9e jour lors du diagnostic des embolies pulmonaires s’explique par l’hétérogénéité de l’atteinte pulmonaire. Le CT thoracique (fig. 2C) montre des infiltrats en verre dépoli et des condensations touchant environ 75% du volume distribués majoritairement au niveau du lobe inférieur et moyen du poumon droit mais épargnant les zones antéro-supérieures et plus diffus sur les plages pulmonaires à gauche. Les zones «recrutables» lors du DV pouvant contribuer à diminuer l’effet shunt se situent principalement en zone postéro-inférieure et moyenne du poumon droit. La baisse soudaine du rapport PaO2/FiO2 à J10 malgré le DV s’explique par la présence des embolies pulmonaires qui provoquent des zones non perfusées sur un parenchyme potentiellement ventilable (fig. 2A et B). La décision de procéder à une thrombolyse systémique dans cette situation se justifie par l’hypoxémie réfractaire en l’absence de contre-indication absolue ou ­relative. Elle permet de restituer une perfusion dans les territoires ventilés afin d’améliorer l’oxygénation (fig. 1). Il existe actuellement des raisons de penser qu’un traitement fibrinolytique pourrait être bénéfique pour les cas sévères de SDRA provoqué par le ­COVID-19 en l’absence même d’événement thromboembolique [3].
+
+Notre patient n’est pas connu pour des facteurs de risque classiques de maladie thromboembolique excepté l’immobilisation et l’état inflammatoire lié au COVID-19. Un screening de thromboses veineuses des membres inférieurs réalisé à J5 (pratiqué à tous nos patients) ainsi qu’à J13 (après la thrombolyse) s’était révélé négatif. Une incidence élevée d’événements thrombotiques artériels et veineux est observée chez 31% des patients atteints de COVID-19 aux soins intensifs malgré la thromboprophylaxie [4]. L’infection à SARS-CoV-2 est associée à une augmentation du risque thrombotique par une initiation de la coagulation via l’expression locale de facteur tissulaire sur le SDRA et par une inhibition de la fibrinolyse liée à la tempête de cytokines («tumor necrosis factors alpha» [TNFα], interleukine-(IL-)1, IL-6) [5]. En raison du risque thrombotique élevé, des recommandations d’experts proposent une thromboprophylaxie à dose intermédiaire ou thérapeutique selon les facteurs de risque thromboembolique, l’indice de masse corporelle (BMI), la sévérité du COVID-19 et de l’inflammation [6]. Des études, dont une suisse, sont en cours pour évaluer les stratégies de thromboprophylaxie et d’anticoagulation chez les patients atteints de formes sévères de COVID-19.
+
+Conclusion
+
+Le tableau clinique des patients critiques atteints de COVID-19 ne s’apparente pas toujours à celui du SDRA habituel. Certains patients garderont une compliance presque normale du système respiratoire sans potentiel de recrutabilité et ne bénéficierons par conséquent pas de séance de DV.
+
+Au vu de l’incidence élevée des complications thromboemboliques observées chez ces patients, il est urgent de définir une stratégie de thromboprophylaxie adaptée à la sévérité. Il se pose aussi la question d’un screening systématique de la thrombose veineuse par ­doppler des membres inférieurs chez tous les patients atteints de COVID-19 hospitalisés aux soins intensifs. Enfin, la question du bénéfice et de la sécurité d’une ­anticoagulation prophylactique intermédiaire ou thérapeutique d’emblée à l’admission sans documentation au préalable de complications thromboemboliques doit être évaluée dans un essai clinique.
+
+L’essentiel pour la pratique
+
+• Chez les patients en syndrome de détresse respiratoire aigu (SDRA), il est plus que jamais important de rester attentif aux autres causes possibles de détérioration respiratoire.
+
+• L’accident thromboembolique est une cause de détérioration respiratoire potentiellement létale à forte probabilité d’occurrence chez les patients COVID-19 hospitalisés aux soins intensifs.
+
+• L’instauration de mesures prophylactiques thromboemboliques est ­primordiale dès l’admission avec éventuellement un dosage renforcé selon l’état pro-coagulant du patient.

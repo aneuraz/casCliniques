@@ -1,0 +1,122 @@
+Présentation du cas
+
+Il s’agit d’un patient de 51 ans, connu pour un mélanome de l’omoplate droit de type SSM («superficial spreading melanoma»), initialement pT4b pN2b cM0, mutation B-RAF positive, secondairement métastatique, traité par vemurafemib (inhibiteur de la sérine-thréonine kinase BRAF), puis ipilimumab (anti-CTLA-4) en raison d’une progression sous le traitement initial. Le patient consulte suite à des malaises à répétition avec un épisode de syncope, associés à une asthénie progressive depuis environ 1 mois. La mesure de la tension artérielle à domicile révèle une hypotension avec des valeurs systoliques <95 mm Hg.
+
+Cliniquement, on retrouve un patient en état général diminué, afébrile, avec une tension artérielle à 105/65 mm Hg, une fréquence cardiaque à 95/min et une saturation à 98% à l’air ambiant. Le reste de l’examen clinique est non contributif hormis les lésions cutanées connues.
+
+Le bilan biologique initial révèle une insuffisance rénale aiguë AKIN 1 (créatininémie 150 μmol/l) avec sodium et potassium dans la limite de la norme. La formule sanguine simple est sans particularité avec une hémoglobine à 160 g/l. L’ECG montre une rythme sinusal, sans troubles de la repolarisation ni de la conduction.
+
+Question 1: A ce stade, quel diagnostic vous paraît le plus probable?
+
+
+a) Sepsis sévère
+
+b) Embolie pulmonaire
+
+c) Tamponnade cardiaque
+
+d) Insuffisance surrénalienne
+
+e) Hémorragie digestive
+
+L’absence de foyer clinique, de fièvre et de syndrome inflammatoire ainsi que l’apparition progressive des symptômes, parlent en défaveur d’une origine infectieuse. La présence d’une syncope en l’absence de désaturation et dyspnée, de même que les débuts progressifs de la symptomatologie n’évoquent pas une embolie pulmonaire. Bien que le mélanome puisse se compliquer d’un épanchement péricardique avec tamponnade, le patient ne présente pas de dyspnée ni une clinique compatible, en particulier pas de tachycardie ni de turgescence jugulaire. L’ECG n’est également pas évocateur d’une tamponnade. Une progression de la maladie oncologique pourrait aboutir à une hypotension symptomatique en présence de métastases au ­niveau hypophysaire (insuffisance surrénalienne ­secondaire) ou surrénaliennes bilatérales (insuffisance surrénalienne primaire). En l’absence d’hypotension sévère et de troubles électrolytiques, il faut évoquer en premier lieu une insuffisance surrénalienne secondaire sans répercussion sur l’axe minéralo-corticoïde. Une hémorragie digestive semble peu probable étant donné une hémoglobine à 160 g/l et l’absence d’extériorisation.
+
+Question 2: Quelle est l’approche diagnostique la moins pertinente?
+
+
+a) CT abdominal
+
+b) Dosage de l’ACTH basal
+
+c) Dosage du cortisol basal
+
+d) Dosage des autres axes hypophysaires
+
+e) IRM cérébrale
+
+Après avoir exclu les causes d’hypotension telles que le sepsis, la tamponnade ou l’embolie pulmonaire, il nous semble raisonnable de rechercher une insuffisance de l’axe cortico-surrénalien. La cortisolémie basale s’avère inférieure au seuil de détection, témoignant d’une insuffisance surrénalienne.
+
+Le test au Synacthen® ne permet pas toujours de trancher entre une atteinte primaire ou secondaire, cet examen étant pathologique en cas d’insuffisance surrénalienne primaire, mais également en cas d’insuffisance surrénalienne secondaire de longue date. Il convient donc de doser également l’ACTH (adrénocorticotrophine) basale. Chez notre patient, cette valeur est basse (4 ng/l; norme: 10–60 ng/l à 8 h) témoignant d’une origine hypophysaire. La réalisation d’un CT abdominal est donc inutile dans la situation présente. Notre patient étant atteint d’une insuffisance surrénalienne secondaire, il convient d’effectuer une IRM cérébrale à la recherche d’une atteinte hypophysaire. Dans le cas présent, les diagnostics différentiels à évoquer sont une hypophysite secondaire au traitement d’immunothérapie versus une atteinte métastasique.
+
+L’IRM cérébrale permet de conclure à une hypophysite (fig. 1), effet secondaire décrit du traitement par ipilimumab. Dans ce contexte, une dysfonction des autres axes hypophysaire est également à rechercher (dosage TSH [thyréostimuline], T4 libre, FSH [hormone folliculo-stimulante], LH [hormone lutéinisante], testostérone, prolactine, IGF-1) [insulin-like growth factor-1].
+
+Figure 1: IRM cérébrale du patient montrant des signes d’hypophysite: epaississement de l’extrémité distale de la tige pituitaire, bombement du diaphragme sellaire et augmentation de taille de l’adéno-hypophyse.
+
+Question 3: Quel traitement proposez-vous?
+
+
+a) Poursuite du traitement par ipilimumab et corticostéroïde à dose substitutive
+
+b) Interruption du traitement par ipilimumab
+
+c) Interruption du traitement par ipilimumab et corticostéroïdes à haute dose
+
+d) Interruption du traitement par ipilimumab et corticostéroïdes à dose substitutive
+
+e) Traitement par minéralocorticoïdes
+
+Le traitement de l’hypophysite à ipilimumab consiste en une corticothérapie à haute dose (différents schémas décrits dans la littérature) afin de contrecarrer la réaction inflammatoire, puis à dose substitutive en cas de persistance de l’insuffisance surrénalienne. Un traitement par minéralocorticoïdes n’est pas nécessaire étant donné que la sécrétion d’aldostérone dépend du système rénine-angiotensine-aldostérone et n’est donc pas altérée en cas d’insuffisance surrénalienne secondaire. L’arrêt de l’ipilimumab dépend de la gravité de l’atteinte. Dans le cas présent, le médicament a été définitivement interrompu. Nous mettons par ailleurs en évidence chez notre patient une diminution de la testostérone peu symptomatique, raison pour laquelle une substitution n’est pas recommandée.
+
+Question 4: Quel est le pronostic?
+
+
+a) Fatal
+
+b) Possible corrélation entre les effets secondaires et l’efficacité du traitement
+
+c) Mauvais pronostic oncologique vu l’arrêt du traitement immunomodulateur
+
+d) Récupération de l’axe cortico-surrénalien
+
+e) Récupération de l’axe gonadotrope moins probable que celle de l’axe cortico- surrénalien
+
+En cas de reconnaissance de la complication immunologique, survenant en moyenne après neuf semaines du début du traitement, une issue fatale est peu probable. La présence d’effets secondaires immunologiques nécessitant l’arrêt de l’ipilimumab et l’introduction de corticostéroïdes ne semble pas aggraver le pronostic du patient [1].
+
+De plus, il semble y avoir une corrélation favorable entre l’apparition d’effets secondaires immunologiques et l’efficacité de l’immunothérapie. Cette corrélation serait d’autant plus importante en cas d’effets secondaires graves [2].
+
+La récupération de l’axe cortico-surrénalien doit être évaluée dans le temps et peut prendre 5 mois ou plus. L’insuffisance surrénalienne est rarement réversible. Il persiste donc souvent le besoin de corticostéroïdes à doses substitutives [3]. En ce qui concerne les axes gonadotrope et thyréotrope, la récupération est plus fréquente.
+
+Dans le cas présenté, l’évolution oncologique est restée stable sur plusieurs années malgré l’arrêt de l’ipilimumab. Du point de vu endocrinologique, l’IRM montre une bonne résolution de l’inflammation hypophysaire, sans toutefois récupération de l’axe cortico-surrénalien, raison pour laquelle un traitement par corticostéroïdes à dose substitutive est toujours en cours. Par contre l’axe gonadotrope a spontanément récupéré.
+
+Question 5: Quels organes peuvent être atteints par les effets secondaires immunologiques des traitements immuno­modulateurs ?
+
+
+a) Système digestif
+
+b) Rein
+
+c) Poumon
+
+d) Peau
+
+e) Toutes les possibilités ci-dessus
+
+Les effets secondaires d’ordre immunologique («immune-related adverse events» [irAEs]) sont susceptibles de toucher tous les systèmes et sont classés de 1 à 5 en fonction de leur gravité allant du plus léger jusqu’au décès. Ils sont partiellement liés à la dose du traitement administrée.
+
+Le plus souvent il s’agit d’effets secondaires cutanés ou gastro-intestinaux de faible intensité. Le tableau 1 illustre certains effets secondaires au sein des différents organes.
+
+Etant donné que les irAEs se présentent par un spectre très étendu de manifestations cliniques pouvant atteindre tout organe à différents degré d’intensité, il est important que les médecins les évoquent dans leur diagnostic différentiel. Il est parfois difficile de distinguer un irAE d’un autre diagnostic et pour ce faire, il est important d’avoir une approche multidisciplinaire.
+
+Discussion
+
+Les traitements immunomodulateurs tel que l’ipilimumab sont de plus en plus fréquemment utilisés dans le traitement du mélanome métastatique.
+
+L’ipilimumab favorise la réponse immune contre la tumeur en empêchant l’inhibition des lymphocytes T cytotoxiques par son récepteur CTLA-4.
+
+A l’initiation de ce type de traitement, une croissance transitoire de la tumeur peut avoir lieu, en lien avec la réponse inflammatoire locale. Les critères radiologiques habituels de la réponse au traitement (RECIST) ont donc dû être adaptés («immune-related response criteria» [irRC]) [3, 4].
+
+Les traitements par immunomodulateurs sont en plein développement et nous exposent aux irAEs. La connaissance des complications auto-immunes de l’immunothérapie antitumorale est d’autant plus importante vu son efficacité et ses indications qui augmentent rapidement. Les cibles moléculaires sont variées: aux anti-CTLA4 s’ajoutent les anti-PD1, anti-PDL1 et d’autres sont en cours d’étude.
+
+Au vu de l’utilisation de plus en plus fréquente de ce type de traitement, il est important que le médecin de premier recours soit sensibilisé à l’existence des effets secondaires immunologiques pour qu’il puisse les ­diagnostiquer et les prendre en charge rapidement de manière efficace.
+
+La prise en charge des effets secondaires liés à l’ipilimumab, repose sur un traitement symptomatique en cas d’atteinte de grade 1, mise en suspens du traitement en cas d’effet indésirable de grade 2, et reprise une fois les symptômes en voie de résolution. Un traitement par corticostéroïdes est débuté en cas de non amélioration après une semaine de l’arrêt de l’immunothérapie. En cas de symptômes de grade ≥3, l’ipilimumab est immédiatement interrompu et un traitement par corticostéroïdes à haute dose (methylprednisolone 1 à 2 mg/kg puis prednisone po, différents schémas dans la littérature) est initié.
+
+Conclusions 
+
+Les traitements immunomodulateurs sont de plus en plus utilisés dans la prise en charge oncologique avec l’émergence d’effets secondaires variés qu’il est important d’identifier précocement. Une prise en charge ­rapide et correcte permet de réduire la morbi-mortalité liée à ces médicaments. Il est également important de relever la corrélation positive qu’il semble y avoir entre effet secondaire immunologique et efficacité de l’immunothérapie.
+
+Réponses
+
+
+Question 1: d. Question 2: a. Question 3: c. Question 4: b.
+Question 5: e.

@@ -1,0 +1,37 @@
+Cas clinique
+
+Le lactarium recueille le lait maternel cru collecté au domicile des donneuses anonymes et des mères dont l’enfant prématuré est hospitalisé.
+
+Les donneuses collectent leur lait dans des biberons stériles à usage unique, fournis par le lactarium.
+
+Ces biberons sont identifiés à l’aide d’un code barre unique pour chaque femme (identitovigilance sécurisée grâce à l’acquisition d’un logiciel spécifique pour le traitement de lait maternel par les lactariums).
+
+Des lots équivalents à 1 litre minimum et 4 litres maximum sont créés, en vue d’être pasteurisés. Chaque lot constitué ne concerne qu’une femme ou donneuse.
+
+Ces lots de lait maternel cru sont stockés dans des enceintes de congélation (« salle de contrôle »), au sein du lactarium, dans l’attente d’être pasteurisés.
+
+Le pasteurisateur du lactarium est qualifié pour réaliser des cycles de pasteurisation de 1 à 4 litres de lait maternel maximum (d’où le volume des lots) : une puéricultrice consultante en lactation et deux auxiliaires de puériculture.
+
+La veille de la pasteurisation, les lots de lait maternel cru sont placés dans des enceintes réfrigérées (0 à 4°C) durant 24 heures afin de respecter les règles de décongélation selon les bonnes pratiques (décret du 03 décembre 2007).
+
+Le jour de la pasteurisation, les lots sont sortis de l’enceinte réfrigérée, conditionnés dans des biberons sertis et inviolables afin d’être immergés dans le pasteurisateur (l’immersion n’est pas totale, la bague reste hors de l’eau). Deux prélèvements bactériologiques du lait cru sont réalisés selon les recommandations et envoyés au laboratoire pour analyse. Ces pratiques sont réalisées dans la « salle de préparation du lactarium ».
+
+Le premier tube identifié « lait maternel cru » est envoyé au laboratoire dans les minutes suivant le prélèvement.
+Le second tube de prélèvement de lait cru, identifié « lait pasteurisé », sera conditionné dans un biberon rempli d’eau stérile et immergé dans le pasteurisateur avec les biberons du lot afin de subir le même traitement de pasteurisation.
+
+A la fin de la pasteurisation, les biberons pasteurisés sont mis en quarantaine dans l’enceinte de congélation (située dans la « salle pasteurisation ») ; le tube de prélèvement de lait pasteurisé est envoyé dans les plus brefs délais au laboratoire.
+
+Le traitement du lait mis en quarantaine dépendra du retour de la bactériologie post pasteurisation
+Si celui-ci revient négatif, il est considéré comme conforme : le lot associé au prélèvement intégrera une nouvelle enceinte de congélation de stockage « conforme au traitement pour distribution ».
+Par contre, si le résultat revient positif (présence au-delà du seuil limite de germes comme le Bacillus selon la réglementation en vigueur), alors le lot associé au prélèvement mis en quarantaine sera détruit.
+
+La conformité de chaque lot est validée ou invalidée par le pédiatre responsable du lactarium. La validation conforme doit recueillir 2 critères : le résultat du prélèvement post pasteurisation et le cycle de pasteurisation sont conformes aux recommandations relatif au décret du 03 décembre 2007.
+
+A J12, le laboratoire de bactériologie et le lactarium partagent leurs questionnements sur le fait que depuis quelques jours, les résultats bactériologiques post pasteurisation concluant à la présence de Bacillus dans le lait maternel pasteurisé sont plus fréquents que d’habitude.
+
+Le Service de Prévention contre les Risques Infectieux est contacté par l’encadrement afin d’accompagner le lactarium et le laboratoire dans leurs réflexions.
+
+Conséquences de la situation
+Le lactarium risque de devoir arrêter son activité si la source de contamination n’est pas maîtrisée.
+La néonatologie devra se retourner vers un autre lactarium afin de se fournir en lait maternel pasteurisé pour les nouveaux prématurés de moins de 32 semaines d’aménorrhées.
+Coût financier pour le service de néonatologie et l’établissement.

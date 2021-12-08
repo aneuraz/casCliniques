@@ -1,0 +1,84 @@
+Description du cas
+
+Un patient de 85 ans est connu pour une cardiopathie ischémique et une maladie du sinus traitée par un pacemaker. Il est hospitalisé pour une décompensation cardiaque globale et reçoit des diurétiques par voie intraveineuse. Au 4ème jour d’hospitalisation, il développe un état fébrile à 38,5 °C, sans foyer clinique ni altération de l’état général. Le cathéter veineux périphérique, posé à l’admission, ne montre pas de signe d’infection locale. Deux paires d’hémocultures sont prélevées par ponction veineuse directe. Le lendemain, le patient est ­afébrile et une bouteille dans une paire d’hémocultures revient positive pour un Staphylococcus (S.) epidermidis (une bouteille sur quatre; une paire sur deux).
+
+Question: Comment interprétez-vous ce résultat et quelle est votre attitude?
+
+
+a) Il faut pouvoir confirmer ou infirmer une bactériémie, en raison du risque d’infection du pacemaker. Vous demandez donc le prélèvement de deux nouvelles paires d’hémocultures.
+
+b) Il s’agit d’une bactériémie à Staphylococcus epidermidis. Vous initiez donc un traitement de vancomycine, en attendant l’antibiogramme et la suite du bilan.
+
+c) Le prélèvement des deux paires par ponction veineuse ­directe n’est pas conforme. La présence d’un cathéter intraveineux implique de prélever au moins une paire sur le ­cathéter. Vous demandez donc le prélèvement d’une nouvelle paire sur le cathéter.
+
+d) Un Staphylococcus epidermidis dans une seule bouteille est probablement un contaminant. Vous n’entreprenez ­aucune mesure, en dehors du suivi clinique usuel.
+
+Réponse:
+
+
+La réponse correcte est d.
+
+Discussion
+Introduction
+
+L’hémoculture est l’examen de laboratoire permettant de documenter une bactériémie. Les patients présentant une bactériémie ont un taux de mortalité entre 14 et 37% [1]. La crainte de manquer une bactériémie et la capacité modeste des cliniciens à la prédire amènent à une prescription large de l’hémoculture. Par exemple, cette dernière est en troisième place des examens les plus prescrits dans le service de médecine interne du Centre hospitalier universitaire vaudois (CHUV) pour un coût annuel d’environ CHF 270 000. Le prix d’une hémoculture est d’environ CHF 60. Cette prescription fréquente expose au risque de faux positifs avec ses conséquences, tels les traitements antibiotiques inutiles et la nécessité de répéter des examens. Ceci génère du travail, des prolongations d’hospitalisation et des coûts qui vont bien au-delà du laboratoire. L’unité de prélèvement des hémocultures est communément ­appelée «paire»: deux bouteilles ensemencées simultanément, une pour les germes aérobies et l’autre pour les anaérobies. Ci-dessous, le terme «hémoculture» ­indique une paire d’hémocultures.
+
+Aspects pré-analytiques
+Indications à prélever
+
+Pour certaines infections, comme l’endocardite, les recommandations sont claires en ce qui concerne le prélèvement d’hémocultures. Cependant, pour de nombreuses situations, les médecins se fient à une évaluation clinique souvent rapide avant de poser l’indication à prélever.
+
+Dans le but de mieux prédire le risque de bactériémie, plus de 20 scores ont été développés. Le score de Shapiro et al. a montré la meilleure performance [2]. Il définit trois catégories de risque de bactériémie selon le tableau 1 qui détaille l’attribution des points. 0 ou 1 point correspond à un bas risque (0,6% de bactériémie); 2 à 5 points à un risque intermédiaire (6,8%) et plus de 6 points à un haut risque (25,6%). Les patients avec un risque intermédiaire ou haut auraient une indication à des hémocultures, alors qu’une surveillance clinique est envisageable chez les patients à bas risque. L’algorithme décisionnel de ce score a une valeur prédictive négative de 99% dans la cohorte de l’étude. Ce score pourrait diminuer de 27% le nombre d’hémocultures effectuées aux urgences; cependant il a été dérivé et validé uniquement dans des services d’urgences et il ne devrait pas être utilisé en dehors de ce contexte, notamment pour des patients déjà hospitalisés [2].
+
+Tableau 1: Score de Shapiro et al. pour prédire une bactériémie et poser l’indication à des hémocultures (adapté de [2]).
+Critères	Points
+Suspicion d’endocardite	3
+Température >39,4 °C	3
+Cathéter veineux en place	2
+Température 38,3–39,3 °C	1
+Age >65 ans	1
+Frissons	1
+Vomissements	1
+Hypotension (systolique <90 mm Hg)	1
+Leucocytes >18 G/l	1
+Déviation gauche >5%	1
+Plaquettes <150 G/l	1
+Créatinine >176 µmol/l	1
+
+L’état fébrile, qui peut être défini par une température supérieure ou égale à 38,3 °C en l’absence de consensus officiel, est le critère principal qui pousse le clinicien à prescrire des hémocultures (tab. 2). Toutefois, la littérature n’amène pas de preuve qu’une élévation isolée de la température prédise une bactériémie. En revanche, le frisson solennel est le meilleur indicateur de bactériémie chez le sujet immunocompétent selon Coburn et al., résultat à ne pas généraliser aux sujets immunocompromis ou aux patients suspects d’endocardite [1]. A noter que les personnes âgées peuvent ne pas présenter les signes typiques d’une infection systémique. Ainsi, l’absence de fièvre ne permet pas d’exclure une bactériémie. Il est reconnu que 20 à 30% des patients âgés présentent une réponse fébrile inadéquate face à une infection [3].
+
+Tableau 2: Liste des indications les plus fréquentes à prélever des hémocultures.
+Indications au prélèvement des hémocultures
+Sepsis et choc septique
+Infections localisées susceptibles de devenir systémiques (méningite, pneumonie, ­endocardite, cholangite, pyélonéphrite, arthrite, ostéomyélite, etc)
+Présence d’un dispositif étranger tel que pacemaker, valve cardiaque prothétique ou cathéter veineux
+Fièvre d’origine indéterminée
+Fièvre au retour de voyage en zone tropicale
+Fièvre lors de consommation de drogues intraveineuses
+Fièvre en cas de neutropénie ou immunosuppression
+Hémocultures de suivi en cas de bactériémie à Staphylococcus aureus, Pseudomonas ou fongémie à Candida spp.
+Site et technique de prélèvement
+
+Le prélèvement doit être effectué par ponction veineuse directe (par exemple avec un dispositif de type «butterfly»). Le prélèvement sur un cathéter veineux périphérique est accepté uniquement lors de la pose. Fait exception le cas spécifique de suspicion d’infection liée au cathéter (en cas de rougeur locale par exemple), ce qui implique un prélèvement ciblé sur le dispositif en question et, simultanément, un prélèvement par ponction veineuse directe, suivi du retrait et de l’envoi en culture du cathéter suspect. Lorsqu’un cathéter ­veineux central est en place, il est indiqué de prélever dans tous les cas une des deux paires sur ce cathéter pour rechercher une infection de ce dernier.
+
+D’une manière générale, la ponction directe peut être effectuée sur un seul site pour les deux paires qui seront prélevées à la suite, sans intervalle de temps.
+
+Interprétation: bactériémie vraie ou ­contamination?
+
+En 2017, 4961 hémocultures ont été prélevées chez 1462 patients du service de médecine interne du CHUV. 11% (538/4961) se sont révélées positives, proportion légèrement supérieure au chiffre de 4 à 8% retrouvé dans la littérature [1]. 10% des hémocultures positives (53/538) ont été considérées comme des contaminations. Ces dernières impliquaient fréquemment les staphylocoques à coagulase négative (S. epidermidis, S. hominis, S. capitis, etc.), les Micrococcus spp., Cutibacteriumacnes, Bacillus spp. et Corynebacterium spp. Cependant, ces bactéries potentiellement contaminantes peuvent aussi être à l’origine de bactériémies vraies. Comment faire la différence?
+
+Outre le germe, les facteurs à prendre en compte sont le délai de positivité et le nombre de bouteilles positives. Une hémoculture qui devient positive au-delà de 48 heures d’incubation parle en faveur d’une contamination. La présence du même germe dans plusieurs prélèvements est suggestive d’une infection. Dans une étude rétrospective, Weinstein et al. montrent qu’une paire positive pour S. epidermidis sur une à trois paires prélevées indique une contamination dans 97% et 100% des cas, respectivement. Par contre, deux paires positives sur deux à trois paires prélevées indiquent une infection dans 60% et 100% des cas, respectivement [4].
+
+En cas de suspicion d’infection de cathéter, les germes cutanés peuvent être impliqués. Des prélèvements ­simultanés sur le dispositif intravasculaire et par ponction directe s’imposent avant de retirer le cathéter et l’envoyer également en culture. Si l’infection est liée au cathéter, on observe généralement un délai entre la positivité du prélèvement par le cathéter, plus précoce, et celle de la ponction veineuse directe: un écart de deux heures est considéré comme significatif. Si la ­positivité intervient simultanément, la source d’infection est probablement localisée ailleurs [5].
+
+Pour faciliter l’interprétation d’un résultat positif, le prélèvement doit compter un nombre adéquat de bouteilles (minimum quatre) et un volume de sang suffisant, qui peut être obtenu en une seule prise, aspects qui sont détaillés dans l’article complémentaire «L’hémoculture est négative (vraiment?)»1 [6].
+
+Discussion du cas
+
+Dans le cas présenté, il est indiqué de prélever des ­hémocultures chez un patient hospitalisé qui devient fébrile alors qu’il n’a pas de foyer clinique et qu’il est porteur d’un pacemaker. A notre connaissance, il n’existe pas de score validé pour permettre d’évaluer le risque de bactériémie dans ce type de cas. Le prélèvement des deux paires par ponction veineuse directe était correct car le cathéter veineux périphérique ne présentait pas de signe infectieux. Un germe cutané dans une seule bouteille sur quatre évoque avant tout une contamination. Il convient donc de poursuivre uniquement la surveillance clinique et de veiller à d’éventuels signes d’infection du pacemaker (emboles septiques, cellulite en regard du boîtier). L’évolution fut tout à fait favorable, sans récidive de fièvre. Cette dernière est restée inexpliquée.
+
+Messages principaux
+
+• Le faible rendement des hémocultures reflète la difficulté des cliniciens à prédire le risque de bactériémie et leur crainte de manquer un diagnostic important.
+
+• La prescription large des hémocultures expose à des faux positifs, soit des contaminations, qui s’élèvent à 10% des hémocultures positives. Pour les identifier, les cliniciens peuvent tenir compte du type de germe, du délai de positivité des hémocultures et du nombre de bouteilles ­positives.

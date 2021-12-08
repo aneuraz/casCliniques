@@ -1,0 +1,84 @@
+Description du cas
+
+Une patiente de 66 ans est hospitalisée post prothèse totale de hanche droite. Les pertes sanguines intra-opératoires sont estimées à 500 ml. Six jours après l’intervention, elle présente une tuméfaction douloureuse du mollet droit. Bien que la patiente soit sous énoxaparine prophylactique, l’US Doppler confirme la présence d’une thrombose veineuse profonde. La formule sanguine simple est normale hormis une thrombopénie à 55 G/l (289 G/l au bilan pré-opératoire). Vous suspectez une thrombopénie induite par l’héparine ou «heparin-induced thrombocytopenia» (HIT).
+
+Question: Après l’arrêt immédiat de l’énoxaparine, la prochaine étape est de:
+
+
+a) Calculer un score 4T
+
+b) Doser les anticorps anti-PF4/H (facteur plaquettaire 4/héparine)
+
+c) Initier un traitement d’acénocoumarol
+
+d) Doser l’activité anti-Xa
+
+Réponse:
+
+
+La réponse correcte est a.
+
+Discussion
+
+La HIT est une réaction immune rare traduisant la formation d’anticorps dirigés contre le complexe PF4/héparine (PF4/H). Elle est définie par une chute des thrombocytes de >50% par rapport à leur valeur basale, 5 à 14 jours post début du traitement, associée à un risque accru de thrombose.
+
+Le PF4 est une protéine contenue dans les granules alpha des thrombocytes. Relâché lors d’activation plaquettaire, il a plusieurs effets : (1.) inhibition des héparinoïdes endogènes et ainsi, effet pro-coagulant via limitation de l’activation de l’antithrombine, (2.) chemoattraction des neutrophiles et fibroblastes et (3.) haute attractivité charge-dépendante et forme avec l’héparine un complexe (PF4/H) immunogène circulant.
+
+Celui-ci est parfois reconnu comme antigène par les lymphocytes B/T et induit la production d’anticorps (surtout IgG). Le complexe ainsi formé se lie à la surface des thrombocytes sur le récepteur FcγRIIA via la partie constante (Fc) des anticorps anti-PF4/H et provoque l’activation plaquettaire, stimulant la production de thrombine et la formation de thromboses, souvent veineuses mais parfois aussi artérielles.
+
+En dehors de toute exposition préalable aux héparines, les anticorps anti-PF4/H sont naturellement présents chez 0,3 à 0,5% de la population. Leur formation pourrait être liée à l’exposition préalable du PF4 à la paroi de certaines bactéries gram positif ou à des dysrégulations de l’immunité innée [1].
+
+La production de ces anticorps est assez fréquente après exposition à l’héparine et concernerait 8 à 17% des patients traités par héparine non-fractionnée et jusqu’à 50% de ceux subissant une chirurgie cardiaque. Cependant, seuls certains séropositifs développeront une HIT, possiblement dû à des variabilités génétiques, notamment d’expression des récepteurs FcγRIIA et au titre d’anticorps anti- PF4/H [1].
+
+La HIT se rencontre plus fréquemment sous héparine non-fractionnée, et sous anticoagulation pour indications chirurgicales, vasculaires et/ou inflammatoires (versus médicales, obstétricales et pédiatriques). Le sexe féminin, l’administration intraveineuse ou encore les héparines d’origine bovine constituent des facteurs de risque mineurs [2].
+
+Devant une suspicion de HIT, le diagnostic repose tout d’abord sur l’établissement du score 4T [3]. Développé en 2006 par Warkentin et al., il est basé sur quatre variables: sévérité de la thrombocytopénie, timing de l’apparition des complications, présence d’événements thromboemboliques et possibilité d’autres étiologies à la thrombocytopénie. Chaque item est noté de 0 à 2 points, stratifiant ainsi la probabilité de HIT en faible, intermédiaire ou élevée (tab. 1). L’appréciation des quatre variables n’est pas toujours facile: nous conseillons de demander l’avis formel d’un hématologue.
+
+Tableau 1: Score des 4T: stratification de la probabilité d’une thrombopénie induite par l’héparine (HIT) (adapté de [3]).
+Catégorie	2 points	1 point	0 point
+Thrombocytopénie	Chute >50% et nadir à ≥20 G/l	Chute 30–50% ou nadir 10–19 G/l	Chute <30% ou nadir <10 G/l
+Timing de la chute des plaquettes	Survenue entre J5 et J10, ou en <J1 après un contact récent (<30 j) avec ­l’héparine	Survenue >J10; timing pas clair ou <J1 après contact avec l’héparine (30–100 j)	<J4 sans traitement récent par héparine
+Présence d’événements thrombo-­emboliques	Nouvelle thrombose avérée, nécrose cutanée ou réaction systémique aiguë après un bolus d’héparine	Thrombose récurrente, progressive ou suspectée.Lésions cutanées érythémateuses	Aucune
+Autres étiologies à la thrombocytopénie	Aucune évidente	Possible	Prouvé
+0–3 points: faible probabilité de HIT (<1%)4–5 points: probabilité intermédiaire (risque de HIT environ 10%)6–8 points: probabilité élevée (risque de HIT environ 50%)J: jour; j: jours.
+
+En cas de probabilité faible (score ≤3), la valeur prédictive négative est estimée à env. 1%, permettant ainsi virtuellement d’exclure une HIT (surtout si <3: en effet, plusieurs études documentent une HIT avec un score à 3). En revanche, si le score donne une probabilité intermédiaire (4–5 points) ou élevée (≥6 points), des analyses supplémentaires sont nécessaires pour confirmer/infirmer le diagnostic.
+
+Face à un score 4T intermédiaire ou élevé, le «heparin-induced platelet activation assay» (HIPA) et le «serotonin release assay» (C-SRA) sont des tests fonctionnels considérés comme le «gold standard» diagnostic [2].
+
+Le HIPA consiste à mélanger le sérum (ou plasma) du patient avec les plaquettes lavées de quatre donneurs sains ainsi que de l’héparine. L’agrégation des plaquettes signe la présence d’anticorps anti-PF4/H pathogéniques dans l’échantillon du patient. Pourvu d’une sensibilité variable (56–100%) selon la méthode de détection choisie (réactif lumineux < signaux radioactifs), ce test possède une spécificité et une valeur prédictive positive élevées (>95% et 89–100%, respectivement).
+
+Le test C-SRA consiste à mélanger différentes concentrations d’héparine avec le sérum du patient et les thrombocytes d’un donneur dont les granules ont préalablement été marquées à la sérotonine radioactive 14C. En présence d’anticorps dans le sérum du patient, les plaquettes seront activées et relâcheront la sérotonine radiomarquée. Le test est considéré comme positif si >20% de la sérotonine est relâchée en présence d’héparine à faible dose, et qu’un rapport dose-dépendant a pu être établi en exposant le mélange plaquette-sérum à des concentrations plus élevées d’héparine. Le C-SRA possède une sensibilité de 88–100% et une spécificité de 89–100%.
+
+La réalisation des tests fonctionnels est cependant limitée par plusieurs aspects: ces tests hautement spécialisés ne sont réalisés que dans quelques laboratoires avec un «turnaround-time» analytique de plusieurs jours. Coûteux notamment en raison de l’utilisation de plaquettes de donneurs devant être préalablement testées (env. 150 CHF + frais d’acheminement) et de par leur technicité, ces tests ne sont pas réalisés de routine. Ceci induit un retard diagnostic et a conduit au développement de techniques alternatives, notamment basées sur la détection des anticorps anti-PF4/H.
+
+Les recommandations en vigueur éditées par l’«American Society of Hematology» proposent l’utilisation du score 4T combinée avec le résultat d’un ELISA pour anticorps anti-PF4/H. Cependant, plusieurs études sont actuellement en cours afin de valider une nouvelle approche: la combinaison du score 4T au tests immunologiques rapides quantitatifs (exprimés par un rapport de vraisemblance) qui permettrait d’aboutir à une probabilité post-test. Si celle-ci est élevée ou faible, le diagnostic de HIT serait respectivement confirmé ou infirmé. En revanche, si probabilité intermédiaire, un recours au test fonctionnel (HIPA ou SRA) serait nécessaire.
+
+Actuellement au Centre hospitalier universitaire vaudois (CHUV), les suites diagnostiques pour un score 4T bas (2–3), intermédiaire (4–5) ou élevé (6–8) reposent sur une approche diagnostique type Bayesienne et nécessitant un dosage rapide et quantitatif des anticorps anti-PF4/H [4]. Le CHUV travaille actuellement avec l’HemosIL® AcuStar HIT-IgG, un test immunologique automatisé fonctionnant par chemiluminescence (CLIA). Le test dure environ 30 minutes et possède un barème de détection des anticorps anti-PF4/H de 0 à 128 U/ml. Il coûte 145 points OPAS1, soit 145 CHF.
+
+La HIT diagnostiqué, la priorité est de stopper immédiatement toute administration d’héparine (y.c. rinçage de cathéters). Une anticoagulation alternative parentérale doit être rapidement initiée. Le danaparoïde ou l’argatroban sont des alternatives validées par plusieurs études [5] (tab. 2). Le choix repose sur leur disponibilité respective et les comorbidités, notamment en cas d’insuffisances rénale ou hépatique. Selon les recommandations américaines et britanniques, l’anticoagulation doit être maintenue quatre semaines en cas de HIT simple et trois mois minimum si complication thrombotique.
+
+Tableau 2: Résumé de différents traitements utilisables lors d’une thrombopénie induite par l’héparine (HIT).
+Molécule	Mécanisme d’action	Monitoring	Validité
+Argatroban(Argatra®)	Inhibiteur direct de la thrombine	Activité anti-IIa (concentration)	Oui
+Danaparoïde(Orgaran®)	Inhibiteur direct de la thrombine	Activité anti-Xa (concentration)	Oui
+Fondaparinux(Arixtra®)	Activation de l’antithrombine	Activité anti-Xa (concentration)	Non
+Rivaxoxaban(Xarelto®)	Inhibiteur direct du facteur Xa	Activité anti-Xa (concentration)	Non
+
+Le fondaparinux est également de plus en plus utilisé de manière «off-label». Certaines séries reportent cependant une augmentation du risque hémorragique tandis que quelques cases reports l’incriminent comme responsable du développement de HIT. Concernant les anticoagulants oraux directs, et notamment le rivaroxaban, les premières séries utilisant cette molécule montrent une bonne efficacité et sécurité, mais nécessitant une validation par des études de plus grande ampleur. Dans les cas extrêmes, une plasmaphérèse ou l’administration d’immunoglobulines peuvent être discutées.
+
+Les anti-vitamine K sont formellement contre-indiqués en phase aiguë: l’état pro-coagulant transitoire via l’inhibition de la protéine C , augmente le risque de gangrène veineuse. Leur introduction ne peut se faire qu’après normalisation du taux plaquettaire et conjointement avec un autre anticoagulant («bridging»).
+
+Les transfusions de concentrés plaquettaires ne sont pas non plus recommandées, pouvant amplifier le phénomène thrombotique.
+
+La temporalité de l’exposition à l’héparine doit toujours être investiguée. L’effet pro-thrombotique des anticorps anti-PF4/H reste détectable par les tests fonctionnels durant env. 50 jours dès l’arrêt de l’exposition. Un événement thrombo-embolique ambulatoire chez un patient récemment hospitalisé doit donc toujours impliquer une recherche méticuleuse d’exposition à l’héparine. Une chute brutale du taux plaquettaire immédiatement après administration d’héparine doit aussi faire rechercher une immunisation préalable récente, p.ex. en cas de réadmission à l’hôpital («delayed-onset HIT»).
+
+Il n’y a actuellement pas d’évidence en faveur d’une mémoire immunologique: les patients ayant présenté une HIT dans le passé mais dont les anticorps anti-PF4/H ont disparu présentent un risque de séroconversion probablement identique à celui d’un patient exposé de novo à l’héparine [1, 2]. Les guidelines actuelles recommandent cependant une grande prudence en cas d’antécédents de HIT: si une anticoagulation est nécessaire, un anticoagulant non-héparinique doit être privilégié. Lorsque les héparines sont strictement nécessaires, p.ex. en peropératoire d’une chirurgie cardiaque, leur utilisation peut se faire de manière ponctuelle et sous surveillance stricte du taux plaquettaire. Si par contre des anticorps anti-PF4/H sont encore détectés dans le sérum/plasma, il est recommandé d’administrer conjointement une thérapie anti-aggrégante ou de réaliser la chirurgie cardiaque avec un anticoagulant autre que l’héparine [1].
+
+Messages principaux
+
+• Le taux plaquettaire de tout patient mis sous héparine doit être suivi, en particulier entre J5 et J21 après l’initiation du traitement.
+
+• Le diagnostic de HIT est clinico-biologique: la première étape diagnostique consiste à réaliser un score 4T. En absence d’une probabilité clairement basse, les investigations doivent être poursuivies par un dosage quantitatif des anticorps anti-PF4/héparine par immuno-essai rapide.
+
+• La combinaison de la probabilité clinique avec la valeur diagnostique du résultat quantitatif du test immunologique («likelihood ratio») permet d’exclure ou prédire un HIT dans la majorité des situations.

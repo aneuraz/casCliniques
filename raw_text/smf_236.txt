@@ -1,0 +1,58 @@
+Contexte
+
+Les nouveaux traitements par anticorps monoclonaux (AcM), tels que le natalizumab, l’alemtuzumab, l’ocrélizumab et le daclizumab, représentent une avancée majeure dans le traitement de la sclérose en plaques (SEP). Toutefois, l’administration d’AcM est associée au risque d’effets indésirables immuno-médiés et nous montre à quel point la réaction du système immunitaire à ces interventions ciblées est complexe et en partie imprévisible.
+
+Description du cas
+Anamnèse
+
+Une patiente de 36 ans avec SEP récurrente-rémittente connue s’est présentée au service des urgences en raison de fièvre et de frissons depuis la veille, ainsi que d’un exanthème dans la région du décolleté et de la mâchoire inférieure. Elle se plaignait en outre de fortes céphalées et d’une conjonctivite depuis une semaine. Au niveau de l’anamnèse médicamenteuse, il est apparu qu’elle avait débuté un nouveau traitement de fond de la SEP par daclizumab cinq mois auparavant. Une semaine après la première injection, la patiente a été en proie à de la fièvre, à des changements d’humeur et à un léger exanthème, suite à quoi le traitement avait déjà été interrompu après la première injection. A l’époque, les symptômes avaient rapidement régressé.
+
+Statut
+
+La patiente s’est présentée dans un état général nettement diminué, avec de la fièvre allant jusqu’à 39,6 °C, des valeurs de pression artérielle élevées pouvant atteindre 175/100 mm Hg et un pouls de 95/min. L’examen cardiaque et l’examen pulmonaire étaient sans particularités. A l’examen abdominal, une légère douleur à la pression a été constatée au niveau hépatique. L’examen neurologique n’a révélé aucune anomalie, et en particulier aucun syndrome méningé. Au niveau cutané, un exanthème papuleux héliotrope discret a été retrouvé.
+
+Résultats
+
+A l’exception d’une légère thrombopénie et lymphopénie (valeurs de respectivement 137 G/l et 1,09 G/l) et d’une protéine C réactive (CRP) de 41 mg/l avec une procalcitonine de 0,11 ng/ml (valeur de référence <0,5 ng/ml), les analyses de laboratoire réalisées à l’admission n’ont montré aucune autre anomalie, avec en particulier une fonction rénale et hépatique normales. Une tomodensitométrie (TDM) crânio-faciale, réalisée en raison des céphalées frontales intenses, a permis d’exclure une sinusite. La radiographie thoracique a montré une discrète lymphadénopathie hilaire sans mise en évidence d’infiltrats.
+
+Diagnostic et évolution
+
+La patiente a été hospitalisée en raison d’une suspicion d’infection systémique. Une étiologie virale ayant été supposée, il a été décidé d’adopter une approche expectative. Dans le cadre du diagnostic différentiel, un effet indésirable médicamenteux induit par le daclizumab a dès le départ été envisagé, mais cette hypothèse a initialement été jugée improbable au vu de la relation temporelle (latence de cinq mois).
+
+Par la suite, la patiente a présenté une dissémination massive et une augmentation de l’intensité de l’exanthème papuleux, avec une atteinte de >70% de la peau (fig. 1). En outre, des douleurs au niveau de la partie supérieure droite de l’abdomen et des nausées sont apparues; les analyses de laboratoire ont alors montré une nette ­élévation des enzymes hépatiques au sens d’une hépatite cholestatique, avec des valeurs de transaminases jusqu’à cinq fois supérieures aux valeurs normales.
+
+Figure 1: Exanthème papuleux héliotrope au niveau du dos.
+
+Malgré le traitement antipyrétique par paracétamol (arrêté après deux jours en raison de la hausse des transaminases), ibuprofène (arrêté après huit jours en raison de la hausse de la créatinine) et métamizole, des pics de fièvre atteignant jusqu’à 39,5 °C sont survenus quotidiennement. Par ailleurs, la patiente a développé une lymphadénopathie cervicale, ainsi qu’une insuffisance rénale aiguë (AKIN 2) avec un débit de filtration glomérulaire estimé (DFGe) minimal de 27 ml/min/1,7 m² (selon l’équation CKD-EPI), alors que la valeur à l’admission était de 96 ml/min/1,7 m², et une albuminurie de 71 mg/l (rapport albumine/créatinine de 0,13 mg/mg).
+
+Dans le cadre des investigations complémentaires, l’échographie abdominale a révélé des anomalies compatibles avec les résultats de laboratoire, montrant une hépatite avec hépatosplénomégalie, une lymphadénopathie périportale, ainsi qu’une pyélonéphrite/néphrite du côté gauche avec nette hypertrophie du rein gauche, perte partielle de la différenciation cortico-­médullaire et cortex hyperéchogène.
+
+Les analyses infectiologiques, incluant le virus de l’immunodéficience humaine (VIH), le virus d’Epstein-Barr (EBV) (sérologie et PCR), le cytomégalovirus (CMV) (sérologie et PCR), l’hépatite A, B, C et E (sérologie et PCR), les adénovirus et la syphilis, se sont révélées sans particularités. En l’absence d’antécédents de voyage, aucun élément n’indiquait la présence d’un paludisme. Des cultures sanguines et urinaires répétées n’ont montré aucune croissance bactérienne et la procalcitonine dosée à plusieurs reprises n’était jamais élevée, de sorte qu’une cause infectieuse a largement pu être exclue.
+
+Le test des auto-anticorps, incluant les anticorps antinucléaires (ANA), les anticorps anti-cytoplasme des neutrophiles (ANCA), les anticorps anti-mitochondries (AMA), le facteur rhumatoïde, les anticorps anti-CCP, les anticorps anti-ADN double brin, les anticorps anti-SSA/SSB et les anticorps anti-Jo1, était également sans particularités avec un complément C3/C4 normal, confortant la suspicion d’effet indésirable médicamenteux induit par le daclizumab avec dérèglement immunitaire consécutif.
+
+Une biopsie cutanée a été réalisée par la suite, montrant un infiltrat lymphohistiocytaire périvasculaire essentiellement CD4-positif du derme superficiel et des follicules pileux avec mise en évidence de cellules CD56+, ce qui est compatible avec un effet indésirable du daclizumab d’après la littérature.
+
+Traitement et évolution ultérieure
+
+Face à la probabilité élevée d’une réaction médicamenteuse immuno-médiée tardive, nous avons débuté une corticothérapie par 50 mg de prednisolone par voie orale par jour. Ce traitement a entraîné une amélioration rapide de l’état général, une baisse de la fièvre et une nette régression des enzymes hépatiques. Les anomalies cutanées régressaient elles aussi lentement. Les valeurs de créatinine étaient également régressives à partir du 6e jour de traitement, de sorte que la patiente a pu quitter l’hôpital pour une prise en charge ambulatoire après 14 jours d’hospitalisation au total. Sous corticothérapie, la patiente a développé une éosinophilie transitoire durant 6 jours. En complément, la patiente a reçu un traitement prophylactique de la pneumonie à Pneumocystis par co-trimoxazole (arrêté par la suite en raison d’une intolérance) et une supplémentation en vitamine D3/calcium pour la prévention de l’ostéoporose. La corticothérapie a été poursuivie durant 2,5 mois à une dose décroissante avec une normalisation de la fonction rénale et des valeurs hépatiques en l’espace d’1 mois, ainsi qu’une régression lente mais complète des lésions cutanées.
+
+Discussion
+
+Le traitement par daclizumab a été autorisé en Suisse en janvier 2017 pour le traitement de la SEP récurrente-rémittente chez l’adulte. Le daclizumab est un anticorps monoclonal humanisé de type IgG1, qui se lie au récepteur α (CD25) de l’interleukine (IL)-2 sur les cellules T et empêche ainsi la fixation de l’IL-2. La cascade de signalisation du récepteur de l’IL-2 CD25-dépendante de haute affinité s’en trouve bloquée, tandis que davantage d’IL-2 est disponible pour les récepteurs de l’IL-2 d’affinité intermédiaire. D’une part, cette modulation du signal conduit à une diminution des lymphocytes CD4+ et CD8+ circulants; d’autre part, des études in vivo ont montré une expansion des cellules tueuses naturelles immunorégulatrices (CD56+) qui, en entraînant une réduction des cellules T activées, sont le plus vraisemblablement responsables de l’effet thérapeutique du daclizumab en cas de SEP [1, 2].
+
+Outre la dermatite, les effets indésirables connus du ­daclizumab incluent également les hépatites avec, dans de rares cas, une évolution fatale. Les lésions rénales, la lymphadénopathie et la pyrexie sont également des effets indésirables connus du daclizumab [3–5].
+
+En janvier 2018, compte tenu de l’hépatotoxicité, Swissmedic a restreint l’indication aux patients avec réponse insuffisante à au moins deux traitements de fond préalables et à ceux sans alternative thérapeutique, avec des contrôles réguliers des valeurs hépatiques jusqu’à six mois après la fin du traitement. Le 2 mars 2018, le fabricant a procédé au retrait mondial du produit en raison de huit nouveaux cas rapportés d’encéphalite et de méningo-encéphalite sous daclizumab, avec la recommandation de contrôler les valeurs hépatiques au minimum une fois par mois durant les six mois suivant l’arrêt du traitement [6].
+
+Après exclusion d’une cause non médicamenteuse ­(infectieuse, auto-immune) et compte tenu de la mise en évidence d’une infiltration de cellules CD56+ de la peau et de la réponse rapide à la corticothérapie, une relation causale avec le daclizumab est très probable, et ce malgré le long intervalle entre la prise unique du médicament et la survenue des symptômes.
+
+L’essentiel pour la pratique
+
+• Chez les patients sous traitements immunomodulateurs, des effets indésirables immuno-médiés devraient être recherchés régulièrement, notamment des exanthèmes, une hépatite et des limitations de la fonction rénale.
+
+• Des effets indésirables graves peuvent également survenir après une prise unique et après un délai étonnamment long, de sorte qu’une anamnèse médicamenteuse précise s’avère décisive.
+
+• Pour confirmer le diagnostic de toxicité cutanée du daclizumab, il est recommandé de procéder à une biopsie cutanée avec recherche spécifique d’infiltrats de cellules CD56+.
+
+• Outre l’arrêt immédiat du daclizumab, une corticothérapie systémique est indiquée pour le traitement.

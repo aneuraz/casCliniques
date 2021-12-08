@@ -1,0 +1,70 @@
+Contexte
+
+Le tableau clinique de l’herpès zoster (HZ) est associé à une morbidité considérable dans la société, principalement au sein des groupes de population âgés ainsi que chez les patients immunosupprimés. Le fait qu’un herpès zoster puisse également survenir durant l’enfance est moins connu, les formes compliquées d’évolution étant particulièrement rares chez les enfants immunocompétents (comme dans le cas présent).
+
+Présentation du cas
+Anamnèse et statut
+
+Une fillette âgée de quatre ans, préalablement en bonne santé, a été adressée à notre service d’urgence en raison d’un trouble aigu de la conscience. L’anamnèse a révélé des céphalées et une légère fièvre aux alentours de 38°C depuis deux jours ainsi que des vomissements répétés depuis la veille, accompagnés d’une somnolence prononcée. L’anamnèse de l’environnement en termes d’infections était normale. Tous les vaccins avaient été effectués conformément au plan de vaccination suisse.
+
+Sur le plan clinique, la fillette s’est présentée à l’admission dans un état général réduit, avec un «Glasgow coma score» (GCS) compris entre 8 et 13 (15 au bout de trois heures), afébrile (36,9 °C), pouls 121/min, pression artérielle 119/84 mmHg, fréquence respiratoire 23/min, saturation en O2 100%. Une seule vésicule éclatée ainsi que deux petites papules ont été observées sur son front (fig. 1). A part cela, aucune autre anomalie cutanée n’était présente à ce moment-là, pas plus qu’une raideur du cou. Le reste de l’examen corporel, y compris le statut neuro­logique restant, était normal.
+
+Figure 1: Lors de l’admission: une seule vésicule éclatée ainsi que de petites papules. (La publication a lieu avec l’accord des parents.)
+
+Diagnostic
+
+L’analyse sanguine n’a mis en évidence aucun signe d’infection. L’analyse du liquide cérébrospinal (LCS) a révélé un nombre normal de cellules ainsi que des valeurs normales de glucose, lactate et protéine. De même, l’analyse urinaire était normale. L’enfant a été hospitalisée pour surveillance et, au cours de la journée d’admission, son état de conscience s’est normalisé. Le lendemain sont survenus une photophobie croissante et des douleurs à l’ouverture des yeux, les températures subfébriles persistaient.
+
+Afin de poursuivre la mise au point diagnostique une imagerie par résonance magnétique (IRM) du crâne a été réalisée, qui, sur les images pondérées par diffusion, n’a révélé aucune anomalie, en particulier aucun signe d’encéphalite. Au cours des deux jours suivants sont survenus un œdème de la paupière supérieure droite ainsi que la formation d’efflorescences vésiculaires sur fond rougi le long de la première branche du nerf trijumeau. Comme cela est visible sur la figure 2, les lésions s’étendaient sur le territoire de la première branche du nerf trijumeau avec atteinte de la pointe du nez (signe de Hutchinson positif).
+
+Figure 2: Au bout de deux jours: lésions au niveau du territoire de la première branche du nerf trijumeau avec atteinte de la pointe du nez. (La publication a lieu avec l’accord des parents.)
+
+L’examen ophtalmologique a permis de mettre en évidence une kératite ponctuée sans signe d’uvéite ni d’atteinte rétinienne. Au vu des virus varicelle-zona (VZV) mis en évidence au moyen d’une réaction en chaîne par polymérase (PCR) dans le liquide céphalo-rachidien et les prélèvements effectuées au niveau des vésicules, ainsi qu’en conjonction avec les résultats cliniques, le diagnostic d’un herpès zoster ophtalmique (HZO) a été établi.
+
+Traitement
+
+Sous le traitement intraveineux par aciclovir 20 mg/kg q6h et aciclovir pommade ophtalmique q24h, initié au troisième jour d’hospitalisation, une nette amélioration clinique est survenue en quelques jours. En raison de la mise en évidence de staphylocoques dorés dans les sécrétions vésiculaires, un traitement antibiotique a été initié, d’abord sur la base d’amoxicilline/acide clavulanique 50 mg/kg q8h i.v., puis après la sortie 40 mg q12h p.o. Le traitement par aciclovir a également été poursuivi sous forme orale après la sortie. La durée totale du traitement par aciclovir et amoxicilline/acide clavulanique était de dix jours. Au septième jour d’hospitalisation, la fillette a été déchargée avec un œdème et des rougeurs du visage en nette régression ainsi qu’une formation partielle de croûtes des vésicules (fig. 3).
+
+Figure 3: Le jour de la sortie: œdème et rougeurs du visage en nette régression, formation partielle de croûtes des vésicules. (La publication a lieu avec l’accord des parents.)
+
+Evolution
+
+Le contrôle ophtalmologique réalisé deux mois après la sortie a révélé une discrète cicatrice cornéenne résiduelle ainsi que des précipités endothéliaux sans aucune restriction de la vision.
+
+En complément de l’anamnèse recueillie jusqu’alors, les parents ont rapporté que le frère de la fillette avait contracté la varicelle lorsque la fillette avait dix jours, mais que la fillette n’avait à l’époque présenté elle-même aucun symptôme suspect de varicelle. L’examen sérologique a permis de mettre en évidence chez notre patiente au deuxième jour d’hospitalisation un titre d’IgG au VZV mesurable mais faible (22 IU/l) et des titres négatifs d’IgA et d’IgM. Nous supposons ainsi qu’une infection primaire à évolution clinique latente était déjà survenue à l’âge de quelques jours.
+
+Discussion
+
+Il est notoire que l’herpès zoster est déclenché par une réactivation des virus varicelle-zoster (VZV) séjournant de manière latente dans les ganglions sensoriels à la suite d’une infection primaire. Les infections primaires au VZV surviennent généralement durant l’enfance, alors que les réactivations sont principalement observées chez des personnes de plus de 50 ans ou immunosupprimées. Toutefois, l’HZ apparaît également chez les enfants. L’incidence s’élève à 0,2 cas pour 1000 enfants par an chez les enfants de moins de cinq ans. Chez les enfants âgés de 15 à 19 ans, l’incidence est de 0,6 cas pour 1000 enfants par an [1]. Chez les enfants concernés, l’infection primaire a lieu soit «in utero» à la suite d’une infection maternelle pendant la grossesse, ou durant la petite enfance. Il convient de noter que le moment de l’infection primaire joue un rôle décisif pour le risque d’un HZ ultérieur: l’exposition intra-utérine ou la survenue au cours de la première année de vie augmentent nettement ce risque. Du fait des anticorps maternels transmis via le placenta, qui circulent également dans le système circulatoire de l’enfant durant les premiers mois de vie, des expositions infantiles au VZV entraînent souvent, dans cette période, une évolution subclinique ou modérée, sans qu’aucune mémoire immunologique adéquate ne se forme. Nous supposons que, dans le cas présent, le faible titre d’IgG au VHZ est l’expression de cette mémoire immunologique inadéquate.
+
+En même temps, des études nous ont appris que l’intervalle entre l’infection primaire et l’HZ peut être raccourci chez les enfants ayant connu une infection primaire [1], de sorte qu’une réactivation spontanée du VZV peut survenir durant les premières années de vie. Outre la présence d’anticorps maternels, un système immunitaire infantile encore immature au moment de l’infection primaire peut également être responsable de ces circonstances.
+
+Chez les enfants, l’évolution d’un HZ est généralement plus modérée que chez les adultes, et des névralgies post-herpétiques ne surviennent presque jamais [2]. Malgré tout, des complications entraînant une hospitalisation apparaissent chez 1:250 enfants atteints de HZ. Il s’agit le plus souvent de superinfections bactériennes cutanées (17%), méningo-encéphalite (9%), herpès zoster auriculaire (9%; souvent associé à une paralysie faciale) ou, comme dans notre cas, herpès zoster ophtalmique (HZO) (12%) [2].
+
+Un HZO survient lorsque la réactivation du VZV a lieu au sein de la première branche du nerf trijumeau. Le tableau clinique présente souvent une phase prodromique avec des symptômes non spécifiques tels que fatigue, malaise, fièvre ou céphalées. Survient ensuite, sur le territoire de la première branche du nerf trijumeau, l’apparition de taches, de papules ou de plaques, à partir desquelles se forment en quelques heures des vésicules, les lésions pouvant confluer, sans toutefois dépasser la ligne médiane. Après éclatement, les vésicules forment des croûtes, peuvent devenir hémorragiques ou nécrotiques et cicatrisent en quelques semaines [3, 4].
+
+Des études réalisées auprès d’adultes ont montré que l’HZO s’accompagne, dans près de la moitié des cas, d’une atteinte oculaire, le risque étant supérieur lorsque les lésions cutanées se répandent sur la pointe du nez (signe de Hutchinson). Toutes les parties de l’œil peuvent être concernées. Les paupières sont généralement touchées par l’éruption vésiculaire, des superinfections phlegmoneuses pouvant apparaître comme dans notre cas. De même, une conjonctivite survient fréquemment. Une kératite, accompagnée de photophobie, douleurs ou baisse de la vision, se manifeste souvent. Les structures plus profondes de l’œil peuvent également être concernées sous forme d’une uvéite, rétinite ou névrite optique [2–4]. Afin de reconnaître ces dernières, il convient impérativement d’effectuer un examen ophtalmologique détaillé pour pouvoir, si besoin, initier rapidement un traitement ophtalmologique spécifique.
+
+En présence d’un HZ au niveau de la tête, une implication du système nerveux central peut se produire, celle-ci présentant généralement une évolution asymptomatique [5]. Dans de rares cas surviennent toutefois également des complications neurologiques sous forme d’une (méningo-)encéphalite, myélite, cérébellite, radiculite ou même d’un AVC [5]. Dans le cas présent, les ­critères diagnostiques d’une méningite ou encéphalite n’étaient certes pas remplis, mais nous supposons malgré tout une légère atteinte du système nerveux central (SNC) au vu du trouble ­initial de la conscience ainsi que de la mise en évidence du virus dans le LCS.
+
+D’un point de vue thérapeutique, un traitement antiviral systémique est recommandé chez tous les patients atteints d’HZO, car il a été démontré que cela réduit le risque d’une complication oculaire et atténue l’évolution de la maladie [5]. Selon les directives européennes, l’aciclovir doit être simultanément utilisé sous forme topique [5]. La durée du traitement est de sept à dix jours. L’indication d’un traitement antiviral systémique chez les enfants doit être établie libéralement pour toutes les formes d’HZ au niveau de la tête et du cou [5].
+
+Chez les enfants atteints d’HZO immunocompétents, le pronostic est normalement favorable mais, selon le degré de l’atteinte oculaire, une baisse de l’acuité visuelle est possible. Il est donc essentiel de soumettre les enfants concernés à un examen ophtalmologique de suivi.
+
+Bien qu’un HZO survienne rarement au cours de l’enfance, il convient d’envisager cette maladie en termes de diagnostic différentiel en présence d’efflorescences vésiculaires singulières sur le territoire de la première branche du nerf trijumeau. Un traitement antiviral systémique initié précocement peut réduire considérablement le risque de séquelles oculaires.
+
+L’essentiel pour la pratique
+
+• Durant l’enfance, l’herpès zoster (HZ) est rare mais peut également survenir chez l’enfant immunocompétent.
+
+• En cas de suspicion d’un HZ, il convient de réaliser une anamnèse exacte relative à des antécédents de varicelle incluant l’âge de l’enfant au moment de la maladie.
+
+• Dans de rares cas, des formes d’évolution compliquées telles que l’herpès zoster ophtalmique (HZO) peuvent également survenir chez les enfants.
+
+• En présence d’une éruption vésiculaire sur le territoire de la première branche du nerf trijumeau, il convient d’envisager à temps une HZO.
+
+• En cas d’HZO, le risque de complications ophtalmologiques s’avère élevé, de sorte qu’un examen ophtalmologique doit toujours avoir lieu.
+
+• Les névralgies post-herpétiques, si appréhendées chez les adultes, font généralement défaut chez les enfants.
+
+• Un traitement antiviral systémique initié précocement peut réduire considérablement le risque de séquelles oculaires.

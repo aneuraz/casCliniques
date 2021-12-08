@@ -1,0 +1,76 @@
+Fallbericht
+Anamnese
+
+Eine 39-jährige Patientin, die seit dem 20. Lebensjahr an multipler Sklerose (MS) leidet, stellte sich aufgrund von seit vier Wochen bestehenden epigastrischen Beschwerden und rezidivierendem Erbrechen beim Hausarzt vor. Im Hausarztlabor fiel eine Anämie mit einem Hämoglobinwert von 75 g/l auf (Vorwert vier Monaten früher: 120 g/l), weshalb die notfallmässige Spitaleinweisung bei Verdacht auf eine anämisierende gastrointestinale Blutung erfolgte.
+
+Status und Befunde
+
+Auf unserer Notfallstation sahen wir eine kardiopulmonal kompensierte Patientin in gutem Allgemeinzustand ohne wegweisende Befunde in der klinischen Untersuchung. Laboranalytisch imponierte eine hyporegeneratorische, normochrome und normozytäre Anämie (Hämoglobin 69 g/l), eine schwer eingeschränkte Nierenfunktion (Kreatinin 450 µmol/l, eGFR 10 ml/min/1,73 m2) und eine schwere Hyperkalzämie (3,49 mmol/l) bei supprimiertem intaktem Parathormon (iPTH) von 1,3 pmol/l (= 12,3 ng/l). Der Urinstatus war bis auf eine diskrete Leukozyturie blande. Im 24-Stunden-Urin zeigte sich eine leichte ­Proteinurie (0,32 g/Tag, 152 mg Albumin/Tag) und eine deutliche Hyperkalziurie (15,7 mmol/Tag). Sonographisch fanden sich normal grosse, nicht gestaute Nieren beidseits. Das Nierenparenchym imponierte insgesamt tendentiell hyperechogen und wies mehrere kleine, punktförmige, hyperechogene Veränderungen auf (Abb. 1).
+
+Abbildung 1: Ultraschallbefund der rechten Niere. Das Parenchym wirkt insgesamt ­etwas hyperechogen und weist mehrere punktförmige Verkalkungen auf.
+
+Die vertiefte Anamnese ergab, dass die Patientin seit eineinhalb Jahren ein Vitamin-D-Supplement in ­einer Dosierung von 50 000 IE täglich einnahm. Entsprechend fand sich ein massiv erhöhter 25(OH)D3-Spiegel ausserhalb des Messbereichs (>350 nmol/l bzw. >140 ng/ml).
+
+Diagnose
+
+Wir stellten die Diagnose einer Hyperkalzämie bei Vitamin-D-Intoxikation mit wahrscheinlich konsekutiver Niereninsuffizienz. Die hyporegeneratorische Anämie war renal bedingt. Hinweise auf eine andere Ursache der Anämie, insbesondere eine gastrointestinale Blutung, fanden sich nicht.
+
+Therapie und Verlauf
+
+Unter forcierter Hydrierung und Gabe von Schleifendiuretika war das Serumkalzium nur partiell rückläufig. Auf die Gabe intravenöser Bisphosphonate wurde aufgrund der schweren Niereninsuffizienz vorerst verzichtet. Zur Hemmung der intestinalen Kalziumresorption verabreichten wir zusätzlich Prednisolon 50 mg täglich, was aber aufgrund einer Steroidpsychose rasch wieder gestoppt werden musste. Bei persistierender Hyperkalzämie und Niereninsuffizienz entschieden wir uns schliesslich zur Gabe von Denosumab 120 mg s.c. Daraufhin kam es zu einer raschen und anhaltenden Normalisierung des Serumkalziums, auch nach Stoppen der forcierten Diurese.
+
+Das Serumkreatinin zeigte sich unter Hydrierung und Korrektur der Hyperkalzämie regredient, es persistierte aber eine deutliche Niereninsuffizienz (Kreatinin bei Austritt und in den ambulanten Kontrollen um 200 µmol/l; eGFR 26 ml/min/1,73 m2). Die renale Anämie wurde nach Sicherstellen eines adäquaten Eisenspiegels mit Erythropoetin-Analoga behandelt.
+
+Diskussion
+Hyperkalzämie: Ätiologie und Abklärung
+
+Eine Hyperkalzämie ist Folge einer erhöhten intestinalen Resorption, einer erhöhten Freisetzung aus dem Knochen oder einer verminderten renalen Elimination von Kalzium. Bei vielen Ätiologien einer Hyperkalzämie liegt eine Kombination dieser Faktoren vor. Ca. 90% der Hyperkalzämien liegt ein primärer Hyperparathyreoidismus oder eine paraneoplastische Ursache zu Grunde. Weitere Ursachen einer Hyperkalzämie sind in Tabelle 1 aufgeführt. In der Abklärung ist nebst einer vertieften Anamnese die Bestimmung des iPTH essentiell. Ein deutlich erhöhtes iPTH ist praktisch beweisend für einen primären bzw. tertiären Hyperparathyreoidismus. Bei leicht erhöhtem iPTH oder iPTH im oberen Normbereich kommen ein primärer Hyperparathyreoidismus oder eine familiäre hypokalziurische Hyperkalzämie in Frage (deren Unterscheidung gelingt anhand der Kalziumausscheidung im 24-Stunden-Urin). Bei supprimiertem iPTH schliesslich müssen die übrigen in Tabelle 1 aufgeführten Ursachen in Betracht gezogen werden und es empfiehlt sich, nebst einer Tumor- und Myelomsuche, die Bestimmung des 25(OH)D3- sowie des 1,25(OH)₂D₃-Spiegels im Blut sowie ggf. des Parathormon-related Peptids (PTHrp). Bei unserer Patientin war die Ursache der Hyperkalzämie aufgrund der Anamnese einer exzessiven Vitamin-D3-Einnahme (gut 60-fache empfohlene Tagesdosis täglich während >1 Jahr) evident und konnte laborchemisch bestätigt werden.
+
+Tabelle 1: Differentialdiagnose der Hyperkalzämie und entsprechende Laborkonstellationen.
+ 	 	iPTH	25(OH)D3	1,25(OH)D3	Kalziurie
+Primärer HyperparathyreoidismusSporadisch Vererbt, z.B. MEN	↑	n–↓	n–↑	↑
+Tertiärer Hyperparathyreoidismus	↑	n–↓	Variabel	↑
+Familiäre hypokalziurische Hyperkalzämie	n–↑	n–↓	n–↓	↓
+Malignom-assoziiert
+ 	PTHrp-Sekretion	↓	n–↓	n–↓	↑
+Ossäre Metastasen	↓	n–↓	n–↓	↑
+Ektope 1,25(OH)D3-Bildung	↓	n–↓	↑	↑
+Chronische granulomatöse Entzündungen	↓	n–↓	↑	↑
+Medikamente	 	 	 	 
+ 	Thiazide	n–↓	n–↓	n	↓
+Lithium	↑*	n–↓	n–↑	↑
+Vitamin D	↓	↑↑	n	↑
+Calcitriol	↓	n–↓	↓	↑
+Vitamin A	↓	n–↓	n–↓	↑
+Diverses	 	 	 	 
+ 	Immobilisation	↓	n–↓	n–↓	↑
+Milch-Alkali-Syndrom	↓	n–↓	n–↓	↓
+Hyperthyreose	↓	n–↓	n–↓	↑
+Akromegalie	↓	n–↓	↑	↑
+Nebenniereninsuffizienz	↓	n–↓	n–↓	↑
+iPTH = intaktes Parathormon; ↑ = erhöht; ↓ = erniedrigt; n = normal.* Lithium kann einen Hyperparathyreoidismus induzieren.
+Vitamin D: Stoffwechsel und Wirkungen
+
+1,25-Dihydroxy-Vitamin D3 oder Calcitriol ist ein klassisches Steroidhormon. Das Prohormon wird endogen unter Einwirkung von UV-Strahlung in der Haut produziert oder über die Nahrung aufgenommen und in der Leber hydroxyliert. Der grösste Teil des Vitamin D liegt als 25(OH)D3 vor, hauptsächlich an Proteine gebunden. Die Halbwertszeit von 25(OH)D3 wird mit 2–3 Wochen angegeben, kann aber insbesondere bei einer Vitamin-D-Intoxikation mit Speicherung im Gewebe auch deutlich länger sein. Die Aktivierung in 1,25(OH)₂D3 ­erfolgt durch eine weitere Hydroxylierung in der Niere und ist im Gegensatz zur Hydroxylierung an Position 25 in der Leber streng reguliert. 1,25(OH)₂D₃ entfaltet seine Wirkung durch Bindung an nukleäre Rezeptoren. Die Affinität des Rezeptors ist 1000-fach höher für 1,25(OH)₂D₃ als für dessen Vorläufer. Bei deutlich erhöhter Konzentration (>250 nmol/l oder >100 ng/ml) kann jedoch auch 25(OH)D3 den Rezeptor binden und aktivieren, weshalb bei schwerer Vitamin-D3-Überdosierung trotz gehemmter 1-Hydroxylierung eine Hyperkalzämie auftreten kann. 1,25(OH)₂D₃ induziert über verschiedene Mechanismen die Kalziumresorption im Dünndarm und steigert die Knochenresorption, unter anderem durch eine Steigerung der Expression von RANK-Ligand, welcher die Differenzierung von Vorläuferzellen zu Osteoklasten veranlasst [1, 2].
+
+Nebst den Effekten auf den Kalzium- und Knochenstoffwechsel werden Vitamin D verschiedene pleiotrope Wirkungen nachgesagt. Unter anderem wird seit längerem ein Zusammenhang zwischen dem Vitamin-D-Spiegel und der Entstehung und Aktivität von MS postuliert [3] und kürzlich in einer Studie ein positiver Effekt einer hoch dosierten Supplementation auf einen sekundären Endpunkt bei MS gezeigt [4].Gerade in ­Internet-Foren und auf Patienten-Informationsseiten haben diese Daten grosse Beachtung gefunden, was auch unsere Patientin zur hochdosierten Vitamin-D-Einnahme bewogen hat.
+
+Hyperkalzämie: klinische Manifestationen und Folgen
+
+Eine milde Hyperkalzämie ist in der Regel asymptomatisch. Bei ausgeprägter Hyperkalzämie treten primär neurologische (Müdigkeit, kognitive Störungen bis hin zum Koma) und gastrointestinale Beschwerden (Inappetenz, Nausea, Emesis, Obstipation) auf. In den Nieren verursacht eine Hyperkalzämie einen nephrogenen Diabetes insipidus mit Polyurie. Die Polyurie, oft zusammen mit rezidivierendem Erbrechen, führt zu einer Hypovolämie und einer prärenalen Niereninsuffizienz sowie einer Beeinträchtigung der renalen Kalziumausscheidung, die ihrerseits die Hyperkalz­ämie verstärken bzw. perpetuieren kann. Bei chronischer ­Hyperkalzämie und Hyperkalziurie kann es zu einer Nephrolithiasis mit Nierenkoliken kommen, andererseits auch zu einer Nephrokalzinose, die eine irreversible chronische Niereninsuffizienz nach sich zieht.
+
+Bei unserer Patientin zeigte sich die Niereninsuffizienz unter forcierter Rehydrierung leider nur partiell reversibel. Auch die relativ schwere Anämie spricht für eine chronische Niereninsuffizienz, die sich wahrscheinlich schon über längere Zeit entwickelt hatte. Sonographisch fanden sich einzelne hyperechogene Veränderungen, wahrscheinlich Parenchymverkalkungen entsprechend, aber nicht der klassische Befund einer medullären Nephrokalzinose. Die Ursache der persistierenden Nierenfunktionseinschränkung blieb somit letztlich unklar. Auf eine histologische Klärung wurde mangels therapeutischer Konsequenzen verzichtet. Da sich anamnestisch und klinisch keine anderen Ursachen einer chronischen Nierenschädigung eruieren liessen und sich zehn Monate davor noch eine normale Nierenfunktion gezeigt hatte, scheint uns eine Nierenschädigung durch die chronische Hyperkalziurie aber als plausibelste Erklärung.
+
+Therapie der Hyperkalzämie
+
+Bei asymptomatischer Hyperkalzämie reicht eine Therapie der zu Grunde liegenden Erkrankung bzw. ein Absetzen des auslösenden Medikamentes in der Regel aus. Bei schwerer, symptomatischer Hyperkalzämie ist eine rasche Therapie angezeigt.
+
+Als erster Schritt sollte eine grosszügige intravenöse Gabe isotoner Kochsalzlösung erfolgen (200–300 ml/h). Dadurch wird zunächst eine Rehydrierung der durch Polyurie und Emesis dehydrierten Patienten erreicht und anschliessend eine forcierte Diurese, welche die ­renale Kalziumelimination fördert. Die zusätzliche Gabe von Schleifendiuretika, welche früher zur Hemmung der tubulären Kalziumrückresorption routinemässig erfolgte, wird nur noch bei Nieren- oder Herzinsuffizienz empfohlen, um einer Volumenüberladung vorzubeugen; in den übrigen Fällen ist die forcierte Diurese durch Infusion von Kochsalzlösung ausreichend. Bei schwerer Hyperkalzämie kann durch Calcitonin eine rasche Korrektur erreicht werden, welche aber von kurzer Dauer ist. Calcitonin senkt den Serumkalziumspiegel hauptsächlich durch Hemmung der Osteoklasten, aber auch durch Stimulation der renalen Kalziumausscheidung. Glukokortikoide kommen hauptsächlich bei Hyperkalzämie aufgrund granulomatöser Erkrankungen und Lymphomen zum Einsatz (Hemmung der ektopen 1α-Hydroxylase-Aktivität), reduzieren aber auch die intestinale Kalziumresorption. Da die letztere durch Vitamin D gesteigert wird, erfolgte bei unserer Patientin zunächst ein kurzfristiger Therapieversuch mit Steroiden. Dieser wurde aber aufgrund der Nebenwirkungen rasch wieder sistiert. Zu den potentesten Medikamenten bei schwerer, durch vermehrte Freisetzung aus dem Knochen (mit-)bedingter Hyperkalz­ämie gehören schliesslich Bisphosphonate. Da diese bei schwerer Niereninsuffizienz relativ kontraindiziert sind, entschieden wir uns für die Off-label-Gabe von Denosumab. Denosumab ist ein RANK-L-inhibierender Antikörper, welcher die Osteoklasten-Aktivität blockiert und zur Therapie der Osteoporose sowie bei Knochenmetastasen zugelassen ist. Bei insuffizienten Vitamin-D-Spiegeln kann es, insbesondere bei Niereninsuffizienz, unter der Gabe von Denosumab zu anhaltenden Hypokalzämien kommen. Umgekehrt wurde Denosumab bereits in mehreren Fallberichten erfolgreich bei therapierefraktärer, insbesondere paraneoplastischer Hyperkalzämie eingesetzt.
+
+Das Wichtigste für die Praxis
+
+• Die therapeutische Breite von Vitamin D ist gross – eine massive Überdosierung kann aber zu einer symptomatischen, langanhaltenden Hyperkalz­ämie mit potentiell irreversiblen Folgen führen.
+
+• Die essentiellen Schritte der Abklärung einer Hyperkalzämie sind eine konzise Anamnese (Tumorerkrankung? Medikamente/Vitamin-D-Präparate?) und die Bestimmung des iPTH. Weiterführende Abklärungen je nach ­Situation umfassen eine Bestimmung von 25(OH)D3, 1,25(OH)2D3und ggf. PTHrp im Blut; ggf. eine Bestimmung der 24-Stunden-Kalziurie und eine Myelom- (freie Leichtketten, Proteinelektrophorese, Immunfixation) bzw. Tumorsuche.
+
+• Denosumab stellt bei Kontraindikation für Bisphosphonate aufgrund einer Niereninsuffizienz eine attraktive Option zur Therapie einer schweren ­Hyperkalzämie dar (off-label!).

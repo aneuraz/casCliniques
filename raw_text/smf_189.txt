@@ -1,0 +1,142 @@
+Présentation du cas
+
+Une patiente de 70 ans, connue pour un carcinome lobulaire invasif du sein gauche traité par mastectomie et hormonothérapie, consulte aux urgences en raison d’une asthénie, d’une confusion et d’une prise pon­dérale depuis un mois. La patiente ne présente pas de diarrhée. A noter l’introduction récente d’un traitement de torasémide en raison d’œdèmes des membres inférieurs d’apparition rapide, mis sur le compte d’une probable décompensation cardiaque.
+
+A son arrivée aux urgences, la tension artérielle est ­élevée à 150/90 mmHg, la fréquence cardiaque à 120 battements par minute et la fréquence respiratoire à 10 par minute. Au status, nous notons la présence d’ecchymoses d’apparition spontanée, une amyotrophie, ainsi que des œdèmes aux membres inférieurs. Le reste du status est sans particularité.
+
+Le bilan biologique retrouve une hypokaliémie à 1,4 mmol/l, une natrémie à 138 mmol/l, une créatinine à 59 µmol/l, une leucocytose à 14,6 G/l et des transaminases à deux fois la norme. La gazométrie artérielle ­révèle une alcalose métabolique sévère (pH 7,63, pO2 59 mmHg, pCO2 44 mmHg, HCO3 48 mmol/l) avec une compensation respiratoire partielle.
+
+Au vu de l’introduction récente d’un diurétique, le diag­nostic d’hypokaliémie d’origine médicamenteuse est retenu aux urgences. La patiente est admise dans l’unité des soins intensifs pour substitution potassique parentérale et surveillance rythmique.
+
+L’hypokaliémie, définie par un potassium sérique in­férieur à 3,5 mmol/l, est une anomalie biologique ­courante touchant près de 10% des patients qui consul­tent aux urgences. En revanche l’hypokaliémie sévère (<2,5 mmol/l) est rare (<1%), mais représente une urgence médicale en raison du risque majeur d’arythmies cardiaques et de rhabdomyolyse. Les causes les plus communes sont les pertes digestives et l’utilisation des ­diurétiques [1].
+
+Quarante-huit heure plus tard, la patiente développe une psychose, ainsi qu’un état fébrile à 39,2 °C et nous constatons une persistance de l’alcalose métabolique ainsi que de l’hypokaliémie malgré une substitution potassique intraveineuse en continu à haute dose (16 mmol/h) et l’arrêt du torasémide.
+
+Question 1: Quel(s) examen(s) complémentaire feriez-vous à ce stade?
+
+
+a) Hémocultures et culture d’urines
+
+b) Potassium urinaire
+
+c) Cortisolurie de 24 heures
+
+d) Tomographie par ordinateur (CT) cérébral, thoracique et abdominal
+
+e) Tous ces examens
+
+Les hémocultures et les cultures d’urines reviennent stériles. Le potassium urinaire est à 107 mmol/l, le cortisol plasmatique de l’après-midi à 1566 nmol/l (N: 68–327 nmol/) et la cortisolurie de 24 h à 1551 nmol/24 h (N: 22 à 140 nmol/l). La tomographie par ordinateur (CT) effectué en raison de la suspicion d’une cause tumorale et infectieuse à l’état clinique de la patiente met en évidence de multiples ­lésions hépatiques et pulmonaires suspectes de mé­tastases, ainsi qu’une masse surrénalienne gauche de 3,4 × 3,7 cm (fig. 1).
+
+Figure 1: Les flèches rouges sur les images scanographiquesA etB indiquent la masse surrénalienne gauche, hétérogène, d’une densité spontanée à 22HU et d’une taille de 3,4 × 3,7 cm. Les flèches bleues montrent les métastases hépatiques.
+
+Au vu du tableau clinique susmentionné et le bilan hormonal, le diagnostic de syndrome de Cushing sévère est confirmé. Ce dernier est défini par un cortisol plasmatique supérieur à 1100 nmol/l ou une cortisolurie de 24 heures à plus de quatre fois la norme et/ou une ­hypokaliémie sévère (<3 mmol/l), associé à l’apparition récente d’un ou plusieurs des critères suivants: infection, hypokaliémie réfractaire, hypertension artérielle, œdème, défaillance cardiaque, hémorragie gastro-intestinale, psychose aigue, myopathie progressive, thrombo-embolisme, hyperglycémie ou acido-­cétose [2].
+
+Devant une hypokaliémie inaugurale sévère sans cause évidente (causes médicamenteuses, pertes digestives, manque d’apport et déplétion en magnésium [1]) et qui est réfractaire à la substitution potassique, il est impératif de penser à des causes plus rares d’hypokaliémie. Ces dernières nécessitent une prise en charge spécifique, notamment le syndrome de Cushing, l’hyperaldostéronisme primaire, les acidoses tubulaires et les anomalies génétiques (syndrome de Liddle, Bartter et Gitelman) [3, 4].
+
+Question 2: Lequel de ces symptômes et signes cliniques n’est pas retrouvé dans le syndrome de Cushing?
+
+
+a) Prise pondérale facio-tronculaire
+
+b) Hypercatabolisme protidique
+
+c) Ecchymoses et vergetures pourpres
+
+d) Erythème noueux
+
+e) Hypertension artérielle
+
+Les symptômes et signes cliniques les plus fréquents dans un contexte d’hypercorticisme sont une prise pondérale facio-tronculaire, des signes d’hypercatabolisme protidique comme l’amyotrophie proximale, des signes cutanés (ecchymoses, vergetures pourpres), et de l’ostéoporose. L’hypertension artérielle, l’hirsutisme et l’acné sont également fréquents. Les troubles métaboliques et électrolytiques sont dominés par l’intolérance au glucose ou le diabète sucré, ainsi que l’hypokaliémie avec alcalose métabolique. L’exposition du cerveau au cortisol peut également provoquer des atteintes de l’humeur (dépression, anxiété et plus rarement une psychose) [5].
+
+Nous retrouvons chez notre patiente des ecchymoses d’apparition spontanée, une amyotrophie, une hyper­tension artérielle, ainsi que le développement d’une psychose. La prise pondérale facio-tronculaire ainsi que les vergetures pourpres n’ont pas été retrouvées probablement en raison du développement aigu du syndrome de Cushing.
+
+Question 3: En cas de syndrome de Cushing sévère aigu, laquelle de ces propositions n’est pas prioritaire?
+
+
+a) La recherche de l’étiologie du syndrome de Cushing
+
+b) La correction des troubles électrolytiques
+
+c) Le contrôle des atteintes métaboliques
+
+d) La recherche active des complications infectieuses
+
+e) La prophylaxie des maladies thromboemboliques
+
+En phase aiguë, en présence d’un syndrome de Cushing sévère, comme dans notre cas, la priorité est la correction des perturbations électrolytiques, le contrôle des atteintes métaboliques, la recherche active des com­plications infectieuses et la prophylaxie des maladies thromboemboliques [5]. Ces priorités sont établies selon la morbidité et la mortalité qu’elles peuvent entraîner en phase aigüe. La recherche de l’étiologie du syndrome de Cushing doit se faire dans un second temps après la stabilisation du patient.
+
+Question 4: Quelle est la prochaine étape diagnostique après avoir mis en évidence l’hypercorticisme endogène?
+
+
+a) Imagerie par résonance magnétique (IRM) cérébrale centrée sur l’hypophyse
+
+b) Dosage de l’adrénocorticotrophine (ACTH)
+
+c) Biopsie d’une des lésions hépatiques
+
+d) IRM des surrénales
+
+e) Toute ces réponses sont fausses
+
+Selon le mécanisme pathophysiologique, on distingue deux formes d’hypercorticismes endogènes (tab. 1): ­adrénocorticotrophine (ACTH)-dépendante et ACTH­-indépendante [5]. Le dosage de l’ACTH va donc nous permettre de guider le choix d’imagerie médicale, de localiser la région ana­tomique concernée et d’orienter les autres examens complémentaires [3].
+
+Tableau 1: Causes d’hypercorticisme endogène (adapté de [5]).
+ 	Proportions
+ACTH-dépendant	70–80%
+Maladie de cushing (origine hypophysaire)• Adénome corticotrope• Hyperplasie corticotrope	60–70%
+Production ectopique d’ACTH
+(non-hypophysaire)• Tumeurs neuroendocrines bénignes• Tumeurs neuroendocrines malignes• Tumeurs neuroendocrines occultes	5–10%
+ACTH-indépendant (origine surrénalienne)	20–30%
+Adénomes surrénaliens	10–20%
+Corticosurrénalomes malins	5–7%
+Hyperplasies surrénaliennes	<4%
+
+Dans notre cas, l’ACTH plasmatique était indétectable en raison du feedback négatif exercé par l’hypercor­ticisme sévère sur les cellules corticotropes de l’hy­pophyse. Une origine ACTH-indépendant (origine ­sur­rénalienne) est retenue. L’aldostérone et la rénine plasmatiques sont mesurées à 0,05 nmol/l (N: 0,03–0,4 nmol/l) et 29,3 mUI/l (N: 2,8–39,9 mUI/l), respectivement. Le dosage des androgènes surrénaliens n’a pas été effectué. A noter que la patiente ne présentait aucun signe clinique d’hyperandrogénisme.
+
+Au vu de l’ACTH indétectable, de la masse surrénalienne gauche et la présence de métastases, le diagnostic de corticosurrénalome (cushing d’origine surrénalien) malin est alors suspecté. Une biopsie de l’une des métastases hépatiques est réalisée. Le rapport anatomo-patho­logique initial parle en faveur d’une tumeur neuroendocrine (cushing sur production ectopique d’ACTH) au vu de la positivité de deux marqueurs (synapto­physine, CD56) à l’examen immunohistochimique. Devant ces deux résultats contradictoires, nous dosons les marqueurs des tumeurs neuroendocrinienne, la chromogramine A et le «neuron specific enolase» qui ­reviennent légèrement augmentée, respectivement 188,1 mcg/l (N: <101,9 mcg/l) et 29 mcg/l (N: <15 mcg/l). Un deuxième dosage de l’ACTH plasmatique est donc effectué et confirme le résultat initial avec un taux indétectable donc non compatible avec une tumeur neuroendocrinienne productrice d’ACTH. Une biopsie de la masse surrénalienne est finalement ­réalisée, après avoir écarté un phéochromocytome par un dosage des métanéphrines plasmatiques afin d’éviter une crise hypertensive potentiellement létale. Cette biopsie permet de confirmer le diagnostic de corticosurrénalome malin.
+
+L’interprétation initiale de la biopsie d’une des lésions hépatiques a évoqué de manière erronée une tumeur neuroendocrine. Rétrospectivement, cette erreur aurait pu être évitée, la lésion étant négative pour la chromogranine A, marqueur typique de tumeurs neuroendocrines. Le diagnostic final a nécessité une biopsie surrénalienne, rarement effectuée dans la plupart de cas de corticosurrénalome, voire même déconseillée en raison du risque d’essaimage tumoral [4].
+
+Question 5: Quel traitement pouvons-nous proposer à notre patiente pour contrôler le Cushing sévère ainsi qu’augmenter l’espérance de vie?
+
+
+a) Chirurgie
+
+b) Chimiothérapie
+
+c) Radiothérapie
+
+d) Inhibiteurs de la stéroïdogenèse et chimiothérapie
+
+e) Pasiréotide
+
+Dans le carcinome corticosurrénalien, le traitement de première intention est chirurgical, dans un but curatif si possible. Dans les cas avancés et métastatiques, la chimiothérapie représente le traitement de choix. La radiothérapie n’est pas utilisée en monothérapie, mais comme traitement adjuvant en combinaison avec la chirurgie ou la chimiothérapie [4]. Le pasiréotide est un anticortisolique utilisé en cas d’adénome hypophysaire corticotrope [5] or nous sommes en présence d’un carcinome corticosurrénalien.
+
+Les inhibiteurs de la stéroïdogenèse (métyrapone, kétoconazole, mitotane) agissent sur différentes enzymes aussi bien surrénaliennes que gonadiques. Le mitotane a également un effet adrénolytique, via une toxicité mitochondriale. Ces inhibiteurs sont indiqués en préopératoire, chez les patients avec un hypercorticisme sévère, comme traitement complémentaire en cas d’échec de la chirurgie, comme traitement symptomatique en cas de tumeur primaire introuvable, et dans un cadre palliatif [5]. Nous ne détaillerons ici que la métyrapone.
+
+La métyrapone est un bloqueur spécifique de la 11-β-hydroxylase (CYP11B1), enzyme impliquée dans la conversion du 11-deoxycortisol en cortisol. Il est très efficace dans le contrôle de l’hypercorticisme (50–75% des cas). L’effet étant observé après quelques heures de traitement, il s’agit du médicament de choix dans le contexte de syndrome de Cushing sévère [5]. La surveillance de la kaliémie est nécessaire, en raison du risque de péjoration de l’hypokaliémie et de l’HTA, la métyrapone bloquant également la CYP11B2 avec comme conséquence l’accumulation de désoxycorticostérone, pourvu d’une activité minéralocorticoïde. Une accumulation d’androgènes surrénaliens peut survenir, ce qui peut entraîner une péjoration des symptômes hyperandrogéniques, comme l’hirsutisme.
+
+Dans notre cas, en présence d’un syndrome de Cushing sévère associé à une hypokaliémie sévère réfractaire, un traitement de métyrapone 250 mg un fois par jour est introduit avec amélioration rapide de la kaliémie, permettant l’arrêt de la substitution potassique par voie intraveineuse dès 24 heures (fig. 2–3). Par la suite, la ­posologie a été augmenté progressivement jusqu’à un dosage total de 2 g par jour en trois prises.
+
+Figure 2: Evolution de la perte potassique urinaire et de la substitution potassique intraveineuse depuis l’introduction de la métyrapone par tranche de 8 heures. Les augmentations des pertes potassiques marquée par * sont expliquées en partie par la prise de 1 à 2 comprimé(s) de KCl effervescent 30 mmol po 8 h avant le dosage urinaire du potassium.
+
+KU: potassium urinaire, KCI: chlorure de potassium.
+
+Figure 3: Evolution de la kaliémie en fonction de la substitution potassique intra­veineuse depuis le début de l’hospitalisation. La flèche rouge indique l’introduction de la métyrapone.
+
+K: potassium, KCI: chlorure de potassium.
+
+Notre cas est remarquable par les doses très élevées de potassium intraveineux nécessaires à la correction de la kaliémie (fig. 3). La normalisation de la kaliémie et diminution de la kaliurie est rapidement obtenue par l’introduction de la métyrapone. Quarante-huit heures après le début de ce traitement, nous observons une ­diminution du potassium urinaire de 124 mmol/l à 54 mmol/l (fig. 2). La substitution de potassium intraveineux a pu être arrêtée à 24 heures du début de la métyrapone (fig. 2–3).
+
+Au vu de la cause maligne sous-jacente, un traitement par mitotane 1 g par jour a été introduit. Une chimiothérapie par cisplatine-etoposide est proposée, mais refusée par la patiente. Le traitement de mitotane et de métyrapone est poursuivi dans un premier temps à but palliatif, puis arrêtés quelques semaines plus tard sur décision de la patiente. L’utilisation à long terme du mitotane ­nécessite l’introduction d’une substitution par hydrocortisone au vu de l’effet inhibiteur de la stéroïdogenèse et adrénolytique. Au vu de l’utilisation de ce traitement sur une courte durée chez notre patiente, aucune substitution n’a été nécessaire.
+
+Discussion
+
+Le corticosurrénalome malin est une néoplasie endocrinienne rare, responsable de 0,2% de tous les décès par cancer aux Etats Unis [4]. La majorité des cas sont spo­radiques. Les manifestations cliniques sont des symptômes d’hypercortisolisme dans 40–60% des cas et des symptômes liés à la progression locale de la tumeur. Environ 45–70% des corticosurrénalomes produisent des hormones, surtout des glucocorticoïdes et des androgènes. La plupart des tumeurs sont déjà volumineuses au moment du diagnostic avec seulement 3% présentant une taille <4 cm. Environ un tiers des patients ont des métastases à distance au moment du diagnostic. Ce dernier se base sur la mise en évidence d’un tableau clinique évocateur avec des symptômes rapidement progressifs, la confirmation d’un hypercortisolisme ­ACTH-indépendant, avec fréquemment un hyperandrogénisme, et un bilan radiologique concordant par CT et/ou IRM. Une biopsie est rarement nécessaire [4].
+
+Le cortisol est métabolisé en cortisone par une enzyme rénale, la 11β-hydroxystéroïde déshydrogénase de type 2 (11β-HSD 2). La cortisone a une faible affinité pour les récepteurs minéralocorticoïdes au niveau rénal par rapport au cortisol. En cas d’hypercorticisme, la 11β-HSD 2 est saturée. Ceci a pour conséquence une augmentation de la concentration du cortisol. Ce dernier se liera aux récepteurs des minéralocorticoïdes, mimant l’effet de l’aldostérone, causant une alcalose métabolique et une déplétion potassique par perte rénale [3]. De ce fait, l’évaluation systématique de la kaliurèse dans le contexte d’hypokaliémie est capitale dans la démarche étiologique.
+
+Réponses:
+
+
+Question 1: e; question 2: d; question 3: a; question 4: b; ­question 5: d.

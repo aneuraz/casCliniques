@@ -1,0 +1,54 @@
+Contexte
+
+Une douleur aiguë au pied fait souvent d’abord penser à une fasciite plantaire, une réaction osseuse à la contrainte voire même une fracture de stress au niveau de l’arrière-pied ou du médio-pied. Ces problèmes peuvent être mis en évidence par une imagerie adéquate (radiographie, échographie, imagerie par résonance magnétique [IRM]). Comme le montre le cas ­suivant, en l’absence d’explication des douleurs de la voûte plantaire, il convient également d’envisager et de rechercher une thrombose veineuse plantaire (TVP).
+
+Présentation du cas
+Anamnèse
+
+Une joueuse d’unihockey âgée de 27 ans a consulté un médecin du sport en raison de fortes douleurs au pied. La patiente s’est plainte de douleurs initialement uniquement au niveau du talon, survenues soudainement une semaine auparavant. Les douleurs avaient augmenté et se propageaient désormais jusqu’au médio-pied. Il lui était impossible de marcher normalement et de dérouler le pied depuis le talon. La suite de l’anamnèse a révélé que la patiente était une joueuse passionnée d’unihockey et s’entraînait trois fois par semaine. A cela s’ajoutait généralement un match chaque week-end. Elle n’a rapporté aucun traumatisme.
+
+Il y a plusieurs années, la sportive avait consulté un médecin du sport en raison d’un syndrome de la bandelette ilio-tibiale au genou gauche, qui avait guéri sans séquelles. Par ailleurs, la patiente était saine et n’a rapporté aucun antécédent d’événement thrombotique. Elle était non-fumeuse et prenait un contraceptif oral à base d’œstrogènes.
+
+Résultats
+
+Lors de l’examen, la patiente présentait une claudication de protection et ne pouvait plus dérouler le pied depuis le talon. La palpation a révélé une douleur prononcée à la pression au niveau de la fascia plantaire et une douleur à la pression au niveau du métatarse, de l’os cuboïde et de la partie inférieure latérale de la cheville. Le reste de l’examen clinique était normal.
+
+Diagnostic
+
+En présence d’un diagnostic suspecté de fasciite plantaire ou d’une réaction osseuse à la contrainte/fracture de stress, une IRM de l’arrière-pied et du médio-pied a été réalisée. L’examen a révélé une thrombose des veines plantaires latérales. La fascia plantaire était normale, tout comme les structures osseuses (fig. 1).
+
+Figure 1: A ) IRM avec produit de contraste de l’arrière-pied gauche, coupe axiale. Veines plantaires latérales œdémateuses (flèches noires) en l’absence de rehaussement du lumen par le produit de contraste. L’activité périvasculaire du produit de contraste illustre une réaction inflammatoire périvasculaire; tubérosité du calcanéus (TC), fascia plantaire (PF), os cunéiforme latéral (CL).B ) Coupe coronaire: veines plantaires latérales thrombosées (flèches noires) avec rehaussement périvasculaire dans le cadre de la réaction inflammatoire périvasculaire. Au niveau médial et proximal, les veines plantaires médiales sont représentées avec une perfusion adéquate (flèche blanche); talus (T), sustentaculum tali (ST), musculus quadratus plantae (QP), musculus flexor digitorum brevis (FDB), musculus abductor digiti minimi (ADM).
+
+Une échographie Doppler et de compression des veines du mollet et du pied a en outre été effectuée. Elle a également mis en évidence la thrombose au niveau des veines plantaires latérales, s’étendant jusqu’au confluent avec les veines plantaires médiales (fig. 2). Les veines du mollet étaient normales.
+
+Figure 2: A ) Echographie Doppler de la plante du pied en travers de la voûte plantaire. Les veines plantaires latérales thrombosées (entourées) sont œdémateuses et sans signal de flux.B ) Echographie de compression de la plante du pied en travers de la voûte plantaire. Les veines thrombosées (entourées) ne peuvent pas être comprimées.
+
+Le taux de dimères D n’a pas été déterminé lors de la consultation initiale. En raison de l’anamnèse plutôt inhabituelle, un examen diagnostique de la coagulation a également été réalisé, révélant un léger déficit en protéine C.
+
+Traitement et évolution
+
+La patiente a été priée d’interrompre temporairement l’entraînement d’unihockey. Elle a par ailleurs reçu un traitement anticoagulant pour une durée de trois mois (­rivaroxaban 2 × 15 mg/jour pendant trois semaines, puis 20 mg/jour) ainsi qu’un bas de compression pour le mollet.
+
+L’échographie Doppler et de compression réalisée au bout de trois mois était normale et la patiente exempte était de symptômes.
+
+Discussion
+
+L’incidence de la thrombose veineuse plantaire isolée en présence de douleurs du pied n’est pas connue. Nous avons trouvé près de 50 cas décrits dans les ouvrages de référence. A chaque fois, les patients présentaient des symptômes non spécifiques tels que des douleurs plantaires et un œdème du pied. La TVP est probablement sous-diagnostiquée. En 1978, Thomas a réalisé des phlébographies de 188 jambes et pieds et découvert une TVP chez 10% d’entre eux [1].
+
+Actuellement, le diagnostic est principalement établi par IRM et/ou échographie Doppler [2, 3]. L’IRM est de nos jours relativement peu coûteuse et permet surtout d’exclure complètement d’autres diagnostics différentiels. La TVP touche le plus souvent les veines plantaires latérales, suivies des veines plantaires médiales. Une extension jusque dans les veines plantaires de ­l’espace intermétatarsien et les veines digitales a également été mise en évidence [3]. Le diagnostic différentiel inclut une fasciite plantaire, une réaction osseuse de contrainte ou une fracture de stress, une tendinite, un syndrome de l’intersection plantaire avec conflit entre le tendon du long fléchisseur de l’hallux et le tendon du long fléchisseur des orteils, une compression du nerf plantaire latéral («nerf de Baxter») et l’arthrose [2–5]. En cas d’extension distale de la thrombose vers les veines interdigitales, il convient d’envisager également un névrome de Morton, une sésamoïdite ou une bursite intermétatarsienne.
+
+Dans la plupart des cas, la cause de la TVP reste inconnue (60%).
+
+Les causes connues d’une thrombose sont (par ordre décroissant de fréquence) la prise d’inhibiteurs de l’ovulation à base d’œstrogènes, un statut postopératoire, une tumeur maligne, un traumatisme, l’immobilisation et le statut post-partum. D’autres causes sont indiquées dans 8% des cas, parmi lesquelles se trouvent les coagulopathies primaires et secondaires.
+
+Chez notre patiente, la prise d’un contraceptif à base d’œstrogènes et le léger déficit en protéine C récemment découvert sont probablement en partie responsables de la TVP. Dans le cadre du diagnostic externe de coagulation, le passage à un contraceptif progestatif ainsi qu’une prophylaxie de la thrombose au moyen d’une héparine de bas poids moléculaire ont été recommandés dans les situations à risque. Dans notre cas, il convient toutefois d’admettre que des thromboses seraient déjà survenues à d’autres localisations si l’association hormonale et le léger déficit en protéine C étaient principalement à l’origine de la thrombose. Néanmoins, dans ce cas rare, le facteur principal serait plutôt la contrainte mécanique répétitive de la voûte plantaire due aux mouvements extrêmes «stop and go» de l’unihockey, sous forme de thrombose de l’effort.
+
+L’interdiction d’entraînement d’unihockey et le traitement anticoagulant (NACO) sont les principales mesures thérapeutiques. En l’absence d’extension de la thrombose dans le mollet, le bas de compression du mollet revêt ici une pertinence secondaire et serait éventuellement plutôt contre-productif.
+
+L’essentiel pour la pratique
+
+• La thrombose veineuse plantaire (TVP) est un rare diagnostic diffé­rentiel de la douleur plantaire, qui se présente avec des douleurs non spécifiques au niveau de la voûte du pied et touche principalement les veines plantaires latérales.
+
+• La TVP est probablement sous-diagnostiquée et doit être recherchée ­après exclusion d’autres causes.
+
+• L’examen IRM du pied est complet et permet d’établir la plupart des ­diagnostics différentiels des douleurs du pied.

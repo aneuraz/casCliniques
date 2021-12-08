@@ -1,0 +1,68 @@
+Contexte
+
+Les entorses/contusions du poignet comptent dans l’ensemble parmi les types de lésions les plus fréquentes chez les patients qui se présentent dans les cabinets de médecine de famille ou les services des urgences. Dans la procédure standard, un examen d’imagerie radiologique conventionnel est conduit afin d’exclure des fractures ou des luxations. Cet examen permet toutefois seulement de visualiser les lésions osseuses. Ainsi, seule une fraction des pathologies sous-jacentes est détectée car les lésions ligamentaires, tendineuses, vasculaires et nerveuses ne peuvent pas être représentées, ou elles le sont seulement indirectement. Le présent cas a pour objectif de montrer qu’une lésion du poignet complexe peut éventuellement se cacher derrière le diagnostic fréquent de «poignet foulé».
+
+Rapport de cas
+Anamnèse
+
+Une patiente âgée de 48 ans s’est présentée en urgence dans notre clinique suite à une chute de cheval subie la veille. Elle était tombée sur les fesses et s’était fait une entorse du poignet droit (poignet dominant) car elle s’était tenue avec les brides pendant la chute. Malgré les douleurs du poignet (échelle visuelle analogue [EVA] à 4/10), elle avait continué à monter à cheval. Lors de sa consultation initiale au service des urgences le jour suivant, elle a rapporté une progression de la douleur dans la région du poignet droit et du carpe, une diminution subjective de la force à la fermeture du poing ainsi qu’une paresthésie avec fourmillements de l’ensemble de la main droite. Après exclusion d’une potentielle fracture à la radiologie conventionnelle (fig. 1) et à la tomodensitométrie Planmed-Verity® (tomodensitométrie 3D des extrémités), une orthèse de poignet a été posée chez la patiente et il a été convenu d’un contrôle de suivi en consultation de chirurgie de la main 14 jours après le traumatisme.
+
+Figure 1: Cliché radiographique préopératoire: pas de lésions osseuses, lignes de Gilula (en vert) harmonieuses et pas de luxation manifeste. A l’imagerie latérale, un angle légèrement élargie, de 69° (en rouge), entre l’axe scaphoïde et l’axe du lunatum peut être mis en évidence en tant qu’indice de lésion ligamentaire scapho-lunaire (SL).
+
+Anomalies
+
+Environ deux semaines après le traumatisme, l’examen clinique a montré, outre une douleur à la pression au niveau du compartiment ulno-carpien et du complexe fibrocartilagineux triangulaire (TFCC), une sensibilité à la pression explicite au niveau de l’espace articulaire radio-carpien et de l’intervalle scapho-lunaire (SL). Une instabilité SL (test du ballottement SL, test de Watson) ou luno-triquétrale (LT; test du ballottement LT) n’ont pas pu être cliniquement vérifiées. L’articu­lation radio-ulnaire distale (ARUD) était stable sur le plan clinique.
+
+L’arthrographie par résonance magnétique du poignet n’a montré qu’un léger passage du produit de contraste du compartiment radio-carpien au compartiment médio-carpien. L’hypothèse d’une lésion centrale du ligament LT a été émise. A l’imagerie par résonance magnétique (IRM), le ligament SL était intact dans la mesure de ce qui est évaluable. En revanche, une accumulation de produit de contraste a été identifiée du côté palmaire dans le canal carpien jusque, du côté proximal, dans la gaine du tendon fléchisseur (fig. 2), ce qui laissait supposer une lésion supplémentaire des ligaments palmaires avec structure en V (structures ligamentaires intrinsèques et extrinsèques au niveau du poignet et du carpe).
+
+Figure 2: Arthrographie par résonance magnétique du poignet (coupe axiale) dans la séquence pondérée en densité de protons (DP): Accumulation de produit de contraste dans le canal carpien et le long de la gaine du tendon fléchisseur (flèches rouges).
+
+Evolution
+
+Un mois après le traumatisme, la patiente a rapporté une évolution stagnante avec des troubles persistants, notamment au niveau palmaire de l’articulation radio-carpienne. Compte tenu du traumatisme à haute énergie, du tableau clinique avec douleurs persistantes et des lésions des ligaments palmaires et du ligament LT suspectées à l’IRM, nous avons posé l’indication pour une arthroscopie diagnostique du poignet, afin d’identifier et traiter d’éventuelles lésions ligamentaires jusqu’à présent non décelées dans le cadre du diagnostic.
+
+L’opération a montré de bons rapports osseux ainsi qu’un revêtement cartilagineux normal de la fosse lunaire, de la fosse scaphoïde et des os du carpe visibles. Le TFCC était stable et solidement ancré. La lésion complète du ligament LT suspectée (de façon analogue au stade EWAS IV [1]) était déjà visible du côté dorsal jusqu’à l’articulation radio-carpienne. De plus, une rupture complète du ligament SL (stade EWAS IIIc, fig. 3) a été montrée alors que cette dernière n’avait pas pu être diagnostiquée à l’arthro-IRM. Cela pourrait s’expliquer par un effet de valve induit physiquement. L’injection de produit de contraste fait monter la pression intra-articulaire et des déchirures ligamentaires en languette peuvent ainsi se refermer. Enfin, l’arthroscopie diagnostique a permis de poser le diagnostic de PLIND («perilunate injury, not dislocated»).
+
+Figure 3: Vue arthroscopique de l’intervalle scapho-lunaire (SL) depuis l’articulation médio-carpienne. Le crochet palpateur permet un accès entre l’os scaphoïde et le lunatum. Une rupture complète du ligament SL avec une instabilité correspondante est détectée (stade EWAS IIIc).
+
+Traitement
+
+En termes de traitement, les ligaments LT et SL rompus ont été ravivés par arthroscopie, et les intervalles correspondants ont été stabilisés par transfixation SL et LT au moyen de deux vis canulées (fig. 4). En outre une section du toit du canal carpien et une suture des ligaments palmaires via un accès palmaire ont été réalisées.
+
+Figure 4: Radiographie postopératoire après transfixation scapho-lunaire et luno-triquétrale au moyen de vis canulées.
+
+Suite à l’opération, la patiente a été immobilisée au moyen d’une attelle dorso-palmaire thermoplastique en position intrinsèque plus pendant six semaines. Suite à cela, une orthèse du poignet a été posée pour une durée de six semaines supplémentaires. Sur le plan de l’ergothérapie, le poignet et les doigts ont directement été mobilisés après l’opération, sans charge. Enfin, les vis de transfixation scapho-lunaire et luno­-triquétrale ont été retirées 12 semaines après l’opé­ration. L’arthroscopie du poignet réalisée dans le même temps a montré une bonne guérison des ligaments SL et LT. Le crochet palpateur n’a pas permis d’accéder à l’intervalle et un «step-off» ou une instabilité pertinents n’ont pas été montrés. La radioscopie dynamique sous convertisseur analogique et l’examen clinique peropératoire ont montré un intervalle SL et LT stable.
+
+Discussion
+
+Les luxations et fractures de luxation du carpe sont relativement rares, elles représentent environ 5–7% de toutes les lésions du poignet [2, 3]. L’incidence exacte des lésions périlunaires est difficile à définir car il doit être parti du principe d’une inconnue importante. Les lésions périlunaires sont classées en lésions avec luxation et sans luxation. Concernant les lésions avec luxation, la distinction est faite entre les «luxations périlunaires» (lésions ligamentaires isolées) et les «fractures-luxations» périlunaires (avec fractures des os du carpe ou de la styloïde radiale en plus) (fig. 5). Parmi les lésions sans luxation figurent les «lésions périlunaires sans luxation» (PLIND) (fig. 6).
+
+Figure 5: Fracture-luxation périlunaire avec déplacement ­dorsal du carpe (flèche) et inclination du lunatum (asterisk) s’accompagnant d’une fracture du scaphoïde, du capitatum et du triquetrum (pointes de flèches).
+
+Figure 6: Classification modifiée des lésions périlunaires d’après G. Herzberg (réproduction avec l’aimable autorisation de © Georg Thieme Verlag KG de: Herzberg G. Perilunate Injuries, Not Dislocated (PLIND). J Wrist Surg 2013;2:337–45. Dans le tiers supérieur, les lignes continues montrent à chaque fois le type de lésion classique des luxations périlunaires (en haut à gauche) ou fractures-luxations (en haut à droite). Les lignes en pointillés montrent les différentes variantes. Dans le tiers central, les luxations dorsales et palmaires et leur classification en stades sont montrées du côté latéral et les variantes sans luxation de la PLIND («perilunate injury, not dislocated») sont représentées en tant que forme spécifique. Dans le tiers inférieur, sont montrées les localisations potentielles des fractures ostéochondrales associées.
+
+Les «luxations périlunaires» et «fractures-luxations périlunaires» sont des entités répandues. Elles peuvent toutefois se présenter sous une variété de formes différentes, avec un degré de sévérité et des lésions concomitantes différentes. Le désalignement commun à ces formes est une luxation entre le capitatum et le lunatum bien identifiable à la radiographie conventionnelle en incidence latérale [4, 5]. Toutefois, selon les différents ouvrages de référence, ces lésions sévères sont manquées dans 16–25% des cas, en raison du tableau clinique souvent non spécifique et de l’éventuelle absence de déformation [6].
+
+Des lésions périlunaires peuvent également être présentes en l’absence de luxation du capitatum ou du lunatum à la radiographie initiale. Dans le cadre de la définition d’une PLIND, on part du principe que, sous la contrainte carpienne avec lésion correspondante les ligaments carpiens, aucune luxation pertinente du capitatum n’est survenue ou qu’une luxation passée s’est spontanément résorbée. L’équivalent d’une PLIND est donc plus difficile à diagnostiquer ou peut être facilement manqué. Un «indice de suspicion» élevé est donc nécessaire pour la pose du diagnostic. En cas d’imagerie initiale supposée normale avec troubles persistants, des étapes diagnostiques supplémentaires devraient être initiées et/ou le patient devrait être adressé à un chirurgien de la main (fig. 7).
+
+Figure 7: Algorithme diagnostique et thérapeutique pour les ésions périlunaires.
+
+SL: scapho-lunaire, LT: luno-triquétral, IRM: imagerie par résonance magnétique, TDM: tomodensitométrie.
+
+Typiquement, les traumatismes à haute énergie conduisent à une contrainte carpienne et donc à une accentuation des lésions périlunaires. A l’examen clinique, un gonflement marqué et une douleur à la pression diffuse de l’ensemble du poignet/carpe sont observés, ce qui suggère une lésion de haut grade et devrait donc conduire à entreprendre d’autres étapes diagnostiques. Parmi ces dernières figurent en premier lieu les clichés de radiologie conventionnelle. Même si aucune luxation/aucun désalignement n’est visible sur ces dernières (lignes de Gilula harmonieuse, alignement correct), un cisaillement ostéochondral dans l’articulation médio-carpienne peut parfois indirectement donner des indices quant à une lésion de haut grade (fig. 6, tiers inférieur). En outre, des désalignements carpiens plus subtils (DISI/VISI = «dorsal/volar intercalated segment instability»; angle SL élargie; fig. 1) peuvent laisser supposer une lésion de ligament carpien. Le diagnostic au moyen de l’arthro-IRM ou -TDM peut en outre donner des renseignements sur l’ampleur des lésions du ligament carpien et/ou autres lésions concomitantes supposées.
+
+L’arthrographie par résonance magnétique mentionné présente certes une sensibilité de 68–100% pour la confirmation de la rupture du ligament SL dans la littérature, mais l’arthroscopie reste toutefois un moyen de premier choix en cas de suspicion d’une PLIND, en vue de confirmer le diagnostic et d’identifier l’ampleur de la lésion ainsi que le traitement indiqué [7, 8]. Parmi les options thérapeutiques figurent la transfixation par broche de Kirschner ou vis par voie ouverte ou assistée par arthroscopie des os du carpe touchés avec ravivement des parties rompues du ligament ou suture directe du ligament.
+
+En cas de diagnostic manqué et de traitement retardé, des «salvage procedures» («proximal row carpectomy» [PRC]: résection de première rangée proximale du carpe; arthrodèses partielles du poignet) sont souvent nécessaires et elles conduisent à long terme à des moins bons résultats.
+
+L’essentiel pour la pratique
+
+• La rareté et la variabilité des manifestations cliniques posent des défis dans la pose du diagnostic des lésions périlunaires.
+
+• Les lésions périlunaires, qui représentent 5% de toutes les lésions du poignet, sont dans l’ensemble rares. Un «indice de suspicion» plus élevé est donc indiqué.
+
+• La prise de clichés radiographiques de bonne qualité et leur interprétation selon des standards simples (alignement, lignes de Gilula, luxations/fractures ouvertes) sont centrales.
+
+• Lorsque des douleurs faisant suite à une lésion du poignet supposée non compliqué ne régressent pas en l’espace de quelques jours, des mises au point diagnostique supplémentaires doivent être réalisées ou le patient doit être adressé à un chirurgien de la main
+
+• Ce n’est que sur la base d’une collaboration efficace entre médecins de famille, services des urgences et chirurgiens de la main que le nombre de diagnostics retardés peut être réduit, le traitement correspondant initié en tant voulu avec une visée curative, et le résultat amélioré.

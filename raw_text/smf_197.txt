@@ -1,0 +1,42 @@
+Contexte
+
+Une coupe menstruelle (CM) est un récipient collecteur du sang menstruel destiné à une utilisation intravaginale. D’après l’information des fabricants, une CM peut être laissée dans le vagin durant jusqu’à douze heures, puis elle est vidée, rincée et réutilisée au besoin. Il existe une multitude de marques, telles que LadyCup, Lunette, DivaCup, MeLuna, Organicup, etc.
+
+Les CM sont présentées comme des alternatives moins onéreuses et plus écologiques aux produits d’hygiène jetables plus usuels, tels que les tampons et les serviettes hygiéniques. Notamment dans les pays en développement, l’introduction de ce produit est fortement encouragée, car on y déplore fréquemment un accès insuffisant aux produits d’hygiène jetables.
+
+Contrairement aux tampons, les CM ne provoquent pas de sécheresse vaginale et à la différence des serviettes hygiéniques, il n’y a pas de développement d’odeurs car le sang menstruel n’entre pas en contact avec de l’oxygène. Toutefois, les CM sont loin d’être aussi éprouvées que les serviettes hygiéniques et les tampons. Nous présentons ici aune complication à prendre au sérieux.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 29 ans a été amenée aux urgences par les services de secours en raison de douleurs aiguës dans le flanc droit. Les douleurs irradiaient dans l’aine droite, étaient d’intensité maximale (10 sur échelle visuelle analogique) et s’accompagnaient de nausées et d’accès de sueurs. En raison des douleurs persistantes dans le flanc avec des pics douloureux à type de colique, la patiente a été adressée au service des urgences avec une suspicion de calcul rénal. L’anamnèse a révélé que la patiente avait ses règles et qu’elle utilisait une CM pour collecter le sang menstruel. Aucune pathologie préexistante n’était connue.
+
+Statut et résultats
+
+A l’arrivée aux urgences, la patiente était dans un état général nettement réduit en raison de la douleur; elle était stable sur le plan hémodynamique et afébrile. L’examen clinique n’a pas révélé d’anomalie, l’abdomen était souple avec des bruits intestinaux normaux et sans douleur à la pression ou à la décompression; il n’y avait pas de douleurs pulsatiles au niveau des loges rénales. Les analyses sanguines ont montré des paramètres inflammatoires normaux et une créatinine de 57 μmol/. Dans l’urine, 0–4 leucocytes/champ et 5–10 érythrocytes/champ ont été mis en évidence.
+
+Face à une suspicion d’urolithiase, une échographie abdominale a été réalisée, montrant un pelvis rénal droit dilaté et un mince liseré hypoéchogène au niveau du pôle inférieur du rein droit. Nous avons interprété ce dernier comme un signe d’une possible rupture du fornix. Aucune concrétion n’a été visualisée. En complément, une tomodensitométrie abdominale native a été réalisée (fig. 1). Aucune concrétion n’a été détectée, mais la CM était anormalement basculée vers la droite dans le vagin.
+
+Figure 1: Topogramme de tomodensitométrie (native, coronale) montrant la coupe menstruelle en place.
+
+Pour visualiser l’écoulement rénal à droite, un produit de contraste a ensuite été administré. Le cliché (fig. 2) a révélé un uretère droit dilaté jusqu’à l’ostium. Le diagnostic d’obstruction urétérale ostiale droite causée par la CM a ainsi pu être posé.
+
+Figure 2: Radiographie abdominale avec produit de contraste, obstacle à l’écoulement dans l’ostium droit.
+
+Traitement et évolution
+
+Nous avons conseillé à la patiente de retirer immédiatement la CM et l’avons reconvoquée aux urgences le lendemain pour un contrôle de laboratoire et un contrôle échographique. A ce moment-là, la patiente était asymptomatique, avec une créatinine toujours normale de 74 μmol/l. L’échographie montrait encore une légère ectasie du système pyélocaliciel droit sans dilatation de l’uretère proximal; il n’y avait plus de congestion. Nous n’avons pas convenu d’examens de contrôle supplémentaires. Il a été recommandé à la patiente de ne plus utiliser de CM à l’avenir.
+
+Discussion
+
+Il se pose la question de savoir si l’obstacle à l’écoulement de l’urine a été provoqué par une mauvaise utilisation. Dans le mode d’emploi, les fabricants (par exemple Lunette) décrivent que la CM est en bonne position (fig. 3) lorsqu’elle est placée «près de l’entrée du vagin» et «nettement en-dessous du col de l’utérus». Il est stipulé que si la CM est insérée trop haut dans le vagin ou en cas d’anatomie correspondante, la CM peut se retrouver directement sur le col de l’utérus, ce qui peut causer des douleurs ou des fuites. D’autres dangers ou risques n’y sont pas mentionnés [1]. La durée d’utilisation recommandée d’au max. douze heures a été respectée par notre patiente.
+
+Figure 3: Position correcte d’une coupe menstruelle (by fabiform,https://commons.wikimedia.org/wiki/File/Menstrual_cup_inserted.png, published under the copyright license (CC BY-SA 3.0)https://creativecommons.org/licenses/by-sa/3.0/).
+
+Jusqu’à présent, il n’existe pas d’études ayant prouvé la sécurité des CM. Dans un «case report» publié en 2003, les auteurs ont postulé un lien entre l’utilisation de CM et la survenue d’endométriose [2], mais il n’existe pas d’études plus grandes avec un bon niveau de preuve à ce sujet. A ce jour, seul un cas de syndrome du choc toxique en lien avec l’utilisation d’une CM a été décrit [3].
+
+Dans une étude randomisée et contrôlée canadienne datant de 2011, la fréquence des infections urovaginales chez les utilisatrices de CM a été comparée à celle chez les utilisatrices de tampons. Il n’y avait pas de différence significative entre les deux groupes [4]. Un cas très similaire au nôtre d’obstacle à l’écoulement de l’urine causé par une CM a été publié en avril 2018 dans le International Journal of Surgery Case Reports [5]. Les deux descriptions de cas montrent que malgré une utilisation correcte, une colique néphrétique peut être ­déclenchée par l’utilisation d’une CM.
+
+L’essentiel pour la pratique
+
+En cas de douleurs abdominales ou de douleurs aux flancs d’origine indéterminée, il convient toujours de recueillir une anamnèse systémique approfondie, incluant également l’appareil uro-génital.

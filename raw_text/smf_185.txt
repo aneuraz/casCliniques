@@ -1,0 +1,59 @@
+Contexte
+
+Les thrombi de l’aorte descendante sont une cause rare mais dangereuse à la fois d’embolies viscérales et d’embolies périphériques. Machleder et al. [1] ont décrit une incidence de 0,45% (48 cas) sur 10 671 autopsies. Les thrombi de l’aorte descendante sont souvent découverts fortuitement ou dans le cadre d’occlusions vasculaires emboliques. Le traitement optimal reste sujet à controverse [2–5]. Des lignes directrices correspondantes font défaut.
+
+Présentation du cas
+Statut et anamnèse
+
+Un patient de 44 ans avec syndrome métabolique connu (diabète sucré de type 2, hypertension artérielle, dyslipidémie, anamnèse familiale positive d’athéro­sclérose) s’est présenté avec une ischémie critique chronique de la jambe droite liée à plusieurs anciennes ­occlusions emboliques (artère iliaque externe, artère fémorale profonde et artères crurales).
+
+Résultats
+
+Aucune fibrillation auriculaire n’a été mise en évidence à l’électrocardiogramme (ECG) Holter et aucune tumeur n’a été identifiée à la tomodensitométrie (TDM). Un thrombus dans l’aorte descendante mesurant 21 × 7 × 7 mm a néanmoins été détecté en tant que cause potentielle (fig. 1 A–C). L’échocardiographie transœsophagienne (ETO) a confirmé la présence d’un thrombus mobile, qui était la seule cause plausible des embolies périphériques. Un foramen ovale perméable ou un myxome auriculaire n’ont pas pu être mis en évidence.
+
+Figure 1: Angio-TDM thoracique initiale avec mise en évidence d’un thrombus intra-aortique de 21 x 7 x 7 mm. Le thrombus est situé 7 cm distalement par rapport à la naissance de l’artère subclavière gauche.A ) Vue axiale,B ) Vue sagittale,C ) Vue coronale.
+
+Traitement
+
+En raison des embolies périphériques récidivantes, nous avons posé l’indication d’une réparation endovasculaire de l’aorte thoracique (TEVAR) afin d’exclure le thrombus en le recouvrant d’une endoprothèse vasculaire. L’endoprothèse (Valiant Thoracic Captivia Stentgraft, Closed Web Straight, Medtronic Endurant®) a été mise en place via un abord chirurgical ouvert au niveau fémoral droit et déployée sous stimulation ventriculaire droite rapide. La TDM postopératoire n’a plus montré de thrombus intra-mural. Une anticoagulation orale (ACO) par Marcoumar® pour trois mois et une antiagrégation plaquettaire permanente par Aspirine® à la dose de 100 mg/j ont été mises en place.
+
+Deux analyses de la coagulation (tab. 1) réalisées cinq mois et neuf mois après la TEVAR ont montré une coagulation activée non spécifique avec des D-dimères élevés et un complexe thrombine-antithrombine (TAT) élevé. Il a été estimé que ces valeurs représentaient une situation à risque pour la survenue d’évènements thromboemboliques supplémentaires. Les tests de ­dépistage d’une thrombophilie et d’une vascularite étaient négatifs. Un processus paranéoplasique n’a pas pu être mis en évidence (antigène prostatique spécifique [PSA] en tant que marqueur tumoral et TDM). En raison de thrombi au sein de l’endoprothèse visibles à la TDM et de l’activation non spécifique de la coagulation, l’ACO par Marcoumar® a été reprise en plus du traitement par Aspirine®. Une valeur cible d’«international normalized ratio» (INR) de 2,5 (INR cible 2,0–3,0) a été visée.
+
+Tableau 1: Analyses d’hématologie-hémostaséologie réalisées.
+Bilan de thrombophilie	Mutation G20210A du facteur II, facteur V Leiden, D-dimères, complexe TAT, facteur VIII
+Analyse Von Willebrand	Antigène du FVW, activité du FVW
+Coagulation basale	Quick/INR, TCA, temps de thrombine, fibrinogène, facteurs II, V, VII et X (afin d’exclure un INR pseudo-thérapeutique)
+Syndrome des antiphospholipides	Anticorps anti-cardiolipine et anticorps anti-bêta-2-glycoprotéine-I de types IgG et IgM, lupus anticoagulant
+Homocystéinémie	Homocystéine à jeun
+Hémogramme	Hémoglobine, hématocrite, érythrocytes, indices, réticulocytes, leucocytes, numération différentielle, thrombocytes
+Maladie de Vaquez	Mutation JAK2
+Dépistage de la thrombopénie induite par l’héparine	ELISA GTI PF4, ID-HPF4 PaGIA
+TAT: complexe thrombine-antithrombine; FVW: facteur Von Willebrand; TCA: temps de céphaline ­activée.
+
+17 mois après la TEVAR, le patient s’est présenté avec une ischémie aiguë des deux jambes d’origine embolique, suite à quoi une embolectomie ouverte bilatérale a été réalisée. Un thrombus de 10 × 10 × 10 mm dans l’aorte descendante, au sein de l’endoprothèse, a été identifié comme cause, et ce malgré une ACO et une ­antiagrégation plaquettaire adéquates (fig. 2). Lors de l’examen de contrôle réalisé 19 mois après la TEVAR, le thrombus intra-aortique avait augmenté de volume (51 × 16 × 10 mm) malgré l’INR cible augmenté de 3,0–4,0 (fig. 3A–C), de sorte que l’indication d’une chirurgie ouverte a été posée. Lors de l’admission à l’hôpital, le patient a à nouveau présenté une embolie avec occlusion oligosymptomatique de la bifurcation aortique. En utilisant la machine cœur-poumons comme dérivation cardiaque gauche, l’aorte a été remplacée par une ­prothèse synthétique à partir de l’artère subclavière gauche jusqu’au milieu de l’aorte descendante via une thoracotomie gauche. L’anticoagulation s’est faite au moyen d’héparine non fractionnée. L’intensité de l’anticoagulation en intra-opératoire a été surveillée sur la base de l’ACT («activated clotting time»). Dès l’arrêt de l’utilisation de la machine cœur-poumons, l’héparine non fractionnée a été antagonisée par protamine. Par ailleurs, le fibrinogène a été corrigé par administration de plasma frais congelé et/ou de concentré de fibrinogène au besoin. Le lendemain, en l’absence de pouls pédieux, une thrombectomie bilatérale de la bifurcation aortique via abords fémoraux a été réalisée en raison de thrombi résiduels. Une thrombopénie induite par l’héparine a été exclue.
+
+Figure 2: Ordre chronologique des opérations (ovales rouges), avec valeurs d’INR respectives (valeur moyenne mensuelle: barres bleues). La TEVAR a été réalisée au temps T.
+
+Figure 3: Angio-TDM thoracique 19 mois après le recouvrement du thrombus avec une endoprothèse thoracique de 24 mm de diamètre et de 15 cm de longueur. Thrombose croissante au sein de l’endoprothèse thoracique.A ) Coupe axiale,B ) Coupe sagittale,C ) Coupe coronale.
+
+Evolution
+
+L’évolution ultérieure a été favorable, sans complications. Les TDM de contrôle réalisées jusqu’à cinq ans après le remplacement aortique par voie ouverte sont restées sans particularités. L’ACO par Marcoumar® (INR cible 3,0–4,0) et l’antiagrégation plaquettaire par Aspirine® sont poursuivies à vie.
+
+Discussion
+
+Les embolies causées par des thrombi dans l’aorte descendante peuvent être potentiellement fatales. Il y a un risque d’ischémie réno-viscérale ou périphérique. La prise en charge thérapeutique optimale des thrombi de l’aorte descendante n’est pas clairement déterminée. En cas de thrombus découvert fortuitement ou après une première embolie, il est tout à fait justifié d’adopter une attitude attentiste et d’instaurer une ACO optimale. Un contrôle radiologique est recom
+mandé après trois mois (de préférence par angio-TDM). Etant donné que notre patient avait déjà présenté plusieurs embolies périphériques et qu’il était en outre symptomatique, nous avons opté pour un traitement endovasculaire par TEVAR. La manœuvre en elle-même peut également provoquer une embolie. Au vu de la situation à risque du patient avec syndrome métabolique et embolies récidivantes, nous estimons rétrospectivement que notre décision thérapeutique était la bonne, bien qu’un traitement purement médicamenteux soit également mentionné par certains experts. Ainsi, des cas dans lesquels les thrombi se sont dissous sous ACO grâce à la fibrinolyse endogène ont été décrits [2, 6]. En cas d’embolies récidivantes, une prise en charge plus agressive doit être envisagée, faisant appel soit à la TEVAR [7, 8] soit à la thrombectomie ouverte [9]. Des procédés mini-invasifs ne sont actuellement pas disponibles. Dans deux exemples de cas [10, 11], le système mini-invasif AngioVAC a été utilisé en «off-label». Ce dispositif est pour l’instant uniquement autorisé pour le système vasculaire veineux. Avec ce dispositif, il est nécessaire de disposer d’une artère d’accès ayant un diamètre interne d’au minimum 8 mm; ainsi, dans un cas rapporté dans la littérature [10], l’artère subclavière gauche s’est disséquée et rompue, si bien qu’un «stent» couvert a dû être utilisé.
+
+Comme le montre notre exemple, après TEVAR également, des thrombi de volume croissant peuvent se former au sein de l’endoprothèse. Le traitement de cette complication reste toujours discuté de manière controversée dans la littérature. Les lignes directrices actuelles [3] préconisent de rechercher rapidement la source d’embolie y compris au moyen de l’ETO comme modalité d’imagerie de premier choix; la TDM et l’IRM fournissent des informations complémentaires. Dans le cadre de la recherche de la cause, il convient d’exclure des causes paranéoplasiques, cardiologiques, rhumatologiques, ainsi qu’hématologiques-hémostaséologiques. Le choix du traitement devrait si possible faire l’objet d’une concertation interdisciplinaire.
+
+Si la décision se porte sur une ACO, une réduction du thrombus devrait être documentée par un examen d’imagerie de contrôle. En cas de thrombi mobiles et de progression des thrombi, il convient d’opter pour une prise en charge plus agressive. Avec la TEVAR, il est possible de tenter de fixer le thrombus à la paroi aortique afin de prévenir une embolie supplémentaire. Seuls des examens d’imagerie de contrôle réguliers peuvent indiquer si cette méthode thérapeutique est fructueuse.
+
+L’essentiel pour la pratique
+
+• L’aorte thoracique doit être envisagée comme source d’embolie lorsque d’autres causes d’embolies périphériques et viscérales ont été exclues. L’angio-TDM et l’angio-IRM sont les modalités d’imagerie à privilégier.
+
+• Le type de traitement devrait faire l’objet d’une concertation interdisciplinaire et le traitement devrait être mis en œuvre dans un hôpital
+central.
+
+• Parmi les options thérapeutiques disponibles figurent l’anticoagulation orale, la thrombectomie ouverte et la fixation endovasculaire par endoprothèse (TEVAR). Des cas d’aspiration du thrombus ont été décrits chez des patients sélectionnés.

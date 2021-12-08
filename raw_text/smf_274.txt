@@ -1,0 +1,53 @@
+Fallbericht
+Anamnese
+
+Eine 30-jährige Patientin suchte die Sprechstunde wegen einer Schwellung an der linken Halsseite auf. Die Veränderung war ihr zwei Tage vor der Konsultation erstmals aufgefallen. Die betroffene Region juckte und schmerzte nicht, zudem bestanden weder Erkältungssymptome noch eine B-Symptomatik oder Leistungsminderung. Als einzige Medikation nahm die Patientin ein Antikonzeptivum ein. Allergien waren bei ihr nicht bekannt.
+
+Status und Befunde
+
+In der klinischen Untersuchung imponierte eine druckindolente, schlecht verschiebbare Raumforderung im linken Trigonum caroticum. Die Laboranalysen zeigten ein unauffälliges Blutbild und Entzündungsparameter im Normbereich. Sonographisch liess sich vor dem linken Musculus sternocleidomastoideus im Trigonum caroticum eine 28 × 9 × 6 mm grosse, scharf begrenzte Raumforderung nachweisen, vereinbar mit einem vergrösserten Lymphknoten (Abb. 1) [1].
+
+Abbildung 1: Vergrösserter Lymphknoten in der sonographischen Darstellung.
+Im Rahmen einer reaktiven Immunreaktion kommt es zu einer Aufhebung der Hilus-
+Parenychm-Grenze sowie zu einer keulenförmigen Auftreibung des Lymphknotens.
+
+Diagnose
+
+Zur weiterführenden Diagnostik erfolgte eine ultraschallgesteuerte Feinnadelpunktion (FNP). Die zytologische Beurteilung des entnommenen Materials ergab Lymphozyten mit vereinzelten plumpen, epitheloidzellartigen Granulomen (Abb. 2). Hinweise auf Non-Hodg­kin-Zellen, Karzinomzellen oder Nekrosen fanden sich nicht. Die Immunphänotypisierung mittels Durchflusszytometrie lieferte keine Anhaltspunkte für eine Leichtkettenrestriktion oder CD5-, CD10- oder CD23-positive Zellpopulationen. Aus einer im Rahmen der FNP entnommene sterilen Probe liessen sich keine Mykobakterien kultivieren. Die erhobenen zytomorphologischen Befunde waren hoch suggestiv für eine akute Toxoplasmose. Dieser Verdacht konnte serologisch bestätigt werden.
+
+Abbildung 2: Im Direktausstrich des Feinnadelpunktats sind zahlreiche Lymphozyten zu erkennen. Zentral im Bild das Fragment eines Lymphfollikels mit assoziierten kleinen Ansammlungen von plumpen Epithelioidzellen (Pfeile), einer Piringer-Kuchinka-Lymphadenitis in Rahmen der Toxoplasmose entsprechend (Papanikolaou-Färbung; 200-fache Vergrösserung).
+
+Krankheitsbild
+
+Die Toxoplasmose ist eine durch den Parasiten Toxoplasma gondii verursachte, ubiquitär vorkommende Zoonose. Die Seroprävalenz liegt je nach Land und Literatur zwischen 11 und 78% [2, 3]. Katzen sind die Endwirte der Toxoplasmen. Bei einer Erstinfektion können sie widerstandsfähige Zysten ausscheiden. Die sporulierten Zysten können im feuchten Erdreich bis zwei Jahre infektiös sein. Die Übertragung erfolgt meist durch Aufnahme von ungekochtem Fleisch von Zwischenwirten (Schweine, Schafe) oder kontaminierter Nahrung. Weniger häufig sind die transplazentare Übertragung oder die Parasitenübertragung bei Transplantationen. 90% der Infektionen beim Menschen verlaufen asymptomatisch. Selten kommt es zu einer meist zervikalen Lymphadenitis und einem grippeähnlichen Krankheitsbild. Schwere Krankheitsverläufe sind bei immunsupprimierten Patienten möglich. Sie sind meist Folge der Reaktivierung einer latenten Infektion. Am häufigsten entwickelt sich eine Enzephalitis. Es können aber diverse Organe betroffen sein [4, 5]. Eine Erstinfektion während der Schwangerschaft kann abhängig vom Schwangerschaftsstadium den Embryo schwer schädigen oder zum Abort führen.
+
+Therapie und Verlauf
+
+Bei der vorgestellten Patientin bestand keine Risikokonstellation. Insbesondere konnte eine Schwangerschaft ausgeschlossen werden. Eine Therapie war ­deshalb in ihrem Fall nicht nötig. Die Lymphadenopathie war im Verlauf klinisch und sonographisch ­regredient.
+
+Im Gegensatz dazu bedürfen immunsupprimierte Patienten einer Therapie, die grundsätzlich aus Sulfadiazin und Pyrimethamin besteht, kombiniert mit Folinsäure aufgrund der Myelotoxizität. Die Therapie während der Schwangerschaft richtet sich nach dem Gestationsalter [6].
+
+Diskussion
+
+Die häufigste Ursache einer Lymphadenopathie sind virale und bakterielle Infektionen. Einer umschriebenen Lymphadenopathie liegt häufig ein lokaler Infekt zugrunde. Bei generalisierter Lymphadenopathie müssen Autoimmunerkrankungen (z.B. rheumatoide Arthritis, systemischer Lupus erythomatodes), Neoplasien (z.B. Morbus Hodgkin, Non-Hodgkin-Lymphom, Metastasen) oder eine medikamentöse Ursache (z.B. Allopurinol, Carbamazepin, Cephalosporin) in Betracht gezogen werden [7].
+
+Beim aktuellen Stand der laborchemischen und immunhistochemischen Analysemöglichkeiten bedarf nicht jeder persistierend vergrösserte Lymphknoten einer chirurgischen Exzision (Tab. 1). Allgemein gilt, dass zervikale Lymphknoten, die länger als vier Wochen persistieren oder deren Durchmesser grösser als 1 cm ist, eine weiterführende Diagnostik benötigen [7, 8]. Eine B-Symptomatik oder eine ungeklärte Leistungsminderung kann jedoch eine frühere Diagnostik sinnvoll erscheinen lassen. In unserem Fall konnte nach zytologischer Auswertung der kostengünstigen und rasch verfügbaren FNP die Diagnose einer Toxoplasmose gestellt und zugleich ein Malignom ausgeschlossen werden, was serologisch nicht möglich wäre. Wir haben uns nicht auf die serologische Bestätigung beschränkt, um einen malignen Prozess nicht zu verpassen. Blutungskomplikationen oder Wundheilungsstörungen sind bei dieser minimalinvasiven Methode nicht zu befürchten. Positiv fällt auch ins Gewicht, dass vor der FNP keine Analgesie nötig ist. Die chirurgische Lymphknotenexzision in toto bleibt somit nur noch für Fälle reserviert, die einer spezifischen Gewebstypisierung bedürfen (Tumor-Subtypisierung) oder in denen bei einer FNP die Ursache der Vergrösserung unklar bleibt [7].
+
+Tabelle 1:Diagnostische Analysemöglichkeiten bei Feinnadelpunktion.
+Mikroskopie	Betrachtung von Zellen im Direktausstrich oder von Zellen aus Zellblöcken
+Immunzytochemie	Antigen-Antikörper-gestützte Zellanalysen von Zellen
+an den Direktausstrichen
+Immunhistochemie	Antigen-Antikörper-gestützte Zellanalysen von Zellen
+in den Zellblöcken
+Immunphänotypisierung	Nachweis und Sortierung von Zellsuspensionen anhand von Antigenen mittels Durchflusszytometrie (z.B. Einteilung von Lymphomen oder Leukämieformen)
+Mikrobiologie	Ansetzen von Erreger-Kulturen inkl. Resistenzprüfung
+Molekulargenetik	Zellanalysen auf DNA- und RNA-Ebene (z.B. FISH, PCR inkl. Klonalitäts-, Mutations- und Translokationsanalysen) sowie Erregernachweis
+Das Wichtigste für die Praxis
+
+• Nicht jeder persistierend vergrösserte Lymphknoten bedarf einer chirurgischen Exzision.
+
+• Zervikale Lymphknoten, die länger als 4 Wochen persistieren oder deren Durchmesser grösser als 1 cm ist, bedürfen einer weiterführenden Dia­gnostik. Bei Leistungsminderung oder B-Symptomatik kann eine frühere Diagnostik in Betracht gezogen werden.
+
+• Eine Feinnadelpunktion ist kostengünstig, schnell verfügbar und mit den heutigen laborchemischen und immunhistologischen Analysemöglichkeiten wegweisend für eine Verdachtsdiagnose, sodass eine Lymphknotenexzision häufig nicht notwendig ist.
+
+• Die Lymphknotenexzision in toto bleibt nur noch für Fälle reserviert, die einer spezifischen Gewebstypisierung bedürfen (Tumor-Subtypisierung) oder in denen bei einer Feinnadelpunktion die Ursache der Vergrösserung unklar bleibt.

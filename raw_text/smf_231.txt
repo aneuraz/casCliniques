@@ -1,0 +1,71 @@
+Contexte
+
+Les abcès à pyogènes du foie constituent un défi au quotidien clinique, car les symptômes sont non spé­cifiques et l’étiologie n’est pas toujours évidente. Afin de pouvoir assurer une prise en charge optimale des patients concernés, une coopération interdisciplinaire de qualité s’avère souvent indispensable. Au vu des résultats cliniques et du spectre des agents pathogènes (par exemple dans les cultures sanguines), un premier diagnostic de suspicion peut être établi et les examens correspondants initiés. Ce rapport de cas décrit de ­manière exemplaire le diagnostic, le traitement et, en définitive, une cause inhabituelle d’abcès du foie à ­pyogènes.
+
+Rapport de cas
+Anamnèse
+
+L’employé de banque âgé de 43 ans et jusqu’alors en bonne santé s’est présenté au service d’urgence avec des poussées de fièvre, des frissons, des vomissements non sanglants, une diarrhée aqueuse, des céphalées bifrontales et une toux non productive, qui duraient depuis trois jours. Le patient avait vécu à New York (Etats-Unis) jusqu’à deux ans auparavant et exerce ­désormais une activité professionnelle en Suisse. Le reste de l’anamnèse, y compris l’anamnèse du voyage et de l’environnement, était normal et il n’y avait pas eu de contact avec des animaux.
+
+Statut
+
+Le patient s’est présenté dans un état général réduit et un état nutritionnel adipeux, normotendu (pression artérielle 119/64 mm Hg) et tachycardique (fréquence cardiaque 117/min.). La fièvre (tympanique) s’élevait à 40,4 °C, la SpO2 à 96% en air ambiant, la fréquence respiratoire était tout juste normale (20/min). Le reste du statut interne n’a fourni aucun indice déterminant; au score qSOFA, le patient a rempli 0 des 3 critères.
+
+Résultats
+
+Les analyses de laboratoire ont révélé un taux nettement accru de protéine C réactive (236 mg/l, norme <5 mg/l) ainsi qu’un taux élevé de procalcitonine (62 ng/ml, norme <0,05 ng/ml) et une légère leucocytose (13 G/l, norme 3–10 G/l). Les valeurs fonctionnelles hépatiques et rénales étaient normales, l’INR légèrement accru avec une valeur de 1,3 (norme <1,2). Aucun infiltrat n’a été mis en évidence à la radiographie du thorax. A la ­tomodensitométrie (TDM) abdominale, une formation hypodense, ronde, non homogène et à centre liquide se démarquait au niveau du segment hépatique IVb en ­location sous-capsulaire. Les diagnostics différentiels d’imagerie invoqués alors ont inclus un abcès, une ­tumeur dont le centre se nécrose ou une métastase. Les cultures sanguines prélevées en série lors de l’admission ont mis en évidence la présence deStreptococcus anginosus (groupe milleri).
+
+Evaluation, traitement et évolution
+
+Initialement, un traitement antibiotique empirique par ceftriaxone a été débuté en raison d’un foyer d’infection non encore déterminé. En présence d’une forte suspicion d’abcès hépatique, le traitement antibiotique a été complété d’évolution par du métronidazole au cours de l’évolution. Après ponction et drainage de ­l’abcès, il a également été possible de cultiverStreptococcus anginosus ainsi que Parvimonas micra. La TDM de suivi réalisée au bout de quatre jours a révélé pour la première fois, à proximité directe de l’abcès de taille stable, un corps étranger radio-opaque de dimensions 39 × 2 mm (fig. 1). Par la suite, le patient a développé un choc septique et nécessité un traitement médical au service des soins intensifs de plusieurs jours.
+
+Figure 1: Représentation abdominale coronarienne au moyen de la tomodensitométrie. Le segment IVb présente un abcès de taille stationnaire depuis plusieurs jours (55 × 55 mm) avec contenu liquide. A proximité directe se trouve un corps étranger ­radio-opaque, initialement faussement interprété comme un vaisseau (enrichi de produit de contraste). Le corps étranger est également encapsulé par un kyste au contenu liquide. Aucune communication avec le duodénum (marqué par la sonde à proximité directe), par ex. sous forme d’une fistule, n’a pu être mise en évidence ni par imagerie, ni par duodénoscopie.
+
+Le patient étant intubé, l’anamnèse a été complétée à l’aide de sa femme qui a mentionné un penchant culinaire du patient: son époux aime manger des «chicken wings» (ailes de poulet), dont il croque souvent les os, de sorte que la synthèse des observations (anamnèse, microbiologie, TDM) a laissé suggérer un abcès hépatique associé à un corps étranger.
+
+Après 14 jours sous traitement antibiotique associé à un nouveau drainage de l’abcès, l’état critique du patient s’est amélioré. En raison de la persistance d’un corps étranger in situ, ce dernier a été retiré par laparoscopie (fig. 2). L’examen histopathologique a confirmé la présence de tissu osseux dévitalisé, correspondant le plus vraisemblablement à un os de poulet. La consultation de médecine vétérinaire n’a pas permis une classification anatomique précise, il s’agissait toutefois probablement de l’ulna d’un poulet domestique (Gallus gallus domesticus).
+
+Figure 2: Corps étranger de 39 mm de long, enlevé par laparoscopie, issu du segment hépatique IVb. L’examen pathologique a confirmé le soupçon de tissu osseux dévitalisé, correspondant le plus vraisemblablement à l’ulna d’un poulet(Gallus gallus domesticus).
+
+Après l’opération, l’état du patient s’est rapidement amélioré et il a pu quitter l’hôpital après au total 27 jours de traitement stationnaire. Suite à la survenue d’une résistance à l’ antibiotique, le traitement antibiotique administré a alors été remplacé par la clindamycine par voie orale, et achevé avec succès au bout de trois ­semaines. Lors d’un suivi un an plus tard, le patient ­demeurait exempt de symptômes.
+
+Discussion
+
+L’incidence des abcès hépatiques s’élève à env. 2–3 pour 100 000 habitants. Les hommes sont les principaux concernés (près de trois fois plus souvent que les femmes). Les facteurs de risque identifiés incluent de précédentes transplantations hépatiques, des cancers et le diabète sucré [1]. Dans 50% des cas, il s’agit d’un abcès solitaire, généralement du côté droit, présentant souvent une symptomatique non spécifique. L’amibiase extra-intestinale constitue un diagnostic différentiel essentiel. Celle-ci se distingue principalement par une symptomatique locale plus intense, qui inclut presque toujours des douleurs abdominales (tension de la capsule du foie) [2]. Les abcès hépatiques à pyogènes sont quant à eux plutôt associés à une symptomatique générale systémique et non spécifique [2].
+
+Au vu de la pathogenèse, les abcès du foie à pyogènes sont classés en abcès d’origine biliaire (angiocholite ou obstruction biliaire), abcès cryptogéniques, abcès dus à la diffusion hématogène via la veine porte ou l’artère hépatique, abcès «per continuitatem» (cholécystite, abcès sous-phrénique ou périrénal) et abcès traumatiques (pénétrants, fermés). La fréquence de ces mécanismes pathologiques décrits diminue dans l’ordre mentionné, les abcès traumatiques étant donc les plus rares. Une forme exceptionnelle d’abcès traumatique peut, comme dans le cas présent, être due au séjour d’un corps étranger dans le foie. La prévalence des germes les plus fréquents est indiquée dans le tableau 1.
+
+Tableau 1: Prévalence des agents pathogènes les plus fréquents chez les patients présentant un abcès hépatique associé à un corps étranger (modifié selon [3]).
+Agent pathogène	Prévalence*
+Streptococcus sp.	72%
+Escherichia coli	17%
+Klebsiella pneumoniae	11%
+Autres cocci Gram-positifs	 6%
+Autres agents pathogènes plus rares	65%
+* Environ 20–50% des abcès hépatiques sont d’origine polymicrobienne, la somme est donc >100%.
+
+Le traitement de base [3] repose sur le drainage de l’abcès (par voie endoscopique, percutanée ou chirurgicale) ainsi que sur un traitement antibiotique le plus ciblé possible en consultation avec un infectiologue. Le traitement antimicrobien initial sélectionné (généralement débuté par l’interniste) doit prendre en compte la situation locale de résistance (par exemple Centre Suisse de résistance aux antibiotiques, consultable sur www.anresis.ch), la pathogenèse suspectée ainsi que le spectre des germes attendus [4]. De manière générale, il convient de noter qu’environ 20–50% des abcès hépatiques sont d’origine polymicrobienne, des exemples d’un traitement antibiotique empirique à large spectre sont présentés dans le tableau 2 [4]. Pour le traitement antibiotique de longue durée et le plus ciblé possible (désescalade, passage à la voie orale, durée du traitement), nous recommandons clairement la collaboration avec un infectiologue. Normalement, le traitement antibiotique dure 4–6 semaines et le succès du traitement doit être contrôlé sur la base des résultats cliniques, des paramètres d’inflammation ainsi que éventuellement par des procédures d’imagerie de suivi. Le taux de guérison sans drainage d’abcès est estimé à environ 10%. C’est la raison pour laquelle le drainage doit toujours être considéré et effectué dans la mesure du possible [5].
+
+Tableau 2: Traitement antibiotique empirique d’un abcès hépatique.
+Exemple de régime thérapeutique	Commentaire
+1. Choix
+Amoxicilline/acide clavulanique 3 × 2,2 g/24 h iv + métronidazole 3 × 500 mg/24 h iv oder po ouceftriaxone 2 g/24 h iv et
+métronidazole 3 × 500 mg/24 h iv ou po	Effets contre les cocci Gram-positifs, les germes Gram-négatifs et les anaérobies. Métronidazole de manière empirique contre Entamoeba histolyticajusqu’à leur exclusion.
+En cas d’allergie à la pénicilline (selon le degré de sévérité de l’allergie, éventuellementconsultation d’un allergologue)
+Lévofloxacine 2 × 500 mg/24 h iv ou po et métronidazole 3 × 500 mg/24 h iv ou po ou carbapénèmeouceftriaxone 2 g/24 h iv etmétronidazole 3 × 500 mg/24 h iv ou po	 
+Après opérations abdominales (et éventuellement échec d’une antibiothérapie ­préalable [par ex. par amoxicilline/acide clavulanique] par voie orale)
+Pipéracilline/tazobactam 3 × 4,5 g/24 h iv oucéfépime 2 × 2 g/24 h et
+métronidazole 3 × 500 mg/24 h iv ou po	Tenir compte de la pathogenèse suspectée et du spectre des germes attendus
+Le traitement antimicrobien initial doit prendre en compte la situation locale de résistance. Après mise en évidence des agents pathogènes, il est conseillé de passer à un traitement ciblé (désescalade) en consultation avec un expert. La recommandation est valable pour la situation (épidémiologie) de la Suisse.
+
+Les abcès hépatiques associés à des corps étrangers décrits dans les ouvrages de référence sont principalement dus à des arêtes de poisson 44%), des cure-dents (29%), des os de poulet (8%), des aiguilles (7%), des fragments osseux non classables (5%), des stylos à bille (2%) et des fils (2%) [5]. Dans les cas documentés jusqu’à ce jour, il existe toutefois une communication avec le tractus gastro-intestinal, par exemple sous forme d’une fistule, de sorte qu’un diagnostic de même qu’une ré­cupération du corps étranger par endoscopie soient possible. Il est intéressant de noter qu’une telle fistule n’était pas observée chez le patient mentionné ci-dessus. Une duodénoscopie réalisée au service de soins intensifs a permis de confirmer que la muqueuse intestinale était absolument intacte. Nous estimons que, direc­tement à la suite de la perforation complète (et probablement traumatique) de la muqueuse intestinale, a eu lieu une phase durant laquelle la voie effective d’accès à travers la muqueuse intestinale a cicatrisée, n’étant ­désormais plus apparente.
+
+L’essentiel pour la pratique
+
+• Les abcès du foie à pyogènes présentent des caractéristiques cliniques non spécifiques, mais représentent un abcès viscéral fréquent.
+
+• Le traitement antimicrobien empirique doit prendre en compte le spectre des germes attendus au vu de la pathogenèse suspectée.
+
+• Lorsque des streptocoques du groupe milleri sont mis en évidence dans les cultures sanguines, il convient de rechercher activement des abcès abdominaux.
+
+• Le traitement repose sur le drainage (par voie endoscopique, percutanée ou chirurgicale) ainsi que sur un traitement antibiotique le plus ciblé possible.

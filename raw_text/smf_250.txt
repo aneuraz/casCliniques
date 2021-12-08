@@ -1,0 +1,107 @@
+Fallbericht
+Anamnese
+
+Auf der Notfallstation stellte sich ein 71-jähriger Pa­tient vor, der vom Hausarzt bei Status febrilis und generalisierten Petechien zur weiteren Abklärung zugewiesen wurde. Der Patient berichtete, dass er seit fünf Tagen intermittierend an Schüttelfrost mit Fieber bis maximal 40,2 °C leide, mit zunehmendem trockenem Husten und insgesamt zweimaligem Erbrechen. Er sei am Morgen des Vorstellungstages mit petechialen Hautveränderungen erwacht, weshalb er seinen Hausarzt aufgesucht habe, der ihn ins Spital eingewiesen habe. Die erweiterte Anamnese war bis auf einen Nikotinabusus von 50 Pack-years und einen gelegentlichen Alkoholkonsum unauffällig.
+
+Status und Befunde
+
+Bei Eintritt präsentierte sich der Patient in unauffälligem Ernährungs- und schlechtem Allgemeinzustand. Er war allseits orientiert, hypotherm (34,7 °C), tachy­pnoeisch mit einer Atemfrequenz von 26/min ohne Hinweise auf eine Hypoxie unter Raumluft (Sättigung von 92%), hypoton (Blutdruck 95/57 mm Hg) und tachy-arrhythmisch (Herzfrequenz 116/min). Das Hautkolorit war blass, die Peripherie warm, das Integument wies eine diffuse Purpura am Stamm und den Extremitäten mit zusätzlich beinbetonter Livedo racemosa und subkonjunktivalen Einblutungen auf (Abb. 1–3).
+
+Abbildung 1: Diffuse Purpura und Livedo racemosa im Bereich der unteren Extremitäten (Die Publikation erfolgt mit dem Einverständnis des Patienten).
+
+Abbildung 2: Livedo racemosa der unteren Extremität (Die Publikation erfolgt mit dem Einverständnis des Patienten).
+
+Abbildung 3: Subkonjunktivale Einblutungen (Die Publikation erfolgt mit dem Einverständnis des Patienten).
+
+Laborchemisch zeigte sich eine normwertige Leukozytenzahl von 6,2 × 109/l (Norm: 3,6–10,5 × 109/l) mit jedoch toxischen Veränderungen (Linksverschiebung von 23,9%, basophile Schlieren und Vakuolen). Zudem lag eine schwere Thrombozytopenie (Thrombozyten von 7 × 109/l, Norm: 150–370 × 109/l) vor.
+
+Im Chemogramm Nachweis eines Kreatininwerts von 301 umol/l (Norm: 59–104 umol/l, daraus resultierend errechnete GFR von 17,1 ml/min) sowie einer vorwiegend direkten Hyperbilirubinämie. Das C-reaktive Protein belief sich auf 490 mg/l (Norm: <5 mg/l). Der Pa­tient wies zudem einen spontanen INR-Wert von 1,12 bei einem Quick von 81% auf. Die partielle Thromboplastinzeit war mit 40,3 s (Norm: 27,0–35,0 s) verlängert bei einem Fibrinogen von 5,1 g/l (Norm: 1,5–4,0 g/l) und einem D-Dimer-Wert von 2,4 μg/ml (Norm: <0,5 μg/ml). Die arterielle Blutgasanalyse zeigte eine nicht kompensierte metabolische Azidose mit einem pH-Wert von 7,29, einem pCO2 von 3,3 kPa, einem negativen Base ­Excess von –13,1 mmol/l und einem erhöhten Laktatspiegel von 9,9 mmol/l (Norm: 0,5–1,6 mmol/l).
+
+Die weiteren laborchemischen (Urinstatus) wie auch radiologischen Untersuchungen (Röntgenthorax p.a. und lateral sowie native Thorax-Abdomen-Computertomographie) waren ohne wegweisenden Befund.
+
+Das EKG ergab ein tachykardes Vorhofflimmern, was neu zu den Voruntersuchungen des Hausarztes war, ohne Anhaltspunkte für eine frische kardiale Ischämie.
+
+Diagnostik, Therapie und Verlauf
+
+Bereits auf der Notfallstation wurde bei Verdacht auf eine Sepsis nach Abnahme von Blut- und Urinkulturen eine empirische Antibiotikatherapie mit Piperacillin/Tazobactam intravenös eingeleitet und der Patient auf die Intensivpflegestation verlegt.
+
+Dort zeigte sich ein fulminant instabiler Patient im Multiorganversagen mit respiratorischer Erschöpfung (Atemfrequenz von 40/min), Kreislaufinstabilität (Blutdruck 50/33 mm Hg) und progredienter, nicht kom­pensierbarer metabolischer Azidose. Der Patient wurde orotracheal intubiert, maschinell beatmet (ASV-Modus, PEEP 6 mbar, Psupp 12 mbar, FiO2 initial 0,9) und der Kreislauf mittels Volumen- und Vasoaktivaapplikation stabilisiert. Die antibiotische Therapie wurde um Clindamycin (bessere Wirkung bei hohem Bakterien­inokulum und Hemmung der Toxinsynthese) intravenös ergänzt und es wurde, im Rahmen des septischen Schocks, eine intravenöse Steroidtherapie eingeleitet [1]. Darunter konnte der Patient stabilisiert werden.
+
+Bei disseminierter intravasaler Gerinnungstörung (DIC) mit einem Score gemäss der «International Society on Thrombosis and Haemostasis» (ISTH) [2] von 4 Punkten (Tab. 1) wurden eine prophylaktische intravenöse Heparinisierung [3] eingeleitet und mehrfach Thrombozytenkonzentrate substituiert.
+
+Tabelle 1: ISTH Score («International Society on Thrombosis and Haemostasis»): Ein Score <5 Punkten deutet auf eine mögliche, sich entwickelnde disseminierte intravasale Gerinnung.
+ 	Resultat	Punkte
+Thrombozytenzahl	>100 000/μl	 
+50 000–100 000/μl	1
+<50 000/μl	2
+D-Dimere	Normal	 
+Leicht erhöht	1
+Stark erhöht	2
+Fibrinogenspiegel	>1 g/l	 
+<1 g/l	1
+Quick-Wert	70–100%	 
+50–70%	1
+<50%	2
+
+Bei oligurischem Nierenversagen und schwerer metabolischer Azidose erfolgte zudem eine Hämodialyse.
+
+Nach einmaliger Amiodarongabe konvertierte das initiale Vorhofflimmern in einen Sinusrhythmus, sodass es aetiologisch als Infekt-getriggert interpretiert wurde.
+
+In den Blutkulturen liessen sich wenige Stunden nach Abnahme gramnegative Stäbchen nachweisen, die ebenfalls im ersten Blutausstrich zu sehen waren. Die weitere Diagnostik mittels Matrix-unterstützter Laser-Desorptions-/Ionisationstechnik (MALDI) [4] ergab die rasche Identifikation von Capnocytophaga canimorsus, einem für die normale Mundflora von Hund und Katze typischen Bakterium. Bei der nachträglichen Ana­mnese mit der Ehefrau konnte eruiert werden, dass der Patient etwa eine Woche vor Spitaleintritt einen Hundebiss ­erlitten hatte. Ein Wundinfekt war nicht vorhanden, die Eintrittspforte liess sich bei den ausgedehnten Petechien nicht darstellen.
+
+Gemäss dem Antibiogramm konnte im Verlauf die Therapie resistenzgerecht auf Ceftriaxon i.v. umgestellt werden.
+
+Unter den eingeleiteten Massnahmen kam es zu einer Zustandsstabilisierung und kontinuierlichen klinischen und laborchemischen Besserung. Die Hämodialyse wurde nach sieben Tagen sistiert und die Vasoaktiva konnten progredient ausgeschlichen werden. Nach insgesamt neun Tagen wurde der Patient erfolgreich extubiert und am zehnten Hospitalisationstag auf die Normalstation verlegt.
+
+Diskussion
+
+Die Differentialdiagnose einer Purpura ist breit. Hierbei muss zwischen einer palpablen und nicht palpa­blen Form unterschieden werden [5, 6] (Tab. 2). Bei einem septischen Zustandsbild ist die am wichtigsten zu erkennende Form sicherlich die entzündlich vaskuläre Purpura mit Waterhouse-Friderichsen-Syndrom [7].Capnocytophaga-Spezies verursachen selten, jedoch schwere Infektionen. Die Inzidenz unter der Bevölkerung ist niedrig. Eine diesbezügliche Registerüber­wachung wird weder in der Schweiz noch in den USA durchgeführt. Niederländische Daten lassen ca. 0,67 Fälle/Million/Jahr vermuten. Hierbei sind mehr immunsupprimierte Patienten als Immunkompetente betroffen, wobei die Mortalität in beiden Pa­tientenkategorien als hoch zu werten ist [8].
+
+Tabelle 2: Differentialdiagnosen der Purpura.
+ 	Thrombozyten	PT	aPTT	Fibrinogen	Palpabilität
+Thrombozytopenie	Erniedrigt	Normal	Normal	Normal	–
+ITP	Erniedrigt	Normal	Normal	Normal	–
+TTP (Moschkowitz-Syndrom)	Erniedrigt	Normal	Normal	–	–
+Akute DIC	Erniedrigt	Verlängert	Verlängert	Erniedrigt	–
+Emboli
+(Cholesterin/Fett/septisch)	–	–	–	–	–/+ (septisch)
+Kutane Vaskulitis	–	–	–	–	+
+Vasckulopathie	Normal	Normal	Normal	Normal oder erhöht (akuter inflammatori-scher Prozess)	–
+Abkürzungen: PT = Prothrombinzeit, aPTT = aktivierte partielle Thromboplastinzeit, ITP = idiopathische/immunbedingte thrombozytopenische
+Purpura, TTP = Thrombotisch-thrombozytopenische Purpura, DIC = disseminierte intravasale Gerinnung
+
+Capnocytophaga gehören zur Gattung der Flavobacteriaceae. Sie sind langsam wachsende, stäbchenförmige, fusiforme, fakultativ anaerobe, gramnegative Bakterien. Unter der Capnocytophaga-Gattung finden sich neun Spezies, die in zwei Gruppen eingeteilt werden können: humane orale respektive zoonotische orale Mikroflora. Erstere finden sich bei Patienten mit hämatologischen Erkrankungen (z.B. Leukämien, Lymphome, multiples Myelom). Das Auftreten der Sepsis korreliert mit der Entwicklung einer therapieassoziierten Neutropenie, wobei orale Ulzerationen (Mukositis, Gingivahyperplasie, Ösophagitis, Parodontitis) mögliche Eintrittspforten darstellen, da die Spezies in den supragingivalen Plaques sowie den subgingivalen Sulci zu finden sind. Bei den zoonotischen Spezies werden mehr als 90% der Septikämien durch Capnocytophaga canimorsus verursacht, hierbei reichen bereits kleine Traumata als Eintrittspforte. Selbst der Kontakt mit Hundespeichel (z.B. Lecken einer Schürfwunde) kann schwerwiegende Infektionen verursachen [9–11].
+
+Capnocytophaga canimorsus ist der häufigste Erreger einer Capnocytophaga-Infektion bei Menschen. Diesbezügliche Risikofaktoren sind ein Hundebiss respektive eine Schürfverletzung, meistens in Kombination mit einer, wie oben erwähnten, Immunsuppression (z.B. Asplenie [auch funktionell], Leberzirrhose, Alkohol­abusus und Diabetes mellitus). Männer sind häufiger betroffen als Frauen (M/F-Ratio: 2,8–3,6 : 1), mit einer Altersverteilung zwischen 50–70 Jahren. Davon haben die meisten einen oder mehr Risikofaktoren. Ungefähr die Hälfte der Patienten (43–56%) weist einen Hundebiss beziehungsweise eine kleine, durch Hunde verursachte Hautverletzung auf [12].
+
+Die Pathogenese der Capnocytophaga-Spezies und deren Fähigkeit, fulminante Septikämien zu verursachen, ist nicht komplett geklärt.
+
+Die Bakterien sind in der Lage, ihre Zerstörung durch Makrophagen, die Phagozytose von polymorphnukleären Leukozyten sowie die «toll-like receptor 4»-vermittelte Apoptose zu verhindern. Weiter besitzen sie auf ihrer Oberfläche Polysaccharidstrukturen, die eine Komplement-vermittelte Zerstörung hemmen. Dadurch ist eine suffiziente Wirtsantwort stark erschwert. Die Flagellen ermöglichen dem Bakterium, sich im Gewebe in beschränktem Masse fortzubewegen, was es zum Eindringen in die Blutbahnen befähigt. Dies im Gegensatz zu den anderen Spezies (gingivalis, granulosa, haemolytica, ochracea, sputigena, cynodegmi, leadbetteri), die aufgrund der fehlenden Beweglichkeit typischerweise ausschliesslich zu lokalen Wundinfekten ohne Sepsis führen. Diese Charakteristika lassen vermuten, dass die Fähigkeit des Bakteriums, eine adäquate Immunantwort zu verhindern, eine zentrale Rolle in der Entwicklung des Schweregrades der Erkrankung spielt [13, 14].
+
+Das klinische Bild ist sehr variabel. Bei einer akuten ­Infektion kann es innert 1–30 Tagen (meist nach 5–6 Tagen) zur fulminanten Sepsis kommen mit Fieber, disseminierter Purpura, hypovolämen Schock, akuter Niereninsuffizienz und Vigilanzminderung. Die systemische Entzündungsreaktion führt zu mikrovaskulären Verletzungen und zu einem Endothelschaden, was eine DIC mit Multiorganversagen als Folge haben kann.
+
+Andere klinische Manifestationen können eine Pneumonie, Meningitis, Weichteilinfektionen, Endokarditis, septische Arthritis oder Cholezystitis sein [15].
+
+Die Diagnose einer Infektion mit Capnocytophaga canimorsus wird mittels Kultur gestellt. Die Bakterien wachsen langsam und deren Identifikation kann mehrere Tage beanspruchen. Die mikrobiologischen Laboratorien sollten bei Verdacht auf das Vorliegen einer solchen Infektion betreffend einer diesbezüglich prolongierten Inkubationszeit informiert werden.
+
+Das Wachstum von Capnocytophaga canimorsus erfolgt auf angereicherten Agarplatten und kann bis 14 Tage (Durchschnitt: ca. 6 Tage) Inkubationszeit beanspruchen. Geeignetere diagnostische Mittel sind zum Beispiel eine MALDI oder Sequenzierung der ribosomalen 16s RNA.
+
+Der direkte mikroskopische Nachweis von fusiformen, gramnegativen Bakterien im Zytoplasma von polymorphnukleären Leukozyten kann die Diagnose beschleunigen [16].
+
+Die empirische Antibiotikatherapie bei Capnocytophaga canimorsus richtet sich nach dem klinischen Bild (z.B. Haut-/Weichteilinfekt mit potentieller Mischinfektion) und sollte entweder aus einer Kombination von Betalaktam-Antibiotika und einem Betalaktamase-Inhibitor (z.B. Piperacillin/Tazobactam) oder einem Cephalosporin (z.B. Ceftriaxon, Cefepim oder Ceftazidim) oder einem Carbapenem (z.B. Imipenem-Cilastatin) bestehen. Nach Erregeridentifikation sollte die Antibiotikatherapie gemäss Antibiogramm deeskaliert respektive angepasst werden. Milde Verlaufsformen können peroral mit Clindamycin, Doxycyclin oder Fluorochinolonen behandelt werden.
+
+Die Mortalität liegt bei einer Infektion bei etwa 30% und betrifft auch immunkompetente Personen. Der Tod tritt meistens infolge des Multiorganversagens auf. Diese Differentialdiagnose sollte insbesondere bei immunsupprimierten Patienten mit einer Mukositis oder Parodontitis oder bei Patienten, die einen Hunde- respektive Katzenbiss erlitten haben, evaluiert werden. Die Therapiedauer richtet sich nach dem Schweregrad der Klinik und dem Ansprechen auf die Antibiotika [17].
+
+Die Sensibilisierung von Hochrisikopatienten scheint die effizienteste Präventionsmassnahme zu sein. Bei immunkompromittierten Patienten mit erhöhtem Risikoprofil kann eine präemptive Therapie mit Amoxicillin/Clavulansäure p.o. während 5 Tagen nach stattgehabtem Hundebiss durchgeführt werden [18].
+
+Das Wichtigste für die Praxis
+
+• Capnocytophaga species gehören zur Gattung der Flavobacteriaceae und sind langsam wachsende, stäbchenförmige, fusiforme, fakultativ anaerobe, gramnegative Bakterien.
+
+• Sie verursachen seltene, jedoch schwere Infektionen binnen 1–30 Tagen bis hin zur Sepsis mit Multiorganversagen. Diesbezügliche Risikofaktoren sind ein Hundebiss respektive Schürfverletzungen, meistens in Kombination mit einer Immunsuppression. In ca. 72–74% der Fälle sind Männer betroffen, mit einer Altersverteilung zwischen 50–70 Jahren.
+
+• Die Diagnose einer Infektion mit Capnocytophaga canimorsus wird mittels Kultur gestellt. Das Wachstum von Capnocytophaga canimorsus ist langsam, erfolgt auf angereicherten Agarplatten und kann bis zu 14 Tage Inkubationszeit beanspruchen. Geeignetere diagnostische Mittel sind z.B. eine MALDI oder Sequenzierung der ribosomalen 16 s RNA.
+
+• Die empirische Antibiotikatherapie bei Capnocytophaga canimorsus sollte entweder aus einer Kombination von Betalaktam-Antibiotika und einem Betalaktamase-Inhibitor oder einem Cephalosporin oder Carbapenem bestehen.
+
+• Bei Patienten mit erhöhtem Risikoprofil kann eine Antibiotikaprophylaxe mit Amoxicillin/Clavulansäure p.o. während 5 Tagen nach einem Hundebiss durchgeführt werden.

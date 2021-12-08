@@ -1,0 +1,67 @@
+Contexte
+
+L’asthme bronchique est l’une des maladies pulmonaires les plus fréquentes en Suisse, avec une prévalence de 7–8% [1]. Il se caractérise par des symptômes respiratoires typiques (dyspnée, toux, sibilances expiratoires, sensation d’oppression thoracique) et par une obstruction souvent variable des voies respiratoires, qui sont liés à une inflammation chronique de la muqueuse bronchique avec une hyperréactivité bronchique. Les exacerbations de l’asthme sont des épisodes de détérioration aiguë des symptômes respiratoires et de la fonction pulmonaire et elles peuvent être déclenchées par divers facteurs. Les exacerbations sévères et non traitées sont potentiellement fatales et requièrent une prise en charge médicale rapide [2].
+
+Présentation du cas
+Anamnèse
+
+Une ancienne fumeuse (10 paquets-années) âgée de 48 ans avec asthme bronchique connu et antécédents de pose d’un anneau gastrique dans un contexte d’obésité s’est présentée au service des urgences en raison d’une dyspnée aiguë et d’une toux ne s’améliorant pas avec l’inhalation de salbutamol à la demande. L’asthme était bien contrôlé depuis des années sous traitement d’inhalation par formotérol-budésonide. La dernière exploration fonctionnelle respiratoire, réalisée environ six mois avant l’évènement, était sans particularités (volume expiratoire maximal par seconde [VEMS] 2,65 l, 104% de la valeur théorique), sans mise en évidence d’un trouble ventilatoire obstructif. La mesure du monoxyde d’azote dans l’air exhalé (FeNO) s’élevait à 52 ppb. En outre, la patiente s’est plainte de lourdeurs d’estomac et de reflux après avoir copieusement mangé de la raclette la veille au soir. Elle a déclaré ne pas présenter de symptômes de reflux préexistants.
+
+Examen clinique
+
+La patiente dans un bon état général, avec un léger surpoids (indice de masse corporelle 31,6 kg/m2), était initialement tachydyspnéique, avec une utilisation des muscles respiratoires accessoires et une tachycardie concomitante. L’auscultation a révélé un bruit respiratoire obstructif prononcé avec sibilances expiratoires et ronchi au niveau de tous les champs pulmonaires.
+
+Résultats
+
+La gazométrie artérielle sous administration d’oxygène à 100% via un masque Venturi a montré une hypercapnie avec acidose respiratoire (pH 7,08, pression partielle d’oxygène [pO2] 162 mm Hg [21,6 kPa], pression partielle de dioxyde de carbone [pCO2] 58 mm Hg [7,7 kPa], excès de base –11,9 mmol/l). Au niveau des analyses de laboratoire, une leucocytose (22 G/l), avec une valeur normale de protéine C réactive (CRP <3 mg/l), a été constatée. La radiographie thoracique a révélé une dilatation massive de l’œsophage avec un niveau liquide (fig. 1A), sans infiltrat pulmonaire ni pneumothorax. La tomodensitométrie thoracique a confirmé les résultats radiologiques et a en outre permis d’exclure une embolie pulmonaire aiguë (fig. 1B et 1C).
+
+Figure 1: Radiographie thoracique (A ) et tomodensitométrie thoracique (B [coupe axiale] etC [coupe coronale]) avec dilatation massive de l’œsophage (*). Les auteurs remercient le Prof. Lukas Ebner, de l’Institut universitaire de radiologie diagnostique, interventionnelle et pédiatrique de l’Université de Berne, pour la mise à disposition des images.
+
+Diagnostic
+
+Le diagnostic de crise aiguë d’asthme a été posé.
+
+Traitement et évolution
+
+Malgré un traitement d’inhalation par salbutamol (via nébuliseur), une corticothérapie systémique (250 mg de méthylprednisolone par voie intraveineuse), l’administration d’adrénaline (0,5 mg par voie intraveineuse et 1 mg par voie inhalée) et une ventilation non invasive, la patiente a développé un épuisement respiratoire progressif et une agitation. Après une intubation endotrachéale immédiate et une ventilation invasive, la patiente a été transférée en unité de soins intensifs. Les corticostéroïdes inhalés et systémiques ont été poursuivis. Afin de soulager l’estomac et l’œsophage, l’anneau gastrique a été percé et vidé et une sonde gastrique a été posée. La gastroscopie a révélé la dilatation déjà connue avec un tableau d’œsophage de Barrett et un traitement par inhibiteur de la pompe à protons (IPP) à dose élevée (ésoméprazole 40 mg 2×/jour) a été initié.
+
+Avec le traitement initié, la situation respiratoire de la patiente s’est rapidement stabilisée et la patiente a déjà pu être extubée avec succès après quelques heures. La patiente a pu rentrer chez elle en l’espace de six jours. Par la suite, l’anneau gastrique a été retiré par voie laparoscopique et un bypass gastrique Roux-en-Y antécolique proximal selon Lönroth a été mis en place. Avec la poursuite du traitement d’inhalation, la patiente n’a plus été en proie à des exacerbations supplémentaires de l’asthme.
+
+Discussion
+
+Des exacerbations peuvent survenir en tant que première manifestation de l’asthme ou uniquement plus tard au cours de la maladie asthmatique. Elles sont responsables de la majorité des hospitalisations et décès liés à l’asthme. Une inflammation persistante de la muqueuse bronchique dans le cadre d’une activité persistante, éventuellement subclinique, de l’asthme et des exacerbations répétées conduisent à une diminution continue des valeurs fonctionnelles pulmonaires dynamiques, avec un risque d’obstruction fixe des voies respiratoires ne répondant pas ou répondant insuffisamment au traitement d’inhalation [2]. Il est dès lors essentiel d’identifier les patients présentant un risque accru d’exacerbations ou une exposition persistante à des facteurs déclenchants.
+
+Les déclencheurs fréquents d’exacerbations de l’asthme sont résumés dans le tableau 1 [3]. De nombreux déclencheurs peuvent être évités grâce à une éducation ciblée des patients. Les comorbidités entretenant l’asthme devraient être traitées de façon conséquente. Dans notre cas, la patiente ne présentait pas d’infection des voies respiratoires, de rhinosinusite ou de facteurs liés au traitement d’inhalation (mauvaise observance, technique d’inhalation incorrecte). Elle avait déjà arrêté de fumer. Sur le plan du diagnostic différentiel, certains aliments, comme par exemple le fromage, sont également des déclencheurs rares d’exacerbations de l’asthme bronchique. Les enzymes protéolytiques utilisées lors de la fabrication du fromage en sont responsables. Ainsi, seules les personnes travaillant dans la production fromagère sont concernées [4]. Une réaction IgE-médiée classique au fromage n’a pour l’instant pas été décrite dans la littérature en tant que facteur de provocation dans le cadre de l’asthme allergique. En particulier les fromages affinés peuvent contenir de grandes quantités d’histamine. Une toxicité aiguë suite à la consommation de ces aliments se caractérise par une tachycardie, un flush, des céphalées, un prurit, une urticaire et un bronchospasme [5]. Par ailleurs, la consommation de vin (apprécié avec la raclette) peut également déclencher une crise d’asthme dans de rares cas en raison des sulfites contenus dans le vin. Les symptômes sont toutefois auto-limitants ou répondent bien et rapidement aux bronchodilatateurs inhalés [6]. Chez notre patiente, il n’y avait pas d’indices évocateurs d’une allergie alimentaire ou d’une intoxication histaminique, si bien que nous partons du principe que l’exacerbation de l’asthme a été causée par un mécanisme multifactoriel non allergique.
+
+Tableau 1: Déclencheurs fréquents d’exacerbations de l’asthme.
+Facteurs environnementaux
+Infections des voies respiratoires virales
+Pollution atmosphérique
+Changement de saison/températures
+Exposition (passive) à la fumée
+Exposition à des allergènes
+Aéroallergènes (par ex. pollen, spores fongiques)
+Allergie alimentaire
+Facteurs liés au traitement
+Pas de corticostéroïdes inhalés
+Mauvaise observance du traitement
+Technique d’inhalation incorrecte
+Comorbidités
+Rhinosinusite chronique
+Reflux gastro-œsophagien symptomatique
+Grossesse
+Tabagisme
+
+La dysmotilité œsophagienne et l’achalasie avec dilatation de l’œsophage sont des complications à long terme connues mais sous-estimées après la pose d’un anneau gastrique [7]. Elles favorisent le reflux gastro-œsophagien. Le réflexe œsophago-trachéal vagal est déclenché par le biais des terminaisons nerveuses acido-sensibles dans la muqueuse œsophagienne, induisant une sécrétion de médiateurs neuro-inflammatoires dans le système bronchique. Ces derniers entraînent une bronchoconstriction et une hyperréactivité bronchique (accrue). En outre, une activation directe du réflexe au niveau du système bronchique par le biais de micro-aspirations récidivantes a été décrite [8]. La sensation d’oppression rétrosternale et les douleurs dues au reflux gastro-œsophagien augmentent la ventilation minute avec survenue d’une dyspnée. L’hyperventilation et l’hypocapnie consécutive peuvent également déclencher un bronchospasme (au sens d’une exacerbation) [9]. La dysmotilité œsophagienne est en outre accentuée par le tonus diminué du sphincter œsophagien inférieur en cas d’utilisation chronique de bêta-2-agonistes inhalés (par ex. formotérol) [10]. Par ailleurs, la compression extrinsèque des voies respiratoires centrales par la dilatation œsophagienne prononcée peut conduire à une prolifération des cellules musculaires lisses, avec bronchoconstriction supplémentaire [11]. Dans le cas présenté dans cet article, la dilatation de l’œsophage suite à une copieuse raclette avec achalasie induite par l’anneau gastrique a entraîné une augmentation à la fois des composantes irritantes chimiques (reflux) et mécaniques et a ainsi déclenché cette exacerbation inhabituelle de l’asthme. La récupération rapide après que l’estomac a été délesté et l’évolution à long terme réjouissante, sans survenue d’exacerbations supplémentaires après le retrait de l’anneau gastrique, le confirment.
+
+Un traitement par IPP est uniquement recommandé chez les patients asthmatiques présentant un reflux gastro-œsophagien symptomatique [2]. Il entraîne une augmentation légère, mais néanmoins significative, des valeurs de débit expiratoire de pointe matinales, sans influence sur d’autres paramètres fonctionnels respiratoires, sur la qualité de vie ou sur les exacerbations [12]. Chez les patients asymptomatiques, le traitement par IPP n’a pas d’influence sur les symptômes de l’asthme et la fréquence des exacerbations [13].
+
+L’essentiel pour la pratique
+
+• Les exacerbations sont responsables de la majorité des hospitalisations et décès liés à l’asthme.
+
+• Les expositions persistantes à des déclencheurs peuvent être responsables d’exacerbations de l’asthme.
+
+• Le reflux gastro-œsophagien symptomatique fait partie des déclencheurs fréquents de l’asthme.
+
+• En particulier en cas d’asthme difficile à traiter, des déclencheurs rares d’asthme doivent être recherchés. L’anamnèse détaillée et les comorbidités jouent un rôle central à cet égard.

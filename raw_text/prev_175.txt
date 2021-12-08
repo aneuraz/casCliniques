@@ -1,0 +1,15 @@
+Cas clinique
+Un homme de 87 ans est adressé au service des Urgences pour altération de l’état général, désorientation et confusion. Il déclare avoir vomi à plusieurs reprises dans la journée. Il est vu par l’Infirmière d’Accueil et d’Orientation qui note une température à 39°2 ainsi qu’une tachycardie (100/mn).
+Dans ses antécédents on retient un diabète de type 2, une BPCO, une insuffisance cardiaque, un infarctus du myocarde en 2010 ayant entrainé la pose d’un stent.
+Il est ensuite vu par l’interne de garde (1er semestre) qui prescrit un bilan sanguin et des hémocultures. Il pose le diagnostic d’une pyélonéphrite chez un patient poly pathologique et institue une bi-antibiothérapie injectable par betalactamine (céfotaxime 2g x3/j) associée à un aminoside (amikacine 2g x3/j soit environ 6 fois la dose conseillée dans ce contexte), la fonction rénale étant normale (MDRD 57ml/min - poids 70kg).
+L’interne présente ensuite le cas au senior des urgences qui valide oralement la prise en charge
+En l’absence de place disponible immédiatement dans le service de court séjour gériatrique, le patient reste 24h aux urgences où il reçoit les 3 doses de chaque antibiotique, par 3 IDE différents.
+Le lendemain, dans le service d’hospitalisation, le gériatre arrête immédiatement la prescription d’amikacine et demande un dosage plasmatique au laboratoire : 43.3mg/L (N<2.5mg/L). Quelques jours plus tard, la fonction rénale se dégrade et le patient décède après qu’il soit décidé de ne pas entreprendre d’épuration extra rénale.
+
+Au total,
+
+Erreur prescription médicamenteuse. Insuffisance rénale aigüe toxique. Décès.
+
+ 
+
+ 

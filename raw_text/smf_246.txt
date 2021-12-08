@@ -1,0 +1,85 @@
+Einleitung
+
+Ferien auf einem anderen Kontinent sind heute nicht mehr ungewöhnlich. Nicht selten können die Abenteurer nach der Rückkehr unter verschiedenen Reisekrankheiten leiden. Wir berichten über einen Dengue-Fall in Adelboden. Normalerweise ist in diesem alpinen Skiort die Ätiologie für Gliederschmerzen «wie wenn einem die Knochen gebrochen wären» eine ganz ­andere, als in unserem Fall. Wir zeigen exemplarisch die Bedeutung der Anamnese und einer gründlichen körperlichen Untersuchung zur Diagnosestellung von Krankheiten, die aus einem anderem epidemiolo­gischen Kontext stammen. Fieber gehört mit Diarrhoe und Dermatosen zu den drei häufigsten reiseassoziierten Krankheiten.
+
+Fallbericht
+Anamnese
+
+Die 24-jährige Patientin stellte sich bei uns in der Praxis vor mit seit circa zwei Tagen bestehendem Fieber bis 39 °C, begleitet von Schüttelfrost, starken Glieder- und Kopfschmerzen sowie Dyspnoe. Zudem wurde über eine Episode von nicht blutigem, dünnem Stuhlgang am Vortag berichtet. Zwei Wochen zuvor war die Pa­tientin nach einem dreiwöchigen Ferienaufenthalt in Thailand zurückgekehrt. Ansonsten waren keine weiteren Auslandsaufenthalte bekannt. Der Aufenthalt in Thailand verlief ohne Besonderheiten. Vor Moskito­stichen versuchte sie sich zu schützen (Schlafen unter einem Netz und Moskitospray), jedoch nicht konsequent. Von den mitgereisten Personen wäre niemand erkrankt. Sie hätte besonders auf die Händehygiene geachtet und nur gut gekochte Speisen zu sich genommen. Ein sexueller Kontakt wurde verneint. Die persönliche Anamnese beinhaltete keine Besonderheiten und die Familienanamnese war ebenfalls bland. Vor der Abreise war die Patientin gemäss Schweizer Impfempfehlungen geimpft worden. Eine Impfung gegen FSME oder die Japanische Enzephalitis war nicht vorgenommen worden.
+
+Status
+
+Die Blutdruckwerte und die Sauerstoffsättigung waren im Normbereich. Die Temperatur betrug 37 °C (letztes Paracetamol ca. zwei Stunden zuvor) und die Atem­frequenz 28/min. Kardiopulmonal präsentierte sich die sonst gesunde Patientin kompensiert. Die klinische Untersuchung des Abdomens zeigte keine Anomalien, insbesondere keine Organomegalie. Ebenfalls waren neurologisch keine Auffälligkeiten zu beobachten. Haut- und Mukosaläsionen waren keine zu finden, und es lag keine Lymphadenopathie vor. Die Patientin erschien jedoch in einem deutlich reduzierten Allgemeinzustand, mit eher gräulichem Hautkolorit.
+
+Diagnostik
+
+Die Laboruntersuchungen zeigten ein Hämoglobin von 168 g/l, einen Hämatokrit von 47%, eine Thrombozytenzahl von 363 G/l und das CRP betrug 7 mg/l. Die Leukozyten waren im Normbereich. Die Erythrozytenmorphologie war unauffällig. Eine Hepatopathie oder Niereninsuffizienz waren laborchemisch nicht nachweisbar. Radiologisch stellte sich eine normale Lunge dar. Eine Malaria wurde gesucht (leider wurde fälschlicherweise statt eines Blutausstriches eine Malaria-Serologie durchgeführt). Die PCR im Stuhl auf Salmonellen, Shigellen, Campylobacter und enterohämorrhagische E. coliwar negativ. Der HIV-Test fiel negativ aus. Es zeigte sich jedoch eine positive Dengue-IgM-Serologie und eine positive, aber noch niedrige, IgG-Serologie (ELISA).
+
+Verlauf
+
+Das Fieber behandelten wir symptomatisch mit Paracetamol. Nach Erhalt der positiven Dengue-Serologien stellten wir die Diagnose eines Dengue-Fiebers. Wir beobachteten keine Alarmsymptome [1] wie Abdominalschmerzen, Hepatomegalie, persistierendes Erbrechen oder Mukosablutungen. Laborchemisch zeigten sich keine gravierenden Veränderungen; insbesondere ­lagen der Hämatokrit und die Thrombozytenzahl im Normbereich. Da sich der Allgemeinzustand der Patientin in den Folgetagen deutlich besserte, verzichteten wir auf eine weitere Blutentnahme (zur Verlaufskontrolle von Hämatokrit, Thrombozyten, Leukozyten und Transaminasen) und auf eine Hospitalisation. Da der Kontakt zur Patientin danach nicht weitergeführt wurde, bestand keine Möglichkeit zur Dengue-Verlaufsserologie.
+
+Es handelt sich bei unserem Fall somit um einen milden Verlauf eines Dengue-Fiebers ohne Warnzeichen (Tab. 1).
+
+Tabelle 1: Vorgeschlagene Klassifizierung und Schweregrad-Einteilung für Dengue.
+Diagnosekriterien ± Red Flags
+Wahrscheinliches Dengue	Aufenthalt in Risikogebiet, Fieber und 2 der folgenden Kriterien:
+– Nausea, Vomitus
+– Ausschlag
+– Arthralgien
+– Leukopenie
+– 1 oder mehr Red Flags
+Serologischer Nachweis	Mit IgG- und IgM-Titerbestimmung oder
+Antigen-/Antikörperschnelltest
+(wichtig, wenn keine Hinweise auf Flüssigkeitsverlust in den dritten Raum).
+Red Flags*	Abdominelle Schmerzen/Druckdolenz
+Persistierendes Erbrechen
+Schleimhautblutungen
+Unruhe oder Lethargie
+Hepatomegalie
+Progrediente Thrombopenie und gleichzeitige Zunahme des Hämatokrits
+Kriterien für schweres Dengue
+Flüssigkeitsverlust in den ­dritten Raum	Schock
+Lungenödem
+Schwere Blutungen	Einschätzung durch Kliniker
+Schwere Organbeteiligung	Leber: ASAT/ALAT ≥1000 U/I
+ZNS: Bewusstseinsminderung
+Weitere Organe
+* Benötigen engmaschige Beobachtung und ggf. Intervention.
+Diskussion
+
+Das Dengue-Virus gehört zur Familie der Flaviviren (wie z.B. die Erreger der FSME, des Gelbfiebers, Zika, der Japanischen Enzephalitis oder des West-Nil-Fiebers), wobei vier Dengue-Serotypen (DEN 1–4) unterschieden werden. Der Vektor des Virus sind die Aedes-Mücken (Aedes aegyptiund in geringerem Ausmass auch Aedes albopticus), welche vorwiegend während des Tages ­stechen. Moskitonetze über dem Bett sind daher wenig effizient.
+
+Das Dengue-Fieber tritt in urbanen und feuchtwarmen Regionen innerhalb der 10-Grad-Januar- und -Juli-Isothermenlinien auf [1]. Der Mensch ist der einzige Wirt des Dengue-Virus, andere Tierreservoire sind nicht bekannt. Die Inkubationszeit beträgt 3–14 Tage [2], 80% aller Infektionen verlaufen asymptomatisch. Das Risiko, sich bei einem 7-tägigen Ferienaufenthalt in Thailand mit dem Dengue-Fieber zu infizieren, liegt bei 0,2%, in 15 Tagen bei 0,46% und in 30 Tagen bei 0,81% [6]. Eine Infektion mit einem Serotyp führt zu einer ­lebenslangen serospezifischen Immunität [1]. Ein Neuinfekt mit einem anderen Serotyp ist jedoch möglich und ist assoziiert mit einem höheren Risiko für eine schwerere Verlaufsform, wie z.B. hämorrhagisches Dengue-Fieber oder Dengue-Schock-Syndrom. Hierbei ist eine erhöhte Permeabilität der Kapillaren, wahrscheinlich in Folge einer überschiessenden Immun­antwort, die Grundursache der Symptome [1].
+
+Typische anfängliche Symptome eines Dengue-Fiebers sind starke Glieder- und Muskelschmerzen (früher auch «Knochenbrecher-Krankheit» genannt), Kopfschmerzen sowie ein generalisiertes makulöses, konfluierendes Exanthem, Petechien und gelegentlich Dysästhesien. Gemäss der neueren klinischen WHO- Klassifizierung wird eine klinisch manifeste Dengue-Infektion in zwei Kategorien eingeteilt (Tab. 1): Dengue-Infektion (zusätzlich unterteilt in Vorhandensein oder Nichtvorhandensein von Warnzeichen) und schwere Dengue-Infektion. Diese Einteilung definiert das therapeutische Konzept. Währenddem eine Dengue-Infektion ohne Warnzeichen ambulant behandelt werden kann, sollten Dengue-Infektionen mit Warnzeichen und schwere Dengue-Infektionen zu gezielter Volumenersatztherapie und intensiviertem Monitoring stationär aufgenommen werden.
+
+In den letzten Jahrzehnten ist eine deutliche Zunahme der gemeldeten Dengue-Fieber-Fälle zu verzeichnen, wobei die Ausbreitung in tropischen und subtropischen Gebieten am markantesten ist [3]. Das Dengue-Fieber ist heute in über 100 Ländern zu finden, 40% der Weltbevölkerung leben in einem Gebiet mit einem Dengue-Übertragungsrisiko [1, 3]. Waren es in den 1960-iger Jahren noch 20 000 Fälle pro Jahr, verzeichnete die WHO im Jahr 2015 3,2 Millionen gemeldete Fälle [3], wobei die Schätzungen von bis zu 390 Mio. tatsächlichen jährlichen Fällen ausgehen. Von diesen ­gehen 500 000 in ein hämorrhagisches Dengue-Fieber über, welches bei guter medizinischer Versorgung in <1% tödlich endet. In ländlichen Gebieten endemischer südostasiatischer Länder beträgt die Mortalität aber 3–5%. Ebenfalls wichtig ist die Erkenntnis, dass neben den Fallzahlen auch die geographische Ausbreitung zugenommen hat. Dazu tragen verschiede Faktoren bei wie Waldrodung, Urbanisierung, internationale Transporte (wobei Aedes-Mückeneier und -larven mittransportiert werden), Klimaerwärmung und Bevöl­kerungswachstum [1]. Auch bei Reisenden hat die Dengue-Infektion zugenommen. Retrospektive Studien haben Dengue als Ursache von Fieber bei 2%–16,5% der Tropenrückkehrer identifiziert, wobei vor allem Rückkehrer aus Südostasien betroffen waren [4].
+
+Das Vorhandensein von Aedes albopticusim Tessin ist schon lange dokumentiert, und eine Neuinfektion mit dem Dengue-Fieber in der Schweiz ist theoretisch möglich, wurde jedoch noch nie dokumentiert.
+
+Allerdings sind seit 2010 in den Sommermonaten immer wieder autochthone Dengue-Fälle in Europa aufgetreten, so zum Beispiel in Frankreich, Kroatien und Madeira.
+
+In der Schweiz ist eine Zunahme der importierten Dengue-Fieber-Fälle zu verzeichnen (Abb. 1 und 2), jedoch sind die Zahlen mit Vorsicht zu geniessen, da nicht jeder Reiserückkehrer mit Fieber auf Dengue untersucht wird und somit eine wahrscheinlich grössere Dunkelziffer vorliegen dürfte. Laut BAG wurden in den letzten drei Jahren schweizweit jährlich zwischen 150 und 200 Dengue-Fälle gemeldet; davon wurden von 2010–2014 im Durchschnitt 24% der erkrankten Personen im Spital vorstellig, und bei 5% kam es zu hämorrhagischen Zeichen [3]. Die meisten Dengue-Fieber-Fälle sind anhand eines einmalig erhöhten Dengue-IgG- und/oder -IgM-Titers diagnostiziert worden, so wie in unserem Fall. Bei der Dengue-Serologie können allerdings Kreuzreaktionen mit anderen Flaviviren auftreten und ein falsch positives Ergebnis zur Folge haben. In unserem Fall war die Patientin weder gegen Gelbfieber, Japanische Enzephalitis noch FSME geimpft. Hingegen wäre prinzipiell eine Kreuzreaktion mit natürlich erworbener FSME oder dem West-Nil-Virus möglich. Für eine ­Japanische-Enzephalitis-Infektion gab es klinisch keine Hinweise. Eine Zika-Virus-Serologie wurde in Anbetracht der Zika-Epidemie in Südamerika nachträglich von den Autoren veranlasst, das Blut war zu diesem Zeitpunkt allerdings bereits entsorgt worden. Wie erwähnt, konnte die Patientin für eine Verlaufsserologie nicht mehr erreicht werden. Die Tatsache, dass das IgG bereits positiv war, lässt darauf schliessen, dass die Patientin schon etwas länger als die angegebenen zwei Tage leicht symptomatisch war und sich erst bei Verstärkung der Beschwerden vorstellte. Der diagnostische Goldstandard ist nach wie vor eine PCR (80–90% Sensitivität und 95% Spezifität) [1] in den ersten 5 Tagen. Ein Schnelltest mit kombiniertem Nachweis eines Dengue-Oberflächen-Antigens (NS1-Antigen) sowie -IgM und -IgG hat in den letzten Jahren die Diagnostik stark vereinfacht und die Zeit bis zum Erhalt des Resultates auf wenige Minuten reduziert (sofern der Test als «bed-side test» verfügbar ist). Das NS1-Antigen ist hoch spezifisch für Dengue und im Blut parallel zur Virämie 1 bis 5 (max. 9) Tage nach Fieberbeginn nachweisbar. Die kombinierte Sensitivität dieses Antigen-/Antikörper-Testes wird auf 85–99% geschätzt [4].
+
+Abbildung 1: Dengue-Fieber-Fälle und -Melderate 1988–2014. (Quelle: BAG-Bulletin. 2015;34:639. © BAG, Nachdruck mit freundlicher Genehmigung.)
+
+Abbildung 2: Altersverteilung der Fälle, 2010–2014. (Quelle: BAG-Bulletin. 2015;34:639. © BAG, Nachdruck mit freundlicher Genehmigung.)
+
+Eine Dengue-Impfung (Dengvaxia®) ist in einigen ­Ländern in Lateinamerika und Südostasien erhältlich. Sie soll aber nicht für Personen eingesetzt werden, die noch nie eine Dengue-Infektion durchgemacht haben und seronegativ für Dengue sind, weil die Impfung dieser Personen mit einem erhöhten Risiko für schwere Verläufe und Hospitalisationen assoziiert ist [5].
+
+Bei unserer Patientin bestand auf Grund der initialen Symptome eine breite Differentialdiagnose wie zum Beispiel eine febrile Gastroenteritis, eine respiratorische Erkrankung neben einer Malaria oder einer anderen Mücken-übertragenen Erkrankung. Es ist zu unterstreichen, dass bei V.a. Malaria die Diagnostik mittels mikroskopischem Erregernachweis (allenfalls Schnelltest) erfolgen muss.
+
+Das Wichtigste für die Praxis
+
+• Bei Reiserückkehrern aus subtropischen und tropischen Gebieten mit Fieber neben der Malaria immer auch an das Dengue-Fieber denken.
+
+• Typische Symptome sind Fieber, starke Gliederschmerzen («Knochenbrecher»), Kopfschmerzen, flächige, konfluierende Exantheme.
+
+• Alarmsymptome, die zu einer Hospitalisation führen sollten, sind: Abdominalschmerzen, Hepatomegalie, persistierendes Erbrechen, Zeichen von Flüssigkeitsverschiebung (Ödeme, Pleuraerguss), Mukosablutungen/Petechien, Lethargie, Ruhelosigkeit oder laborchemisch gravierende Veränderungen wie Leukopenie, rascher Anstieg des Hämatokrits mit zeitgleicher Thrombozytopenie, Niereninsuffizienz oder erhöhte Leberwerte.
+
+• Die Therapie erfolgt symptomatisch mit Paracetamol und Flüssigkeitssubstitution.
+
+• Nichtsteroidale Antirheumatika oder Azetylsalizylsäure-Derivate als ­Antipyretika sind kontraindiziert.
+
+• Die RT-PCR ist der diagnostische Goldstandard zu Beginn der Symptome, im Allgemeinen gilt nun allerdings der Antigen-/Antikörperschnelltest als diagnostischer Standard der ersten Wahl. IgG- und IgM-Titerbestimmungen können durch Kreuzreaktionen mit anderen Flaviviren-Gattungen oder deren Impfungen (FSME, Japanische Enzephalitis, Gelbfieber, Zika, West-Nil-Virus) falsch positiv sein.

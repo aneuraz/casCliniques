@@ -1,0 +1,167 @@
+Présentation du cas
+
+Une patiente de 54 ans, à haut risque cardiovasculaire et connue pour une bronchopneumopathie chronique obstructive (BPCO), consulte pour une dyspnée en péjoration de stade NYHA IV et des douleurs rétro-sternales (DRS) typiques. Status: sans particularité. Une élévation significative des troponines (cTn) (782 ng/l, seuil: 14 ng/l), des créatine-kinases (CK) (1997 U/l, seuil: 25–140 U/l) et des CK-MB (MB = «muscle-brain type»; 167 U/l, seuil: supérieurs à 6% des CK totaux) sont retrouvés avec à l’électrocardiogramme (ECG), des ondes T aplaties dans les dérivations antérieures et à l’échocardiographie transthoracique, une fraction d’éjection du ventricule gauche (FEVG) normale sans dyskinésies. La coronarographie montre une lésion critique de l’artère interventriculaire antérieure gauche traitée par angioplastie avec implantation d’un stent actif. Le diagnostic d’infarctus du myocarde sans élévation du segment ST (NSTEMI) est retenu et la patiente rentre à domicile sous aspirine®, clopidogrel et atorvastatine.
+
+Deux mois plus tard, elle reconsulte pour une dyspnée avec DRS atypiques. Le status, incluant les paramètres vitaux est dans la norme. Nous retrouvons une élévation des biomarqueurs cardiaques (cTn à T0 884 ng/l et à T6 661 ng/l, CK 118 U/l et CK-MB 163 U/l). L’ECG est normal.
+
+Question 1: Quel examen est le moins pertinent à ce stade?
+
+
+a) Répéter le dosage des cTn
+
+b) Echocardiographie transthoracique
+
+c) Imagerie par résonance magnétique (IRM) cardiaque
+
+d) Tomographie par émission de positons (PET)-CT cardiaque
+
+e) Coronarographie
+
+Vue l’élévation significative des cTn (cinétique positive) à deux reprises [1], il n’est pas nécessaire de répéter leur dosage. L’examen de choix à réaliser est une coronarographie.
+
+L’échocardiographie, l’IRM et le PET-CT cardiaque (indications, avantages et inconvénients résumés dans le tableau 1) ont tous un rôle majeur dans le diagnostic des pathologies cardiaques, mais ne permettent pas de les traiter.
+
+Tableau 1: Examens cardiaques: indications, avantages, inconvénients.
+Indications	Echocardiographie	IRM cardiaque	PET-CT cardiaque	CT coronarien/CT	Coronarographie
+Maladie coronarienne	+/ (++ de stress)	++	++	++/	+++
+Valvulopathie	++	+	 	 	–
+Cardiomyopathie
+hypertrophique	++	+++	++	 	–
+Syndrome de Takotsubo	+++	+++	 	 	++
+Myocardite	+	+++	 	 	++
+Cardiomyopathie
+infiltrative	++	+++	+++	 	–
+Avantages	– Non invasif / au lit du patient / coût moindre / rapide– Evaluation de la viabilité du myocarde avec l’échocardiographie de stress (pharmacologique ou physique)– Evaluation des valves et de la pression pulmonaire	– Evaluation de la viabilité du myocarde – Images anatomiques de haute résolution et données sur le flux– Quantifie les volumes du ventricule droit et la fraction d’éjection– Pas de radiations	– Etude plus courte et doses de radiations plus faibles que dans les imageries nucléaires habituelles– Mesure le flux myo­cardique absolu– Peut être combiné avec le score calcique, prédisant le risque cardiovasculaire	– Visualisation des vaisseaux et des lésions athéro­sclérotiques en détails	– Diagnostic définitif et traitement de la maladie coronarienne– Permet la visualisation d’une anatomie cardiaque complexe et certaines in­terventions per-cutanées.– Possible mesure de la «fractional flow reserve» (FFR), (mesure hémo­dynamique invasive de la réserve coronaire)
+Inconvénients	– Limitations de la qualité des images selon anatomie du patient– Opérateur dépendant	– Claustrophobie– Contre-indications: Certains «pace­makers» ou autres matériels implantés; gadolinium dans ­l’insuffisance rénale– Recommandé d’être en rythme sinusal, plutôt lent pour ­l’obtention d’images de qualités– Accès et expérience limités	– Disponibilité– Plus cher que les autres modalités– Utilisation d’un stress pharmacologique ­uniquement– Radiations	– Nécessite un CT à haute résolution (64 barrettes)– Pas d’images détaillées de l’anatomie des vaisseaux distaux– Radiations et produit de contraste	– Invasif– Risques comportant : accès vasculaire, produit de contraste (insuffisance rénale, allergies)– Radiations– Ne permet pas une bonne visualisation de l’anatomie en 3D)
+
+Chez cette patiente, après avoir exclu une embolie pulmonaire par un scanner thoracique injecté et, devant la persistance de cTn élevées, une pathologie cardiaque non coronarienne est recherchée. Echocardiographie, IRM et PET-CT cardiaque reviennent normaux.
+
+Le reste du laboratoire (formule sanguine simple, créatinine, électrolytes, tests hépatiques complets, bilan ferrique, dosage de la protéine C réactive, vitesse de sédimentation des érythrocytes,) est dans la norme, hormis une légère augmentation de l’aspartate amino-trans­férase (ASAT) et de la lactate-déshydrogénase (LDH).
+
+Question 2: Une élévation persistante des cTn n’est pas associée avec lequel des diagnostics ci-dessous?
+
+
+a) Hypercholestérolémie sévère (HCT)
+
+b) Syndrome de Takotsubo
+
+c) Insuffisance rénale chronique (IRC)
+
+d) Accident vasculaire cérébral (AVC)
+
+e) Hypothyroidie
+
+En dehors d’un infarctus, les cTn peuvent être élevées dans de nombreuses pathologies (tab. 2) [2]. L’hypercholestérolémie seule, n’en fait pas partie, contrairement au diabète, même sans maladie coronarienne.
+
+Tableau 2: Situations hors infarctus responsables d’une élévation de cTn.
+Conditions cardiaques	Conditions extra-cardiaques
+Insuffisance cardiaque	Embolie pulmonaire, hypertension pulmonaire
+Tachyarythmies ou bradyarythmies soutenues	Dissection aortique
+Crise hypertensive	Sepsis, infection, choc, hypotension
+Myocardite	Insuffisance rénale chronique
+Syndrome de Takotsubo	Anémie sévère
+Vasospasme coronarien	Insuffisance respiratoire
+Cardiomyopathies (hypertrophiques, valvulaires)	Accident vasculaire cérébral, hémorragie sous arachnoïdienne
+Pathologies infiltratives (amyloïdose, sarcoïdose, etc.)	Diabète
+Maladie coronarienne stable	Exercice très intense
+Dissection ou embolie coronarienne	Chimiothérapie (anthracyclines); venin de serpent
+Procédures cardiaques (coronarographie, biopsie, pontage, ­cardioversion, etc.)	Myopathies, rhabdomyolyse
+Choc de défibrillateur	Hypothyroïdie
+Contusion cardiaque	Haute prise de biotine (faux positifs en lien avec le test)
+
+Le syndrome de Takotsubo doit être évoqué lors d’anomalies franches de l’ECG (typiquement sus-décalages ST étendus dans les précordiales et latérales et/ou ondes T négatives par la suite très marquées et QT prolongé en phase aigüe) avec une élévation plutôt modérée des cTn. L’échocardiographie retrouve des dyskinésies (apicale chez 82% des cas) ne pouvant être attribuées uniquement au territoire d’une artère coronaire.
+
+Lors d’IRC, les cTn sont fréquemment détectées au-dessus du seuil de référence. En réponse au stress induit par l’inflammation, les lésions endothéliales et l’altération de l’hémodynamique, favorisés par les comorbidités (hypertension arterielle, diabète, maladie coronarienne), l’activation du système rénine-angiotensine, la perturbation du bilan phosphocalcique et aussi probablement sur toxicité directe de l’urée, les myocytes cardiaques vont relarguer des cTn.
+
+Dans les AVC aigus, ischémiques ou hémorragiques, une élévation modérée de cTn peut être retrouvée (jusqu’à 27%), en lien avec une stimulation du système nerveux autonome par l’hypothalamus et augmentation de catécholamines circulantes.
+
+Finalement, l’hypothyroïdie peut être associée dans une moindre mesure à une élévation des cTn, en lien notamment avec une augmentation de la perméabilité capillaire, extravasation de protéines dans l’interstice (myxoedème) et lésions musculaires, notamment cardiaques.
+
+A la reprise de l’anamnèse, la patiente admet de légères douleurs et une faiblesse musculaire progressive sur les derniers mois, nécessitant l’utilisation d’un déambulateur par moment, nous laissant suspecter une myopathie.
+
+Question 3: En cas de myopathie, quel examen permettrait au mieux de discriminer une atteinte musculaire squelettique pure d’une atteinte musculaire cardiaque?
+
+
+a) CK
+
+b) CK-MB
+
+c) cTnT troponines T de première génération
+
+d) hs cTnT, troponines T ultra-sensibles
+
+e) hs cTnI, troponines I ultra-sensibles
+
+Le dosage des CK et des CK-MB est moins sensible que celui des troponines. Pour rappel, le complexe-troponines est formé de trois sous-unités: la troponine T (cTnT), la troponine I (cTnI) et la troponine C. Les troponines cardiaques sont des protéines régulatrices qui contrôlent l’interaction médiée par le calcium entre l’actine et la myosine. Seules les cTnT et les cTnI ont des isoformes cardiaques spécifiques.
+
+Contrairement aux tests de cTnT de première génération, la spécificité de l’anticorps de détection envers le muscle cardiaque pour les générations suivantes de troponines T, notamment les hs cTnT, a été augmenté dans le but d’abolir la réactivité croisée entre la troponine T du muscle cardiaque et squelettique. La Société Européenne de Cardiologie (2018) recommande le dosage des troponines cardiaques ultrasensibles (hs cTnI ou hs cTnT).
+
+Toutefois, plusieurs études retrouvent, chez des patients avec myopathies, une élévation de la hs cTnT (par la détection d’une isoforme fœtale de cTnT qui serait exprimée par le muscle squelettique malade, enflammé et en régénération), mais pas de la hs cTnI, suggérant le fait d’une plus haute spécificité de la hs cTnI pour le muscle cardiaque [3–4]. Ainsi, une élévation des hs cTnT sans élévation des hs cTnI parlerait en faveur d’une atteinte du muscle squelettique et non cardiaque.
+
+Au Centre hospitalier universitaire vaudois (CHUV) et donc chez cette patiente, c’est le dosage de la hs cTnT qui est utilisé. Dans ce contexte, nous dosons la hs cTnI chez notre patiente qui revient négative, suggérant une myosite, sans atteinte cardiaque associée.
+
+Question 4: Pour avancer dans votre diagnostic, quel examen est le plus indiqué?
+
+
+a) Répéter le dosage des CK
+
+b) Recherche d’auto-anticorps (AAC) spécifiques pour le dépistage des myosites ou myopathies inflammatoires (MI)
+
+c) IRM musculaire
+
+d) Electroneuromyographie (ENMG)
+
+e) Biopsie musculaire
+
+Le suivi des CK permet d’évaluer l’activité de la maladie et la réponse au traitement, mais pas de préciser l’étiologie [5]. Dans 50 à 60% des cas de MI, on retrouve la présence d’AAC (les principaux: Jo1, PL7, PL12, SRP, Mi2, Ku, PMScl, Scl70, anti-HMGCR) permettant en fonction de leur spécificité et en sus de la clinique de poser un diagnostic et choisir un traitement approprié. Leur absence n’écarte pas ce diagnostic. L’IRM permet d’étudier l’aspect du muscle, d’identifier des sites de biopsie à plus haut potentiel diagnostic et d’étudier le diagnostic différentiel d’une MI. L’ENMG peut exclure une pathologie neurologique et démontrer la présence de MI sans en préciser l’étiologie exacte. La biopsie musculaire est le «gold standard», permettant de distinguer différentes formes de MI.
+
+Chez notre patiente, le dosage du panel d’anticorps spécifiques des MI revient négatif. L’ENMG retrouve de petits potentiels polyphasiques de faible amplitude et de coutes durée; des potentiels de fibrillation au repos; et des décharges de fréquence élevées et bizarres, triade caractéristique compatible avec une MI. La biopsie du muscle biceps brachial démontre une myosite sévère avec la présence d’un infiltrat inflammatoire endomysial et périnécrotique (lymphocytes CD8+ et macrophages), avec envahissement du myofibrille et expression diffuse de HLA de classe I.
+
+Question 5: Quel est votre diagnostic?
+
+
+a) Myopathie endocrinienne
+
+b) Dermatomyosite
+
+c) Myosite de chevauchement
+
+d) Myosite à inclusion
+
+e) Polymyosite
+
+Le diagnostic différentiel des myopathies est présenté dans le tableau 3. Dans notre cas, nous sommes face à une myopathie inflammatoire, une origine infectieuse, toxique ou métabolique (hypothyroïdie ou hyperthyroïdie notamment) ayant raisonnablement été exclues par les examens préalables.
+
+Tableau 3: Etiologies et diagnostic différentiel de myopathies.
+Myopathie infectieuse	 
+Virale	Influenza, parainfluenza, coxsackie, VIH, EBV, CMV,
+adénovirus…
+Bactérienne	Staphylocoque, Streptocoque, Legionella pneumophila, Borrelia burgorferi,…
+Parasitaire	Toxoplasma gondii, Toxocara canis, cysticercose
+(Taenia solium), trichinellose (Trichines)
+Myopathie médicamenteuse ou toxique	Statines, anti-malariques, colchicine, ciclosporine A…, OH, cocaïne, héroïne
+Myopathie endocrine	Hypothyroïdie, hyperthyroïdie, hypercorticisme
+Myopathie inflammatoire	Polymyosite et myosites de chevauchement, dermatomyosite, myosite à corps d’inclusion, myopathies nécrosantes immuno-médiées, myosite dans le cadre d’une vasculite
+Myopathie métabolique et mitochondriale	 
+Dystrophie musculaire et myopathie congénitale	 
+
+Ici, l’absence de manifestations cutanées, ainsi que la présence marquée de lymphocytes T à la biopsie, rend peu probable le diagnostic d’une dermatomyosite dans laquelle on retrouve habituellement une capillarite avec ischémie musculaire plutôt qu’une agression directe des myocytes. L’absence d’autres atteintes (pneumopathie interstitielle, atteinte cutanée notamment) et d’AAC rendent peu probable une myosite de chevauchement, comme par exemple le syndrome des anticorps anti-synthétase. Il n’y a pas d’arguments histologiques en faveur d’une myopathie à corps d’inclusion, caractérisée comme son nom l’indique par des corps à inclusion, constituées de vacuoles bordées avec dépôts amyloïdes et tubulofilaments (visibles en microscopie électronique).
+
+Nous diagnostiquons chez cette patiente une polymyosite, responsable de l’élévation des CK, CK-mb et hs cTnT, sans évidence d’atteinte cardiaque (hs cTnI et examens cardiaques négatifs). Un traitement de prednisone orale est débuté avec une bonne évolution clinique et biologique (valeurs normalisées par la suite).
+
+Discussion
+
+La polymyosite représente 10–20% des MI chez l’adulte. Elle est caractérisée par une faiblesse musculaire symétrique proximale (ceintures scapulaire, pelvienne et les muscles axiaux), d’installation progressive en quelques semaines ou mois.
+
+Son diagnostic repose en outre sur l’élévation des CK (jusqu’à plus de 50 fois leur valeur normale), l’absence d’atteinte cutanée de type rash héliotrope, des signes de myosite à l’ENMG et/ou à l’IRM et une histologie caractéristique (ci-dessus). Physiopathologiquement, il s’agit d’une cytotoxicité directe des lymphocytes T CD8+ autoréactifs dirigés contre les fibres musculaires.
+
+Le traitement repose initialement essentiellement sur la prednisone (initialement 1 mg/kg/jour), dont l’utilisation seule, apporterait de l’ordre de 80% de réponses partielles et seulement de 10 à 33% de réponses complètes. En cas de cortico-résistance ou dépendance, on associe la prednisone avec un immunosuppresseur, principalement le méthotrexate s/c. Les immunoglobulines intraveineuses sont réservées aux cas sévères ne répondant pas au traitement conventionnel. Elles peuvent avoir un effet spectaculaire, mais qui s’estompe à quelques semaines. En parallèle, le maintien d’une activité physique modérée améliorerait les symptômes.
+
+Chez 10–15% des patients nouvellement diagnostiqués d’une polymyosite (25% pour la dermatomyosite) un cancer est trouvé dans les cinq ans.
+
+L’évolution est marquée par de fréquentes rechutes (dans les deux à cinq ans de 33 à 80%) et une survie de 75 à 94 % à cinq ans.
+
+Réponses:
+
+
+Question 1: a. Question 2: a. Question 3: e. Question 4: e. ­Question 5: e.

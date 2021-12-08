@@ -1,0 +1,74 @@
+Contexte
+
+Nous rapportons le cas d’une patiente de 65 ans atteinte d’une hypertension artérielle pulmonaire idiopathique (HTAPi) vasoréactive connue depuis de nombreuses années, qui a été victime d’une dissection aiguë de l’artère pulmonaire. Cette dernière a entraîné une compression des artères coronaires, qui a donné lieu à un infarctus du myocarde étendu et à un choc cardiogénique. Malgré un remplacement prothétique de l’artère pulmonaire réalisé en urgence, la patiente a par la suite été victime d’une défaillance multiviscérale et elle est décédée. La dissection de l’artère pulmonaire est une complication rare mais souvent fatale chez les patients atteints d’HTAPi.
+
+Présentation du cas
+Anamnèse
+
+Il y a trente ans, une HTAPi a été diagnostiquée pour la première fois chez la patiente. L’angiographie pulmonaire avait déjà à l’époque révélé une forte dilatation du tronc pulmonaire. Une hypertension pulmonaire thromboembolique chronique avait pu être exclue à l’angiographie. En raison de l’absence d’options thérapeutiques à l’époque, aucun traitement spécifique n’avait été initié.
+
+En 2005, la patiente avait été vue pour la première fois à la consultation spécialisée d’hypertension pulmonaire. Le cathétérisme cardiaque droit avait confirmé la présence d’une hypertension pulmonaire précapillaire sévère (pression artérielle pulmonaire moyenne (PAPm) 55 mm Hg [norme <25 mm Hg], pression ­artérielle pulmonaire d'occlusion 6 mm Hg [norme ≤15 mm Hg], ­index cardiaque 2,9 l/min/m2[norme 2,4–4 l/min/m2], résistance vasculaire pulmonaire [RVP] 12 unités Wood [norme <3 UW]). Les critères de vasoréactivité étant remplis, le diagnostic d’HTAPi vasoréactive a été posé et un traitement par antagonistes calciques a été initié. En raison d’œdèmes des membres inférieurs qui incommodaient fortement la patiente, le traitement par antagonistes calciques n’a pas pu être augmenté de façon adéquate. En outre, la dyspnée d’effort persistante a dès lors été traitée par un antagoniste des récepteurs de l’endothéline (bosentan) à partir de 2012. Avec ce traitement, les symptômes se sont stabilisés (NYHA II), la patiente était largement asymptomatique au quotidien et elle atteignait une distance de marche normale de 632 mètres au test de marche de 6 minutes, avec une légère désaturation de 88% à l’effort et uniquement une légère élévation du NT-pro-BNP (395 ng/l).
+
+La dernière échocardiographie réalisée en 2017 (fig. 1) a montré une dilatation persistante considérable du tronc pulmonaire avec un diamètre de 6,4 cm, qui était documentée comme étant stable depuis au moins 2013, ainsi qu’une dilatation ventriculaire droite avec fonction systolique globale du ventricule droit préservée.
+
+Figure 1: Echocardiographie transthoracique datant de 2017, coupe parasternale petit axe centrée sur la valve aortique (milieu de l’image). Le tronc pulmonaire (à droite) est nettement dilaté (>6 cm).
+
+Statut et résultats
+
+Suite à une infection grippale des voies respiratoires supérieures, la patiente s’est présentée au service des urgences au début de l’année 2018 avec une dyspnée aiguë et des douleurs thoraciques. En raison d’un diag­nostic clinique et radiologique d’œdème pulmonaire et d’une détérioration respiratoire et hémodynamique rapidement progressive, la patiente a dû être intubée. L’électrocardiogramme a révélé des sus-décalages du segment ST en dérivation aVR et des sous-décalages diffus du segment ST en tant qu’indicateurs d’une ischémie globale (fig. 2).
+
+Figure 2: Electrocardiogramme lors de l’admission au service des urgences. Rythme sinusal avec sous-décalages diffus du segment ST et sus-décalage du segment ST en dérivation aVR.
+
+La tomodensitométrie a montré une dissection du tronc pulmonaire jusque dans l’artère pulmonaire droite avec compression de l’artère interventriculaire antérieure proximale de grand calibre et de l’artère circonflexe proximale, qui émergeaient toutes deux de l’aorte par des ostia séparés (fig. 3, 4 et 5).
+
+Figure 3: Angio-tomodensitométrie pulmonaire avec produit de contraste: acquisition axiale fine «maximum intensity ­projection» (MIP) avec représentation de la dilatation massive du tronc pulmonaire et des artères pulmonaires, ainsi que de la membrane de dissection.
+
+Figure 4: Angio-tomodensitométrie pulmonaire avec produit de contraste: représentation 3D de l’anévrisme et de la ­dissection par «cinematic rendering».
+
+Figure 5: Angio-tomodensitométrie pulmonaire avec produit de contraste: acquisition coronale fine «maximum intensity projection» (MIP) avec représentation de la compression de l’artère interventriculaire antérieure moyenne de grand calibre (flèche) par l’anévrisme et dissection du tronc pulmonaire.
+
+Traitement et évolution
+
+La patiente a immédiatement été opérée en urgence. L’intervention a consisté en une résection du tronc pulmonaire et de l’artère pulmonaire droite avec préservation de la valve et en un remplacement par une prothèse en T en Dacron de 28 mm. L’examen histologique a confirmé la présence d’une dissection au niveau du tiers externe de la media avec formation d’une fausse lumière (fig. 6).
+
+Figure 6: Dissection de l’artère pulmonaire: fissure et irruption de sang dans la paroi vasculaire musculaire au sein du tiers externe de la media. Faible fibrose de l’adventice (coloration: hématoxyline et éosine, grossissement: 500 μm).
+
+En postopératoire, la patiente a présenté un choc cardiogénique et distributif combiné, avec un besoin accru en agents inotropes et en vasopresseurs. En raison d’une détérioration hémodynamique supplémentaire, une «extracorporeal membrane oxygenation» veino-artérielle périphérique (ECMO-VAP) a dû être mise en place. Par la suite, la patiente a développé une hémoptysie sévère ainsi qu’une insuffisance rénale et une défaillance multiviscérale, dont elle est décédée 12 jours plus tard.
+
+L’autopsie a révélé un infarctus du myocarde subaigu étendu avec atteinte de la paroi antérieure et latérale gauche, du septum, de l’ensemble des muscles papillaires, ainsi que de l’apex du cœur (au minimum 30% du myocarde) (fig. 7). Etant donné que les artères coronaires ne présentaient au demeurant pas de sténoses, ce résultat était bien compatible avec la compression évoquée ci-dessus de l’artère interventriculaire antérieure proximale et de l’artère circonflexe causée par la dissection. En outre, l’autopsie a montré un système bronchique gauche totalement obstrué par un caillot sanguin sans source hémorragique détectable microscopiquement et macroscopiquement. La prothèse était correctement suturée, sans fuite, raison pour laquelle une hémorragie diffuse dans le cadre de l’héparinisation complète et de la thrombopénie sous ECMO-VAP a été postulée. L’examen histologique des poumons a montré une vasculopathie non spécifique discrète avec des septa interlobulaires proéminents et une artérialisation de veinules, de même qu’une sclérose artérielle pulmonaire minime. L’hypertension artérielle pulmonaire (HTAP) vasoréactive est un sous-groupe rare d’HTAPi, qui réagit très bien au traitement par antagonistes calciques. L’histologie de l’HTAP vasoréactive n’a pas été décrite dans la littérature.
+
+Figure 7: Coupe 4 cavités du cœur avec importante irruption de sang dans le muscle papillaire antérieur et myocarde sombre au niveau de la paroi antérieure et du septum (l’examen histologique a montré un infarctus du myocarde subaigu à cet endroit). ­Fixation suffisante d’une prothèse de l’artère pulmonaire anastomosée par suture.
+
+Discussion
+
+La dissection aiguë de l’artère pulmonaire est une complication rare et le plus souvent fatale chez les patients atteints d’hypertension pulmonaire. La majorité des dissections sont uniquement constatées en post-mortem et elles sont avant tout diagnostiquées chez les patients avec anévrismes de l’artère pulmonaire [1]. La plupart de ces patients présentent une malformation cardiaque congénitale non corrigée avec hypertension pulmonaire secondaire. L’HTAPi, comme chez notre patiente, est une cause rare de dissection, qui n’a que rarement été décrite dans la littérature [1–3].
+
+Des dissections de l’artère pulmonaire sans hypertension pulmonaire ont été décrites dans le cadre de troubles du tissu conjonctif ou d’altérations vasculitiques locales, par ex. chez des patients souffrant de la maladie de Behcet, du syndrome de Marfan ou de syphilis. Ces cas de figure sont toutefois globalement rares [4].
+
+Conformément à la loi de Laplace, une dissection survient à l’endroit où la tension pariétale est la plus élevée. La dégénérescence des fibres élastiques de l’artère pulmonaire entraîne une fragilité de la paroi artérielle, qui à son tour prédispose à des fissures de l’intima [5]. On ne sait pas si une élévation transitoire de la pression pulmonaire causée par un effort ou une toux dans le cadre d’une infection respiratoire peut être un «déclencheur» d’une dissection de l’artère pulmonaire [1].
+
+Les symptômes d’une dissection de l’artère pulmonaire ne sont pas spécifiques; une dyspnée aiguë et/ou des douleurs thoraciques sont le plus souvent décrites [5]. Ce diagnostic différentiel et les investigations diag­nostiques correspondantes devraient être envisagés chez tous les patients avec hypertension pulmonaire et dilatation des artères pulmonaires.
+
+Au moyen de l’échocardiographie, il est possible d’identifier un «dissection flap» en cas de fenêtre acoustique satisfaisante; en cas de résultat incertain, la tomodensitométrie représente l’examen de choix. Le pronostic de la dissection aiguë de l’artère pulmonaire est très mauvais, et la plupart des patients décèdent d’un choc cardiogénique suite à une tamponnade péricardique ou à un infarctus du myocarde, d’une hémorragie pulmonaire incontrôlable ou d’une défaillance multiviscérale.
+
+Dans des cas isolés, la dissection de l’artère pulmonaire a pu être réparée chirurgicalement [3]. Dans un cas, une transplantation cœur-poumons a été réalisée en urgence [6]. Très peu de patients avec HTAPi parviennent à être traités avec succès de manière conservatrice [5, 7]. La compression des artères coronaires, comme chez notre patiente, est une complication connue et le plus souvent aussi fatale.
+
+Des anévrismes des artères pulmonaires sont fréquemment décrits chez les patients avec HTAPi. Dans une cohorte de 60 patients de Corée du Sud avec HTAPi, une dilatation du tronc pulmonaire de plus de 4 cm a été détectée chez 20% des patients. Chez un tiers de ces patients, des complications mécaniques consécutives à la dilatation du tronc pulmonaire ont été constatées: compression du tronc commun gauche, compression des voies aériennes, thrombose du tronc pulmonaire, ou compression du nerf récurrent. Cela explique la survenue de symptômes, tels qu’angine, enrouement ou asthme [8]. Certains patients avec HTAPi et compression du tronc commun dans le cadre d’un anévrisme de l’artère pulmonaire de plus de 4 cm ont profité d’une revascularisation percutanée [9]. Dans une étude conduite chez des patients avec malformations cardiaques congénitales, 5,5% des patients présentaient un anévrisme de l’artère pulmonaire de plus de 4 cm avec des complications mécaniques similaires [10].
+
+Chez les patients avec HTAPi, le traitement médicamenteux occupe l’avant-plan, mais il n’existe pas de lignes directrices ou de recommandations relatives au traitement prophylactique d’un anévrisme de l’artère pulmonaire. A notre connaissance, seul un cas dans lequel un patient avec HTAPi vasoréactive a été opéré d’un anévrisme de l’artère pulmonaire malgré une normalisation hémodynamique a été décrit dans la littérature. L’anévrisme mesurait 9 cm et avait conduit à une compression externe de l’artère coronaire gauche et à une insuffisance pulmonaire sévère [11]. Des patients avec HTAPi réfractaire au traitement et volumineux anévrisme de l’artère pulmonaire ont bénéficié d’une transplantation pulmonaire [12], ce qui représente le traitement ultime de l’HTAPi.
+
+Davantage de données sont disponibles concernant le traitement des patients avec malformations cardiaques congénitales et anévrismes de l’artère pulmonaire associés. Dans une revue de la Mayo Clinic (Etats-Unis), 51 patients au total ont été opérés entre 1977 et 2002. Sur la base de ce travail, les auteurs recommandent un traitement chirurgical en cas d’anévrismes de plus de 6 cm de diamètre ou en cas d’anévrismes symptomatiques et de dysfonction ventriculaire droite [13, 14]. Les inter­ventions endovasculaires avec embolisation par coils peuvent également être envisagées, avant tout chez les patients avec risque péri-opératoire élevé [15].
+
+Comme ce fut le cas chez notre patiente, le traitement spécifique de l’hypertension pulmonaire, dépendant de la réponse au traitement et de la taille de l’anévrisme, ne suffit parfois pas pour prévenir cette complication rare. Malgré sa maladie, notre patiente n’a présenté que peu de limitations dans sa vie quotidienne durant des décennies et jusqu’à sa mort, elle a conservé une très bonne qualité de vie et une très bonne tolérance à l’effort.
+
+L’essentiel pour la pratique
+
+• La dissection aiguë de l’artère pulmonaire est une complication rare mais très souvent fatale chez les patients avec anévrismes de l’artère pulmonaire.
+
+• Les anévrismes de l’artère pulmonaire surviennent surtout chez les patients avec malformations cardiaques congénitales et chez ceux avec hypertension artérielle pulmonaire idiopathique (HTAPi).
+
+• Le diagnostic différentiel de dissection de l’artère pulmonaire devrait être envisagé chez tous les patients présentant une hypertension pulmonaire et une dyspnée aiguë, avec douleurs thoraciques ou instabilité hémodynamique.
+
+• La tomodensitométrie représente la modalité d’imagerie de choix. En cas de bonne fenêtre acoustique, une dissection de l’artère pulmonaire avec lambeau de dissection peut également être diagnostiquée par échocardiographie.
+
+• La seule option thérapeutique de la dissection est la réparation chirurgicale. Cette dernière est associée à une mortalité élevée dans ce groupe de patients (HTAPi).

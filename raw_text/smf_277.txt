@@ -1,0 +1,92 @@
+Rapport de cas
+Anamnèse
+
+Un patient de 20 ans, connu pour une thrombose iliaque bilatérale sur agénésie de la veine cave inférieure, traitée par rivaroxaban depuis plusieurs années, se présente au cabinet en raison de vertiges orthostatiques ressentis depuis 3 jours, n’ayant pas cédés à une hydratation et un apport sodé accru. Il se plaint également de céphalées, de troubles de la concentration et d’une fatigue importante. Il n’a pas de symptôme B.
+
+Status
+
+Les constantes vitales sont dans la norme et l’examen clinique cardiopulmonaire et neurologique ne révè­lent rien d’anormal.
+
+Résultats
+
+Le bilan biologique à la recherche d’un syndrome inflammatoire, d’une hypoferritinémie et d’une dysthyroïdie revient négatif mais révèle une GGT très légèrement au-dessus de la norme de façon isolée.
+
+En raison de l’absence d’étiologie claire, une IRM cérébrale est réalisée. Celle-ci ne montre pas d’anomalie pouvant expliquer la symptomatologie.
+
+Evolution
+
+A 10 jours de la première consultation, le patient se représente en contrôle. Nous notons l’apparition d’adénopathies sous-angulo-maxillaire gauche et cervicale droite. Un nouveau bilan biologique élargi, incluant les marqueurs inflammatoires, la LDH et la beta2-microglobuline est toujours dans la norme. Sur le plan hépato-biliaire, la GGT reste stable mas une discrète augmentation des ASAT est notée. Les sérologies de toxoplasmose, EBV, CMV, HAV, HBV, HCV et du VIH sont également négatives. Une radiographie pulmonaire est normale.
+
+Un nouveau contrôle à 1 mois de l’apparition des symptômes révèle une augmentation de la taille des adénopathies cervicales. Le patient se plaint par ailleurs de la persistance des symptômes et d’une dyspnée à l’effort ainsi que de nausées. En outre, un nouveau contrôle des marqueurs inflammatoires montre cette fois-ci une élévation de la CRP à 70 mg/l et de la VS à 90 mm/h. Les leucocytes restent dans la norme.
+
+Nous demandons alors une échographie des adénopathies cervicales avec cytoponction d’un ganglion. L’imagerie met en évidence une grappe ganglionnaire sous-angulo-maxillaire gauche dont le plus gros mesure 2,2 × 1,2 cm, infiltrant les tissus graisseux sous-cutanés (fig. 1). Un autre ganglion hypervascularisé est situé au-dessus de la clavicule gauche. La ponction rapporte d’abord trois prélèvements peu cellulaires, puis un dernier prélèvement avec du matériel hémorragique. La cytopathologie révèle la présence de polynucléaires neutrophiles et de macrophages correspondant à une lymphadénite abcédante. Il n’y a pas de cellules suspectes de malignité, les colorations de Gram, Grocott et Ziehl sont négatives.
+
+Figure 1: Echographie des adenopathies cervicales. Grappe ganglionnaire sous maxillaire gauche avec le plus grand ganglion au centre (2,2 × 1,2 cm).
+
+Toujours en l’absence d’étiologie claire suite à la ponction ganglionnaire, nous adressons le patient à un oto-rhino-laryngologue afin de réaliser une adénectomie. Le spécialiste met en évidence des ganglions indurés au niveau jugulaire gauche, associés à un érythème cutané de 5 cm de diamètre en regard. La dissection est compliquée et révèle à la place des ganglions un amas purulent et infiltratif évocateur d’une écrouelle tuberculeuse. L’analyse histologique conclu toutefois à une lymphangite granulomateuse non caséeuse (fig. 2), avec coloration PAS, Ziehl et Gram négatives. La pathologue évoque alors une maladie des griffes de chat.
+
+Figure 2: (A) Inflammation nécrosante non caséeuse, comportant quelques polynucléaires neutrophiles, dans des restes de ganglion lymphatique, entourée d’une réaction histiocytaire palissadique granulomateuse (hématoxyline-éosine, ×200), confirmée par ­l’immunomarquage par CD68 (×100)(B) .
+
+Diagnostic
+
+L’analyse par PCR pour les mycobactéries est négative. En revanche, elle revient positive pour Bartonella henselae. Le patient confirme avoir des chatons et s’être fait griffer plusieurs fois. Lors de la première consultation, l’examen de la peau à la recherche d’une effraction avait été omis en raison des symptômes principalement neurologiques du patient. Une lésion cutanée typique de la maladie des griffes de chat avait donc pu être manquée.
+
+Traitement et évolution
+
+Au vu des symptômes neurologiques, une ponction lombaire est encore réalisée et permet d’exclure une encéphalite, complication possible de la Bartonellose. Le patient reçoit un traitement d’azythromycine de 5 jours.
+
+A 1 mois, le patient est revu en contrôle. Il est asymptomatique. A l’examen clinique, nous retrouvons uniquement une légère induration cicatricielle au niveau des ganglions sous-mandibulaires gauches et du site de biopsie.
+
+Discussion
+
+Le plus souvent, l’anamnèse et le tableau clinique sont fortements évocateurs du diagnostic de maladie des griffes de chat. Dans notre cas, les symptômes de présentation peu spécifiques et l’apparition tardive des adénopathies ont conduit à réaliser plusieurs examens complémentaires avant de poser le diagnostic. La Bartonellose, plus connue sous le nom de maladie des griffes de chat, est provoquée par une bactérie gram négative fastidieuse, Bartonella henselae. Les animaux domestiques tels que les chats, cochons d’inde, lapins et occasionnellement chiens représentent le réservoir de la bactérie. Les puces de chat seraient le vecteur de la maladie au travers de leurs fèces, inoculées à l’homme par des griffes contaminées. La tique Ixodes ricinus (la plus répandue en Europe) serait un autre vecteur potentiel de Bartonellaspp. [1].
+
+La maladie est plus fréquente chez les moins de 20 ans, et les personnes en contact avec des chatons. Toutefois, elle a également été retrouvée dans toutes les classes d’âge et chez des gens n’ayant pas eu de contact avec un chat [2]. Par ailleurs, la maladie se retrouve dans le monde entier, avec un gradient nord-sud qui laisse penser qu’un climat chaud favorise le développement de la maladie [3].
+
+Dans la majorité des cas, la maladie débute par une papule érythémateuse au site d’inoculation, 3 à 10 jours après l’entrée du germe dans l’organisme. La lésion cutanée évolue en passant par un stade vésico-papulaire avant de former une croûte et de guérir. Une lymphadénopathie dans la zone de drainage du site d’inoculation apparaît 1 à 3 semaines après l’inoculation et peut persister plusieurs semaines à plusieurs mois. Dans 85% des cas, elle ne touche qu’un seul ganglion, situé le plus souvent au niveau axillaire et épitrochléen (46%), cervical (26%) et inguinal (17,5%). Les ganglions atteints sont douloureux et leur taille peut varier de 1 à 5 cm, parfois même jusqu’à 10 cm. Dans 20 à 30% des cas, les ganglions atteints peuvent former une fistule cutanée et parfois nécessiter un drainage. En outre, la moitié des personnes infectées présente des symptômes systémiques de fièvre, malaise, anorexie, nausée et douleur abdominale [2].
+
+La probabilité d’une maladie des griffes de chat peut être élevée en présence d’un tableau typique. Toutefois, la clinique seule ne permet pas de la différencier d’autres syndrome ulcéro-glandulaire. En présence d’une adénopathie douloureuse à évolution rapide, une origine infectieuse est l’étiologie la plus fréquente. Le diagnostic différentiel de la maladie des griffes de chat comprend donc principalement les bactéries pyogènes, les mycobactéries, certains virus, la toxoplasmose, les spirochètes et la tularémie [4]. Toutefois, d’autres causes, en particulier tumorales, ne doivent toutefois pas être exclues d’emblée (tab. 1).
+
+Tableau 1:Diagnostic différentiel de la maladie des griffes
+de chat et fréquence des maladies en Suisse.
+Etiologie	Fréquence
+Infectieux	 
+Adénites bactériennes: Staphylococcus aureus ou Streptococcus du groupe A	Très fréquent
+Lymphadénites virales (EBV, CMV, HIV)	Très fréquent
+Mycobactéries (M. tuberculosis et
+mycobactéries non tuberculeuses)	Fréquent
+Tularémie (Francisella tularensis)	Fréquent
+Toxoplasmose	Fréquent
+Syphilis	Fréquent
+Tick-born lymphadenitis
+(Rickettsia slovaca)	Pas de cas décrit en Suisse
+Tumoral
+Hémopathies: leucémie, lymphome	Fréquent
+Métastases	Fréquent
+Autres
+Sarcoïdose	Fréquent
+Maladie auto-immune
+lymphoproliférative	Rare
+Réaction médicamenteuse	Rare
+
+Chez notre patient, en raison d’un malaise généralisé avec inappétence et nausées, ainsi qu’une GGT et des ALAT légèrement perturbés, nous avons exclu une hémopathie, une hépatite virale, une lymphadénite virale et la toxoplasmose mais nous avons omis les sérologies pour la bartonellose, la syphilis et la tularémie, ce qui a retardé le diagnostic.
+
+Actuellement, le «gold standard» diagnostic se fait par la sérologie. En effet, les cultures ne sont pas réalisées de routine dans la plupart des laboratoires car, d’une part elles nécessitent des conditions pré-analytiques particulières, puis 2 à 6 semaines d’incubation dans des tubes spécifiques et d’autre part elles sont rarement positives en l’absence d’infection systémique. Quant à la PCR bactérienne réalisée sur du matériel de biopsie, elle a une haute spécificité mais une sensibilité basse (47 à 76%) limitant son intérêt.
+
+Histologiquement, les ganglions présentent une atteinte inflammatoire non spécifique de type granulomateux avec micro-abcès et nécrose locale. A l’ultrason, les ganglions sont hypoéchogènes et fortement vascularisés, alors que les tissus adjacents sont hyper­échogènes [2].
+
+Le traitement du patient dépend des manifestations cliniques et de son statut immunitaire. Habituellement, la maladie des griffes de chat est autolimitée et le patient guérit spontanément après 4 ou 5 mois. Les antibiotiques sont peu efficaces sur la bactérie et seuls les aminoglycosides ont démontré un effet bactéricide. Ainsi, dans les cas d’infection locorégionale légère, un traitement n’est pas recommandé car il ne change pas le cours de la maladie. Une aspiration des adénopathies purulentes peut être réalisée en cas de douleur importante mais ne devrait pas être la règle afin d’éviter la formation de sini chroniques [2].
+
+Dans 5 à 9% des cas, les patients peuvent développer des manifestations atypiques comme le syndrome oculaire de Parinaud, une encéphalite, une endocardite, une anémie hémolytique, une hépatosplénomégalie, une glomérulonéphrite, une pneumonie, une bactériémie récidivante ou une ostéomyélite. Chez l’hôte immunocompromis, des formes d’angiomatose bacillaire ou de péliose hépatique ont été rapportées. Une atteinte fatale est toutefois rare chez l’individu immunocompétent [1].
+
+Dans ces formes modérées à sévères, un traitement d’azithromycine à une dose de 10 mg/kg le jour 1 puis 5 mg/kg du jour 2 à 5 est recommandée. Les alternatives sont la rifampicine (20 mg/kg par jour en 2 doses pendant 2 à 3 semaines), la ciprofloxacine (20 mg/kg par jour en 2 doses pendant 2 à 3 semaines) ou le trimethoprim-sulfamethoxazole [2]. A noter néanmoins qu’une méta-analyse récente des traitements actuellement recommandé ne montre pas d’effet significatif des différents traitements. Il est donc nécessaire de signaler dès le départ au patient que l’efficacité de traitement est faible [5]. Par ailleurs, la maladie confère une immunité à vie [2].
+
+Dans le cas de notre patient, il est difficile de savoir si l’évolution favorable est due à l’évolution naturelle de la maladie qui s’est déroulée sur 4 mois depuis la première consultation jusqu’au dernier contrôle ou au traitement antibiotique.
+
+L’essentiel pour la pratique
+
+• La maladie des griffes de chats peut se présenter sans lésion au site d’inoculation mais avec des symptômes de malaise systémique et des adénopathies apparaissant dans un second temps.
+
+• En cas d’adénopathie, rechercher une exposition à des chats et effectuer une sérologie à Bartonella henselae même en l’absence d’exposition.
+
+• Une atteinte locorégionale légère ne nécessite pas de traitement alors qu’une atteinte plus sévère peut être traitée par azythromycine, ciprofloxacine ou trimethoprime-sulfamethoxazole.

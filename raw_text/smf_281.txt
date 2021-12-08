@@ -1,0 +1,112 @@
+Fallbericht
+Anamnese
+
+Ein 56-jähriger Mann stellte sich bei seinem Hausarzt vor wegen akuter linksseitiger Flankenschmerzen sowie Husten mit blutig tingiertem Auswurf seit sechs Wochen. Er war Raucher mit einem Nikotinkonsum von 10 «pack years» und hatte sich acht Jahre zuvor wegen Adipositas einer Magen-Bypass-Operation unterzogen.
+
+Status und Befunde
+
+Die klinische Untersuchung war unauffällig. Die Blutanalyse zeigte eine normochrome, normozytäre, hy­perregeneratorische Anämie (Hämoglobin 66 g/l), ein normwertiges CRP sowie unauffällige Nieren- und Leberparameter. Das Computertomogramm (CT) des Abdomens ergab keine Pathologie der Abdominalorgane, jedoch Infiltrate der mitabgebildeten Lungen­abschnitte. Im ergänzend durchgeführten Thorax-CT (Abb. 1) zeigten sich in der gesamten Lunge azinäre Transparenzminderungen. Zur Abklärung wurde der Patient hospitalisiert.
+
+Abbildung 1: Computertomogramm des Thorax mit diffusen bilateralen pulmonalen Transparenzminderungen mit ­azinärem Muster.
+
+Diagnose
+
+Die Bronchoskopie ergab Blutauflagerungen im gesamten Bronchialsystem ohne lokalisierte Blutungsquelle. Die bronchoalveoläre Lavage wies ein zunehmend blutiges Aspirat auf, entsprechend dem Befund einer alveolären Hämorrhagie (Abb. 2). Das Urinsediment zeigte eine glomeruläre Mikrohämaturie und leichte Proteinurie (400 mg/d).
+
+Abbildung 2: Bronchoalveoläre Lavage mit Befund einer alveolären Hämorrhagie: ­initiale Probe ganz rechts, weitere Proben links davon mit zunehmend hämorrhagischem Aspirat.
+
+Angesichts dieser Befunde eines pulmorenalen Syndroms mit dringendem Verdacht auf eine Autoimmun­erkrankung wurden antinukleäre Antikörper (ANA), anti-Neutrophile zytoplasmatische Antikörper (ANCA) und antiglomeruläre Basalmembran-Antikörper (Anti-GBM) bestimmt und noch vor Erhalt der Resultate eine intravenöse Steroidtherapie mit Methylprednisolon (500 mg täglich) begonnen. Trotzdem kam es zu einer raschen klinischen Verschlechterung mit massiver ­Hämoptoe und Hypoxämie. Die Anti-GBM-Antikörper waren mit 113 U/ml hochtitrig erhöht und führten zur Diagnose einer antiglomerulären Basalmembran-Erkrankung mit Lungen- und Nierenbeteiligung. Die ANCA waren negativ. Es wurde die Indikation zur raschen Einleitung einer Plasmapherese und hochdosier­ten Immunsuppression gestellt.
+
+Therapie und Verlauf
+
+Es erfolgten initial tägliche Apheresen mit Austausch gegen Plasma. Es wurde Methylprednisolon 1000 mg intravenös täglich für drei weitere Tage und anschlies­send Prednison per os mit initial 1 mg/kg Körpergewicht verabreicht und dann langsam reduziert. Cyclophosphamid wurde als intravenöse Pulstherapie gegeben. Während der ersten sechs Tage war aufgrund der schweren Oxygenationsstörung eine High-Flow-Sauerstoff-Therapie notwendig. Die Nierenretentionsparameter blieben stabil. Auf eine Nierenbiopsie wurde bei eindeutiger Diagnose und günstigem Verlauf verzichtet. Die Plasmapheresen wurden während der ersten fünf Tage täglich und nach dreimal normwertigem ­Serum-Anti-GBM-Antikörper alle zwei Tage (insgesamt 14 Mal) durchgeführt. Cyclophosphamid (1200 mg) wurde als intravenöse Pulstherapie initial alle zwei Wochen (3 Gaben) und dann alle drei Wochen für insgesamt drei Monate verabreicht. Die Steroidtherapie wird aktuell schrittweise reduziert bis zum Erreichen einer gesamthaften Therapiedauer von 6–12 Monaten. Fünf Monate nach Diagnosestellung befindet sich die Erkrankung anhaltend in Remission.
+
+Diskussion
+Hämoptoe
+
+Hämoptoe ist ein häufiges Symptom im klinischen Alltag mit oft selbstlimitierendem, selten jedoch lebensbedrohlichem Verlauf. Bei mehr als 100–200 ml ab­gehustetem Blut innert 24 Stunden spricht man von einer massiven Hämoptoe, deren Ursache aufgrund der Gefahr der Asphyxie rasch abgeklärt werden muss. In einer retrospektiven Datenanalyse lag die Krankenhausmortalität der massiven Hämoptoe bei 8,7% [1]. Ätiologisch spielen Entzündungen der Bronchialschleimhaut vor allem bei vorbestehenden Lungen­erkrankungen (Bronchiektasen, Zystische Fibrose), Infektionen (insbesondere Tuberkulose), Neoplasien und Koagulopathien eine wichtige Rolle.
+
+Diffuse alveoläre Hämorrhagie und ­pulmorenales Syndrom
+
+Die diffuse alveoläre Hämorrhagie ist definiert durch Hämoptoe, azinäre Infiltrate im CT, Hämoglobinabfall und eine diffuse Blutung aus den meisten Segmenten in der Bronchoskopie. Eine erhöhte CO-Diffusions­kapazität in der Lungenfunktion kann ein zusätzlicher früher Hinweis sein. Mögliche Gründe sind Autoimmunerkrankungen, Infektionen, kardiovaskuläre Erkrankungen, Medikamente und Neoplasien. Besteht zudem eine Nierenfunktionsstörung, spricht man von einem «pulmorenalen Syndrom». Das pulmorenale Syndrom im engeren Sinne ist ein klinisch definierter Begriff, unter dem Krankheits­bilder mit einer akuten Glomerulonephritis und pulmonaler alveolärer Hämorrhagie zusammengefasst werden (Tab. 1). Ein präziserer Begriff für diesen Syndromkomplex wäre «pulmorenales vaskulitisches Syndrom». Fasst man den Begriff des pulmorenalen Syndroms weiter, werden Erkrankungen mit eingeschlossen, die Hämoptoe und Nierenversagen verursachen (Tab. 2).
+
+Tabelle 1: Ursachen eines pulmorenalen vaskulitischen Syndroms.
+Pathomechanismus	Erkrankung
+Immunkomplex-vermittelteVaskulitis	Anti-GBM-Erkrankung (Goodpasture-Erkrankung)
+ANCA-assoziierte Vaskulitiden	Granulomatose mit Polyangiitis (Morbus Wegener)
+Mikroskopische Polyangiitis
+Eosinophile Granulomatose mit Polyangiitis ­(Churg-Strauss-Vaskulitis)
+ANCA-negative Vaskulitiden	Systemischer Lupus erythematodes
+IgA-Vaskulitis (Purpura Schönlein-Henoch)
+Morbus Behçet
+Kryoglobulinämische Vaskulitis
+Vaskulitis bei rheumatoider Arthritis
+Polymyositis
+Medikamenten- oder Drogen-­induzierte Vaskulitiden	Penicillamin
+Propylthiouracil
+Hydralazin
+Kokain
+Tablle 2: Erkrankungen mit pulmonalen Infiltraten und akuter Niereninsuffizienz, die ein pulmorenales vaskulitisches Syndrom imitieren können.
+Grund der Lungenblutung	Erkrankung
+Thrombotische
+Mikroangio­pathie	Antiphospholipidantikörper-Syndrom
+Systemsklerose
+Thrombotische thrombozytopene Purpura
+Direkte Lungenschädigung mit Blutung	Infektionen mit renaler/pulmonaler Beteiligung
+– Hantavirus
+– Humanes Immundefizienz-Virus (HIV)– Zytomegalievirus– Mykoplasmen– Streptokokken, Staphylokokken– Leptospiren– Legionellen
+Kardiovaskuläre Erkrankungen
+– Akute Herzinsuffizienz– Mitralstenose– Lungenembolie
+Lungenödem und urämische Blutungsneigung	Akutes Nierenversagen
+Nierenvenenthrombose
+
+Die erwähnten Autoimmunerkrankungen sind zwar selten, stellen jedoch aufgrund ihres mitunter rasch progredienten und potentiell lebensbedrohlichen Verlaufs eine Notfallsituation dar. Der frühzeitige Beginn der Therapie verbessert die Prognose erheblich. Die unmittelbare Bestimmung der ANCA, ANA, Anti-GBM-, Anti-DNA-, Anti-Phospholipid-Antikörper und Rheumafaktoren im Serum ist von grosser Bedeutung. Insbesondere ANCA und Anti-GBM-Antikörper sollten notfallmässig bestimmt werden, sodass eine gezielte Therapie innert Stunden eingeleitet werden kann. Die Bronchoskopie dient der Diagnosesicherung und dem Ausschluss von Differentialdiagnosen, vor allem der Abgrenzung von einer Pneumonie.
+
+Antiglomeruläre Basalmembran-Erkrankung
+
+Die antiglomeruläre Basalmembran-Erkrankung (Anti-GBM-Erkrankung, Goodpasture-Erkrankung) ist mit einer Inzidenz von 0,5 bis 1 zu 1 Million Einwohner pro Jahr sehr selten [3, 4]. Es gibt zwei Altersgipfel bei 20–30 und 60–70 Jahren [4, 5]. Die Evidenz zur Behandlung und Prognose basiert mehrheitlich auf Fallserien. Der Pathologe Ernest Goodpasture beschrieb 1919 einen 18-jährigen Patienten mit Influenza-Infektion mit Nierenversagen und pulmonaler Hämorrhagie, was 40 Jahre später der Kombination von Glomerulonephritis und alveolärer Hämorrhagie den Namen «Goodpasture Syndrom» gab [3, 4]. Nach der Entdeckung des spezifischen Antikörpers im Serum konnte gezeigt werden, dass dieser allein die Erkrankung auslöst, was die Anti-GBM-Erkrankung zu einem Prototyp einer Autoimmunerkrankung macht [3, 4]. Der Antikörper vom Typ IgG ist gegen die NC1-Domäne der α3-Kette des Typ-IV-Kollagens gerichtet, welches ein essentieller Bestandteil der Basalmembran der Nierenglomeruli und der alveolären Kapillaren ist. Durch die Bindung an das Antigen wird das Komplementsystem aktiviert (Typ-II-Reaktion nach Coombs and Gell), was zu einer Beschädigung der Basalmembran und einer neutrophilen Entzündung führt [3–5]. Obwohl Autoantikörper in der Pathogenese zen­tral erscheinen, sind vermutlich auch zellvermittelte Mechanismen (insbesondere autoreaktive T-Zellen) beteiligt [3, 4]. Respiratorische Infekte, Rauchen und Kohlenwasserstoffexposition gehören zu den vermuteten Risikofaktoren, wobei eine eindeutige Evidenz hierfür fehlt [4]. Es ist eine Assoziation der Anti-GBM-Erkrankung mit dem HLA-Allel DRB1*1501 bekannt [3].
+
+Klinik und Diagnose
+
+Die Klinik umfasst Symptome einer alveolären Hämorrhagie und/oder einer Glomerulonephritis (Tab. 3). In 60–80% der Fälle besteht eine Beteiligung von Niere und Lunge, wobei die Lunge meist vor der Niere betroffen ist. In 20–40% liegt ein isolierter Nieren- und in 5–10% ein isolierter Lungenbefall vor [4]. In 20–35% lassen sich zusätzlich ANCA (v.a. MPO-ANCA) nachweisen (doppelpositiv), was mit einer schlechteren Prognose vergesellschaftet ist [3]. Die Diagnose wird aufgrund der Klinik sowie der erhöhten Anti-GBM-Antikörper im Serum (Sensitivität >95%, Spezifität >97%) gestellt. Eine Biopsie von Niere oder Lunge ist nicht zwingend, wobei bei Nierenbefall und vertretbarem Risiko eine Diagnosesicherung mittels Nierenbiopsie angestrebt werden sollte. Diese kann zusätzlich Informationen hinsichtlich der Prognose liefern. Die Nierenbiopsie zeigt typischerweise eine extrakapillär proliferative und nekrotisierende Glomerulonephritis mit Halbmondbildung. Mittels Immunfluoreszenz ist eine lineare IgG-Deposition entlang der glomerulären respektive alveolären Basalmembran nachweisbar [3, 4]. Eine transbronchiale Biopsie der Lunge liefert bei Vaskuli­tiden nur in <10% der Fälle diagnostisches Gewebe und eine thorakoskopische Lungenbiopsie sollte bei res­piratorisch kompromittierten Patienten nicht durchgeführt werden.
+
+Tabelle 3: Klinik und Befunde der antiglomerulären Basalmembran-Erkrankung [3, 4].
+Allgemein	Schwäche
+Fieber
+Arthralgien, Myalgien
+Anämie
+Renal	Hämaturie
+Anurie
+Ödeme
+Flankenschmerzen
+Bluthochdruck
+Erythrozyturie
+Proteinurie
+Pulmonal	Hämoptoe
+Husten
+Atemnot
+Thoraxschmerzen
+Hypoxämie
+Bilaterale fleckige Infiltrate im Röntgen Thorax
+Diffuse azinäre Infiltrate im Computertomogramm
+Therapie
+
+Es existieren keine kontrollierten Therapiestudien mit aussagekräftiger Patientenzahl, da die Krankheit selten ist sowie rasch progredient und unbehandelt fast immer fatal verläuft. Die kombinierte Behandlung mit Apherese, Kortikosteroiden und Cyclophosphamid hat das Outcome deutlich verbessert [3, 4, 6]. Die Apherese hat die rasche Elimination der zirkulierenden Antikörper zum Ziel, Kortikosteroide reduzieren die neutrophile Entzündung und Cyclophosphamid unterbindet die Antikörperbildung. Ein früher Beginn der Apherese ist entscheidend. Bei Vorliegen einer alveolären Hämorrhagie sollte ein Austausch gegen Plasma anstatt Albumin erfolgen, um die durch die Apherese entfernten Gerinnungsfaktoren zu ersetzen und das Blutungsrisiko zu reduzieren [5]. Die Dauer der Apherese beträgt 10–20 Tage, was insbesondere von der Klinik und in geringerem Mass vom Nachweis der Anti-GBM-Antikörper ­abhängig gemacht wird [5]. Der Antikörpertiter wird initial alle 2–3 Tage, bis er mehrmals negativ ist, und im Verlauf alle vier Wochen kontrolliert. Es wird eine hochdosierte Steroidtherapie mit initial Methylprednisolon 1000 mg intravenös für drei Tage empfohlen.
+
+Im beschriebenen Fall erfolgte die Cyclophosphamid- und die weitere Kortikosteroidtherapie in Analogie zur Therapie der ANCA-assoziierten Vaskulitis gemäss CYCLOPS-Studie mit Verabreichung von Cyclophosphamid als intravenöse Pulstherapie (15 mg/kg Körpergewicht, maximal 1200 mg) alle drei Wochen bis drei Monate über Eintritt der Remission hinaus und Gabe von Prednisolon per os 1 mg/kg Körpergewicht und langsamer Reduktion über 18 Monate [7], wobei für die Anti-GBM-Erkrankung eine kürzere Steroidgabe von 6–12 Monaten diskutiert wird [4, 6]. Doppelpositive Patienten (anti-GBM-Antikörper und ANCA) neigen häufiger zu Rezidiven. Daher wird in ­solchen Fällen nach dem CYCLOPS-Schema für die ANCA-assoziierte Vaskulitis behandelt, bestehend aus einer Induktionstherapie und einer remissionserhaltenden Therapie [8]. Cyclophosphamid ist keimzelltoxisch, sodass vor Therapie der Kinderwunsch geklärt und eventuell eine Keimzell-Kryokonservierung durchgeführt werden muss. Bei fehlendem Ansprechen oder Unverträglichkeit kann eine Therapie mit Rituximab oder Mycophenolat Mofetil erwogen werden [4].
+
+Prognose
+
+Unbehandelt führt die Erkrankung in 90% der Fälle zum Tod oder zur Dialysebedürftigkeit [4, 5]. Die Pro­gnose hat sich durch die aggressive Triple-Therapie mit Apherese, Kortikosteroiden und Cyclophosphamid dramatisch verbessert: Eine retrospektive Datenanalyse zeigte bei Patienten mit einem Serumkreatinin von <500 µmol/l bei Diagnosestellung ein Überleben nach einem Jahr von 100% und Erhalt der Nierenfunktion von 95% respektive nach fünf Jahren von jeweils 94% [6]. Das renale sowie das Gesamtüberleben korrelieren mit einem frühen Therapiebeginn. Prognostisch ungünstige Faktoren sind ein hoher Titer der Anti-GBM-Antikörper und fortgeschrittene Organmani­festationen wie hohes Serumkreatinin, Dialyse- oder Beatmungspflichtigkeit bei Therapiebeginn [4]. Sobald die Anti-GBM-Antikörper unter Therapie nicht mehr nachweisbar sind, ist ein Rezidiv selten [3, 5, 6]. Eine Transplantation ist generell möglich, sollte jedoch erst durchgeführt werden, wenn die anti-GBM-Antikörper während 12 Monaten negativ sind und der Patient während sechs Monaten ohne Immunsuppression asym­ptomatisch geblieben ist.
+
+Das Wichtigste für die Praxis
+
+• Die alveoläre Hämorrhagie und das pulmorenale Syndrom sind internistische Notfallsituationen. Sie müssen sofort erkannt und zügig abgeklärt werden, da die Differentialdiagnose potentiell lebensbedrohliche System­erkrankungen beinhaltet, deren Outcome von einer rasch eingeleiteten Therapie abhängig ist.
+
+• Die Kombination von Hämoptoe, azinären Infiltraten im CT und Hämoglobinabfall entspricht einer diffusen alveolären Hämorrhagie. Mögliche Ursachen sind Autoimmunerkrankungen, Infektionen, kardiovaskuläre Erkrankungen, Neoplasien und medikamentös-toxische Reaktionen.
+
+• Es sollten ANA, Anti-DNA-, Anti-Phospholipid-Antikörper, Rheumfaktoren und notfallmässig insbesondere ANCA und Anti-GBM-Antikörper im ­Serum bestimmt werden, sodass eine gezielte Therapie innert Stunden eingeleitet werden kann. Zur Beurteilung einer Nierenbeteiligung ist die Untersuchung des Urinsediments entscheidend.
+
+• Unter dem pulmorenalen Syndrom versteht man die klinische Präsen­tation von Systemerkrankungen, die sich mit diffuser alveolärer Hämorrhagie und akuter Glomerulonephritis auf dem Boden einer Kapillaritis manifestieren.
+
+• Die Anti-GBM-Erkrankung ist selten, verläuft rasch progredient und hat unbehandelt eine hohe Mortalität. Die Diagnose wird aufgrund der Klinik mit Symptomen einer diffusen alveolären Hämorrhagie und/oder Glomerulonephritis sowie erhöhter Anti-GBM-Antikörper gestellt. Bei raschem Therapiebeginn mit Apherese, Kortikosteroiden und Cyclophosphamid ist die Erkrankung heilbar.

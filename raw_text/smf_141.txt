@@ -1,0 +1,166 @@
+Description du cas
+
+Une patiente de 40 ans, connue pour une fibromyalgie, consulte en raison d’une douleur à l’hypochondre droit, associée à un état fébrile intermittent, avec des pics à 39,5 °C, le tout depuis 7 jours. A part du paracétamol et du tramadol en réserve, la patiente ne prend aucun traitement. Son dernier voyage, au Portugal, remonte à 6 mois avant son admission. Elle ne consomme pas d’alcool ni d’autre toxique, a des relations sexuelles protégées avec le même partenaire depuis 3 ans. L’examen clinique met en évidence une température à 38,5 °C et une hépatosplénomégalie. Le laboratoire retrouve les éléments suivants: leucocytes à 15,6 G/l (N: 4–10), hémoglobine à 90 g/l (N: 117–157 g/l), thrombocytes à 87 G/l (N: 150–350), aspartate aminotransférase (ASAT) à 195 U/l (N: 9–32), alanine aminotransférase (ALAT) à 245 U/l (N: 9–36), gamma-glutamine transférase (GGT) à 415 U/l (N: 6–42), phosphatase alcaline (PAL) à 440 U/l (N: 36–120), bilirubine totale à 20 μmol/l (N: 0–21), protéine-C-réactive à 110 mg/l (N: <7), temps de prothrombine (TP) à 75% (N: 80–120), D-dimères >35 200 ng/l (N: <500), fibrinogène à 1,2 g/l (N: 2–4), ferritine à 15 745 µg/l (N: 10–160) et un coefficient de saturation de la transferrine (CST) à 0,08 (N: <0,35). Un frottis sanguin est sans particularité.
+
+Question 1: A ce stade, quel examen complémentaire n’est pas justifié ?
+
+
+a) Les sérologies pour les hépatites A, B, C et E (VHA, VHB, VHC et VHE)
+
+b) Dosage des monomères de fibrine
+
+c) Une échographie-doppler hépatique
+
+d) Une ponction-biopsie de moelle (PBM) osseuse
+
+e) Recherche d’une mutation du gène HFE
+
+Au vu de l’hépatite, une infection aiguë à VHA, VHB, VHC et VHE mais aussi au virus Epstein-Barr (EBV), au virus Herpès simplex (HSV), au virus zona-varicelle (VZV), à cytomégalovirus (CMV) et au virus de l’immunodéficience humaine (VIH), doit être recherchée.
+
+Les troubles de l’hémostase évoquant une coagulation intravasculaire disséminée (CIVD) débutante, le dosage des monomères des fibrines (produits de dégradation de la fibrine) a un intérêt pour confirmer le diagnostic et le suivi d’une CIVD.
+
+Une échographie-doppler hépatique est justifiée pour rechercher une éventuelle dilatation des voies biliaires, des anomalies du parenchyme hépatique (signes de cirrhose, lésion suspecte) ou une thrombose de la veine porte.
+
+En cas de cytopénie avec hyperferritinémie importante, l’intérêt de la PBM est double: elle permet d’une part de rechercher une hémopathie, d’autre part elle peut mettre en évidence des signes d’hémophagocytose, dans le cadre d’un syndrome d’activation des macrophages (SAM). L’hémophagocytose, bien que très évocatrice, n’est pas pathognomique du SAM et d’autres critères sont nécessaires au diagnostic [1].
+
+Une mutation du gène HFE à l’état homozygote pose le diagnostic d’hémochromatose, maladie de surcharge en fer avec atteinte multi-systémique caractérisée par une hyperferritinémie et par un coefficient de saturation de la transferrine (CST) >0,45. Dans notre cas, ce diagnostic est peu probable au vu d’un CST dans la norme (absence de surcharge martiale) et une analyse du gène HFE n’est pas justifiée.
+
+Les résultats aux examens cités ci-dessus sont les suivants: les sérologies pour VHA, VHB, VHC, VHE, EBV, HSV, VZV, VIH sont négatives, en revanche la sérologie CMV révèle des IgM et des IgG positifs, avec une virémie sanguine pour CMV mesurée à 110 845 copies/ml. Le dosage des monomères de fibrine revient positif. L’échographie-doppler hépatique est normale, la PBM ne met pas en évidence de lymphome ni de leucémie mais retrouve des signes d’hémophagocytose.
+
+Une primo-infection à CMV avec un SAM secondaire compliqué d’une CIVD, est suspectée.
+
+Question 2: Lequel des éléments suivants n’est pas un critère diagnostique du SAM ?
+
+
+a) Bi-ou pancytopénie
+
+b) Hypertriglycéridémie
+
+c) Organomégalie
+
+d) Hypofibrinogénémie
+
+e) Hémolyse avec test de Coombs positif
+
+La cytopénie, avec l’atteinte d’une ou plusieurs lignées sanguines, est un élément-clef du diagnostic: elle est retrouvée dans 80 à 100% des cas [1, 2].
+
+L’hypertriglycéridémie, causée par l’inhibition de la lipoprotéine lipase secondaire à la surproduction du facteur de nécrose tumorale (TNF), ainsi que les perturbations de l’hémostase sont évocatrices sans être pathognomoniques.
+
+La splénomégalie fébrile, avec ou sans hépatomégalie, est un élément clinique quasi constamment retrouvé.
+
+L’anémie est en général hyporégénérative, avec des paramètres d’hémolyse augmentés mais un test de Coombs négatif (absence de médiation immune).
+
+Le diagnostic du SAM est difficile et souvent retardé. Différents scores existent pour aider à poser le diagnostic: le HScore (tab. 1, colonne de gauche), établi par Fardet et al. en 2014, dans lequel la probabilité d’un SAM varie entre <1% pour un HScore <90 et >99% pour un HScore >250 (les valeurs limites étant 0 et 337) [3], et le HLH-2004 (tab. 1, colonne de droite), score validé en population pédiatrique en 1994, révisé en 2004, et souvent extrapolé pour le SAM chez l’adulte [4]. Le HScore est considéré comme ayant une meilleure performance diagnostique que le HLH-2004 (sensibilité de 93% et spécificité de 86% avec un «cut-off» à 169 pour le premier [3], sensibilité de 90% et spécificité de 73% pour le second [5]), cependant la révision HLH-2004 est encore actuellement considérée comme la définition du SAM par la «Histiocyte Society».
+
+Tableau 1: Mise en parallèle du HScore () et des critères HLH-2004 [4]. Pour le HLH-2004, présence d’au moins 5 critères sur 8 pour poser le diagnostic.
+ 	HScore	Critères HLH-2004
+Immunosuppression connue(VIH, traitement immunosuppresseur)	Non: 0 point	 
+Oui: 18 points
+Fièvre	<38,4 °C: 0 points	Présente ou absente
+ 	38,4–39,4 °C: 33 points
+>39,4 °C: 49 points
+Organomégalie	Non: 0 point	Splénomégalie présente ou non
+1 organe: 23 points
+Hépato et splénomégalie: 38 points
+Cytopénie	Non: 0 point	Bi- ou pancytopénie avec: – Hémoglobine <90 g/l– Polynucléaires neutrophiles <1× 109/l– Thrombocytes <100 × 109/l
+Bicytopénie: 24 points
+Pancytopénie: 34 points
+Triglycérides	<1,5 mmol/l: 0 point	≥3 mmol/lOu≤1,5 g/l
+1,5–4 mmol/l: 44 points
+>4 mmol/l: 64 points
+Fibrinogène	>2,5 g/l: 0 point
+<2,5 g/l: 30 points
+Ferritine	<2000 ng/ml: 0 point	≥500 µg/l
+2000–6000 ng/ml: 35 points
+>6000 ng/ml: 50 points
+ASAT	<30 IU/I: 0 point
+>30 IU/l: 19 points
+CD 25 soluble	 	≥2400 UI/ml
+Activité «natural killer» (NK)	 	Abaissée ou nulle
+Image d’hémophago­cytose (moelle, foie, rate,
+adénopathie)	Non: 0 points	Présente ou absente
+Oui: 35 points
+
+Chez notre patiente, la triglycéridémie est dosée à 3,5 mmol/l. Le calcul du HScore revient à 289, ce qui évalue à 99,95% la probabilité d’un SAM. Selon le HLH-2004, 6 critères positifs sur 8 sont présents (SAM probable à partir de 5 critères positifs).
+
+Question 3: De manière générale, quelles pathologies ne sont pas associées au SAM?
+
+
+a) Infections bactériennes
+
+b) Infections parasitaires
+
+c) Maladies auto-immunes
+
+d) Maladies hémato-oncologiques
+
+e) Maladies endocriniennes (syndrome métabolique, dys­thyroïdie)
+
+Bien que pouvant être associées à une hyperferritinémie, les maladies endocriniennes ne sont pas associées au SAM.
+
+Les étiologies du SAM sont résumées dans le tableau 2.
+
+Tableau 2: Principales causes du syndrome d’activation des macrophages (SAM) secondaire (d’après [1]).
+Infections (41%)	virales	EBV +++, CMV, HSV, VZV, Parvovirus B19, VHA, VHB, VHC, adénovirus, VIH
+bactériennes	Mycobacterium tuberculosis,germes intracellulaires (Legionella, Rickettsia,Brucella, Mycoplasma), bactéries pyogènes
+parasitaires	Leishmania, Toxoplasma
+fongiques	Histoplasmose, Candida
+Maladies onco-hématologiques(38%)	 	Lymphomes et leucémies
+Maladies auto-immunes (10%)	 	Lupus érythémateux disséminé +++, maladie de Still de l’adulte, vasculites, polyarthrite rhumatoïde, maladies inflammatoires chroniques de l’intestin
+Autres (7%)	 	Post-transplantation, médicamenteux, grossesse ou post-partum
+Idiopathique (4%)	 	 
+
+Chez notre patiente, nous avons complété le bilan étiologique par des prélèvements microbiologiques (hémocultures, culture d’urine, test ELISpot pour la tuberculose), ainsi qu’un dosage des anticorps anti-­nucléaires (ANA), du facteur rhumatoïde (FR) et des anticorps anti-neutrophile cytoplasmique (ANCA), qui sont négatifs.
+
+Un CT thoraco-abdominal montre une hépatosplénomégalie sans argument pour une tumeur solide.
+
+Le diagnostic de SAM secondaire à une primo-infection à CMV est retenu.
+
+Question 4: Lequel des éléments suivants ne constitue pas un facteur de mauvais pronostic du SAM?
+
+
+a) Age >50 ans
+
+b) SAM secondaire à une infection à EBV
+
+c) SAM secondaire à un lupus érythémateux disséminé
+
+d) Anémie <100 g/l
+
+e) Ferritinémie >50 000 µg/l
+
+L’évolution du SAM est variable avec la résolution habituelle survenant entre 1–8 semaines, mais avec une mortalité de 40% [2]. Les formes secondaires à une infection virale autres qu’EBV, ou à une maladie auto-immune, ont un meilleur pronostic que celles secondaires à une maladie onco-hématologique [3]. Outre l’étiologie du SAM, l’âge (>50 ans), une cytopénie marquée, une CIVD associée, une hyperferritinémie >50 000 µg/l sont des facteurs de mauvais pronostic [1].
+
+Question 5: Lesquel de ces traitements n’est pas recommandé dans la prise en charge du SAM ?
+
+
+a) Traitement symptomatique
+
+b) Splénectomie
+
+c) Etoposide
+
+d) Traitement étiologique
+
+e) Anticorps anti-IL-6
+
+Le traitement du SAM doit être agressif en raison du mauvais pronostic de la maladie. Il est basé sur:
+
+– Une prise en charge symptomatique. Selon les situations: transfert en unité de soins intensifs, soutien transfusionnel, traitement des troubles de l’hémostase, antibiothérapie de large spectre.
+
+– Le traitement étiologique du SAM, lorsque possible.
+
+– La suppression de l’activation cellulaire T et de la réponse inflammatoire. Il n’existe pas de protocole de traitement clairement validé pour le SAM secondaire mais la prise en charge thérapeutique s’inspire du protocole HLH-94 car il permet d’obtenir une ­survie à 5 ans de plus de la moitié des patients [6]. L’immunosuppresseur dépend de l’étiologie du SAM. L’étoposide (VP-16, inhibiteur de la topo-isomérase de type 2 avec action sélective sur les lymphocytes T CD 8+), rapidement efficace et avec un bon profil de sécurité, associée ou non à une corticothérapie à fortes doses (habituellement dexaméthasone car il est capable de traverser la barrière hémato-encéphalique), est le plus souvent utilisé en première intention. La ciclosporine, le rituximab, les anticorps anti-Il-1r et anti-Il-6 sont d’autres traitements pouvant être utilisés selon les situations.
+
+La splénectomie n’est pas un traitement du SAM.
+
+Notre patiente reste stable sur le plan clinique. Les paramètres inflammatoires diminuent spontanément et rapidement sans nécessité d’un traitement immunosuppresseur, ni d’un traitement antiviral. La CIVD nécessite de façon transitoire une anticoagulation intraveineuse par héparine non fractionnée à faibles doses. A J-5 de l’admission, le laboratoire montre un bilan ­biologique hépatique en amélioration, une baisse du syndrome inflammatoire, une normalisation de la ­formule sanguine, une diminution des troubles de l’hémostase et de la ferritine.
+
+Discussion
+
+Le SAM, communément appelé «hemophagocytic lymphohistiocytosis» dans la littérature anglo-saxonne, est une maladie multi-systémique causée par une dérégulation de la réponse cellulaire cytotoxique (cellules «natural killer» ou NK et lymphocytes T CD8+) et responsable d’une sécrétion incontrôlée de cytokines (on parle «d’orage cytokinique»), qui induit à son tour une réaction inflammatoire majeure. C’est une entité rare avec une incidence variant entre 0,9 et 3,6 cas pour 1 000 000 d’individus selon les séries, mais probablement sous-diagnostiquée [1]. Certains des éléments cliniques et paracliniques aidant au diagnostic peuvent manquer au début du syndrome, d’où l’intérêt de ré­péter les examens, y compris le médullogramme ou la PBM si la suspicion d’un SAM est forte. L’enquête étiologique doit être exhaustive. Le mauvais pronostic justifie une prise en charge agressive, qui reste cependant mal codifiée. La mortalité, les premières semaines de la maladie, est en lien avec les multiples dysfonctions d’organe tandis que, plus tardivement, elle est corrélée avec la toxicité des traitements et l’apparition éventuelle d’infections opportunistes [2]. L’évolution spontanément favorable reste rare: chez notre patiente, l’absence d’une immunodépression sous-jacente, de comorbidités ou antécédents majeurs, ont probablement favorisé une rémission rapide.
+
+Réponses:
+
+
+Question 1: e. Question 2: e. Question 3: e. Question 4: c. Question 5: b.

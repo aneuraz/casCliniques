@@ -1,0 +1,134 @@
+Description du cas
+
+Un patient de 28 ans, en bonne santé habituelle, originaire de Zambie, est hospitalisé en raison d’une toux sèche, de douleurs basi-thoraciques gauches et d’une asthénie évoluant depuis 2 semaines.
+
+Il présente des bruits respiratoires diminués en base gauche sans signe de détresse respiratoire et une saturation en oxygène périphérique à 90% à l’air ambiant.
+
+Le bilan sanguin montre un syndrome inflammatoire avec une protéine C réactive à 122 mg/l (norme: <10) et des leucocytes à 6,9 G/l (norme: 4–10). Une radiographie du thorax met en évidence un épanchement pleural gauche, et un angioscanner thoracique confirme un épanchement pleural gauche unilatéral associé à une atélectasie passive en regard, sans adénopathie ni lésion pulmonaire parenchymateuse (fig. 1).
+
+Figure 1: Scanner thoracique (coupe axiale en fenêtre parenchymateuse [A] et médiastinale [B]) montrant un épanchement pleural unilatéral gauche avec atélectasie passive.
+
+Le patient bénéficie d’une ponction pleurale qui révèle un liquide citrin compatible avec un exsudat selon les critères de Light [1] (lactate déshydrogénase [LDH] pleural à 568 UI/l; rapport LDH pleural/sérique >0,6) et lymphocytaire (répartition cellulaire avec 99% de mononucléaire et 1% de polynucléaire).
+
+À ce stade, une tuberculose pleurale est suspectée.
+
+Question: Devant la suspicion de tuberculose pleurale, quel(s) examen(s) supplémentaire(s) souhaiteriez-vous réaliser dans le liquide pleural?
+
+
+a) PCR pour Mycobacterium tuberculosis
+
+b) Culture pour Mycobacterium tuberculosis
+
+c) Dosage de l’adénosine déaminase
+
+d) Toutes les analyses ci-dessus
+
+Réponse:
+
+
+La réponse correcte est d.
+
+Discussion
+Introduction
+
+La tuberculose (TB) est une maladie provoquée par Mycobacterium tuberculosis(MTB); il s’agit de la première cause de mortalité due à une maladie infectieuse dans le monde [2].
+
+La TB pulmonaire en est la présentation la plus fréquente, et un diagnostic microbiologique définitif est souvent possible grâce à l’examen direct des expectorations, à la culture ou par biologie moléculaire («polymerase chain reaction» [PCR] quantitative). Les cas de TB extra-pulmonaire, qui représentent environ 20 à 40% des cas selon les séries [3], demeurent plus difficiles à diagnostiquer car ils sont souvent pauci-­bacillaires.
+
+La TB pleurale (TBP) est, avec les adénites tuberculeuses, une des formes les plus courante de TB extra-pulmonaire, avec une fréquence qui varie selon la prévalence de la maladie, l’âge de la population ou encore de la co-infection par le virus de l’immunodéficience humaine (VIH). La TBP peut représenter plus de 20% des cas de TB dans certains pays africains [4].
+
+L’identification microbiologique ou moléculaire de MTB dans l’épanchement pleural ou sur une biopsie de plèvre est la méthode diagnostique de référence mais la performance des tests microbiologiques est dépendante du nombre de bacilles. Ce dernier est faible dans le liquide pleural. L’examen direct a généralement une sensibilité insuffisante lors de TB extra-pulmonaire. Ainsi, la culture et la PCR sont les approches de choix, si possible sur une biopsie directe de la plèvre percutanée ou sur des prélèvements obtenus par thoracoscopie. Ces examens sur biopsie ont une excellente performance diagnostique, mais l’obtention des biopsies représente un geste invasif.
+
+De ce fait, l’utilisation concomitante de culture, de la PCR et de biomarqueurs dans le liquide pleural, tels que l’adénosine désaminase (ADA), est utile dans la démarche diagnostique et permet dans la majorité des cas de poser le diagnostic sans avoir recours à une thoracoscopie.
+
+Caractéristique du test
+
+L’ADA est une enzyme contenue dans de nombreux type de cellules, notamment dans les lymphocytes T activés, et intervient au niveau du métabolisme des purines en catalysant la conversion de l’adénosine et de la déoxyadénosine en inosine et déoxyinosine respectivement.
+
+Son rôle dans la réponse immune est essentiel: elle permet un fonctionnement adéquat des cellules immunitaires à travers le maintien d’un taux d’adénosine et déoxyadénosine bas [5].
+
+L’ADA est constituée de 2 iso-enzymes, respectivement ADA1 et ADA2. L’ADA1 est ubiquitaire et retrouvée dans la plupart des cellules immunitaires (neutrophiles, lymphocytes, macrophages et monocytes) alors que l’ADA2 est surtout présente dans les macrophages et les monocytes.
+
+La mesure de l’ADA comprend l’addition de ADA1 et ADA2 et représente l’activité des cellules immunitaires dans la cavité pleurale ou d’autres types de liquides biologiques dont les liquides d’ascite, péricardique ou articulaire par exemple.
+
+L’ADA est élevée dans les épanchements inflammatoires, qu’ils soient pleuraux, péricardiques ou articulaires, causés par des infections bactériennes, des processus granulomateux (sarcoïdose, TB), carcinomateux ou d’origine auto-immune (lupus, vasculite, polyarthrite rhumatoïde) [6].
+
+Peu spécifique, l’ADA est normalement élevée dans les épanchements neutrophiliques et n’a donc que peu d’intérêt dans cette présentation. Par contre, en présence d’épanchement lymphocytaire (>50% de lymphocytes), l’ADA est typiquement plus élevée lorsque l’épanchement est causé par la TB: moins de 3% des épanchements lymphocytaires d’origine non tuberculeuse seront associés à une augmentation de l’ADA [7, 8], c’est pourquoi l’ADA est un marqueur viable pour le diagnostic de TBP.
+
+La valeur «seuil» pour considérer l’ADA comme positive dans le liquide pleural varie dans la littérature. Dans la plupart des études, elle se trouve à 40 UI/l.
+
+Adénosine déaminase dans la tuberculose pleurale
+
+L’ADA dans la TBP est composée à 88% par l’iso-enzyme ADA2 et son taux augmente après l’infection par MTB. Son activité correspond à l’intensité de la stimulation et de l’état de maturation des lymphocytes secondaires à la réponse immune contre MTB. L’augmentation de l’ADA est ainsi corrélée avec la quantité d’antigènes mycobactériens dans l’espace pleural [9].
+
+L’utilité de la mesure de l’ADA dans le diagnostic de la TBP a été décrite la première fois par Piras et al. [10] en 1978. Depuis, plus de 100 études ont été publiées à ce sujet.
+
+5 méta-analyses ont toutes démontré la précision du test avec des sensibilités et des spécificités entre 88 et 92%.
+
+Bien que les sensibilité et la spécificité élevées d’un test permettent de juger de la qualité intrinsèque de l’examen, en pratique clinique, ce sont les valeurs prédictives positives (VPP) et négatives (VPN) qui se révèlent particulièrement importantes, car elles sont dépendantes de la prévalence de la pathologie étudiée. L’ADA présente principalement une excellente VPN lorsqu’elle est à <40 UI/l, allant jusqu’à 97,7% dans les zones de faible prévalence. La VPP, quant à elle, est excellente lorsque la valeur est à >70 UI/l; en revanche, dans ces mêmes zones de faible prévalence, la VPP n’est que de 15% malgré un seuil à 70 UI/l [4, 11].
+
+Plusieurs méthodes ont été proposées afin d’augmenter la spécificité du test et de diminuer le nombre de faux positifs. L’une d’entre elles est le dosage spécifique de l’ADA2, isoforme prédominant dans la TBP, qui a permis de majorer la sensibilité et la spécificité à 97,2 et 94,2% respectivement [12]. Néanmoins, en raison de la faible disponibilité du test et de son apport mineur dans la pratique clinique quotidienne, il n’est généralement pas effectué.
+
+Une autre approche est de combiner l’ADA avec le rapport lymphocytes/neutrophiles dans le liquide pleural. Si celui-ci est >0,75, c’est-à-dire lymphocytaire, et accompagné d’une augmentation de l’ADA, la spécificité du test augmente à 95% [13].
+
+Une combinaison avec d’autres biomarqueurs pleuraux, tels que l’interféron-γ (IFN-γ) ou l’interleukine-27 (IL-27), a également démontré une augmentation de la spécificité, souvent au détriment de la sensibilité. Ces tests ne sont toutefois pas réalisés de routine en raison de leur coût plus élevé et de leur manque de disponibilité.
+
+L’ADA représente l’activation du système immunitaire dans la cavité pleurale; il a dès lors été suggéré qu’elle serait moins sensible dans le diagnostic de la TBP chez les patients immunocompromis et notamment chez les patients infectés par le VIH (une co-infection importante de la TB). Ceci a été infirmé par plusieurs études chez des patient VIH-positifs, qui ont montré que l’ADA restait un marqueur fiable avec une sensibilité et spécificité de 94 et 95% respectivement, et ce même lors de taux de CD4 bas [14].
+
+L’ADA doit être dosée dans le liquide pleural d’emblée devant une présentation suspecte de TBP (patient jeune, épanchement unilatéral, patient originaire de pays avec haute prévalence de TB, VIH-positif) [15] ou rajoutée sur l’analyse du liquide pleural (dans un délai de 24 heures) si un épanchement pleural lymphocytaire est mis en évidence.
+
+Le tableau 1 [4, 11, 16, 17] compare les sensibilités et spécificités (valeurs indicatives basées sur les publications citées) des principales modalités diagnostiques dans la TBP et permet de mettre en évidence la meilleure sensibilité des biomarqueurs pleuraux par rapport aux tests microbiologiques traditionnels.
+
+Tableau 1: Comparaison des différents examens diagnostiques dans la tuberculose pleurale [4, 11, 16, 17].
+Prélèvement	Epanchement pleural	Biopsie pleurale
+Examen	Direct	PCR*	Culture	ADA	IL-27	Biopsie**	Thoraco­scopie***
+Sensibilité [%]	<10	43–77	40–60	88–100	80–95	50–85	100
+Spécificité [%]	100	98	99,8	81–97	85–99	100	100
+* Test PCR conventionnel
+** Biopsie pleurale fermée – analyse microbiologique + histologique
+*** Thoracoscopie avec multiples prélèvements – analyse microbiologique + histologique
+PCR: «polymerase chain reaction»; ADA: adénosine désaminase; IL-27: interleukine-27; IFN-γ: interféron-gamma.
+Limite des examens microbiologiques ­classiques pour la tuberculose pleurale
+
+De nombreuses études rapportent une sensibilité limitée des examens microbiologiques pour le diagnostic de la TBP. Néanmoins, ces examens doivent toujours être réalisés mais la VPN ne permet toutefois pas d’exclure à elle seule une TBP. Il a été en particulier rapporté que certains tests rapides moléculaires comme les tests Xpert® MTB/RIF ou Xpert® MTB/RIF Ultra de Cepheid® qui présentent d’excellentes performances pour la TB pulmonaire, présentent une sensibilité plus faible (39–62%) que les tests PCR conventionnels, c’est-à-dire la détection du génome de MTB par amplification des acides nucléiques dans le liquide pleural, pour la TBP [18, 19]. Il faut donc, dans le contexte de TBP, leur préférer des tests moléculaires conventionnels [20], disponible à l’institut de microbiologie du Centre hospitalier universitaire vaudois (CHUV). Le fait que le liquide pleural est un spécimen paucibacillaire explique la sensibilité limitée des examens microbiologiques.
+
+Adénosine déaminase dans les autres formes de tuberculose
+
+La péritonite tuberculeuse présente la même difficulté diagnostique que la TPB, avec une sensibilité médiocre de la documentation microbiologique dans le liquide d’ascite. La mesure de l’ADA dans l’ascite est un test performant et discriminatoire. Lorsqu’il révèle une ADA élevée, le début d’un traitement anti-­tuberculeux empirique est conseillé [21]. De plus, comme l’IL-27 et l’IFN-γ dans la TBP, d’autres biomarqueurs pour différencier la péritonite tuberculeuse d’une autre forme de péritonite, notamment d’origine oncologique, ont été étudié. C’est le cas du CA-125 («cancer antigen 125»), dont la valeur sérique est élevée dans les 2 cas mais qui a surtout une utilité dans le suivi avec des valeurs retournant à la normal dans le cas d’une péritonite tuberculeuse adéquatement traité [22, 23].
+
+Dans l’épanchement péricardique lymphocytaire, une valeur d’ADA inférieure à 40 UI/l chez un patient avec une probabilité pré-test basse de TB exclut le diagnostic. En revanche une valeur supérieure à 40 UI/l dans une situation où la probabilité pré-test est élevée confirme le diagnostic et un traitement antituberculeux doit être débuté sans nécessité d’attendre une confirmation microbiologique [24].
+
+Il a également été démontré que l’ADA est un test performant dans un contexte d’arthrite ou de méningite tuberculeuse [25, 26].
+
+Le tableau 2 [21, 24–26] présente la performance (valeurs indicatives basées sur les publications citées) de l’ADA dans les différentes formes de tuberculose extra-pulmonaire.
+
+Tableau 2: L’adénosine désaminase (ADA) dans le diagnostic des différentes formes de tuberculose [21, 24–26].
+Type d’atteintetuberculeuse	Prélèvement	Sensibilité [%]	Spécificité [%]	Valeur seuil (UI/l)
+Pleurale	Epanchement pleural	88–100	81–97	40
+Péricardique	Epanchement péricardique	87–93	89–97	40
+Abdominale	Ascite	100	97	39
+Système nerveux central	Liquide céphalo-­rachidien	84–92	87–93	10
+Articulaire	Liquide synovial	85	66	40
+Réponse correcte et conclusion
+
+Le dosage de l’ADA est recommandé chez tout patient présentant un épanchement pleural lymphocytaire suspect d’origine tuberculeuse. Il s’agit d’un test diagnostic simple, rapide, peu coûteux, et plus sensible que les analyses microbiologiques habituelles.
+
+En l’absence de facteurs de risque de tuberculose résistante, sa positivité justifie un début empirique d’une quadrithérapie antituberculeuse standard,
+
+Malgré la faible sensibilité des examens microbiologiques classiques ceux-ci doivent également être effectués dans tous les cas suspects. En effet, il ne faut pas négliger l’importance d’avoir accès à une souche en culture pour déterminer sa sensibilité phénotypique aux antituberculeux (antibiogramme).
+
+Notre patient présente un épanchement pleural lymphocytaire unilatéral et la valeur de l’ADA dans le liquide pleural était de 107 UI/l (norme <40). De plus, le patient est originaire d’un pays présentant une haute prévalence de tuberculose, augmentant ainsi la VPP du test.
+
+Devant ce résultat, un diagnostic de TBP est retenu et un traitement anti-tuberculeux est débuté sans attendre de documentation microbiologique. Le cas a aussitôt été déclaré à l’Office fédéral de la santé publique (OFSP) (déclaration obligatoire, comme dans tout autre cas de tuberculose).
+
+Chez ce patient, nous avons finalement eu une confirmation microbiologique avec une PCR conventionnelle Mycobacterium tuberculosis complex positive à 200 copies/ml dans le liquide pleural (sensibilité à 44–77%). Les cultures du liquide pleural sont quant à elles restées stériles (sensibilité à 40–60%), tout comme l’examen direct du liquide (sensibilité à <10%).
+
+Dans cette situation, un traitement antituberculeux a donc été débuté sans documentation microbiologique préalable et en se basant uniquement sur une valeur d’ADA ainsi qu’une suspicion clinique élevées. A noter que dans certains cas, devant une clinique fortement suggestive et sans autre diagnostic alternatif, un traitement empirique pour une suspicion de TBP peut être justifié malgré une documentation microbiologique ainsi que des biomarqueurs négatifs.
+
+Pour rappel, le diagnostic de TBP nécessite d’exclure une TB pulmonaire associée (absence d’infiltrat compatible ou caverne au scanner, expectorations négatives et/ou bronchoscopie le cas échéant) avant de considérer qu’un patient présente uniquement une atteinte pleurale et ainsi aucun de risque de contagiosité.
+
+Messages principaux
+
+• La tuberculose pleurale est typiquement pauci-bacillaire, diminuant la performance diagnostique des tests microbiologiques standards dans le liquide pleural (examen direct, culture, biologie moléculaire); ces tests doivent être néanmoins maintenus et une tuberculose pulmonaire associée doit toujours être recherchée.
+
+• La fiabilité diagnostique de l’adénosine déaminase dans la tuberculose pleurale est excellente à condition que l’épanchement pleural soit lymphocytaire (> 50% de lymphocytes) et que le résultat soit interprété dans le contexte clinique (absence de néoplasie pulmonaire ou de collagénose, par exemple).

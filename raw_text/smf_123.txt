@@ -1,0 +1,104 @@
+Présentation du cas
+Anamnèse
+
+Alors qu’il pratiquait le saut en hauteur, un patient de 14 ans a été victime d’un traumatisme en hyperextension du genou droit au moment de l’appel et sa jambe s’est ensuite dérobée. Il se plaignait de douleurs immobilisantes au niveau du genou droit. Le patient n’avait pas d’antécédents de blessures du genou et n’était pas atteint de la maladie d’Osgood-Schlatter.
+
+Statut
+
+Genou droit: net gonflement des tissus mous et douleur à la pression dans la région de la tubérosité tibiale avec patella alta; pas d’épanchement significatif de l’articulation du genou; amplitude de mouvement du genou fortement limitée en raison de la douleur; «single-leg raise» impossible; pas de déficits neurovasculaires périphériques.
+
+Imagerie
+
+Radiographie du genou en incidence antéro-postérieure/latérale: avulsion osseuse déplacée de la tubérosité tibiale; pas d’atteinte articulaire (fig. 1A).
+
+Imagerie par résonance magnétique (IRM) du genou: fracture-arrachement extra-articulaire déplacée de la tubérosité tibiale; continuité intacte du tendon rotulien; pas de lésions ligamentaires concomitantes, ménisques intacts (fig. 1B, C).
+
+Figure 1: Clichés des lésions: radiographie du genou en incidence antéro-postérieure/latérale (A) et IRM du genou (B coupe sagittale;Ccoupe transversale).
+
+Diagnostic
+
+Avulsion osseuse du tendon rotulien au niveau du tibia proximal correspondant à un type I B selon Ogden.
+
+Classification
+
+Il existe différentes classifications des lésions apophysaires durant l’enfance et l’adolescence. En 1976, Watson-Jones a classifié les avulsions de la tubérosité tibiale en trois types. Pour les lésions apophysaires dans la région de la tubérosité tibiale, la classification de ­Ogden est aujourd’hui le plus souvent utilisée. Cette classification est une modification de la classification de Watson-Jones. L’ampleur du déplacement est subdivisée en sous-types A et B [7]. La classification de Ogden a été complétée par trois types supplémentaires par Ryu et al. en 1985 et McKoy et al. en 2003 [3, 9]. Frankl et al. ont introduit le sous-type C en cas d’avulsion associée du tendon rotulien [1].
+
+La classification de Ogden [7] et l’extension par Ryu et McKoy [3, 9] (fig. 2) distinguent les types suivants:
+
+– Ogden I A: Fracture traversant le centre d’ossification de la tubérosité tibiale
+
+– Ogden I B: Comme I A, mais plurifragmentaire avec déplacement du fragment distal
+
+– Ogden II A: Fracture suivant un trajet proximal à travers la jonction de l’apophyse et de l’épiphyse
+
+– Ogden II B: Comme II A, mais plurifragmentaire avec déplacement du fragment distal
+
+– Ogden III A: Intra-articulaire, fracture traversant l’apophyse et l’épiphyse tibiale avec déplacement
+
+– Ogden III B: Comme III A, mais plurifragmentaire avec déplacement du fragment distal
+
+– Ogden IV: Détachement de l’ensemble de l’épiphyse tibiale avec l’apophyse, sans fracture supplémentaire [9]
+
+– Ogden V: En plus fracture épiphyso-métaphysaire du tibia proximal (Salter-Harris IV) [3]
+
+Figure 2: Classification des lésions apophysaires dans la ­région de la tubérosité tibiale selon Ogden [7] et extension par Ryu et McKoy [3, 9].
+
+Traitement
+
+Chez notre patient, nous avons procédé à une réduction ouverte et à une fixation interne au moyen de deux vis à os spongieux de 4 mm avec rondelles introduites depuis la face ventrale, avec une position macroscopiquement et radiologiquement correcte du fragment d’avulsion. En outre, une augmentation du tendon rotulien a été réalisée au moyen d’un ancrage de suture au niveau du tibial proximal. En intra-opératoire, une tension correcte du tendon rotulien a été observée cliniquement. A l’issue de l’intervention, le patient a porté une attelle de type «ACL-Brace» avec une augmentation progressive de l’amplitude de mouvement sur six semaines et une mise en charge partielle.
+
+Evolution
+
+Lors du contrôle clinique-radiologique six semaines après l’intervention, une flexion du genou jusqu’à 90° était aisément possible, mais le patient a néanmoins signalé une nette diminution de la force des muscles quadriceps. Lors de la contraction des muscles quadriceps, le tendon rotulien était nettement palpable dans toute sa longueur et largeur. A l’examen radiologique, outre la consolidation croissante de la tubérosité tibiale, un fragment osseux de survenue nouvelle sur le trajet proximal du tendon rotulien a en outre été visualisé. Une calcification du tendon rotulien a été envisagée dans le cadre du diagnostic différentiel, mais paraissait improbable en raison des arêtes vives visualisées.
+
+Par la suite, avec le renforcement des muscles quadriceps et une amplitude de mouvement complète du genou (Ext/Flex 0/0/130°) obtenus grâce à une physiothérapie intensive, le patient ne ressentait plus de douleurs. Il présentait une démarche boiteuse et ressentait une entrave au mouvement et une perception de «claquement» dans le genou. Par rapport au côté gauche, le tendon rotulien du côté droit ne présentait pas de patella alta visible et était toujours fermement palpable. Le patient était à même de réaliser un «single-leg raise» sans éprouver de douleurs contre pesanteur, mais pas contre résistance (M3 selon Janda).
+
+L’IRM et la tomodensitométrie (TDM) ont confirmé une avulsion secondaire du tendon rotulien avec une consolidation totale de l’avulsion osseuse au niveau de la tubérosité tibiale (fig. 3).
+
+Figure 3: Diagnostic complémentaire par TDM et IRM.
+
+Dix semaines après l’ostéosynthèse primaire, nous avons procédé à une révision avec retrait des vis à os spongieux, réinsertion transosseuse du tendon rotulien au moyen de trois ancrages de suture et décharge par cerclage selon McLaughlin. A la suite de l’intervention, le patient a à nouveau porté une attelle de type «ACL-Brace» durant six semaines, avec augmentation progressive de l’amplitude de mouvement et mise en charge partielle.
+
+Six semaines après la révision, le patient était asymptomatique et il pouvait sans problème réaliser un «single-leg raise» contre résistance (M4 selon Janda). Douze semaines après l’intervention, face à une tubérosité tibiale consolidée sur le plan clinique et radiologique, le cerclage métallique a été retiré. Le patient ne boitait plus, il présentait une amplitude de mouvement complète (Ext/Flex 5/0/130°) et une orientation correcte de l’axe des jambes et de la patella. La force musculaire était intacte (M5). Le patient a pu reprendre de plus en plus les activités sportives. Lors des tests fonctionnels douze mois après le traumatisme, le patient présentait des valeurs symétriques au test de saut et au test isokinétique de la force vitesse et de la force maximale.
+
+Discussion
+
+Les avulsions de la tubérosité tibiale sont des lésions rares et elles touchent plutôt les grands enfants et les adolescents [7].
+
+Les apophyses sont des centres d’ossification secondaires, qui apparaissent au cours de la deuxième décennie de vie par ossification endochondrale au niveau des insertions tendineuses et fusionnent avec les os avoisinants au cours de la croissance. C’est également le cas pour la tubérosité tibiale, sur laquelle s’insère le tendon rotulien. Notamment vers la fin de la fusion apophysaire, elle est particulièrement vulnérable, car l’élasticité élevée du cartilage infantile a déjà disparu tandis que la solidité de l’os adulte n’est pas encore atteinte. Il en résulte une diminution dépendante de l’âge de la résistance mécanique de la région apophysaire [5].
+
+Avec une incidence de 0,4–2,7%, l’avulsion de la tubérosité tibiale est très rare et elle représente moins d’1% de toutes les lésions apophysaires [4]. La revue systématique de Pretell-Mazzini datant de 2016 indique néanmoins qu’une augmentation des avulsions de la tubérosité tibiale s’est amorcée au cours des dernières années [8]. Cette lésion survient majoritairement dans le cadre d’activités sportives, et le traitement inadéquat peut conduire à des limitations fonctionnelles au quotidien. Sur la base des données actuellement disponibles, nous ne disposons que de peu de connaissances sur les lésions concomitantes, le traitement, les complications et les résultats à long terme.
+
+Dans l’ensemble, 97% des lésions apophysaires du tibia proximal surviennent chez des patients de sexe masculin âgés de 13 à 16 ans [8]. Cette différence entre les sexes est attribuée à la masse musculaire plus élevée, à des facteurs hormonaux, ainsi qu’à la différence de pratique de certains types de sports en fonction des sexes [6, 7].
+
+Deux mécanismes conduisent à un arrachement de la tubérosité tibiale via une charge de traction soudaine due à une tension musculaire maximale saccadée du muscle quadriceps fémoral [7, 8]:
+
+1. Forte contraction du muscle quadriceps fémoral dans le cadre d’une extension maximale du genou lors d’un appel
+
+2. Flexion passive rapide du genou contre le muscle quadriceps contracté durant la réception après un saut ou une chute
+
+Les lésions de type III sont le type de fracture de la tubérosité tibiale le plus fréquent, comptant pour plus de >50% des cas, et elles sont assez souvent associées à des lésions concomitantes en raison de l’atteinte intra-articulaire [8]. Différentes lésions concomitantes sont décrites dans la littérature [8]: avulsion du tendon rotulien de la tubérosité tibiale arrachée [1, 4], déchirure du tendon quadricipital [4], lésion méniscale [2], déchirure du ligament croisé antérieur et rupture du ligament interne [2], ainsi que syndrome de loge préopératoire par rupture de l’artère récurrente tibiale antérieure [8]. En 2004, Mosier et al. ont même mis en évidence une rupture des tendons extenseurs dans 15,7% des cas, dont les deux tiers (c.-à-d. 10,5% de tous les cas) correspondaient à une avulsion du tendon rotulien [4].
+
+Afin de comprendre la lésion sous-jacente, outre la ­radiographie conventionnelle et l’examen clinique, l’anamnèse exacte quant aux circonstances de l’accident est également essentielle. Pour dresser un bilan plus précis de la lésion et exclure des lésions concomitantes, en particulier des lésions internes du genou, il est vivement recommandé de réaliser un examen d’imagerie en coupe par IRM ou une arthroscopie intra-opératoire. L’objectif du traitement est d’obtenir un rétablissement total de l’appareil extenseur et de la surface articulaire.
+
+Les avulsions de la tubérosité tibiale nécessitent un traitement par ostéosynthèse dans 88% des cas [8]. Les exceptions sont les avulsions non déplacées (le plus souvent de type I A), qui font l’objet d’une immobilisation en extension dans un tuteur durant quatre à huit semaines et requièrent un contrôle clinique-radiologique strict [8, 10]. Pour tous les autres types (type I B–V), en cas de déplacement >2–3 mm et d’atteinte articulaire, le traitement de choix consiste dans 98% des cas en une réduction ouverte ou une reconstruction articulaire assistée par arthroscopie, car le périoste est souvent affecté en cas de déplacement. Cela empêche une réduction anatomique correcte et une fixation interne de la fracture est alors indiquée [3, 4, 8, 10]. Il existe différentes fixations internes, qui sont toutes utilisées avec des taux de succès comparables: vis à os spongieux, broches de Kirschner, ancrages de suture, haubanage ou combinaisons [4, 8]. Ensuite, à la fois en cas de traitement conservateur et de traitement chirurgical, un entraînement intensif des muscles quadriceps et de la mobilité de l’articulation du genou est indispensable [10]. Les données relatives aux résultats à long terme après ostéosynthèse sont rares et leur niveau de preuve est faible; en cas de traitement adéquat et en temps opportun, un bon résultat est atteint avec une guérison de la fracture dans 99% des cas, mais le processus de guérison est long [8].
+
+La revue systématique de Pretell-Mazzini et al. datant de 2016 a montré que 98% des patients obtenaient une amplitude de mouvement complète en moyenne après 22 semaines. Par ailleurs, 98% des patients retrouvent leur niveau d’activité initial en moyenne après 29 semaines. La revue a cependant aussi montré un taux de complications de 29% au total [8]. Cela témoigne de la gravité de la lésion et de la difficulté de la traiter correctement. Dans la littérature, il n’y a pas de corrélation entre le type de fracture, le traitement, l’âge du patient, les lésions des tissus mous ou une anamnèse positive pour la maladie d’Osgood-Schlatter et la récupération du niveau d’activité initial et de l’amplitude de mouvement initiale [4].
+
+Rétrospectivement, il apparaît que nous avons initialement sous-estimé la lésion de notre patient. Il est possible qu’une avulsion du tendon rotulien, correspondant au type C selon Frankl et al., était déjà présente dès le début [1].
+
+Les complications postopératoires les plus fréquemment décrites sont: bursite (56%), douleurs persistantes dans la région de la tubérosité tibiale (18%), refractures (6%), genu recurvatum par fermeture prématurée de la plaque de croissance (4%), inégalité de longueur des membres inférieurs (5%) et calcification du tendon rotulien [4, 7, 8].
+
+Un lien entre les avulsions du tibia proximal et la maladie d’Osgood-Schlatter est suspecté, mais il n’a jamais été démontré par biopsie [8]. 23% des patients avec avulsion de la tubérosité tibiale avaient déjà avant le traumatisme des symptômes correspondant à la maladie d’Osgood-Schlatter [8]. On ne sait cependant pas combien de patients atteints de la maladie d’Osgood-Schlatter développent une fracture. Bien qu’il n’existe pas de preuves issues d’études à ce sujet, les patients atteints de la maladie d’Osgood-Schlatter devraient être informés quant au risque accru de fracture [8].
+
+L’essentiel pour la pratique
+
+• Les lésions apophysaires de la tubérosité tibiale sont des lésions rares mais graves, qui surviennent avant tout chez les adolescents de sexe masculin dans le cadre des activités sportives, notamment des sports de saut.
+
+• Des lésions concomitantes doivent être exclues par IRM ou arthroscopie intra-opératoire.
+
+• Les avulsions déplacées de la tubérosité tibiale doivent être prises en charge précocement par ostéosynthèse. Le traitement de choix est la réduction ouverte et la fixation interne au moyen d’une ostéosynthèse par vis.
+
+• Un retrait précoce du matériel métallique est recommandé en cas de risque de fermeture prématurée de la plaque de croissance sous l’action de la fusion apophysaire.
+
+• Les lésions apophysaires ont un bon pronostic en cas de détection adéquate et de traitement approprié.

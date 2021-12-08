@@ -1,0 +1,68 @@
+Contexte
+
+Les patients dialysés ayant un cathéter veineux central présentent un risque d’occlusion d’une ou plusieurs veines centrales. Une étude observationnelle canadienne [1] a montré que la thrombose ou la sténose de la veine cave supérieure (VCS) représente la troisième complication la plus fréquente des cathéters de dialyse permanents. Bien que sa fréquence, de l’ordre de 2% sur une période d’observation de 12 mois, soit modérée, il s’agit d’une complication très pertinente, comme le montre notre cas.
+
+En cas d’occlusion veineuse centrale, la création chirurgicale d’une fistule de dialyse au niveau du bras n’entre pas en ligne de compte, car le blocage de l’écoulement sanguin empêche la maturation de la fistule. Dans cette situation, les accès fémoraux représentent eux aussi une alternative insatisfaisante en raison de leur instabilité et du risque accru de thrombose et d’infection. De même, les accès de dialyse artério-artériels sont associés à une morbidité élevée [2].
+
+Dans la présentation de cas qui suit, nous décrivons une nouvelle procédure de création d’un accès de dialyse, qui a été réalisée pour la première fois en Suisse et qui peut également être utilisée en tant que procédure de bail-out en cas d’occlusion de la VCS [3, 4].
+
+Présentation du cas
+Anamnèse et statut
+
+Un patient de 69 ans avec insuffisance rénale terminale d’origine indéterminée nécessitant une dialyse nous a été adressé par son néphrologue traitant en raison d’une forte suspicion d’infection sur cathéter chez ce patient porteur d’un cathéter auriculaire dans la veine jugulaire droite.
+
+Une fistule de Cimino du côté gauche avait été créée en 2011 à l’étranger. Depuis lors, le patient était dialysé via un cathéter tunnelisé placé dans la veine jugulaire droite en raison d’occlusions de shunt récidivantes. Il avait toujours refusé des mesures chirurgicales supplémentaires.
+
+A son admission, le patient s’est présenté avec un tableau septique, associant fièvre de 39 °C, frissons et chutes de la pression artérielle (protéine C réactive 83,2 mg/l, leucocytes 3,8/nl, pression artérielle systolique basse de 80–100 mm Hg). La suspicion d’infection sur cathéter a été confirmée suite à la mise en évidence d’une croissance d’un pathogène Pseudomonas aeruginosa pan-sensible au niveau de la pointe du cathéter explanté. Un traitement adapté à la situation de résistance, par 2× 4,5 g de pipéracilline/tazobactam, a été administré durant 22 jours.
+
+Suite au retrait du cathéter de dialyse tunnelisé, une hémodiafiltration veino-veineuse continue a été mise en œuvre via un cathéter de Shaldon introduit dans la veine fémorale gauche. Pour la planification d’une nouvelle pose d’un cathéter de dialyse tunnelisé, une tomodensitométrie (TDM) a été réalisée.
+
+Résultats et diagnostic
+
+La veinographie par TDM (fig. 1) a révélé une longue occlusion thrombotique de la VCS allant de l’oreillette droite jusqu’à la naissance de la veine brachiocéphalique gauche, avec de multiples voies de dérivation via la veine azygos et la veine sous-clavière droite le long de la paroi thoracique. Au cours de la concertation interdisciplinaire impliquant la néphrologie, la chirurgie vasculaire et la radiologie interventionnelle, il a été décidé de procéder à une tentative de recanalisation.
+
+Figure 1: Tomodensitométrie pré-interventionnelle avec produit de contraste (coupe axiale): Occlusion de la veine cave supérieure (flèche).
+
+Traitement
+
+La tentative de recanaliser la VCS obstruée au moyen de la technique du rendez-vous sous anesthésie générale s’est révélée infructueuse. En tant que dernière possibilité d’intervention, nous avons procédé à la création d’un accès de dialyse au moyen du système de cathéter «Surfacer® Inside-Out® Access» (Bluegrass Vascular Technologies, San Antonio, TX, Etats-Unis et Merit Medical, South Jordan, UT, Etats-Unis). Ce dispositif est conçu non pas pour obtenir en premier lieu une recanalisation de la VCS obstruée mais pour créer un canal dans une nouvelle direction [5]. Il est ainsi possible de créer de façon mini-invasive, et donc aussi en préservant les tissus, un nouvel accès veineux central percutané malgré l’occlusion chronique de la VCS. Parmi les complications potentielles figurent les infections, le pneumothorax ou l’hémothorax, ainsi que la lésion des vaisseaux artériels avoisinants. Ce risque peut néanmoins être minimisé en orientant le plus possible le fil ou le cathéter en direction antérieure et latérale, à l’opposé de l’artère carotide commune de localisation postérieure.
+
+Les contre-indications à cette intervention sont les ­occlusions thrombotiques de la veine cave inférieure ou des veines du bassin, les thrombi dans l’oreillette droite, ainsi qu’une plicature importante des vaisseaux (par ex. en cas de scoliose) qui doivent être traversés par le système de cathéter.
+
+L’intervention a été réalisée sous anesthésie générale dans la salle d’angiographie.
+
+Procédure: Une gaine de 8F est tout d’abord introduite via la veine fémorale droite selon la technique de Seldinger afin de pouvoir ensuite faire progresser le «Workstation Sheath and Dilator» via la veine fémorale jusque dans l’oreillette droite (fig. 2A). L’«Exit Target» est placé au niveau du site de sortie prévu du cathéter (dans l’angle sterno-claviculaire); il s’agit d’un marqueur circulaire radio-opaque destiné à la navigation fluoroscopique (fig. 2B).
+
+Figure 2: A) «Workstation Sheath and Dilator» amenés jusqu’à l’oreillette droite via la veine fémorale.B) «Exit Target» au niveau du site de sortie prévu du cathéter dans l’angle sterno-claviculaire.
+
+L’étape suivante consiste à faire avancer le «Surfacer® Device», composé d’un «Needle Guide» et d’un «Needle Wire» ainsi que d’une poignée, en direction crâniale à partir du niveau de l’obstruction jusqu’à hauteur de la clavicule. En tournant la poignée sous contrôle radio­scopique, la pointe du «Surfacer® Device» est orientée en projection sur l’«Exit Target». Ensuite, le «Needle Wire» est poussé en direction ventrale à travers les tissus mous et la peau jusqu’à ce qu’il ressorte à la surface cutanée.
+
+Par la suite, une gaine est introduite depuis l’extérieur dans l’oreillette droite via le fil à présent externalisé en passant par un «Peelable Introducer and Dilator» (fig. 3A et B). La pose du cathéter auriculaire s’effectue ensuite de manière habituelle.
+
+Figure 3: A etB ) Introduction d’une gaine depuis l’extérieur dans l’oreillette droite via le fil externalisé en passant par un «Peelable Introducer and Dilator».
+
+Evolution
+
+Depuis l’intervention, le nouveau cathéter de dialyse tunnelisé est invariablement en place et cela fait maintenant trois mois qu’il fonctionne parfaitement (fig. 4 A et B).
+
+Figure 4: Tomodensitométrie post-interventionnelle avec produit de contraste (A: coupe coronale,B: coupe sagittale): ­cathéter de dialyse placé dans l’oreillette droite (flèche).
+
+Sur le plan infectiologique, l’antibiothérapie a été poursuivie en raison de la suspicion d’une thrombose septique. Compte tenu des antécédents de thromboses sur cathéter récidivantes sous apixaban 5 mg/jour, ce traitement anticoagulant a été délaissé au profit de la phenprocoumone 3 mg.
+
+Discussion
+
+Une complication en cas de cathéters veineux centraux en place depuis longtemps est l’occlusion thrombotique de la VCS et des grandes veines afférentes («thoracic central venous obstruction» [TCVO]) [6].
+
+Chez les patients insuffisants rénaux, un accès central pour l’hémodialyse est toutefois nécessaire en tant que transition ou en cas de shunt ne fonctionnant pas. La pose d’un cathéter de dialyse tunnelisé dans la veine ­jugulaire à l’aide de la technique inside-out est une ­méthode efficace et sûre pour maintenir un accès à l’hémodialyse chez les patients avec occlusion veineuse centrale. Cela permet également d’éviter un accès fémoral qui, par rapport à l’accès jugulaire, est associé à un taux accru de migrations et d’infections. Par ailleurs, une pose via la veine sous-clavière doit être évitée en raison du risque élevé de thromboses et de la nécessité éventuelle d’utiliser cet accès pour un cathéter à chambre ou un stimulateur/défibrillateur [7].
+
+La technique inside-out représente une nouvelle alternative sûre et efficace pour rester fidèle au principe «always right, never subclavian» même en cas d’occlusions chroniques étendues de la VCS, telle est la conclusion de deux études récentes (SAVE et SAVE-US) [8, 9].
+
+Outre la réalisation chirurgicale vasculaire de pontages pour contourner les segments vasculaires obstrués, d’une greffe HeRo® («hemodialysis reliable outflow graft») ou d’un «bone-anchored vascular access» dans la mastoïde, il existe également diverses alternatives de radiologie interventionnelle en cas d’occlusion de la VCS. Ainsi, les occlusions veineuses peuvent également être recanalisées à l’aide de fils de radiofréquence [10, 11], ce qui est toutefois associé à un risque de développement d’une fausse lumière ou de perforation. Une autre alternative est la «recanalisation à l’aiguille», lors de laquelle une recanalisation du segment obstrué de la VCS est tentée au moyen d’une aiguille pointue via un accès dans la veine jugulaire interne/externe. Toutefois, elle est associée à un taux accru de complications, telles que le pneumothorax, l’hémothorax, l’hémopéricarde, les lésions nerveuses, ainsi que la ponction artérielle accidentelle [12, 13].
+
+La nouvelle procédure que nous avons utilisée constitue une méthode efficace et sûre pour assurer un accès veineux central en cas d’occlusion de la VCS, en l’absence d’autres options.
+
+L’essentiel pour la pratique
+
+• Chez les patients dialysés présentant une occlusion des veines centrales, y compris de la veine cave supérieure, l’accès inside-out décrit représente une procédure de bail-out efficace pour générer un accès veineux central. En raison de sa nature mini-invasive, il est particulièrement approprié pour les patients polymorbides.
+
+• Le cas que nous avons présenté montre que la morbidité à long terme associée aux accès veineux centraux, notamment liée à une obstruction, est certes globalement assez faible, mais qu’il s’agit d’une complication cliniquement pertinente. Il est donc primordial de la traiter de façon efficace, rapide et sûre.

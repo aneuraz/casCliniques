@@ -1,0 +1,59 @@
+Der Priapismus ist eine prolongierte Erektion, die per Definition länger als 4 Stunden anhält und sich unabhängig von sexueller Erregung manifestiert. Er kann in jedem Alter auftreten. Die Inzidenz ist tief (ca. 0,5 pro 100 000 Einwohner pro Jahr) [1]. Häufige Gründe sind eine unerwünschte Arzneimittelwirkung intrakavernöser Therapien (z.B. Prostaglandin E₁), Sichelzell­anämie, Leukämien, neurologische Erkrankungen und pelvine Thrombophlebitiden. Ein maligner Priapismus auf Grund einer lokoregionären Neoplasie oder einer Metastase ist äusserst selten und wurde 1870 von Eberth erstmalig beschrieben.
+
+Fallbericht
+Anamnese
+
+Auf Grund von Penisschmerzen wurde der Hausarzt zu einem 94-jährigen Patienten gerufen. Anamnestisch bestand zudem schon länger eine derbe Schwellung des Penis und eine progrediente Miktionsproblematik. Der Patient wurde am Folgetag in der ambulanten urologischen Sprechstunde gesehen. Hier gab er an, seit ca. sechs Monaten eine erschwerte Miktion mit abgeschwächtem Harnstrahl bemerkt zu haben. Seit ein paar Wochen bestehe zudem eine andauernde, schmerzhafte Schwellung des Penis. Weitere Symptome wurden verneint. Insbesondere konnte keine B-Symptomatik eruiert werden.
+
+Der Betroffene lebte in einem Alters- und Pflegeheim.
+
+Neben einer generalisierten Atheromatose mit einer koronaren 3-Ast-Erkrankung und einer peripher arteriellen Verschlusskrankheit war eine unklare degenerative Motoneuronerkrankung bekannt.
+
+Status/Befunde
+
+Im klinischen Status zeigte sich ein altersentsprechender Patient in reduziertem Allgemeinzustand. Das Abdomen war eingefallen, weich und ohne Resistenzen; der Patient war kachektisch. Die Darmgeräusche waren unauffällig. Das äussere Genitale zeigte eine derbe Schwellung des Penisschafts und der Glans mit einer Verhärtung an der Penisbasis. Die Penishaut war livid und zeigte an der Glans umschriebene Nekrosezonen.
+
+Im Rektalstatus fand sich eine unauffällige Prostata ohne Verhärtung oder Dolenz.
+
+Sonographisch zeigten sich die Nieren orthotop und abflussfrei. Neben mehreren simplen Nierenzysten wies die rechte Niere eine schlecht abgrenzbare Raumforderung mit ca. 5 cm Durchmesser auf. Die Harnblase wies ca. 250 ml Restharn auf.
+
+Laboranalytisch lag eine normochrome, normozytäre Anämie mit einem Hämoglobin von 112 g/l vor. Es zeigten sich normale Nierenwerte und Elektrolyte. Das CRP war mit 60 mg/l leicht erhöht.
+
+Es erfolgte eine problemlose Zystofix-Einlage in Lokalanästhesie bei im Vordergrund stehender Blasenentleerungssymptomatik. Auf eine primäre Therapie des Priapismus wurde aufgrund der unklaren Ursache vorerst verzichtet.
+
+Computertomographisch offenbarte sich ein metastasiertes Tumorleiden mit Befall des Penis (Abb. 1), speziell der Corpora cavernosa sowie multiple Metastasen pulmonal und in den Weichteilen (insbesondre gluteal rechts, Adduktorenloge und vertebrale Muskulatur). Zudem bestätigte sich der Nierentumor am rechten Oberpol (Abb. 2).
+
+Abbildung 1: MRI des Beckens mit Priapismus und Läsion in der Pensibasis.
+
+Abbildung 2: CT Thorax-Abdomen-Becken mit Verdacht auf Nierentumor rechts.
+
+Die gluteale Läsion rechts wurde sonographisch gesteuert punktiert. Dabei fand sich histologisch ein solides Karzinom mit umschriebenen Nekroseherden und kräftiger Expression von PAX8 und Vimentin sowie relativ hoher proliferativer Aktivität (Ki67 35–40%) nebst einer Hämangiosis carcinomatosa (Abb. 3A–D). Der Befund ist gut zu vereinbaren mit einer Metastase eines Nierenzellkarzinoms. Damit lag ein maligner Priapismus vor.
+
+Abbildung 3: Solides und teils hellzelliges Karzinom, mit inzipienter sarkomatoider Differenzierung (HE-Färbung)
+(A)sowie immunhistochemischer Expression von MNF116(B), PAX8(C)und Vimentin(D)(Vergrösserung 200×).
+
+Verlauf/Therapie
+
+Auf Wunsch des Patienten und dessen Familie wurde auf jegliche weitere Diagnostik verzichtet. Eine «best supportive care» wurde gewünscht und entsprechend durchgeführt. Bereits am Folgetag verschlechterte sich der Zustand des Patienten nach einer hypertensiven Krise mit einem Blutdruck von 185/90 mm Hg rapide und er war anschliessend mehrheitlich somnolent. Er verstarb in der Folge nach weiteren drei Tagen friedlich im Beisein der Familie.
+
+Diskussion
+
+Urogenitale Tumore sind die häufigste Ursache für eine Metastasierung im Bereich des Penis. In diesen Fällen ist in bis zu 40% ein Priapismus aufgrund eines venösen Abflusshindernisses der Corpora cavernosa vorhanden. Häufig führt dies auch zu einer Blasenentleerungsstörung wie in unserem Fall; insbesondere bei einer Beteiligung des Corpus spongiosum.
+
+Die penile Metastasierung ist per se ein Ausdruck eines fortgeschrittenen Tumorleidens. Die Mehrheit der Patienten verstirbt innerhalb eines Jahres [2]. Laut einem Review von Yu-Hsiang Lin et al [3] finden sich in der Literatur bis Januar 2011 total 394 Fälle einer penilen Metastasierung. Nur 20–50% davon hatten einen malignen Priapismus.
+
+Für die Entstehung von Penismetastasen postulierte J. Cherian [4] 2006 fünf Mechanismen. Erstens eine Verbreitung von malignen Zellen über den pelvinen Venenplexus bei retrogradem venösem Reflux. Dieser Mechanismus würde Metastasen von Prostata-, Kolon- und Blasenkarzinomen erklären. Zweitens eine lymphatische Metastasierung über die iliakalen Lymphknoten. Drittens eine direkte arterielle Dissemination. Viertens eine direkte Invasion per continuitatem aus Nachbarorganen. Als fünfter Mechanismus wird eine sekundäre Verschleppung durch Operationen postuliert.
+
+Es werden verschiedene Therapiemöglichkeiten wie lokale Tumorexzision, partielle oder totale Penektomie, Radiotherapie oder Chemotherapie beschrieben. Allen gemeinsam ist der palliative Charakter. Ein exspektatives und rein symptomorientiertes Vorgehen ist bei kurzer Lebenserwartung zu erwägen.
+
+Bei unserem hoch geriatrischen Patienten mit multi­plen Metastasen und (Tumor-)Kachexie wäre weder eine operative Sanierung noch eine belastende Radio- oder Chemotherapie aus unserer Sicht zielführend gewesen.
+
+Das Wichtigste für die Praxis
+
+• Ein Priapismus kann in jedem Alter auftreten und kann bei alten/dementen Patienten durchaus verpasst werden.
+
+• Eine klinische Untersuchung ist auch bei Beschwerden im Genitalbereich obligat, was sich im Merksatz eines emeritierten Urologen widerspiegelt: «Die Visite findet unter der Bettdecke statt».
+
+• Bei therapieresistentem Priapismus muss im klinischen Alltag auch an eine maligne Ursache gedacht werden.
+
+• Die Therapie eines malignen Priapismus ist in jedem Fall palliativ und sollte individuell an die Patientenbedürfnisse angepasst werden.

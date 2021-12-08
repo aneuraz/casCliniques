@@ -1,0 +1,87 @@
+Contexte
+
+Les infections du greffon aortique (IGA) surviennent chez seulement 1–2% des patients opérés [1], mais sont extrêmement significatives pour le système de santé en raison du taux de mortalité élevé de jusqu’à 20% ainsi que des coûts associés. Nous rapportons le cas d’un patient atteint d’une IGA à la suite d’une dis­section aortique traitée par chirurgie. Il s’avère que, malgré les difficultés rencontrées, le rétablissement de la capacité de performance et de la qualité de vie est possible pour les patients.
+
+Rapport de cas
+Anamnèse
+
+Le patient âgé de 50 ans a été adressé au service d’urgence par le médecin de famille en présence de douleurs dorsales immobilisantes persistant depuis une semaine. Les douleurs étaient survenues pendant son activité de livreur de colis.
+
+Après une dissection aortique de type «non A non B» trois ans auparavant, une procédure conservatrice a initialement été choisie. Parallèlement à une symptomatique de douleur croissante prenant la forme de maux de dos, la taille de l’hématome au niveau de l’aorte ascendante a toutefois progressé, d’où l’indication d’un débridement chirurgical immédiat. Un remplacement de la racine aortique (greffon composite mécanique; Gelweave™ 28 mm) ainsi qu’un remplacement complet de la crosse faisant appel à la technique de la «trompe d’éléphant renforcée» («Frozen Elephant Trunk» [FET]) ont été effectués.
+
+Sept mois après l’intervention index, le patient s’est présenté avec de la fièvre et des frissons, et un Streptococcus (S.) constellatus ainsi qu’un Aggregatibacter (A.) aphrophilus négatif aux bêta-lactamases ont été révélés dans les cultures sanguines (tab. 1). Une angio-TEP/TDM (angiotomographie par émission de positons/tomodensitométrie) a permis de mettre en évidence une infection circulaire active du greffon. En raison de la morbidité périopératoire élevée (mortalité >25%) [2, 3] qu’il convient d’escompter, il a d’abord été renoncé à une révision chirurgicale cardiaque et un traitement conservateur a été initié. Le traitement anti-infectieux a été débuté de manière empirique avec de la vancomycine i.v., de la gentamicine i.v. et de la rifampicine p.o., avant de finalement passer à la ceftriaxone i.v. et la gentamicine i.v. de façon adaptée à la situation de résistance. Après achèvement de la phase thérapeutique ­intraveineuse, une désescalade du traitement a été réalisée en faisant appel à la lévofloxacine comme traitement suppressif chronique.
+
+Tableau 1: Agents pathogènes et traitement anti-infectieux des différents épisodes.
+Episode	Milieu	Germe	Traitement
+Episode 1(7 mois après l’opération)	Culture sanguine	Streptococcus constellatus	– Empirique:vancomycine i.v., gentamicine i.v.,rifampicine i.v.– En fonction de la situation de résistance:ceftriaxone i.v.,gentamicine i.v.–Suppression orale:lévofloxacine p.o.
+Culture sanguine	Aggregatibacter aphrophilus
+ 	 
+Episode 2(après 5 mois supplémentaires)	Selles	Clostridioidesdifficile	Empirique:métronidazole p.o.
+Culture sanguine	Prevotella spp.	– Empirique:ceftriaxone i.v.– Suppression orale:clindamycine p.o.,minocycline p.o.*
+ 	 
+Episode actuel(après 7 mois supplémentaires)	Culture sanguine	Enterococcus faecalis	– Empirique:pipéracilline/tazobactam i.v.– En fonction de la situation de résistance:amoxicilline/acide ­clavulanique i.v., plus amoxicilline i.v. et ceftriaxone i.v.– Suppression orale:amoxicilline/ acide ­clavulanique p.o.**,minocycline p.o.*
+Culture sanguine	Streptococcus sanguinis
+ 	 
+* Ratio: Aggregatibacter;** Ratio: Prevotella,Enterococcus; postop.:post-opératoire.
+
+Cinq mois après le premier épisode, le patient a de nouveau été admis à l’hôpital et une colite à Clostridioides (C.) difficileainsi qu’une bactériémie à Prevotella-spp. ont été diagnostiquées. La colite a été traitée par métronidazole p.o. pendant 10 jours. Afin de prévenir une colonisation secondaire du greffon par ­Prevotellaspp., le traitement est passé de la lévofloxacine p.o. à la ceftriaxone i.v. Après achèvement d’un traitement intraveineux de six semaines, il a de nouveaux été passé à un traitement suppressif oral par minocycline (ratio: A. aphrophilus) et clindamycine (ratio: Prevotellaspp. et S. constellatus).
+
+Au bout de sept mois supplémentaires, le patient a de nouveau été admis en stationnaire en raison de douleurs dorsales immobilisantes.
+
+Statut et résultats
+
+Au moment de l’admission, le patient présentait une douleur à la percussion limitée au niveau des vertèbres lombaires (VL) 2/3 sans déficit neurologique. A l’examen corporel, le patient dans un état réduit était normotendu et normocarde et sa température était de 37,5 ˚C. Le reste de l’’examen était normal. Sur le plan biochimique, la CRP était accrue à l’admission, avec une valeur de 70 mg/l, tandis que les leucocytes et plaquettes affichaient des valeurs normales. Le patient présentait en outre une légère anémie normochrome et normocytaire avec un taux d’hémoglobine de 10,6 g/dl. Sous anticoagulation orale par phénprocoumone, l’INR était déréglé avec une valeur de 5,74. La fonction rénale était légèrement réduite avec un taux de créatinine de 101 µmol/l et un DFGe de 75 ml/min/1,73 m2. Les enzymes hépatiques se trouvaient dans la norme. La radiographie conventionnelle de la colonne lombaire a permis d’exclure toute fracture. Sous traitement par clindamycine p.o. et minocycline p.o., les cultures sanguines étaient positives à Enterococcus faecalis et Streptococcus sanguinis.
+
+Diagnostic
+
+Le lendemain, une imagerie par résonance magnétique de la colonne lombaire a été réalisée, révélant, outre des modifications dégénératives, un phlegmon paravertébral au niveau L 2/3, impossible à distinguer de l’aorte et d’abord interprété en tant que une spondylodiscite (fig. 1).
+
+Figure 1: L’imagerie par résonance magnétique de la colonne lombaire au niveau L2/3 révèle un phlegmon prévertébral (flèche horizontale).
+
+Pour éclaircir l’étiologie, une angiographie par TDM a été effectuée et a révélé une fistule étroite et remplie d’air entre le greffon et l’œsophage à hauteur de la crosse aortique, rétrospectivement déjà existante à la TEP/TDM (fig. 2).
+
+Figure 2: La TEP/TDM révèle une fistule œsophagienne ­remplie d’air (flèche horizontale) et une accumulation au ­niveau de la crosse aortique (flèche verticale).
+
+La panendoscopie supérieure a ensuite montré une grosse fistule œsophagienne avec vue directe sur le greffon aortique (fig. 3).
+
+Figure 3: L’œsophagoscopie montre la rupture de l’œsophage avec vue libre sur le greffon aortique (flèche verticale), taille de l’anomalie env. 2 × 2 cm.
+
+Traitement et évolution
+
+Au vu de la bactériémie polymicrobienne et de la fistule œsophagienne, le traitement antibiotique est passé à la pipéracilline/au tazobactam i.v. Par la suite, le patient a reçu un traitement par amoxicilline/acide ­clavulanique i.v. complété par de l’amoxicilline i.v. et du ceftriaxone i.v. pour traiter la bactériémie à entérocoques et streptocoques. Au bout de six semaines de traitement intraveineux, celui-ci est passé à l’amoxicilline/acide clavulanique p.o.; la prise de minocycline p.o. a été poursuivie pour l’Aggregatibacter.Compte tenu du risque d’une hémorragie fatale en raison d’une possible érosion du greffon aortique, il a été décidé de procédé à une révision chirurgicale par œsophagectomie subtotale mini-invasive avec préservation des nerfs vagues comme résection de discontinuité avec œsophagostomie cervicale gauche, abouchement de l’estomac et implantation d’une gastrostomie percu­tanée endoscopique (GPE) pour la nutrition entérale. En raison de la morbidité élevée, il a été renoncé au remplacement du greffon aortique. Après une phase post-opératoire sans problème, la reconstruction de la continuité intestinale a eu lieu 48 mois plus tard au moyen d’une ascension gastrique rétrosternale mini-invasive et d’une gastrostomie termino-latérale cervicale gauche; cette intervention s’est également déroulée sans compli­cation.
+
+Actuellement, le patient est 100% apte à travailler et présente des signes inflammatoires normaux sous traitement suppressif par amoxicilline/acide clavulanique et minocycline. Au dernier examen TEP/TDM, l’activité métabolique du greffon aortique est per­sistante, bien qu’en baisse par rapport à l’examen précédent.
+
+Discussion
+
+Nous décrivons le cas d’un patient présentant une IGA chronique après prise en charge chirurgicale d’une dissection aortique de type «non A non B». Le patient est inopérable en termes de remplacement du greffon de la racine aortique et de la crosse aortique, qui est mentionné dans des cas similaires dans les ouvrages de référence [4] en vue du traitement d’une IGA. C’est pourquoi le patient reçoit une antibiothérapie suppressive. Au total, le patient a jusqu’à présent subi trois épisodes de bactériémie.
+
+Les dissections aortiques sont traditionnellement classées selon Stanford en types A et B. Les dissections aortiques touchant la crosse aortique et l’aorte descendante et épargnant l’aorte ascendante, comme chez notre patient, sont qualifiées de dissections de type «non A non B». Lorsque le début de la dissection se trouve au niveau de la crosse aortique, une dilatation de la crosse aortique avec dissection aortique rétrograde de type A peut survenir. Ainsi, l’objectif primaire de l’intervention est la fermeture de la porte d’entrée au niveau de la crosse aortique, ce qui peut être obtenu par FET. La mortalité péri-opératoire associée à la FET s’élève à 15% pour la ­durée du séjour hospitalier [5], tandis que des IGA, une déhiscence du greffon et la progression de la dissection peuvent survenir en tant que complications.
+
+A l’imagerie, les IGA peuvent être représentées aussi bien par angio-TDM renforcée par produit de contraste (TDM avec contraste) que par TEP/TDM. Selon les études, la sensibilité de la TEP/TDM pour les IGA se ­situe entre 91 et 100%, la spécificité étant plus faible avec des valeurs entre 70 et 95%. A la TDM avec contraste, les critères diagnostiques d’imagerie d’une IGA sont une accumulation de liquide autour du greffon, les formations d’abcès absorbant le produit de contraste, l’imbibition périvasculaire de tissus adipeux et la formation de gaz à proximité du greffon vasculaire. La TEP/TDM reconnaît quant à elle les lésions ­absorbant le fluorodésoxyglucose (FDG) à côté de la prothèse vasculaire, car le FDG s’accumule dans les cellules métaboliquement actives, mettant ainsi en évidence des processus inflammatoires. Lors de la comparaison des deux méthodes d’imagerie, l’IGA peut être mise en évidence plus tôt et en moins d’étapes difficiles en utilisant la TEP/TDM. Par ailleurs, la TEP/TDM est plus sensible en présence d’IGA de faible degré. La ­spécificité de la TEP/TDM est toutefois entravée par des ­réactions avec des corps étrangers ou des réactions ­tissulaires post-opératoires. La TEP/TDM n’est donc évaluable qu’à partir de la 10e semaine post-opératoire. Pour le diagnostic d’une IGA, il est préférable de faire appel à une imagerie combinée (TEP/angio-TDM) car l’association entre la haute sensibilité de la TEP/TDM et la spécificité élevée de la TDM avec contraste permettant la reconnaissance détaillée des modifications ­anatomiques est supérieure à l’imagerie unique lors du diagnostic d’infections de prothèses vasculaires.
+
+Des fistules aorto-œsophagiennes sont décrites dans les ouvrages de référence comme complications tardives à la suite de greffes aortiques [4]. En raison du faible nombre de cas, aucune grande étude randomisée n’est disponible. Le pronostic est mauvais avec une mortalité de 75% [6]. Des érosions ou fistules vers l’œsophage ou les bronches peuvent entraîner des hémor­ragies aiguës. Chez de tels patients, un remplacement in situ de greffon est souvent réalisé.
+
+Chez des patients stables sélectionnés, un pontage de l’aorte ascendante vers l’aorte abdominale supérieure peut être envisagé. Le greffon infecté est alors retiré, les extrémités de l’aorte débridées et le moignon aortique couvert par un lambeau de grand omentum.
+
+La séparation du greffon du tractus intestinal est ­déterminante pour le pronostic, afin d’atteindre une interruption de la contamination et la guérison. Cela peut par exemple être réalisé avec un lambeau vascularisé.
+
+Des anomalies plus importantes, comme dans le cas de notre patient, nécessitent la dérivation de l’œsophage. Chez les patients exempts de fistules œsophagiennes ou bronchiques, des allogreffes artérielles cryoconservées ou fraîches sont envisagées pour le traitement d’IGA.
+
+Chez les patients présentant une grande quantité de matériau étranger et ne tolérant pas une chirurgie reconstructive importante, la seule option demeure un traitement suppressif à vie. Le traitement intraveineux se déroule de manière similaire à celui d’une endocardite. Après obtention de cultures sanguines positives, le traitement intraveineux est adapté en fonction de la situation de résistance et poursuivi pendant six ­semaines. Ensuite, un régime affichant une bonne ­biodisponibilité est utilisé comme traitement oral suppressif. En cas de suspicion d’une fistule vers l’appareil digestif, le traitement empirique initial doit également couvrir les germes intestinaux.
+
+Grâce à la combinaison entre la séparation de la source infectieuse et le traitement suppressif, un bon contrôle de l’infection a été atteint et notre patient a récupéré complètement son aptitude au travail.
+
+Conclusions
+
+En cas de suspicion d’une IGA due à des bactériémies récidivantes, une imagerie combinant angiographie/TEP/TDM doit être réalisée pour une mise en évidence précoce. En cas de suspicion de fistules du greffon ­intestinal, un examen endoscopique peut également fournir une précieuse contribution. Outre les méthodes de débridement déjà décrites dans les ouvrages de ­référence, en présence d’une morbidité périopératoire ­accrue, des variantes sans remplacement de greffon peuvent également assurer une prise en charge réussie. Au vu de la complexité de ces patients, une bonne ­collaboration entre les diverses disciplines est, comme mentionné dans l’article, nécessaire, et ce depuis le prestataire de soins de base jusqu’aux centres hautement spécialisés, en passant par les hôpitaux régionaux.
+
+L’essentiel pour la pratique
+
+• Les bactériémies polymicrobiennes récidivantes sont un signe d’infections de prothèses vasculaires; le spectre des germes fournit une indication sur la source de la contamination.
+
+• En cas de suspicion d’une infection du greffon via des fistules intes­tinales, il convient de réaliser une imagerie combinée ainsi que, si possible, une représentation endoscopique pour une mise en évidence ­précoce.
+
+• La collaboration entre diverses disciplines est nécessaire pour une bonne prise en charge de ce groupe de patients.
+
+• Chez notre patient, l’élimination de la fistule œsophago-périprothétique et le traitement antibiotique ont permis d’obtenir une situation satisfaisante pour le patient sans intervenir au niveau du greffon infecté.

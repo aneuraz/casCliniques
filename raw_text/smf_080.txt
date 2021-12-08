@@ -1,0 +1,67 @@
+Description du cas
+
+Il s’agit d’une patiente de 56 ans qui consulte en raison d’une asthénie associée à des myalgies, d’évolution progressive depuis 1 an. Les antécédents sont vierges et la patiente ne rapporte pas d’état fébrile, transpiration ou perte pondérale. Elle nie tout symptôme cardiaque et respiratoire, sans facteurs de risque cardio-vasculaire. Elle a un suivi gynécologique régulier, avec une dernière consultation il y a 2 mois. Elle ne consomme pas de toxiques ni de médicaments.
+
+Cliniquement, l’état général est conservé avec ces paramètres vitaux: fréquence cardiaque 67/min, tension arterielle 124/76 mm Hg, saturation 98% à l’air ambiant, température 36,9 °C. Le status cardio-pulmonaire est normal et le reste de l’examen physique, notamment sur le plan neurologique, ostéo-articulaire et cutané est non contributif.
+
+Le laboratoire montre une formule sanguine alignée et la crase, les électrolytes, la fonction rénale, le taux de lactate déshydrogénase (LDH), les tests hépatiques et thyroïdiens dans la norme. Il n’y a pas non plus de ­syndrome inflammatoire. A noter que le médecin ­traitant a mesuré le taux de créatine-kinase (CK) qui se révèle augmenté, fluctuant entre 255 et 340 U/l (norme: 26–192) depuis 6 mois, avec un taux de CK-MB entre 44 et 62 U/l (norme: 7–25), pour un ratio CK-MB/CK d’environ 18% (norme: <6%), sans comparatif disponible. Le dosage répété des troponines T «high sensitive» (T hs) revient dans la norme. Ainsi, les auto-anticorps spécifiques pour les myosites et l’aldolase sont également normales. L’électrocardiogramme (ECG) ne montre pas de signe d’ischémie et l’échocardiographie révèle une fraction d’éjection du ventricule gauche (FEVG) conservée.
+
+En résumé, cette patiente souffre d’une asthénie et myalgies avec au laboratoire la présence d’une élévation de la CK totale avec augmentation du rapport CK-MB/CK totale.
+
+Question: A ce stade, l’interprétation de ces résultats de laboratoire requiert?
+
+
+a) Un test d’effort
+
+b) Une biopsie musculaire
+
+c) Une électrophorèse des CK
+
+d) Un bilan oncologique (CT-scan thoraco-abdomino-pelvien, ­bilan gynécologique et coloscopie)
+
+Réponse:
+
+
+La réponse correcte est c.
+
+Discussion
+
+La patiente ne présente pas de facteurs de risque ­cardio-vasculaire ni de symptomatologie d’angor et l’ECG ne révèle pas de signe d’ischémie. Les troponines sont normales et la CK n’a pas de cinétique à la hausse. L’échocardiographie trans-thoracique montre une FEVG conservée, sans trouble de la cinétique. Ces arguments sont suffisants pour exclure raisonnablement une ­cardiopathie ischémique et un test d’effort n’est pas ­indiqué.
+
+Les variations du taux de CK peuvent faire évoquer une myosite inflammatoire. Cependant, selon les critères proposés par Troyanov et Targoff [1], l’absence de faiblesse musculaire, des enzymes musculaires sériques (aldolase, alanine aminotransférase [ALAT], aspartate aminotransférase [ASAT] et LDH) normales, des ­auto-anticorps spécifiques pour les myosites dans la norme et l’absence de rash ou de papules au status, rendent ce diagnostic très peu probable.
+
+Une biopsie musculaire serait indiquée si une électromyographie devait montrer des modifications myopathiques spécifiques.
+
+L’absence d’argument en faveur d’une cardiopathie ­ischémique, d’une myopathie inflammatoire ou de suspicion d’une rhabdomyolyse, doit faire évoquer la présence de macro-CK. Il s’agit de macro-enzymes, complexes de haut poids moléculaire, caractérisés par une diminution de la clairance plasmatique avec une demi-vie plus longue par rapport aux isoenzymes classiques, aboutissant à une élévation artéfactuelle de l’activité sérique de CK et en particulier de CK-MB.
+
+La CK est une enzyme cytoplasmique retrouvée dans différents tissus, sous forme dimérique, composée de deux sous-unités: la sous-unité CK-M et la sous-unité CK-B. Ces sous-unités forment 3 isoenzymes distinctes: CK-BB, CK-MB et CK-MM. Il existe également une ­isoforme mitochondriale. La CK-MM est la forme prédominante dans les muscles squelettiques. La CK-BB est retrouvée dans le cerveau et les muscles lisses. La CK-MB est présente en forte concentration dans le myocarde et en petite quantité dans les muscles squelettiques. En absence de pathologie, la quasi-totalité de CK dans le sérum est due à l’isoforme CK-MM (96–100%). Une lésion du myocarde, telle qu’elle survient lors d’un infarctus aigu du myocarde, entraîne une augmentation des concentrations circulantes de l’isoforme CK-MB. Les macro-CK peuvent être la cause de valeurs faussement élevées de CK-MB et conduire à un diagnostic erroné d’infarctus du myocarde, puisqu’elles interfèrent dans la technique de dosage de CK-MB. Ceci conduit souvent à des investigations cardiologiques inutiles, coûteuses et invasives.
+
+Deux types de macro-CK sont décrites: elles résultent soit d’une liaison d’une isoenzyme CK (le plus souvent l’isoforme BB, plus rarement MB ou MM) à une immunoglobuline, usuellement une IgG, parfois une IgA ou une IgM (macro-CK de type 1), soit d’une polymérisation de l’isoenzyme mitochondriale (macro-CK de type 2).
+
+La prévalence de macro-CK de type 1 dans la population adulte est faible et varie entre 0,43% et 2,5% [2, 3] selon les études. Des associations avec certaines pathologies, notamment les myosites, l’hypothyroïdie, la rectocolite ulcéreuse et des pathologies cardiovasculaires ont été décrites [2]. Elle a même été décrite chez des sujets en bonne santé [2].
+
+La prévalence de macro-CK de type 2 est estimée entre 0,5 et 3,7% [3, 4]. Chez l’adulte, les macro-CK de type 2 sont retrouvées chez les patients souffrant de différentes affections oncologiques, souvent métastatiques, et semblent être libérées pendant la lyse tumorale ou produites directement par la cellule cancéreuse. Les cancers le plus souvent associés sont le cancer colorectal, le cancer du poumon, le carcinome hépato-cellulaire, le cancer du sein, les cancers urologiques et le cancer de l’estomac [5]. Ce type de macro-CK est également associé à des pathologies hépatiques, notamment la cirrhose. Elles sont probablement libérées dans la circulation par les hépatocytes au cours du processus de nécrose et de régénération cellulaire. A ­signaler que les macro-CK de type 2 ont été également observés chez les patients HIV positifs sous traitement antiviral [2].
+
+La méthode de dosage de l’activité de la CK-MB par ­immunoinhibition repose sur des anticorps monoclonaux dirigés contre le monomère CK-M qui inhibent complètement l’activité de la CK-MM et la moitié de l’activité de la CK-MB. L’activité résiduelle représente par conséquence l’activité du monomère CK-B de la CK-MB. Ceci est valable sous réserve d’une méthode que suppose que l’activité de l’isoenzyme CK-BB soit quasiment indétectable dans un sérum normal. C’est la raison de son manque de spécificité lorsqu’ils existent d’autres formes que la CK-MB dans le sérum à analyser, que ce soit la présence de CK-BB ou de macro-CK. Dans ces deux cas, il y a donc une surestimation de l’activité CK-MB. A noter que la présence de macro-CK peut parfois conduire à des résultats aberrants avec une activité CK-MB supérieure, parfois largement, à l’activité CK totale [5].
+
+Une fois évoqué, le diagnostic de macro-CK doit être confirmé par une électrophorèse, qui est actuellement le «gold standard» pour la détection des macro-CK, permettant la séparation des 3 isoformes et la détection des éventuelles macro-CK (fig. 1). Cette méthode a l’avantage d’être hautement spécifique et sensible [6]. Cependant, comme généralement une suspicion de macro-CK n’est évoquée que lors d’une augmentation de la CK totale, la démarche diagnostique dans son ­ensemble manque de sensibilité, la CK totale pouvant être normale jusqu’à 80 à 90% des collectifs observés en cas de macro-CK de type 2.
+
+Figure 1: Electrophorèse des créatine-kinases (CK)avec CK-MM, CK-MB, CK-BB, macro-CK de type 1 et macro-CK de type 2 (d’après [7]).
+
+Une électrophorèse des CK coûte 31 CHF.
+
+Chez cette patiente, l’électrophorèse des CK retrouve des macro-CK de type 2. La coloscopie réalisée par la suite met en évidence 4 polypes sessiles dont le plus grand d’un diamètre de 22 mm. Après son ablation complète, l’histologie du plus grand polype révèle un ­adénocarcinome bien différencié avec une invasion en profondeur inférieure à 1 mm. Les 3 autres polypes sont des adénomes villeux, dont l’exérèse a été complète.
+
+L’élévation asymptomatique de la CK, ou de la CK-MB sans étiologie définie, devrait donc toujours être investiguée par une électrophorèse des CK, à la recherche de macro-CK.
+
+Un bilan oncologique doit être évoqué seulement suite à la mise en évidence de macro-CK de type 2 à l’électrophorèse. Dans ce cas, les examens à prévoir sont un ­bilan gynécologique avec mammographie, un CT-scan thoraco-abdomino-pelvien et une coloscopie.
+
+Messages principaux
+
+• L’hypothèse de l’existence des macro-CK doit être évoquée si:
+
+– le taux de CK totale est augmenté de façon persistante sans étiologie définie; 
+
+– le taux de CK-MB est supérieur au 50% de la CK totale [3] et d’autant plus si la CK-MB dépasse la CK totale.
+
+• La mise en évidence de macro-CK de type 2 devrait être suivie d’un ­bilan oncologique.

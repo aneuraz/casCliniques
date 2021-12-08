@@ -1,0 +1,48 @@
+Contexte 
+
+Les infections ostéo-articulaires (IOA) à Streptococcus pneumoniae sont rares chez les adultes sains. Dans la plupart des cas, elles surviennent sur un terrain d’immunodépression ou de pathologie articulaire préexistante et peuvent mettre en jeu le pronostic fonctionnel et vital. Nous rapportons un cas d’arthrite septique de l’épaule à Streptococcus pneumoniae chez un sujet apparemment sain.
+
+Rapport de cas
+Anamnèse
+
+Un patient âgé de 78 ans, aux antécédents d’infarctus de myocarde il y a 10 ans, est hospitalisé pour arthrite subaiguë de l’épaule gauche. Deux mois avant son hospitalisation était apparue brutalement, une douleur de l’épaule gauche très invalidante d’horaire inflammatoire associée à une tuméfaction importante et une impotence fonctionnelle avec notion de fièvre et de frisson.
+
+Statut
+
+À son admission, le patient était apyrétique. L’examen a objectivé une épaule tuméfiée, chaude, limitée en ­actif et en passif. Pas de souffle cardiaque ni de foyer infectieux évident.
+
+Résultats
+
+Le bilan biologique avait révélé une élévation de la protéine C réactive (54 mg/l) et de la vitesse de la sé­dimentation (115 mm/h) sans hyperleucocytose associée. Le bilan radiologique standard des deux épaules avait montré un pincement global gléno-huméral, une déminéralisation mouchetée, une érosion de la tête humérale, et une calcification intra- et péri-articulaire de l’épaule gauche faisant suspecter une arthropathie ­métabolique. Par ailleurs, la radio du thorax était normale, les hémocultures étaient négatives de même pour l’étude cytobactériologique des urines et le bilan tuberculeux (intradermoréaction à la tuberculine et recherche du bacille de Koch [BK] dans les crachats et les urines). La ponction de l’épaule avait ramené 20 ml de liquide purulent (98% de polynucléaires neu­trophiles altérées) dépourvu de microcristaux et dont l’examen direct était négatif et la culture avait ob­jectivé la présence de pneumocoque sensible à la pénicilline.
+
+Diagnostic
+
+Le diagnostic d’arthrite septique à pneumocoque était retenu. Dans le cadre de recherche d’éventuelle locali­sation secondaire et de porte d’entrée, l’échographie cardiaque transoesophagienne n’avait pas montré de signe d’endocardite, la radiographie des sinus de la face s’était révélée sans particularité, de même une aspiration broncho-pulmonaire était négative. L’électrophorèse des protéines, le dosage pondéral des immunoglobulines et la sérologie HIV, faits à la recherche de pathologie sous-jacente, étaient normaux.
+
+Traitement et évolution
+
+Une antibiothérapie par amoxicilline intraveineux (12 g/j) était débutée, poursuivie pendant quinze jours avec immobilisation puis relais par voie orale à la dose de 6 g/j pendant deux mois. L’évolution a été par la suite favorable avec diminution de la douleur, de la ­tuméfaction et de la CRP mais persistance d’une légère limitation de la mobilité articulaire ayant fait l’objet d’une rééducation physique.
+
+Discussion 
+
+Le Streptococcus pneumoniae est habituellement responsable d’infections ORL, broncho-pulmonaires ou méningées. Les localisations ostéo-articulaires sont moins classiques [1]. Selon les données de la littérature, ce germe n’est responsable que de 3 à 10% des IOA chez l’adulte. De même, pendant les trois dernières dé­cennies le pneumocoque était responsable uniquement de 29 cas parmi 1297 cas d’arthrite septique de l’adulte [2–6]. Chez l’enfant de moins de 2 ans, la fréquence s’é1ève à 12% [7].
+
+La contamination se fait principalement par voie hématogène, justifiant la recherche d’un foyer infectieux primitif (pneumopathie, sinusite, endocardite), bien qu’une localisation extra-articulaire du germe ne soit objectivée que dans 40 à 60% des cas [2, 3, 8, 9]. Ces infections sont fréquemment bactériémiques avec des hémocultures positives dans plus de 70% des cas [2–4]. Au cours des septicémies à pneumocoques, les localisations septiques préférentielles sont pulmonaires puis méningées et enfin endocardiques alors que l’atteinte articulaire est exceptionnelle [10, 11] et est pluri-arti­culaire dans 30% des cas [2, 3].
+
+Tous les auteurs s’accordent à définir chez l’adulte un terrain particulier favorisant de ce type d’infection. En effet, 85% des patients rapportés avaient un facteur ­favorisant sous-jacent, ces facteurs étaient banaux dans la majorité des cas. Ainsi, l’arthrite à pneumocoques est l’apanage des vieillards, des alcooliques et des immunodéprimés (par hémopathies en particulier myélome dans 3 à 6% des cas, cancers, diabète, splénectomie, ­toxicomanie, insuffisance respiratoire, drépanocytose, corticothérapie et infection VIH) [4, 7, 8, 12, 13]. Ces facteurs de risque doivent être systématiquement recherchés, notamment en cas d’infection grave ou ­récidivante.
+
+Par ailleurs, certains facteurs locaux, et notamment une pathologie articulaire préexistante, peuvent favoriser la survenue d’une arthrite septique dont la poly­arthrite rhumatoïde figure au premier plan, aussi la goutte, la chondrocalcinose, le lupus érythémateux disséminé, les prothèses et les infiltrations locales. Chez notre patient apparemment sans facteur de risque, la présence de calcification articulaire à la radiographie standard pourrait cadrer avec une arthropathie métabolique sous-jacente de type chondrocalcinose ou rhumatisme a hydroxyapatite.
+
+Néanmoins, les infections ostéo-articulaires à pneumocoque ont la particularité de survenir dans moins de 20% des cas chez des adultes apparemment sains ou être révélatrices d’une pathologie sous-jacente [14]. Cette constatation souligne l’importance de la recherche d’une maladie sous-jacente lors d’une infection articulaire à pneumocoque qui, sans facteur favorisant connu doit conduire à la réalisation d’une électrophorèse des protéines plasmatiques, d’un dosage quantificatif des immunoglobulines et d’une sérologie VIH.
+
+Toutefois, notre observation illustre le fait que des sujets apparemment sans facteur prédisposant peuvent développer une IOA à pneumocoque. D’autres facteurs de risque restent probablement à découvrir et selon les auteurs les sujets âgés, même en bonne santé apparente, sont plus sensibles aux infections à pneumocoque et que celles-ci sont plus graves. L’âge avancé constitue donc une indication théorique au traitement prophylactique par antibiothérapie ou vaccination. Il est d’ailleurs, récemment recommandé pour les adultes immunocompétents et âgés de 65 ans ou plus de recevoir un vaccin conjugué anti-pneumococcique 13-valents (PCV13) suivi par vaccin anti-pneumococcique polysaccharide 23-valents (PPSV23) au moins 1 an après. Il est recommandé de recevoir 1 dose de PCV13 et 1, 2, ou 3 doses de PPSV23 selon l’indication. Lorsque 2 doses ou plus de PPSV23 sont indiquées, l’intervalle entre les doses de PPSV23 devrait être au moins 5 ans [15].
+
+En conclusion, le terrain d’immunosuppression pour un Streptococcus pneumoniae est banal et commun et pas l’apanage d’une immunosuppression majeure médicamenteuse ou post-chimiothérapie. Ainsi, le Streptococcus pneumoniae doit être évoqué, même en l’absence des facteurs favorisants classiquement associés, devant toute infection ostéo-articulaire survenant chez les ­sujets apparemment sains ou ayant un terrain d’immunodépression banal (vieillards, diabète, arthropathie préexistante, etc.).
+
+L’essentiel pour la pratique
+
+• Les infections ostéo-ariculaires à pneumocoque doivent être évoquées devant des arthrites chez des sujets apparemment sains ou ayant des facteurs de risque banaux (âge >65 ans, arthropathie sous-jacente …).
+
+• Chez ces sujets, une vaccination ou une antibioprophylaxie anti-pneumocoque peuvent être proposées.
+
+• La vaccination repose sur l’administration du vaccin conjugué 13 valents suivi par vaccin anti-pneumococcique polysaccharide 23-valents (PPSV23) au moins 1 an après.

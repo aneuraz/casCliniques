@@ -1,0 +1,85 @@
+Description du cas
+
+Un patient de 23 ans, en bonne santé habituelle, se présente chez son médecin traitant en raison d’un écoulement au niveau du méat urinaire depuis 2 semaines, sans autre symptôme associé. Le reste de l’anamnèse par système est sans particularité. Le patient nous confie avoir des rapports sexuels non protégés avec sa compagne. Le couple n’a jamais fait de test de dépistage des infections sexuelles transmissibles (IST). La PCR («polymerase chain reaction») effectuée dans le premier jet d’urine est positive pour Chlamydia (C.) trachomatis.
+
+Question: Quel(s) test(s) diagnostic(s) utiliseriez-vous pour compléter le bilan?
+
+
+a) Sérologie sanguine Chlamydia (C.) trachomatis et dépistage des autres IST (sérologies hépatite B, hépatite C, VIH, syphilis [Treponema pallidum] et PCR Neisseria gonorrhoeae dans l’urine).
+
+b) Aucun, le diagnostic est posé.
+
+c) Culture microbiologique du frottis du méat C. trachomatis.
+
+d) Dépistage des autres IST.
+
+Réponse:
+
+
+La réponse correcte est d.
+
+Discussion
+
+Les recommandations de l’Office fédéral de la santé publique Suisse (OFSP) parues en novembre 2018 proposent de rechercher, chez des patients ayant des relations sexuelles non protégées, le VIH, la syphilis, l’infection à Neisseria (N.) gonorrohoeae, à C. trachomatisainsi que les hépatites B et C [1]. Les tests de dépistage d’IST sont onéreux, ce qui est l’obstacle majeur ­actuel au dépistage systématique des personnes exposées. Dans les zones urbaines, plusieurs centres de dépistage pour les populations à risque, notamment les hommes ayant des rapports sexuels avec les hommes (HSH) et les travailleurs du sexe, permettent un accès plus facile au dépistage avec des coûts réduits. Les tests de dépistage recommandés sont les suivants: les sérologies sanguines hépatite B, hépatite C, syphilis (Treponema [T.] pallidum)et du VIH ainsi que les PCR C. trachomatis et N. gonorrhoeae dans le premier jet d’urine. Chez la femme, la PCR de C. trachomatispeut également se faire sur un frottis du col utérin. Chez l’homme symptomatique, la PCR peut se faire sur un prélèvement de l’écoulement du méat, sur un frottis anal et/ou pharyngé [2]. Il est nécessaire de répéter la sérologie syphilis 2 à 4 semaines après l’exposition. Le test VIH rapide de 4ème génération existe dans les centres de dépistage Suisse et peut être effectué immédiatement après le rapport sexuel à risque puis répété à 6 semaines. Un auto-test VIH de 3ème génération est disponible en Suisse depuis juin 2018 et doit être effectué 3 mois après l’exposition au risque [3].
+
+La prévalence de C. trachomatis en Suisse s’élève à 5,9% chez les femmes et 3,9% chez les hommes [3]. Cette bactérie se place en première position des étiologies d’IST dans les pays industrialisés. L’infection à C. trachomatisnécessite une attention particulière, en raison de l’absence fréquente de symptômes, du jeune âge des patientes infectées et des complications possibles, ­affectant principalement la fertilité. L’«International Union against Sexually Transmitted Infections» (IUSTI) et les «Centers for Disease Control and Prevention» (CDC) américains recommandent le dépistage de C. trachomatis chez les femmes à risque (moins de 25 ans, nouveau partenaire sexuel ou plus d’un partenaire sexuel durant l’année écoulée). En Europe, certains pays (Pays-Bas, Suède, Angleterre) ont effectué des programmes de dépistage afin d’évaluer l’impact sur la prévalence de l’infection. En raison d’un faible taux de participation, les études ont dû être stoppées sans démontrer de différence significative. Depuis 2016, un programme de dépistage de la gonorrhée et de la chlamydiose est en cours en Suisse dans le cadre de la campagne de dépistage des IST des populations à risque. Bally et al. suggèrent un dépistage de la personne asymptomatique une fois par année et à chaque nouveau partenaire sexuel [4]. De nombreux médecins de premier recours (gynécologues, médecin de famille) dépistent C. trachomatis lors du bilan annuel.
+
+Dans notre cas clinique, nous proposons d’effectuer un bilan complet des autres IST. En effet, l’OFSP suisse ­recommande une recherche de toutes les IST en présence d’une infection avérée à C. trachomatis.
+
+Examens de laboratoire (tab. 1)
+
+La quantité de C. trachomatis présente dans les échantillons cliniques lors de cervicite et d’urétrite peut être faible, ce qui implique d’utiliser des tests diagnostiques pouvant détecter un petit nombre de copies d’ADN génomique (10 copies). La PCR est le «gold standard» pour le diagnostic, en raison d’une haute sensibilité et spécificité. Elle s’effectue sur des échantillons d’urine du premier jet ou sur des frottis génitaux. Les auto-prélèvements vaginaux et les frottis du col effectués par un gynécologue ont montré une sensibilité similaire, contrairement aux prélèvements vaginaux effectués par un médecin généraliste, qui ont une sensibilité inférieure. Une PCR en temps réel est utilisée au Centre hospitalier universitaire vaudois (CHUV) depuis 2006, ce qui permet l’obtention du résultat en moins de 24 heures. Ce test très sensible cible le plasmide de C. trachomatis, présent en de multiples copies [5]. Diverses PCR commerciales existent également.
+
+Tableau 1: Sensibilité, spécificité, avantages et limites des tests microbiologiques disponibles pour documenter une infection due à Chlamydia (C.) trachomatis.
+Tests	Sensibilité	Spécificité	Avantages et limites
+PCR en temps réel	>95%	>99%	Test très sensible s'il est fait sur un échantillon adéquat tel qu’urine de 1er jet, frottis de col ou frottis urétral (lors d'écoulement).
+Risque de mutants échappant au test (si le test cible un seul gène situé sur le plasmide).
+Test immuno­chromatographique	~30–70%	~60–90%	La plupart des tests disponibles aujourd’hui présentent une sensibilité médiocre; ceux dont la sensibilité est plus élevée présente généralement une moindre spécificité; tests à éviter.
+Sérologie(ELISA et immunofluorescence)	>99%	~60–90%	Cross-réactions avec d'autres espèces de Chlamydia*; négatif en phase aiguë (primoinfection).
+Excellente sensibilité (IgG) permettant d'exclure un rôle de C. trachomatis comme agent de fausse couche ou d'infertilité lorsque la sérologie est négative.
+Culture	~50%	100%	Peu sensible, mais permet de tester la sensibilité antibiotique et d’étudier extensivement la souche.
+Génome°	Dépend du nombre de bactéries lorsqu’effectué à partir d'un échantillon ­natif°	100%	Utile pour le typage des souches (lors de suspicion d’épidémies et pour documenter une transmission interhumaine par exemple pour des raisons médico-légales (viol, …); apporte aussi des informations quant au résistome et au virulome (présence/absence de gènes conférant une ­résistance aux antibiotiques ou une virulence accrue).
+Immunohistochimie	~80%	100%	Permet d’observer la localisation des bactéries au sein des tissus; a permis de confirmer le rôle de Chlamydia trachomatis dans la fausse couche.
+* Ces cross-réactions sont particulièrement fréquentes lorsque la bactérie entière est utilisée comme antigène (immunofluorescence), et avec des ELISA basés sur certains ­antigènes très conservés (Hsp60 par exemple).° 100% de sensibilité si effectué à partir de souches obtenues par culture cellulaire
+
+La sérologie est effectuée soit par immunofluorescence, soit par ELISA ciblant une protéine de surface («major outer membrane porin» [MOMP]) ou d’autres antigènes (protéine Hsp60) [6]. Elle permet de détecter les IgG et IgM dirigés contre C. trachomatis. Ce test n’est pas utilisé dans le dépistage de l’infection aiguë mais permet d’évaluer l’exposition préalable des patients à la bactérie. En raison des complications sévères liées à une ­infection chronique, la sérologie est utile chez des patientes souffrant d’infertilité tubaire, de grossesse extra-utérine, de fausses couches ou de maladie inflammatoire pelvienne. Elle peut être utile également lors du diagnostic parfois compliqué de lymphogranulome vénérien avancé chez l’homme, en complément de prélèvements tissulaires et de la PCR.
+
+La culture microbiologique est techniquement difficile en raison du cycle de développement strictement intracellulaire de la bactérie. La sensibilité de la culture cellulaire s’élève à seulement 50% et n’est donc pas ­recommandée. Les tests rapides de détection par immunochromatographie (réaction anticorps-antigène) ont montré une faible spécificité et une faible sensibilité en comparaison à la PCR.
+
+Le développement d’outils innovants de dépistage ­rapide de C. trachomatis et de N. gonorrhoeae sont en cours. Un test effectué directement dans des échantillons d’urine à l’aide de biosenseurs nanoplasmoniques a été développé conjointement par l’Ecole polytechnique fédérale de Lausanne (EPFL) et par l’équipe du Professeur Greub [7]. Ce test permet une détection ­simultanée des antigènes de C. trachomatis et de N. gonorrhoeae, en temps réel et avec une haute spécificité. Cette avancée scientifique permettra peut-être à terme d’implémenter des tests rapides en médecine de premier recours avec l’utilisation d’un appareil portable en cabinet. En cas d’infection avérée, le traitement ­antibiotique pourrait être débuté sans délai et mieux ciblé, ce qui permettrait une interruption précoce de la chaine de transmission et une meilleure utilisation des antibiotiques.
+
+Epidémiologie
+
+C. trachomatis est une bactérie intracellulaire obligatoire. Elle est source d’infections urogénitales mais aussi oculaires. Les souches sont séparées en deux biovars: le biovar trachomatis et le biovar lymphogranulome vénérien (L1 à L3). Le biovar trachomatis est lui-même séparé en différents sérovars. Les sérovars A, B, Ba et C sont associés à l’atteinte oculaire chronique et très inflammatoire, «le trachome», qui évolue vers la cécité en l’absence de traitement. Les sérovars D, Da, E, F, G, H, I, Ia, J et K sont associés aux infections urogénitales. Les sérovars responsables de l’atteinte oculaire ne peuvent pas provoquer des infections urogénitales (car les souches causant le trachome ont besoin de tryptophane pour leur survie) mais le contraire est possible par autoinoculation ou contage direct [8]. L’atteinte oculaire se manifeste alors généralement sous forme de kérato-conjonctivite.
+
+Le cycle d’infection de C. trachomatis se fait sous deux formes: les corps élémentaires, qui représentent la forme infectieuse, et les corps réticulés qui se multiplient dans la cellule puis, sont à nouveau libérés hors des cellules sous forme de corps élémentaires. Le cycle de développement peut être altéré et la bactérie persiste alors sous forme de corps aberrants à l’intérieur de la cellule. Ce processus permet d’expliquer les formes chroniques d’atteintes oculaires et urogénitales chez les deux sexes. Dans le cas des HSH, l’infection rectale à C.trachomatis est dans 90% des cas asymptomatique. Il est recommandé d’effectuer régulièrement des tests de dépistage de C. trachomatis par des PCR du frottis anal, urogénital et pharyngé même en présence d’une PCR urinaire négative [5].
+
+Mutants suédois et finlandais
+
+Deux variants de C. trachomatis ont été découverts: en 2006 en Suède et en 2019 en Finlande. Une délétion d’une région d’ADN (377 paires de bases) au niveau du plasmide cryptique rendait le variant suédois indétectable au test PCR commercial utilisé en Suède (Cobas®). La bactérie mutante était la cause de 15% des infections en Suède [9]. Le mutant finlandais pourrait être présent en Finlande depuis 2018 [10]. Un polymorphisme mononucléotidique (C1515T) au niveau de l’rARN 23S le rendait indétectable par le test PCR utilisé en Finlande (Aptima® Combo Test). La détection de nouveaux variants génétiques permet de mieux connaître la bactérie et d’améliorer les tests utilisés quotidiennement.
+
+Complications
+
+Les complications liées à l’infection chronique sont principalement gynécologiques. Chez l’homme, les séquelles d’infection à C. trachomatis restent rares. ­Cependant, chez tout homme diagnostiqué d’une infection à C.trachomatis génitale ou rectale, il faut rechercher un lymphogranulome vénérien. Il peut être asymptomatique mais aussi se présenter sous forme de proctite ou d’ulcérations anales superficielles [5]. Un lymphogranulome vénérien non diagnostiqué en phase aiguë peut provoquer des manifestations inflammatoires locales, digestives et dans de rares cas, pseudotumorales. L’infection non traitée chez la femme favorise le développement de maladie inflammatoire pelvienne (PID) dans 2–5% des cas [11]. Les complications telles que l’infertilité tubaire et la grossesse extra-utérine augmentent significativement suite aux PID [12]. L’infection maternelle chronique à C. trachomatis augmente également le risque d’évolution défavorable de la grossesse. Lors du premier trimestre de toute grossesse, le dépistage de C.trachomatis ainsi que de la syphilis, du VIH, de l’hépatite B et de l’hépatite C (chez les patientes à risque) est réalisé.
+
+Ainsi, de nombreuses études ont établi un lien entre les fausses couches du premier trimestre et la présence d’anticorps IgG et/ou IgA anti-Chlamydia, ainsi que la présence directe de la bactérie au frottis de l’endocol. Le groupe du Professeur Greub a également documenté une prévalence élevée d’IgG dans le groupe «fausse couche» et a confirmé par immunohistochimie la présence de C. trachomatisdans le placenta [13].
+
+Traitement
+
+Les antibiotiques actifs sur C. trachomatis doivent avoir une bonne pénétration cellulaire. Les macrolides, les tétracyclines et les quinolones peuvent être utilisées. Selon les recommandations de l’IUSTI et du «British ­Association for Sexual Health and VIH» (BASSH), l’utilisation de la doxycycline est le traitement de premier choix en raison de sa supériorité pour les atteintes rectales, mais également afin de préserver les résistances à l’azithromycine, également utilisée pour le traitement des autres IST (T. pallidum etN. gonorrhoeae) [14]. Dans tous les cas, il est recommandé de traiter le patient ­infecté et de tester et traiter son partenaire.
+
+Messages principaux
+
+• L’étalon or pour le dépistage de l’infection due à Chlamydia trachomatis est le test PCR («polymerase chain reaction») spécifique.
+
+• L’infection à Chlamydia trachomatis est un enjeu de santé publique car elle est très souvent asymptomatique (~90%) et sous-diagnostiquée. Un programme de dépistage en Suisse permettrait d’évaluer l’efficacité d’un dépistage systématique sur la prévalence de l’infection. Des recommandations suisses pourraient alors être établies et adaptées à la population.
+
+Traitement
+
+Les antibiotiques actifs sur C. trachomatis doivent avoir une bonne pénétration cellulaire. Les macrolides, les tétracyclines et les quinolones peuvent être utilisées. Selon les recommandations de l’IUSTI et du «British ­Association for Sexual Health and VIH» (BASSH), l’utilisation de la doxycycline est le traitement de premier choix en raison de sa supériorité pour les atteintes rectales, mais également afin de préserver les résistances à l’azithromycine, également utilisée pour le traitement des autres IST (T. pallidum etN. gonorrhoeae) [14]. Dans tous les cas, il est recommandé de traiter le patient ­infecté et de tester et traiter son partenaire.
+
+Messages principaux
+
+• L’étalon or pour le dépistage de l’infection due à Chlamydia trachomatis est le test PCR («polymerase chain reaction») spécifique.
+
+• L’infection à Chlamydia trachomatis est un enjeu de santé publique car elle est très souvent asymptomatique (~90%) et sous-diagnostiquée. Un programme de dépistage en Suisse permettrait d’évaluer l’efficacité d’un dépistage systématique sur la prévalence de l’infection. Des recommandations suisses pourraient alors être établies et adaptées à la population.

@@ -1,0 +1,105 @@
+Un patient de 81 ans est hospitalisé pour baisse de l’état général. Il mentionne depuis quelques jours la survenue de frissons, de nausées, un épisode de vomissement, de diarrhées, d’une inappétence et d’une perte de 4 kg. Il est traité par ipilimumab et nivolumab depuis deux mois (avec la dernière dose reçue il y a deux semaines), deux inhibiteurs de point de contrôle immunitaire, pour un carcinome rénal, pour lequel il a déjà bénéficié d’une néphrectomie droite. Il souffre d’une insuffisance rénale chronique de stade G3aA1 et d’une hypertension traitée par enalapril. Au status, score de Glasgow (GCS) 15/15, fréquence cardiaque (FC) 104/minute, tension artérielle (TA) 90/56 mm Hg, fréquence respiratoire (FR) 27/minute, saturation 94% et il est fébrile à 38,4°C. L’auscultation pulmonaire dévoile des râles crépitants aux deux bases. Le reste du status est non contributif. Aux examens paracliniques, leucocytes à 11,5 G/l (N: 4–10), hémoglobine à 166 g/l (N: 133–177),plaquettes à 125 G/l (N: 150–350; habituellement dans la norme), natrémie à 134 mmol/l (N: 135–145), kaliémie à 5,4 mmol/l (N: 3,5–4,6), créatininémie à 219 mmol/l (N: 62–106; habituellement à 120), bilirubine totale à 7 µmol/l (N: 0–21), CRP à 41 mg/l (N: <10), tests hépatiques normaux ainsi qu’une crase sans particularité. La gazométrie artérielle avec pH à 7,33 (N: 7,35–7,45), pCO2 à 31,7 mm Hg (N: 35–45), pO2 à 95 mm Hg (N: 73–103), bicarbonates à 18,2 mmol/l (N: 22–26), lactates à 1,51 mmol/l (N: 0,63–2,44). La radiographie du thorax dévoile une opacité en base pulmonaire droite, compatible avec un syndrome alvéolaire.
+
+Question 1: Quel examen complémentaire est le moins indiqué à ce stade-là?
+
+
+a) CT thoraco-abdominal
+
+b) Hémocultures
+
+c) Recherche (PCR) dans les selles de Campylobacter jejuni, Clostridioides difficile, Salmonella spp, Shigella spp
+
+d) Examen et culture des urines
+
+e) Antigène urinaire pour Legionella pneumophila
+
+Devant un tel tableau clinique, il faut rechercher en premier lieu un foyer infectieux. Deux paires d’hémocultures et une culture urinaire sont ainsi prélevées. La recherche dans les selles de pathogènes susceptibles d’être associés à une gastroentérite bactérienne doit être effectuée dans le contexte de diarrhées aiguës et d’un état fébrile chez un patient sous immunosuppression. Finalement, l’antigène urinaire pour Legionella (L.) pneumophila est recherché dans le cadre du foyer infectieux retrouvé à la radiographie thoracique. Il est cependant trop tôt dans la démarche diagnostique pour effectuer un CT thoraco-abdominal.
+
+Question 2: Quel est votre diagnostic différentiel?
+
+
+a) Sepsis d’origine pulmonaire
+
+b) Syndrome de relargage des cytokines
+
+c) Insuffisance surrénalienne
+
+d) Sepsis d’origine digestive
+
+e) Toute les réponses sont correctes
+
+La tachypnée, l’hypotension artérielle ainsi que l’état fébrile évoquent en premier lieu un sepsis confirmé avec le score deltaSOFA («Sequential Organ Failure Assessment») calculé à 3 (le score SOFA basal du patient est de 1, alors que son nouveau score est de 4). L’origine pulmonaire ou digestive est possible. En présence d’une hypotension et de l’immunothérapie, l’insuffisance surrénalienne doit également être évoquée. Le syndrome de relargage des cytokines (CRS) est une entité possible chez ce patient. Il s’agit d’une réaction inflammatoire systémique qui intervient classiquement d’une manière immédiate lors des perfusions de chimiothérapies ou de biothérapies. Le CRS peut présenter une variété de symptômes allant de symptômes pseudo-grippaux légers à de graves manifestations mettant en jeu le pronostic vital. Les symptômes bénins comprennent la fièvre, la fatigue, les céphalées, l’arthralgie, les myalgies, l’hypotension, de la nausée, des vomissements, de la diarrhée ainsi que des symptômes respiratoires pouvant aller jusqu’au syndrome de détresse respiratoire dans les formes les plus graves [1]. En revanche, la temporalité tardive ne parle pas en faveur d’une telle étiologie.
+
+Au vu de ces différents résultats et de la forte suspicion d’un sepsis avec une piste pulmonaire ou digestive chez une personne immunodéprimée, une antibiothérapie de pipéracilline-tazobactam est initiée. Le lendemain, une aggravation de son état général est constaté avec une hypotension artérielle moyenne à 50 mm Hg, une FC à 130/min, une température à 38,6 °C ainsi qu’une FR à 28/min. Au status des marbrures avec des extrémités froides sont constatées. Le taux de lactate artériel est de 1,04 mmol/l. Sur le plan biologique, il est constaté une natrémie à 133 mmol/l, une kaliémie à 5,2 mmol/l, une créatininémie à 348 mmol/l, une CRP à 180 mg/l, ainsi qu’une leucocytose à 13,9 G/l. Les hémocultures ainsi que la culture urinaire reviennent stériles, l’antigène urinaire pour L. pneumophilarevient négatif, tout comme les PCR dans les selles. Le patient nécessite un remplissage hydrique important et l’introduction de noradrénaline pour garantir une pression artérielle moyenne supérieure à 65 mm Hg.
+
+Question 3: Que requiert la suite de la prise en charge? (­Plusieurs réponses possibles)
+
+
+a) CT thoraco-abdominal
+
+b) Dosage du cortisol plasmatique
+
+c) Introduction du méropénème
+
+d) Introduction de dobutamine
+
+e) Dosage de la tryptase
+
+Un CT thoraco-abdominal doit être effectué pour rechercher un foyer infectieux profond chez un patient fébrile et hypotendu sans réponse à l’antibiothérapie empirique. Une insuffisance surrénalienne doit être recherchée chez ce patient traité par immunothérapie. La modification de l’antibiothérapie pour un carbapénème n’est pas pertinente en l’absence d’argument pour une entérobactérie productrice de béta-lactamases à spectre élargi. Finalement, l’ajout de dobutamine doit être considérée dans le traitement du choc cardiogène, par ses propriétés inotrope et chronotrope. Ce patient n’avait aucun argument pour une dysfonction cardiaque sur la base d’un ECG et un taux de pro-BNP normaux. Le dosage de la tryptase n’est pas utile dans le contexte d’une hypotension dont l’origine n’est pas allergique.
+
+Le CT thoraco-abdominal ne montre pas de foyer infectieux profond, mais ne confirme pas le foyer pulmonaire identifié en base pulmonaire droite visible à la radiographie du thorax. Le taux de cortisol plasmatique de 8h du matin est à 20 nmol/l (N: 110–520).
+
+Question 4: Comment interprétez-vous ce résultat?
+
+
+a) Il est nécessaire de compléter par le dosage des autres hormones surrénaliennes (aldostérone, catécholamines).
+
+b) Il est nécessaire de faire un est au Synacthène.
+
+c) L’insuffisance surrénalienne primaire est confirmée.
+
+d) L’insuffisance surrénalienne est confirmée. Il faut doser l’ACTH.
+
+e) L’insuffisance surrénalienne est confirmée. Il faut doser les autres hormones hypophysaires (TSH, FSH, LH, GH, PRL).
+
+Un taux de cortisol à 8h du matin supérieur à 550 mol/l peut exclure raisonnablement une insuffisance cortico-surrénalienne et un taux inférieur à 85 nmol/l la confirme [2]. Si le résultat du dosage se trouve dans la zone grise (entre 85 et 550 nmol/l), il est nécessaire de faire un test de stimulation au Synacthène pour confirmer l’insuffisance cortico-surrénalienne. Pour différencier l’origine primaire ou secondaire à l’insuffisance surrénalienne, le dosage de l’ACTH plasmatique est requis et s’avère être à 2 ng/l (N: 9–50). L’insuffisance cortico-surrénalienne secondaire est donc confirmée. A noter que le dosage des autres hormones surrénaliennes et hypophysaires ne contribue pas à différencier une origine primaire d’une origine secondaire.
+
+Le patient reçoit un bolus d’hydrocortisone de 100 mg i.v. qui permet de le sevrer des amines et de retrouver des tensions artérielles normales. Le traitement d’hydrocortisone est adapté à 3× 50 mg i.v. par jour, et la suite de son évolution est favorable.
+
+Question 5: Avec quel examen complétez-vous ce bilan biologique?
+
+
+a) IRM cérébrale
+
+b) Echocardiographie
+
+c) CT des glandes surrénaliennes
+
+d) PET-CT
+
+e) Aucune des réponses n’est correcte
+
+Il est indiqué de faire une IRM cérébrale pour rechercher une atteinte hypophysaire dans ce contexte d’insuffisance surrénalienne secondaire et d’immunothérapie. Une échocardiographie n’est pas utile sans argument pour un choc cardiogène. Le CT abdominal serait indiqué si on avait mis en évidence une insuffisance surrénalienne primaire, à la recherche d’une étiologie de l’atteinte surrénalienne (néoplasie, hémorragie, infection). Le PET-CT n’est pas utile dans ce cadre clinique.
+
+L’IRM cérébrale du patient est montrée sur la figure 1. Celle-ci dévoile une hypophyse de taille normale, sans arguments pour un processus tumoral, hémorragique ou infectieux. Cela nous permet de nous orienter vers un diagnostic d’hypophysite, malgré l’absence de signes radiologiques. Le diagnostic de présomption final retenu est ainsi une insuffisance surrénalienne secondaire dans le contexte d’une hypophysite sur traitement d’immunothérapie.
+
+Figure 1: IRM cérébral indiquant une hypophyse calme, non tuméfiée, ne prenant pas le contraste (flèche). A) Coupe sagittale, pondération T1 spin echo avec injection de gadolinium. B) Coupe axiale, pondération T1 spin echo avec injection de gadolinium. Nous remercions la Dre Silvia Pistocchi et le Prof Philippe Maeder (Service de radiodiagnostic et radiologie interventionnelle, Hôpital universitaire de Lausanne) pour l’interprétation de cet examen d’imagerie.
+
+Le patient quitte l’hôpital avec un traitement d’hydrocortisone 20 mg p.o. à prendre le matin, et une dose de réserve de 10 mg p.o. à prendre l’après-midi s’il prévoit une activité particulière en fin de journée. Un suivi endocrinologique est instauré.
+
+Discussion
+
+L’insuffisance surrénalienne secondaire à une hypophysite induite dans le cadre d’un traitement par immunothérapie a une incidence variable selon le type d’inhibiteur de checkpoint utilisé. Ainsi, lors d’une bithérapie par un anti-CTLA-4 (ipilimumab) et un anti-PD1 (nivolumab, pembrolizumab) ou un anti-PD-L1 (atezolizumab, avelumab, durvalumab), celle-ci a été estimée à 6,4% [3]. La présentation clinique peut être similaire à celle caractérisant une atteinte aiguë de l’hypophyse: céphalées, vomissements, diminution soudaine de l’acuité visuelle, méningisme, hypotension et cela peut aller jusqu’au choc lorsque la perte de la fonction pituitaire est soudaine et sévère [4].
+
+En ce qui concerne la physiopathologie, la diminution de l’ACTH sécrété par l’hypophyse entraine une diminution de sécrétion des glucocorticoïdes de la zone fasciculée de la surrénale. Cette déficience en cortisol peut contribuer à la survenue d’une hypotension en diminuant la réponse vasculaire à l’angiotensine II et à la norépinephrine. De plus, cela induit une diminution de la synthèse de la rénine ainsi qu’une augmentation de la production de prostacyclines.
+
+Le diagnostic se base sur le dosage du cortisol plasmatique lorsqu’une suspicion clinique et paraclinique est présente. Ensuite, c’est la valeur de l’ACTH plasmatique qui guidera l’examen complémentaire suivant. Dans le cadre d’une insuffisance cortico-surrénalienne primaire (ACTH élevé), un CT abdominal est indiqué afin de rechercher une atteinte surrénalienne tumorale, hémorragique ou infectieuse. Cependant, lorsqu’une insuffisance cortico-surrénalienne secondaire (ACTH basse ou inadéquatement normale) est diagnostiquée, une IRM cérébrale est effectuée afin d’exclure un processus expansif hypothalamo-hypophysaire ou une selle vide témoin éventuel d’une hypophysite.
+
+Le traitement de l’insuffisance cortico-surrénalienne aiguë se base sur l’administration d’hydrocortisone en intraveineux. Ensuite, une baisse progressive de l’hydrocortisone est effectuée avec passage per os après stabilisation du patient. Une correction du facteur déclenchant doit être entreprise.
+
+Pour conclure, l’immunothérapie a changé radicalement la prise en charge oncologique en améliorant d’une manière significative le pronostic de nombreux cancers. Au vu de ces nombreux effets indésirable­immuno-induits, y compris endocrinologiques, une insuffisance cortico-surrénalienne doit être évoquée avec un haut degré de suspicion clinique dans le diagnostic différentiel d’une hypotension inexpliquée sans piste alternative évidente. L’importance du dosage du cortisol plasmatique ainsi que de l’ACTH est certaine, orientant la suite de la prise en charge dans la recherche d’une cause étiologique.
+
+Réponses:
+
+
+Question 1: a. Question 2: e. Question 3: a et b. Question 4: d. Question 5: a.

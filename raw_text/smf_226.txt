@@ -1,0 +1,84 @@
+Contexte
+
+Le très rare insulinome (incidence 0,1–0,4:100 000/an, possible à tout âge, incidence la plus élevée entre 40 et 50 ans [3]) est la tumeur neuroendocrine fonctionnelle du pancréas la plus fréquente (40–70%), suivie des gastrinomes, glucagonomes, VIPomes et autres. Il se forme à partir des cellules des îlots de Langerhans (cellules β) du pancréas et survient souvent dans la tête et la queue du pancréas. En principe, il peut toutefois survenir dans toutes les parties de l’organe. Il est plus fréquent chez les femmes que chez les hommes (env. 1,5:1 [4]). Etant donné qu’il peut produire de l’insuline de manière autonome, un excès relatif d’insuline entraîne souvent des hypoglycémies symptomatiques parfois lourdes de conséquences. Les symptômes ne se manifestent pas toujours de manière évidente, sont en partie non spécifiques, se recoupent avec d’autres symptômes ou affichent une dynamique au fil du temps. Les motifs de consultation médicale sont souvent des troubles de la conscience, tels que des syncopes ou états présyncopaux.
+
+Rapport de cas
+Anamnèse
+
+La patiente souffrait depuis environ deux ans d’épisodes de symptômes non spécifiques et variables, notamment des céphalées, une désorientation, des tremblements, des sueurs froides ainsi que des présyncopes. Les examens neurologiques et cardiologiques à visée diagnostique n’ont révélé aucun résultat pathologique. Dès lors, la patiente a remarqué une nette augmentation de la fréquence et du degré de sévérité des états présyncopaux/syncopaux. En raison d’une perte de conscience prolongée, elle a été hospitalisée alors qu’elle présentait une hypoglycémie symptomatique. La glycémie mesurée par le médecin urgentiste s’élevait à 2,5 mmol/l. L’administration d’une solution de glucose à 40% a entraîné, encore sur place, une régression complète des symptômes. Malgré une perfusion de glucose (5%) en continu, une baisse considérable de la glycémie de 5,2 à 2,9 mmol/l s’est à nouveau développée au service d’urgence, d’où une prise en charge stationnaire. La patiente a répondu par la négative lorsqu’elle a été interrogée quant à d’éventuels symptômes B ou autres troubles, mais elle a fait état d’une prise de poids involontaire, son poids étant passé de 99 à 104 kg. La veille, elle avait constaté pour la première fois une régression immédiate des symptômes après avoir consommé une boisson sucrée.
+
+Statut
+
+La patiente âgée de 56 ans, stable et orientée dans les trois sphères, s’est présentée dans un bon état général et un état nutritionnel correspondant à une obésité. Les examens neurologique, cardiaque, pulmonaire et abdominal n’ont révélé aucune anomalie déterminante, à l’exception d’une pression artérielle légèrement accrue avec 156/88 mm Hg pour un rythme cardiaque normal.
+
+Résultats
+
+Lors de l’admission, les analyses de laboratoire n’ont révélé aucun résultat pathologique à l’exception d’une hypokaliémie. En particulier, la thyréostimuline (TSH), les signes d’inflammation et la fonction rénale étaient normaux, et le taux d’HbA1c de 4,9%.
+
+Diagnostic
+
+Un test de jeûne a été effectué en milieu hospitalier. Il s’est révélé pathologique et a dû être interrompu au bout de 54 heures en présence de symptômes neuroglycopéniques. Au moment de l’interruption, le taux de glucose était de 1,7 mmol/l, le taux d’insuline de 80,5 pmol/l et celui de peptide C s’élevait à 0,9 nmol/l. De même, le mini-mental state (MMS)/test de l’horloge ont considérablement changé (fig. 1). Après administration d’une solution de glucose, le tableau clinique s’est complètement normalisé.
+
+Figure 1: Mini-mental state (MMS)/test de l’horloge.
+A gauche: référence; au milieu: début du test de jeûne; à droite: interruption du test de jeûne (au bout de 54 heures).
+
+Compte tenu du test de jeûne pathologique et de la ­présence de la triade de Whipple, le diagnostic d’une hypoglycémie hyperinsulinémique a pu être établi. Un examen d’imagerie a été planifié pour la recherche d’insulinome.
+
+La tomographie par émission de positons (PET-CT) n’a toutefois révélé aucun signe d’insulinome positif aux récepteurs de la somatostatine de sous-type 2 (SSTR-2), ni aucune autre tumeur neuroendocrine (TNE), d’où la nécessité d’un autre examen d’imagerie (fig. 2).
+
+Figure 2: PET/CT avec 144 MBq 68Ga-DOTATATE: négatif. (Nous remercions la clinique de médecine nucléaire de ­l’hôpital universitaire de Zurich pour les images.)
+
+L’imagerie par résonance magnétique (IRM) du pan­créas réalisée ensuite a révélé une masse définie (max. 12 × 9 mm) dans la tête du pancréas dont la morphologie s’avère compatible avec une néoplasie neuroendocrine, sans signe de métastases des ganglions lymphatiques ou des organes (fig. 3).
+
+Figure 3: IRM du pancréas: masse définie (max. 12 × 9 mm) dans la tête du pancréas (flèche) dont la morphologie est ­compatible avec une néoplasie neuroendocrine, par exemple un insulinome. Aucun signe de métastases des ganglions lymphatiques ou des organes. (Nous remercions le service de radiologie du Spital Limmattal pour l’image.)
+
+L’examen de l’ensemble des résultats a permis de poser le diagnostic d’une tumeur neuroendocrine non métastasée, soit d’un insulinome dans la tête du pancréas.
+
+Traitement et évolution
+
+Le traitement initial a consisté à adapter le régime alimentaire avec des glucides à longue chaîne et d’absorption lente, une prise alimentaire régulière et des collations entre les repas. Les autocontrôles glycémiques ont été expliqués à la patiente (y compris les «glucides d’urgence») afin d’enregistrer les épisodes d’hypoglycémie. En outre, une interdiction absolue de conduire provisoire a été formulée.
+
+Après localisation à l’IRM, une résection curative du tissu du pancréas suspecté de présenter l’insulinome a été réalisée par énucléation à la suite d’une échographie peropératoire. Sur le plan histologique, le tissu s’est présenté comme une TNE bien différenciée (diamètre de 1,6 cm) avec expression immunohistochimique de marqueurs neuroendocrines, d’insuline et d’Islet-1, compatible avec un insulinome (Ki-67 <2%; récepteur de la somatostatine 0–1+ selon Volante et al.).
+
+Durant la phase postopératoire, les contrôles endocrinologiques ambulatoires ont montré une patiente exempte de symptômes, sans indication anamnestique, clinique ou biochimique d’hypoglycémies persistantes.
+
+Discussion
+
+L’insulinome est une pathologie très rare présentant de nombreuses facettes et manifestations. En cas de survenue non multiple, il est curable [1] et le pronostic très favorable [2].
+
+Les hypoglycémies ne se manifestent pas toujours de façon univoque. Au contraire, elles se manifestent souvent de manière non spécifique. Les symptômes possibles incluent notamment céphalées, angoisse, agitation intérieure, paresthésies avec fourmillements, sensation de chaleur, insécurité, confusion, comportement inapproprié, troubles de la pensée et du langage, mal-être, nausée, faiblesse, accès de transpiration, tremblement, vertige, présyncopes/syncopes, troubles de la vision, fringale, prise de poids, palpitations, tachycardies. Un tableau clinique mixte regroupant divers symptômes est généralement présent.
+
+La mesure de la glycémie doit être réalisée par voie veineuse car les mesures glycémiques capillaires sont inexactes, en particulier dans les domaines hypoglycémiques. Les symptômes cliniques et les résultats des analyses de laboratoire peuvent présenter une évolution dynamique. Cela complique notamment l’établissement rapide du diagnostic et un trouble vasovagal, rythmogène ou neurologique est alors recherché.
+
+Chez les patients atteints d’hypoglycémie hyperinsulinémique, les diagnostics différentiels envisagés en premier lieu sont l’insulinome ou une nésidioblastose (congénitale ou acquise). De même, une hypoglycémie factice (hypoglycémie artificielle) serait envisageable en cas d’auto-injection d’insuline ou d’injection d’insuline par un tiers. Dans le cas présent, elle a toutefois pu être exclue en raison de la forte concentration de peptide C. Les examens clinique, auscultatoire, les analyses de laboratoire et l’imagerie n’ont fourni aucune indication relative aux divers autres diagnostics différentiels (tab. 1) où ceux-ci n’ont pas été recherchés car leur présence était improbable.
+
+Tableau 1: Principales causes d’hypoglycémie.
+Hypoglycémie factice (hypoglycémie artificielle):
+Auto-injection d’insuline/injection d’insuline par un tiers ­(volontaire/involontaire; confusion; prise intentionnelle/par erreur de sulfonylurées)
+Insuffisance antéhypophysaire et insuffisance corticosurrénale
+Troubles de la néoglucogenèse
+(par exampledéficit en fructose-1,6-bisphosphate)
+Tumeurs de grande taille d’origine non pancréatique
+Syndrome d’insulinorésistance
+Anorexie nerveuse, cachexie, malnutrition sévère
+Insuffisance hépatique ou rénale sévère
+Maladies de stockage du glycogène
+Troubles convulsifs
+Stades précoces d’un diabète sucré
+Syndrome de dumping tardif
+Intolérance héréditaire au fructose
+Et autres
+
+L’insulinome est bénin et isolé dans plus de 90–95% des cas, et ainsi généralement curable par chirurgie. Le traitement chirurgical curatif réalisé chez cette patiente n’est toutefois pas toujours possible. En présence de tumeurs non opérables du fait de leur localisation, de l’opérabilité du patient en raison de comorbidités ou d’une survenue d’insulinome multiple ou encore d’insulinomes malins et de métastases, des traitements ou concepts thérapeutiques alternatifs sont possibles. Il convient alors notamment d’envisager de manière interdisciplinaire un debulking tumoral / une résection des métastases, une chimiothérapie, une chimio-embolisation ciblée ou un traitement médicamenteux par des analogues de la somatostatine ou du diazoxide (Proglicem®).
+
+L’essentiel pour la pratique
+
+• Triade de Whipple – tableau clinique typique d’un insulinome:
+
+1. Hypoglycémie, c’est-à-dire glycémie <3,0 mmol/l.
+
+2. Symptômes neuroglycopéniques (troubles qualitatifs ou quantitatifs de la conscience: confusion, troubles du langage et de la pensée, troubles du comportement, troubles de la concentration, somnolence, coma, déficits neurologiques focaux, crise épileptique).
+
+3. Régression immédiate des signes cliniques après administration de glucose.
+
+• Le test stationnaire de jeûne constitue la référence absolue pour le diag­nostic en cas de suspicion d’insulinome [4]. Dès lors que de l’insuline continue d’être sécrétée avec des taux inadéquatement élevés de peptide C et d’insuline sans suppression significative en présence d’une hypoglycémie, l’hypoglycémie hyperinsulinémique est démontrée.

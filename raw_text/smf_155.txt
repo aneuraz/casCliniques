@@ -1,0 +1,68 @@
+Contexte
+
+Après la publication d’un article de revue sur les arthropathies à cristaux dans le Forum Médical Suisse en 2017 [1], nous souhaitons rapporter un cas qui illustre à nouveau le tableau clinique variable de ces maladies.
+
+Rapport de cas
+Anamnèse
+
+La patiente âgée de 78 ans s’est présentée chez son médecin de famille en raison de céphalées aiguës et douleurs cervicales immobilisantes survenues pendant la nuit ainsi que de sueurs froides et d’une dégradation de l’état général. Compte tenu des températures presque fébriles (mesure auriculaire à 38,0 °C), de la raideur cervicale et de l’augmentation de la protéine C réactive (CRP), la patiente a d’urgence été adressée au service des urgences de l’hôpital avec la suspicion d’une méningo­-encéphalite.
+
+L’anamnèse personnelle a notamment révélé une polyarthrite rhumatoïde séronégative connue depuis 1997 et traitée par hydroxychloroquine en tant que traitement de fond depuis plus de dix ans. De plus, d’autres lésions articulaires dégénératives supplémentaires étaient présentes au niveau des pieds (hallux valgus des deux côtés avec arthrodèse à gauche et implantation d’une prothèse de la première articulation du gros orteil à droite), des mains (plusieurs arthrodèses et ténosynovectomies des articulations des doigts), de la colonne vertébrale (spondylodèses lombaire et cervicale avec plusieurs opérations de reprise) et des articulations plus grandes (prothèses unicondylaire partielle du genou des deux côtés, prothèses de l’épaule suite à une omarthrose bilatérale). Une chondrocalcinose du genou droit avait déjà été décrite en 2009 lors d’une arthroscopie.
+
+Statut, anomalies et diagnostic
+
+Au service des urgences, la patiente s’est présentée dans état fébrile (38,2 °C) avec une raideur cervicale le plus probablement induite par la douleur ainsi qu’une mobilité active et passive globalement réduites.
+
+Les analyses de laboratoire ont montré une CRP légèrement accrue à 25 mg/l (norme: <8 mg/l) ainsi qu’une légère leucopénie à 3,8 G/l (norme: 4,0–10,0 G/l). Suite à l’exclusion d’une hémorragie intra­cérébrale au moyen de la tomodensitométrie, une ponction lombaire a été réalisée. L’analyse du liquide céphalo-rachidien n’a toutefois pas révélé d’anomalies. Au cours de l’évolution, la CRP est montée jusqu’à une valeur maximale de 186 mg/l. Une imagerie par résonance magnétique (IRM) de la colonne cervicale a en conséquence été réalisée (fig. 1D) en vue d’évaluer la possibilité d’une spondylodiscite sur le plan du diagnostic différentiel mais l’examen n’a pas confirmé cette suspicion. La procalcitonine entre-temps déterminée n’était pas non plus accrue.
+
+Figure 1: A titre comparatif, le cliché à vue latérale à la radiographie conventionnelle (A ) ainsi que le cliché sagittal de TMD (B ) avec une calcification du ligament transverse de l’atlas également visible (flèche). La TDM à double énergie (C ) permet de visualiser les dépôts au sein du ligament (flèche) et de les catégoriser en tant que CPPD («calcium pyrophosphate deposition»). Par comparaison à cela, les dépôts sont occultes dans le cliché IRM (D ).
+
+Une tomodensitométrie de la colonne cervicale a finalement révélé le diagnostic, montrant des calcifications au sein du ligament transverse de l’atlas ainsi que sur la surface arrière du corps vertébral (fig. 1B, fig. 2). Ainsi, le diagnostic de syndrome de la dent couronnée (SDC) en tant que complication rare d’une maladie des dépôts de pyrophosphate de calcium («calcium pyrophosphate deposition [CPPD] disease») a été posé.
+
+Figure 2: TDM (coupe transversale) avec des calcifications dans le ligament transverse de l’atlas (flèche).
+
+Le cliché radiographique des mains réalisé au cours de l’évolution ultérieure a montré des nodosités de Bouchard à un stade avancé, de multiples kystes osseux péri-articulaires au niveau des articulations métacarpo-­phalangiennes (MCP) I–III avec destruction partielle de l’articulation MCP-III droite ainsi qu’une chondrocalcinose du ligament triangulaire. Ces anomalies sont bien compatibles avec une maladie à CPPD.
+
+Traitement
+
+Au vu de la bonne réponse subjective aux anti-inflammatoires non stéroïdiens ([AINS], ibuprofène à la dose initiale de 3× 600 mg/jour) et de la CRP régressant rapidement, il a pu être renoncé à une administration supplémentaire de corticostéroïdes. Au cours de l’évolution, l’ibuprofène a été réduit à 3× 400 mg/jour.
+
+Evolution
+
+Lors du contrôle de suivi en ambulatoire réalisé dix jours après la sortie de la patiente, les céphalées et les douleurs cervicales avaient pratiquement disparu et les signes inflammatoires continuaient de régresser. Les AINS ont pu être arrêtés au cours de l’évolution ­ultérieure.
+
+Discussion
+
+Le SDC est une complication rare de la maladie à CPPD qui se manifeste par un dépôt pathologique de cristaux de pyrophosphate de calcium (PPC) dans l’articulation odonto-altloïdienne et une arthrite à cristaux consécutive.
+
+Le PPC est produit par les chondrocytes et déposé sous forme de cristaux au sein de la matrice péri-cellulaire. La libération des cristaux dans l’articulation provoque une réaction inflammatoire. Les cristaux de PPC ont en outre des effets cataboliques directs sur les chondrocytes et les synoviocytes. Les calcifications des cartilages modifient les propriétés mécaniques de l’articulation, ce qui entraîne par la suite une accélération la détérioration de l’articulation [2, 3].
+
+Sur le plan conceptuel, il convient de distinguer la maladie à CPPD, le terme générique désignant la survenue de cristaux de CPP, de la chondrocalcinose, qui se manifeste par une calcification dans le cartilage fibreux ou hyalin mise en évidence à la radiologie ou à l’histologie [3]. Le CPPD est la cause la plus fréquence de chondrocalcinose [3]. Ces types de calcifications augmentent avec l’âge et peuvent être mis en évidence au moyen de la radiologie conventionnelle chez plus de 15% de tous les personnes à partir de 70 ans et chez plus de 50% à partir de 80 ans, surtout chez les femmes [1].
+
+L’incidence précise du SDC n’est pas déterminée, mais cette condition est décelée chez 1,9% des patients atteints de douleurs cervicales en ambulatoire [4]. Une étude publiée récemment a trouvé, sur la base de la ­tomodensitométrie, une prévalence de 60% chez les patients atteints de CPPD [5].
+
+La chondrocalcinose est plus fréquente chez les femmes [1], mais le SDC survient aussi souvent chez les hommes que chez les femmes [4]. Le plus souvent, un déclencheur précis de la manifestation d’une maladie à CPPD ne peut pas être identifié. Les traumatismes, les lésions dégénératives telles que l’arthroseet les infections peuvent être des facteurs favorisants. De plus, il existe des formes ­secondaires de chondrocalcinose qui surviennent néanmoins typiquement chez des patients plus jeunes (moins de 50 ans). L’hémochromatose, l’hyperparathyroïdie, l’hypomagnésémie et l’hypophosphatémie peuvent favoriser la survenue d’une maladie à CPPD [2].
+
+La CPPD peut se manifester sous de nombreuses formes cliniques. Outre la calcification asymptomatique des cartilages, l’arthrose secondaire, les plaintes de type polymyalgie et la polyarthrite symétrique chronique, des poussées aiguës peuvent survenir sous la forme d’une monoarthrite (le plus souvent du genou, du poignet ou de la main [3, 6]) ou, plus rarement, avec une atteinte de la colonne cervicale au sens d’un SDC [1]. L’arthropathie à CPPD survient le plus souvent en tant que mono- ou oligoarthrite (89%) et plus rarement en tant que polyarthrite (11%) [3]. Une poussée aiguë peut durer pendant des semaines à des mois [2].
+
+La triade classique du SDC comprend des douleurs ­cervicales (100%), une raideur cervicale (98%) et de la fièvre (80,4%). En raison de la possible irradiation dans les épaules et la région occipitale ou temporale, les diagnostics incorrects de méningite, spondylodiscite, polymyalgie rhumatismale ou maladie de Horton sont souvent posés. La rotation cervicale douloureuse ­(typique en cas de SDC) peut s’avérer utile comme caractéristique clinique distinctive [4].
+
+En présence de syndrome méningé, il convient toujours de procéder à un examen neurologique et conduire des investigations diagnostiques supplémentaires en fonction de la constellation des résultats.
+
+Une analyse de 72 cas de SDC publiés a montré que dans 30,5% des diagnostics non identifiés initialement, une méningite ou une méningo-encéphalite avait été diagnostiquée (à tort) [4].
+
+En cas d’arthropathie à cristaux aiguë des articulations périphériques, la mise en évidence microscopique de cristaux est le diagnostic de référence, avec une sensibilité de 0,95 et une spécificité de 0,86 [3]. Le diagnostic du SDC est posé au moyen de la tomodensitométrie lorsque des calcifications en forme de couronne sont mises en évidence dans le ligament transverse de l’atlas [7]. La radiographie conventionnelle présente une faible sensibilité (0,29) et spécificité (0,20) relatives au diagnostic de la chondrocalcinose [3], tandis que la tomodensitométrie est considérée comme bien plus sensible et spécifique [5, 7]. Concernant les articulations périphériques, l’échographie réalisée par un examinateur expérimenté constitue également un outil diagnostique sensible et spécifique (sensibilité de 0,87 et spécificité de 0,96) [3, 7].
+
+De façon complémentaire, le tableau clinique, les signes inflammatoires accrus et la réponse au traitement anti-­inflammatoire sont centraux [8]. Notamment chez les patients plus jeunes, il convient d’exclure une forme ­secondaire [1].
+
+Dans le traitement des maladies à CPPD primaires, les AINS, les corticostéroïdes intra-articulaires et la colchicine (par exemple 0,5 mg 3–4×/jour) sont au premier plan. Le froid et l’immobilisation peuvent également apporter un soulagement, tout comme les corticostéroïdes systémiques en cas d’absence de réponse [1, 6]. Le recours aux AINS et à la colchicine est limité par les potentiels effets indésirables et les antécédents médicaux (par exemple chez les patients âgés atteints d’insuffisance rénale) [6]. Les AINS à faible dose, la colchicine (par exemple 0,5 mg, 1–2×/jour), l’hydroxychloroquine et le méthotrexate en tant que traitement de fond ainsi que la supplémentation en magnésium en complément font l’objet de discussions quant au traitement des poussées récidivantes [1, 6, 8]. Les recommandations thérapeutiques se basent au moins en partie sur l’avis des experts et l’extrapolation des résultats d’études portant sur le traitement de la goutte. L’objectif du traitement consiste donc particulièrement à contrôler les symptômes et prévenir une nouvelle poussée [6].
+
+Dans notre cas, le diagnostic de syndrome de la dent couronnée a été posé sur la base de la tomodensitométrie en présence d’une raideur cervicale, de températures ­fébriles et d’une réaction inflammatoire systémique marquée, et il a été traité par AINS. Rétrospectivement, il convient de remettre le diagnostic de polyarthrite rhumatoïde séronégative en question de façon critique. Une maladie à CPPD polyarticulaire pourrait expliquer non seulement le SDC mais aussi les troubles polyarticulaires.
+
+L’essentiel pour la pratique
+
+• Le syndrome de la dent couronnée est un diagnostic différentiel possible en cas de syndrome méningé. Il s’agit d’une forme particulière de la ­maladie des dépôts de pyrophosphate de calcium (maladie à CPPD). Une méningite doit naturellement être exclue au moyen d’une ponction lombaire en cas de suspicion clinique.
+
+• La tomodensitométrie est centrale pour la pose du diagnostic.
+
+• Une tentative de traitement par anti-inflammatoires non stéroïdiens (ou colchicine) avant d’avoir recours aux corticostéroïdes est justifiée.

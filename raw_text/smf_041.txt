@@ -1,0 +1,101 @@
+Contexte
+
+Les statines sont efficaces pour la prévention primaire et secondaire des évènements cardiovasculaires. La toxicité musculaire est un effet indésirable cliniquement pertinent des statines, pouvant aller de myalgies avec une légère élévation de la créatine kinase (CK) jusqu’à une myotoxicité avec rhabdomyolyse. La myopathie nécrosante immuno-médiée («immune-mediated necrotising myopathy» [IMNM]) est rare. L’IMNM est une maladie auto-immune, qui se caractérise par une faiblesse musculaire proximale, des valeurs sériques accrues de CK, un profil myopathique à l’électromyographie (EMG), une nécrose et inflammation à la biopsie musculaire et une élévation des anticorps anti-3-hydroxy-3-méthyl-glutaryl-coenzyme A réductase (HMGCR). Dans cet article, nous souhaitons présenter un tel cas.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 61 ans nous a été adressée en urgence par son médecin de famille en raison d’une élévation persistante de la CK malgré l’arrêt d’un traitement par statine.
+
+La patiente a signalé qu’elle présentait depuis quatre semaines une faiblesse des bras et des jambes, qui étaient «comme plombés». En conséquence, elle ne pouvait quasiment plus marcher et avait beaucoup de mal à monter les escaliers. Avec une CK de près de 10 000 U/l, le médecin de famille a interrompu le traitement en cours par atorvastatine. Par la suite, il y a eu une légère amélioration initiale des symptômes, mais la concentration de CK est restée très élevée, si bien que la patiente nous a été adressée pour un bilan en raison d’une amélioration clinique insuffisante. Elle a déclaré ne pas avoir de fièvre, de symptômes infectieux, de problèmes pulmonaires, de myalgies, de problèmes visuels, de syndrome de Raynaud ou de syndrome sicca.
+
+L’anamnèse a révélé une hypercholestérolémie, qui a été traitée par atorvastatine 40 mg (durant deux ans) jusqu’au décembre 2019.
+
+Examen clinique et résultats
+
+A son admission, la patiente de 61 ans présentait un état général convenable et était hémodynamiquement stable. Hormis une faiblesse bilatérale prononcée des fléchisseurs de la hanche, l’examen clinique était sans particularités.
+
+Les analyses de laboratoire ont montré une nette élévation de la CK (7405 U/l), une valeur d’aspartate aminotransférase (ASAT) de 312 U/l, une valeur d’alanine aminotransférase (ALAT) de 423 U/l et une valeur de lactate déshydrogénase (LDH) de 1855 U/l; les autres valeurs étaient normales. En outre, les anticorps antinucléaires et les anticorps spécifiques de la myosite étaient négatifs.
+
+L’imagerie par résonance magnétique (IRM) de la cuisse a révélé une myosite symétrique des muscles de la ceinture pelvienne et de la loge postérieure de la cuisse avec des altérations œdémateuses symétriques se traduisant par une prise de contraste correspondante, qui touchait des deux côtés les abducteurs de la hanche, dans une faible mesure le muscle grand glutéal, les muscles de la loge des adducteurs, le muscle obturateur externe, ainsi que le muscle ilio-psoas; plus distalement, le muscle semi-membraneux et la tête courte du muscle biceps fémoral étaient en premier lieu touchés (fig. 1).
+
+Figure 1: Imagerie par résonance magnétiques, séquence T1 avec suppression de graisse après injection de gadolinium: ­visualisation des altérations œdémateuses symétriques, avec prise de contraste ­correspondante. La loge postérieure de la cuisse est particulièrement touchée: muscle semi-membraneux (bleu) et tête courte du muscle biceps fémoral (rouge).
+
+Nous avons réalisé une biopsie du moyen glutéal droit, qui a montré une musculature squelettique présentant de nombreuses fibres nécrotiques et en régénération avec un infiltrat inflammatoire clairsemé et un dépôt périmysial accru de phosphatase alcaline, correspondant à une myopathie nécrosante (fig. 2A). L’examen immunohistochimique a indiqué que l’infiltrat inflammatoire était avant tout composé de lymphocytes T CD8+ et dans une moindre mesure de lymphocytes T CD4+, sans lymphocytes B CD20+ visibles. Des macrophages CD68+ indiquaient la phagocytose musculaire et il y avait également quelques macrophages au niveau endomysial (fig. 2B).
+
+Figure 2: A ) Dépôt périmysial de phosphatase alcaline (coloration: PA = phosphatase alcaline; grossissement 100×).B ) Infiltrat inflammatoire avant tout composé de lymphocytes T CD8+ (coloration: CD8 = marqueur des lymphocytes T cytotoxiques; grossissement 100×).
+
+Ce résultat était le plus compatible avec une IMNM. Une myosite à inclusions était improbable compte tenu de l’absence de fibres hypertrophiques, de pathologie mitochondriale et de vacuoles anormales. Les anomalies constatées n’étaient également pas typiques d’une dermatomyosite en raison de l’absence d’atrophie périfasciculaire et de dépôts de complément.
+
+Les anticorps anti-HMGCR étaient très élevés (>200 U/ml), si bien que le diagnostic d’IMNM induite par les statines a pu être posé.
+
+Traitement et évolution
+
+Après la biopsie, une glucocorticothérapie systémique par prednisolone 50 mg (1 mg/kg) a été initiée (fig. 3). En outre, un traitement de base par méthotrexate (février 2020, initialement 15 mg/semaine, puis augmentation à 20 mg/semaine) a ensuite été débuté. Quatre semaines après le début de la glucocorticothérapie, en février 2020, et cinq mois après le début de la glucocorticothérapie, en juin 2020, des immunoglobulines i.v. (IgIV), à une dose totale de 2 g/kg de poids corporel répartie sur cinq jours, ont également été administrées en raison d’une faiblesse persistante.
+
+Par la suite, une régression de la CK (3 891 U/l après deux semaines, 1714 U/l en juin 2020) a pu être documentée (fig. 3).
+
+Figure 3: Représentation schématique de l’évolution de la créatine kinase (CK) et du déroulement du traitement.
+
+Le traitement par glucocorticoïdes et méthotrexate a été globalement bien toléré, mais la patiente a encore présenté une nette faiblesse subjective et objectivable des muscles proximaux de la cuisse, sans douleurs, jusqu’à environ la mi-mars 2020 (2,5 mois après le début du traitement). A partir de la fin mars 2020, la patiente a ressenti une amélioration considérable des symptômes; elle pouvait à nouveau sans problème faire jusqu’à quatre kilomètres de marche, monter les escaliers et faire de longs tours de vélo électrique. Lors du dernier contrôle en septembre 2020 (au total, neuf mois après le début du traitement), la patiente était quasiment asymptomatique.
+
+Discussion
+
+Les statines sont connues pour causer des myopathies toxiques. La myotoxicité associée aux statines (MTS) est l’effet indésirable des statines le plus fréquemment signalé, représentant environ deux tiers de tous les effets indésirables. Les symptômes musculaires les plus fréquents sont les douleurs, la sensation de lourdeur, la rigidité et les crampes, avec ou sans faiblesse subjective [1]. Les symptômes touchent le plus souvent les muscles des jambes (cuisses, mollets), mais des symptômes musculaires au niveau du dos, de la nuque, des épaules et généralisés ont également été décrits [1]. Des douleurs associées à une tendinite ont également été rapportées [1]. Environ 40% des patients avec MTS remarquent un facteur déclenchant potentiel: le plus souvent un effort physique inhabituel ou un nouveau médicament [1]. Les douleurs musculaires sont périodiques chez les trois quarts des patients atteints de MTS et constantes chez un quart des patients [1].
+
+La MTS survient le plus souvent durant la première année de traitement, avec une durée moyenne d’un mois jusqu’à son apparition. Plus de 80% des patients signalent qu’ils n’avaient pas de symptômes similaires avant le traitement par statines [1]. Dans la plupart des cas de MTS (~70–80%), les symptômes musculaires sont intenses au point d’affecter les activités quotidiennes [1]. Les myopathies et rhabdomyolyses sévères, qui sont plus rares, peuvent directement conduire à une hospitalisation.
+
+La MTS a une présentation hétérogène, si bien que les définitions de cas varient en fonction des études. Par conséquent, la nomenclature a récemment été standardisée et la MTS a été subdivisée en sept catégories phénotypiques [2] (tab. 1).
+
+Tableau 1: Classification et fréquences estimées sur la base de Alfirevic et al. [2], fréquence de la myalgie sur la base de Parker et al. [3].
+ 	Manifestations cliniques et paramètres de laboratoire	Incidence
+MTS 0	Elévations asymptomatiques de la CK <4× la limite supérieure de la normale (LSN)	1,5–26% des patients
+MTS 1–2	Myalgies fréquentes (douleurs, crampes et/ou faiblesse) sans (MTS 1) ou avec faibles élévations de la CK (<4× LSN, MTS 2)	Environ 5% des patients
+MTS 3	Myopathie de plus en plus rare avec CK >4× mais <10× LSN	5–100 000 patients/an
+MTS 4	Myopathie sévère avec CK >10× mais <50× LSN	0,11% des patients
+MTS 5	Rhabdomyolyse rare mais potentiellement fatale avec soit CK >10× LSN, symptômes musculaires et troubles de la fonction rénale soit CK >50× LSN	0,1–8,4/100 000 patients/an
+MTS 6	Myopathie nécrosante immuno-médiée à anticorps anti-HMGCR positifs, très rare	2 patients/million/an
+MTS: myotoxicité associée aux statines; CK: créatine kinase.
+
+L’IMNM est une catégorie de myopathie inflammatoire reconnue depuis peu. L’auto-immunité de l’IMNM est étayée par l’association fréquente avec deux auto-anticorps spécifiques, à savoir les anticorps anti-HMGCR et les anticorps anti-«signal-recognition particle» (SRP). Chez les patients sous statines, l’incidence estimée de l’IMNM s’élève à 2–3 pour 100 000 patients [2], le risque étant accru chez les patients de plus de 50 ans [3].
+
+Les patients concernés sont généralement des adultes âgés d’environ 59 ans en moyenne, en majorité de sexe féminin. Chez les enfants, l’IMNM induite par les statines est très rare. Au cours des dernières années, plusieurs patients pédiatriques avec myopathie à anticorps anti-HMGCR sans exposition préalable aux statines ont cependant été identifiés.
+
+La principale caractéristique clinique de l’IMNM est une faiblesse musculaire proximale symétrique des bras et des jambes (tab. 2). L’activité de la maladie est corrélée avec la force musculaire individuelle mesurable et objectivable. Les symptômes cliniques peuvent survenir sur un mode aigu (en l’espace de quelques jours à semaines) ou subaigu (en l’espace de quelques mois). Les analyses de laboratoire révèlent une élévation massive de la CK [4], mais ce paramètre ne convient que de façon limitée pour suivre l’évolution de la maladie, car une corrélation avec la force musculaire n’a pas encore été démontrée dans le cadre de l’IMNM [5].
+
+Tableau 2: Représentation schématique des caractéristiques de la myopathie nécrosante immuno-médiée (IMNM).
+ 	IMNM
+Symptômes	Faiblesse musculaire proximale, myalgies, ­dysphagie (rare)
+CK	>2000 <20 000 U/l
+Biopsie musculaire	Myopathie nécrosante sans vascularite
+Profil génétique	HLA-DRB1*11:01
+Anticorps anti-HMGCR	Positifs
+Evolution après arrêt des statines	Persistance/progression des symptômes
+Traitement	Arrêt des statines, immunosuppression
+CK: créatine kinase; HMGCR: 3-hydroxy-3-méthyl-glutaryl-coenzyme A réductase.
+
+L’EMG montre des décharges électriques spontanées (potentiel de fibrillation) et des ondes à pente raide. A l’IRM, un œdème des muscles touchés, au sens d’une inflammation active, est visualisable. La biopsie révèle un tableau de myopathie nécrosante sans vascularite.
+
+Le mécanisme physiopathologique de l’IMNM induite par les statines n’est actuellement toujours pas définitivement élucidé.
+
+L’HMGCR est une protéine transmembranaire qui est principalement localisée dans le réticulum endoplasmique et peut aussi être présente, dans une plus faible mesure, dans les peroxysomes. Elle est impliquée dans la biosynthèse du cholestérol et est inhibée par les statines.
+
+Il a été montré qu’une exposition aux statines provoquait une surexpression de l’HMGCR dans plusieurs tissus et types de cellules. Des variants de l’HMGCR ou des épitopes cryptiques et/ou polymorphismes dans la molécule HLA, qui sont démasqués par les médicaments, peuvent augmenter l’activation des récepteurs des cellules T et initier l’auto-immunité; il se produit alors un endommagement musculaire immuno-médié dirigé contre l’HMGCR ou d’autres antigènes qui sont reconnus par un anticorps anti-HMGCR. Les tentatives de réparation des fibres musculaires sont à l’origine d’une expression accrue de l’HMGCR et d’une auto-immunité persistante, avec atrophie et dégénérescence consécutives des fibres musculaires.
+
+La question de savoir si le profil immunogénétique du patient peut également jouer un rôle dans sa prédisposition à développer une IMNM est discutée. La présence de l’allèle HLA-DRB1*11:01 est un facteur de risque immunogénétique bien établi de développement de cette maladie (les adultes présentent souvent l’antigène des leucocytes humains [HLA] DRB1*11:01 et les enfants l’HLA-DRB1*07:01) [6, 7]. Initialement identifié chez près de 70% des patients, il a désormais été validé en tant que facteur de risque immunogénétique dans plusieurs cohortes d’origine ethnique différente.
+
+Actuellement, il n’existe pas encore de lignes directrices internationales relatives au traitement de l’IMNM [8, 9]. L’arrêt du traitement par statines est généralement la première et la principale mesure dans le traitement.
+
+Le traitement immunosuppresseur représente toutefois la pierre angulaire du traitement. Selva-O’Callaghan et al. [10] ont rapporté que les IgIV semblent être la meilleure option pour le traitement de l’IMNM induite par les statines, car il s’agit du seul médicament qui s’est avéré être efficace pour le traitement des myopathies inflammatoires. D’un autre côté, Nichols et al. [11] mentionnent l’utilisation des IgIV uniquement pour les cas ne répondant pas au traitement immunosuppresseur ou pour les cas particulièrement graves au moment de la pose du diagnostic. D’autres immunosuppresseurs, tels que l’azathioprine et le méthotrexate, ont également montré une bonne efficacité, tout comme, plus rarement, les inhibiteurs de la calcineurine et le mycophénolate mofétil [10,11]. Il a été constaté que de nombreux patients avec anticorps anti-HMGCR positifs ne présentaient initialement qu’une faible amélioration après l’administration de prednisone; par conséquent, un traitement d’association avec généralement deux immunosuppresseurs est nécessaire pour obtenir une amélioration de la force musculaire et une normalisation de la CK [5–9].
+
+Bien qu’un lien clair entre des statines spécifiques et le développement d’une IMNM n’ait pas été montré, une plus grande susceptibilité des patients qui prennent de l’atorvastatine ou de la simvastatine a été rapportée dans la littérature [11].
+
+Le pronostic est généralement bon, même si certains patients peuvent être en proie à des rechutes et si un traitement à long terme peut être nécessaire.
+
+L’essentiel pour la pratique
+
+• La myopathie nécrosante immuno-médiée induite par les statines est une complication rare du traitement par statines.
+
+• Sur le plan clinique, la maladie se caractérise par une faiblesse musculaire proximale au niveau des extrémités. Les analyses de laboratoire montrent une élévation persistante de la CK malgré l’arrêt du traitement par statine, ainsi que des anticorps anti-HMG-CoA-réductase.
+
+• La maladie doit être traitée par traitement immunosuppresseur (glucocorticoïdes, méthotrexate ou azathioprine, éventuellement immunoglobulines i.v.).

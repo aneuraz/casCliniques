@@ -1,0 +1,56 @@
+Contexte
+
+Chez les patients d’âge moyen, les causes d’une lésion hépatique focale symptomatique à envisager en termes de diagnostic différentiel sont surtout des malignomes ou, moins souvent, des infections. Nous décrivons ici le cas d’une pyléphlébite, une cause encore plus rare de lésion hépatique.
+
+Présentation du cas
+Anamnèse
+
+A la suite d’une tomodensitométrie (TDM), un patient âgé de 66 ans a été adressé par le département interne de radiologie au service des urgences médicales pour mise au point diagnostique de lésion hépatique indéterminée. La TDM avait été ordonnée par le médecin de famille, car le patient souffrait depuis une semaine de douleurs épigastriques du côté droit et de frissons. Il a décrit une augmentation de la douleur lors de l’inspiration profonde et du mouvement. Il n’existait aucun symptôme concomitant d’origine gastro-intestinale, tel que nausée, diarrhée ou constipation. Le patient présentait une artériopathie dilatative et oblitérante connue accompagnée d’une artériopathie oblitérante périphérique (AOP) à gauche (stade I de Fontaine) ainsi qu’une ectasie de l’aorte abdominale de taille stable (2,8 cm). Il consommait par ailleurs de l’alcool (trois boissons standard par jour) et des cigarettes (50 PA). Les questions concernant des maladies gastro-intestinales et des contacts avec des animaux ont été répondues négativement. Au cours des dernières années, il avait voyagé uniquement en Italie.
+
+Statut et résultats
+
+A l’admission, le patient adipeux (IMC 30,9 kg/m2) était fébrile avec une température (auriculaire) de 38,3 °C. L’examen clinique a révélé une douleur au tapotement et à la pression de l’abdomen supérieur droit sans signe de péritonite. Les analyses biochimiques à l’admission ont indiqué des paramètres inflammatoires nettement accrus (Lc 17,4 G/l, CRP 199 mg/l) et une augmentation des transaminases (ASAT 299 U/l, ALAT 895 U/l, GGT 121 U/l). La TDM et l’échographie de l’abdomen préalablement réalisées ont montré une zone hypoéchogène cunéiforme nettement délimitée au niveau du segment hépatique 6 ainsi qu’un foyer hypodense de 25 mm de diamètre à proximité de la veine porte (fig. 1). Aucune perfusion n’a été mise en évidence dans les deux foyers. Le tronc principal de la veine porte présentait une perfusion normale.
+
+Figure 1: Tomodensitométrie (TDM) de l’abdomen jour 1: Zone infarctée au niveau du segment 6 (flèche), thrombose de la branche de la veine porte (étoile).
+
+Les examens d’imagerie ont révélé une diverticulose sigmoïdienne sans activité inflammatoire ainsi qu’un pancréas normal. Nous avons interprété la lésion hépatique cunéiforme non perfusée à la TDM comme un tissu infarcté, même si les paramètres inflammatoires nettement accrus ne correspondaient pas à un infarctus hépatique. Nous avons réalisé une ponction hépatique pour analyse cytologique et microbiologique. L’aspirat était macroscopiquement sanglant, l’examen microscopique a révélé une image riche en granulocytes sans bactéries. Après prélèvement de cultures sanguines, nous avons initié, en présence d’un processus inflammatoire hépatique focal, un traitement antibiotique empirique intraveineux par ceftriaxone et métronidazole. Afin de mieux différencier le résultat, une échographie avec produit de contraste a été réalisée le lendemain. L’absence de perfusion de la branche de la veine porte a été confirmée, ce qui a permis de diagnostiquer une thrombose de la branche de la veine porte. La zone infarctée présentait de nouvelles inclusions de gaz. Etant donné que nous avions à faire à une association non routinière entre un foyer hépatique inflammatoire et une thrombose de la branche de la veine porte, une autre TDM a eu lieu. Elle a révélé que les multiples inclusions de gaz étaient présentes non seulement dans la zone infarctée, mais également le long de la branche de la veine porte ainsi qu’à l’endroit de la thrombose de la branche de la veine porte. Nous étions ainsi en présence d’une thrombophlébite (fig. 2). Au vu de l’examen clinique, des paramètres infectieux et des transaminases accrus ainsi que d’une thrombophlébite de la branche de la veine porte avec infarcissement inflammatoire consécutif, le diagnostic de pyléphlébite a été établi.
+
+Figure 2: TDM de l’abdomen jour 2: Foyer hépatique inflammatoire avec multiples inclusions de gaz (flèche), thrombophlébite de la branche de la veine porte (étoile).
+
+Traitement et évolution
+
+Outre un traitement antibiotique intraveineux, nous avons effectué une héparinisation complète en raison de la thrombose de la branche de la veine porte. En deux semaines, une régression de la fièvre, des douleurs épigastriques et des paramètres hépatiques et inflammatoires a été observée. La TDM de suivi réalisée deux semaines plus tard a révélé une encapsulation du foyer périphérique (fig. 3). L’abcès hépatique désormais encapsulé a été drainé et de nouveaux échantillons pour l’analyse microbiologique et cytologique ont été prélevés. L’examen cytologique a à nouveau révélé une inflammation aiguë riche en granulocytes sans cellules malignes. Aucun des prélèvements microbiologiques répétés n’a montré des bactéries.
+
+Figure 3: TDM de l’abdomen jour 14: Abcédation de la zone infarctée.
+
+Le traitement a consisté en une héparinisation complète et un drainage de l’abcès pendant 14 jours ainsi que l’administration d’antibiotiques (ceftriaxone i.v./métronidazole p.o.) pendant quatre semaines. Au bout de quatre semaines, le patient a été renvoyé à son domicile dans un état favorable et exempt de douleur, et a continué la prise d’antibiotiques par voie orale (ciprofloxacine/métronidazole). La TDM de suivi huit semaines après le diagnostic initial a révélé une nette régression des anomalies (fig. 4). La branche de la veine porte n’était pas reperfusée. En présence d’un patient sans symptômes, avec des signes hépatiques régressifs et des paramètres inflammatoires normaux, le traitement antibiotique a été achevé après au total neuf semaines.
+
+Figure 4: TDM de l’abdomen huit semaines après le diagnostic initial, soit quatre semaines après le retrait du drain: abcès régressif (flèche), branche de la veine porte toujours non perfusée (étoile).
+
+Par la suite, la coloscopie recommandée pour rechercher un carcinome ou des dysplasies comme accès ­possible des bactéries et cause de la pyléphlébite a été réalisée. Au total, 14 polypes du côlon de 1 cm ont été ­retirés. A l’examen histologique, sept polypes présentaient une dysplasie de faible degré, les autres aucune modification dysplasique; aucune dysplasie de degré élevé n’a été mise en évidence.
+
+Discussion
+
+La pyléphlébite est une phlébite infectieuse de la veine porte ou de l’une de ses branches, provoquée par des bactéries ascendantes d’un foyer infectieux intra-abdominal ou pelvien et entraînant une thrombose. Dans leur revue de 100 cas entre 1971 et 2009, Kanellopoulou et al. ont décrit comme foyer possible de l’infection ascendante avec thrombophlébite consécutive une diverticulite (30%) et une appendicite (19%) [1]. Chez Asad et al. (95 cas, 2002–2012), la pancréatite (31%) est également une des causes les plus fréquentes [2]. Une pyléphlébite idiopathique est décrite dans 1–6% des cas.
+
+Un lien intéressant est décrit dans une étude coréenne réalisée par Koo et al., dans laquelle des abcès hépatiques idiopathiques ont été traités: dans ce travail rétrospectif, 163 patients ont été examinés et soumis à une coloscopie. Celle-ci a diagnostiqué chez 12,3% des patients soit un carcinome colorectal, soit des polypes dysplasiques de degré élevé au niveau du côlon. Cette prévalence de pathologies du côlon diagnostiquées fortuitement était significativement supérieure qu’auprès de la population de comparaison [3].
+
+Même si la pyléphlébite idiopathique ne doit pas être confondue avec un abcès hépatique idiopathique, il est recommandé d’effectuer une coloscopie en l’absence de foyer infectieux.
+
+La littérature ne contient ni données épidémiologiques exactes, ni directives thérapeutiques conclusives pour la pyléphlébite. Toutes les données reposent sur des descriptions de cas. Les hommes sont le plus souvent concernés (68%). L’âge est très variable (nourrisson jusqu’à personne âgée, valeur moyenne 42,3 ans) [1], et l’incidence s’élève à 2,7 pour 100 000 personnes-années [2]. Les patients se présentent typiquement avec fatigue, douleurs abdominales et fièvre. La localisation de la douleur peut varier en fonction du foyer inflammatoire et du segment hépatique concerné.
+
+Les analyses biochimiques permettent dans la plupart des cas de mettre en évidence une leucocytose et une augmentation des transaminases [1, 4, 5]. Le diagnostic d’imagerie de choix est la TDM [6]. La recherche d’agents pathogènes au moyen de cultures sanguines et, si besoin, d’une ponction hépatique est indispensable. L’identification de l’agent pathogène ne réussit qu’au plus dans la moitié des cas [1–3].
+
+Globalement, la pyléphlébite est associée à une mortalité (11–19%) et morbidité élevées. Les complications les plus fréquemment sont une abcédation secondaire, un sepsis et une chronicisation/progression de la thrombose (dans les veines mésentériques) avec ischémie ou infarcissement potentiels de l’intestin et hypertension portale. L’infarcissement hépatique est rare (1%). En raison des complications potentielles, un traitement ­rapide est essentiel [1, 2]. Dans les revues de cas disponibles, il a souvent été recours à un traitement antibiotique combiné. Les recommandations d’une anticoagulation sont plus controversées, car les résultats en termes de réduction de la mortalité et la morbidité ne sont pas univoques. Toutefois, de grandes revues sont disponibles (au total 144 cas), qui décrivent un meilleur résultat pour la mortalité et la morbidité avec une anticoagulation supplémentaire [1, 7]. L’indication et la durée d’une anticoagulation dépendent de l’étendue de la thrombose et des comorbidités, de sorte qu’une évaluation individuelle du rapport bénéfice-risque est indispensable.
+
+Chez le patient décrit, aucun agent pathogène a été identifié par les analyses biochimiques. La radiographie n’a pas permis de déterminer de foyer étiologique, ce qui est nettement plus rare. Rétrospectivement, les multiples polypes du côlon constituent l’accès le plus envisageable.
+
+L’antibiothérapie et l’héparinisation ont été initiées à temps. Malgré la complication avec infarcissement et abcédation hépatiques, l’évolution a été favorable. Nous avons effectué l’antibiose par voie intraveineuse pendant longtemps, ce qui était nécessaire en raison du drainage de l’abcès et du fait d’une infection à norovirus compliquée à la troisième semaine d’hospitalisation.
+
+L’essentiel pour la pratique
+
+• Une pyléphlébite survient en raison d’une infection bactérienne ascendante le long de la paroi de la veine porte ou de ses branches et de l’apparition concomitante d’une thrombose.
+
+• Un traitement antibiotique précoce (métronidazole plus céphalosporine ou fluoroquinolone de troisième génération) est indispensable au vu de la mortalité élevée.
+
+• Les recommandations thérapeutiques se basent sur des descriptions de cas. Il n’existe aucune recommandation conclusive concernant une anticoagulation. L’anticoagulation doit dépendre individuellement du profil bénéfice-risque du patient et de l’étendue de la thrombose.

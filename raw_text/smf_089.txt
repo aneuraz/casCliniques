@@ -1,0 +1,62 @@
+Contexte
+
+Au décours de la pandémie actuelle de SARS-CoV-2, ­responsable de la maladie COVID-19, de nombreuses questions quant à la prise en charge des patients ont été soulevées. Une actualisation et un partage régulier des connaissances au niveau national et international a été la pierre angulaire de l’avancée des connaissances et de l’amélioration de la prise en charge de ces patients. Un des phénomènes qui a été noté et qui a suscité un changement de prise en charge durant ces dernières semaines est l’état hautement pro-thrombotique des patients infectés par ce virus. Dans ce cas clinique, nous allons décrire les complications thrombotiques d’un patient intubé pour une infection au SARS-CoV-2.
+
+Rapport de cas
+Anamnèse
+
+Un patient de 72 ans, connu pour une hypertension artérielle, un diabète de type 2 insulino-requérant ainsi qu’un antécédent d’embolie pulmonaire post-traumatique en 2016 est hospitalisé en raison d’un mal perforant plantaire pour lequel il bénéficie d’un traitement chirurgical, d’une antibiothérapie ainsi que d’une prophylaxie antithrombotique standard par énoxaparine 40 mg 1×/j sous-cutané pour un patient de 98 kg. Durant son hospitalisation, le patient développe un état fébrile associé à une toux. Dans le contexte de la pandémie de coronavirus, un frottis est réalisé et se révèle positif. Le patient développe progressivement une hypoxémie nécessitant une oxygénothérapie à 10 l/min au masque motivant son admission aux soins intensifs.
+
+Status et résultats
+
+Le patient présente à son admission aux soins intensifs une détresse respiratoire avec une hypoxémie sévère nécessitant une intubation. La radiographie du thorax montre des infiltrats et des condensations pulmonaires bilatérales compatibles avec un syndrome de détresse respiratoire aigu (SDRA) sur COVID-19.
+
+Il présent par la suite une instabilité hémodynamique persistante. L’ECG met en évidence une inversion des ondes T dans les dérivations précordiales droites suivi par l’apparition d’un bloc de branche droit.
+
+Le dosage des troponines montre une élévation significative avec cinétique à la hausse. L’échocardiographie met en évidence un cœur pulmonaire avec des signes d’hypertension pulmonaire importante ainsi qu’une dilatation et une dysfonction sévère du ventricule droit. Le Doppler-couleur ne met pas en évidence de foramen ovale et compte tenu de l’instabilité hémodynamique un test au micro-bulles n’est pas réalisé.
+
+Diagnostic et traitement
+
+Malgré l’intubation et une ventilation protectrice optimale, sous sédation et curarisation, le patient présente une hypoxémie persistante, ainsi qu’une majoration de son instabilité hémodynamique nécessitant un soutien aminergique par noradrénaline et dobutamine.
+
+Au vu du cœur pulmonaire, de l’élévation des troponines et des modifications ECG, nous suspectons une embolie pulmonaire. L’angio-CT confirme la présence d’embolies pulmonaires lobaires droite et plurisegmentaires gauche, et montre des infiltrats typiques d’une infection à SARS-CoV-2 (fig. 1).
+
+Figure 1: Angio-CT thoracique, coupes axiales.A) Embolies pulmonaires lobaires droites et plurisegmentaires gauches (cercles).B) Infiltrats pulmonaires en verre dépoli avec condensations périphériques typiques de COVID-19.
+
+Au vu de ce résultat, nous introduisons une anticoagulation par de l’héparine non-fractionnée intraveineuse à dose thérapeutique visant un temps de céphaline activée (aPTT) augmenté à 2,5 fois la norme du patient.
+
+Les échanges respiratoires ne sont pas améliorés par une ventilation mécanique protectrice en décubitus ventral, avec des rapports PaO2/FiO2 entre 50 et 60 mm Hg. Le patient présente également une aggravation de son état hémodynamique, avec baisse de son index cardiaque nécessitant une majoration du soutien aminergique. Dans ce contexte de choc cardiogène et en l’absence de contre-indications, une thrombolyse par de la ténecteplase 10 000 U est administrée avec poursuite de l’anticoagulation thérapeutique.
+
+Evolution
+
+Suite à l’administration de la thrombolyse, l’évolution est favorable avec amélioration des rapports ventilatoires et stabilisation hémodynamique.
+
+A J4 post-thrombolyse, sous anticoagulation efficace (aPTT dans la cible thérapeutique) par héparine non-fractionnée, le patient présente une anisocorie ainsi qu’une bradycardie avec extrasystolie ventriculaire. Suspectant une complication hémorragique suite à la thrombolyse, un CT cérébral est réalisé retrouvant de manière inattendue un accident vasculaire cérébral (AVC) ischémique droit étendu sur occlusion complète de l’artère sylvienne ainsi que des signes d’engagement cérébral (fig. 2).
+
+Figure 2: CT cérébral natif en coupe coronale(A) et axiale(B) . Visualisation d’un signe de l’artère sylvienne dense à droite ­signant une thrombose précoce de celle-ci (flèches rouges). En coupe coronale, dédifférenciation substance blanche-substance grise parlant pour une nécrose étendue avec œdème cérébral. Signes d’engagement avec déviation de la ligne médiane et ­lamination du ventricule latéral droit (flèche blanche).
+
+Au vu de l’étendue de l’ischémie, un retrait thérapeutique est décidé et le patient décède quelques heures plus tard.
+
+Discussion
+
+Nous décrivons le cas d’un patient intubé aux soins intensifs dans le contexte d’un SDRA sur COVID-19 ayant présenté successivement deux événements thromboemboliques. Le deuxième événement, un AVC ischémique massif, survient dans le contexte d’une anticoagulation thérapeutique efficace au décours de la thrombolyse intraveineuse d’une embolie pulmonaire.
+
+Selon la littérature parue à ce jour dans le contexte de la pandémie liée au nouveau coronavirus SARS-CoV-2, il semblerait que la maladie COVID-19 soit associée à un état pro-coagulant important, menant à un risque augmenté de thromboses artérielles et veineuses [1]. Jusqu’à 30% des patients admis en milieu de soins intensifs développent une complication thromboembolique, avec une majorité d’embolies pulmonaires (16–25%) [2, 3]. La survenue d’AVC ischémiques est décrite entre 5–9% [3, 4]. Ces complications thromboemboliques sont grevées d’une importante mortalité et surviennent malgré une anticoagulation prophylactique [2].
+
+Une étude observationnelle réalisée à Wuhan, en Chine, met en évidence une association significative entre l’élévation des D-dimères (>1000 ng/ml) à l’entrée et une élévation du taux de mortalité intra-hospitalière [5]. Pour les diverses raisons discutées ci-dessus, il serait tentant de vouloir intensifier la prophylaxie thrombo-embolique, mais il n’existe à ce jour aucune étude prospective validant cette hypothèse.
+
+La raison menant à cet état pro-thrombotique n’est pas encore complètement élucidée mais il semblerait que la présence d’une inflammation excessive, d’une hypoxémie sévère ainsi que la présence d’anomalie du système de la coagulation jouent un rôle important [4]. Par exemple, certains cas de patients présentant des anticorps anti-phospholipides ont été décrits [6]. Par ailleurs, les publications les plus récentes font état d’une dysfonction endothéliale comme principale déterminante d’une dysfonction microvasculaire, à l’origine d’une vasoconstriction et d’une augmentation du status procoagulant [7].
+
+Les observations concernant l’état hypercoagulant des patients atteints par le COVID-19 ont mené à l’élaboration de recommandations préconisant une anticoagulation prophylactique à doses plus élevées qu’usuellement [8], voire à dose thérapeutique en fonction de la présence de certains facteurs de risque ou d’une hypercoagulabilité importante [9]. Il est intéressant de noter qu’un phénomène similaire avait été décrit en 2004 lors de l’épidémie de SARS-CoV-1 [10].
+
+Dans le cas présenté, il est intéressant de noter l’amélioration des échanges gazeux faisant suite à la thrombolyse. Il est clair que la levée du thrombus pulmonaire en est en grande partie responsable mais la question d’un effet sur d’éventuels microthrombi dans la vascularisation pulmonaire périphérique peut être soulevée [11].
+
+Bien qu’un certain biais d’observation soit dénoncé par certains, il semble bel et bien que le COVID-19 soit associé à un état pro-coagulant important, ceci même en comparaison avec des patients atteints d’SDRA d’autres origines [2]. Ceci est mis en exergue par la séquence d’événements thromboemboliques avec la survenue d’un événement malgré une anticoagulation à doses thérapeutique présentés par notre patient. A noter que ce patient a été pris en charge avant les recommandations en matière d’anticoagulation prophylactique citées ci-dessus et a bénéficié d’une thromboprophylaxie standard. En effet, n’étant pas encore entrés dans les guidelines, le dosage des facteurs procoagulants tels que le fibrinogène ou les D-dimères qui auraient pu nous amener à augmenter la dose de l’anticoagulation prophylactique n’ont pas été dosés à l’admission du patient. Lors de la survenue de l’embolie pulmonaire, le diagnostic a été essentiellement clinique et les facteurs pro-coagulants n’ont pas été mesurés. Cependant, l’AVC ischémique est apparu malgré une anticoagulation thérapeutique bien conduite. A noter qu’une embolie paradoxale sur un foramen ovale perméable ne peut être formellement exclue en l’absence d’un test aux micro-bulles. Ceci ne fait que renforcer l’importance d’une anticoagulation prophylactique à dose majorée ou thérapeutique selon les différents critères [9] ainsi que du suivi clinique avec dépistage précoce des complications thromboembolique.
+
+L’essentiel pour la pratique
+
+• Les données actuelles suggèrent l’existence d’un état hautement procoagulant au cours de la maladie à COVID-19.
+
+• Une thromboprophylaxie intensifiée, voire une anticoagulation pourraient-être indiquées, ces stratégies devant toutefois faire l’objet d’études prospectives. Des recommandations concernant cette problématique ont été éditées par différentes sociétés de spécialistes.
+
+• Il ne faut pas sous-estimer la survenue d’évènements ischémiques chez les patients COVID-19, même en présence d’une anticoagulation efficace.

@@ -1,0 +1,85 @@
+Contexte
+
+Les corps étrangers intra-appendiculaires sont des événements rares, avec une prévalence estimée à 0,005% et une incidence estimée à 5 cas par 10 millions d’habitants par année [1–3]. Le premier cas décrit remonte à l’an 1736, lorsque le chirurgien britannique Claudius Amyand découvre un appendice perforé par une épingle chez un enfant de 11 ans et effectue par la même occasion la première appendicectomie de l’histoire [4]. Dans cet article, nous décrivons le cas d’une appendicite sur impaction d’un corps étranger accidentellement ingéré.
+
+Rapport de cas
+Anamnèse
+
+Une patiente de 56 ans, connue pour hypertension artérielle et une cardiopathie malformative avec une communication interventriculaire, est référée par un centre médical à notre service d’urgence en raison de lombalgies depuis une dizaine de jours, irradiant sur la face antérieure de la cuisse gauche, avec un état fébrile à 40 °C. Le reste de l’anamnèse par systèmes, notamment sur le plan cardio-vasculaire, est sans particularité.
+
+Deux semaines auparavant, suite à l’ingestion accidentelle d’une fraise dentaire lors d’une intervention, une radiographie a été effectuée, localisant un corps étranger en fosse iliaque droite (fig. 1).
+
+Figure 1 : Corps étranger métallique sur la radiographie de l‘abdomen sans préparation (flèche).
+
+Status
+
+L’examen physique montre un souffle au foyer aortique, une sensibilité à la palpation sus-pubienne, ainsi qu’une douleur lombaire en regard de L4–L5. Le reste du status est dans la norme.
+
+Résultats
+
+Le laboratoire montre des leucocytes à 9 G/l et une CRP à 130 mg/l. En raison d’une suspicion d’endocardite et de spondylodiscite, une antibiothérapie empirique par co-amoxicilline et gentamycine est débutée. Les hémocultures reviennent positives pour un Streptococcus mitis, motivant un relais par ceftriaxone. L’échocardiographie trans-oesophagienne montre une communication interventriculaire membraneuse sous-aortique avec un shunt gauche-droite modéré, ainsi qu’une image suspecte de végétation.
+
+Effectué en raison de l’apparition au début de l’hospitalisation d’une douleur abdominale intermittente, sans péritonisme à l’examen clinique, le CT-scan montre la persistance d’un corps étranger, en localisation intra-­appendiculaire, sans signe radiologique de complication, à trois semaines post-ingestion (fig. 2).
+
+Figure 2: Corps étranger métallique sur le scanner abdomino-pelvien en coupe axiale (flèche).
+
+Une IRM lombaire est indiquée en raison de la suspicion de spondylodiscite concomitante, mais ne peut pas être effectuée en raison du corps étranger métallique.
+
+Diagnostic 
+
+Les diagnostics retenus sont un corps étranger ingéré et impacté dans l’appendice, ainsi qu’une endocardite, avec deux critères majeurs, et une suspicion clinique de spondylodiscite sur bactériémie à Streptococcus ­mitis d’origine dentaire.
+
+Traitement
+
+Une prise en charge conservatrice du corps étranger appendiculaire avec administration de laxatifs est initialement tentée. Une radiographie effectuée une semaine après, soit à quatre semaines post-ingestion, montre une persistance de la fraise dentaire à la même localisation. La patiente se plaint de la persistance des lombalgies.
+
+Une endoscopie est alors réalisée. Le corps étranger est visualisé dans l’appendice, mais la tentative d’extraction est infructueuse. Une laparoscopie est finalement effectuée. Lors de l’intervention, le corps étranger est palpé dans l’appendice et sa présence confirmée par fluoroscopie. Après appendicectomie, la fraise dentaire est extériorisée et retrouvée intacte (fig. 3).
+
+Figure 3: Fraise dentaire retrouvée dans l’appendice.
+
+L’histologie relève une appendicite aigüe focale au niveau de la pointe, laissant évoquer une probable évolution vers une appendicite clinique si le corps étranger métallique serait resté plus longtemps. Finalement, l’IRM est effectuée et confirme une spondylodiscite au niveau de L3–L4.
+
+Evolution
+
+La patiente rentre à domicile après deux semaines d’hospitalisation. L’antibiothérapie de ceftriaxone est poursuivie en ambulatoire pour une durée totale de six semaines. Une IRM de contrôle au terme de l’antibiothérapie montre une évolution sans complication de la spondylodiscite. Un suivi en cardiologie est organisé. La patiente présente une récidive d’endocardite six mois plus tard. La correction chirurgicale de la communication interventriculaire est effectuée un mois après cette récidive. Une indication à la prophylaxie antibiotique avant les interventions dentaires est retenue à long terme.
+
+Discussion 
+Epidémiologie
+
+Les corps étrangers digestifs sont des entités fréquentes. La majorité des cas est constatée chez les enfants [5, 6]. Chez les adultes, les facteurs de risque sont: la consommation chronique d’alcool, les comorbidités psychiatriques, le retard de développement, le milieu carcéral et le port de prothèses dentaires [6, 7].
+
+La présence d’un corps étranger dans l’appendice est une entité rare, avec 256 cas lors du siècle passé, répertoriés par Klingler et al. [3]. Divers objets sont retrouvés: os de viande, grenaille, aiguilles, pierres, cheveux, ongles et même le bout d’un thermomètre [1, 2, 8–10]. Les corps étrangers d’origine dentaire restent exceptionnels, avec quelques cas décrits: dents, prothèses et fraises dentaires [11, 12].
+
+Physiopathologie
+
+Les corps étrangers digestifs ont tendance à s’impacter au niveau des rétrécissements physiologiques et pathologiques. Le sphincter œsophagien inférieur est le site d’impaction le plus fréquent [13]. Cependant, s’ils parviennent jusqu’à l’estomac, ils sont spontanément évacués en l’espace d’une semaine en moyenne et restent asymptomatiques [6, 14].
+
+Lorsque le corps étranger est plus lourd que le contenu intestinal, il est postulé qu’il a tendance à suivre la gravité. Sa pénétration dans l’appendice depuis le caecum dépend donc de son poids, de la perméabilité de l’orifice appendiculaire ainsi que de la position anatomique de l’appendice, la position rétro-caecale offrant un accès limité [1, 3]. Le péristaltisme est souvent insuffisant pour expulser le corps étranger. La formation d’une enveloppe fécale autour de l’objet peut aussi constituer un obstacle à son évacuation [3]. Elle peut également retarder l’apparition d’une réponse inflammatoire, initiée par l’érosion de la muqueuse, et dont le délai peut être quelques heures à quelques mois [15, 16]. De rares cas d’appendicite survenant plusieurs années après ingestion sont décrits [9, 17].
+
+Clinique
+
+Les corps étrangers digestifs, en particulier oesophagiens, peuvent se manifester par une dysphagie, hypersalivation, douleur thoracique ou des symptômes respiratoires [6]. Les symptômes plus spécifiques d’un objet intra-appendiculaire sont les douleurs abdominales, les vomissements, et la fièvre [8, 10, 12, 15, 16]. La littérature montre que 70% des corps étrangers intra-appendiculaires sont symptomatiques [1, 3]. Au status, on peut retrouver une sensibilité abdominale ­diffuse, parfois un péritonisme plus localisé [3, 6].
+
+Prise en charge
+
+La prise en charge d’un corps étranger digestif dépend de ses caractéristiques, clinique, localisation, ainsi que durée d’impaction. La fréquence des complications augmente avec les facteurs de risque suivants: batteries, aimants, objets pointus, et une taille de plus de 6 cm de longueur et/ou 2,5 cm de diamètre [6, 7, 14]. Plusieurs types de complication peuvent survenir: impaction, ulcère, abcès, perforation, ou encore formation de fistules [18, 19]. Une endoscopie est requise dans 10 à 20% des cas, et une intervention chirurgicale dans 1% des cas [6, 14].
+
+En l’absence de facteurs de risque, une attitude conservatrice avec suivi par radiographie est envisageable. Un CT-scan est recommandé lorsqu’il existe une suspicion clinique de complication [3, 6].
+
+Lors d’une localisation intra-appendiculaire, les principales complications documentées sont l’appendicite aiguë, l’abcès et la perforation. En raison du risque élevé de complications, une intervention endoscopique est donc suggérée. En cas d’échec, le corps étranger doit être retiré par appendicectomie laparoscopique [3].
+
+Conclusion
+
+Les corps étrangers intra-appendiculaires sont rares, mais peuvent être à l’origine de complications conséquentes. Dans un premier temps, l’endoscopie est ­suggérée pour leur extraction. En cas d’échec, l’appendicectomie par voie laparoscopique reste l’option de choix.
+
+L’essentiel pour la pratique
+
+• La prise en charge d’un corps étranger digestif doit être individualisée et multidisciplinaire.
+
+• Elle dépend de ses caractéristiques, clinique, localisation, ainsi que ­durée d’impaction.
+
+• Un corps étranger localisé en fosse iliaque droite et sans déplacement objectivé lors de deux imageries successives doit favoriser une approche plus invasive en raison d’un risque de complication plus élevé.
+
+• Une endoscopie est suggérée en cas de corps étranger intra-appendiculaire. En cas d’échec, il doit être retiré par appendicectomie laparoscopique.
+
+• Une bactériémie d’origine dentaire peut entraîner plusieurs foyers ­infectieux concomitants, raison pour laquelle l’évaluation clinique reste fondamentale.

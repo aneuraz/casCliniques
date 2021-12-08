@@ -1,0 +1,51 @@
+Cas clinique
+
+Le 5 juillet 2016, un patient de 69 ans est adressé par son cardiologue à la clinique cardiologique où il est suivi pour insuffisance cardiaque. Il est porteur de nombreux facteurs de risque vasculaire : tabagisme interrompu il y a 30 ans, hypertension artérielle, dyslipidémie et diabète insulino-requérant depuis 2011.
+
+Dans ses antécédents :
+
+En 2010, endartériectomie chirurgicale pour sténose serrée de la carotide interne droite, asymptomatique.
+En 2011, AVC se traduisant par une paralysie faciale gauche, récupérant en 48 heures. Mise en évidence d’une resténose de la carotide interne droite entrainant la mise en place d’un stent avec angioplastie.
+En mars 2015, découverte d’une cardiopathie ischémique entraînant une dysfonction ventriculaire gauche (fraction d’ejection du VG à 50 %) : lésions du tronc coronaire gauche, de l'IVA, de la circonflexe et thrombose de la coronaire droite. Mise en place de 6 stents actifs (en raison d’une contre indication à une revascularisation chirurgicale). Début d’une double anti agrégation plaquettaire (Duoplavin®).
+En août 2015, nouvelle décompensation ventriculaire gauche avec dégradation de la FEVG. A la coronarographie : resténose intrastent serrée de l'IVA proximale traitée par angioplastie par ballonnet actif et sténose serrée de la circonflexe moyenne traitée par stent actif.
+
+A l’admission, aux urgences de la clinique, le patient est en sub-œdème pulmonaire avec des signes sévères de défaillance cardiaque : FEVG à 20 %, Brain Natriuretic Peptide (BNP) à 1063 pg/ml (normal : 100), Créatininémie : 229 mg/l), mais qui s'améliorent rapidement sous diurétique. Le facteur déclenchant de cette décompensation est un premier accès de fibrillation auriculaire.
+Un traitement par Cordarone® est instauré chez un patient déjà sous Duoplavin® et Préviscan® (INR à 1,26 à l’admission).
+
+En raison d’une troponinémie élevée (1,06 µg/l), réalisation d’une coronarographie avec angioplasties par ballons actifs sur des resténoses des IVA (1) à 90 % et IVA (2 et 3) à 70 %.
+
+Le 13 juillet, après une semaine d’hospitalisation et la récupération d’un rythme cardiaque sinusal, le patient est autorisé à regagner son domicile. Outre les traitements à visée cardiaque, antidiabétique et hypocholestérolémiant, il lui est prescrit la poursuite du traitement anticoagulant par Duoplavin® (1c/j) et Préviscan® (20 mg/j) (INR à 3,02, le jour de la sortie). Un contrôle de l'INR est prévu une semaine plus tard. L’ordonnance est rédigée par un interne sous le contrôle d’un médecin du service.
+
+Le 20 juillet, le contrôle d'INR prescrit donne un résultat à 10,4 (créatininémie à 208 mg/l). Le laboratoire ayant réalisé ce contrôle ne réussissant pas à joindre par téléphone la clinique cardiologique, appelle l’épouse du patient à son domicile pour l'informer du résultat très anormal de l’INR. Cette dernière communique au laboratoire le numéro d’appel du cardiologue, qu'elle tient parallèlement au courant du résultat.
+
+Celui-ci fait arrêter le Préviscan® pendant deux jours avec reprise au 3e jour à la dose d'un 1/4 de comprimé/j, sans toutefois prévoir de nouveau dosage d'INR.
+
+ Le 22 juillet au matin, soit 48 heures plus tard, le patient présente une épistaxis importante. Le cardiologue n'étant pas joignable, son épouse dit avoir appelé le 15.
+
+Aucune trace de cet appel n’est retrouvée sur le relevé officiel des appels reçus par le SAMU.
+
+Le samedi 23 juillet, l’épistaxis persistant, l’épouse du patient appelle le SAMU. Cet appel est retrouvé, à 08 h 43, sur le relevé des enregistrements fourni par le SAMU, avec comme conseil médical : "se moucher fort puis comprimer en pinçant les narines et en penchant la tête en avant … Ne reprendre le Préviscan® que si ne saigne plus… on garde le Duoplavin® ". Absence d’interrogation sur le taux d’INR.
+
+Arrêt de l’épistaxis dans l'après midi et suivant les recommandations du cardiologue et du SAMU, reprise du Préviscan® (1/4 de comprimé) dans la soirée.
+
+Dans la nuit du 23 au 24 juillet, le patient se plaint de difficultés motrices et ne peut plus se lever de son lit.
+
+Le 24 juillet au matin, nouveau saignement nasal avec céphalées intenses et impotence fonctionnelle totale.
+
+A 08 h 45, appel du SAMU et transfert aux urgences de la clinique cardiologique où sont constatées une parésie des deux membres inférieurs, puis une hémiplégie gauche massive.
+
+Le scanner cérébral : "hématome sous dural hémisphérique droit et para falcoriel étendu jusqu'à la tente du cervelet avec œdème cérébral et déviation de la ligne médiane avec engagement temporal débutant". INR à 5 à l'admission.
+
+Dans la journée, transfert en réanimation en raison d’une aggravation clinique. Arrêt du Duoplavin®. Traitement par vitamine K, Solumédrol et Mannitol. Contre-indication posée à tout acte neurochirurgical.
+
+Le 16 août, dégradation de l’état de conscience scanner cérébral : "augmentation de l’hématome sous dural avec aggravation de l'engagement et de l'œdème". Décision neurochirurgicale de drainage de l'hématome par craniotomie droite.
+
+Le 18 août, amélioration de l'état de conscience et, plus discrètement, de la motricité du membre supérieur gauche, le membre inférieur restant totalement déficitaire.
+
+Instauration d'un traitement par Kardégic 75 (1c/j) en raison de la contre-indication absolue et définitive d’un traitement par AVK.
+
+Le 1er septembre, transfert en centre de rééducation jusqu'au 9 février 2017, date à laquelle le patient regagne son domicile.
+
+Le bilan met alors en évidence un handicap moteur majeur dû à une hémiplégie gauche, massive au niveau du membre supérieur avec une hypertonie spastique et un grasping réflexe. La perte de la marche est totale, la station debout, sans aide, est impossible. Le déplacement se fait en fauteuil roulant manuel semi électrique avec l'assistance d'une tierce personne. Les transferts nécessitent un lève-malade depuis le lit. Le patient se plaint de douleurs chroniques neuropathiques de l'hémicorps gauche. La sémiologie frontale entraîne une apathie, un relatif mutisme, un problème d'orientation temporelle sur la date et le jour, une difficulté à la lecture. Le patient est dépendant pour s'alimenter et se servir à boire. Il est porteur d'un peniflow pour les urines et de couches pour les selles.
+
+Saisine de la Commission de conciliation et d'indemnisation (CCI) par le patient pour obtenir réparation du préjudice qu’il a subi (novembre 2017).

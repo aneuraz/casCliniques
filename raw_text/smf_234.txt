@@ -1,0 +1,65 @@
+Contexte
+
+Les lésions multiligamentaires du genou sont le plus souvent provoquées par des traumatismes à haute énergie et s’accompagnent fréquemment d’une luxation de l’articulation du genou. Des atteintes supplémentaires des nerfs et des vaisseaux peuvent compliquer ces lésions sévères. C’est la raison pour laquelle elles doivent être détectées de façon précoce. Près de 30% des lésions du point d’angle postéro-latéral («posterolateral corner» [PLC]) s’accompagnent d’une lésion du nerf péronier commun. Dans ces cas, la pose rapide du diagnostic et la prise en charge opératoire précoce des lésions ligamentaires doivent être visées. Sous traitement conservateur, la parésie péronière présente un bon potentiel de rémission. Les paralysies ont un pronostic moins bon et la décision thérapeutique doit être prise au cas par cas.
+
+Présentation du cas
+Anamnèse
+
+Un judoka âgé de 20 ans a chuté au sol lors d’un combat et son opposant lui est tombé sur la jambe gauche tendue, entraînant un traumatisme en hyperextension/varus. Immédiatement après, le patient a fait état de douleurs et d’une sensation d’instabilité dans la région du genou gauche. Un trouble de la sensibilité de la face antérolatérale de la jambe et du dos du pied, ainsi qu’une paralysie des releveurs du pied et des orteils, étaient également présents. Le patient a déclaré ne pas présenter d’antécédents de lésions de l’articulation du genou.
+
+Examens et résultats
+
+Le patient présentait une démarche claudicante du côté gauche, avec un pied complétement tombant. L’articulation du genou gauche présentait un gonflement diffus, surtout du côté latéral, et elle était douloureuse à la pression. La mobilisation active était limitée par les douleurs. Lors de l’examen des ligaments latéraux, l’articulation présentait une forte laxité en flexion à 0 et 30° du côté latéral, mais elle était en revanche stable du côté médial. Initialement, les ligaments croisés ne pouvaient pas être évalués de façon univoque. En flexion à 30°, le «dial test» a montré une rotation externe accrue du côté gauche. Dans la zone périphérique, un déficit du nerf péronier avec paralysie des releveurs du pied et diminution de la sensibilité au niveau de la face antérolatérale de la jambe et du dos du pied a été détecté. Le pouls pédieux était très palpable et l’indice tibio-brachial («ankle-brachial index» [ABI]) était de 1,18.
+
+La radiographie de l’articulation du genou gauche a montré un résultat normal compte tenu de l’âge, sans lésions osseuses.
+
+Un examen d’imagerie par résonance magnétique (IRM) a été conduit en urgence afin d’évaluer la lésion péronière. Une avulsion de l’insertion péronière commune du tendon du muscle biceps fémoral et du ligament collatéral latéral (LCL), ainsi qu’une rupture du ligament croisé antérieur (LCA) et de la capsule articulaire postéro-latérale (fig. 1), ont ainsi été révélées. La continuité du nerf péronier commun était conservée, et le nerf n’apparaissait pas comprimé.
+
+Figure 1: Imagerie par résonance magnétique préopératoire.
+A gauche (coupe coronaire): Avulsion du tendon du biceps et du ligament collatéral ­latéral de la tête du péroné (flèche). A droite (coupe sagittale): Rupture complète du ligament croisé antérieur (flèche). Images: Département de radiologie de la SRRWS.
+
+Diagnostic
+
+Lésion multiligamentaire du genou gauche:
+
+– avulsion partielle du PLC (tendon du biceps, ligament collatéral latéral);
+
+– rupture du LCA;
+
+– Paralysie du nerf péronier commun
+
+Traitement et évolution
+
+La stabilisation périphérique a eu lieu dans le cadre d’une première intervention 5 jours après le traumatisme. Via un accès latéral, le nerf péronier commun a ­tout d’abord été visualisé, inspecté, puis son cerclage a été réalisé. La continuité du nerf était préservée, mais il était imprégné de sang et gonflé. L’insertion commune du LCL et du tendon du biceps était arrachée de la tête du péroné sur une large surface (fig. 2). En raison de cette très grande surface de contact, nous nous sommes décidés pour une refixation directe. La partie arrachée a été armée et refixée sur la tête du péroné au moyen d’ancrages de suture (Mitek GIITMTM).
+
+Figure 2: Résultat intra-opératoire, vue latérale du genou. Orientation: crâniale: à droite, ventrale: en haut. Cerclage jaune: nerf péronier. Croix: tendon du biceps/ligament collatéral latéral. Flèche: site d’avulsion au niveau de la tête du péroné.
+
+Après l’opération, le genou a été immobilisé dans une orthèse à cadre rigide (limite de flexion: 30° du jour 0 à 14, 60° du jour 15 à 28, 90° du jour 29 à 42). Pendant les 6 premières semaines, une mise en charge partielle avec 15 kg a été observée. Une orthèse Heidelberg a été ajustée au pied tombant à titre prophylactique. En raison d’une évolution favorable, 12 semaines après la stabilisation périphérique, une plastie arthroscopique du LCA a été conduite sans complications au moyen du tendon semi-tendineux ipsilatéral (fig. 3).
+
+Figure 3: Radiographie conventionnelle après refixation du tendon du biceps et
+du ligament collatéral latéral et reconstruction du ligament croisé antérieur.
+Image: Département de radiologie de la SRRWS.
+
+Après une bonne évolution postopératoire, 6 mois après le traumatisme, le patient était satisfait et présentait une articulation du genou subjectivement et objectivement stable.
+
+Concernant la paralysie du nerf péronier, la sensibilité s’est lentement rétablie dans la région du rameau superficiel. Une électromyographie (EMG) réalisée 12 semaines après le traumatisme n’avait toutefois pas encore montré de signes indiquant un rétablissement du rameau profond. En concertation interdisciplinaire avec la chirurgie plastique reconstructrice, une procédure conservatrice a été décidée. Le patient s’est présenté en consultation 6 mois après l’accident avec une faible extension de l’avant-pied (degré de force M 3/5). Le traitement conservateur a été poursuivi compte tenu du rétablissement clinique débutant.
+
+Discussion
+
+Nous sommes confrontés à une lésion sévère de l’articulation du genou causée par un traumatisme à basse énergie.
+
+Les lésions du PLC surviennent dans environ 9% de toutes les lésions ligamentaires pertinentes du genou. Le complexe PLC est dans ce cadre surtout touché suite à des traumatismes causés par une collision au niveau de l’articulation antéro-médiale du genou ou après des traumatismes en hyperextension. Il se compose de stabilisateurs primaires (LCL, tendon poplité et ligament poplitéo-fibulaire) et secondaires (capsule postéro-latérale, tendon du biceps, tractus ilio-tibial). Ces stabilisateurs stabilisent le genou contre les forces de rotation extérieure/en varus. Une blessure isolée du PLC survient rarement (environ 1/3 de tous les cas), et souvent, le LCA ou le ligament croisé postérieur (LCP) sont également touchés. Sur le plan clinique, en cas de rupture complète du PLC, une laxité latérale accrue est observée en flexion à 0° et 20–30°, et en cas de lésion du ligament extérieur seule, uniquement en flexion à 20–30°. Un autre test clinique permettant d’évaluer les structures ligamentaires est le «dial test». Dans ce cadre, le patient est allongé sur le ventre et ses pieds sont tournés vers l’extérieur par l’examinateur avec une flexion des genoux à 30° et 90°. En cas de rotation extérieure accrue (>10°) seulement en flexion à 30°, une lésion isolée du PLC est alors suspectée; en cas de rotation extérieure ­accrue en flexion à 90°, il convient de songer à une lésion du LCP supplémentaire. En situation aiguë, le diagnostic clinique est souvent rendu difficile par les douleurs. La conduite d’une IRM est également appropriée pour évaluer d’éventuelles lésions concomitantes [1, 2].
+
+Si une lésion du troisième degré des structures latérales (laxité latérale accrue en flexion à 20–30° et en extension complète) est présente, alors, contrairement aux lésions ligamentaires médiales, le traitement conservateur ne permet pas d’obtenir des résultats satisfaisants. Dans la littérature, une prise en charge opératoire rapide est conseillée (sous 3 semaines). Une prise en charge du PLC et du LCA en un seul temps est possible, mais un taux accru d’arthrofibroses fait toutefois l’objet de discussions controversées. La prise en charge opératoire des lésions du PLC est possible soit au moyen d’une refixation directe par suture ou ancrage de suture soit au moyen de différentes méthodes de reconstruction. Dans ce cadre, le LCL et le tendon poplité sont reconstruits au moyen d’autogreffes ou d’allogreffes, qui sont fixées sur les points d’insertion et d’origine des différents ligaments touchés via les canaux percés. En raison de la rareté de cette lésion, seules peu de données sont disponibles concernant les résultats à long terme. Dans les études comparatives, la reconstruction a montré de meilleurs résultats. Un remplacement du ligament croisé sans prise en charge préalable ou simultanée du PLC n’est pas recommandé en raison de la survenue accrue de re-ruptures. Différentes cohortes de patients avec différentes méthodes opératoires ont montré de meilleurs résultats fonctionnels après la prise en charge opératoire par rapport au traitement conservateur. A long terme, la majorité des patients ayant bénéficié d’un traitement chirurgical peuvent à nouveau exercer leur profession et une proportion légèrement plus faible de patients peuvent reprendre des activités sportives au même niveau qu’avant la blessure [3, 4, 6].
+
+Dans notre cas, la décision de réaliser une refixation intra-opératoire directe a été prise en raison de l’avulsion des structures touchées sur une large surface.
+
+Une lésion péronière accompagne les lésions du PLC dans 16–29% des cas. Le mécanisme de lésion est dans la plupart des cas une lésion en extension causée par une force en varus. Il est recommandé d’évaluer ce schéma de lésion par examen d’imagerie au moyen d’une IRM ou d’une échographie. En cas de lésions incomplètes, c’est-à-dire seulement en présence de parésies et en l’absence de pathologie traitable à l’imagerie, un traitement conservateur avec orthèse et physiothérapie est recommandé. En cas de paralysie, il n’existe pas de preuves claires concernant le traitement optimal en raison du petit nombre de cas. Selon le résultat de l’examen d’imagerie ou intra-opératoire, il est recommandé d’opter pour un traitement conservateur provisoire et des contrôles répétés de l’évolution clinique et neurologique au moyen d’une EMG et de la mesure de la vitesse de la conductibilité nerveuse en vue d’évaluer le rétablissement (en cas de lésion nerveuse sur un court segment sans pathologie traitable identifiée), pour une suture directe (en cas de rupture), pour une reconstruction au moyen de greffons interposés (en cas de lésion sur un long segment ou de déficit) ou pour une transposition nerveuse avec transfert tendineux. Une série de cas de lésions postéro-latérales du genou avec une petite taille de cohorte a montré une tendance non statistiquement significative à des résultats fonctionnels légèrement plus mauvais en cas de présence concomitante d’une lésion péronière [6, 7].
+
+L’essentiel pour la pratique
+
+• Les lésions multiligamentaires du genou sont rares mais, en l’absence de traitement, elles peuvent entraîner des dommages consécutifs sévères ainsi que des limitations permanentes. La détection rapide et exhaustive des structures lésées est essentielle, car une prise en charge chirurgicale globale et rapide permet d’atteindre des résultats considérablement supérieurs. En particulier en cas de déficits neurologiques ou de troubles circulatoires, une instabilité de haut degré au sens d’une lésion multiligamentaire avec une éventuelle luxation doit être envisagée.
+
+• Une rupture complète du PLC doit être prise en charge chirurgicalement. Une reconstruction du ligament croisé antérieur sans refixation ou reconstruction des stabilisateurs périphériques est associée à des taux d’échec nettement plus élevés.
+
+• Les lésions concomitantes, en particulier les lésions péronières, sont fréquentes. Ici, les parésies sans signes de pathologie nécessitant un traitement à l’imagerie sont généralement traitées de façon conservatrice par orthèse et physiothérapie en raison de la bonne tendance de rétablissement. Le traitement optimal des paralysies n’est pas connu pour l’heure. Dans la littérature, selon le schéma de la lésion, la reconstruction directe, la reconstruction au moyen de greffons interposés, la transposition ainsi que le transfert tendineux sont décrits. La décision doit être prise au cas par cas et de façon interdisciplinaire.

@@ -1,0 +1,171 @@
+Présentation du cas
+
+Un patient de 53 ans est hospitalisé pour un purpura palpable, généralisé apparu quelques jours après le ­début d’une infection des voies aériennes supérieures. Vu aux urgences, on retient un exanthème para-in­fectieux pour lequel un traitement anti-inflammatoire est prescrit. L’évolution initialement favorable se complique d’une récidive du purpura avec des lésions nécrotiques (fig. 1) dans un contexte d’asthénie et des arthralgies au niveau des coudes, des chevilles et des genoux. L’ensemble est compliqué de rectorragies.
+
+Figure 1: Lésions cutanées observées chez le patient décrit.
+
+Cliniquement, le patient est stable, apyrétique sans autres anomalies au status.
+
+Question 1: A ce stade, quel examen est le moins utile?
+
+
+a) Formule sanguine simple et crase
+
+b) Fonction hépatique et rénale
+
+c) Cryoglobulines
+
+d) Sérologie virus de l’immunodéficience humaine (VIH)
+
+e) Sédiment urinaire
+
+En cas de purpura, après une anamnèse et un status complets à la recherche d’un facteur déclenchant et d’une atteinte multi-organique, un bilan biologique comportant une formule sanguine, une crase, des fonctions hépatiques et rénales et un sédiment urinaire est nécessaire. Si le patient présente des symptômes gastro-intestinaux, un hémofecatest est également in­diqué. A noter l’absence de recommandation actuelle pour le bilan étiologique de première intention à pra­tiquer devant un purpura. Mais pour une première orientation, un algorithme basé sur le nombre de thrombocytes et la crase peut se révéler utile (fig. 2).
+
+Figure 2: Classification des purpuras en fonction du nombre de plaquettes et de la crase.
+
+TP: taux de prothrombine; aPTT: temps de thromboplastine partielle activée.
+
+Une infection VIH fait partie du diagnostic différentiel et doit être exclue rapidement. A ce stade le dosage des cryoglobulines paraît le moins utile.
+
+Chez notre patient, le laboratoire montre une anémie normocytaire normochrome avec hémoglobine à 103 G/l (norme 133–177 G/l), une vitesse de sédimentation à 77 mm/h (norme <10 mm/h), les thrombocytes sont à 330 G/l (norme 150–350 G/l), la crase et le reste du bilan biologique initial sont dans la norme. Ceci en association avec le caractère palpable du purpura nous oriente vers le diagnostic de purpura vasculaire (fig. 2).
+
+Entre temps, le résultat d’une biopsie cutanée demandée par le médecin traitant avant l’hospitalisation montre une infiltration granulocytaire périvasculaire et extravasculaire associée à des dépôts fibrinoïdes de la paroi endothéliale et une extravasation des globules rouges. L’immunofixation présente quelques dépôts de C3 dans la paroi des vaisseaux mais aucun dépôt d’IgA.
+
+Ce résultat est typique pour une vasculite leucocytoclasique.
+
+Question 2: Quelle étiologie ne fait pas partie du diagnostic différentiel de cette vasculite?
+
+
+a) Infection
+
+b) Toxicité médicamenteuse
+
+c) Néoplasie
+
+d) Connectivite
+
+e) Artériosclérose
+
+Le diagnostic différentiel d’une vasculite leucocytoclasique est très large: 40% des cas sont idiopathiques, 20% liés aux infections, 20% liés aux connectivites, 15% liés aux médicaments et 5% associés à des néoplasies (tab. 1).
+
+Tableau 1: Diagnostic différentiel d’une vasculite ­leucocytoclasique.
+Causes infectieuses(20%)	StreptococcusStaphylocoque aureusChlamydiaNeisseriaMycobacteriumHépatite B Hépatite CVIH
+Maladies systémiques(20%)	Lupus érythémateux systémique (LES)DermatomyositeSyndrome de SjögrenMaladie de BehçetArthrite rhumatoïdeMaladies inflammatoires ­intestinales
+Médicaments(15%)	AINSPénicillines ErythromycineClindamycineVancomycine B-bloquants Furosémide Amiodarone
+Néoplasies(5%)	Néoplasies hématologiques Tumeurs solides:– Poumon – Pancréas
+
+Parmi les infections, la plus fréquemment impliquée est l’infection respiratoire à Streptococcus. Sur le plan médicamenteux, différentes classes peuvent induire un purpura vasculaire, particulièrement les anti-inflammatoires non stéroïdiens (AINS), les antibiotiques, les antiarythmiques et les diurétiques.
+
+Parmi les néoplasies, les tumeurs hématologiques sont les plus fréquemment associés à cette vasculite. Le purpura vasculaire peut également être en lien avec plusieurs maladies systémiques inflammatoires ou une cryglobulinémie qu’elle soit associée ou non à une hépatite C. L’artériosclérose n’est pas liée à une vasculite leucocytoclasique.
+
+La suite des investigations comporte un tomographie par ordinateur (CT) thoraco-abdominal ne montrant pas de masse suspecte, de saignement actif ni de signes d’ischémie mésentérique. En revanche, on note la présence d’une rectite associée à une jéjunite. Par ailleurs, la gastroscopie montre une gastrite pétéchiale avec un ulcère gastrique sans saignement actif et la rectoscopie met en évidence deux ulcères, un rectal et un anal. La biopsie de ces lésions exclue une néoplasie intestinale ou un lymphome.
+
+Le sédiment et spot urinaire montrent une protéinurie à 1,37 g/l avec 2 érythrocytes par champ, sans anomalies au contraste de phase. La filtration glomérulaire était calculée à 54 ml/min/1,73 m2.
+
+Un bilan immunologique avec facteur rhumatoïde (FR), anticorps anti-nucléaires (ANA), anticorps anti-cytoplasmiques des neutrophiles (ANCA), anti-MPO, anti-PR3 et cryoglobulines reviennent également tous négatifs.
+
+Un dosage des éléments centraux de la cascade du complément, C3–C4 est également pratiqué.
+
+Question 3: Dans quelle situation clinique le dosage du complément n’est pas particulièrement utile?
+
+
+a) Suspicion de cryoglobulinémie
+
+b) Suspicion de néphropathie à IgA
+
+c) Suivi d’un lupus érythémateux systémique (LES)
+
+d) Angioedèmes récurrents
+
+e) Suspicion d’un myélome multiple
+
+Le système du complément fait partie de l’immunité innée, immédiate, mais participe également à la réponse adaptative via la génération des complexes enzy­matiques biologiquement actifs. Le système du complément permet d’initier des réactions inflammatoires, de faciliter la phagocytose ou d’induire une lyse cellulaire sans intervention des cellules du système inflammatoire.
+
+On distingue trois voies d’activation du complément. La voie classique est activée par les complexes immuns et les débris apoptotiques ce qui permet leur élimination; la voie lectinique est activée par des glycoprotéines présentes à la surface de certains germes et la voie alternative est activée par des altérations de la surface cellulaire notamment en cas de néoplasie.
+
+Le dosage de deux éléments centraux de la cascade du complément, le C3 et le C4, peut orienter le diagnostic différentiel vers de certaines atteintes inflammatoires ou infectieuses et/ou être utilisé comme biomarqueur de l’activité d’une pathologie immunologique (fig. 3). Ceci n’est pas le cas pour un myélome multiple.
+
+Figure 3: Utilisation clinique du dosage du complément.
+
+En dosant le C3 et le C4 plusieurs cas de la figure sont possibles:
+
+a) En cas de maladie inflammatoire avec C3 et C4 normaux, le dosage du CH50, marqueur de la fonction du complément, ­pourrait se révéler utile. En effet, un taux de CH50 dans la norme prouve un bon fonctionnement de la voie classique et ­commune du complément. Des C3 et C4 normaux et un CH50 abaissé suggèrent un déficit dans la voie classique.
+
+b) Un C4 seul abaissé indique une activation de la voie classique du complément soit par le biais des complexes immuns ou par des débris apoptotiques, dans ce cas, une cryoglobulinémie ou un LES (Lupus érythémateux systémique) doivent être suspectés. Si l’abaissement du C4 est associé à un abaissement du C1 INH, cela peut être le signe d’un angioedème héréditaire.
+
+c) Un C3 seul abaissé indique une activation de la voie alternative ou un déficit d’un de ces composants souvent secondaires à la présence d’auto-anticorps contre ces éléments. Dans ce cas, des auto-anticorps classiques (anti-C3NeF, anti-C4NeF, anti-FH) peuvent être recherchés. La positivité d’un ou de plusieurs de ces auto-anticorps parle d’un déficit en C3 (primaire ou secondaire). Un déficit isolé de C3 est également retrouvé en cas d’infections, ou de certaines atteintes rénales immunologiques.
+
+d) Les deux peuvent être abaissés, ce qui est généralement le cas dans les atteintes infectieuses ou autoimmunes telle un LES.
+
+FH: facteur H du complément; FI: facteur I du complément; FB: facteur B du complément; C3NeF: C3 «nephritic factor»; C4NeF: C4 «nephritic factor»; C1 INH: C1 estérase inhibiteur.
+
+Chez notre patient les C3 et C4 résultent dans la norme.
+
+L’évolution clinique sera marquée par l’augmentation du purpura et des arthralgies et surtout l’apparition d’épisodes de rectorragies importantes nécessitant un séjour aux soins continus. Notons également l’absence de troubles neurologiques.
+
+Question 4: A ce stade quel diagnostic paraît le plus probable?
+
+
+a) Vasculite à IgA (Henoch-Schönlein)
+
+b) Lupus érythémateux systémique (LES)
+
+c) Cryoglobulinémie
+
+d) Polyangéite microscopique (micro-PAN)
+
+e) Granulomatose avec polyangéite (maladie de Wegener)
+
+Face à un tableau comportant un purpura palpable ­généralisé avec des arthralgies, une hémorragie digestive, une atteinte rénale avec protéinurie et une vasculite leucocytoclasique (même en l’absence de dépôts d’IgA!) avec un bilan immunologique négatif exempte de néoplasie, le diagnostic le plus probable est celui d’une vasculite à IgA (purpura de Henoch-Schönlein), (tab. 2).
+
+Tableau 2: Critères diagnostiques de la vasculite à IgA (Purpura de Henoch-Schönlein) de la «Rheumatology European Society». Diagnostic si: critère majeur et un ou plusieurs critères mineurs.
+Critère majeur	Purpura ou pétéchies prédominants aux membres inférieurs
+Critères mineurs	Douleurs abdominales
+Présence d’IgA à l’histopathologie
+Arthrites ou arthralgies
+Atteinte rénale
+
+Une polyangéite microscopique (micro-PAN) se différencie difficilement de la vasculite à IgA. Elle touche les petits vaisseaux et implique fréquemment une atteinte cutanée et multi-systémique mais généralement, ­l’atteinte rénale est prédominante et une atteinte neurologique est fréquemment retrouvée. La polyangéite microscopique est souvent associée à la présence de p-ANCA (70% des cas) ou de c-ANCA (10–15% des cas).
+
+Bien que le LES ait un spectre des manifestations cliniques large, l’atteinte cutanée est classiquement sous forme de rash malaire photosensible et celles les plus fréquentes sont principalement l’atteinte rénale et pulmonaire. Les marqueurs immunologiques spécifiques sont généralement positifs et le complément abaissé lors des poussées.
+
+Une cryoglobulinémie provoque des dépôts d’immunoglobuline au niveau des petits vaisseaux avec atteinte ischémique multi-systémique. De ce fait, la fraction C4 du complément y est habituellement abaissée.
+
+La granulomatose avec polyangéite est souvent associée aux c-ANCA (85% des cas). Elle se caractérise par des angéites nécrosantes de petits et moyens vaisseaux ­associées à des granulomes. Classiquement, les atteintes rénales et pulmonaires sont les plus fréquentes.
+
+Une brève récapitulation des vasculites est décrite dans le tableau S1 de l’annexe en ligne de l’article.
+
+Question 5: Quel traitement proposeriez-vous en première intention?
+
+
+a) Traitement symptomatique
+
+b) Colchicine
+
+c) Hydroxychloroquine
+
+d) Prednisone
+
+e) Azathioprine
+
+Il n’y a pas de recommandations précises concernant le traitement de la vasculite de Henoch-Schönlein. La plupart des données d’études randomisées ont été réalisées sur des populations pédiatriques dont les résultats ont été extrapolés aux adultes.
+
+Un nombre important de cas de cette vasculite sont spontanément réversibles et ne nécessitent pas de traitement spécifique. Les AINS sont parfois utiles. En cas d’atteinte d’organe, un traitement au long cours peut être indiqué. La colchicine a montré une efficacité sur l’atteinte cutanée et rénale. En cas d’atteinte digestive et/ou rénale sévère ou de lésions cutanées nécrotiques étendues, un traitement de cortisone systémique est indiqué, auquel l’ azathioprine peut être associé.
+
+Chez notre patient, une corticothérapie à forte dose par prednisone 1 mg/kg/j a été initialement introduite compte tenu de l’atteinte digestive importante. Par la suite, une nette amélioration clinique a été observée, sans récidives de rectorragies et progressive cicatrisation des lésions cutanées. Les doses de prednisone ont été progressivement diminuées et le patient n’a pas eu besoin d’un traitement immunosuppresseur complémentaire.
+
+Discussion
+
+La vasculite à IgA est une vasculite systémique liée aux dépôts de complexes immuns dans les petits vaisseaux contenant la plupart du temps des IgA mais également du C3 et/ou du fibrinogène. Elle est également appelée vasculite de Henoch-Schönlein. Elle touche principalement les enfants mais également les adultes avec une incidence d’environ 45/1 000 000. Classiquement, cette pathologie se caractérise par l’association d’atteinte ­cutanée, gastro-intestinale, articulaire et rénale. A part l’atteinte cutanée typique, l’atteinte digestive est la plus fréquente car elle est présente dans environ 85% des patients adultes.Environ un tiers des patients atteints de cette vasculite développent une néphropathie avec protéinurie et micro-hématurie.
+
+Le facteur déclenchant reste souvent inconnu. Il peut être infectieux, viral ou bactérien avec plus souvent une infection à streptocoque du groupe A (dans la ­population pédiatrique particulièrement). Le facteur déclenchant peut également être oncologique ou médicamenteux.
+
+La durée classique des symptômes de la vasculite à IgA est d’environ quatre semaines mais peut varier entre quelques semaines et quelques mois. Malgré un traitement adapté, environ 10% des cas évoluent vers une forme chronique. Chez l’adulte, le facteur pronostique déterminant est la sévérité de l’atteinte rénale à long terme. Celle-ci n’est pas corrélée avec la sévérité de la présentation initiale et l’absence d’ IgA est un bon facteur pronostique.
+
+Réponses
+
+
+Question 1: c. Question 2: e. Question 3: e. Question 4: a.
+Question 5: d.
+
+L’annexe est disponible en tant que document séparé sur ­https://doi.org/10.4414/fms.2019.08269.

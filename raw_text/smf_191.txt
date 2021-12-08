@@ -1,0 +1,132 @@
+Présentation du cas
+
+Madame M., une patiente de 75 ans, anticoagulée pour une maladie thrombo-embolique sans autre antécédent relevant, est admise suite à une chute avec une fracture du col fémoral gauche Garden IV pour laquelle elle bénéficie d’une intervention chirurgicale.
+
+Deux jours de l’opération, une fibrillation auriculaire rapide à 120 bpm est mise en évidence à l’électrocardiogramme (ECG). La patiente est asymptomatique. L’examen clinique montre une sarcopénie importante, un status opératoire sans complication (notamment sans signe de surinfection) et l’absence de signe de décompensation cardiaque.
+
+Le laboratoire révèle une légère anémie normochrome normocytaire à 110 g/l, un syndrome inflammatoire avec des leucocytes à 12 G/l et une protéine C réactive à 150 mg/l, des électrolytes dans la norme, une insuffisance rénale aiguë fonctionnelle avec une créatinine à 150 µmol/l et une hormone de stimulation de la thyroïde (TSH) abaissée à 0,1 mU/l (normes: 0,27–4,2 mU/l). Suite au contact avec son médecin traitant, vous apprenez que la fibrillation auriculaire était déjà connue, en revanche le dernier dosage de la TSH était dans la norme.
+
+Question 1: Concernant la TSH, laquelle des propositions suivantes est erronée?
+
+
+a) La TSH a une sensibilité et une spécificité supérieures à la L-tétraiodothyronine libre (T4 libre, ou T4L) dans le dépistage des dysthyroïdies
+
+b) Les valeurs de référence de la TSH sont établies par chaque laboratoire à partir des valeurs d’une population locale sans pathologies thyroïdiennes connues
+
+c) Le prix d’un dosage de la TSH est d’approximativement CHF 10
+
+d) La TSH est sécrétée selon un rythme circadien, avec des taux plus élevés le matin
+
+e) Certains médicaments, tels que les corticostéroïdes, influencent la sécrétion de la TSH
+
+La L-tétraiodothyronine (T4L) est moins sensible et spécifique que la TSH pour le dépistage des dysthyroïdies [1]. La TSH est sécrétée de façon circadienne, avec un pic de sécrétion vers minuit. Le dosage de la TSH peut être effectué à tout moment de la journée, les taux étant stables sur la journée. Une anamnèse médicamenteuse précise est primordiale en cas de dysthyroïdie, car de nombreux médicaments influencent la sécrétion des hormones thyroïdiennes. Ainsi, les corticostéroïdes, les anti-inflammatoires, l’héparine ou encore le métoclopramide, traitements fréquemment administrés dans un contexte per-opératoire, influencent le bilan thyroïdien [2].
+
+Revenons à notre patiente: devant une TSH abaissée, une hyperthyroïdie primaire est suspectée.
+
+Question 2: Quel bilan souhaitez-vous effectuer?
+
+
+a) Dosage de la T4L
+
+b) Dosage de la T4L et de la L-triiodothyronine (T3 libre, ou T3L)
+
+c) Dosage de la T4L et de la T4 totale (T4T)
+
+d) Dosage de la T3 inverse (reverse T3, ou rT3)
+
+e) Dosage d’anticorps anti-récepteur de TSH (TRAK), anti-thyroperoxydase (anti-TPO) et anti-thyroglobuline (anti-Tg)
+
+Les hormones thyroïdiennes sont en majorité liées à des protéines plasmatiques: l’albumine, la globuline liant la thyroxine (TBG) et la transthyrétine (TTR). Seules les fractions libres (<1%) sont biologiquement actives. La concentration des hormones thyroïdiennes totales variant en fonction de celles des protéines plasmatiques, il est recommandé de doser les fractions libres. En cas de suspicion d’une hyperthyroïdie, un ­dosage de T4L et T3L doit être effectué [3]. Le dosage de la T4L seule n’est pas suffisant, car parfois seule la T3L est augmentée. Le dosage des auto-anticorps est à discuter dans un deuxième temps en cas de confirmation d’une hyperthyroïdie. Le dosage de la 3–3’-5’-triiodo-thyronine, reverse t3 (rT3) ne doit pas être réalisé de routine.
+
+Chez notre patiente, un dosage de la T4L et de la T3L est effectué: T4L à 6,5 pmol/l (normes: 12–22 pmol/l) et T3L à 2 pmol/l (normes: 3,1–6,8 pmol/l).
+
+Question 3: Quel diagnostic vous-semble le plus probable?
+
+
+a) Une hypothyroïdie infraclinique
+
+b) Une hypothyroïdie primaire
+
+c) Une hypothyroïdie secondaire
+
+d) Un syndrome euthyroïdien
+
+e) Une thyroïdite de De Quervain
+
+Au vu du contexte opératoire récent, de la dénutrition et de l’association entre une TSH, une T4L et une T3L abaissées, le diagnostic le plus probable chez cette patiente est un syndrome euthyroïdien (SE). Devant une TSH et une T4L abaissées, on peut également évoquer une hypothyroïdie secondaire (atteinte de l’hypophyse ou de l’hypothalamus); cependant celle-ci est rare et moins probable au vu du contexte clinique (absence de signes d’hypothyroïdie franche et d’antécédents hypothalamo-hypophysaires). Dans l’hypothyroïdie infraclinique, la T4L est normale et la TSH est élevée. Dans l’hypothyroïdie primaire (atteinte de la glande thyroïde), la TSH est augmentée et la T4L abaissée. Enfin, dans la thyroïdite de De Quervain, on retrouve une hypothyroïdie ou une hyperthyroïdie primaire, associée à une douleur thyroïdienne.
+
+Question 4: Vous retenez un syndrome euthyroïdien (SE), lequel de ces traitements est indiqué?
+
+
+a) Abstention thérapeutique
+
+b) Substitution hormonale par thyroxine (T4)
+
+c) Substitution hormonale par triiodothyronine (T3)
+
+d) Substitution par hormone thyréotrope (TRH) synthétique
+
+e) Traitement par corticostéroïdes à haute dose
+
+En l’absence d’études randomisées contrôlées, la substitution hormonale n’est actuellement pas recommandée en cas de SE [4]. Certains auteurs supposent même qu’une substitution hormonale pourrait être délétère, la diminution de concentration des hormones thyroïdiennes étant un mécanisme physiologique pour épargner la consommation énergétique en situation hypercatabolique [4]. Les corticostéroïdes ne sont pas indiqués dans le SE. Le traitement de choix est par conséquent une abstention thérapeutique [4].
+
+Question 5: Quel est le pronostic du patient avec un SE?
+
+
+a) Pas de modification du pronostic
+
+b) Mauvais pronostic chez les patients > 75 ans
+
+c) Mauvais pronostic chez les femmes
+
+d) Mauvais pronostic en cas d’une dysthyroïdie sous-jacente
+
+e) Mauvais pronostic quel que soit la pathologie sous-jacente
+
+Le SE, en particulier les formes modérées et sévères, est un facteur indépendant de mauvais pronostic. Il est associé à une augmentation de la durée d’hospitalisation et une augmentation de la mortalité intra-hospitalière [2, 4].
+
+Chez cette patiente, le contrôle du bilan thyroïdien à distance se révèle être normal, confirmant ainsi le diagnostic de SE dans un contexte post-opératoire, associé à une dénutrition.
+
+Discussion
+
+Le syndrome euthyroïdien (SE), également appelé maladie euthyroïdienne, «non thyroidal illness» ou «euthyroid sick syndrome», est défini par une altération des tests biologiques thyroïdiens, chez des patients cliniquement euthyroïdiens et sans pathologie thyroïdienne sous-jacente. Ce syndrome est associé à un état catabolique augmenté, tel qu’une intervention chirurgicale, un traumatisme étendu, un état inflammatoire ou une dénutrition [2]. Ce syndrome se compose de trois phases consécutives de sévérité croissante: basse T3 («low» T3), basse T4 («low» T4) et basse TSH («low» TSH) [2–4]. La distinction s’effectue au niveau physiopathologique, mais n’a pas d’implication clinique, notamment pour la prise en charge.
+
+Syndrome de basse T3 («low»-T3 syndrome)
+
+Dans les SE légers, on retrouve une T3 totale et une T3 libre abaissées. Chez un individu en bonne santé, 20% de la T3 est produite directement par la thyroïde et 80% par transformation de la T4 en T3. Dans le SE, la synthèse directe de T3 est conservée, mais la transformation de T4 en T3 est réduite, résultant en des taux abaissés de T3 [2–4]. Ceci est dû à une diminution de l’activité des enzymes désiodases, notamment la thyroxine-5’-désiodase (T5’D) qui convertit la T4 en T3. Le mécanisme physiopathologique reste peu clair, une des
+hypothèses proposées est l’inhibition de la synthèse de certaines enzymes désiodases (désiodase type I) par
+les cytokines inflammatoires, telles que l’IL-1 ou l’IL-6 [2–4].
+
+Par ailleurs, la T5’D est responsable de l’élimination de la rT3 par déiodination en 3,5-di-iodo-thyronine (T2)[2, 3, 4]. Dans le SE, la rT3 augmente car la T5’D est diminuée (fig. 1).
+
+Figure 1: Changement des taux des hormones thyroïdiennes en fonction de la T5’D.
+
+Syndrome de basse T4 («low»-T4 syndrome)
+
+Dans le SE modéré, la T4 totale est abaissée, principalement en raison de la baisse des concentrations des protéines plasmatiques auxquelles sont liées les hormones thyroïdiennes [2, 3]. La concentration de la T4L devrait en revanche rester inchangée en raison d’une demi-vie très courte et d’une cinétique de dissociation extrêmement rapide de la T4 [1, 3]. Dans la pratique clinique, la T4L peut être normale, abaissée ou augmentée. Plusieurs hypothèses ont été proposées pour expliquer ces valeurs, mais aucune n’a été démontrée. Notons aussi que les méthodes utilisées pour mesurer la T4L sont peu fiables dans le SE et peuvent conduire à des valeurs de T4L faussement abaissées ou augmentées [5].
+
+Syndrome de basse TSH («low»-TSH syndrome)
+
+Dans les cas les plus sévères, la concentration de TSH est abaissée, reflet d’une probable hypothyroïdie centrale transitoire [2, 3]. La baisse de la TSH est généralement modérée; lorsqu’un dosage de TSH est inférieur à 0,05 mU/l, il faut évoquer en premier lieu une hypothyroïdie secondaire.
+
+En résumé, dans le SE, le stress catabolique induit les modifications suivantes: une inhibition de la T5’D qui diminue la T3T et la T3L, une diminution de la concentration des protéines de transport qui diminue la T4T ainsi qu’une hypothyroïdie centrale avec diminution de la TSH, T4T, T3T, T3L. La T4L peut être normale, diminuée ou augmentée (fig. 2).
+
+Figure 2: Modifications hormonales dans le syndrome euthyroïdien (SE).
+
+Implication clinique
+
+Le SE peut masquer une hypothyroïdie primaire ou secondaire sous-jacente pré-existante. Par exemple, en cas d’une hypothyroïdie primaire et d’un SE avec basse TSH concomitantes, la valeur de TSH peut être faussement normalisée.
+
+Au vu de la difficulté à différencier le SE d’une dysthyroïdie intrinsèque, il est déconseillé de doser les hormones thyroïdiennes lors des situations hypercataboliques. Si un bilan doit tout de même être effectué (par exemple dans le bilan étiologique d’une fibrillation auriculaire), un dosage de la TSH seule est préconisé. Si le doute persiste, nous proposons de compléter le bilan par le dosage de la T4L/T4T et, éventuellement, de la T3L/T3T.
+
+Le dosage de la rT3 permettrait théoriquement de différencier un SE, dans lequel la rT3 est augmentée, d’une hypothyroïdie intrinsèque, dans laquelle la rT3 est diminuée (la T4, précurseur direct de la rT3, étant abaissée dans la deuxième situation) [2, 3]. Néanmoins, le dosage de la rT3 n’est pas recommandé de routine car il se fait tout au plus une fois par mois dans la plupart des laboratoires et a un coût non négligeable (CHF 80). De plus, la valeur de rT3 peut être modifiée par plusieurs conditions, notamment l’insuffisance rénale ou une hépatopathie [2], la rendant difficilement interprétable.
+
+Conclusion
+
+Le défi principal est de différencier le SE d’une dysthyroïdie intrinsèque, raison pour laquelle le dosage des hormones thyroïdiennes pour le dépistage des dysthyroïdies est déconseillé dans les conditions hypercataboliques, par exemple après une intervention chirurgicale. En cas de SE sans dysthyroïdie clinique concomitante, il n’y a pas d’indication à une substitution hormonale. Un contrôle du bilan biologique thyroïdien est généralement conseillé à quatre semaines. En cas d’altération importante des tests thyroïdiens, le contrôle est proposé plus précocement, après un ou deux semaines.
+
+Réponses:
+
+
+Question 1: d; Question 2: b; Question 3: d; Question 4: a;
+Question 5: e.

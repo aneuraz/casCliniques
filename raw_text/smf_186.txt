@@ -1,0 +1,54 @@
+Contexte
+
+Le cancer du sein est la tumeur maligne la plus fréquente chez la femme, les sites de métastatisation typiques étant les os, les poumons, le foie, le cerveau, les tissus mous et les glandes surrénales. Nous présentons ici un cas de métastatisation inhabituelle dans le tractus gastro-intestinal (GI) d’un cancer du sein diagnostiqué six ans auparavant.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 76 ans, avec insuffisance rénale chronique, cardiopathie hypertensive et anémie connues depuis longtemps, nous a été adressée pour un bilan en raison d’une perte de poids involontaire de 10 kg en quatre mois. Depuis environ deux semaines, elle souffrait d’une sensation de malaise persistante et d’inappétence; elle ne pouvait guère s’alimenter et était fréquemment en proie à des vomissements après l’ingestion de nourriture. En plus, ses selles étaient liquides.
+
+En avril 2011, un carcinome lobulaire infiltrant à cellules en bague à chaton du sein gauche lui avait été diagnostiqué (fig. 1). Initialement, la tumeur présentait les caractéristiques suivantes: pT2 pN3a M1 G2 L1 V0 R0, ­récepteurs aux œstrogènes (ER) 80%, récepteurs à la progestérone (PR) 60%, «human epidermal growth factor receptor 2» (HER2) négatif, marqueur de prolifération Ki67 (antigène Ki-67) 1%, valeur normale du marqueur tumoral CA 15-3 (cancer-antigen 15–3).
+
+Figure 1: Tumeur primaire du sein (coloration HE): croissance infiltrante non cohésive en rangées de cellules isolées, ainsi qu’anneau entourant les structures préexistantes.
+
+Déjà lors du diagnostic initial, elle présentait des métastases ­osseuses (jonction crânio-cervicale, vertèbres thoraciques 8 et 11, articulation sacro-iliaque droite, épine iliaque antéro-supérieure droite et coccyx). En avril 2011, elle avait fait l’objet d’une quadrantectomie du sein gauche avec lymphadénectomie axillaire, avec un traitement endocrinien palliatif initial par létrozole (inhibiteur de l’aromatase); en mars 2012, une inhibition des ostéoclastes par l’inhibiteur de RANK dénosumab avait été initiée. En raison du risque de fractures dues aux ostéolyses, en particulier au niveau du rachis cervical, une radiothérapie palliative locale (30 Gy) avait été mise en œuvre. Face à une augmentation du marqueur tumoral CA15-3, la tomographie par émission de positons (TEP) de contrôle réalisée en août 2016 a révélé une nouvelle métastase osseuse au niveau de droit. Compte-tenu de la progression de la maladie, le traitement endocrinien a été modifié, avec un passage au fulvestrant (antagoniste des récepteurs aux œstrogènes).
+
+Statut et résultats
+
+La patiente était dans un état général détérioré, cachectique. Les analyses de laboratoire ont montré une leucocytose (12 600/µl), une insuffisance rénale pré-­rénale (créatinine 172 µmol/l), des troubles électrolytiques (sodium 134 mmol/l, potassium 3,2 mmol/l), une élévation des paramètres de cholestase (gamma­-glutamyltransférase 134 U/l, phosphatase alcaline 154 U/l, bilirubine totale 19 µmol/l), une valeur d’amylase pancréatique de 92 U/l et une valeur d’aspartate aminotransférase de 60 U/l. L’hémoglobine (115 g/l) était stable par rapport aux valeurs antérieures. Les marqueurs tumoraux étaient accrus (antigène carcino-embryonnaire [CEA] 10,2 µg/l, CA 15-3 DPC 54 kU/l, CA 19-9 1573 U/ml). Les coprocultures sont restées négatives et il n’y a pas eu de mise en évidence de parasites, protozoaires ou helminthes; la calprotectine était normale. A l’échographie, aucune métastase intra-abdominale n’a été détectée; l’examen a montré une lithiase biliaire sans irritation et des voies biliaires intra- et ­extra-hépatiques non dilatées.
+
+La tomodensitométrie (TDM) thoracique et abdominale (produit de contraste i.v.) a montré des condensations pleurales bilatérales déjà connues, sans progression.
+
+L’œsophago-gastro-duodénoscopie a révélé des altérations ulcéro-érosives prononcées prédominant au niveau distal de l’œsophage, des altérations gastritiques chroniques dans le corps de l’estomac et l’antre, deux ulcérations planes au niveau de la jonction avec la deuxième portion duodénale, ainsi qu’un relief duodénal irrégulier (fig. 2A).
+
+Figure 2: Duodénum (A ) et iléon terminal (B ): relief très irrégulier.
+
+La coloscopie a montré une altération diffuse prononcée du relief avec des irrégularités dans l’iléon terminal (fig. 2B), ainsi que de légères altérations superficielles chroniques dans le côlon ascendant.
+
+L’examen histologique des biopsies réalisées (estomac, duodénum, iléon terminal, côlon ascendant, côlon gauche jusqu’à la région recto-sigmoïdienne) a montré des infiltrats d’un adénocarcinome avec cellules en bague à chaton; dans le matériel biopsié au niveau du côlon ascendant, qui présentait environ 30% de cellules tumor­ales, il y avait une légère réactivité nucléaire pour les ER, une absence de réactivité pour les PR et une négativité HER2 (fig. 3 A et B).
+
+Figure3: A ) Métastase gastrique (coloration HE): petits groupes cellulaires solides, cellules isolées et cellules en bague à ­chaton dans la lamina propria.B ) Métastase iléale (coloration AB-PAS): mucine intracytoplasmique (bleu) d’infiltrats non cohésifs, avec par endroits des cellules en bague à chaton dans la lamina propria.
+
+Diagnostic
+
+Infiltration diffuse d’un carcinome lobulaire infiltrant dans l’estomac, l’intestin grêle, le côlon et le rectum, avec diarrhée chronique et symptômes B.
+
+Cholestase le plus vraisemblablement causée par le fulvestrant; diagnostic différentiel: infiltration hépatique de la tumeur maligne non visualisable à l’imagerie.
+
+Traitement et évolution
+
+Nous avons hydraté la patiente et lui avons administré un traitement symptomatique (pantoprazole, lopéramide et métoclopramide). Elle a également suivi un régime alimentaire adapté (repas riches en protéines et en calories, collations). Par la suite, la diarrhée a légèrement régressé et a persisté à un niveau faible; le poids s’est stabilisé.
+
+Le traitement antihormonal par fulvestrant et l’administration de dénosumab ont été poursuivis. Deux semaines et demie après sa sortie de l’hôpital, la patiente a été réadmise en raison d’une détérioration de son état général due à la consommation insuffisante de boissons et à l’inappétence. Après une nouvelle hydratation intraveineuse, la patiente et ses proches ont décidé, en raison de la maladie avancée, de l’âge de la patiente et de son état global de santé, de renoncer à passer à une chimiothérapie par paclitaxel (cytostatique) et léflunomide (immunomodulateur), comme l’avait préconisé un «tumor board» interdisciplinaire.
+
+Nous avons élaboré et organisé une stratégie de «best supportive care» ainsi que la sortie de l’hôpital de la patiente, avec une prise en charge assurée par un service de soins à domicile et la remise d’un plan d’urgence. La patiente est décédée chez elle dix jours après la manifestation de la métastatisation GI. La cause exacte du décès n’est pas connue.
+
+Discussion
+
+A travers le monde, le cancer du sein est la tumeur maligne la plus fréquente chez la femme; il représente la première cause de mortalité liée au cancer dans les pays peu développés et la deuxième cause, derrière le cancer du poumon, dans les pays développés [1]. Les sites de métastatisation typiques sont les poumons, le foie, les os, le cerveau, les tissus mous et les glandes surrénales. La métastatisation GI est en revanche moins fréquente et moins connue dans la pratique clinique [2]. Le carcinome canalaire (carcinome mammaire infiltrant «no special type» [NST] d’après la classification OMS 2012) est certes le type histologique le plus fréquent, mais le type lobulaire, qui est plus rare, est nettement plus souvent associé à des métastases GI [3, 4]. La raison n’en est pas connue, mais un lien avec le statut HER2 ou la perte de cadhérine E est suspecté. Ces métastases à distance peuvent également survenir de nombreuses années après le diagnostic et le traitement initiaux [5, 6]; les métastases rectales surviennent typiquement après 5 à 7 ans, comme dans notre cas, et plus rarement encore en tant que première manifestation avec un long délai jusqu’à la survenue de symptômes de la tumeur primaire du sein [7]. Les métastases GI dans le cadre du cancer du sein peuvent toucher l’ensemble du tractus GI, de la bouche [8] à l’anus [9], mais l’estomac est de loin le site de métastastisation GI le plus fréquent [6]. Les symptômes causés par les métastases GI ne sont pas spécifiques, allant de la perte de poids, l’inappétence, les douleurs abdominales, la diarrhée et la dysphagie à l’hémorragie ou l’occlusion GI [6]. Les métastases se manifestent sous forme d’ulcères, d’épaississements des muqueuses, de lésions semblables à celles de la linite plastique ou de tumeurs solides [10]. L’endoscopie et les examens histologiques sont les modalités diagnostiques de choix; la comparaison de la morphologie histologique, l’immunohistochimie, y compris statut des récepteurs hormonaux et en particulier marqueurs immunohistochimiques spécifiques GATA-3 et «gross cystic disease fluid protein 15» (GCDFP-15), du carcinome mammaire primaire et la distribution des lésions GI aident à poser le diagnostic [11] et à faire la distinction par rapport à un carcinome gastrique peu différencié. Des résultats négatifs de biopsies prélevées à l’endoscopie n’excluent toutefois pas une métastase, car l’épithélium est touché relativement tard, ce qui aboutit à un taux élevé de résultats faussement négatifs. Par conséquent, il convient éventuellement aussi d’envisager d’autres modalités d’examen, comme par exemple les ponctions à l’aiguille fine sous guidage écho-endoscopique ou les macrobiopsies, en cas de forte suspicion clinique [12, 13].
+
+Notre cas est particulièrement intéressant dans la mesure où la métastatisation GI du carcinome mammaire n’était pas uniquement uniloculaire, mais est survenue simultanément à la fois dans le tractus GI supérieur (estomac, duodénum) et inférieur (iléon, côlon, rectum). A notre connaissance, seuls de rares exemples de cas avec une métastatisation GI aussi étendue ont été publiés [14]. Un changement du statut des récepteurs hormonaux dans le cadre d’une récidive ou d’une métastatisation est fréquent en cas de cancer du sein, et notamment la perte de réactivité ER ou HER2 est associée à un pronostic défavorable [15].
+
+L’essentiel pour la pratique
+
+Chez les patientes avec cancer du sein et symptômes gastro-intestinaux, le tractus gastro-intestinal doit être examiné minutieusement, parfois également au moyen de méthodes invasives. En particulier pour le type lobulaire, une métastatisation intestinale diffuse peut survenir des années après le diagnostic initial.

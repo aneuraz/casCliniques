@@ -1,0 +1,19 @@
+Description de cas
+
+Nous traitons une patiente âgée de 75 ans, atteinte d’ostéoporose (diagnostic initial il y a 11 ans) et de polyarthrite rhumatoïde séropositive en rémission sans stéroïdes sous monothérapie par méthotrexate (diagnostic initial il y a 16 ans). Outre du calcium et de la vitamine D, la patiente reçoit depuis 6 ans de l’acide alendronique. Elle présente par ailleurs une hémiplégie complète des extrémités supérieure et inférieure gauches prononcée au niveau du bras à la suite d’un accident vasculaire cérébral survenu 8 ans plus tôt.
+
+Actuellement, une teneur en sels minéraux en légère augmentation a pu être documentée (ostéodensitométrie: fémur gauche total 0,515 et rachis lombaire 1,032 g/cm2; 6 ans auparavant: 0,474 et 0,923 g/cm2 [tab. 1]; aucune mesure de la densité osseuse n’a été réalisée au niveau du fémur droit). La radiographie native de la structure osseuse de la main droite ne montre aucune différence par rapport à l’image réalisée il y a 6 ans, tandis que la main gauche indique une nette réduction de la densité osseuse avec troubles micro-architecturaux, rétrécissement de la substance corticale et raréfaction de la substance spongieuse (fig. 1).
+
+Tableau 1: Résultats de l’ostéodensitométrie DEXA.
+ 	Région	Densité osseuse (g/cm2)	Valeur T (SD)
+Résultats il y a 6 ans	Fémur gauche total	0,474	–4,4
+RL L1–L2	0,923	–2,2
+Résultats actuels	Fémur gauche total	0,515	–4,0
+RL L1–L2	1,032	–2,4
+DEXA: «Dual Energy X-Ray Absorptiometry»; SD: «standard deviations»; RL: rachis lombaire.
+
+Figure 1: Radiographie des mains avec plan de chaque côté, image initiale (A) ainsi que 5 ans plus tard (B).
+
+Discussion
+
+Malgré un traitement médicamenteux conforme aux directives et l’amélioration de la teneur en sels minéraux, la baisse de la densité osseuse se poursuit en présence d’inactivité. Les deux mains présentent le même milieu métabolique et bénéficient du même traitement médicamenteux. Cette «étude quasiment contrôlée avec une personne» souligne l’importance ostéo-anabolique de l’activité physique pour la structure osseuse. Le cas présent montre clairement qu’il est en principe possible de contrôler une ostéoporose avec un traitement médicamenteux combiné et un traitement non médicamenteux, mais qu’en présence d’ostéoporose principalement liée à l’inactivité – comme pour la main gauche de notre patiente – le traitement médicamenteux isolé ne présente qu’un effet insuffisant. En raison de l’hémiplégie complète de l’extrémité supérieure, aucune stabilisation de la densité osseuse n’a pu être obtenue malgré une physiothérapie et une ergothérapie régulières.

@@ -1,0 +1,48 @@
+Contexte
+
+Les anomalies des voies biliaires sont fréquentes chez les patients avec malrotations intestinales et elles s’avèrent particulièrement pertinentes durant la cholécystectomie laparoscopique. Méconnaître de telles anomalies peut être à l’origine de lésions iatrogènes des voies biliaires, qui à leur tour sont associées à une morbidité et une mortalité accrues.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 57 ans se présente spontanément en urgence en raison de douleurs de type colique au niveau de la partie centrale et supérieure de l’abdomen du côté droit, ainsi que d’un ictère scléral. Ces douleurs étaient apparues pour la deuxième fois en l’espace d’1 semaine; auparavant, la patiente n’avait jamais eu de telles douleurs. La patiente au demeurant en bonne santé a déclaré ne pas prendre de médicaments régulièrement. Elle a mentionné comme antécédents chirurgicaux le traitement d’une malrotation intestinale durant l’enfance, le traitement chirurgical d’une hernie discale et d’une sténose du canal rachidien, ainsi qu’une opération des varices avec crossectomie et stripping de la veine grande saphène des deux côtés.
+
+Statut et résultats
+
+Sur le plan clinique, la patiente s’est présentée dans un bon état général. L’abdomen était souple, avec une légère douleur à la pression au niveau de la partie supérieure droite de l’abdomen. Les analyses de laboratoire ont révélé les résultats suivants: bilirubine totale 27,8 μmol/l, bilirubine directe 15,5 μmol/l, ASAT 399 U/l, ALAT 675 U/l, phosphatase alcaline 149 U/l, y-GT 174 U/l, ainsi que paramètres inflammatoires normaux et enzymes pancréatiques normales. L’échographie abdominale a révélé une cholécystolithiase sans signes de cholécystite. Les voies biliaires intra- et extra-hépatiques n’étaient pas dilatées.
+
+Traitement et évolution
+
+A sa demande, la patiente a été autorisée à quitter le service des urgences et à rentrer chez elle avec un traitement analgésique. La cholécystectomie laparoscopique élective a eu lieu 1 semaine plus tard. En intra-opératoire, une anomalie des voies biliaires a été détectée, avec un abouchement du canal cystique directement dans la bifurcation du canal hépatique, avec position orthotopique de la vésicule biliaire. En outre, des brides de Ladd typiques des malrotations étaient visibles. Après l’identification certaine du canal cystique, une cholécystectomie laparoscopique a été réalisée sans problème (fig. 1–3). La patiente a pu quitter l’hôpital le 2e jour postopératoire.
+
+Figure 1: A ) Anatomie anormale des voies biliaires dans l’exemple de cas présenté.B ) Anatomie normale des voies biliaires à titre de comparaison. 1: Canal hépatique droit, 2: Canal hépatique gauche, 3: Canal cholédoque, 4: Canal cystique, 5: Canal hépatique commun.
+
+Figure 2: Abouchement visible du canal cystique (flèche noire) directement dans la bifurcation du canal hépatique (flèches blanches). VB: vésicule biliaire.
+
+Figure 3: Canal cystique après fermeture au moyen de clips Hem-o-lok®.
+
+Discussion
+
+Aujourd’hui, la cholécystectomie laparoscopique est une méthode souvent utilisée pour le traitement de la cholécystolithiase symptomatique et elle confère en principe une bonne vision du triangle de Calot et donc un bon aperçu de l’anatomie par rapport à la chirurgie ouverte.
+
+Les anomalies des voies biliaires ne sont pas très fréquentes et leur pertinence est variable. De très nombreuses variantes anatomiques différentes de la vésicule biliaire et des voies biliaires intra- et extra-hépatiques ont été décrites dans la littérature. Pour le chirurgien, ce sont avant tout les variations des voies biliaires extra-hépatiques qui sont pertinentes. Durant la cholécystectomie laparoscopique, il convient tout particulièrement d’être attentif aux anomalies d’abouchement du canal cystique, afin d’éviter au maximum le clippage de la mauvaise structure tubulaire, les lésions des voies biliaires, ainsi que les complications hémorragiques. Dans l’étude de Talpur et al. [1], toutes les anomalies ­détectées lors de 300 cholécystectomies ont été documentées. Des anomalies du canal cystique ont été décrites en tant que découverte fortuite chez 4,33% des patients et des anomalies de la vésicule biliaire ont été décrites chez 2% des patients.
+
+La plupart des patients présentant des anomalies des voies biliaires sont asymptomatiques. Afin d’éviter les lésions des voies biliaires, il est dès lors indispensable de disposer de connaissances anatomiques exactes et d’avoir une vue intra-opératoire adéquate de l’anatomie des voies biliaires. Il est également important d’avoir connaissance de la fréquence des anomalies des voies biliaires.
+
+A l’heure actuelle, l’échographie constitue la modalité d’imagerie la plus fréquemment utilisée en préopératoire dans le cadre des pathologies de la vésicule biliaire. Les anomalies des voies biliaires sont néanmoins difficiles à diagnostiquer lors des examens préopératoires de routine. Il est dès lors essentiel de ne pas se bercer dans une fausse sécurité face à un examen d’échographie sans particularités.
+
+Comme dans l’exemple de cas décrit ci-dessus, différentes anomalies anatomiques intra-abdominales peuvent coexister. Chez notre patiente, une malrotation gastro-intestinale était déjà connue; en intra-opératoire, nous avons en outre détecté une anomalie d’abouchement du canal cystique, avec un abouchement directement dans la bifurcation du canal hépatique. La littérature relative aux anomalies des voies biliaires associées dans le cadre de malrotations intestinales est très peu abondante. Dans l’étude de Campbell et al. [2], tous les patients de l’hôpital Johns Hopkins avec malrotations intestinales ont été examinés à la recherche d’anomalies des voies biliaires associées. Une anomalie des voies biliaires a été détectée chez quatre patients sur huit (50%), alors qu’une telle anomalie n’était suspectée en préopératoire chez aucun des quatre patients. A l’inverse, une fréquence comprise entre 3 et 20% a été décrite pour la malrotation intestinale en présence d’une atrésie des voies biliaires [3]. Il existe en outre différentes descriptions de cas de patients avec survenue combinée d’une malrotation intestinale et d’une anomalie ou atrésie des voies biliaires. Dans l’ouvrage de Harder «Praxis der Viszeralchirurgie» [4], la transposition de la vésicule biliaire vers la gauche avec un lit de la vésicule biliaire dans le segment hépatique III est décrite comme une rareté, qui survient tout de même en lien avec des malrotations intestinales.
+
+En cas de malrotation intestinale connue, les voies biliaires et les éventuelles anomalies peuvent être visualisées dans le cadre d’une cholangiopancréatographie par résonance magnétique (CPRM) préopératoire. Le chirurgien peut ainsi se préparer de façon optimale à l’opération, et les lésions des voies biliaires peuvent être évitées au maximum. Alternativement ou en complément, une cholangiographie devrait être réalisée en intra-opératoire en cas d’incertitudes. Par ailleurs, en présence d’une malformation des voies biliaires, l’utilisation de l’électrocoagulation devrait être limitée au maximum.
+
+Si des doutes persistent malgré toutes ces mesures et l’implication d’un chirurgien très expérimenté et si le triangle de Calot ne parvient pas être visualisé suffisamment, il convient d’envisager une conversion en chirurgie ouverte [5]. La conversion ne doit pas être interprétée comme une complication, mais comme une décision chirurgicale justifiée visant à éviter les lésions des voies biliaires.
+
+Savoir que des anomalies des voies biliaires sont potentiellement présentes est très important pour éviter les lésions involontaires des voies biliaires et les complications postopératoires.
+
+L’essentiel pour la pratique
+
+• Les voies biliaires extra-hépatiques présentent une variabilité élevée, ce qui peut avoir des répercussions sur la procédure chirurgicale dans l’optique d’éviter les lésions des voies biliaires.
+
+• La connaissance du trajet normal des voies biliaires et des variations est un prérequis essentiel pour réaliser une opération sûre.
+
+• En cas de malrotation intestinale connue, le chirurgien doit être particulièrement attentif à la présence éventuelle d’anomalies des voies biliaires. Dans cette situation, il peut s’avérer utile de réaliser une cholangiopancréatographie par résonance magnétique (CPRM) préopératoire afin de visualiser les voies biliaires. Alternativement, une cholangiographie peut être réalisée en intra-opératoire.

@@ -1,0 +1,94 @@
+Contexte
+
+En hiver, les maux de gorge représentent un motif de consultation fréquent. Nous rapportons le cas d’une patiente atteinte d’un exanthème aigu survenu après le début d’un traitement analgésique et antibiotique dans le cadre d’une pharyngo-amygdalite.
+
+Présentation du cas
+Anamnèse
+
+Une patiente âgée de 57 ans originaire du Sri Lanka s’est présentée au service des urgences en raison de maux de gorge persistants, d’une fièvre ainsi que d’un exanthème sur le visage, le tronc et les extrémités. Le jour précédent, le médecin de famille avait diagnostiqué une pharyngo-amygdalite bactérienne sur la base d’un score Centor de 4, et un traitement par Ospen® (benzathine-phénoxyméthylpénicilline) à une dose d’1 million d’UI 1-1-1 et par Novalgin® (métamizole) à une dose de 500 mg avait été initié.
+
+Une connectivite mixte avec mains bouffies, syndrome de Raynaud et polyarthralgies était connue chez la patiente et traitée par Plaquenil® (hydroxychloroquine) à une dose de 200 mg 1-0-0 et par Spiricort® (prednisolone) à une dose de 5 mg 0,25-0-0. En outre, la patiente prenait du Co-Valsartan® (valsartan + hydrochlorothiazide) à une dose de 160/25 mg 1-0-0 en raison d’une hypertension artérielle. L’anamnèse systémique était normale, à l’exception d’une dysurie.
+
+Statut
+
+Patiente consciente et orientée, pression artérielle droite à 120/76 mm Hg, pression artérielle gauche à 117/78 mm Hg, pouls à 87/min, fréquence respiratoire à 12/min, et température corporelle à 37,5 °C. Coloration cutanée sombre avec lésions rouges-livides en forme de cible disséminées dans la région du décolleté, sur le tronc, et en papillon sur le visage (fig. 1A/1B). Taches blanches intrabuccales ainsi que pharynx rouge avec amygdales hypertrophiées et recouvertes d’un dépôt. Lèvres sèches avec sécrétion jaunâtre peu abondante (fig. 1C).
+
+Figure 1: Photos prises le jour de l’admission (publiées avec l’accord de la patiente).A ) Lésions disséminées rouges-livides en forme de cible dans la région du décolleté.B ) Distribution en papillon sur le visage.C ) Lèvres sèches avec des sécrétions jaunâtres.
+
+Résultats
+
+Protéine C réactive à 218 mg/l (<10 mg/l), taux normal de leucocytes de 6,7 G/l (4–10 G/l), d’éosinophiles de 0,1 G/l (0,0–0,7 G/l) et de neutrophiles de 2,8 G/l (1,4–8,0 G/l), créatinine à 107 μmol/l (53–115 μmol/l). Hépatite légère avec AST à 62 U/l (10–35 U/l) et ALT à 50 U/l (10–35 U/l). Résultats normaux à la radiographie thoracique conventionnelle. Mise en évidence d’une leucocyturie avec quelques bactéries isolées dans l’urine.
+
+Diagnostic et thérapie
+
+Initialement, Ospen® (benzathine-phénoxyméthylpénicilline), Novalgin® (métamizole), Plaquenil® (hydroxychloroquine) et Co-Valsartan® (valsartan + hydrochlorothiazide) ont été interrompus, et la pharyngo-amygdalite a été traitée par Klacid® (clarithromycine) à une dose de 250 mg 1-0-1. La dose de Spiricort® (prednisolone) a été augmentée, passant de 1,25 mg à 75 mg par jour, étant donné qu’une poussée de la connectivite mixte n’avait pas pu être exclue.
+
+En raison des troubles dysuriques et de la croissance de l’espèce Enterococcus dans la culture urinaire, nous avons administré une dose unique de Monuril® (fosfomycine).
+
+Le jour suivant, une biopsie à l’emporte-pièce d’une ­efflorescence typique dans la région paravertébrale gauche a été réalisée dans le cadre des investigations diagnostiques. Sur le plan histologique, l’épiderme ­présentait une formation de croûte, une dégénérescence vacuolaire, des apoptoses de cellules individuelles, ainsi qu’une inflammation lymphohistiocytaire (fig. 2). Aucun signe de vascularite, de syndrome de Stevens-Johnson ou de nécrolyse épidermique toxique n’était visible. Ce résultat nous a indiqué le diagnostic d’un érythème polymorphe majeur.
+
+Figure 2: Histologie biopsie cutanée, coloration à l’hématoxyline-éosine.A ) Aperçu, grossissement ×40.B /C ) Formation de croûte (*) avec vacuolisation de la zone de jonction dermo-épidermique (↑), kératinocytes apoptotiques (►) et infiltrat lymphohistio­cytaire périvasculaire modérément dense (→); grossissements:B ) ×100,C ) ×120.
+
+Les causes potentielles englobent une genèse allergique médicamenteuse (pénicilline, métamizole, hydrochlorothiazide), ainsi qu’une poussée de la connectivite mixte connue déclenchée par l’infection. Ces deux diagnostics différentiels nous ont conduits à augmenter la dose de stéroïdes.
+
+Sur le plan sérologique, une infection par le virus de l’immunodéficience humaine (VIH) a été exclue, tout comme la syphilis, la rougeole et une infection par le virus d’Epstein-Barr (VEB). La réaction en chaîne par polymérase (PCR) pour le virus herpès simplex (VHS) à partir d’un frottis superficiel s’est révélée négative.
+
+Sur la base des manifestations cliniques, des résultats de laboratoire et de l’évolution, un syndrome «drug rash with eosinophilia and systemic symptoms» (DRESS) était peu probable.
+
+Evolution
+
+Grâce aux mesures mentionnées ci-dessus, une évolution favorable avec régression complète des symptômes a été observée. Après une durée totale de six jours, la patiente a pu rentrer chez elle.
+
+Discussion
+
+L’érythème polymorphe (EP) est une maladie aiguë à médiation immunitaire caractérisée par la survenue de lésions ciblées sur la peau. L’érythème polymorphe majeur est la dénomination de l’EP avec une atteinte muqueuse; l’érythème polymorphe mineur désigne un EP sans altération des muqueuses.
+
+Sur le plan épidémiologique, on observe un pic de la maladie chez les adultes entre 20 et 40 ans, mais l’EP peut toutefois survenir à tout âge [1, 2]. L’incidence annuelle exacte n’est pas connue.
+
+Les infections sont les causes les plus fréquentes d’EP, le virus herpès simplex étant le principal agent pathogène (tab. 1). D’autres déclencheurs sont les médicaments, et en particulier les anti-inflammatoires non stéroïdiens, les sulfamides, les antiépileptiques et les antibiotiques [3].
+
+Tableau 1: Causes de l’érythème polymorphe (d’après [6]).
+Infectieuses (Environ 90% des cas)	Virus herpès simplex (cause la plus fréquente)
+Mycoplasma pneumoniae
+Parapoxvirus
+Virus varicelle-zona (VVZ)
+Adénovirus
+Virus d’Epstein-Barr (VEB)
+Cytomégalovirus (CMV)
+Hépatite virale
+Virus Coxsackie
+Parvovirus B19
+Virus de l’immunodéficience humaine (VIH)
+Chlamydia psittaci
+Salmonelles
+Mycobacterium tuberculosis
+Histoplasma capsulatum
+Dermatophytes
+Autres
+Médicaments	Anti-inflammatoires non stéroïdiens (AINS)
+Sulfamides
+Antiépileptiques
+Antibiotiques
+Autres
+Autres causes	Cancer
+Maladies auto-immunes
+Immunisations
+Irradiation
+Sarcoïdoses
+Menstruations
+
+Sur le plan clinique, l’EP se manifeste typiquement par des lésions cutanées en forme de cibles (ou en forme d’iris); elles comprennent trois composantes: une zone centrale livide, une zone enflammée rouge foncée entourée d’un anneau œdémateux clair et un halo érythémateux sur le bord le plus externe de la lésion. Dans des cas atypiques, ces dernières peuvent être légèrement en relief. La localisation classique est symétrique et se situe au niveau des mains, des pieds, des avant-bras, des jambes et du cou. Chez certains patients, les altérations cutanées peuvent conduire à un prurit et à des sensations de brûlure. Le qualificatif «polymorphe» est employé en raison des différentes manifestations cliniques [4]. En cas d’atteinte muqueuse supplémentaire, le plus souvent, des lésions orales sont retrouvées. Des symptômes prodromiques, tels que la fièvre, peuvent s’observer dans les cas où l’atteinte des muqueuses est significative. En cas d’EP, la desquamation de la surface corporelle est de 1–2% au maximum, contrairement au syndrome de Stevens-Johnson (plus grande, mais toutefois <10%) ou à la nécrolyse épidermique toxique (>30%) [5].
+
+Le diagnostic est posé sur la base de l’examen clinique. Toutefois, il convient de réaliser une biopsie cutanée afin d’exclure les diagnostics différentiels.
+
+L’érythème polymorphe est une maladie auto-limitante. La prise en charge de la maladie se concentre principalement sur le traitement des causes possibles. Des corticostéroïdes, des analgésiques ou des antihistaminiques peuvent être employés pour le contrôle des symptômes. Les patients atteints d’érythème polymorphe doivent cependant faire l’objet d’une surveillance étroite afin de détecter précocement des changements des lésions cutanées ou une augmentation de la desquamation en tant que signe indiquant un syndrome de Stevens-Johnson ou une nécrolyse épidermique toxique et de pouvoir les traiter en conséquence [1].
+
+L’essentiel pour la pratique
+
+• Bien que le diagnostic de l’érythème polymorphe soit clinique, une biopsie cutanée précoce est déterminante pour ce qui est des diagnostics différentiels possibles.
+
+• Les causes fréquentes sont les virus herpès simplex ou une infection à Mycoplasma pneumoniae; dans de plus rares cas, des médicaments sont responsables de la maladie.
+
+• La distinction entre l’érythème polymorphe, le syndrome de Stevens-Johnson et la nécrolyse épidermique toxique revêt une grande importance au vu des pronostics différents et de la prise en charge différente.
+
+• Si nécessaire, un passeport d’allergie doit être délivré.

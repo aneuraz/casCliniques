@@ -1,0 +1,106 @@
+Cas clinique
+
+La patiente se plaignait déjà de douleurs lombaires et avait été fébrile (avec 2 épisodes de frissons) durant le voyage en train. Mais la patiente voulait faire la cure. Le médecin de cure n'avait pas rédigé de dossier la concernant.
+
+A l'admission, aux urgences :
+
+Température 39,9° C.
+Douleurs fosses lombaires.
+Pas de brûlures mictionnelles.
+
+Antécédents :
+
+Polykystose hépato rénale héréditaire (asymptomatique, notamment absence d'infection urinaire),
+Infection respiratoire aiguë en juin 2013, traitée par Augmentin (2 g/ j pendant une semaine),
+NFS : 17 590 GB dont 88 % de polynucléaires neutrophiles,
+CRP : 247 mg/l.
+
+Echographie abdominale :
+
+Plusieurs images kystiques sur les deux reins ainsi qu'au niveau du foie.
+
+Diagnostic :
+
+Pyélonéphrite aiguë.
+
+Il est donc prescrit de l’Augmentin 1 g 3 fois/jour pendant 7 jours, Dafalgan 1 g 4 fois/jour pendant 5 jours. Il lui est proposé de revenir aux urgences si problème.
+
+Résultats de l'ECBU prélevé le 29 juillet :
+
+Présence de nombreux leucocytes et d'un Escherichia coli résistant à amoxicilline,
+Augmentin,
+Gentamicine,
+Quinolones (intermédiaire ciprofloxacine),
+Sensible à Bactrim,
+Ceftriaxone,
+Furanes, 
+Fosfomycine.
+
+Le 1er août, devant ces résultats :
+
+Une ordonnance de Bactrim forte 1 cp matin et soir pendant 7 jours, aurait été adressée par les urgences de l'hôpital à la patiente mais celle-ci rentrée à son domicile, en urgence, pour raison familiale, ne reçoit pas cette ordonnance et continue l'Augmentin (inactif sur le germe). Elle revoit le médecin de cure avant de partir pour la visite de fin de cure, mais il n'est pas question de l'épisode de pyélonéphrite.
+
+Le 12 août, devant la persistance de douleurs lombaires, la patiente consulte son médecin traitant qui prescrit un scanner mettant en évidence une sacro-iléite gauche.
+
+Le 19 août, en l’absence d’amélioration, consultation aux urgences du CHU pour :
+
+Douleurs dorsales aiguës et intenses,
+Fièvre 38° C,
+GB : 17 700/mm3,
+CRP : 135 mg/ml,
+Urines : leuco+++.
+
+Echographie : 
+
+Polykystose hépato-rénale sans signe en faveur d'une infection de kyste ou un abcès. 
+
+Diagnostic : 
+
+Pyélonéphrite non obstructive. Traitement : Rocéphine (pendant 21 jours) et gentamicine ( pendant 5 jours).
+
+Du 23 au 29 août :
+
+Hospitalisation au CHU pour douleurs lombaires,
+Persistance d'un syndrome inflammatoire biologique,
+GB : 20 000 / mm3,
+CRP 120 mg/l.
+
+Traitement :
+
+Céphalosporine de 3e génération (C3G) et fluoroquinolone, puis fluoroquinolone seule à partir du 26 août.
+
+Le 27 août : visite du chef de service : "(...) Douleurs continues des bases thoraciques, accentuées par le tapotage des corps vertébraux, surtout au niveau dorsal bas, irradiant vers l'antérieur et associées à des douleurs diffuses au niveau des membres inférieurs... examen neurologique RAS (...)".
+
+Le 29 aoûtà 06 h 50 (infirmière de nuit) : "(...) a eu des selles cette nuit à 22 h 00, puis ce matin également, la protection n'était pas suffisante, il y en avait partout autour... quand cette dame est arrivée, elle marchait, cette nuit elle ne bouge même pas les jambes ; A réévaluer avec le médecin. SVP, y a-t-il une raison pour cette dégradation ? (...)".
+
+Le 29 août, devant ce tableau de paraplégie, IRM pratiquée en fin de matinée : "Spondylodiscite T5 T6 avec abcès périvertébral et extension épidurale entraînant une compression médullaire". Patiente transférée, en urgence, dans le service de neurochirurgie. 
+
+Dans la soirée, intervention : "Laminectomie T4-T5-T6. Tissu très inflammatoire sans pus". Prélèvements bactériologiques négatifs.
+
+Traitement : 
+
+Rocéphine et Bactrim IV 3 semaines puis Bactrim forte seul pour un total de 2 mois (arrêt le 12 novembre).
+
+Evolution lentement favorable durant les deux mois du séjour en neuro-chirurgie.
+
+Du 30 octobre 2013 au 13 mai 2014, séjour en centre rééducation. 
+
+Du 19 au 28 novembre, réhospitalisation pour des épisodes fébriles avec GB 14 800/mm3 et CRP à 170 mg/l. Mise en évidence d'une infection urinaire à Enterobacter cloacae : (10.6) résistant à Augmentin, Bactrim, fluoroquinolones, C3G sauf céfépime. Mise sous céfépime et évolution favorable. Hémoculture stérile le 20/11.
+
+Le 21 décembre, IRM : "nette régression de l'épidurite".
+
+Le 30 décembre, CRP à 10,8 mg/l.
+
+Le 13 mai 2014, hospitalisation à domicile.
+
+Du 20 juin au 2 juillet 2014, hospitalisée pour pyélonéphrite à E. coli. Traitée par Tiénam puis Rocéphine 2 g/jour jusqu'au 12 juillet.
+
+Le 19 juillet 2014, consultation de néphrologie : état rénal "rassurant".
+
+26 janvier 2015, IRM médullaire : "sans particularité".
+
+27 février 2016, IRM médullaire : "absence d'anomalie. Stigmates d'une spondylodiscite T5-T6".
+
+Le 13 septembre 2017 (date de l'expertise) "(...) Patiente autonome répondant de façon adaptée aux questions. La marche lors de l'examen se fait sans aide technique mais avec un élargissement du polygone de sustentation, des hésitations et des risques de chutes. Présence d’un signe de Romberg et de troubles de la sensibilité profonde aux membres inférieurs. Force musculaire normale et symétrique sensibilité superficielle normale. Réflexes ostéo-tendineux présents et symétriques. Reste de l'examen somatique normal. (...)".
+
+ Saisine de la Commission de conciliation et d'indemnisation (CCI) par la patiente pour obtenir réparation du préjudice qu’elle avait subi (décembre 2016).

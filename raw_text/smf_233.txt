@@ -1,0 +1,158 @@
+Introduction
+
+L’augmentation croissante des voyageurs vers des destinations tropicales exposera de plus en plus les praticiens à des dermatoses. Elles constituent déjà une des trois principales causes de consultation au retour de voyage [1]. Nous présentons ici un cas intéressant à intégrer dans le diagnostic différentiel au quotidien.
+
+Description du cas
+
+Une voyageuse de 46 ans en bonne santé habituelle se présente chez son médecin généraliste en raison de ­lésions cutanées apparues au niveau du coude gauche sans état fébrile au cours d’un voyage de deux semaines en Namibie. Elle a travaillé dans une réserve animalière et rapporte des contacts étroits et réguliers avec des singes, des suricates, des mangoustes, des gazelles, des chèvres, des chevaux, des petits félins et des chiens. Elle mentionne également s’être blessée au niveau de cette articulation en soulevant un caillou.
+
+Elle constate pendant la deuxième semaine de son ­séjour l’apparition de lésions pustuleuses en grappes au niveau du coude (fig. 1) et une adénopathie axillaire ipsilatérale.
+
+Figure 1: Lésions cutanées avant traitement (La publication a été réalisée avec l’accord de la patiente.)
+
+Question 1: Quel diagnostic semble, a priori, le plus ­probable?
+
+
+a) Une pyodermite à Staphylocoques
+
+b) Une myase
+
+c) Une nocardiose
+
+d) Une bartonellose
+
+e) Une sporotrichose
+
+Les infections cutanées bactériennes à pyogènes (Staphylococcus (S.) aureus, Streptococcus pyogenes) représentent entre 10 et 20% des dermatoses du voyageur [1]. Les S. aureus peuvent parfois sécréter une toxine, la leucocidine de Panton-Valentine (PVL), responsable d’infections cutanées suppuratives sur peau saine à type de folliculites, de furoncles et d’abcès. Plusieurs cas d’infection à S. aureus sécrétant la PVL ont été diagnostiqués à Lausanne chez des requérants d’asile érythréens, éthiopiens et soudanais entre 2014 et 2015 faisant suspecter une prévalence de S. aureus à PVL plus élevée en Afrique de l’Est qu’en Europe [2].
+
+Les myases cutanées résultent de l’infestation des tissus sous-cutanés par des larves de diptères, Cordylobia anthropophaga en Afrique subsaharienne et Dermatobia hominis en Amérique latine. La lésion cutanée est une papule évoluant en nodule qui présente un orifice central pouvant laisser sourdre un liquide séro-sanglant ou purulent. Le patient peut aussi ressentir et voir les mouvements de la larve sous la peau. Cette infection représente jusqu’à 9% des dermatoses au retour de voyage. Cette prévalence demeure toutefois probablement surestimée, cette étude ayant inclus seulement des patients d’un centre spécialisé en maladies tropicales [1].
+
+La nocardiose cutanée primaire est une maladie rare souvent due à Nocardia brasiliensis. La contamination se fait par inoculation de cette bactérie présente dans le sol, les végétaux en décomposition et l’eau à la faveur d’une brèche cutanée, même minime. La nocardiose cutanée peut se manifester sous la forme d’une cellulite, d’une pyodermie, de nodules ou d’abcès sous-­cutanés le long des trajets lymphatiques.
+
+La bartonellose ou maladie des griffes du chat est une infection causée par Bartonella (B.) henselae, limitée au ganglion le plus proche du site d’inoculation. Une plaie cutanée, parfois surinfectée, est souvent retrouvée dans le territoire de drainage du ganglion. Elle doit être évoquée devant toute adénopathie isolée chez un sujet en contact avec des félins.
+
+Sporothrix schenkii est retrouvé sur les plantes ou la matière organique en décomposition et pénètre dans l’organisme par le biais de petites coupures ou d’écorchures sur la peau. La lésion primitive peut apparaître comme une petite papule ou un nodule qui devient nécrotique ou même ulcéreuse. Des nodules sous-cutanés apparaissent dans un deuxième temps le long des trajets lymphatiques.
+
+Sur la base de l’examen clinique, un traitement de clindamycine est prescrit.
+
+Question 2: Quels examens demandez-vous avant ­l’introduction de l’antibiothérapie?
+
+
+a) Aucune investigation microbiologique
+
+b) Une coloration de Gram et une culture bactérienne
+
+c) Une biopsie cutanée
+
+d) Une sérologie Bartonella henselae
+
+e) Une culture fongique
+
+La présentation clinique étant évocatrice d’une infection bactérienne à S. aureus ou Streptocoques du groupe A, des examens microbiologiques ne sont en principe pas nécessaires.
+
+La coloration de Gram permet de confirmer une infection bactérienne en attendant les résultats définitifs de la culture. Cette dernière rend possible l’établissement d’un antibiogramme, particulièrement utile lorsque l’évolution de la lésion fait supposer une résistance. En cas de suspicion clinique de S. aureus sécréteur de PVL (lésions dermatologiques abcédantes sévères chez un voyageur de retour d’Afrique de l’Est par exemple), l’isolement de la bactérie, suivi d’une recherche des gènes codant la PVL par méthode moléculaire permettent de confirmer le diagnostic.
+
+La biopsie cutanée permet souvent de confirmer ou d’infirmer un diagnostic suspecté sur la base de la présentation clinique grâce à la microscopie, à l’immuno-histochimie, à l’immunofluorescence directe ou la PCR.
+
+La sérologie B. henselae est le test diagnostique de référence pour la maladie des griffes du chat qui est l’infection à bartonelles la plus fréquente. Elle est effectuée en cas de suspicion anamnestique et clinique (exposition aux félins et présence d’une adénopathie souvent associée à des traces de griffures dans le territoire de drainage).
+
+La culture fongique se fait par l’ensemencement de squames sur un milieu de culture acide dit de Sabouraud et permet la réalisation d’un antifongigramme. Les colonies se développent en quelques jours à quelques semaines et sont identifiées sur la base de leur aspect macroscopique et microscopique. Un examen direct de squames dans une solution de KOH permet souvent une identification préalable rapide de spores ou de filaments.
+
+Un prélèvement pour une coloration de Gram et une culture bactérienne sont demandés par son médecin traitant qui juge l’aspect des lésions atypique pour une pyodermite. Des filaments sont visualisés au Gram (fig. 2) mais la culture revient négative.
+
+Figure 2: Coloration de Gram du pathogène incriminé, ­grossissement 900× (© CDC/Dr. Hardin, 1965, reproduction avec l’aimable autorisation du «Centers for Disease Control
+and Prevention» [CDC]).
+
+Question 3: Quel diagnostic retenez-vous?
+
+
+a) Une pyodermite à Staphylocoques
+
+b) Une sporotrichose
+
+c) Une nocardiose
+
+d) Une bartonellose
+
+e) Une infection à mycobactéries atypiques
+
+A la coloration de Gram, des ramifications gram-positives délicates, filamenteuses et parfois perlées sont ­typiques d’une nocardiose (fig. 2). En culture aérobe, la présentation de Nocardia est variable et moins spécifique, passant de colonies blanc-craie, à des colonies produisant des pigments orange, jaune ou brun. Elles nécessitent 5 à 21 jours pour croître [3]. Si une nocardiose est suspectée cliniquement, des milieux de culture enrichis permettent une meilleure croissance du pathogène. Au vu de la présentation clinique non-spécifique et de la difficulté à cultiver Nocardia, il n’est pas rare que le diagnostic prenne du temps à être posé, voire qu’il ne soit pas posé du tout. Le recours à la PCR permet actuellement un diagnostic plus rapide. Il n’y a pas de diagnostic sérologique disponible.
+
+Après confirmation du diagnostic par PCR, la patiente est adressée à la médecine des voyages pour discuter des options thérapeutiques.
+
+Question 4: Quel est le premier choix de traitement de la nocardiose?
+
+
+a) Co-trimoxazole
+
+b) Co-amoxicilline
+
+c) Doxycycline
+
+d) Fluconazole
+
+e) Amphotéricine B
+
+Il n’existe pas de consensus quant au choix des antimicrobiens et la durée optimale du traitement d’une nocardiose cutanée isolée. Les études prospectives randomisées nécessitent en effet un large nombre de patients afin d’obtenir des résultats. Or, cette pathologie reste relativement rare et se manifeste chez les patients sous des formes diverses.
+
+La plupart des cliniciens considèrent néanmoins le cotrimoxazole comme la substance de choix (triméthoprime [TMP] 5–10 mg/kg et sulfaméthoxazole [SMX] 25–50 mg/kg en 3 doses quotidiennes) pour le traitement de la nocardiose cutanée primaire. En second choix, l’amoxicilline-acide clavulanique, la doxycycline, les macrolides et les fluoroquinolones peuvent être utilisées en fonction de l’antibiogramme chez les patients qui ne tolèrent pas les sulfonamides.
+
+La durée du traitement n’est pas clairement déterminée, mais au vu de la possibilité de récidive d’une nocardiose insuffisamment traitée, il est recommandé de poursuivre le traitement oral pendant 3 à 6 mois [4].
+
+Si aucune amélioration clinique n’est observée dans les 2 semaines suivant l’introduction de l’antibiotique, il faut se poser la question d’une résistance, d’une concentration sérique insuffisante, d’une pauvre pénétration dans le tissu infecté ou encore de la présence d’un abcès nécessitant un drainage chirurgical.
+
+Dans notre cas, un traitement de Bactrim® forte (SMX 800 mg / TMP 160 mg) 1 cp 3×/jour est instauré avec une évolution favorable des lésions. La persistance d’un nodule cutané à la fin du traitement (fig. 3, flèche noire) conduit à un drainage chirurgical. L’analyse microbiologique du liquide de ponction revient stérile. La lésion disparaît ensuite progressivement sans antibiothérapie supplémentaire.
+
+Figure 3: Lésions cutanées en fin de traitement avec ­persistance d’un nodule cutané (flèche) qui sera drainé
+(La publication a été réalisée avec l’accord de la patiente).
+
+Quelques semaines plus tard, la patiente consulte les urgences d’un hôpital régional en raison de plaintes abdominales. Une complication de la nocardiose est envisagée par le médecin urgentiste qui la reçoit.
+
+Question 5: Quelles sont les atteintes possibles de la ­nocardiose?
+
+
+a) Une pneumonie
+
+b) Une kératite
+
+c) Une péricardite
+
+d) Un abcès cérébral
+
+e) Un pied de Madura ou mycétome
+
+Dans plus de deux tiers des cas, l’infection primaire se produit par inhalation et se situe dans les poumons. La médiastinite et la péricardite peuvent être les complications d’une nocardiose pulmonaire primaire. Nocardia est capable de disséminer vers pratiquement tous les organes, en particulier le cerveau où elle forme des abcès parenchymateux. Les sclères sont une autre porte d’entrée du pathogène occasionnant sclérites, kératites et endophtalmies à la faveur d’un traumatisme de l’œil. Le pied de Madura ou mycétome est la conséquence de l’inoculation cutanée de Nocardia au niveau du pied conduisant à une infection chronique du tissu sous-cutané [5].
+
+A relever que la nocardiose cutanée n’est jamais à l’origine d’une dissémination hématogène, ni de complications à distance du site de l’infection. Ainsi, une atteinte secondaire a pu rapidement être écartée chez cette patiente.
+
+La nocardiose a des présentations cliniques très variées et il n’y a pas de signe ou de symptôme pathognomonique de cette infection. Ainsi, devrait-elle être suspectée en cas d’atteinte pulmonaire concomitante ou précédant de peu l’apparition de lésions cutanées ou d’autres organes. Une antibiothérapie intraveineuse empirique par cotrimoxazole et imipénème associée parfois à l’amikacine est requise dans ce cas [4].
+
+Discussion
+
+L’image clinique correspond à une nocardiose cutanée. Il s’agit d’une infection purulente causée par un des bacilles Gram positifs ramifiés et aérobes de genre Nocardia, une bactérie retrouvée dans le monde entier, spécialement dans la végétation en putréfaction. L’organisme est isolé pour la première fois en 1888 par Edmond Nocard, un vétérinaire français, depuis un cas de lymphadénite bovine. Nocardiapeut en effet toucher également l’animal.
+
+Il en existe plus de 80 espèces. Les principaux pathogènes pour l’homme sont N. abscessus, N. cyriacigeorgica, N. farcinica et N. nova, plus rarement N. brasiliensis, N. otitidiscaviarumet N. pseudobrasiliensis.
+
+Elles sont à l’origine d’infections purulentes localisées ou systémiques. Deux tiers des patients infectés sont immunosupprimés; ces derniers ont en effet un risque augmenté de maladie invasive car l’immunité cellulaire est cruciale pour contenir l’infection [5].
+
+Il y a quatre types d’atteinte cutanée causée par Nocardia:
+
+– l’atteinte cutanée primaire: la peau est le site d’inoculation à la faveur de travaux de jardinage ou d’agriculture, d’un traumatisme, d’une piqûre d’insecte ou d’une morsure ou griffure d’animal. L’infection est le plus communément causée par N. brasiliensis, retrouvé en premier lieu dans les pays tropicaux, et touche des sujets non immunodéprimés.
+
+– l’atteinte lympho-cutanée, comme dans notre cas, qui se développe lorsqu’une infection cutanée primaire s’étend au système lymphatique régional conduisant à une lymphangite et des adénopathies.
+
+– l’atteinte cutanée secondaire à la dissémination d’une nocardiose dont le site d’infection primaire est un autre organe:ces lésions peuvent représenter le premier signe de la maladie. Etant donné qu’il est impossible de distinguer une atteinte cutanée primaire d’une secondaire sur la base de leur seule apparence, il est prudent de supposer qu’il s’agit d’une infection systémique en absence d’un antécédent de traumatisme clair au niveau du site de la lésion et d’envisager initialement un traitement intraveineux.
+
+– le mycétome: il s’agit d’une infection sous-cutanée chronique, suite à l’inoculation de N. brasiliensis le plus souvent, entrainant la formation d’un nodule indolore qui progresse en lésions indurées avec fistulisation à la peau. Le pied est le plus souvent atteint (pied de Madura) mais les mains ou d’autres parties du corps peuvent également être atteintes [5].
+
+La nocardiose cutanée a un diagnostic différentiel large étant donné sa présentation peu spécifique. Il inclut les infections fongiques (sporotrichose), les infections mycobactériennes non-tuberculeuses, les infections bactériennes (staphylocoques, streptocoques) et les infections parasitaires (folliculite ankylostomienne). Le sarcome épithélioïde est un autre diagnostic différentiel important qui doit être confirmé par histopathologie.
+
+Conclusion
+
+Bien que peu fréquente, la nocardiose cutanée fait partie du diagnostic différentiel des infections cutanées purulentes, et survient suite à un traumatisme au niveau du site de la lésion. Nocardia est une bactérie retrouvée dans le monde entier, spécialement dans la végétation en putréfaction. La présentation clinique est peu spécifique et le diagnostic nécessite l’isolation et l’identification de l’organisme depuis un échantillon clinique. A la coloration de Gram, des ramifications gram-positives délicates, filamenteuses et parfois perlées sont typiques d’une nocardiose et posent un diagnostic de présomption. En culture aérobe, la présentation de Nocardia est variable et moins spécifique. Les colonies nécessitent 5 à 21 jours pour croître. Le recours à la PCR permet actuellement un diagnostic plus rapide. Le cotrimoxazole est la substance de choix (TMP 5–10 mg/kg et SMX 25–50 mg/kg en 3 doses quotidiennes) pour le traitement de la nocardiose cutanée primaire. Cette dernière n’est jamais à l’origine d’une dissémination hématogène, ni de complications à distance du site de l’infection. Il faut cependant s’assurer qu’il ne s’agit pas d’une atteinte cutanée secondaire, dont les lésions cutanées peuvent parfois représenter le premier signe de la maladie.
+
+Réponses:
+
+
+Question 1: a. Question 2: a ou b. Question 3: c. Question 4: a.
+Question 5: toutes.

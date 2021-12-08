@@ -1,0 +1,102 @@
+Contexte
+
+Les anticorps monoclonaux font partie du traitement standard de nombreuses affections malignes. Le cé­tuximab est un anticorps monoclonal recombinant chimérique IgG1, qui cible spécifiquement le récepteur du facteur de croissance épidermique (EGFR). Les effets indésirables directs possibles du traitement par cétuximab sont des réactions liées à la perfusion, telles que fièvre, frissons, hypotension, nausées, céphalées, ainsi qu’urticaire, rhinite, bronchospasme et dyspnée. La plupart des symptômes surviennent en l’espace de quelques heures après l’administration d’une dose de charge de cétuximab [5].
+
+Le cétuximab est autorisé en Suisse chez les patients atteints de carcinome colorectal métastatique pré­sentant le gène RAS de type sauvage, ainsi qu’en association à une radiothérapie dans le traitement des ­patients présentant un carcinome épidermoïde localement avancé de la région tête et cou. Il est également autorisé en association au cisplatine et au 5-fluorouracil dans le traitement des patients atteints d’un carcinome épidermoïde récidivant et/ou métastatique de la région tête et cou. Le cétuximab est généralement administré par voie intraveineuse après une ­administration préalable d’antihistaminiques par voie intraveineuse, initialement à une dose de charge de 400 mg/m2, puis hebdomadairement à une dose de 250 mg/m2. En cas de tumeurs ORL localement avancées, ce traitement est débuté une semaine avant la ­radiothérapie.
+
+Seuls des cas isolés de méningite aseptique induite par le cétuximab ont été publiés. Une encéphalopathie ­aiguë a été décrite une seule fois [8].
+
+Présentation du cas
+Anamnèse et statut
+
+Chez un patient âgé de 70 ans, un carcinome épidermoïde au niveau de la tonsille palatine gauche a été diagnostiqué dans le cadre d’un processus expansif dans la région cervicale gauche. Le stade tumoral initial était cT2 cN1 M0, avec une positivité HPV. Un traitement associant radiothérapie et immunothérapie avec l’anticorps cétuximab a été recommandé lors du tumor board. En raison de l’âge du patient et de son état général (antécédents de consommation d’alcool et de tabagisme), l’utilisation de cisplatine n’était pas possible. Un jour après la première administration de cétuximab, le patient a été hospitalisé en raison d’une confusion aiguë et de fièvre.
+
+Parmi les antécédents médicaux connus figurait une ischémie vasculaire cérébrale (premier diagnostic 2005) sans déficits neurologiques résiduels. La médication à long terme du patient incluait Aspirine cardio®, un ­bêtabloquant, ainsi qu’un inhibiteur de l’enzyme de conversion de l’angiotensine.
+
+Clinique
+
+Un jour après la première administration de cétuximab, le patient a été hospitalisé en urgence en raison d’une confusion aiguë. Selon sa partenaire, le patient avait été agité durant la nuit; le matin, elle a remarqué une désorientation et des difficultés à trouver ses mots chez le patient, avec une fuite urinaire unique. Le ­patient n’a pas présenté de céphalées, de déficits moteurs ou de convulsions.
+
+A son arrivée, le patient de 70 ans était éveillé, mais présentait une désorientation temporelle et une désorientation par rapport aux personnes. Il était fébrile (39,0 °C), hypertendu (163/81 mm Hg) et tachycarde (97/min). L’examen clinique a retrouvé au niveau intrabuccal l’hypertrophie tonsillaire gauche déjà connue, ainsi qu’un paquet ganglionnaire indolore d’une taille d’environ 4 × 4 cm au niveau sous-mandibulaire gauche. A l’exception de la désorientation et de l’aphasie sensorielle, l’examen neurologique complet n’a pas montré de ­résultats pathologiques, et en particulier, un méningisme n’a pas pu être déclenché. Le reste de l’examen physique était sans particularités.
+
+Résultats
+
+Les analyses de laboratoire ont montré une valeur élevée de protéine C réactive (CRP, 50 mg/l; valeur normale: <10 mg/l), une légère hyponatrémie (132 mmol/l; valeur normale: 136–145 mmol/l), une hypokaliémie minime (3,46 mmol/l; valeur normale: 3,6–5,5 mmol/l), ainsi qu’une hypophosphatémie discrète (0,75 mmol/l; valeur normale: 0,8–1,5 mmol/l). Ni l’examen clinique ni les examens complémentaires (analyse urinaire, ­radiographie conventionnelle du thorax) n’ont révélé de foyer infectieux.
+
+La tomodensitométrie (TDM) crânienne n’a montré ni hémorragie, ni ischémie délimitée, ni métastases. Une atrophie cérébrale généralisée et une leucoencéphalopathie étaient déjà connues depuis 2006. En raison d’un éclat métallique au niveau de la paupière inférieure, une imagerie par résonance magnétique (IRM) n’a pas pu être réalisée. Le patient a refusé le retrait chirurgical de l’éclat métallique.
+
+A la ponction lombaire, le liquide céphalo-rachidien (LCR) était limpide et il y avait une légère élévation du nombre de cellules avec 34 cellules/µl (valeur normale: <4 cellules/µl), dont 16 cellules mononucléaires et 18 cellules polynucléaires. Les protéines du LCR étaient élevées (1,08 g/l; valeur normale: 0,2–0,4 g/l), le glucose du LCR était normal (2,9 mmol/l; valeur normale: 2,2–4,4 mmol/l) avec également un taux sérique de glucose normal, et le lactate du LCR était légèrement augmenté (2,6 mmol/l; valeur normale: 1,1–2,4 mmol/l). Des bactéries n’ont pas été mises en évidence dans le LCR. Aucune des hémocultures n’a mis en évidence d’agent pathogène. Les analyses PCR («polymerase chain reaction») pour la détection des virus herpès simplex (HSV) 1 et 2, du virus varicelle-zona (VZV), du cytomégalovirus (CMV) et des entérovirus sont restées négatives, de même que les analyses pour la méningoencéphalite à tique, le parechovirus humain, Haemophilus influenzae ainsi que les méningocoques, les pneumocoques et d’autres agents pathogènes (tab. 1). Seule l’IgG pour Borrelia burgdorferi était positive à la fois à la sérologie et dans le LCR, mais l’IgM s’est néanmoins révélée négative lors de deux déterminations.
+
+Tableau 1: Résultats microbiologiques (matériel: liquide céphalo-rachidien).
+Résultats de laponction lombaire	Valeur de­référence	Jour 5	Jour 2	Jour 1
+Borrelia burgdorferi– test de ­détection qual. d’IgG	Négatif	Réactif	Réactif	 
+Borrelia burgdorferi – test de ­détection d’IgM	Négatif	Négatif	Négatif	 
+Méningoencéphalite à tique IgG	>150 kU/l	 	 	16
+Méningoencéphalite à tique IgM	Négatif	 	 	Négatif
+Borrelia burgdorferi– ­confirmation IgG	Négatif	Positif	Positif	 
+Borrelia burgdorferi – test de ­quantification des IgG (VlsE)	<10	51	51	 
+Borrelia burgdorferi IgM, ­
+index d’Ac	<1,5	 	 	 
+HSV-1 - PCR	Négatif	 	Négatif	 
+HSV-2 - PCR	Négatif	 	Négatif	 
+VZV - PCR	Négatif	 	Négatif	 
+Parechovirus humain - PCR	Négatif	 	Négatif	 
+Haemophilus influenzae - PCR	Négatif	 	Négatif	 
+Cryptococcus neoformans/­gatti - PCR	Négatif	 	Négatif	 
+Neisseria meningitidis - PCR	Négatif	 	Négatif	 
+Streptococcus pneumoniae - PCR	Négatif	 	Négatif	 
+Streptococcus agalactiae - PCR	Négatif	 	Négatif	 
+Listeria monocytogenes - PCR	Négatif	 	Négatif	 
+Borrelia burgdorferi IgG,
+index d’Ac	<1,5	25,4	23,5	 
+HSV: virus herpès simplex; VZV: virus varicelle-zona; PCR: «polymerase chain reaction»; IgG: ­immunoglobuline G; IgM: immunoglobuline M; VlsE: «variable protein-like sequence expressed»; Ac: anticorps.
+
+A l’électroencéphalogramme (EEG), des potentiels typiques de l’épilepsie n’ont pas pu être documentés. En outre, dans le LCR, aucune cellule maligne n’a pu être mise en évidence et les anticorps anti-SNC étaient négatifs à la fois dans le sérum et dans le LCR. L’immunoblot permet de détecter des anticorps dirigés contre les éléments suivants: Hu, Ri, Yo, amphiphysine, CV2 (CRMP5), Ta/Ma2, Ma1, SOX1, GAD65, ZIC4 et Tr.
+
+Diagnostic
+
+Nous avons diagnostiqué une encéphalite aiguë aseptique comme cause de l’état confusionnel aigu fluctuant avec fièvre et aphasie sensorielle. Les résultats dans le LCR, avec une légère pléiocytose et une élévation des protéines, sont compatibles avec ce diagnostic. Une encéphalite d’origine virale n’est pas exclue même en cas de résultats négatifs de la PCR. La relation temporelle étroite, les manifestations cliniques légères et rapidement réversibles et la pléiocytose légère sont plutôt en faveur d’une encéphalite induite par le cétuximab. Une encéphalite virale a généralement une ­évolution plus sévère, les patients sont souvent plus jeunes, le nombre de cellules est généralement plus élevé et la durée de la maladie est souvent plus longue.
+
+Traitement
+
+Jusqu’à la réception des résultats du LCR, le patient a reçu une antibiothérapie empirique par ceftriaxone, amoxicilline et aciclovir par voie intraveineuse. L’amo­xicilline et l’aciclovir ont été interrompus à la réception des résultats négatifs de la PCR pour les Listeria et de la PCR multiplex virale, après une durée totale de traitement de deux jours. A partir du deuxième jour d’hospitalisation, le patient était orienté de façon fluctuante, avec une amélioration croissante de l’orientation et de l’aphasie sensorielle. Le patient a pu quitter l’hôpital au septième jour d’hospitalisation. Une neuroborréliose était très improbable sur le plan clinique et sur le plan des analyses de laboratoire, avec, d’après l’évaluation du quotient selon Reiber, une simple altération de la barrière sans synthèse locale d’IgG, IgA ou IgM, et une absence de mise en évidence de bandes oligoclonales d’IgG par isoélectrofocalisation. Toutefois, compte-tenu de la prévalence de la borréliose dans la région où habite le patient, le traitement par ceftriaxone a été poursuivi sur une durée totale de 21 jours.
+
+Evolution
+
+Après régression des symptômes neurologiques, un dépistage de la démence a été réalisé: le patient y a obtenu 29 points sur 30 au «mini-mental-test», 7 points sur 7 au test de l’horloge et 21 points sur 30 au test «Montreal cognitive assessment» (MoCA).
+
+Le traitement intraveineux hebdomadaire par cétuximab a été poursuivi. La deuxième administration de cétuximab s’est faite avec prudence, avec une vitesse de perfusion de 2 mg/min (correspond à 0,4 ml/min), et n’a donné lieu à aucune complication (vitesse normale de perfusion pour la dose de charge 5 mg/min [= 1 ml/min] et pour les perfusions ultérieures max 10 mg/min [= 2 ml/min]). En tant que prémédication, le patient a reçu par voie intraveineuse 2 mg de clémastine mais aussi initialement 16 mg de dexaméthasone, dont la dose a pu être réduite progressivement à 8 mg lors des perfusions suivantes. La vitesse de perfusion a été progressivement augmentée jusqu’à 6,67 mg/min au maximum.
+
+Discussion
+
+En cas d’encéphalite aiguë, une origine infectieuse doit en premier lieu être traitée ou exclue. Les virus sont les premiers agents pathogènes à entrer en ligne de compte; sur le plan du diagnostic différentiel, une multitude de causes non infectieuses peuvent imiter les symptômes d’une encéphalite. Il convient ici de mentionner avant tout les processus expansifs intracrâniens, les effets indésirables de nombreux médi­caments, ainsi que les maladies auto-immunes et paranéoplasiques. En fonction du statut immunitaire, des infections bactériennes, tuberculeuses, parasitaires et, très rarement, fongiques entrent également en ligne de compte.
+
+Peu de cas de méningite aseptique sous traitement par cétuximab ont été rapportés dans la littérature. Cette affection survient le plus souvent immédiatement après la première administration de la dose de charge. Une encéphalopathie aseptique induite par cétuximab a été décrite à une seule reprise [8]. Dans la plupart des cas décrits, les patients ont reçu une prémédication par antihistaminique. Concernant les effets indésirables cérébraux, le traitement antibiotique et antiviral a été interrompu après exclusion d’une cause bactérienne et virale, avec une régression rapide des symptômes neurologiques [2–6]. L’étiologie postulée est que l’anticorps monoclonal cétuximab peut, malgré sa taille de 145,8 kDa, franchir la barrière hémato-encéphalique. Une situation similaire a également été décrite après l’administration intraveineuse d’immunoglobulines (IVIg) [4]. Dans la plupart des cas décrits, une méningite aseptique est survenue après la première dose de charge (400 mg/m2). Rohrer et al. [6] ont néanmoins rapporté le cas d’une patiente avec cancer du côlon, qui a développé une méningite aseptique avec une dose de 250 mg/m2. Fait intéressant, la méningite est survenue après la 12e dose de cétuximab chez cette patiente. Elle avait à chaque fois reçu un antihistaminique comme prémédication. Emani et al. ont décrit un cas avec survenue répétée d’une méningite aseptique après un «­re-challenge» par cétuximab [3]. Toutefois, «seul» un antihistaminique avait été administré en tant que prémédication.
+
+Pour le «re-challenge», Maritaz et al. [5] recommandent:
+
+– Au minimum une heure avant la première perfusion, il convient d’administrer une prémédication avec un antihistaminique et un corticoïde.
+
+– Cette prémédication devrait être répétée avant chaque administration ultérieure de cétuximab.
+
+– La dose de charge initiale doit être administrée lentement, avec une vitesse de perfusion maximale de 5 mg/min (1 ml/min); pour les administrations ultérieures de cétuximab, la vitesse de perfusion devrait être inférieure à 10 mg/min (2 ml/min).
+
+Notre patient a développé une encéphalite aseptique après la première dose de cétuximab; il avait reçu comme prémédication 2 mg de clémastine par voie ­intraveineuse. Après régression rapide et complète des symptômes neurologiques, le patient a reçu la deuxième dose de cétuximab avec un antihistaminique et un corticoïde comme prémédication; il l’a tolérée sans problème. Un «re-challenge» est avant tout recommandé lorsque le cétuximab est administré dans une intention curative. Dans notre cas, il se pourrait que la leucoencéphalopathie vasculaire prononcée préexistante ait joué un rôle aggravant. Dans la publication de Ulrich et al. [4], le cas décrit présentait également une encéphalopathie; dans d’autres cas, des anomalies cérébrales structurelles n’ont pas été retrouvées à la TDM. Nagovskiy et al. [8] ont rapporté un cas d’encéphalopathie aiguë après une dose de charge de cétuximab, avec une régression complète des symptômes neurologiques en l’espace de quelques jours, comme chez notre patient. Aucun cas de survenue d’une méningite aseptique induite par le cétuximab après une prémédication par corticoïdes n’a été décrit.
+
+De façon générale, l’hypothèse selon laquelle les anticorps monoclonaux seraient trop grands pour franchir la barrière hémato-encéphalique doit être reconsidérée. Les anticorps monoclonaux jouent aussi un rôle essentiel en dehors de l’oncologie, et il est primordial que les internistes cliniciens connaissent précisément les effets indésirables rares mais impressionnants et qu’ils en informent correctement les patients et leurs proches.
+
+Il est recommandé de respecter strictement la vitesse de perfusion et d’administrer une prémédication non seulement par antihistaminique mais aussi par corticoïde.
+
+En résumé, la méningite et l’encéphalite aseptiques induites par les médicaments sont des effets indésirables très rares du traitement par cétuximab. Une cause infectieuse ainsi qu’une hémorragie cérébrale ou une ­ischémie doivent impérativement être exclues. Ensuite, un traitement symptomatique est suffisant et le pronostic est globalement bon avec une rémission complète des déficits neurologiques en l’espace de quelques jours à semaines.
+
+L’essentiel pour la pratique
+
+• La méningite aseptique induite par les médicaments et en particulier l’encéphalite aseptique sont des effets indésirables rares du traitement par cétuximab. Ces effets indésirables peuvent survenir non seulement après la dose de charge, mais également à un stade ultérieur du traitement par cétuximab [2–8]. La première perfusion de cétuximab (dose de charge) semble accroître le risque.
+
+• Une vitesse de perfusion lente et une prémédication avec administration supplémentaire de corticoïdes en plus de l’antihistaminique usuel semblent réduire le risque de survenue d’effets indésirables cérébraux.
+
+• Les autres causes de symptômes neurologiques, telles que des causes infectieuses, une hémorragie cérébrale et une ischémie cérébrale, doivent impérativement être exclues.
+
+• Les symptômes induits par le cétuximab font l’objet d’un traitement symptomatique. Une rémission complète des déficits neurologiques peut être attendue en l’espace de quelques jours à semaines.
+
+• Les anticorps monoclonaux, tels que le cétuximab ou les gammaglobulines, traversent la barrière hémato-encéphalique et peuvent être à l’origine des symptômes décrits. Les anticorps monoclonaux jouent aussi un rôle essentiel en dehors de l’oncologie, et il est primordial que les internistes cliniciens informent correctement les patients et leurs proches au sujet des effets indésirables et qu’ils connaissent précisément les ­effets indésirables rares mais impressionnants.

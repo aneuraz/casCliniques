@@ -1,0 +1,59 @@
+Présentation du cas
+Anamnèse
+
+Un patient de 79 ans dans un état de confusion croissante a été amené au service des urgences par les services de secours. Dans l’anamnèse personnelle, un diabète sucré de type 2 (traité par antidiabétiques oraux), une cardiopathie hypertensive, un goitre nodulaire et un antécédent de cancer de la prostate (premier diagnostic en février 2010, pas d’informations sur le traite­ment) étaient connus. Le patient était éveillé, dans un état général diminué et seulement partiellement orienté. L’examen physique était sans particularités.
+
+Résultats
+
+Les analyses de laboratoire ont révélé une hyperglycémie sévère, une dysélectrolytémie et une valeur accrue de lactate (tab. 1). La radiographie thoracique a montré plusieurs foyers ronds, qui étaient fortement suspects de métastases à la tomodensitométrie (TDM). Après la pose d’un cathéter urinaire à demeure, le patient a été transféré à l’unité de soins intensifs pour la suite du ­traitement.
+
+Tableau 1: Valeurs de laboratoire à l’admission et au cours de l’évolution ultérieure (après 7,5 heures).
+Valeur	Initialement	Evolution ultérieure(après 7,5 heures)
+Hémoglobine	98	81
+Leucocytes	3,7	1,7
+Thrombocytes	57	29
+Sodium	126	129
+Potassium	3,5	3,7
+Phosphate	0,6	0,4
+Glucose	40	36
+Protéine C réactive	217	175
+Lactate	2,3	3,4
+INR	1,35	1,47
+
+A l’admission à l’unité de soins intensifs, le patient, de corpulence mince, était désorienté, compensé sur le plan cardiopulmonaire, déshydraté et pâle. En partant de l’hypothèse de travail d’un sepsis, des échantillons ont été prélevés pour analyse microbiologique avant l’initiation d’une antibiothérapie empirique par pipé­racilline/tazobactam (sept heures après l’admission au service des urgences). L’hyperglycémie a été traitée au moyen d’un dispositif de perfusion d’insuline sous contrôle des électrolytes, avec une substitution intraveineuse correspondante (potassium, magnésium, phosphate).
+
+A l’échographie, une stase urinaire du côté gauche a été constatée. La TDM (native) a montré des bulles d’air diffuses dans la vessie, la hanche droite, certains corps vertébraux et les tissus mous dans la région de la cuisse droite, ainsi qu’une stase rénale gauche sans concrétions (fig. 1). Elle a en outre révélé des métastases osseuses disséminées et de multiples métastases pulmonaires avec des fractures vertébrales pathologiques dans le cadre d’une affection tumorale jusqu’alors inconnue.
+
+Figure 1: Tomodensitométrie native montrant du côté droit la présence de gaz dans l’aile iliaque, l’os iliaque, des ­adducteurs et abducteurs, ainsi que la vessie.
+
+Nous étions donc confrontés à un tableau de tumeur avancée métastatique probablement diffuse, de rétention urinaire du côté gauche et de sepsis dans le cadre d’une infection (voies urinaires) avec formation de gaz.
+
+Evolution et traitement
+
+Depuis la présentation initiale au service des urgences, l’état du patient s’était massivement détérioré en l’espace de quelques heures. En raison d’une défaillance multiviscérale débutante, le risque de décès intra-­opératoire par invasion de germes durant la cystoscopie pour pose d’une sonde double-J du côté gauche avec rinçage à haute pression a été jugé trop élevé. Une néphrostomie percutanée n’était pas possible en raison de la coagulopathie d’évolution fulminante. Malgré l’expansion volémique conséquente, la diurèse a cessé et le patient a développé une tachycardie. A l’électrocardiogramme (ECG), une élévation du segment ST en aVR et des sous-décalages du segment ST en II et en V2–6 ont été constatés, et le patient présentait une ­troponinémie discrète. Nous avons interprété ces résultats en tant qu’ischémie de type 2 dans le cadre du sepsis. Par la suite, le patient a développé une tachycardie à complexe étroit avec répercussion sur la pression artérielle. La circulation sanguine a dû être soutenue par noradrénaline à dose élevée administrée par dispositif de perfusion.
+
+En raison du pronostic très défavorable avec défaillance multiviscérale et impossibilité d’éradiquer le foyer infectieux, il a été décidé en concertation avec la partenaire du patient de passer à un traitement de confort. Le patient est décédé 21 heures après son admission au service des urgences.
+
+Discussion
+
+Les «surviving sepsis campaign bundles» datant de 2018 prévoient une mesure du lactate, le prélèvement d’hémocultures et l’initiation d’une antibiothérapie en l’espace d’une heure après la présentation. En cas d’hypotension ou de concentration de lactate ≥4 mmol/l, des cristalloïdes (30 ml/kg) doivent être administrés. En outre, la circulation doit, le cas échéant, être soutenue par vasopresseurs afin d’atteindre une pression artérielle moyenne de 65 mm Hg. Si la concentration de lactate est initialement ≥2 mmol/l, la mesure du lactate, en tant que marqueur de l’hypoperfusion tissulaire, devrait être répétée en l’espace de deux à quatre heures afin de pouvoir évaluer le succès de la substitution ­volémique [1].
+
+Dans notre cas, ni l’anamnèse ni les manifestations ­cliniques n’ont amené à suspecter une infection au ­service des urgences, car l’hyperglycémie prononcée de 38 mmol/l a détourné l’attention d’un processus en premier lieu infectieux.
+
+Nous voyons ici le risque de biais de confirmation, lorsque des valeurs non compatibles avec l’hypothèse primaire sont réinterprétées ou ignorées. La lactatémie a été interprétée dans le cadre de l’hyperglycémie chez ce patient souffrant de diabète sucré connu. Une protéine C réactive (CRP) nettement accrue, s’élevant à 217 mg/l, avec des valeurs normales de leucocytes, a certes été enregistrée et une infection a été recherchée par radiographie thoracique, mais la thrombocytopénie concomitante de 57 G/l et l’INR spontané de 1,35 (Quick 61%) n’ont pas été interprétés comme une ­coagulopathie d’origine septique. Le cerveau oublie en l’espace de 30 minutes les faits qui remettent en question l’hypothèse initiale («disconfirming evidence») si une autre hypothèse n’est pas activement recherchée. A la radiographie thoracique, les anomalies fortement suspectes de malignité ont, à leur tour, détourné ­l’attention d’une infection. Lorsque l’échographie des voies urinaires excrétrices a été réalisée et qu’une ­cystite emphytémateuse probable avec pyélonéphrite obstructive gauche et un sepsis fulminant accompagné d’une thrombocytopénie (nadir 29 G/l), d’une chute des leucocytes (nadir 1,7 G/l) et d’une pertur­bation de l’INR sont devenus manifestes au niveau des analyses de laboratoire après respectivement six et huit heures, il était trop tard pour une prise en charge conservatrice, bien qu’il se soit rétrospectivement avéré que le germe incriminé était sensible à ­l’antibiothérapie à large spectre (hémoculture et culture urinaire positives pour les Escherichia colipansensibles).
+
+Concernant les options thérapeutiques, outre une tentative de traitement conservateur par antibiotiques, une procédure chirurgicale a également été discutée. Sur le plan urologique, seul un sondage urinaire via la vessie a été envisagé en raison de la coagulopathie. Face à une infection avec production de gaz, la question d’une ouverture chirurgicale de la cuisse ou du fémur s’est posée. Sur le plan clinique, il n’y avait pas de signes d’une fasciite nécrosante ou d’une infection à Clostridium perfringens (patient exempt de douleurs, pas de crépitations sous-cutanées, pas de fièvre). Par ailleurs, une intervention aussi mutilante a été mise en balance avec la survie (improbable) du patient sans doute atteint d’un carcinome urothélial avancé métastatique diffus du rein gauche, avec une survie estimée de deux à six mois.
+
+La cystite emphysémateuse est une infection compliquée des voies urinaires excrétrices avec formation de gaz, qui est causée par des bactéries ou des champignons. Elle se caractérise par la présence de bulles de gaz dans la paroi vésicale. Il s’agit d’une maladie rare (262 cas publiés entre 1954 et 2018) et potentiellement fatale (mortalité d’environ 8–21%), qui survient avant tout chez les femmes âgées diabétiques. Parmi les autres facteurs prédisposants figurent l’immunosuppression, les affections vésicales obstructives, les infections ­urinaires chroniques et les troubles de la vidange ­vésicale d’origine neurogène. Tandis que Clostridium perfringens est connu pour entraîner la formation de gaz, de nombreux cliniciens ne savent pas que d’autres bactéries peuvent également former des gaz dans certaines circonstances. Escherichia coli(58%) et Klebsiella pneumoniae(21%) sont les agents pathogènes les plus fréquemment isolés, à côté de bactéries des genres ­Enterobacter, Clostridium, Candida, Proteus, Strepto­coccus et Enterococcus. L’étiologie de la formation de gaz dans la paroi vésicale n’est pas suffisamment élucidée. Le gaz pourrait être produit par les micro-organismes par fermentation du glucose ou du lactose, ainsi que de protéines tissulaires [2].
+
+Le tableau clinique est variable, allant du diagnostic fortuit chez des patients asymptomatiques jusqu’au ­tableau de choc septique. Un cas avec une évolution favorable traité dans notre hôpital a déjà été présenté dans le Forum Médical Suisse [3]. Les symptômes les plus fréquemment rapportés incluent les douleurs abdominales (66%) et la micro- ou macro-hématurie (82%), ainsi que la dysurie, la pollakiurie et la pneumaturie (par exemple après pose d’une sonde).
+
+L’évolution fatale rapide chez notre patient avait, selon nous, une origine multifactorielle, dans le cadre d’une initiation retardée du traitement. Le patient souffrait de diabète sucré et d’un cancer avancé métastatique. Le fait qu’une sonde double-J n’ait pas été posée par crainte d’une propagation des germes n’a rétrospectivement pas grand sens. En fin de compte, au moment de l’admission, l’infection s’était déjà propagée au bassin, ainsi qu’aux muscles et aux os. La sonde n’aurait probablement guère eu d’influence sur le devenir du patient.
+
+L’essentiel pour la pratique
+
+• Attention au biais de confirmation: Seuls les anomalies et symptômes qui soutiennent l’hypothèse diagnostique initiale sont pris en compte. Les résultats collectés sont interprétés dans le sens de l’hypothèse, tandis que les valeurs non compatibles avec l’hypothèse sont réinterprétées ou ignorées.
+
+• Attention à la «disconfirming evidence»: Les faits qui remettent en question l’hypothèse initiale sont rapidement oubliés si une autre hypothèse n’est pas recherchée activement.
+
+• Outre Clostridium perfringens, d’autres agents pathogènes peuvent former des gaz, comme par exemple Escherichia coli (58%), Klebsiella pneumoniae (21%), ainsi que les bactéries des genres Enterobacter, Candida, Proteus, Streptococcus et Enterococcus.

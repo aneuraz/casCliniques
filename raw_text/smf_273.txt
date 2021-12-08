@@ -1,0 +1,62 @@
+Fallbericht
+Anamnese
+
+Eine 35-jährige Migrantin aus Syrien stellte sich aufgrund von progredienter Müdigkeit, Schwäche, Nausea mit rezidivierender Emesis, Myalgien, Obstipation, ­rezidivierenden Bauchschmerzen, einem Gewichtsverlust von 5 kg sowie Schwindelattacken vor. Die Symptome bestanden bereits seit sechs Monaten. Der Patientin war zudem eine Zunahme der Hautpigmentierung aufgefallen. Auf Nachfrage gab die Patientin vermehrtes Verlangen nach Salz und eine verminderte Libido an. Weiter sei ihr eine Änderung des Zyklus aufge­fallen: Sie menstruiere neu nur noch alle sechs bis acht Wochen.
+
+Die persönliche Anamnese ergab die Diagnose einer tuberkulösen Pleuritis vor sechs Monaten, wobei damals eine tuberkulostatische Therapie mit Rimstar® (Rifampicin, Isoniazid, Pyrazinamid, Ethambutol) begonnen worden war. Oben beschriebene Symptome seien etwa zwei Wochen nach Beginn dieser Therapie aufgetreten. Aktuell stand die Patientin unter Therapie mit Rifampicin und Isoniazid (Rifinah®).
+
+Status
+
+Die Patientin präsentierte sich in leicht reduziertem Allgemein(AZ)- und normalem Ernährungszustand, hypoton (Blutdruck 99/70 mm Hg) und grenzwertig tachykard (Herzfrequenz 98/min). Im klinischen Status zeigte sich eine Hyperpigmentierung, insbesondere am Rücken, den Handflächen, Ohrmuscheln, Lippen und enoral am harten Gaumen (Abb. 1). Der restliche internistische Status war unauffällig, insbesondere fanden sich keine klinischen Zeichen einer Dehydratation. Ein Schellong-Test ergab keine Hinweise auf eine orthostatische Dysregulation.
+
+Abbildung 1: Hyperpigmentiertes Hautkolorit enoral (A ) und im Bereich der Ohrmuscheln (B/C ). Die Publikation erfolgt mit dem Einverständnis der Patientin.
+
+Befunde und Diagnose
+
+Laboranalytisch zeigte sich ein stark erhöhtes ACTH (hypophysäres Adrenocorticotropes Hormon) von 3367,0 pg/ml (Norm <46,0 pg/ml), ein tiefes basales ­Cortisol von 89 nmol/l ohne Anstieg nach Gabe von 1 µg Synacthen® (Cortisol 30 min nach Synacthen®-Gabe bei 87 nmol/l; Norm Anstieg auf >500 nmol/l) sowie ein hochnormales Kalium vom 4,7 mmol/l. Ein deutlich ­erniedrigtes DHEA-S (Dehydroepiandrosteron-Sulfat) von 0,09 µmol/l (Norm 1,65–9,15 µmol/l), ein Aldosteron unter dem Normbereich (43 pmol/l, Referenzbereich 61–978 pmol/l in aufrechter Körperlage) sowie ein erhöhtes Renin von 224,1 ng/l (Referenzbereich 2,6–27,7 ng/l in aufrechter Körperlage) vervollständigten das Bild ­einer primären Nebennierenrinden­insuffizienz mit Mineralo- und Glukokortikoidmangel. Die restlichen Laborbefunde inklusive Natrium (136 mmol/l) lagen im Normbereich.
+
+In der Computertomographie (CT) des Thorax, die sechs Monate zuvor im Rahmen der neu diagnos­tizierten Tuberkulose erfolgt war, konnten retro­spektiv vergrös­serte, verkalkte Nebennieren beidseits nachgewiesen werden, gut vereinbar mit einer infek­tiösen Adrenalitis (Abb. 2). Auf die Bestimmung der 21-Hydroxylase-Antikörper haben wir verzichtet.
+
+Abbildung 2: Hypertrophe Nebennieren beidseits (A : rechts,B : links) mit fokalen Verkalkungen (CT Thorax). Die Publikation erfolgt mit dem Einverständnis der Patientin.
+
+Beurteilung und Verlauf
+
+Zur Behandlung der neu diagnostizierten Nebenniereninsuffizienz begannen wir eine Glukokortikoid-Substitution (Hydrocortison 10 mg 1,5–0,5–0) sowie eine Mineralokortikoid-Substitution mit Fludrocortison (0,1 mg 0,5–0–0), worunter sich die Symptomatik bereits nach zwei Wochen deutlich besserte. Die vorbestehende tuberkulostatische Therapie mit Rifampicin und Isoniazid wurde unverändert weitergeführt.
+
+Die Nebenniereninsuffizienz persistierte auch sechs Monate nach Abschluss der tuberkulostatischen Therapie, sodass die Substitutionsbehandlung mit Hydrocortison und Fludrocortison fortgeführt wurde. Die Patientin wurde instruiert, in Stresssituationen (Infekte, Fieber, Erbrechen, Operationen etc.) die Hydrocortison-Dosis zu steigern.
+
+Diskussion
+
+Eine Nebennierenrindeninsuffizienz ist eine potentiell lebensbedrohliche Erkrankung, die auf einer ungenügenden Produktion von Glukokortikoiden sowie teilweise zusätzlich einer ungenügenden Produktion von Mineralokortikoiden und adrenalen Androgenen beruht. Man unterscheidet eine primäre, sekundäre und tertiäre Nebenniereninsuffizienz (letztere zwei werden auch unter dem Begriff «zentrale Nebenniereninsuffizienz» zusammengefasst), wobei nur die primäre Form mit einem Mangel an Mineralokortikoiden einhergeht [1–3].
+
+In Europa ist heutzutage die Autoimmun-Adrenalitis die häufigste Form der primären Nebenniereninsuffizienz und tritt häufiger bei Frauen als bei Männern auf. Bei zirka 40% der Betroffenen findet sich ein isolierter Befall der Nebennieren, bei 60% ist die Nebennieren­insuffizienz Teil eines polyglandulären Autoimmunsyndroms. In bis zu 85% der Fälle lassen sich ent­sprechende Antikörper nachweisen [1–3]. Bis Mitte des 20. Jahrhunderts war jedoch die Tuberkulose die häufigste Ursache der primären Nebenniereninsuffizienz; diese ist in Entwicklungsländern weiterhin die weitaus häufigste Ursache.
+
+Aufgrund der Anamnese, der Laborkonstellation und des CT-Befundes konnte bei oben genannter Patientin eine primäre Nebennierenrindeninsuffizienz infolge einer tuberkulösen Adrenalitis diagnostiziert werden. Auffallend war der enge zeitliche Zusammenhang zwischen der tuberkulostatischen Therapie mit Rimstar® und der oben beschriebenen Symptomatik. Da der Wirkstoff Rifampicin als potenter CYP3A4-Induktor den Metabolismus von Glukokortikoiden beschleunigt, kann davon ausgegangen werden, dass unter Rifam­picin die noch verbliebenen endogenen Steroide beschleunigt abgebaut wurden. Neben Rifampicin können weitere Medikamente wie Phenytoin, Phenobarbital oder Mitotan CYP3A4 induzieren. Der bei beschleunigtem Cortisolmetabolismus erhöhte Bedarf an Steroiden kann bei vorgeschädigten Nebennieren wie in unserem Patientenbeispiel nicht kompensiert werden und somit von einer asymptomatischen zu einer symptomatischen Nebenniereninsuffizienz bis hin zur Addison-Krise führen [1, 4].
+
+Symptomatik
+
+Die Symptome einer Nebennierenrindeninsuffizienz sind oft unspezifisch, sodass die Diagnose oft erst verzögert gestellt wird. Häufige Beschwerden sind Müdigkeit, Kraft- und Energieverlust, depressive Verstimmung, Gewichtsverlust und Anorexie, abdominale Schmerzen, Nausea und Emesis. Ebenfalls auftreten können Myalgien und Arthralgien, trockene Haut sowie ein ­Libidoverlust bei Frauen [1, 2].
+
+Bei der primären Nebenniereninsuffizienz kommt es typischerweise zu einer Hyperpigmentation der Haut (v.a. Schleimhäute, Lippen, Hände), welche durch die Stimulation des Melanocortin-1-Rezeptors durch die stark erhöhten ACTH-Spiegel zustande kommt. Ebenfalls nur bei der primären Nebenniereninsuffizienz kann es durch den Mangel an Mineralokortikoiden zu einer Dehydrierung mit orthostatischer Hypotonie, Salzhunger sowie zu Elektrolytstörungen (Hyponatri­ämie, Hyperkaliämie) kommen, wobei eine Hyponatriämie auch bei sekundärer Nebenniereninsuffizienz (SIADH [Syndrom der inadäquaten ADH-Sekretion] bei Glukokortikoidmangel) vorkommt. [1, 2].
+
+Diagnose
+
+Zur Diagnostik erfolgt primär die Bestimmung des ­basalen Cortisols frühmorgens (8.00 Uhr). Bei basalen Cortisolwerten >415 nmol/l kann ein Hypocortisolismus weitgehend ausgeschlossen werden, ein Cortisolwert <80 nmol/l gilt als suggestiv für einen Hypocortiso­lismus. Bei Werten zwischen 80–415 nmol/l kann eine Nebenniereninsuffizienz nicht ausgeschlossen werden und es sollte zur Klärung ein ACTH-Stimula­tionstest durchgeführt werden: Nach Abnahme eines basalen Cortisols erfolgt die Gabe von ACTH (Synacthen®) intra­venös; nach 30 und/oder 60 min erfolgt die erneute Bestimmung des Cortisolspiegels. Ein Peak-Cortisol von >500 ng/l schliesst eine Nebenniereninsuffizienz aus. Beim «low-dose»-Synacthen®-Test wird nur 1 µg intravenös verabreicht. Die Bestimmung des Peak-Cortisol erfolgt nach 30 Minuten, wobei ebenfalls ein Wert von >500 ng/l erreicht werden sollte zum Ausschluss einer Nebenniereninsuffizienz. Nach Eingriffen an der Hypophyse kann der Test in den ersten 4–6 Wochen falsch normale Werte zeigen, da die Nebennierenrinde noch nicht atrophiert ist und noch eine normale Reaktion auf das exogen zugeführte ACTH zeigen kann [1–3]. Bei Patientinnen, die orale Kontrazeptiva einnehmen, kann das Serumcortisol erhöht sein (aufgrund erhöhter Bindungsproteine), sodass eine normale Nebennierenfunktion vorgetäuscht werden kann [5].
+
+Nach Bestätigung der Nebenniereninsuffizienz dient als nächster Schritt die Messung des ACTH-Spiegels zur Unterscheidung zwischen der primären und der zen­tralen Nebenniereninsuffizienz [1, 2]. Bei der primären Nebennierenrindeninsuffizienz zeigt sich ausserdem typischerweise ein erniedrigter Aldosteronspiegel mit gleichzeitig erhöhtem Renin und ein tiefes DHEA-S (wobei DHEA-S auch bei der sekundären Form erniedrigt ist) [1].
+
+Bei bestätigter primärer Nebenniereninsuffizienz empfiehlt sich als nächster Schritt die Bestimmung der 21-OH-Antikörper, die im Fall einer Autoimmun-Adrenalitis positiv sind [5]. Bei nicht eindeutig vorliegender Autoimmun-Adrenalitis sollte zur Klärung der Ätiologie eine Bildgebung der Nebennieren (meist eine CT) erfolgen, wobei sich bei der tuberkulösen Adrenalitis im Frühstadium oft vergrösserte Nebennieren zeigen. Im Verlauf können oft auch Verkalkungen im Bereich der Nebennieren festgestellt werden [2, 5].
+
+Therapie
+
+Die Behandlung erfolgt in der Regel mit Hydrocortison. Die übliche Dosierung liegt bei 15–25 mg täglich, wovon ½–⅔ der Dosis am Morgen eingenommen wird, der Rest meist um die Mittagszeit [1, 3]. Von grosser Wichtigkeit ist eine Schulung des Patienten und der Angehö­rigen, damit in einer Stresssituation Hydrocortison ­sofort in erhöhter Dosierung eingenommen wird ­(sogenannte «Stressprophylaxe»): Bei akuten, leichtgradigen Erkrankungen (z.B. grippaler Infekt) oder kleinchirurgischen Eingriffen sowie bei akuten Stresssituationen muss die Dosierung von Hydrocortison um das 2- bis 3-fache gesteigert werden. Bei schwer­gradigen Erkrankungen (z.B. Sepsis) oder grösseren chirurgischen Eingriffen ist die intravenöse Gabe von Hy­drocortison in bis zu 10-facher Dosis nötig, um eine Addison-Krise zu vermeiden [1–3]. Bei rezidivierendem Erbrechen sollte auch bei gutem Allgemeinzustand frühzeitig auf eine i.v.-Gabe umgestellt werden. Jedem Patienten muss ein Notfallausweis abgegeben werden [1, 2].
+
+Im Falle eines zusätzlichen Mangels an Mineralokor­tikoiden wird mit Fludrocortison (0,05–0,2 mg) behandelt, welches einmal täglich morgens eingenommen werden muss [2].
+
+Das Wichtigste für die Praxis
+
+• Die Symptome einer Nebennierenrindeninsuffizienz sind typischerweise unspezifisch, sodass die Diagnose oft erst verspätet gestellt wird. Eine potentiell lebensgefährliche Komplikation ist die akute Addison-Krise.
+
+• Bei Patienten mit Tuberkulose sollte an die Möglichkeit einer Nebenniereninsuffizienz gedacht werden – insbesondere bei deutlicher Reduktion des Allgemeinzustandes, gastrointestinaler Symptomatik, morphologisch auffälligen Nebennieren oder Progredienz von Allgemeinsymptomen unter tuberkulostatischer Therapie – und zur Diagnostik ein Basal-Cortisol bestimmt respektive ein Synacthen-Test durchgeführt werden.
+
+• Die Therapie der Wahl ist Hydrocortison, bei primärer Nebennierenin­suffizienz ist zudem eine Mineralocorticoidersatztherapie mit Fludrocortison (Mineralocorticoid) indiziert.

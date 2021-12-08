@@ -1,0 +1,80 @@
+Présentation du cas
+
+Nous présentons ici un cas d’encéphalite limbique (EL), en décrivant la présentation clinique, le diagnostic et la prise en charge du patient. L’EL est l’un des diagnostics différentiels de la démence rapidement progressive (DRP). Nous décrivons une approche rationnelle du diagnostic et du traitement chez le patient souffrant d’un déclin cognitif rapide.
+
+Antécédents médicaux
+
+Il s’agit d’un patient de 82 ans, connu pour une hyper­tension artérielle, une hypercholestérolémie, une fibrillation auriculaire paroxystique sous traitement anticoagulant oral de rivaroxaban, et pour un antécédent d’accident ischémique transitoire (AIT) d’origine cardio-embolique. Le patient est hospitalisé en raison d’un état confusionnel d’apparition subaiguë associé à une dysarthrie. En l’absence de clair facteur favorisant, le diagnostic de probable AIT lacunaire est retenu. Deux mois après la sortie de l’hôpital, le médecin traitant ­envoie le patient à notre clinique de la mémoire ambulatoirement en raison de la persistance/apparition de difficultés de mémoire, d’hésitations dans le langage, un déficit d’attention et de concentration avec d’importantes fluctuations durant la journée. De plus, le ­patient présente des épisodes de perte de contact, associée à des mouvements stéréotypés périoraux et des mains et à une amnésie transitoire. Au niveau psychocomportemental, l’entourage observe l’apparition d’un syndrome anxieux important, une thymie triste avec perte de l’initiative, des états d’agitation psychomotrice et une personnalité devenue plus rigide et désinhibée.
+
+Examen psychométrique
+
+L’examen psychométrique montre des capacités cognitives dans la norme, avec en particulier la préservation de la mémoire antérograde, un bon fonctionnement fronto-exécutif et des fonctions praxiques et visuo-­perceptives conservées. Un ralentissement idéomoteur est cependant observé, avec une mémoire de travail légèrement diminuée et un accès lexical réduit (MMSE 28/30). L’examen neurologique met en évidence un léger syndrome extrapyramidal bradykinétique à prédominance gauche (UPDRS III à 22) et une marche à petits pas. L’EEG ne montre pas d’anomalies particulières. Un test de Holter sur 24 heures met en évidence un fibrillo-flutter normo-bradycarde intermittent avec pause de 5,11 secondes. Une IRM cérébrale effectuée quelques semaines plus tôt dans le cadre de l’hospitalisation, a uniquement montré des signes d’une discrète leucoencéphalopathie de probable origine microvasculaire (fig. 1), sans anomalies dans les séquences de diffusion.
+
+Figure 1: Première IRM cérébrale (projection axiale, T2): signes de leucoencéphalopathie modérée à probable origine microvasculaire. Aucune accumulation d’hémosidérine n’est observée en T2.
+
+Un syndrome dysmnésique léger est donc retenu (stade CDR 0,5), d’origine indéterminée (diagnostic différentiel: syndrome anxio-dépressif, cérébropathie vasculaire, maladie à corps de Lewy, maladie d’Alzheimer avec parkinsonisme) associé à des crises d’épilepsie ­focales temporales d’origine structurelle. Un traitement antidépresseur de paroxétine et anti-épileptique de ­lamotrigine sont prescrits, alors qu’un traitement de bêta-bloquant est remplacé par de l’amiodarone après implantation de pace-maker. Durant les semaines suivantes, malgré l’absence de récidive de crise d’épilepsie, on constate une ultérieure péjoration de l’état général, avec l’accentuation des difficultés cognitives avec des états confusionnels récurrents, ainsi qu’une aggravation des troubles psycho-comportementaux et des troubles de la marche avec chutes à répétition. A noter l’absence de troubles sphinctériens, de symptômes psychotiques ou d’insomnies.
+
+Après environ 15 semaines, le patient est de nouveau hospitalisé pour un bilan diagnostique. En présence d’un cadre clinico-neurologique stable, l’examen neur­psychologique montre cette fois une nette péjoration cognitive avec une importante désorientation temporelle, un sévère déficit attentivo-exécutif et un trouble mnésique antérograde et visuo-spatial (MMSE 22/30). Une deuxième IRM cérébrale révèle, en l’absence de signes pour une maladie à prions, l’apparition de zones hyperintenses dans les lobes temporaux mésiaux bilatéralement sur les séquences FLAIR («fluid attenuation inversion recovery») et T2 (fig. 2).
+
+Figure 2: Deuxième IRM cérébrale (effectuée 4 mois plus tard), projection axiale (A ) et coronale (B ): apparition d’hyperintensités T2 dans les lobes temporaux mésiaux,
+bilatéralement.
+
+Examens paracliniques
+
+Au cours des évaluations suivantes réalisées au moment de la détérioration clinique, d’autres tests sont réalisés dans le cadre du bilan diagnostique de la DRP. Un CT-scanner thoraco-abdominal revient négatif à la recherche d’une tumeur ou d’une maladie lymphoproliférative sous-jacente. Au niveau sanguin, la recherche de la syphilis, de la borréliose, du HIV, le dosage de la protéine 14-3-3, des auto-anticorps et un bilan méta­bolique, résultent négatifs. Une analyse sanguine approfondie est effectuée à la recherche d’anticorps anti-neuronaux, et le panel de dépistage de l’encéphalite auto-immune montre une augmentation significative du titre des auto-anticorps anti-CASPR-2 (titre de l’anticorps anti-CASPR2 dans le LCR = 1:256 et dans le sérum = 1:5120). En ce qui concerne le liquide céphalo-ra­chidien (LCR), la numération cellulaire, le dosage des protéines 14-3-3, Tau, Tau phosphorylée et la protéine bêta-amyloïde 1-42 résultent dans la norme.
+
+Diagnostic et traitement
+
+Un diagnostic d’encéphalite limbique auto-immune à anti-CASPR2 est posé et le patient débute un traitement de corticostéroïdes à hautes doses par voie parentérale (500 mg/jour), avec une diminution progressive de la dose au cours des mois suivants, en association à une prophylaxie antibiotique anti-Pneumocystis jirovecii. Après une immunothérapie par immunoglobulines (2 g/kg = 140 g), le patient ne manifeste pas d’amélioration clinique.
+
+Résultat et suivi
+
+Par la suite, étant donné que la cause sous-jacente de l’encéphalite limbique n’est pas contrôlable, le patient présente une nouvelle péjoration des symptômes, par épisodes intermittents. Compte tenu de la faible amélioration obtenue avec le traitement de corticostéroïdes et d’immunoglobulines, il est décidé d’entreprendre un traitement de rituximab. Malheureusement, l’évolution clinique se dégrade rapidement, jusqu’au décès du patient par complication infectieuse à départ pulmonaire.
+
+Discussion
+
+Contrairement aux syndromes démentiels les plus courants qui évoluent sur plusieurs années, les DRP peuvent évoluer rapidement sur quelques mois, semaines ou encore quelques jours et être rapidement fatales.
+
+Ce cas clinique décrit l’évolution rapide d’une démence due à une EL, qui dans les statistiques internationales représente la seconde cause la plus fréquente de DRP après la maladie de Creutzfeld-Jaocb (CJD) [1].
+
+L’encéphalite anti-CASPR2 survient principalement chez l’homme âgé (89%), avec une moyenne d’âge de 66 ans. La protéine associée à la contactine 2 (Caspr2) est une protéine de membrane exprimée au niveau du système nerveux central et périphérique. Sa dysfonction engendre comme manifestations cliniques des troubles cognitifs (26%), des crises d’épilepsie (24%) et parfois une hyperexitabilité du système nerveux pé­riphérique avec des troubles dysautomoniques, une neuropathie des petites fibres avec sensation de brûlure aux extrémités, une insomnie, une perte pondérale ou un syndrome extrapyramidal [2].
+
+Les tests diagnostiques comprennent l’analyse du LCR avec une faible spécificité, l’ENMG qui peut montrer une hyperexitabilité nerveuse et une polineuropathie. Chez les patients qui présentent des troubles cognitifs ou une épilepsie, l’IRM cérébrale peut typiquement révéler une augmentation de signal dans les lobes temporo-mésiaux bilatéralement sur les séquences FLAIR/T2 [2]. A noter qu’en cas d’imagerie initiale normale avec une forte suspicion clinique d’encéphalite limbique, il est souvent indiqué de répéter l’IRM cérébrale à distance de 15 jours. Notre patient a présenté des crises d’épilepsie focales temporales, une DRP et un titre élevé d’anticorps anti-CASPR2 dans le sérum et le LCR; l’IRM cérébrale a évidencé des hyperintensités temporo-mésiales bilatérales.
+
+L’encéphalite limbique à anticorps anti-CASPR2 peut être l’expression d’une pathologie néoplasique systémique sous-jacente, mais est le plus souvent associée à une forme bénigne d’hyperplasie thymique ou thymome. Outre le traitement de la pathologe sous-jacente (éventuelle exérèse tumorale), la thérapie de première ligne inclut l’infusion d’immunoglobulines i-v, de cortico-stéroïdes i-v, des échanges plasmatiques ou la ­combinaison de corticostéroïdes et d’échanges plasmatiques, alors qu’en seconde intension l’immunothérapie avec cyclophosphamide ou rituximab est recommandée. Malheureusement malgré un traitement adéquat, notre patient n’a pas répondu à la thérapie.
+
+Les anticorps dirigés contre les antigènes intracellulaires tendent à être associés à des tumeurs malignes sous-jacentes (par exemple, carcinome pulmonaire à petites cellules [anti-Hu, anti-AMPAR, anti-CRMP5, anti-amphiphysin], tumeur à cellules germinales testiculaires [anti-Ma2/Ta], thymome [anti-CRMP5], carcinome mammaire [anti-amphiphysine] et lymphome de Hodgkin) et ont un moins bon pronostic. Par contre les anticorps dirigés contre les protéines de surface ont un risque plus faible de malignité et ont un meilleur pronostic. Les anticorps contre les antigènes membranaires incluent entre autres les anticorps anti-GAD, anti-VGKC, anti-NMDAR, anti-AMPAR et anti-GABA. En général ces anticorps sont non-paranéoplasiques et causent des encéphalites limbiques moins sévères avec une récupération complète des symptômes possible après une thérapie immunosuppressive / immunomodulatrice (par exemple, corticostéroïdes à hautes doses, immunoglobulines, échanges plasmatiques, etc.).
+
+Comme nous l’avons déjà évoqué ci-dessus, la CJD représente la cause la plus fréquente et la plus suspectée de DRP [1].Ce syndrome démentiel est souvent accompagné de signes pyramidaux, cérébelleux ou de myoclonies [3], symptômes qui étaient absents chez notre patient. De plus, l’absence de signes typiques à l’IRM ­cérébrale (augmentation de signal dans les noyaux caudés / putamen en DWI ou FLAIR) et à l’EEG (complexes triphasiques périodiques), ainsi que la négativité de la protéine 14-3-3 dans le LCR, nous ont permis de raisonnablement exclure ce diagnostic [3]. En cas de suspicion clinique de CJD initiale malgré des investigations de base négatives, il peut être parfois indiqué de doser le RT-QuIC real time qui détecte de faibles quantités de la protéine prionique dans le LCR ou la muqueuse ­olfactive permettant d’atteindre une très haute spéci­ficité et sensibilité diagnostiques [4]. Dans notre cas, cet examen n’a pas été effectué, un diagnostic d’encéphalite limbique ayant déjà été posé.
+
+Le diagnostic différentiel de la DRP non prionique est large. Il existe un moyen mnémotechnique, l’acronyme VITAMINS qui permet de mémoriser les différentes étiologies Vasculaires, Infectieuses, Toxico-métaboli­ques, Auto-immunes, Malignes, Iatrogènes, Neurodégénératives et Systémiques.
+
+Les conditions vasculaires qui causent la DRP incluent les événements cérébro-vasculaires sur occlusion de gros vaisseaux et infarctus multiples qui touchent des territoires stratégiques d’un point de vue cognitif, ce que l’IRM cérébrale nous a permis d’exclure chez notre patient.
+
+Parmi les causes infectieuses, il est primordial d’exclure des conditions traitables comme la neurosyphilis, neuroborréliose, encéphalite virale en particulier à Herpes simplex 1–2, CMV, EBV, entérovirus, infection fongique ou parasitose, qu’une analyse sanguine sérologique et du LCR ont permis d’écarter chez notre patient.
+
+Il faut être particulièrement vigilants en présence de HIV ou d’immunosuppression, en raison du risque d’infections opportunistes comme la toxoplasmose ou la leucoencéphalopathie multifocale progressive ainsi que pour le syndrome de reconstitution immunitaire (IRIS) qui peut survenir lors de l’arrêt de l’immunosuppression [1].
+
+Dans le cas clinique ici décrit, un bilan métabolique étendu a permis d’exclure de multiples causes métabolico-toxiques, avec entre autres des altérations électrolytiques (calcium, magnésium, phosphore) ou carences vitaminiques (B1, B12 et E). Dans des cas spécifiques, une intoxication aux métaux lourds peut être considérée (arsenic, mercure, aluminium, lithium et plomb) [1].
+
+Parmi les causes autoimmunes, le SREAT (steroid responsive encephalopathy associated with a thyroidopathy), anciennement appelé encéphalite d’Hashimoto, se manifeste surtout par des états confusionnels ré­cidivants et des mouvements anormaux (chorée, parkinsonisme, myoclonies, ataxie). Cette condition représente l’une des rares causes de DRP et est caractérisée par de hauts taux sériques d’anticorps antithyréoglobulines et d’anti-thyréopéroxidase. Les maladies auto-­immunes cérébrales sont liées à des anticorps anti-­neuronaux qui peuvent être associés à des néoplasies. Dans de nombreux cas, il n’est pas possible d’identifier la tumeur primaire. Les anticorps anti-neuronaux di­rigés contre les antigènes intracellulaires sont parti­culièrement associés à des maladies néoplasiques sous-jacentes; par exemple, l’association entre EL auto-­immune à anticorps anti-Hu et carcinome pulmonaire à petites cellules est connue. Par contre les anticorps dirigés contre les antigènes de membranes cellulaires, dont les anti-CASPR-2 dont était porteur notre patient, sont en général non paranéoplasiques.
+
+D’autres causes de DRP incluent les pathologies malignes / néoplasies primaires du SNC, dont le lymphome cérébral ou une atteinte métastatique du SNC. Dans notre cas, une IRM cérébrale et un scanner total body nous ont permis de l’écarter.
+
+Et pour finir, la catégorie diagnostique la plus fréquente de DRP non-prionique estr représentée par les maladies neurodégénératives primaires avec ou sans parkinsonisme associé (atrophie multisystémique, ­démence à corps de Lewy, démence associée à une maladie de Parkinson, paralysie supranucléaire progressive, dégénération corticobasale, maladie d’Alzheimer, démence fronto-temporale). En partie la clinique et en partie l’absence de parkinsonisme marqué ainsi que des marqueurs biologiques de Abeta-tau et phospho-­tau normaux nous ont permis d’exclure de tels diag­nostics.
+
+L’essentiel pour la pratique:
+
+• Vérifier la chronologie: les symptômes ont souvent commencé plus tôt que la date indiquée dans le dossier.
+
+• Etre rigoureux dans le diagnostic différentiel en utilisant le moyen mnémo­technique: vitamins.
+
+• Diagnostiquer rapidement les causes traitables telles qu’infections et ­tumeurs.
+
+• La MCJ est un bon imitateur: elle peut mimer n’importe quelle démence (et inversement). Au stade précoce de la maladie, l’usage de l’IRM cérébrale, le dosage de la protéine 14-3-3 et le test RT-QuIC sont recommandés pour exclure ce diagnostic
+
+• Réaliser l’IRM cérébrale avec les séquences appropriées: coupes coronales/axiales, FLAIR, DWI, ADC, avec injection de produit de contraste.
+
+• Si le diagnostic n’est pas clair, effectuer une IRM du corps entier avec produit de contraste (ou un PET-scan).
+
+• Penser à l’encéphalite limbique en cas de DRP, car il s’agit de l’une des causes les plus fréquentes.

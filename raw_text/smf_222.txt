@@ -1,0 +1,90 @@
+Présentation du cas
+Anamnèse
+
+Nous décrivons le cas d’un homme de 24 ans qui a été traité dans notre service médical en raison d’une faiblesse musculaire aiguë. Le patient, qui présentait normalement un bon état de santé et avait une anamnèse familiale négative concernant des maladies héréditaires, était allé se coucher après s’être entraîné à la salle de sport et avoir mangé un repas riche en glucides (spaghettis, riz, biscuits). Au cours de la nuit, il a remarqué des douleurs musculaires progressivement croissantes et une perte de force, qui touchait avant tout les membres inférieurs et l’empêchait de bouger ses jambes ou de se lever seul du lit. Cet évènement ne s’est produit qu’une seule fois et a motivé la présentation du patient dans notre hôpital.
+
+L’anamnèse a révélé une opération en raison d’une gyné­comastie bilatérale à l’âge de 19 ans, ainsi qu’une échocardiographie sans particularités réalisée il y a cinq ans (examen réalisé pour évaluer l’aptitude au service militaire), suite à quoi une pression artérielle relativement élevée en lien avec une tachycardie avait été constatée. Le patient affirme ne pas boire d’alcool, ne pas fumer et ne pas consommer de drogues illégales. Il ne prend pas de médicaments.
+
+Examen clinique
+
+Le patient est un jeune homme athlétique (taille: 173 cm, poids: 71 kg, IMC: 23,7 kg/m2). Il était afébrile lors de l’examen physique. La pression artérielle s’élevait à 160/100 mm Hg et la fréquence cardiaque à 90–140 battements par minute, avec une fréquence respiratoire et une saturation en oxygène normales.
+
+L’examen neurologique a révélé une faiblesse prononcée des muscles de la ceinture scapulaire, de la ceinture pelvienne et des membres inférieurs des deux côtés, avec une sensibilité préservée. Les réflexes tendineux profonds des quatre membres étaient nettement diminués. Les nerfs crâniens étaient normaux, les signes pyramidaux négatifs. Les examens du cœur, des poumons, de l’abdomen et des ganglions lymphatiques se sont révélés normaux.
+
+Au niveau du cou, un gonflement manifeste de la région thyroïdienne a été constaté et il était compatible avec un goitre (fig. 1); des bruits vasculaires locaux sans ophtalmopathie ou myxœdème ont également été détectés. La peau était moite et présentait des cicatrices au niveau des mamelons, qui étaient dues à l’opération préalable de la gynécomastie bilatérale (fig. 1).
+
+Figure 1: Goitre et cicatrices bilatérales provenant ­d’une ­gynécomastie opérée.
+
+Diagnostic et résultats
+
+Les analyses de laboratoire ont montré une hypokaliémie sévère de 1,3 mmol/l (3,5–5,1), une hypomagnésémie légère de 0,6 mmol/l (0,66–0,99) et une valeur de chlorure de 113 mmol/l (98–107). Les valeurs de glucose, de créatine kinase (CK), de créatinine, de sodium, de calcium, de phosphate et autres étaient normales. Le test urinaire de dépistage de drogues était négatif. Dans les urines spontanées, le K+ s’élevait à 17 mmol/l, la créatinine à 10 mmol/l, et le quotient potassium/créatinine à 1,7. Une gazométrie veineuse a révélé des valeurs globalement normales (pH 7,33, HCO3- 21 mEq/l). A l’électrocardiogramme (ECG), le patient présentait une tachycardie sinusale, une amplitude élevée des complexes QRS, un sous-dé­calage du segment ST dans les dérivations inférieures et antérolatérales, ainsi qu’un intervalle QT corrigé allongé (fig. 2).­
+
+Figure 2: ECG lors de l’admission du patient: rythme sinusale (90/min.), ­intervalle QT corrigé allongé (557 msec.) et sous-décalage du segment ST dans les ­dérivations II, III, aVF et V4–V6.
+
+L’hypokaliémie sévère du patient (qui n’a pu être expliquée ni par des pertes intestinales ou rénales ni par une interaction pharmacologique) et la faiblesse musculaire proximale aiguë concomitante avec valeurs de CK normales ont attiré notre attention sur le groupe des paralysies hypokaliémiques (tab. 1). L’hyperthyroïdie représente l’une des causes les plus fréquentes des paralysies hypokaliémiques. Dans la mesure où le patient présentait un goitre manifeste et une tachycardie, nous nous sommes intéressés à la fonction thyroïdienne.
+
+Tableau 1: Diagnostics différentiels de la paralysie hypokaliémique (adapté d’après [3]).
+Déplacement du potassium dans la cellule	Paralysie périodique thyrotoxique
+Paralysie périodique hypokaliémique familiale
+Paralysie périodique spontanée
+Syndrome d’Andersen-Tawil
+Intoxication au baryum
+Abus/surdosage d’insuline
+Surdosage d’agonistes β2 adrénergiques
+Chloroquine
+Toxicité de la théophylline
+Toxicité de la caféine
+Cocaïne ou amphétamines
+Etat consécutif à un effort physique extrême
+Perte de potassium	Alcalose métabolique hypokaliémique
+ 	• Pression artérielle normale-basse
+ 	 	– Perte gastro-intestinale
+ 	 	– Anorexie/boulimie
+ 	 	– Alcoolisme chronique
+ 	 	– Diurétiques
+ 	 	– Syndrome de Bartter et syndrome de Gitelman
+ 	• Hypertension artérielle
+ 	 	– Hyperaldostéronisme primaire ou secondaire
+ 	 	– Consommation chronique de réglisse
+ 	 	– Syndrome de Cushing
+ 	 	– Déficit en 11β-hydroxylase
+ 	 	– Syndrome de Liddle
+Acidose métabolique hyperchlorémique
+ 	• Acidose tubulaire rénale (proximale ou distale)
+ 	• Diarrhée sévère
+ 	• Néphrostomie
+Reniflement de colle chronique
+
+Les tests ont confirmé la présence d’une thyrotoxicose auto-immune avec TSH <0,006 mU/l (0,27–4,2), fT3 de 31,4 pmol/l (3,1–6,8), fT4 de 62,2 pmol/l (12,0–22,0) et titres positifs élevés d’anticorps anti-TPO et anti-TRAK.
+
+L’échographie thyroïdienne a montré un goitre diffus, qui était hypoéchogène et hétérogène à l’échographie et ne présentait pas de formations nodulaires ou de lymphadénopathie. A l’échographie doppler couleur, nous avons constaté une hypervascularisation prononcée avec vascularisation intra- et extra-glandulaire anormale, que l’on qualifie de «thyroid inferno» (fig. 3).
+
+Figure 3: Echographie doppler couleur de la thyroïde («thyroid inferno»).
+
+Nous avons ainsi posé le diagnostic rare de paralysie hypo­kaliémique thyrotoxique dans le cadre d’une maladie de Basedow. Rétrospectivement, il s’est avéré que le patient souffrait déjà d’hyperthyroïdie depuis plusieurs années (gynécomastie, hypertension, tachycardie).
+
+Traitement et évolution
+
+Nous avons initié une administration intraveineuse prudente de solutions cristalloïdes et un traitement de substitution du potassium/magnésium, en évitant une correction agressive et rapide en raison du risque ­d’hyperkaliémie de rebond. En raison de la crise thyrotoxique concomitante, nous avons instauré un traitement par propranolol à la dose de 40 mg 3 × par jour, par dexaméthasone à la dose de 4 mg 2 × par jour et par le thyréostatique carbimazole à la dose de 15 mg 3 × par jour. Au cours des premières 24 heures, la force musculaire et l’hypokaliémie se sont normalisées, tandis que la tachycardie a régressé après 48 heures, avec une ­normalisation de l’ECG. Après un traitement d’une semaine, une régression initiale des ­valeurs hormonales a été objectivée, s’accompagnant d’une diminution modérée de la vascularisation de la thyroïde. Nous avons adressé le patient à la consultation d’endocrinologie pour le suivi à long terme et le traitement futur. Le patient a montré une réponse ­clinique rapide. Pour cette raison, nous avons renoncé à l’administration d’iodure de potassium, qui est au demeurant indiqué comme traitement de première ligne en cas de crises thyrotoxiques.
+
+Discussion
+
+La paralysie périodique thyrotoxique (PPT) est une ­complication inquiétante et potentiellement fatale de l’hyperthyroïdie, qui se caractérise par une paralysie musculaire aiguë et une hypokaliémie en raison d’un transfert massif du potassium vers le milieu intracellulaire. Les trois principales caractéristiques de la PPT sont dès lors la paralysie, l’hypokaliémie et la thyrotoxicose. Cette maladie affecte principalement les patients masculins d’origine asiatique âgés de 20 à 40 ans. En raison de la plus grande sensibilisation à cette maladie, de la mobilité accrue de la population et du mélange des différentes ethnies, la PPT est désormais aussi plus souvent diagnostiquée dans les pays occidentaux [1]. Une crise se caractérise par des épisodes transitoires récurrents de faiblesse musculaire, pouvant entraîner une paralysie flasque légère à complète [2, 3]. Les muscles proximaux sont davantage affectés que les muscles distaux. En règle générale, les membres inférieurs sont d’abord touchés par la faiblesse musculaire en cas de crise, avec une extension consécutive à la ceinture pelvienne et aux membres supérieurs. La fonction sensorielle n’est pas altérée. L’atteinte musculaire peut être asymétrique.
+
+Des symptômes prodromiques, tels que douleurs, crampes et rigidité des muscles touchés, peuvent également survenir. Chez la majorité des patients, les ­réflexes tendineux profonds sont nettement diminués ou absents. L’électroneuromyographie réalisée durant une crise montre des altérations myopathiques ­typiques avec amplitude diminuée des potentiels d’action musculaires composés [2]. La vitesse de conduction nerveuse est cependant normale [2].
+
+Chez les patients atteints de PPT, la crise survient généralement durant la nuit ou tôt le matin, raison pour ­laquelle l’affection était autrefois appelée «paralysie du sommeil». Les paralysies du sommeil sont toutefois plus fréquentes dans le cadre du syndrome de narcolepsie-cataplexie, qui doit avant tout être suspecté en cas d’hallucinations durant la phase de sommeil ou de réveil et doit être évalué au moyen d’une vidéo-po­lysomnographie. Les crises en cas de PPT font habituellement suite à des repas riches en glucides, à l’ingestion d’en-cas sucrés, à la consommation d’alcool ou à un ­effort physique intense [3]. Le taux de potassium sérique est généralement inférieur à 3,0 mmol/l et peut atteindre des valeurs extrêmement basses. L’hypokaliémie survient suite au transfert rapide et massif du potassium depuis le compartiment extracellulaire vers le compartiment intracellulaire, qui est attribuable à la séquestration du potassium principalement dans les cellules musculaires [1, 3, 4]. Les hormones thyroïdiennes et autres, telles que l’insuline et les catécholamines, peuvent stimuler l’activité de la Na/K-ATPase et inhiber le courant à travers les canaux potassiques voltage-dépendants. Outre une réponse adrénergique accentuée, les patients avec PPT présentent une réponse insulinique excessive au test oral de tolérance au glucose. Il n’est pas définitivement clarifié pourquoi les crises se produisent le plus souvent la nuit. Différents mécanismes complexes semblent jouer un rôle: «fringale musculaire» après un effort physique avec épuisement des réserves de glycogène, sécrétion d’insuline après un repas riche en glucides, séquestration du potassium dans les cellules musculaires au ­repos et autres.
+
+L’hypokaliémie n’est pas liée à des pertes fécales excessives. De même, il n’y a pas de pertes de potassium dans les urines, car l’excrétion urinaire est normale ou faible. L’équilibre acide-base dans le sang est normal. En cas de PPT, le quotient potassium/créatinine est typique­ment <2,0 mmol/mmol [4].
+
+Outre l’hypokaliémie, les patients peuvent être en proie à une hypophosphatémie et à une hypomagnésémie en raison du transfert intracellulaire concomitant au transport du potassium. Les valeurs se normalisent spontanément lorsque le patient se remet de la crise paralytique. Les anomalies électrocardiographiques chez les patients avec PPT peuvent fournir des indices. Chez 83–100% des patients avec PPT, l’ECG est patho­logique [5]. A la fois l’hyperthyroïdie et l’hypokaliémie peuvent affecter le système électrophysiologique du cœur. A côté des arythmies ventriculaires graves et des altérations ECG qui sont liées à l’hypokaliémie (ondes U, aplatissement de l’onde T, sous-décalage du segment ST, allongement de l’intervalle QT), des anomalies ECG, telles qu’une fréquence cardiaque rapide, une amplitude élevée du complexe QRS ou un bloc atrio-ventriculaire, et des complications plus rares, telles que la cardiomyopathie de Tako-Tsubo, peuvent également survenir [5]. En règle générale, la PPT survient lorsque le patient se trouve dans un état d’hyperthyroïdie, si bien que les examens de la fonction thyroïdienne ­permettent au clinicien de poser le diagnostic correct. La PPT peut être déclenchée par n’importe quelle forme d’hyperthyroïdie, tout en sachant que la plupart des patients ont uniquement une thyrotoxicose légère et peuvent même ne présenter aucune anomalie sur le plan clinique. Les différentes formes de l’hyperthyroïdie et la rareté de la PPT font du diagnostic de cette ­maladie un défi [6]. Dès que le patient retrouve un état d’euthyroïdie, la PPT ne survient plus. Un contrôle ­adéquat de l’hyperthyroïdie au moyen de thyréostatiques et d’antagonistes adrénergiques peut dès lors permettre de prévenir des complications cardiopulmonaires graves. Il s’agit là de la pierre angulaire du traitement, dont l’objectif est de prévenir une réapparition de la paralysie.
+
+L’essentiel pour la pratique
+
+• Les causes les plus fréquentes d’une paralysie musculaire généralisée de progression rapide sont le syndrome de Guillain-Barré, la polymyosite, la rhabdomyolyse (toxique ou pharmacologique), la poliomyélite, la myasthénie, les intoxications, les perturbations électrolytiques sévères, le syndrome de narcolepsie-cataplexie, ainsi que le groupe hétérogène des paralysies périodiques familiales ou acquises (entre autres paralysie thyrotoxique).
+
+• Le diagnostic différentiel d’une paralysie soudaine avec hypokaliémie (sévère) représente un défi clinique.
+
+• En cas de survenue d’une paralysie musculaire soudaine chez un patient, en particulier chez les jeunes hommes après un effort physique intense et/ou un repas copieux riche en glucides, et en présence d’une hypokaliémie, le médecin devrait songer à une paralysie périodique et envisager un lien potentiel avec la thyroïde.
+
+• Le traitement causal réside dans l’inhibition médicamenteuse rapide de l’hyperthyroïdie. En cas d’hypokaliémie dans le contexte d’une PPT, une substitution électrolytique prudente est toujours indiquée afin d’éviter une hyperkaliémie de rebond.

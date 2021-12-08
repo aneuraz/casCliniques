@@ -1,0 +1,152 @@
+Présentation du cas
+
+Une joueuse d’unihockey (haut niveau de performance) âgée de quinze ans nous consulte en raison de douleurs à l’effort dans la partie inférieure de la jambe droite. Elle présente un développement normal, est en bon état général et exempte de maladies. Elle a des menstruations régulières depuis la treizième année de vie et prend un contraceptif oral comme unique médicament. Elle déclare ne consommer ni alcool, ni nicotine. Son indice de masse corporelle (IMC) est de 21 kg/m2 et donc dans la norme. Les douleurs étaient survenues spontanément deux ans auparavant et ont insidieusement augmenté en intensité. La patiente avait d’abord adapté son entraînement et effectué davantage d’étirements. Une collègue lui a donné du magnésium. Les douleurs ont malgré tout persisté et de plus en plus compromis l’entraînement et les activités sportives de loisir.
+
+Localisée au niveau antérolatéral et postérieur de la partie inférieure de la jambe, la douleur survient prévisiblement après quelques minutes de course ou d’un autre effort. Elle disparaît après que la patiente s’arrête ou fait une pause. Elle ne se plaint d’aucune douleur au repos, notamment en position assise à l’école. La douleur présente un caractère aigu et de forte intensité, parfois accompagné d’une sensation d’engourdissement au niveau du pied et de la plante du pied. Il n’existe aucune douleur à la pression ou au tapotement dans le mollet, ni aucune douleur à l’étirement. L’aspect des deux jambes est normal et symétrique.
+
+Question 1: Quel est le diagnostic suspecté le plus probable?
+
+
+a) Radiculopathie en présence d’une problématique de la ­colonne lombaire
+
+b) Thrombose veineuse profonde de la jambe
+
+c) Syndrome chronique des loges (CECS)
+
+d) Syndrome fémoro-patellaire
+
+e) Fracture de stress due à une «female athlete triad» ou une «relative energy deficiency in sports» (RED-S)
+
+La radiculopathie a une répartition par dermatome et une douleur à l’étirement (Lasègue). Une thrombose veineuse profonde (cliniquement symptomatique) de la jambe présenterait un œdème asymétrique (différence de diamètre >3 cm) et une douleur à la pression ou un signe de Meyer positif dans le bas de la jambe. Un syndrome chronique des loges (CECS) est caractérisé par une douleur de la jambe liée à l’effort survenant certes souvent de manière bilatérale, mais aussi régulièrement unilatérale et qui cesse à la fin de l’effort. Le syndrome fémoro-patellaire provoque des douleurs sur la face ventrale du genou en position assise prolongée avec les jambes fléchies. Une fracture de stress est associée à une douleur au tapotement, une douleur à la flexion et une douleur à la compression axiale. La «female athlete triad» est constituée d’un trouble du comportement alimentaire, d’aménorrhée secondaire et d’ostéoporose.
+
+L’anamnèse révèle par ailleurs qu’en raison d’une suspicion de syndrome chronique des loges («chronic exertional compartment syndome» [CECS]) et de l’échec du traitement conservateur sur six mois, la loge antérieure de la jambe a été ouverte vers l’extérieur il y a trois mois (réalisation technique correcte sans complication péri/postopératoire), ce qui n’a toutefois apporté aucune amélioration durable de la situation.
+
+Question 2: Comment cette information vient-elle changer votre liste des diagnostics différentiels?
+
+
+a) Le syndrome des loges est désormais exclu
+
+b) Il convient d’envisager une infection postopératoire
+
+c) La liste reste globalement inchangée
+
+d) Une lésion nerveuse lors de l’ouverture de la loge doit être exclue
+
+e) Un syndrome douloureux régional complexe (CRPS) (post­opératoire) doit être exclu
+
+Le CECS présente un risque de récidive ainsi qu’un risque relativement élevé de douleurs persistantes lorsque (a) une ouverture insuffisante des loges a été effectuée ou (b) une seule loge a été décomprimée [3]. Une infection postopératoire, même par un germe faiblement virulent tel que Propionobacterium acnes, est possible, mais signifierait toutefois une modification des symptômes. La lésion du nerf fibulaire superficiel est une complication possible de la décompression de la loge antérolatérale de la jambe, qui entraîne un ­engourdissement sur le dessus du pied, sauf entre le premier et le deuxième orteil. Le syndrome douloureux régional complexe («complex regional pain syndrome [CRPS]) constitue une complication possible d’une blessure ou opération, associée à une dystrophie et atrophie de l’extrémité atteinte, avec des symptômes tels qu’œdème, douleur, trouble de la perfusion, hypersensibilité au toucher et modifications cutanées [6] (tab. 1).
+
+Tableau 1: Critères de Budapest relatifs au «complex regional pain syndrome» CRPS (selon [6]).
+Catégorie	Symptômes
+Modifications sensibles	Hyperesthésie
+Hyperalgésie
+Allodynie
+Modifications vasomotrices	Différence de température de la peau
+Différence de couleur de la peau
+Modifications automotrices	Œdème
+Modifications de la perspiration/hyperhidrose
+Modifications motrices/trophiques	Restriction motrice
+Dysfonctionnement moteur
+(faiblesse/tremblement/dystonie)
+Modifications trophiques de la peau/des cheveux/des ongles
+Présence d’un CRPS lorsque1. Douleur permanente disproportionnée par rapport à ­l’événement2. Au moins 1 symptôme dans 3 catégories à l’anamnèse3. Au moins 1 symptôme dans au moins 2 catégories
+à l’examen4. Aucun autre diagnostic expliquant mieux les résultats
+
+Les analyses biochimiques subséquentes et l’imagerie par résonance magnétique (IRM) de la colonne vertébrale ne révèlent aucune anomalie. La radiographie de la jambe en deux plans ne fournit aucune indication de fracture de stress ou autres problèmes osseux. L’examen de la colonne vertébrale et des deux extrémités inférieures ne montre aucune anomalie en termes de force, mobilité et neurologie. Les pouls périphériques sont normaux. La jambe droite présente des cicatrices bien guéries après fasciotomie, les loges sont souples et non douloureuses à la pression.
+
+Question 3: Comment diagnostiquez-vous un éventuel syndrome chronique des loges (CECS)?
+
+
+a) A partir de l’anamnèse
+
+b) Loges douloureuses à la pression et/ou tendues
+
+c) Mesure de la pression intra-compartimentale avec test d’effort
+
+d) Tomodensitométrie (TDM)
+
+e) Echographie (avec Doppler vasculaire)
+
+L’anamnèse d’un CECS présente une série de signes d’alarme caractéristiques, mais est globalement trop peu spécifique pour un diagnostic définitif. Au repos, les loges sont essentiellement asymptomatiques. Le standard universel consiste à mesurer la pression intra-compartimentale lors du test d’effort avec des valeurs seuils ≥15 mm Hg, ≥30 mm Hg et ≥20 mm Hg avant, 1 min et 5 min après un effort. La TDM n’est pas pertinente dans le diagnostic du CECS. L’échographie ne peut ni confirmer ni exclure de manière concluante un CECS.
+
+La patiente a donc été soumise à un test d’effort avec mesure de la pression intra-compartimentale dans les quatre loges de la jambe. Les valeurs seuils ≥15 mm Hg, ≥30 mm Hg et ≥20 mm Hg avant, 1 min et 5 min après un effort n’ont pas été atteintes.
+
+Question 4: Qu’est-ce qui ne constitue pas un diagnostic différentiel après exclusion d’un CECS?
+
+
+a) Syndrome de stress tibial («shin splints»)
+
+b) Facture de stress
+
+c) Compression nerveuse périphérique
+
+d) Compression vasculaire (artère poplitée)
+
+e) Toutes les propositions ci-dessus sont des diagnostics ­différentiels possibles
+
+Le syndrome de stress tibial, ou «shin splints», est une cause fréquente de douleur diffuse du tibia avec aggravation de la douleur lors du tapotement ou de la flexion de l’os. Une fracture de stress provoque une douleur locali­sée directement au-dessus de la fracture, avec œdème et douleur à la pression à cet endroit également. Il convient de faire la distinction avec les réactions de stress, qui doivent être considérées comme des précurseurs de la fracture de stress et se présentent, sur le plan clinique, par une douleur diffuse à la pression. Elles peuvent, le cas échéant, être diagnostiquées par une IRM ou un SPECT-CT. Les compressions nerveuses périphériques touchent la sensorialité et/ou la motricité sur le territoire du nerf concerné, (généralement) avec un signe de Tinel positif. Une compression vasculaire dynamique de l’artère poplitée provoque des douleurs à l’effort de manière très similaire à un CECS, mais avec une prévalence quelque peu supérieure de dysesthésies ou anesthésies distales, et doit être exclue en cas d’échec du traitement du CECS.
+
+Question 5: Quel est l’instrument diagnostic non valide pour l’examen d’une éventuelle compression vasculaire au niveau du genou?
+
+
+a) IRM native
+
+b) Angiographie en position de provocation (avec flexion plantaire/dorsale maximale)
+
+c) Echographie Doppler
+
+d) «Ankle-brachial-index» (ABI)
+
+e) Palpation des pouls périphériques
+
+L’IRM native peut révéler des variantes anatomiques comme causes possibles d’une compression vasculaire, mais elle n’est pas à même de qualifier directement le flux sanguin dans le vaisseau. Cela réussirait bien avec une angiographie IRM en position de provocation, mais celle-ci doit alors être correctement spécifiée/signalée en tant que telle. Une angiographie en position de provocation peut révéler l’interruption du flux sanguin. De manière analogue, avoir recours à une échographie Doppler est également possible. Une modifi­cation du «ankle-brachial-index» (ABI) de 30% après provocation constitue un test valide pour une compression de l’artère poplitée. Il en est de même pour la perte de pouls après provocation.
+
+Après exclusion d’un CECS, une éventuelle compression vasculaire dans le creux poplité est donc recherchée chez la patiente. A cette fin, l’ABI est mesuré avant et après effort pour les deux côtés. Tandis que le côté gauche asymptomatique affiche uniquement une modification de 4% (correspondant à la marge d’une erreur normale de mesure), la modification de l’ABI sur le côté droit symptomatique s’élève à 38%, en concordance avec une compression vasculaire. Pour le test d’effort, la patiente doit courir sur un terrain plat jusqu’à la survenue des douleurs. Une IRM du genou ­révèle une variation anatomique des chefs du muscle gastrocnémien comme cause de la compression de ­l’artère poplitée (fig. 1).
+
+Figure 1: Imagerie par résonance magnétique (IRM) de la patiente, enA sans légende et enB avec légende. Les coupes axiales permettent de très bien voir le chef latéral du muscle gastrocenmien à côté médial (hachuré en rouge enB ). Le faisceau nerveux vasculaire (hachuré en jaune enB ) est comprimé entre celui-ci, le semi membraneux (SM enB ) et le chef médial (MH enB ).
+
+Traitement
+
+La patiente reçoit un traitement conservateur avec un programme intensif d’étirement du muscle gastrocnémien et du muscle plantaire ainsi qu’un effort sportif adapté. Après avoir atteint un état exempt de douleur, la contrainte sportive sera à nouveau progressivement accrue. La patiente est informée du risque de récidive et de l’éventuelle nécessité d’une opération ultérieure.
+
+Discussion
+
+Les douleurs de la jambe à l’effort sont un symptôme fréquent chez les sportives et sportifs de tous niveaux de performance. Une étude prospective réalisée auprès de 63 patients a révélé un CECS comme déclencheur dans 49% des cas, suivi d’une périostite (17%) et de «shin splints» ou syndrome de stress tibial (11%). Les 23% restants se répartissent en compression nerveuse, lésions discales avec compression radiculaire et tendinites. L’incidence d’une compression vasculaire fonctionnelle à l’origine de douleurs de la jambe à l’effort est estimée à entre 1% et 3% des cas.
+
+Bien que le CECS constitue presque la moitié des cas de douleurs de la jambe à l’effort, il est sous-diagnostiqué et passe souvent inaperçu. Cela est notamment dû au fait que les symptômes et douleurs disparaissent au ­repos. Le diagnostic correct nécessite une mesure de la pression intra-compartimentale lors du test d’effort. L’algorithme selon lequel la pression au repos et la ­pression intra-compartimentale sont mesurées un et cinq minutes après l’effort, et ce pour les quatre loges de la jambe, est internationalement reconnu. Lorsque des valeurs seuils ≥15 mm Hg, ≥30 mm Hg et ≥20 mm Hg sont utilisées, il existe un taux d’erreur (faux positif) inférieur à 5% [1]. Le test d’effort ne doit pas être conçu de manière très élaborée, il suffit que la patiente ou le patient grimpent des escaliers ou courent sur une surface avec une intensité subjectivement élevée. La confusion avec d’autres causes de douleurs de la jambe à ­l’effort, comme par exemple la claudication vasculaire ou une neuropathie, constitue une autre raison du sous-diagnostic relatif du CECS.
+
+Le traitement du CECS est d’abord conservateur, mais une partie significative des patients nécessite une intervention chirurgicale, par exemple une fasciotomie mini-invasive assistée par endoscopie [2]. Dans le cas présent, le fait qu’une seule loge a été décomprimée est essentiel. Des études récemment publiées ont montré qu’en cas de décompression sélective au lieu d’une fasciotomie de toutes les loges, la probabilité d’une récidive de symptômes résiduels est quatre fois plus élevée – même lorsqu’une pression critique n’a été mesurée que dans une seule loge [3]. Dans le cas présent, le CECS reste dès lors un diagnostic différentiel, malgré la fasciotomie précédente.
+
+Lors de la décision en faveur ou contre une fasciotomie en cas d’échec du traitement conservateur, il est crucial de délimiter avec certitude les diagnostics différentiels (tab. 2). Concernant les diagnostics tels que fractures de stress ou syndrome de stress tibial, cela peut se baser, avec une grande fiabilité, sur les résultats d’examens et de l’anamnèse. En cas de compressions nerveuses, la répartition des douleurs correspond au territoire desservi par le nerf et des tests neurophysiologiques s’avèrent alors utiles (attention: résultats faux négatifs possibles de l’électromyographie à l’aiguille [EMG] car le nerf saphène est purement sensoriel).
+
+Tableau 2: Diagnostics différentiels de la douleur de la jambe à l’effort.
+Diagnostic différentiel	Résultat	Confirmation par
+«Chronic exertional
+compartment syndrome» (CECS)	Douleur à l’effort, aucun signe au repos. Dysesthésie/anesthésie plutôt rare (4%)	Test d’effort avec mesure de la pression (>15/>30/>20 mm Hg,
+avant/1/5 min après effort)
+Fracture de stress	Douleur localisée du tibia, accrue par tapotement ou flexion	Radiographie/scintigraphie/IRM
+Syndrome de stress tibial	Douleur diffuse du tibia, accrue par mouvement de la cheville supérieure contre résistance	Scintigraphie/IRM
+Compression nerveuse	Dysesthésie/anesthésie sur le territoire du nerf, signe de Tinel positif	Mesure la vitesse de l’influx nerveux /EMG (attention: EMG faussement négative au niveau du nerf saphène sensoriel)
+Compression discale/
+radiculaire	Dysesthésie/anesthésie, perte de force, douleur dorsale, tests de provocation positifs (SLR, Lasègue)	IRM
+Tendinite	Douleurs le long du tendon, accrue après effort	IRM
+Compression vasculaire	Douleur, éventuellement froideur, dysesthésie/anesthésie plus souvent que CECS (40%)	IRM avec étude par agent de contraste, angiographie,ABI (>30% de réduction à l’effort)
+Envisager d’autres diagnostics différentiels (claudication vasculaire/neuropathie et autres) en rapport avec la maladie sous-jacente!
+EMG: électromyographie; SLR: «straight leg raise»; IRM: imagerie par résonance magnétique
+
+La distinction entre un CECS et une compression vasculaire dans le creux poplité peut s’avérer difficile. Ces conditions sont toutes les deux très similaires à l’anamnèse, avec des crampes, douleurs et sensation de lourdeur peu après le début d’une activité sportive ou lors d’un effort de la musculature du bas de la jambe. Les troubles neurologiques sont variables et propres aux deux diagnostics, mais les paresthésies de la plante du pied sont 10 fois plus fréquentes en cas de compression vasculaire (40% de prévalence) qu’en présence d’un CECS (4% de prévalence).
+
+D’autres observations importantes de la compression vasculaire, également appelée «popliteal artery entrapment syndrome» (PAES), sont une perte de pouls lors de l’extension du genou et de la flexion dorsale ou plantaire de la cheville ainsi qu’une réduction de l’ABI d’au moins 30% lors de la même manœuvre de provocation [4]. La signification du statut vasculaire pour le diagnostic différentiel peut toutefois être en conflit avec la tendance des patients à consulter plutôt un orthopédiste qu’un angiologue/chirurgien vasculaire.
+
+Les techniques d’imagerie peuvent révéler des problèmes structurels tels qu’une compression de l’artère poplitée due à des variations anatomiques lors de la flexion plantaire maximale/forcée. Ceci est représenté chez une autre patiente à la figure 2. Une telle image s’avère très utile pour la planification d’une opération. Le CECS lui-même est difficile à mettre en évidence par imagerie. Des protocoles IRM reconnus se basent sur des séquences pondérées en T2 pour mettre en évidence un œdème musculaire induit par ischémie après l’effort [5], tandis que des études actuelles révèlent le potentiel de l’imagerie pondérée en diffusion. Selon l’effort, les séquences pondérées en T2 montrent une augmentation de l’intensité du signal dans la loge symptomatique. La précision diagnostique de l’IRM pondérée en T2 varie, dans les quelques publications, de modérée à très bonne et peut être utilisée comme alternative à la mesure de pression invasive, en particulier chez les patients présentant des contre-indications. Afin d’exclure un «popliteal artery entrapment syndrome» anatomique et fonctionnel, une angio-IRM 4D avec produit de contraste offrant la possibilité de reconstructions multiplanaires de la phase artérielle et veineuse est en outre recommandée et peut être intégrée dans un protocole CECS d’environ 45 minutes.
+
+Figure 2: Syndrome de compression vasculaire fonctionnelle par artère poplitée piégée («entrapment syndrome») chez une patiente âgée de 28 ans ­présentant des douleurs de la jambe à l’effort. L’angio-IRM 4D révèle (A ) une perfusion normale de l’artère poplitée au repos, (B ) une sténose double de l’artère poplitée droite (flèche) et une rupture complète de l’artère poplitée gauche (flèche) en position de provocation avec flexion plantaire maximale, ainsi (C ) qu’une hypertrophie du muscle médial gastrocnémien avec piège poplité correspondant et compression vasculaire (flèche) déjà au repos.
+
+Comme le CECS, le PAES peut également être d’abord traité de manière conservatrice bien qu’un traitement chirurgical puisse toutefois être requis. Dans la plupart des cas (67%), une simple décompression vasculaire ­suffit. En présence de compressions de longue date avec ­répercussions secondaires, une thromboendartériectomie ou un pontage vasculaire peuvent néanmoins s’avérer nécessaires.
+
+Pour finir, il convient de souligner qu’il n’existe actuellement aucune voie d’étude randomisée, contrôlée et validée internationalement reconnue concernant le CECS, le PAES et d’autres causes de la douleur de la jambe à l’effort. C’est pourquoi il est essentiel de pratiquer un large diagnostic différentiel lors de l’examen et du traitement de patients présentant de tels symptômes, et de garder à l’esprit que de nombreux chemins mènent à Rome.
+
+Réponses
+
+
+Question 1: d. Question 2: c. Question 3: c. Question 4: e. Question 5: a.
