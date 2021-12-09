@@ -1,0 +1,2 @@
+pip install metanno --no-cache-dir
+pip install pandas spacy
