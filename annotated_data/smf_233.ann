@@ -1,0 +1,218 @@
+T1	disorder 132 143	 dermatoses
+T2	irrelevant 14 127	L’augmentation croissante des voyageurs vers des destinations tropicales exposera de plus en plus les praticiens 
+T3	irrelevant 171 236	 des trois principales causes de consultation au retour de voyage
+T4	irrelevant 242 337	Nous présentons ici un cas intéressant à intégrer dans le diagnostic différentiel au quotidien.
+T5	irrelevant 339 357	Description du cas
+T6	irrelevant 359 429	Une voyageuse de 46 ans en bonne santé habituelle se présente chez son
+T7	profession 430 449	médecin généraliste
+T8	disorder 464 479	lésions cutanée
+T9	anatomy 502 515	 coude gauche
+T10	disorder 521 533	état fébrile
+T11	profession 645 794	contacts étroits et réguliers avec des singes, des suricates, des mangoustes, des gazelles, des chèvres, des chevaux, des petits félins et des chiens
+T12	disorder 828 836	blessée 
+T13	disorder 967 1016	lésions pustuleuses en grappes au niveau du coude
+T14	disorder 1029 1068	une adénopathie axillaire ipsilatérale.
+T15	profession 894 963	Elle constate pendant la deuxième semaine de son ­séjour l’apparition
+T16	disorder 1080 1096	Lésions cutanées
+T17	irrelevant 1177 1241	Question 1: Quel diagnostic semble, a priori, le plus ­probable?
+T18	disorder 1247 1278	Une pyodermite à Staphylocoques
+T19	disorder 1283 1292	Une myase
+T20	disorder 1297 1311	Une nocardiose
+T21	disorder 1316 1332	Une bartonellose
+T22	disorder 1337 1354	Une sporotrichose
+T23	disorder 1356 1403	Les infections cutanées bactériennes à pyogènes
+T24	disorder 1490 1500	dermatoses
+T25	disorder 1569 1604	la leucocidine de Panton-Valentine 
+T26	disorder 1625 1644	infections cutanées
+T27	disorder 1625 1695	infections cutanées suppuratives sur peau saine à type de folliculites
+T28	disorder 1700 1709	furoncles
+T29	disorder 1715 1720	abcès
+T30	disorder 1737 1776	’infection à S. aureus sécrétant la PVL
+T31	disorder 1832 1848	asile érythréens
+T32	disorder 1996 2015	Les myases cutanées
+T33	disorder 2031 2093	infestation des tissus sous-cutanés par des larves de diptères
+T34	disorder 2187 2204	La lésion cutanée
+T35	disorder 2209 2237	une papule évoluant en nodul
+T36	risk 2094 2119	 Cordylobia anthropophaga
+T37	risk 2123 2144	Afrique subsaharienne
+T38	risk 2148 2166	Dermatobia hominis
+T39	risk 2377 2412	mouvements de la larve sous la peau
+T40	disorder 2419 2430	 infection 
+T41	disorder 2456 2466	dermatoses
+T42	disorder 2622 2642	maladies tropicales 
+T43	disorder 2648 2678	La nocardiose cutanée primaire
+T44	risk 2714 2735	Nocardia brasiliensis
+T45	risk 2737 2816	La contamination se fait par inoculation de cette bactérie présente dans le sol
+T46	disorder 2875 2889	brèche cutanée
+T47	disorder 2904 2925	La nocardiose cutanée
+T48	disorder 2978 2991	une pyodermie
+T49	disorder 2996 3028	nodules ou d’abcès sous-­cutanés
+T50	disorder 3064 3079	La bartonellose
+T51	disorder 3082 3110	 maladie des griffes du chat
+T52	disorder 3120 3150	nfection causée par Bartonella
+T53	anatomy 3177 3185	ganglion
+T54	disorder 3224 3241	Une plaie cutanée
+T55	disorder 3251 3262	surinfectée
+T56	procedure 3308 3328	drainage du ganglion
+T57	disorder 3366 3378	adénopathie 
+T58	risk 3428 3447	Sporothrix schenkii
+T59	disorder 3607 3627	 La lésion primitive
+T60	disorder 3651 3703	ne petite papule ou un nodule qui devient nécrotique
+T61	disorder 3712 3721	ulcéreuse
+T62	disorder 3724 3747	es nodules sous-cutanés
+T63	procedure 3835 3851	’examen clinique
+T64	drugs 3870 3882	clindamycine
+T65	irrelevant 3898 3981	Question 2: Quels examens demandez-vous avant ­l’introduction de l’antibiothérapie?
+T66	procedure 3994 4023	investigation microbiologique
+T67	procedure 4028 4050	Une coloration de Gram
+T68	procedure 4054 4077	une culture bactérienne
+T69	procedure 4082 4101	Une biopsie cutanée
+T70	procedure 4106 4139	Une sérologie Bartonella henselae
+T71	procedure 4144 4164	Une culture fongique
+T72	disorder 4213 4276	 infection bactérienne à S. aureus ou Streptocoques du groupe A
+T73	procedure 4282 4306	examens microbiologiques
+T74	procedure 4345 4366	La coloration de Gram
+T75	disorder 4387 4412	une infection bactérienne
+T76	procedure 4515 4529	 antibiogramme
+T77	disorder 4577 4587	la lésion 
+T78	disorder 4627 4675	suspicion clinique de S. aureus sécréteur de PVL
+T79	disorder 4677 4720	lésions dermatologiques abcédantes sévères 
+T80	procedure 4820 4877	recherche des gènes codant la PVL par méthode moléculaire
+T81	procedure 4918 4936	La biopsie cutanée
+T82	procedure 5053 5064	microscopie
+T83	procedure 5070 5088	immuno-histochimie
+T84	procedure 5094 5120	immunofluorescence directe
+T85	procedure 5126 5131	 PCR.
+T86	procedure 5133 5157	La sérologie B. henselae
+T87	disorder 5201 5223	la maladie des griffes
+T88	disorder 5242 5265	infection à bartonelles
+T89	disorder 5314 5348	suspicion anamnestique et clinique
+T90	risk 5350 5371	exposition aux félins
+T91	disorder 5390 5401	adénopathie
+T92	procedure 5479 5498	La culture fongique
+T93	procedure 5513 5585	ensemencement de squames sur un milieu de culture acide dit de Sabouraud
+T94	procedure 5616 5631	antifongigramme
+T95	disorder 5633 5776	Les colonies se développent en quelques jours à quelques semaines et sont identifiées sur la base de leur aspect macroscopique et microscopique
+T96	procedure 5778 5830	Un examen direct de squames dans une solution de KOH
+T97	procedure 5910 5924	Un prélèvement
+T98	procedure 5933 5952	 coloration de Gram
+T99	procedure 5956 5980	une culture bactérienne 
+T100	profession 6002 6009	médecin
+T101	disorder 6041 6057	lésions atypique
+T102	disorder 6067 6077	pyodermite
+T103	labvalue 6150 6158	négative
+T104	procedure 6171 6212	Coloration de Gram du pathogène incriminé
+T105	irrelevant 6357 6398	Question 3: Quel diagnostic retenez-vous?
+T106	disorder 6404 6435	Une pyodermite à Staphylocoques
+T107	disorder 6440 6457	Une sporotrichose
+T108	disorder 6462 6476	Une nocardiose
+T109	disorder 6481 6497	Une bartonellose
+T110	disorder 6502 6541	Une infection à mycobactéries atypiques
+T111	procedure 6545 6566	la coloration de Gram
+T112	procedure 6690 6704	culture aérobe
+T113	risk 6572 6600	ramifications gram-positives
+T114	procedure 7249 7252	PCR
+T115	procedure 7389 7392	PCR
+T116	profession 7423 7432	 médecine
+T117	irrelevant 7488 7557	Question 4: Quel est le premier choix de traitement de la nocardiose?
+T118	drugs 7563 7577	Co-trimoxazole
+T119	drugs 7582 7597	Co-amoxicilline
+T120	drugs 7601 7613	 Doxycycline
+T121	drugs 7618 7629	Fluconazole
+T122	drugs 7634 7649	Amphotéricine B
+T123	drugs 7699 7713	antimicrobiens
+T124	disorder 7755 7780	nocardiose cutanée isolée
+T125	drugs 8054 8067	cotrimoxazole
+T126	drugs 8097 8110	triméthoprime
+T127	drugs 8131 8147	sulfaméthoxazole
+T128	disorder 8213 8234	la nocardiose cutanée
+T129	drugs 8264 8295	amoxicilline-acide clavulanique
+T130	drugs 8301 8312	oxycycline,
+T131	procedure 8392 8405	antibiogramme
+T132	drugs 8448 8461	sulfonamides.
+T133	disorder 8565 8576	 nocardiose
+T134	irrelevant 8677 8769	Si aucune amélioration clinique n’est observée dans les 2 semaines suivant l’introduction de
+T135	drugs 8772 8784	antibiotique
+T136	irrelevant 8786 8831	il faut se poser la question d’une résistance
+T137	disorder 8952 8957	abcès
+T138	procedure 8973 8993	drainage chirurgical
+T139	drugs 9029 9037	Bactrim®
+T140	disorder 9129 9136	lésions
+T141	disorder 9158 9171	nodule cutané
+T142	procedure 9231 9251	drainage chirurgical
+T143	procedure 9255 9278	analyse microbiologique
+T144	disorder 9319 9328	La lésion
+T145	procedure 9368 9383	antibiothérapie
+T146	disorder 9411 9427	Lésions cutanées
+T147	disorder 9472 9485	nodule cutané
+T148	disorder 9672 9692	plaintes abdominales
+T149	disorder 9717 9727	nocardiose
+T150	profession 9749 9767	médecin urgentiste
+T151	irrelevant 9784 9851	Question 5: Quelles sont les atteintes possibles de la ­nocardiose?
+T152	disorder 9857 9867	Une pneumo
+T153	disorder 9857 9870	Une pneumonie
+T154	disorder 9875 9887	Une kératite
+T155	disorder 9892 9907	Une péricardite
+T156	disorder 9912 9929	Un abcès cérébral
+T157	disorder 9934 9963	Un pied de Madura ou mycétome
+T158	irrelevant 15444 15453;15456 15520;15521 15540	Réponses:   Question 1: a. Question 2: a ou b. Question 3: c. Question 4: a. Question 5: toutes.
+T159	disorder 10000 10018	infection primaire
+T160	disorder 10034 10044	inhalation
+T161	anatomy 10062 10073	les poumons
+T162	disorder 10097 10108	péricardite
+T163	disorder 10078 10090	médiastinite
+T164	disorder 10145 10176	 nocardiose pulmonaire primaire
+T165	disorder 10293 10314	abcès parenchymateux.
+T166	disorder 10315 10326	Les sclères
+T167	disorder 10383 10392	sclérites
+T168	disorder 10394 10403	kératites
+T169	disorder 10407 10420	endophtalmies
+T170	disorder 10438 10458	traumatisme de l’œil
+T171	disorder 10459 10477	 Le pied de Madura
+T172	disorder 10481 10508	mycétome est la conséquence
+T173	disorder 10514 10533	inoculation cutanée
+T174	disorder 10514 10545	inoculation cutanée de Nocardia
+T175	disorder 10577 10621	une infection chronique du tissu sous-cutané
+T176	disorder 10642 10664	la nocardiose cutanée 
+T177	disorder 10695 10719	dissémination hématogène
+T178	disorder 10858 10871	La nocardiose
+T179	disorder 11104 11120	lésions cutanées
+T180	drugs 11142 11161	Une antibiothérapie
+T181	drugs 11190 11203	cotrimoxazole
+T182	drugs 11238 11247	amikacine
+T183	disorder 11324 11342	nocardiose cutanée
+T184	disorder 11360 11379	infection purulente
+T185	disorder 12282 12298	atteinte cutanée
+T186	disorder 12402 12413	traumatisme
+T187	disorder 12638 12660	tteinte lympho-cutanée
+T188	disorder 12712 12738	infection cutanée primaire
+T189	disorder 12814 12827	 adénopathies
+T190	disorder 12834 12861	atteinte cutanée secondaire
+T191	disorder 12887 12897	nocardiose
+T192	disorder 12913 12931	infection primaire
+T193	disorder 12952 12963	ces lésions
+T194	disorder 13076 13092	cutanée primaire
+T195	disorder 13193 13213	infection systémique
+T196	disorder 13230 13255	antécédent de traumatisme
+T197	disorder 13283 13293	la lésion 
+T198	disorder 13355 13363	mycétome
+T199	disorder 13381 13413	infection sous-cutanée chronique
+T200	disorder 13522 13580	progresse en lésions indurées avec fistulisation à la peau
+T201	disorder 13718 13739	La nocardiose cutanée
+T202	disorder 13832 13853	 infections fongiques
+T203	disorder 13855 13868	sporotrichose
+T204	disorder 13875 13920	infections mycobactériennes non-tuberculeuses
+T205	disorder 13921 13949	 les infections bactériennes
+T206	disorder 13985 14012	les infections parasitaires
+T207	disorder 14044 14068	Le sarcome épithélioïde 
+T208	disorder 14195 14217	 la nocardiose cutanée
+T209	disorder 14261 14291	infections cutanées purulentes
+T210	disorder 14316 14327	traumatisme
+T211	disorder 14352 14358	lésion
+T212	procedure 14619 14640	la coloration de Gram
+T213	procedure 14939 14942	PCR
+T214	drugs 14993 15006	cotrimoxazole
+T215	drugs 15118 15136	nocardiose cutanée
+T216	disorder 15328 15355	atteinte cutanée secondaire
+T217	disorder 15366 15382	lésions cutanées
+T218	disorder 15263 15272	infection

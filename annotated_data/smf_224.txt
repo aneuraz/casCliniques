@@ -1,0 +1,121 @@
+Description du cas
+
+Une patiente de 43 ans consulte les urgences en raison de péjoration de lombalgies avec irradiations douloureuses dans la région sus-pubienne et vers les cuisses. Elle rapporte également la présence d’urines rouges que l’équipe soignante des urgences décrit comme brunâtres. La bandelette urinaire révèle la présence de leucocytes et de nitrites. La formule sanguine, la fonction rénale, la fonction hépatique et les électrolytes sont normaux. Devant la suspicion d’infection urinaire basse, un traitement de nitrofurantoïne est débuté. Elle est hospitalisée pour gestion de l’antalgie.
+
+La patiente est connue pour un trouble de la person­nalité de type borderline (traités par alprazolam et valproate sodique), un syndrome de dépendance aux opiacés (avec traitement de méthadone), une hépatite C inactive et un tabagisme actif à 43 unités paquet année. Six mois auparavant, elle a signalé des troubles sensitifs douloureux d’apparition subite aux membres inférieurs, troubles qui ont évolué de manière intermittente depuis.
+
+Elle est hospitalisée une première fois, deux mois avant la présente admission, pour investigation d’une parésie proximale symétrique des ceintures, de déficits sensitifs en selle et d’une hypoesthésie tacto-algique au-dessous du nombril. Une myélopathie thoracique ischémique est suspectée, mais l’imagerie par résonnance magnétique (IRM) du dos est sans particularité. Devant une suspicion qui persiste, un traitement d’acide acétylsa­licylique faiblement dosée est débuté. Les sérologies pour le virus de l’hépatite B, le virus de l’immunodé­ficience humaine, le virus T-lymphotropique humain, la maladie de Lyme et la Syphilis reviennent alors toutes négatives. Un dépistage de la tuberculose par TB-spot revient également négatif.
+
+Lors de l’hospitalisation actuelle la patiente ne signale pas d’algurie mais indique avoir des douleurs abdominales diffuses nouvelles et des douleurs des cuisses et jambes lui rappelant ses douleurs antérieures. Elle confirme la présence transitoire d’urines rouges et rapporte avoir perdu cinq kilogrammes en cinq mois.
+
+L’examen clinique est difficile. La patiente est très algique et démontre une collaboration fluctuante, associée parfois à une logorrhée et une fuite des idées. On retrouve une cachexie et une baisse de l’état général. Il n’y a pas de clairs signes de déficits moteurs. La station debout est d’ailleurs possible. L’hypoesthésie au-dessous du nombril est à nouveau retrouvée. Les réflexes sont hypovifs mais symétriques. La manœuvre de Lasègue est négative mais la région lombaire est douloureuse à la palpation. Les téguments sont sans particularité.
+
+Question 1: Quelle mesure vous semble la moins pertinente à ce stade?
+
+a) Rechercher une consommation de substance susceptible de colorer les urines (jus de betterave, rifampicine, etc.)
+
+b) Répéter le sédiment urinaire
+
+c) Réaliser un examen de microscopie à contraste de phase des urines
+
+d) Répéter l’IRM médullaire
+
+e) Reprendre l’anamnèse médicamenteuse
+
+La patiente ne consomme pas de jus de betterave. Une bandelette urinaire et un examen de microscopie à contraste de phase effectués ne retrouvent aucun érythrocyte. Un sédiment urinaire est effectué quelques jours plus tard lorsque la patiente indique avoir un nouvel épisode d’urines rouges/foncées et ne retrouve aucun érythrocyte alors que les urines sont effectivement foncées (fig. 1).
+
+Figure 1: urine couleur «porto» retrouvée chez notre patiente après exposition à la lumière.
+
+L’IRM n’est pas très sensible pour démontrer une ischémie médullaire, raison pour laquelle elle n’est pas ­répétée. L’anamnèse médicamenteuse apporte les précisions suivantes: au traitement habituel de quétiapine et de lorazepam, un traitement d’alprazolam et d’acide valproïque a été préféré un mois plus tôt par son médecin psychiatre.
+
+Question 2: Quel diagnostic suspectez-vous en premier lieu?
+
+a) Une ischémie médullaire
+
+b) Une hémoglobinurie paroxystique nocturne
+
+c) Un trouble somatoforme
+
+d) Un syndrome paranéoplasique avec neuropathie périphérique et une dysautonomie
+
+e) Une porphyrie aiguë
+
+La fluctuation des troubles sensitifs et de l’examen rend une ischémie médullaire improbable. Une hémoglobinurie paroxystique nocturne s’accompagne d’une hémolyse avec anémie, non retrouvée ici. Un trouble somatoforme ou fonctionnel est un diagnostic d’exclusion et plusieurs éléments objectifs précédemment évoqués viennent infirmer cette hypothèse. Un cancer pourrait expliquer la perte pondérale et peut s’accompagner d’une neuropathie périphérique et une dys­autonomie; cette hypothèse n’explique toutefois pas pourquoi les urines sont rouges en l’absence d’héma­turie. La constellation urines rouges/foncées, douleurs abdominales, symptômes neurologiques et troubles psychiatriques chez une femme en âge de procréer suggère une porphyrie aiguë (PA) [1] (tab. 1).
+
+Tableau 1: Manifestations cliniques courantes lors de la crise de PA (adapté de [2]).
+Symptômes	Douleurs abdominales souvent sévères, mal systématisées, pouvant aussi toucher le dos, les bras et les jambes
+Nausée, vomissement, constipation
+Insomnie, agitation, anxiété, confusion, psychose avec ­hallucinations et trouble du comportement
+Signes cliniques	Urine foncée ou devenant plus foncée (voir rouge-orangée) lors de l’exposition à la lumière
+Lésions cutanées bulleuses pouvant toucher les zones ­photo-exposées qui sont inconstantes
+Hypertension, tachycardie, arythmie
+Neuropathie périphérique motrice. Dysphagie, rétention ­urinaire aiguë ou incontinence, progression possible vers la parésie flasque, ou l’insuffisance respiratoire
+Convulsions.
+
+Les porphyries constituent un groupe de troubles innés ou acquis du métabolisme dus à des déficits enzymatiques intervenant dans la biosynthèse de l’hème [3, 4]. Ces déficits enzymatiques entraînent une accumulation de porphyrines et/ou de leurs précurseurs que sont le porphobilinogène (PBG) et l’acide delta aminolévu­linique (ALA) dans le foie ou la moelle osseuse, où les besoins en hème et son turnover sont maximaux. Ces précurseurs semblent neurotoxiques sans que le mécanisme exact ne soit complètement élucidé [3]. Les déficits enzymatiques résultent de mutations des gènes codants correspondants (fig. 2). La porphyrie intermittente aiguë, qui est due à une déficience partielle de la PBG-deaminase, est la forme de PA la plus souvent rencontrée en pratique clinique [3].
+
+Figure 2: Les huit étapes nécessaires à la biosynthèse de l’hème humaine sont représentées. Le nom des différents précurseurs de l’hème est indiqué en noir. Le nom de chacune des enzymes impliquées est indiqué en vert. Les porphyries dont le nom est en violet peuvent se manifester par un tableau de porphyrie aiguë. Celles dont le nom est en bleu ne se manifestent en ­revanche pas de manière aiguë. Les porphyries dont le nom est en gras sont celles dont l’incidence est la plus élevée. Les porphyries dont le nom est souligné, sont les porphyries cutanées les plus prévalentes (adapté de [4]).
+
+Question 3: Laquelle de ces mesures n’a pas sa place à ce stade?
+
+a) Dosage quantitatif du porphobilinogène (PBG) et l’acide δ-aminolévulinique (ALA) urinaire
+
+b) Réaliser un scanner thoraco-abdomino-pelvien
+
+c) Réaliser un examen neurologique avec mesure des paramètres de la conduction nerveuse
+
+d) Débuter une antalgie par morphine
+
+e) Arrêter le traitement d’acide valproïque
+
+Chez notre patiente, la valeur de PBG/créatinine était de 60,7 mmol/mmol (norme <1,25) confirme une crise de PA. La réalisation d’un scanner thoraco-abdominal à la recherche d’une néoplasie pouvant signer un syndrome paranéoplasique n’entre par conséquent pas en ligne ce compte. L’évolution clinique sur les dix jours suivants l’admission est défavorable. Nos collègues neurologues concluent à une tétraplégie proximale aréflexique avec douleurs neuropathiques intenses imputables à une crise de PA. Les données électrophysiologiques sont compatibles avec une neuropathie motrice et sensitive difficile à dater. Les opiacés sont le traitement de première ligne des douleurs neuro­pathiques mais sont peu efficaces. Les AINS ou les agents anesthésiques peuvent par contre déclencher des crises et sont à proscrire [7]. Une liste complète des médicaments sûrs ou au contraire porphyrinogéniques, peut être trouvée sous www.drugs-porphyria.org. L’acide valproïque, étant porphyrinogénique, a immédiatement été mis en suspens.
+
+Question 4: Quel(s) autre(s) facteur(s) précipitant(s) d’une crise de PA doit (doivent) être pris en charge?
+
+a) Alcool/tabac/cannabis
+
+b) Hépatite C
+
+c) Restriction calorique
+
+d) Contraception à base d’estrogènes
+
+e) Réponse a), c), d)
+
+La consommation d’alcool, de tabac et de cannabis, ainsi que la restriction calorique et la contraception à base d’estrogènes (y compris les variations hormonales endogènes liées au cycle menstruel) sont des facteurs de susceptibilité décrits d’une crise de PA [2]. On préconisera par conséquent l’arrêt du tabac/cannabis/alcool et pri­vilégiera des méthodes de contraception alternatives. Il existe une forte association entre la porphyrie cutanée tardive et l’hépatite C [3]. Cette association n’a pas été ­décrite pour les autres sous-types de porphyries (fig. 2).
+
+Question 5: Quel(s) est (sont) l’ (les) élément(s) important(s) de la prise en charge?
+
+a) Hème arginate (Normosang®) 3–4 mg/kg/j IV
+
+b) Augmentation de l’apport calorique oral
+
+c) Solution de Glucose 10 ou 20% (min 3–5 mg/kg/j)
+
+d) Monitoring respiratoire, neurologique et des troubles électrolytiques
+
+e) Toutes les propositions
+
+La première mesure consiste à stopper la prise ou l’administration d’agents pharmacologiques à risque, suivi du traitement d’hème arginate (3–4 mg/kg IV en 30 à 40 minutes 1×/j) pour un minimum de quatre jours [2–4]. L’hème arginate agit principalement en exerçant un rétrocontrôle négatif sur l’ALA synthase hépatique (fig. 2) et en inhibant par conséquent la formation de précurseurs neurotoxiques.
+
+Lorsque des atteintes nerveuses motrices sont observées, une résolution complète de l’épisode peut être ­observée. En cas d’atteinte sévère avec tétraparésie et atteinte de la musculature respiratoire, la faiblesse musculaire peut par contre en partie persister [3, 8]. Un suivi des taux de PBG urinaire après l’administration de la troisième dose d’hème arginate, permettra de monitorer la réponse biologique. Il est également recommandé de maintenir des apports nutritifs oraux adéquats visant à couvrir 55–60% des besoins énergétiques de base au moyen d’hydrates de carbone. Une sonde ­nasogastrique devrait être posée si les apports per os sont limités par des nausées et vomissements. L’administration de solutions hypertoniques contenant du glucose ne devrait se faire que de manière prudente, au vu du risque de péjorer une hyponatrémie fréquemment associée au tableau clinique, elle-même souvent compliquée de crises comitiales (tab. 1 et [2]). Une surveillance neurologique rapprochée est de ce fait également indiquée. L’étiologie de l’hyponatrémie n’est par contre pas claire. Elle pourrait être consécutive à un syndrome de sécrétion inappropriée d’hormone antidiurétique et/ou à des pertes rénales ou intestinales de sodium liées aux atteintes des organes correspondants [2]. Le monitoring respiratoire est justifié par le risque de paralysie des muscles respiratoires.
+
+L’évolution clinique de notre patiente est défavorable, marquée par la péjoration rapide d’une tétraparésie très douloureuse malgré l’initiation du traitement d’hème arginate à raison de 150 mg/dose/jour. Une réponse biologique adéquate à ce traitement (normalisation des taux de PBG urinaire) est pourtant observée. L’antalgie se révèle très difficile à gérer malgré l’aide apportée par nos collègues des soins palliatifs. Elle se complique encore d’une pneumonie d’aspiration entrainant une détresse respiratoire. La patiente mentionnant le souhait de mourir à de nombreuses reprises et voulant interrompre les soins, nous instaurons des soins de confort selon sa volonté et celle de sa famille. Elle décède entourée de ses proches 28 jours après son entrée à l’hôpital. L’autopsie réalisée a confirmé la présence d’une bronchopneumonie sévère des deux plages pulmonaires pouvant expliquer le décès.
+
+Discussion
+
+La triade réunissant crise d’épilepsie, symptômes neuro-viscéraux inexpliqués (douleurs abdominales, paresthésies douloureuses) et hyponatrémie, est fortement suggestive d’une porphyrie. Sur le plan pratique, le ­dosage du PBG urinaire est effectué sur un échantillon de 10 mL d’urines fraiches protégées de la lumière. Les résultats sont normalisés par rapport à la concentration de créatinine urinaire. Une récolte urinaire de 24 heures n’est pas nécessaire et retarde inutilement le diagnostic [5]. En Suisse, le dosage est pratiqué au centre de référence national du Stadtspital Triemli de Zürich et l’examen est demandé en urgence. Pour la prise en charge, il est recommandé de prendre contact avec un centre universitaire (Centre des Maladies Moléculaires, CHUV et/ou Service d’Hématologie, CHUV/HUG pour la Suisse Romande) et/ou de se mettre directement en contact avec le centre d’expertise national (Triemli Spital, Zurich, Dr méd. Anna Minder ou Dr Jasmin Barman-Aksözen).
+
+Dans la démarche diagnostique, le dosage de l’ALA permet de distinguer la crise de PA d’une intoxication au plomb. Ces deux entités peuvent en effet causer un ­tableau clinique similaire. L’intoxication au plomb est toutefois associée à une augmentation de l’ALA urinaire uniquement, le PBG restant dans la norme. En cas de taux de PBG urinaires élevés, la confirmation d’une PA et de son sous-type se fera par un dosage des porphyrines dans le sang, les urines et les selles, suivie d’une mesure de l’activité enzymatique de la PBG-déaminase et d’une mesure du spectre de fluorescence plasmatique qui orientera sur la hauteur du bloc enzymatique [5, 6].
+
+Dans le cas de notre patiente, après avoir démontré un taux élevé de PBG urinaire, l’activité de la PBG-déa­minase érythrocytaire était normale ce qui parlait en défaveur d’une porphyrie intermittente aiguë alors que la fluorescence plasmatique retrouvait un pic à la longueur d’onde de 625,5 nm, suggérant une porphyrie ­variegata. La recherche d’une mutation du gène PPOX – codant pour la protoporphyrinogène oxydase – a mis en évidence une mutation faux-sens à l’état hétérozygote dans l’exon 11 pathogène. Un conseil génétique sera par la suite proposé à la famille, afin d’identifier les individus susceptibles de développer ou de transmettre la maladie. La porphyrie variegataest une forme mixte (fig. 2) pouvant se caractériser par des crises aiguës dans lesquelles l’atteinte cutanée est inconstante [3]. La prise en charge de la crise de PA est la même, quel qu’en soit le sous-type. Le traitement consiste à administrer de hème arginate à raison de 3–4 mg/kg/jour IV pour une durée minimale de 4 jours.
+
+Sites d’intérêt
+ 
+ 
+ 
+ 
+Réponses:
+
+
+Question 1: d; Question 2: e; Question 3: b; Question 4: e; Question 5: e.

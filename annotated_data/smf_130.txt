@@ -1,0 +1,59 @@
+Contexte
+
+Les anesthésiques volatils, tels que le sévoflurane, sont rarement utilisés en dehors du cadre anesthésiologique. Il existe des rapports de cas et revues isolés sur son utilisation en médecine intensive dans l’asthme aigu grave réfractaire au traitement. Ces publications ont montré les différents avantages et inconvénients de son utilisation clinique et indiquent le potentiel salvateur des anesthésiques volatils en cas d’asthme aigu extrêmement grave [1–3].
+
+Nous présentons une patiente chez qui l’utilisation du sévoflurane en tant que bronchodilatateur pendant plusieurs jours en unité de soins intensifs a amélioré l’état respiratoire. Toutefois, des effets indésirables et effets spécifiques à ce médicament se sont également présentés.
+
+Présentation du cas
+Anamnèse
+
+Une patiente âgée de 59 ans a été transférée en urgence en unité de soins intensifs chirurgicaux suite à la prise en charge chirurgicale d’un iléus mécanique de l’intestin grêle survenu dans le cadre d’une hernie de la paroi abdominale subombilicale incarcérée.
+
+L’anamnèse a révélé un asthme bronchique sévère ayant déjà nécessité par le passé une intubation dans le cadre d’exacerbations multiples avec insuffisance respiratoire hypercapnique. La situation respiratoire avait en outre été aggravée par un trouble ventilatoire obstructif, un déficit en sous-classes d’immunoglobulines, des pneumonies récidivantes et deux précédentes embolies pulmonaires. La patiente souffrait par ailleurs de diabète sucré, d’obésité et d’une épilepsie idiopathique.
+
+Résultats
+
+Lors de son admission en unité de soins intensifs, la ­patiente était intubée et sédatée par propofol. Il n’a pas pu être procédé à une extubation en raison de l’obstruction bronchique sévère. Dans le cadre du traitement conforme aux lignes directrices de l’asthme aigu grave [4], nous avons utilisé du bromure d’ipratropium, du salbutamol, du magnésium, de l’hydrocortisone, du budésonide et de la kétamine. Malgré ce traitement, l’asthme aigu grave a persisté et une ventilation suffisante n’a pas pu être atteinte, même avec des pressions de ventilation élevées. Les gazométries artérielles ont montré une hypercapnie (8,5–10,5 kPa) et une acidose (pH jusqu’à 7,16), avec une PaO2 dans la norme (10–12 kPa).
+
+Traitement et évolution
+
+Le premier jour suivant l’opération, une asystolie est survenue lors d’une phase de ventilation asynchrone. Après une réanimation de trois minutes avec «return of spontaneous circulation» (ROSC) consécutif et en présence d’une obstruction bronchique extrêmement sévère, il a été décidé de passer à un traitement par sévoflurane. L’anesthésique volatil a été administré en unité de soins intensifs au moyen d’un «anaesthetic conserving device» (AnaConDa®) et de l’appareil de ventilation de l’unité de soins intensifs. Par ce biais, une bronchodilatation et une ventilation stable ont lentement pu être atteintes chez la patiente. Toutefois, le deuxième jour suivant l’opération, des pupilles dilatées ne réagissant pas à la lumière ont été remarquées chez la patiente sous sédation par sévoflurane, avec une concentration alvéolaire minimale (CAM) entre 0,7 et 0,9. L’administration de sévoflurane a été réduite pour le transport vers le tomodensitomètre (TDM), puis interrompue. La TDM crânienne n’a pas montré de pathologies aiguës. Après la chute de la CAM, les ­pupilles étaient moyennement dilatées et réagissaient à nouveau rapidement à la lumière. La bronchodilatation par sévoflurane a été reprise et continuée pendant dix jours. Le traitement est ensuite passé à une analgo-­sédation intraveineuse.
+
+La situation abdominale s’est détériorée à vue d’œil. Suite à plusieurs re-laparotomies et en présence d’un sepsis sévère persistant, un changement de l’objectif thérapeutique («redirection of care») a été décidé en concertation avec les proches après 21 jours en raison du pronostic global très défavorable et en accord avec la volonté déclarée de la patiente. La patiente est dé­cédée suite à un choc septique avec défaillance multiviscérale.
+
+Discussion
+
+Outre les propriétés sédatives et analgésiques recherchées du sévoflurane, l’effet bronchodilateur du médicament a joué un rôle central dans le présent cas: le sévoflurane a permis de traiter l’obstruction bronchique dans une mesure telle qu’une ventilation suffisante a été possible pendant plusieurs jours chez cette patiente gravement malade.
+
+Le mécanisme précis de la bronchodilatation des anesthésiques volatils n’est jusqu’à présent pas élucidé. Une stimulation directe des récepteurs β2-adrénergiques, une inhibition de la stimulation vagale ainsi qu’une suppression des médiateurs bronchoconstricteurs sont supposées. D’autres mécanismes liés à l’épithélium, qui impliquent notamment des messagers tels que le monoxyde d’azote, semblent également jouer un rôle [5].
+
+Les propriétés potentiellement cardioprotectrices des anesthésiques volatils dans la prise en charge des patients de chirurgie cardiaque sont quant à elles déjà connues et font actuellement l’objet de recherches [6]. Les potentielles propriétés de protection pulmonaire de ces médicaments font également l’objet de différentes études. Il a été montré que la sédation par sévoflurane pendant 48 heures améliorait l’oxygénation par rapport au midazolam chez les patients atteints de «acute respiratory distress syndrom» (ARDS) [7]. Un ­effet protecteur induit par le sévoflurane peut en outre être supposé du fait de la réduction de sRAGE (marqueur des lésions de l’épithélium pulmonaire) et des cytokines pro-inflammatoires (IL-6, TNF-α, IL-8) [7]. Une autre étude montre également une réduction significative des cytokines inflammatoires chez les patients de chirurgie thoracique après ventilation unipulmonaire avec administration de sévoflurane [8]. Dans une étude multicentrique prospective randomisée et contrôlée, une différence significative n’a toutefois pas pu être montrée entre le desflurane et le propofol en termes de complications postopératoires graves dans le cadre des interventions chirurgicales thoraciques avec ventilation unipulmonaire [9]. La question de savoir si les propriétés protectrices mentionnées des anesthésiques ­volatils apportent des bénéfices significatifs dans le quotidien clinique semble toujours controversée.
+
+En 2017, Shutes et al. ont publié un cas pédiatrique [3] portant sur un patient âgé de 16 ans atteint d’asthme aigu grave réfractaire qui a été traité par sévoflurane en unité de soins intensifs pédiatriques au moyen d’un appareil de ventilation d’anesthésie. Ce cas a souligné la problématique logistique de l’administration de sévoflurane au moyen d’un appareil d’anesthésie en dehors de la salle d’opération.
+
+Un autre cas de Daniel Ng et al. [2] décrit la situation observée en 2015 chez un jeune homme atteint d’asthme aigu grave qui, après intubation, présentait une saturation de 60% pour des pressions maximales de 50 cm H2O malgré un traitement par albutérol, méthylprednisolone, adrénaline et magnésium. Le patient a ensuite été transporté en salle d’opération, où l’obstruction bronchique a été traitée avec succès par sévoflurane.
+
+Dans les deux exemples de cas, un appareil de ventilation d’anesthésie de la salle d’opération a été utilisé. Il existe toutefois la possibilité d’administrer le sévo­flurane sans appareil de ventilation d’anesthésie, par ­vaporisation. L’«anaesthetic conserving device», abrégé en AnaConDa®, a déjà été lancé sur le marché en 2005. Conçu de façon similaire au filtre de ventilation HME («heat and moisture exchanger») et monté entre la pièce Y et le patient, il permet une administration contrôlée et une réutilisation du sévoflurane (fig. 1). AnaConDa® retient environ 90% du sévoflurane lors de l’expiration et le dispense à nouveau au patient lors de l’inspiration suivante. Les 10% restants sont absorbés par l’appareil de ventilation via un filtre à gaz résiduel. Au moyen d’une seringue pour perfusion, du sévoflurane frais est injecté directement dans l’AnaConDa® via une tubulure de connexion, vaporisé et ainsi remplacé (fig. 2) [10, 11].
+
+Figure 1: Utilisation d’AnaConDa®entre la pièce Y et le tube de ventilation
+(reproduction avec l’aimable autorisation de Sedana Medical AB, Suède).
+
+Figure 2: Expiration: l’anesthésique volatil est absorbé par le réflecteur pendant que l’air respiré restant est évacué (reproduction avec l’aimable autorisation de Sedana Medical AB, Suède).
+
+Notamment en ce qui concerne notre exemple de cas, il convient ici de mentionner le volume d’espace mort élevé de l’AnaConDa® d’environ 100 ml, ou de 50 ml pour le dernier modèle AnaConDa-S® lancé sur le marché en 2017. Sturesson et al. ont en outre montré que l’AnaConDa® absorbe une partie du CO2 expiratoire et le libère à nouveau lors de l’inspiration. Précisément pour les patients chez qui une ventilation préservant les poumons est visée, ces propriétés pourraient rendre l’élimination du CO2 plus difficile [12].
+
+L’utilisation du sévoflurane en unité de soins intensifs pour le traitement de l’asthme aigu grave est sans aucun doute très rare dans la pratique quotidienne de médecine intensive. Après évaluation des clichés de TDM crânienne, dans notre exemple de cas, nous pouvons rétrospectivement supposer une excitation ou un surdosage de sévoflurane, car une mydriase peut être observée non seulement en cas de concentrations cérébrales élevées mais aussi en cas de concentrations cérébrales faibles de l’anesthésique (fig. 3). En raison de la valeur de CAM documentée, des valeurs de l’indice bispectral (BIS) entre 45 et 49 rapidement observées et de la situation hémodynamique relativement stable à ce moment-là, aucune des deux possibilités ne peut être définitivement confirmée ou exclue.
+
+Figure 3: Classification des stades de l’anesthésie à l’éther pour une compréhension globale de l’anesthésie
+
+(Arthur E. Guedel 1993 [Copyrighted free use], https://commons.wikimedia.org/wiki/File:Guedel_Narkosestadien.jpg).
+
+L’essentiel pour la pratique
+
+• Notre rapport de cas montre que l’utilisation du sévoflurane a également d’autres applications en dehors du cadre anesthésiologique, telles que la sédation ou le traitement de l’état asthmatique dans les unités de soins intensifs.
+
+• Grâce à la possibilité d’administration au moyen d’un «aesthetic conserving device» (AnaConDa®), l’appareil de ventilation de soins intensifs auquel le personnel est familiarisé peut être utilisé à la place de l’appareil de ventilation d’anesthésie.
+
+• Tous les aspects de l’action pharmacologique des anesthésiques volatils doivent être pris en compte. L’utilisation à forte dose de sévoflurane, qui peut être nécessaire pour le traitement de l’état asthmatique, peut entraîner des signes cliniques d’excitation ou de surdosage pendant l’administration et le retrait de l’anesthésique volatil.
+
+• Il convient également d’anticiper les éventuels problèmes liés à ce mode d’administration, tels que l’élimination réduite du CO2 en raison de ­l’espace mort plus grand et de la rétention de C02 d’AnaConDa®.

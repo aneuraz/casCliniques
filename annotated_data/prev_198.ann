@@ -1,0 +1,12 @@
+T1	disorder 48 75	parodontopathies terminales
+T2	disorder 138 151	dents cariées
+T3	procedure 541 582	suppression des surplombs osseux linguaux
+T4	procedure 651 694	insertion d’une prothèse adjointe partielle
+T5	procedure 1031 1064	ablation totale des dents du haut
+T6	procedure 1096 1126	Meulage des tori mandibulaires
+T7	procedure 1862 1903	prothèses provisoires sont mises en place
+T8	disorder 1968 1990	blessures prothétiques
+T9	procedure 2365 2382	guide chirurgical
+T10	procedure 3282 3319	rétention de la prothèse mandibulaire
+T11	procedure 2976 2985	rebasage 
+T12	procedure 2988 3050	adjonction de résine afin de remouler l'intrados des prothèses

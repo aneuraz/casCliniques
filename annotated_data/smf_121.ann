@@ -1,0 +1,107 @@
+T1	irrelevant 7772 7782;7784 8192	Discussion  La NMO est une maladie inflammatoire auto-immune du SNC atteignant typiquement les nerfs optiques et la moelle épinière. Cliniquement, la NMO se manifeste par des troubles de la vision, des parésies, des troubles de la sensibilité et une dysfonction vésicale. En cas ­d’atteinte du tronc cérébral, et notamment de l’area postrema, des nausées, un hoquet et une insuffisance respiratoire peuvent survenir [1].
+T1	irrelevant 8194 8582;8584 10026	La majorité des patients présentent une évolution ­progressive de la maladie avec des poussées répétées. Des évolutions monophasiques ont plus rarement été décrites. Au total, les maladies du spectre de la NMO touchent en moyenne 2/100 000 personnes. Les femmes sont plus touchées que les hommes, et les ­populations non caucasiennes sont davantage touchées que la population caucasienne.  La maladie a initialement été décrite en tant que syndrome optico-spinal avec névrite optique et myélite transverse simultanées par Eugene Devic (syndrome de Devic) en 1894. La distinction, notamment avec la SEP, est longtemps restée floue. C’est uniquement avec le développement des procédés d’imagerie et des analyses du LCR que des différences croissantes ont émergé. Contrairement à la SEP, en cas de NMO, des bandes oligoclonales ne sont en principe pas mises en évidence dans le LCR, il est plus fréquent que l’IRM ­cérébrale soit normale, et les démyélinisations de la moelle épinière sont plus étendues. Si des démyélini­sations cérébrales surviennent tout de même dans la NMO, elles sont typiquement localisées le long du 3e et du 4e ventricule latéral. Ce n’est qu’avec la découverte en 2004 de l’auto-anticorps sérique hautement spécifique dirigé contre le canal de l’aquaporine-4 (IgG anti-­AQP4) que la NMO a été consolidée en tant qu’entité propre. Toutefois, environ 30% de tous les patients ­atteints de NMO sont négatifs pour les IgG anti-AQP4, et un anticorps dirigé contre la myéline oligodendro­cytaire (IgG anti-MOG) peut être mis en évidence chez environ un quart d’entre eux [2]. En 2007, le terme «NMO spectrum disorder» (NMOSD) a été créé, regroupant à la fois la NMO classique et les formes incomplètes. En 2015, les critères pour la pose du diagnostic de NMOSD, qui sont aujourd’hui en vigueur, ont été établis [3].
+T1	irrelevant 10028 10348;10350 11025	Les mécanismes précis de survenue de la maladie ne sont pas élucidés. L’Ac anti-AQP4 lui-même semble jouer un rôle central dans la pathogenèse, car en se liant aux canaux astrocytaires dans le SNC, il contribue directement à l’inflammation, à la démyélinisation et à la lyse des cellules cibles médiée par le complément.  Les poussées aiguës sont traitées par une corticothérapie de choc. En l’absence de réponse, une plasmaphérèse peut être envisagée. Pour prévenir les récidives, une immunosuppression est recommandée pendant au moins cinq ans. Les stéroïdes sont souvent associés à de l’azathioprine, du mycophénolate mofétil ou du ­rituximab, mais il n’existe aucune comparaison directe dans des études prospectives. Fait intéressant, les traite­ments immunomodulateurs classiques contre la SEP sont inefficaces voire potentiellement néfastes. Le pronostic de la NMO est plus mauvais que celui de la SEP, les poussées sont souvent plus sévères et le ­rétablissement neurologique est moins bon.
+T1	irrelevant 11027 11941;11943 11971	Dans la littérature, les hyponatrémies touchent environ 15% de tous les patients atteints de NMOSD et un SIADH est présent chez la plupart d’entre eux, comme chez notre patient [4]. De potentiels mécanismes du SIADH dans les NMOSD sont les affections immunologiques de l’hypothalamus riche en AQP4, avec sortie d’ADH, ou de l’organe circumventriculaire, également impliqué dans la régulation de l’équilibre sodique. Etant donné que les NMOSD, contrairement à la SEP, ­affectent préférentiellement l’hypothalamus, le SIADH survient plus souvent que dans la SEP. Une cause bien plus rare d’hypo­natrémie dans de nombreuses maladies neurologiques cérébrales est le syndrome de perte de sel d’origine cérébrale. Ce dernier ne se différencie guère du SIADH au niveau des analyses de laboratoire, mais il s’accompagne d’une déshydratation clinique due à une polyurie induite par une excrétion rénale de sodium excessive.  L’essentiel pour la pratique
+T1	irrelevant 11973 12119;12121 12376	• Lors du diagnostic différentiel des hyponatrémies, surtout en cas de constellation de SIADH, il convient de penser à des maladies neurologiques.  • En cas de névrite optique et de myélite longitudinale étendue, il convient de songer à une neuromyélite optique (NMO). Les anticorps IgG anti-­AQP4 sont hautement spécifiques, mais il existe également des NMOSD avec des anticorps IgG anti-AQP4 négatifs.
+T1	irrelevant 12378 12569;12571 12742	• Lors de la poussée aiguë, la NMO est traitée avec une corticothérapie de choc, et par plasmaphérèse dans les cas graves. Une immunosuppression est mise en œuvre pour prévenir les récidives.  • La distinction avec la sclérose en plaques (SEP) est centrale sur le plan thérapeutique, car les médicaments anti-SEP classiques peuvent potentiellement aggraver la NMO.
+T2	disorder 36 62	neuromyélite optique (NMO)
+T3	disorder 132 144	hyponatrémie
+T4	disorder 167 234	syndrome de sécrétion inappropriée d’hormone antidiurétique (SIADH)
+T5	disorder 401 428	parésie de la jambe gauche 
+T6	disorder 460 477	rétention urinair
+T7	disorder 491 514	hypertension artérielle
+T8	disorder 627 634	 hoquet
+T9	disorder 655 678	épisode de vision floue
+T10	disorder 904 918	 hyponatrémie 
+T11	disorder 957 963	 SIADH
+T12	disorder 844 861	humeur dépressive
+T13	disorder 992 1004	hyponatrémie
+T14	procedure 1060 1088	traitement antihypertenseur 
+T15	drugs 1093 1146	nhibiteur de l’enzyme de conversion de l’angiotensine
+T16	risk 1170 1199	consommation ­accrue d’alcool
+T17	procedure 1265 1300	restriction des apports liqui­diens
+T18	procedure 1308 1363	interruption temporaire du traitement ­antihypertenseur
+T19	disorder 1387 1413	troubles de la sensibilité
+T20	procedure 2068 2088	examen neurologique 
+T21	disorder 2118 2130	 myélopathie
+T22	disorder 2155 2180	syndrome de Brown-Séquard
+T23	disorder 2208 2240	forte parésie de la jambe gauche
+T24	disorder 2296 2336	signe de Babinski positif des deux côtés
+T25	disorder 2353 2378	trouble sensitif dissocié
+T26	disorder 2405 2446	hypoesthésie et hypoalgésie du côté droit
+T27	disorder 2451 2484	tonus sphinctérien était affaibli
+T28	procedure 2628 2651	analyses de laboratoire
+T29	disorder 2677 2701	hyponatrémie hypotonique
+T30	disorder 2726 2732	SIADH 
+T31	procedure 2904 2907	TSH
+T32	labvalue 2908 2915	normale
+T33	procedure 2923 2952	dosage de la cortisone à jeun
+T34	procedure 3155 3161	Sodium
+T35	labvalue 3162 3172	125 mmol/l
+T36	procedure 3188 3197	Potassium
+T37	labvalue 3198 3208	4,3 mmol/l
+T38	procedure 3224 3234	Créatinine
+T39	labvalue 3235 3244	70 μmol/l
+T40	procedure 3259 3263	Urée
+T41	labvalue 3264 3275	3,8 mmol/l	
+T42	procedure 3290 3300	Osmolarité
+T43	labvalue 3301 3314	265 mosmol/kg
+T44	procedure 3333 3336	TSH
+T45	labvalue 3337 3346	0,62 mU/l
+T46	procedure 3372 3378	Sodium
+T47	labvalue 3379 3389	69 mmol/l	
+T48	procedure 3391 3401	Potassium	
+T49	labvalue 3401 3411	15 mmol/l	
+T50	procedure 3413 3423	Osmolarité
+T51	labvalue 3424 3439	277 mosmol/kg	 
+T52	disorder 3465 3486	SIADH paranéoplasique
+T53	procedure 3574 3602	tomodensitométrie thoracique
+T54	disorder 3761 3767	SIADH 
+T55	disorder 3847 3853	SIADH 
+T56	disorder 3901 3931	 maladie neurologique primaire
+T57	procedure 3978 4030	 imagerie par résonance magnétique (IRM) rachidienne
+T58	procedure 4458 4462	IRM,
+T59	procedure 4585 4588	IRM
+T60	procedure 4837 4840	IRM
+T61	procedure 5247 5250	IRM
+T62	procedure 5397 5414	ponction lombaire
+T63	disorder 5432 5457	pléïocytose lymphocytaire
+T64	labvalue 5461 5475	50 cellules/μl
+T65	procedure 5682 5689	glucose
+T66	procedure 5693 5700	lactate
+T67	labvalue 5701 5709	normaux 
+T68	procedure 5733 5761	mise en culture bactérienne 
+T69	labvalue 5767 5776	 négative
+T70	procedure 5780 5791	sérologies 
+T71	labvalue 5791 5800	négatives
+T72	procedure 5913 5949	test de dépistage par auto-anticorps
+T73	labvalue 5950 5957	négatif
+T74	procedure 5959 5983	anticorps antinucléaires
+T75	procedure 5985 6005	anticorps anti-ADNdb
+T76	procedure 6007 6028	anticorps anti-SSB/La
+T77	procedure 6030 6051	anticorps anti-SSA/Ro
+T78	procedure 6053 6069	complément C3/C4
+T79	labvalue 6070 6078	négatifs
+T80	disorder 6098 6127	myélite longitudinale étendue
+T81	disorder 6137 6167	neuropathie optique bilatérale
+T82	disorder 6213 6216	NMO
+T83	procedure 6244 6294	anticorps anti-aquaporine-4 (Ac anti-AQP4) sérique
+T84	labvalue 6314 6322	positifs
+T85	labvalue 6324 6329	1:320
+T86	procedure 6374 6389	corticothérapie
+T87	drugs 6412 6440	 1 g de méthyl­prednisolone 
+T88	procedure 6475 6491	corticothérapie 
+T89	procedure 6607 6620	plasmaphérèse
+T90	disorder 6641 6667	 trouble de la coagulation
+T91	disorder 6687 6705	 hématome extensif
+T92	procedure 6818 6832	plasmaphérèse 
+T93	disorder 7026 7038	hyponatrémie
+T94	drugs 7062 7107	olution de chlorure de sodium hyperosmolaire 
+T95	procedure 7117 7126	perfusée 
+T96	procedure 7279 7296	le sodium sérique
+T97	procedure 7302 7320	osmolarité sérique
+T98	drugs 7459 7476	1 g de rituximab 
+T99	procedure 7517 7537	neuro­réhabilitation
+T100	disorder 7613 7631	 ataxie résiduelle
+T101	procedure 7668 7678	traitement
+T102	drugs 7684 7693	rituximab

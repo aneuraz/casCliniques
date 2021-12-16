@@ -1,0 +1,45 @@
+T1	disorder 76 94	 douleurs du genou
+T2	disorder 133 147	pseudo-blocage
+T3	disorder 154 180	 impossibilité de flexion.
+T4	profession 263 275	orthopédiste
+T5	disorder 298 327	corps libre intra-articulaire
+T6	disorder 329 343	ostéochondrome
+T7	disorder 367 394	 ostéochondrite disséquante
+T8	procedure 412 434	’ablation chirurgicale
+T9	procedure 850 868	antibioprophylaxie
+T10	drugs 887 895	Orbénine
+T11	risk 898 926	allergie aux céphalosporines
+T12	procedure 987 999	arthroscopie
+T13	procedure 1027 1062	arthrotomie pararotulienne interne 
+T14	procedure 1250 1282	 drain de Redon est mis en place
+T15	procedure 1309 1318	pansement
+T16	procedure 1602 1619	ablation des fils
+T17	procedure 1636 1646	pansements
+T18	disorder 2101 2106	Abcès
+T19	drugs 2129 2139	Pyostacine
+T20	procedure 2190 2218	 prélèvement bactériologique
+T21	disorder 2297 2318	lâchage de cicatrice 
+T22	disorder 2764 2785	genou droit globuleux
+T23	disorder 2795 2847	désunion profonde et sale de la cicatrice opératoire
+T24	disorder 2876 2881	abcès
+T25	procedure 3002 3030	 prélèvement bactériologique
+T26	labvalue 3054 3075	Staphylococcus aureus
+T27	procedure 3154 3179	cultures bactériologiques
+T28	drugs 3203 3214	Vancomycine
+T29	drugs 3301 3310	Bristopen
+T30	drugs 3339 3346	Amiklin
+T31	procedure 3486 3523	nettoyage et un drainage articulaire 
+T32	disorder 3528 3546	arthrite septique 
+T33	disorder 3629 3653	désunion de la cicatrice
+T34	procedure 3691 3706	antibiothérapie
+T35	procedure 3776 3801	cultures de 2 écouvillons
+T36	labvalue 3864 3872	stériles
+T37	procedure 3917 3953	mmobilisation par attelle de Zimmer 
+T38	procedure 3970 3981	rééducation
+T39	disorder 4085 4108	algodystrophie du genou
+T40	drugs 4123 4135	Guanéthidine
+T41	disorder 4249 4273	 persistance de douleurs
+T42	disorder 4278 4312	 limitation du périmètre de marche
+T43	disorder 4320 4328	boiterie
+T44	disorder 4334 4345	amyotrophie
+T45	irrelevant 4457 4685;4687 4864;4866 4930;4931 4970;4971 5010	ASSIGNATION du CHIRURGIEN ORTHOPEDISTE et de la CLINIQUE (juin) puis du MEDECIN GENERALISTE ayant pris en charge l’infection postopératoire (mai), par la mère du patient pour son fils en réparation du préjudice qu’il avait subi.  Ce matériel est réservé à un usage privé ou d’enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l’objet d’une transaction commerciale.  Retrouver l'analyse des barrières de prévention (pdf - 66.21 Ko) Télécharger l'exercice (pdf - 28.46 Ko) Télécharger le jugement (pdf - 67.12 Ko

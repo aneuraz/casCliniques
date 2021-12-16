@@ -1,0 +1,86 @@
+T1	irrelevant 0 8;10 1608;1610 1629;1630 1638	Contexte  La thrombocytopénie immune (TPI) compte parmi les causes les plus fréquentes de thrombocytopénie chez les adultes au demeurant asymptomatiques. En Europe, l’incidence annuelle chez les adultes est comprise entre une à cinq personnes pour 100 000 [1–3]. Des études issues des Etats-Unis montrent une prévalence chez les adultes environ deux fois plus élevée (12 pour 10 000), ce qui est imputable à l’évolution chronique de la maladie [4]. Environ 20–30% des patients nouvellement diagnostiqués sont asymptomatiques au moment du diagnostic, la maladie étant la plupart du temps découverte fortuitement dans le cadre d’analyses de laboratoire [5, 6]. Sur le plan clinique, la distinction est faite entre TPI primaire et TPI secondaire. Dans la plupart des cas (60–70%), une TPI primaire est présente. Elle est induite par des anticorps anti-IgG spécifiques qui se lient aux glycoprotéines plaquettaires. Dans le reste des cas, il s’agit d’une TPI secondaire survenant dans le cadre de maladies auto-immunes (telles que le lupus érythémateux systémique), de maladies hématologiques (leucémie lymphatique chronique, lymphome de Hodgkin), de syndromes de déficit immunitaire, d’infections (virus de l’immunodéficience humaine, hépatite C, ­Helicobacter pylori) ou de causes médicamenteuses/toxiques [7, 8]. La TPI peut subdivisée en forme aiguë (durée jusqu’à 3 mois), en forme persistante (durée de 3 à 12 mois) et en forme chronique (durée de plus de 12 mois). La TPI persistante survient plus fréquemment chez les enfants, tandis que la forme chronique se rencontre plus souvent chez les adultes [9].  Présentation du cas Anamnèse
+T2	irrelevant 4608 4698;4700 4933	Figure 1: Evolution de la numération plaquettaire. IgIV = immunoglobulines intraveineuses.  Figure 2: Tomodensitométrie avec reformation coronale (A ,C ) et axiale (B ,D ) du thorax et de l’épigastre. Les ganglions lymphatiques cervicaux, médiastinaux et rétropéritonéaux avec nécrose centrale sont indiqués avec des flèches.
+T3	disorder 1706 1715	épistaxis
+T4	disorder 1730 1739	hématomes
+T5	disorder 1749 1765	thrombocytopénie
+T6	disorder 1815 1826	inappétence
+T7	disorder 1833 1849	sueurs nocturnes
+T8	disorder 1867 1886	toux non productive
+T9	procedure 1909 1931	échographie abdominale
+T10	disorder 1984 2004	douleurs abdominales
+T11	disorder 2086 2099	splénomégalie
+T12	procedure 2298 2332	mise en culture des expectorations
+T13	disorder 2368 2372	toux
+T14	disorder 2378 2388	hémoptysie
+T15	labvalue 2412 2418	aucune
+T16	labvalue 2419 2431	mycobactérie
+T17	disorder 2491 2511	état général diminué
+T18	procedure 2871 2881	hémogramme
+T19	labvalue 2895 2910	sans plaquettes
+T20	labvalue 2921 2932	lymphopénie
+T21	labvalue 2938 2969	anémie normocytaire normochrome
+T22	labvalue 2977 2991	microhématurie
+T23	labvalue 3057 3076	sans particularités
+T24	procedure 3011 3022	coagulation
+T25	procedure 3030 3048	valeurs hépatiques
+T26	drugs 3121 3143	concentré plaquettaire
+T27	labvalue 3145 3164	aucune augmentation
+T28	procedure 3169 3179	plaquettes
+T29	disorder 3245 3248	TPI
+T30	disorder 3276 3292	hémorragie aiguë
+T31	drugs 3312 3324	prednisolone
+T32	drugs 3328 3359	immunoglobulines intraveineuses
+T33	drugs 3361 3365	IgIV
+T34	labvalue 3447 3460	normalisation
+T35	procedure 3465 3475	plaquettes
+T36	labvalue 3399 3424	augmentation considérable
+T37	drugs 3516 3520	IgIV
+T38	disorder 3599 3618	maladie auto-immune
+T39	disorder 3623 3654	syndrome des antiphospholipides
+T40	disorder 3675 3710	virus de l’immunodéficience humaine
+T41	disorder 3712 3715	VIH
+T42	disorder 3720 3735	hépatite virale
+T43	disorder 3742 3757	paraprotéinémie
+T44	labvalue 3816 3823	positif
+T45	procedure 3830 3873	recherche d’antigènes d’Helicobacter pylori
+T46	disorder 3904 3927	infection par H. pylori
+T47	procedure 3932 3949	tomodensitométrie
+T48	procedure 3951 3954	TDM
+T49	disorder 4143 4152	infiltrat
+T50	disorder 4181 4194	splénomégalie
+T51	procedure 4317 4320	TDM
+T52	procedure 4351 4377	analyse des expectorations
+T53	labvalue 4418 4443	bacilles acido-résistants
+T54	procedure 4462 4495	réaction en chaîne par polymérase
+T55	procedure 4497 4500	PCR
+T56	labvalue 4508 4516	positive
+T57	labvalue 4521 4547	Mycobacterium tuberculosis
+T58	disorder 4565 4576	tuberculose
+T59	labvalue 4971 4984	normalisation
+T60	procedure 4991 5014	numération plaquettaire
+T61	drugs 5068 5083	corticothérapie
+T62	disorder 2115 2186	ganglions lymphatiques hypertrophiques dans la région du hile hépatique
+T63	disorder 2587 2596	hématomes
+T64	disorder 2684 2721	ganglions lymphatiques non douloureux
+T65	disorder 2730 2739	palpables
+T66	disorder 3994 4021	 lymphadénopathie cervicale
+T67	disorder 4023 4040	supraclaviculaire
+T68	disorder 4042 4054	médiastinale
+T69	disorder 4058 4065	hilaire
+T70	disorder 4075 4129	ganglions lymphatiques présentant une nécrose centrale
+T71	drugs 5119 5130	rifampicine
+T72	procedure 5151 5165	test GeneXpert
+T73	drugs 5206 5216	isoniazide
+T74	drugs 5218 5229	rifampicine
+T75	drugs 5231 5243	pyrazinamide
+T76	drugs 5247 5257	éthambutol
+T77	drugs 5375 5387	pyrazinamide
+T78	drugs 5393 5403	éthambutol
+T79	drugs 5455 5465	isoniazide
+T80	drugs 5469 5480	rifampicine
+T81	procedure 5538 5548	plaquettes
+T82	disorder 5601 5612	lymphopénie
+T83	disorder 5618 5624	anémie
+T84	labvalue 5643 5654	normalisées
+T85	procedure 5707 5743	traitement d’éradication d’H. pylori
+T86	irrelevant 5765 5775;5777 6737;6739 7056;7058 8615;8617 10193;10195 12043;12045 12748;12750 12778;12780 12902;12904 13011;13013 13227	Discussion  Au regard de l’ensemble des résultats, nous estimons qu’une TPI secondaire dans le cadre d’une TB ouverte est l’explication la plus probable de la maladie chez cette patiente. Ce diagnostic est soutenu par le fait que la numération plaquettaire est restée dans la norme suite à l’initiation du traitement tuberculostatique (Jour 7) et ce, malgré l’interruption de la corticothérapie (Jour 5) et des IgIV (Jour 1). Chez les patients avec une TPI primaire, une réponse à long terme ne peut être escomptée qu’après une corticothérapie à long terme sur plusieurs semaines. Dans le cadre de la TPI secondaire, l’infection par H. pylori n’est pas exclue en tant que diagnostic différentiel, mais elle est peu probable étant donné que le traitement d’éradication n’a commencé qu’un mois plus tard dans un contexte ambulatoire et qu’aucune récidive de la thrombocytopénie ne s’est présentée jusqu’à ce moment-là malgré l’interruption de la corticothérapie et des IgIV.  La TB entre également en ligne de compte en tant que cause de la splénomégalie en raison de l’absence d’indices radiologiques ou de laboratoire indiquant une hépatopathie. Toutefois, au vu de la splénomégalie uniquement légère et sans lésions focales, nous avons postulé que la TPI était la cause de la splénomégalie.  En cas de TPI primaire, outre une prédisposition génétique, des anticorps anti-IgG spécifiques sont produits par les cellules B du patient. Ces derniers se lient à certaines glycoprotéines plaquettaires (GPIIb/IIIa et GP1b/IX/V), ce qui induit une destruction des plaquettes soit par les macrophages au sein du système réticulo-endothélial [8, 11], soit par le bais d’une dysrégulation des cellules T [8]. En cas de TPI secondaire, telle qu’elle était présente chez notre patiente, des anticorps anti-glycoprotéines plaquettaires sont généralement produits par mimétisme moléculaire des composantes infectieuses (par exemple antigènes viraux) ou des médicaments [11]. D’autres TPI secondaires sont décrites dans le cadre de maladies auto-immunes ou hématologiques en raison d’altérations de l’homéostasie immunitaire avec formation d’anticorps [12–14]. Le spectre de la présentation clinique s’étend d’évolutions asymptomatiques à des hémorragies potentiellement fatales en passant par des pétéchies, des purpuras, des saignements nasaux et une hématurie [9, 15]. La TPI est un diagnostic d’exclusion chez les patients avec une thrombocytopénie isolée [8]. Outre une anamnèse exhaustive et l’examen clinique, les investigations diagnostiques comprennent également l’analyse d’un frottis sanguin et la recherche de causes secondaires (par exemple VIH, virus de l’hépatite C, H. pylori, immunosérologie, immunoglobuline sérique) [16]. Le dosage des anticorps anti-plaquettes n’est pas recommandé en raison de sa faible sensibilité et de sa faible spécificité.  La TB est une cause rare de TPI. Seuls 50 cas ont été publiés jusqu’à l’année 2016 [17]. Le premier cas a été publié dans les années 1950 [18]. Dans le cadre d’une étude rétrospective conduite entre 2000 et 2013 à Taïwan chez 1223 patients avec diagnostic de TB, une TPI a été trouvée dans 33 cas (2,6%) [18]. Dans l’analyse des 50 cas publiés, une relation causale ou probable a été postulée pour 34 cas (68%), car la TPI ne s’est améliorée qu’après le début du traitement tuberculostatique ou le traitement tuberculostatique a débuté avec le traitement de la TPI [17]. Le mécanisme physiopathologique de la TPI associée à la TB n’est pas clair. La production d’anticorps anti-plaquettes dans le cadre de la défense immunitaire contre Mycobacterium tuberculosis est discutée, mais des anticorps anti-plaquettes n’ont été décelés que dans un petit nombre de cas [17]. Les patients atteints de maladies immunitaires (maladie d’Addison, maladie de Crohn, colite ulcéreuse, maladie cœliaque, spondylarthrite ankylosante, lupus érythémateux systémique, syndrome de Sjögren, sclérodermie, dermatomyosite et polymyosite, psoriasis, polyartérite noueuse, anémie hémolytique auto-immune, thyroïdite de Hashimoto, myasthénie grave et TPI) présentent un risque accru de TB en raison de la dysfonction immunitaire ou du traitement immunosuppresseur [19]. La prévalence plus élevée de TB observée chez les patients atteints de maladies immunitaires dans le cadre de l’étude peut néanmoins également résulter du dépistage intensif de la TB avant le début d’un traitement immunosuppresseur.  Le traitement de la TPI dans le cadre d’une hémorragie aiguë a compris une corticothérapie par voie intraveineuse en association à des IgIV, de l’acide tranexamique et des transfusions plaquettaires [20]. Des agonistes des récepteurs de la thrombopoïétine ont également été utilisés [20]. En l’absence d’hémorragie, le traitement de premier choix repose sur l’administration de glucocorticoïdes oraux (prednisone à 1–2 mg/kg par jour pendant plusieurs semaines) ou de dexaméthasone (40 mg par jour pendant 4 jours de façon mensuelle selon la numération plaquettaire) en association avec des IgIV ou des immunoglobulines anti-D (ces dernières pour les patients de rhésus (D) positif). Sous corticothérapie, une réponse positive est obtenue dans 70–80% des cas, mais les taux de rémission à long terme sont toutefois plus faibles [21]. En cas de thrombocytopénie sévère persistante, la splénectomie a été le traitement de seconde ligne de choix pendant des décennies, avec un taux de rémission de 60–70% après cinq ans [8]. Malgré ce succès, moins de 25% des patients se soumettent à une splénectomie en raison des complications (postopératoires, risque accru d’infection et de thrombose, hypertension pulmonaire) [8]. En outre, le rituximab constitue aujourd’hui un autre traitement de deuxième ligne efficace. Chez les patients qui n’ont pas répondu au traitement de première ligne, une réponse initiale à la monothérapie par rituximab a été observée dans 40–60% des cas, avec un taux de récidive de 80% après cinq ans [8]. En association aux glucocorticoïdes, le traitement par rituximab était associé à un taux de rémission durable de 63% après six mois [22]. L’administration de l’agoniste des récepteurs de la thrombopoïétine romiplostim et eltrombopag a conduit à un taux de succès du traitement aussi bien à court qu’à long terme de >80% [8].  Chez les patients atteints de TPI et de TB active, un traitement par glucocorticoïdes et IgIV a le plus souvent été mis en œuvre [17]. Une très mauvaise réponse a souvent été observée, et dans quelques cas, la TPI n’a pu être traitée avec succès qu’après le début du traitement tuberculostatique. Une augmentation pertinente des plaquettes est survenue en l’espace d’un mois chez 60% et seulement après trois mois dans un cas. Chez certains patients avec TPI asymptomatique, les plaquettes ont augmenté après le début du traitement antituberculeux et se sont normalisées. En cas de TPI symptomatique, l’association du traitement antituberculeux avec des IgIV et des glucocorticoïdes est nécessaire [17].  L’essentiel pour la pratique  • La thrombocytopénie immune (TPI) est une cause majeure de thrombocytopénie. Elle est imputable à différentes étiologies.  • Dans le cadre de l’évaluation d’une TPI, il convient également de penser à des causes infectieuses rares.  • La tuberculose, avec 500 à 600 cas par an en Suisse, reste une maladie plutôt rare. En raison de l’augmentation de l’activité de voyage et de la migration, la tuberculose est un diagnostic différentiel important.

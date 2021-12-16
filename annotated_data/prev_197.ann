@@ -1,0 +1,22 @@
+T1	disorder 91 104	maux de dents
+T2	disorder 226 247	 délabrement dentaire
+T3	disorder 255 279	dénudations radiculaires
+T4	procedure 294 314	extraction des dents
+T5	disorder 361 380	nécrose sur la dent
+T6	procedure 408 428	dent 26 est extraite
+T7	procedure 453 473	dent 38 est extraite
+T8	procedure 494 514	dent 37 est extraite
+T9	procedure 537 566	dents 11 et 21 sont extraites
+T10	procedure 611 648	avulsion des dents 45 et 46, 47 et 48
+T11	procedure 689 728	traitement canalaire des dents 33 et 34
+T12	disorder 749 772	induration sub-linguale
+T13	procedure 932 938	I.R.M.
+T14	procedure 942 949	scanner
+T15	procedure 1045 1052	biopsie
+T16	disorder 1102 1123	carcinome épidermoïde
+T17	procedure 1169 1201	endoscopie oeso-gastro-duodénale
+T18	procedure 1253 1272	glossectomie totale
+T19	procedure 1381 1426	rééducation par kinésithérapie et orthophonie
+T20	disorder 1527 1553	métastase sus-claviculaire
+T21	procedure 1610 1623	radiothérapie
+T22	drugs 1627 1641	chimiothérapie

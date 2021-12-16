@@ -1,0 +1,40 @@
+T1	disorder 101 124	troubles psychotiques. 
+T2	disorder 159 196	ymptômes pseudo-névrotiques phobiques
+T3	disorder 157 213	 symptômes pseudo-névrotiques phobiques et obsessionnels
+T4	disorder 287 314	 pathologie schizophrénique
+T5	disorder 361 387	une angoisse dissociative,
+T6	disorder 392 422	hénomènes d’automatisme mental
+T7	disorder 390 551	 phénomènes d’automatisme mental à type de commentaire des actes, d’ambivalence, de flou de la pensée, de délire centré sur des perceptions corporelles bizarres 
+T8	profession 554 567	Le psychiatre
+T9	drugs 756 764	Zyprexa®
+T10	drugs 779 787	Nozinan®
+T11	drugs 797 817	Clomipramine 50mg/j.
+T12	drugs 1060 1068	Leponex®
+T13	drugs 1289 1297	Leponex®
+T14	drugs 1327 1336	 Xanax®. 
+T15	disorder 1640 1660	érection douloureuse
+T16	irrelevant 1762 1926	Il n’y a qu’un infirmier (samedi du WE de la Toussaint) qui conseille au patient d’aller voir son médecin généraliste (mais ce dernier ne travaille pas le samedi). 
+T17	irrelevant 1928 2142	4h00, le patient décide d’aller consulter à la maison médicale de santé où existe une permanence médicale. Il est reçu par le médecin de garde à 15h00. Après avoir consulté le Vidal, celui-ci informe le patient que
+T18	drugs 2193 2202	 Leponex®
+T19	drugs 2326 2338	Di-Antalvic®
+T20	irrelevant 2473 2566	A cette époque, le patient était séparé et n’avait pas eu de rapport sexuel pendant la nuit. 
+T21	disorder 2605 2623	érection persiste,
+T22	drugs 2663 2676	 Di-Antalvic®
+T23	drugs 2820 2832	Di Antalvic®
+T24	irrelevant 2854 2911	 lundi au mardi, elle m’a, toutefois, empêché de dormir »
+T25	irrelevant 2931 3074	: le patient décide d’aller aux urgences de l’hôpital qui le dirigent immédiatement vers la clinique voisine où exerce un chirurgien urologue. 
+T26	irrelevant 3075 3180	En l’absence d’ambulance disponible, le patient doit faire appel à sa mère pour se rendre à la clinique. 
+T27	irrelevant 3181 3253	Mardi 2 novembre dans l‘après-midi, soit plus de 72 h après l’apparition
+T28	disorder 3256 3266	 priapisme
+T29	profession 3272 3291	chirurgien urologue
+T30	procedure 3393 3433	anastomose caverno-spongieuse bilatérale
+T31	procedure 3523 3539	 La détumescence
+T32	profession 3612 3622	l’urologue
+T33	procedure 3640 3654	a détumescence
+T34	disorder 3793 3802	priapisme
+T35	drugs 3923 3931	Leponex®
+T36	drugs 3959 3968	Abilify®.
+T37	disorder 4016 4040	 troubles psychiatriques
+T38	drugs 4059 4069	 Leponex® 
+T39	drugs 4342 4350	Leponex®
+T40	profession 4372 4380	urologue

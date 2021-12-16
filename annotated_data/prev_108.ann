@@ -1,0 +1,56 @@
+T1	disorder 32 44	Splénectomie
+T2	disorder 50 65	rupture de rate
+T3	profession 204 225	médecins généralistes
+T4	profession 229 246	médecins du sport
+T5	disorder 411 429	sensation de froid
+T6	disorder 434 456	ne se sentait pas bien
+T7	disorder 458 468	grelottait
+T8	disorder 470 481	frissonnait
+T9	disorder 509 516	fébrile
+T10	profession 564 582	médecin urgentiste
+T11	disorder 602 611	PA élevée
+T12	disorder 641 647	stress
+T13	disorder 756 775	médecin généraliste
+T14	disorder 855 875	douleurs abdominales
+T15	disorder 902 909	nausées
+T16	profession 914 921	médecin
+T17	disorder 1008 1034	Antécédent de splénectomie
+T18	disorder 1036 1060	fièvre supérieure à 38°C
+T19	disorder 1062 1069	nausées
+T20	disorder 1073 1094	douleurs abdominales 
+T21	disorder 1096 1126	absence de raideur de la nuque
+T22	disorder 1129 1142	PA à 120/ 70.
+T23	disorder 1168 1189	gastro-entérite aiguë
+T24	drugs 1205 1216	paracetamol
+T25	drugs 1219 1229	ibuproféne
+T26	drugs 1233 1242	Motilium®
+T27	profession 1259 1266	médecin
+T28	disorder 1348 1368	douleurs abdominales
+T29	disorder 1604 1623	aggravation brutale
+T30	disorder 1745 1767	PA était à 60/ 40 mmHg
+T31	disorder 1803 1849	purpura nécrotique des extrémités et du visage
+T32	disorder 1854 1881	température était à 35° 4 C
+T33	disorder 1888 1932	saturation en oxygène à 60 % à l’air ambiant
+T34	procedure 1938 1958	première hémoculture
+T35	drugs 2038 2048	Rocéphine®
+T36	drugs 2052 2063	Gentalline®
+T37	procedure 2074 2098	transfert en réanimation
+T38	disorder 2133 2145	choc sévère,
+T39	disorder 2173 2199	œdème pulmonaire lésionnel
+T40	disorder 2205 2233	insuffisance rénale majeure 
+T41	disorder 2238 2307	 syndrome biologique de coagulation intravasculaire disséminée (CIVD)
+T42	drugs 2385 2401	amines pressives
+T43	drugs 2504 2514	Rocéphine®
+T44	procedure 2625 2685	recherche d’antigène soluble du méningocoque dans les urines
+T45	labvalue 2692 2700	négative
+T46	procedure 2790 2821	vaccination antipneumococcique 
+T47	disorder 2943 2982	hémorragie méningée attribuée à la CIVD
+T48	disorder 2997 3076	nécroses cutanées du nez et des extrémités des membres supérieurs et inférieurs
+T49	procedure 3093 3145	multiples interventions itératives d’excision-greffe
+T50	procedure 3164 3189	transféré en rééducation 
+T51	procedure 3268 3292	nouvelles interventions 
+T52	disorder 3401 3422	importantes séquelles
+T53	disorder 3445 3542	atteinte majeure de la fonction de locomotion due notamment à une amputation des deux avant-pieds
+T54	disorder 3567 3612	port permanent de chaussures à semelle rigide
+T55	disorder 3617 3662	marche étant impossible sans cet appareillage
+T56	irrelevant 3665 3705;3706 3770;3771 3811	Télécharger l'excercice (pdf - 28.46 Ko) Retrouver l'analyse des barrières de prévention (pdf - 89.73 Ko) Télécharger le jugement (pdf - 78.60 Ko)

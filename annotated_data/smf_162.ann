@@ -1,0 +1,160 @@
+T1	irrelevant 10 551	La néphropathie chronique à oxalates est une complication connue d’une pancréatite chronique. A l’inverse, la néphropathie aiguë à oxalates est beaucoup trop rarement décrite en rapport avec une pancréatite chronique, mais peut toutefois entraîner une insuffisance rénale ­aiguë souvent irréversible. Etant donné que les facteurs de risque incluent, outre une atteinte rénale préexistante, des insuffisances prérénales aiguës, l’anamnèse suggestive présente le risque d’établir un diagnostic erroné conditionné par l’étiologie plus fréquente
+T2	disorder 665 687	ne pouvait plus manger
+T3	disorder 690 707	 ne pouvait boire
+T4	disorder 774 798	vomissements récidivants
+T5	disorder 824 856	 détérioration de l’état général
+T6	disorder 874 883	diarrhées
+T7	disorder 874 883	diarrhées
+T8	disorder 886 899	 vomissements
+T9	disorder 949 973	détérioration insidieuse
+T10	disorder 1054 1075	 modification du goût
+T11	procedure 1080 1088	anamnèse
+T12	risk 1802 1809	alcool 
+T13	risk 1821 1828	drogues
+T14	disorder 1255 1262	dysurie
+T15	disorder 1266 1277	pollakiurie
+T16	disorder 1554 1591	œdème symétrique au niveau des jambes
+T17	procedure 1637 1655	anamnèse du voyage
+T18	disorder 1887 1910	diabète sucré de type 2
+T19	disorder 1916 1939	hypertension artérielle
+T20	disorder 1945 1970	fibrillation auriculaire 
+T21	disorder 1977 2041	insuffisance rénale chronique CKD («chronic kidney disease») G3a
+T22	drugs 2074 2083	aspirine®
+T23	drugs 2085 2095	bisoprolol
+T24	drugs 2096 2107	 lisinopril
+T25	drugs 2109 2118	Janumet® 
+T26	drugs 2121 2140	insuline Novomix 30
+T27	drugs 2169 2201	nti-inflammatoire non stéroïdien
+T28	procedure 2274 2301	 indice de masse corporelle
+T29	labvalue 2304 2315	 22,8 kg/m²
+T30	disorder 2387 2398	hypotension
+T31	labvalue 2400 2412	100/47 mm Hg
+T32	procedure 2419 2434	pouls rythmique
+T33	labvalue 2435 2441	normal
+T34	labvalue 2443 2449	67/min
+T35	procedure 2476 2480	SpO2
+T36	labvalue 2481 2500	98% à l’air ambiant
+T37	procedure 2507 2522	examen clinique
+T38	labvalue 2599 2630	résultats neurologiques normaux
+T39	labvalue 2550 2591	indices de compensation cardio-pulmonaire
+T40	disorder 2657 2694	exsiccose avec muqueuse buccale sèche
+T41	disorder 2696 2750	veines jugulaires vides et turgescence cutanée réduite
+T42	disorder 2834 2855	douleur à la pression
+T43	disorder 2885 2898	légers œdèmes
+T44	procedure 2947 2961	toucher rectal
+T45	labvalue 2968 2974	normal
+T46	procedure 3104 3115	échographie
+T47	disorder 3128 3149	congestion postrénale
+T48	procedure 3252 3262	créatinine
+T49	labvalue 3264 3275	1253 µmol/l
+T50	procedure 3282 3286	urée
+T51	labvalue 3288 3297	48 mmol/l
+T52	procedure 3168 3189	analyses biochimiques
+T53	procedure 3376 3378	pH
+T54	labvalue 3379 3383	7,03
+T55	procedure 3384 3388	 CO₂
+T56	labvalue 3388 3393	 2,28
+T57	procedure 3394 3397	kPA
+T58	procedure 3399 3403	HCO3
+T59	labvalue 3404 3414	4,3 mmol/l
+T60	procedure 3416 3423	lactate
+T61	labvalue 3424 3434	1,0 mmol/l
+T62	procedure 3439 3444	 CRP 
+T63	labvalue 3445 3451	9 mg/l
+T64	procedure 3511 3514	ALT
+T65	procedure 3529 3533	ALP 
+T66	labvalue 3516 3522	57 U/l
+T67	labvalue 3534 3541	129 U/l
+T68	procedure 3610 3620	bilirubine
+T69	procedure 3622 3625	AST
+T70	procedure 3627 3630	GGT
+T71	procedure 3627 3630	GGT
+T72	procedure 3634 3643	α-amylase
+T73	procedure 3669 3679	hémogramme
+T74	labvalue 3706 3718	 taux normal
+T75	labvalue 3734 3741	7,3 G/l
+T76	disorder 3748 3796	anémie macrocytaire normochrome hyporégénérative
+T77	procedure 3722 3733	leucocytes 
+T78	procedure 3798 3800	Hb
+T79	labvalue 3801 3807	76 g/l
+T80	procedure 3809 3812	MCH
+T81	labvalue 3813 3818	31 pg
+T82	procedure 3820 3824	MCHC
+T83	labvalue 3825 3832	309 g/l
+T84	procedure 3834 3847	réticulocytes
+T85	labvalue 3848 3850	2%
+T86	labvalue 3886 3893	133 G/l
+T87	procedure 4083 4100	analyse urinaire 
+T88	procedure 4131 4138	densité
+T89	procedure 4151 4161	créatinine
+T90	labvalue 4162 4173	12,4 mmol/l
+T91	labvalue 4139 4149	1,018 kg/l
+T92	procedure 4237 4241	urée
+T93	labvalue 4243 4253	141 mmol/l
+T94	procedure 4213 4219	sodium
+T95	labvalue 4221 4230	38 mmol/l
+T96	procedure 4259 4287	quotient protéine/créatinine
+T97	labvalue 4300 4311	222 mg/mmol
+T98	procedure 4456 4464	anamnèse
+T99	procedure 4473 4488	examen clinique
+T100	disorder 4526 4552	insuffisance rénale aiguë 
+T101	disorder 4570 4593	néphropathie diabétique
+T102	disorder 4624 4636	thrombopénie
+T103	disorder 4645 4651	anémie
+T104	disorder 4682 4711	microangiopathie thrombotique
+T105	procedure 4713 4725	haptoglobine
+T106	procedure 4729 4732	LDH
+T107	labvalue 4733 4740	normaux
+T108	procedure 4742 4756	fragmentocytes
+T109	labvalue 4766 4770	1,4%
+T110	labvalue 4788 4793	<0,5%
+T111	procedure 4795 4815	activité ADAMS-TS-13
+T112	labvalue 4826 4839	dans la norme
+T113	disorder 4850 4880	anémie hémolytique auto-immune
+T114	procedure 4882 4897	tests de Coombs
+T115	labvalue 4898 4906	négatifs
+T116	drugs 4982 4998	antihypertenseur
+T117	drugs 5002 5013	 lisinopril
+T118	procedure 5075 5099	bilan hémato-oncologique
+T119	disorder 5190 5206	myélome multiple
+T120	procedure 5227 5239	gastroscopie
+T121	procedure 5240 5250	coloscopie
+T122	procedure 5295 5308	 gastroscopie
+T123	labvalue 5339 5407	 œsophage de Barett et quatre polypes sans dysplasie de degré élevé 
+T124	disorder 5462 5467	sprue
+T125	disorder 5469 5487	maladie de Whipple
+T126	disorder 5489 5498	giardiase
+T127	disorder 5502 5509	colite 
+T128	procedure 5544 5566	échographie abdominale
+T129	labvalue 5579 5679	«double-duct-sign» (dilatation ducanal hépatique communet canal pancréatiquede respectivement 9 mm) 
+T130	disorder 5752 5774	 lithiase pancréatique
+T131	procedure 5809 5868	cholangio-pancréatographie par résonance magnétique (CPRM) 
+T132	procedure 6114 6138	échographie endoscopique
+T133	disorder 6184 6217	pancréatite calcifiante chronique
+T134	disorder 6334 6369	insuffisance pancréatique exocrine 
+T135	procedure 6370 6391	élastase pancréatique
+T136	labvalue 6392 6400	<50 µg/g
+T137	labvalue 6401 6417	 norme >200 µg/g
+T138	procedure 6447 6521	anamnèse de défécation avec interrogation ciblée sur la couleur des selles
+T139	labvalue 6552 6615	selles avaient été très claires au cours des dernières semaines
+T140	disorder 6770 6779	 diarrhée
+T141	procedure 7098 7114	 biopsie rénale 
+T142	procedure 7033 7059	hémodialyse intermittente 
+T143	disorder 7153 7186	néphropathie diabétique chronique
+T144	disorder 7203 7250	 fibrose interstitielle avec atrophie tubulaire
+T145	disorder 7388 7434	sclérose de faible degré en partie segmentaire
+T146	disorder 7486 7505	 fibrose capsulaire
+T147	disorder 7562 7593	lésions épithéliales tubulaires
+T148	disorder 8045 8068	néphropathie à cristaux
+T149	disorder 8118 8140	néphropathie chronique
+T150	disorder 8174 8203	néphropathie aiguë à oxalates
+T151	disorder 8277 8298	pancréatite chronique
+T152	disorder 8304 8338	insuffisance pancréatique exocrine
+T153	disorder 8365 8386	 insuffisance rénale 
+T154	procedure 8402 8409	dialyse
+T155	drugs 8415 8437	traitement enzymatique
+T156	drugs 8454 8460	Creon®
+T157	procedure 8630 8668	débit de filtration glomérulaire (DFG)
+T158	labvalue 8671 8680	 6 ml/min
+T159	procedure 8752 8764	’hémodialyse
+T160	irrelevant 8767 8777;8779 9848;9850 9948;9950 10326;10328 10999;11001 11029;11031 11167;11168 11299;11301 11428;11430 11633	Discussion  L’hyperoxalurie, définie comme une oxalurie >0,45 mmol/24 heures, est le trouble métabolique sous-jacent d’une néphropathie à oxalates. Normalement, seuls 10% de l’oxalate apporté par la nourriture sont absorbés au niveau de l’intestin, car la majeure partie est complexée avec du calcium et excrétée dans les selles. En cas d’insuffisance pancréatique exocrine, plusieurs facteurs défavorables sont réunis (fig. 2): Des acides gras non absorbés dans la lumière intestinale se lient au calcium et une quantité supérieure d’oxalate non lié peut ainsi être absorbée. Par ailleurs, les acides gras libres augmentent la perméabilité de la muqueuse du côlon pour l’oxalate de jusqu’à 40% [1]. L’absorption accrue entraîne une augmentation du taux plasmatique d’oxalate et ainsi une excrétion rénale accrue. Spécialement en cas de diarrhée concomitante et de la déshydratation associée avec production d’une urine plus concentrée, la solubilité de l’oxalate est dépassée et les cristaux d’oxalate précipitent au sein des tubules, détruisant ainsi leur structure histologique.  Figure 2: Pathomécanismes de la néphropathie aiguë à ­oxalates en cas d’insuffisance pancréatique.  Du point de vue thérapeutique, il est donc essentiel de prévenir une hypovolémie ainsi que de réduire la quantité d’oxalate absorbable dans la lumière intestinale; cette dernière mesure est obtenue par un traitement enzymatique substitutif de l’insuffisance pancréatique exocrine, un régime riche en calcium ainsi qu’éventuellement du carbonate de calcium pour lier l’oxalate.  En termes de pronostic, les patients concernés peuvent être classés en deux groupes en fonction de l’étendue de l’atteinte rénale éventuellement préexistante et du statut de diurèse au moment de la présentation [2]: Les patients présentant une fonction rénale préalablement normale et une diurèse maintenue lors de la consultation ont de bonnes chances de retrouver par la suite une fonction rénale suffisante, même si une méthode de substitution rénale s’avère nécessaire par intermittence. Dans le cas d’une insuffisance rénale chronique préexistante ou en présence d’une anurie initiale, une nécessité de dialyse permanente est attendue dans plus de la moitié des cas.  L’essentiel pour la pratique  • La néphropathie aiguë à oxalates est une complication rare d’une pancréatite chronique et peut entraîner une insuffisance rénale aiguë irréversible. La détection précoce de la cause est décisive, car un traitement rapide est essentiel pour le pronostic à long terme.  • En cas de pancréatite encore inconnue, il existe un risque de classer à tort l’insuffisance rénale comme d’origine prérénale.  • Une anamnèse détaillée et une interrogation explicite relative à toutes les caractéristiques des selles peuvent mettre en évidence la cause rare et aiguiller ainsi le traitement dans la bonne direction

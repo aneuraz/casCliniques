@@ -1,0 +1,47 @@
+T1	disorder 290 329	tumeur indéterminée comprimant le vagin
+T2	disorder 366 395	gonflement de la fesse gauche
+T3	disorder 681 723	 syndrome douloureux cervico-spondylogène 
+T4	procedure 763 779	cholécystectomie
+T5	procedure 875 909	 traitement médicamenteux régulier
+T6	labvalue 969 997	état général et nutritionnel
+T7	disorder 1060 1098	nette asymétrie de la région glutéale 
+T8	disorder 1113 1152	 résistance palpable dans le bas-ventre
+T9	disorder 1193 1238	masse était également palpable du côté gauche
+T10	disorder 1267 1283	lymphadénopathie
+T11	disorder 1305 1340	 déviation du vagin vers la droite 
+T12	disorder 1400 1453	 Masse visible au niveau de la région glutéale gauche
+T13	procedure 1588 1606	examen au spéculum
+T14	procedure 1614 1639	échographie transvaginale
+T15	procedure 1645 1665	analyses biologiques
+T16	labvalue 1681 1721	anémie microcytaire hypochrome (118 g/l)
+T17	labvalue 1727 1755	leucocytose de 19,4 × 109/l 
+T18	labvalue 1761 1815	taux de protéine C réactive légèrement élevé (26 mg/l)
+T19	procedure 1993 1996	IRM
+T20	labvalue 2010 2039	tumeur principalement solide 
+T21	procedure 2234 2324	 tomographie par émission de positons couplée à la tomodensitométrie (TEP-TDM) au 18F-FDG 
+T22	procedure 2529 2603	 Imagerie par résonance magnétique du petit bassin, native, pondération T2
+T23	labvalue 2639 2677	tumeur hypointense, bien circonscrite 
+T24	procedure 2786 2804	TEP-TDM au 18F-FDG
+T25	labvalue 2819 2878	masse solide avec accumulation de FDG intense et hétérogène
+T26	procedure 2910 2952	 biopsie percutanée guidée par échographie
+T27	labvalue 2979 3012	néoplasie compatible avec une TFS
+T28	labvalue 3020 3133	signe de malignité (hypercellularité, atypies cellulaires, mitoses, nécroses tumorales ou croissance infiltrante)
+T29	procedure 3226 3257	 exérèse d’emblée de la tumeur 
+T30	procedure 3360 3379	laparotomie médiane
+T31	procedure 3544 3561	histologiquement 
+T32	labvalue 3771 3817	18 × 9 × 8 cm et pesait un peu plus de 1000 g 
+T33	disorder 3849 3887	 neurapraxie du nerf obturateur gauche
+T34	disorder 4185 4273	tumeurs des tissus mous fibroblastiques ou myofibroblastiques à malignité intermédiaire 
+T35	labvalue 4472 4504	altération génétique récurrente 
+T36	disorder 5420 5444	syndrome paranéoplasique
+T37	procedure 5673 5678	IGF-2
+T38	procedure 6025 6059	 STAT6etCD34 à l’immunophénotypage
+T39	risk 6270 6286	 l’âge (>55 ans)
+T40	procedure 6522 6551	exérèse complète de la tumeur
+T41	procedure 6631 6676	radiothérapie préopératoire ou postopératoire
+T42	procedure 6998 7039	radiothérapie adjuvante ou postopératoire
+T43	procedure 7246 7258	 laparotomie
+T44	labvalue 7525 7572	21 mitoses/10 champs à fort grossissement (CFG)
+T45	procedure 7690 7702	résection R2
+T46	procedure 7708 7736	radiothérapie postopératoire
+T47	risk 7842 7891	 toxicité potentielle dans le champ d’irradiation

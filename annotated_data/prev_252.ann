@@ -1,0 +1,27 @@
+T1	risk 98 121	fausse couche spontanée
+T2	procedure 160 163	IVG
+T3	procedure 375 388	échographique
+T4	disorder 525 534	céphalées
+T5	disorder 542 556	épigastralgies
+T6	drugs 1099 1107	Gaviscon
+T7	drugs 1127 1134	Cytotec
+T8	disorder 1170 1181	gastralgies
+T9	disorder 1342 1354	métrorragies
+T10	disorder 1362 1381	douleurs pelviennes
+T11	disorder 1271 1282	saignements
+T12	drugs 1211 1218	Cytotec
+T13	procedure 1386 1397	échographie
+T14	drugs 1479 1486	Cytotec
+T15	disorder 1560 1572	métrorragies
+T16	disorder 1580 1599	douleurs pelviennes
+T17	disorder 1615 1627	métrorragies
+T18	disorder 1841 1853	métrorragies
+T19	procedure 1876 1887	échographie
+T20	disorder 1935 1958	sans activité cardiaque
+T21	drugs 1981 1988	Cytotec
+T22	procedure 2003 2022	évacuation utérine.
+T23	disorder 2050 2061	saignements
+T24	procedure 2117 2128	échographie
+T25	procedure 2265 2285	curetage en urgence.
+T26	disorder 2234 2245	saignements
+T27	drugs 3020 3027	Cytotec

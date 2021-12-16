@@ -1,0 +1,57 @@
+T1	procedure 230 254	consultations prénatales
+T2	profession 290 309	gynéco-obstétricien
+T3	procedure 336 348	échographies
+T4	disorder 402 422	diabète gestationnel
+T5	procedure 446 468	consultation prénatale
+T6	anatomy 509 515	bassin
+T7	procedure 590 601	échographie
+T8	labvalue 688 712	diamètre bipariétal à 93
+T9	profession 776 798	Le gynéco-obstétricien
+T10	disorder 860 889	isproportion foeto-pelvienne 
+T11	disorder 859 861	di
+T12	profession 973 992	gynéco-obstétricien
+T13	disorder 1066 1087	 contraction utérine 
+T14	profession 1300 1310	sage-femme
+T15	labvalue 1321 1337	un poids à 94 kg
+T16	disorder 1348 1355	oedèmes
+T17	anatomy 1360 1378	membres inférieurs
+T18	labvalue 1380 1434	La PA est à 140 / 90 mmHg et la température à 36, 1 C°
+T19	procedure 1479 1494	toucher vaginal
+T20	anatomy 1499 1509	col utérin
+T21	profession 1629 1639	sage-femme
+T22	profession 1823 1844	obstétricien de garde
+T23	profession 1909 1930	obstétricien de garde
+T24	anatomy 1968 1972	 col
+T25	profession 1997 2007	sage-femme
+T26	disorder 2029 2062	ontactions utérines douloureuses 
+T27	drugs 2118 2125	Nubain®
+T28	profession 2254 2278	l’obstétricien de garde 
+T29	disorder 2028 2030	co
+T30	profession 2371 2381	sage-femme
+T31	profession 2628 2638	sage-femme
+T32	profession 2926 2939	anesthésiste 
+T33	procedure 2952 2974	anesthésie péri-durale
+T34	profession 2993 3003	sage-femme
+T35	procedure 3017 3062	une rupture artificielle de la poche des eaux
+T36	drugs 3096 3120	perfusion de Syntocinon®
+T37	anatomy 3448 3464	occipito-iliaque
+T38	anatomy 3376 3386	céphalique
+T39	profession 3512 3522	sage-femme
+T40	profession 3554 3566	obstétricien
+T41	disorder 3682 3702	dilatation cervicale
+T42	profession 3754 3765	 sage-femme
+T43	profession 3860 3873	’obstétricien
+T44	procedure 3928 3938	césarienne
+T45	profession 3943 3953	sage-femme
+T46	profession 3990 4002	anesthésiste
+T47	profession 4247 4257	sage-femme
+T48	profession 4270 4278	pédiatre
+T49	profession 4294 4304	sage-femme
+T50	procedure 4326 4336	césarienne
+T51	procedure 4356 4379	anesthésie péri-durale 
+T52	disorder 4793 4815	troubles respiratoires
+T53	disorder 5136 5168	encéphalopathie chronique sévère
+T54	disorder 5190 5213	retard de développement
+T55	disorder 4922 4942	épisodes convulsifs 
+T56	anatomy 4946 4953	membres
+T57	anatomy 3427 3437	pelvienne 

@@ -1,0 +1,121 @@
+Rapport du cas
+Anamnèse
+
+Un patient de 40 ans présente depuis deux mois des douleurs thoraciques atypiques, partiellement influencées par la respiration et la position. Une origine musculo-squelettique a été suspectée initialement, mais sans amélioration sous un traitement d’AINS. Un CT thoracique est réalisé avant son hospitalisation, ce qui permet d’exclure une embolie pulmonaire, ainsi qu’une ­atteinte pulmonaire parenchymateuse. Un épanchement péricardique important est remarqué, ainsi qu’une lame d’épanchement pleural gauche et des ganglions hilaires infra centimétriques. Sur le plan ­général, le patient signale une perte pondérale de 7 kg en 3 mois, des sudations nocturnes profuses et un état fébrile depuis plusieurs jours. Il souffre aussi depuis 3 mois d’arthralgies au niveau des mains, sans érythème ni tuméfaction. Finalement, il est gêné depuis plusieurs semaines par une rhinite croûteuse avec des saignements lors du mouchage, sans hémoptysies.
+
+Statut
+
+A l’examen clinique l’on retrouve un patient tachycarde à 110 bpm, avec une tension artérielle de 110/70 mm Hg et un état fébrile à 38,5 °C.
+
+On note l’absence de souffle cardiaque, de frottement péricardique, d’œdèmes des membres inférieurs, de turgescence jugulaire et l’auscultation pulmonaire est physiologique.
+
+Résultats
+
+L’ECG de l’entrée montre une tachycardie sinusale à 111 bpm, avec un bloc de branche droit incomplet, des modifications diffuses de la repolarisation avec une onde T aplatie/négative, un sous-décalage non significatif du segment ST en V3, V4 et un sous-décalage du PR surtout en V3, V4 avec un sus-décalage du PR en aVR (fig. 1). Les troponines et CK sont dans la norme.
+
+Figure 1: ECG 12 dérivations fait à l’admission montrant des signes discrets de péricardite: troubles diffus de la repolarisation, sous décalage du segment PR surtout en V3, V4 et sus décalage du PR en aVR.
+
+L’échocardiographie transthoracique (ETT) montre une bonne fonction biventriculaire et l’absence de valvulopathie. Elle confirme la présence d’un épanchement circonférentiel de maximum 13 mm, avec variation du flux mitral de 25 à 35%, correspondant à un tableau de pré-tamponnade cardiaque (fig. 2).
+
+Figure 2: Vue échocardiographique apicale 4 cavités: épanchement péricardique (EP) circonférentiel, prédominant en regard des cavités droites, avec une compression dia­stolique sur le ventricule droit (flèche). VD = ventricule droit; VG = ventricule gauche; OG = oreillette gauche.
+
+Le bilan sanguin initial met en évidence un syndrome inflammatoire, avec une CRP à 153 mg/l, une leucocytose à 12 G/l et une VS à 100 mm/h. Le sédiment urinaire montre une hématurie, qu’un examen par contraste de phase caractérise comme d’origine glomérulaire. Les hémocultures, le TB spot, ainsi que des ­sérologies pour CMV, Epstein-Barr virus, HIV, hépatite B et C et Borrelia sont toutes négatives.
+
+Le patient présentant des symptômes B depuis plusieurs semaines, on complète le bilan avec une recherche de ANA (positifs à 1/160, mouchetés) et mesure du Facteur Rhumatoïde, qui est négatif. La présence d’hématurie glomérulaire motive la recherche des cANCA, qui reviennent positifs avec un titre à 1/160 et IgG antiPR3 positifs à 272 CU.
+
+Diagnostic différentiel
+
+Les symptômes sont trop prolongés pour évoquer une cause infectieuse bactérienne et il n’y a pas d’anamnèse d’exposition à la tuberculose. Une cause virale ne peut pas être exclue, mais l’évolution semble également trop longue, le patient n’ayant d’ailleurs pas eu d’autres symptômes de virose avant l’apparition des douleurs thoraciques. Une origine néoplasique semble également peu probable, avec une imagerie thoracique dans la norme sur le CT-scan thoracique effectué précédemment.
+
+Les ANCA avec immunofluorescence cytoplasmique et les anticorps anti-PR3 ont une haute spécificité pour
+le diagnostic de granulomatose avec polyangéite (GPA), de 95 et 87% respectivement quand ils sont pris individuellement. Par contre, quand le dosage de ces anticorps est combiné, la spécificité pour le diagnostic de GPA avoisine le 99%, avec une sensitivité de 73% [1]. Pour confirmer définitivement le diagnostic, une biopsie aurait été indiquée, mais non réalisée au vu de l’absence d’atteinte pulmonaire, et d’une muqueuse nasale irritée de manière diffuse. Nous renonçons à prendre le risque d’effectuer une biopsie rénale chez un patient avec une fonction rénale conservée, malgré la présence d’une hématurie.
+
+Traitement
+
+Le patient bénéficie initialement d’un remplissage liquidien, avec amélioration de la situation hémodynamique et ralentissement de la fréquence cardiaque. Le drainage de l’épanchement péricardique est évité en l’absence de franche tamponnade. Malgré l’absence de confirmation histologique, le tableau clinique et la présence des anticorps cANCA permettent de retenir le diagnostic de granulomatose avec polyangéite. Le patient est donc traité initialement par de hautes doses de corticoïdes, puis par Rituximab (au vu de son âge, afin d’éviter une stérilité sous Cyclophosphamide).
+
+Evolution
+
+L’évolution est rapidement favorable, avec disparition de l’état fébrile, des douleurs thoraciques et, quelques jours après, de l’épanchement péricardique. Le patient peut donc regagner son domicile après la première dose de Rituximab.
+
+Discussion
+
+La suspicion de GPA est posé en utilisant des arguments cliniques et biologiques (marqueurs auto-immuns de type cANCA). La preuve histologique doit confirmer la suspicion clinique avant l’introduction d’un traitement au long cours, à l’exception des cas particuliers quand les biopsies ne peuvent pas être réalisées ou quand la probabilité diagnostique de GPA est très haute. Les biopsies des organes atteints montrent, au niveau ­rénal, une glomerulonéphrite nécrosante pauci-immune, au niveau pulmonaire, une vasculite avec nécrose parenchymateuse et une inflammation granulomateuse et, au niveau cutané, une vasculite leucocytoclasique.
+
+Les éléments suggestifs pour le diagnostic sont présentés dans le tableau 1.
+
+Tableau 1: Eléments d’orientation diagnostique devant une suspicion de granulomatose avec polyangéite.
+ 	ORL	Pulmonaire	Rénal	Cardiaque	Systémique
+Symptômes	Sinusite chronique,
+épistaxis	Hémoptysies	–	Douleurs thoraciques, dyspnée	Douleurs musculaires, asthénie
+Examens paracliniques	Recherche de cANCA avec spécificité PR3
+Sédiment urinaire: recherche d’hématurie microscopique
+Gold standard: biopsie d’un organe atteint
+Imagerie et clinique	Lésions ulcératives
+du nez et du pharynx	Infiltrats nodulaires
+et cavitations	–	Epanchement, troubles
+de la ­cinétique	Rash, état fébrile
+Pathologie	Granulomes nécrosants des petits et moyens vaisseaux	Glomérulonéphrite focale nécrosante	 	 
+
+Une atteinte cardiaque peut survenir chez des patients souffrant de granulomatose avec polyangéite [2]. Selon les méthodes de dépistage utilisées, la fréquence de l’atteinte cardiaque est très variable. Ces variations peuvent être expliquées d’une part, par la difficulté d’association causale entre l’atteinte cardiaque et la maladie auto-immune sous-jacente, et d’autre part, par une sous-détection des atteintes cardiaques, avec des patients qui restent asymptomatiques même en ­présence par exemple des troubles de la cinétique segmentaire à l’ETT.
+
+Dans une revue de cas [2], 85 patients ayant une GPA ­bénéficiaient d’un dépistage des anomalies cardiaques par ETT. Parmi ceux-ci, 86% avaient des anomalies échographiques. Plus fréquemment étaient retrouvés des troubles de la cinétique segmentaire ne respectant pas les territoires coronariens, des valvulopathies, une dysfonction du ventricule gauche ou un épanchement péricardique. La moitié des anomalies apparaissaient en l’absence de symptômes. Plus d’un tiers de ces anomalies étaient attribuées à la maladie inflammatoire, avec une amélioration sous traitement immunosuppresseur. L’origine ischémique était exclue par une coronarographie ou une épreuve de stress.
+
+La «Vasculitis Clinical Research Consortium Longitudinal Study» [3] a analysé 517 patients dont uniquement 3,3% avaient une atteinte cardiaque en relation avec la maladie inflammatoire. Dans cette étude, la manifestation la plus fréquente était la péricardite, suivie de la cardiomyopathie, de la maladie coronarienne, valvulaire et des troubles de la conduction. Toutefois, tous ces patients étaient symptomatiques. En présence d’une atteinte cardiaque l’évolution n’était pas moins favorable et la mortalité et la fréquence des rechutes de la vasculite n’étaient pas plus élevées.
+
+Une fréquence similaire d’anomalie cardiaque, de 5,7%, était rapportée par l’«European Vasculitis Study Group» chez des patients avec un nouveau diagnostic de GPA, de polyangéite microscopique ou de vasculite limitée au rein. Par contre, l’atteinte cardiaque semblait être un facteur indépendant de risque de rechute [4].
+
+Le risque d’implication cardiaque lors d’une GPA semble donc difficile à déterminer, ainsi que sa valeur pronostique sur l’évolution de la maladie et sur le risque de rechute. Dans ce contexte il pourrait être utile de ­dépister les anomalies cardiaques lors du diagnostic de cette vasculite, même si les implications pour le pronostic et le traitement du patient sont peu claires. La meilleure méthode de dépistage n’est pas pour l’instant consensuelle, mais l’ETT est utilisée le plus souvent. Il serait intéressant d’évaluer les avantages des autres techniques dans le dépistage des anomalies cardiaques, comme l’IRM cardiaque ou le PET-CT cardiaque.
+
+Autrement, les causes possibles de l’épanchement péricardique sont nombreuseset résumées dans le tableau 2. Elles peuvent varier en fonction de la provenance ­géographique du patient, comme par exemple la tuberculose, plus fréquente dans les pays en voie de développement. La cause immunologique n’est pas parmi les étiologies les plus fréquentes.
+
+Tableau 2: Diagnostic étiologique des épanchements péricardiques.
+Péricardite aiguë ­infectieuse 	Virale
+Bactérienne
+Fongique
+Parasitaire
+Maladies auto-immunes et de système	Lupus érythémateux systémique
+Polyarthrite rhumatoïde
+Sclérodermie systémique
+Dermatopolymyosite
+Vascularites
+Fièvre méditerranéenne familiale
+Sarcoïdose
+Affection des organes de voisinage	Rupture cardiaque
+Pathologie aortique (dissection, anévrysme)
+Infarctus de myocarde aigu
+Myocardite
+Infarctus pulmonaire
+Pneumonie
+Pathologie œsophagienne
+Péricardite paranéoplasique
+Maladies métaboliques	Insuffisance rénale (urémie)
+Myxœdème
+Maladie d’Addison
+Acétoacidose diabétique
+Chylopericardium
+Grossesse, syndrome d’hyperstimulation ovarienne
+Post traumatique	Iatrogène: cathétérisme cardiaque, biopsies myocardiques, ponction transseptale, sondes de pacemaker
+Autres causes traumatiques
+Après irradiation médiastinale
+Néoplasies	Lésions primaires
+Lésions secondaires
+Rétention d’eau ou de sodium	Insuffisance cardiaque
+Syndrome néphrotique
+Cirrhose hépatique
+Médicamenteux	Accompagnant une péricardite médicamenteuse
+Idiopathique	 
+
+Devant un épanchement péricardique il faut s’assurer de l’absence des signes de gravité avec instabilité ­hémodynamique, le résultat d’une tamponnade cardiaque.
+
+Les signes cliniques de tamponnade sont représentés par la triade de Beck: la turgescence veineuse jugulaire, l’hypotension artérielle et la présence d’un pouls paradoxal (disparition du pouls à l’inspiration profonde avec diminution de la tension artérielle systolique de plus de 10 mm Hg à l’inspiration). Des signes d’alarme évoquant la tamponnade sont la polypnée, la tachycardie, ou une hépatomégalie.
+
+Dans le cadre d’une tamponnade le bilan minimal se ­limite à l’ETT qui visualise l’épanchement péricardique comme un espace clair entre le péricarde viscéral en contact avec le myocarde (le plus souvent du ventricule droit) et le péricarde pariétal. Parfois l’épanchement est volumineux, avec un mouvement en «battant de cloche» du cœur («swinging heart») [5].
+
+Le traitement de l’épanchement péricardique en dehors de la tamponnade repose sur le traitement de la cause, et ensuite sur le traitement anti-inflammatoire. Les ­recommandations de la Société Européenne de Cardiologie de 2015 proposent pour le traitement de la péricardite non spécifique la colchicine en association avec les anti-inflammatoires, ceci même pour un premier épisode de péricardite. La durée du traitement par colchicine est de 3 mois avec un dosage à adapter au poids (0,5 mg deux fois par jour ou 0,5 mg une fois par jour si poids <70 kg) [6]. Quant aux AINS, la dose est de 3 × 1000 mg/j pour l’Aspirine®, pendant 1 à 2 semaines, avec décroissance progressive sur 1 mois, en diminuant de 250 à 500 mg/dose chaque semaine. Ce traitement combiné permet en effet de réduire les récidives. Notons finalement que les critères de mauvais pronostic sont l’absence de réponse aux AINS après 7 jours de traitement, un état fébrile >38 °C, une évolution subaiguë de la maladie, un épanchement péricardique >20 mm et des signes de tamponnade cardiaque [6].
+
+L’essentiel pour la pratique
+
+Ce cas clinique illustre une situation rare de péricardite avec épanchement et signes généraux dans le contexte d’une granulomatose avec polyangéite. Pour les épanchements péricardiques les points clés sont représentés par le diagnostic étiologique et par le dépistage des signes de gravité.
+
+En effet, les étiologies sont variées, et il s’agit le plus souvent d’une cause virale ou idiopathique. Plus rarement, en présence des symptômes généraux il faut penser aux vasculites dont le traitement spécifique permet une amélioration sur le plan cardiaque.

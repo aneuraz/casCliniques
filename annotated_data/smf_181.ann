@@ -1,0 +1,81 @@
+T1	disorder 72 90	troubles cognitifs
+T2	disorder 145 183	fracture de la branche ischio-pubienne
+T3	disorder 269 313	épisode de frissons et des myalgies diffuses
+T4	disorder 295 313	 myalgies diffuses
+T5	disorder 279 289	 frissons 
+T6	disorder 327 416	gonalgies prépondérantes à gauche entravant de manière nouvelle et importante la mobilité
+T7	procedure 421 437	examen clinique 
+T8	disorder 457 484	tuméfaction du genou gauche
+T9	disorder 501 521	chaleur sans rougeur
+T10	disorder 526 672	signe du glaçon discrètement positif et une diminution de l’amplitude articulaire à 40° de flexion passive avec une impotence fonctionnelle active
+T11	disorder 693 703	douloureux
+T12	disorder 674 704	Le genou droit est douloureux 
+T13	disorder 794 842	tuméfaction nouvelle et diffuse du mollet gauche
+T14	disorder 794 814	tuméfaction nouvelle
+T15	procedure 1083 1099	bilan biologique
+T16	disorder 1119 1143	syndrome ­inflammatoire 
+T17	labvalue 1152 1187	protéine réactive C (CRP) à 50 mg/l
+T18	labvalue 1241 1269	nitrites et des érythrocytes
+T19	procedure 1210 1230	bandelette urinaire 
+T20	procedure 1338 1353	culture d’urine
+T21	irrelevant 1356 1415;1418 1442;1444 1475;1477 1500;1502 1517;1519 1548	Question 1: Quel est l’examen complémentaire le plus utile?   a) Radiographie du genou  b) Ultrason du membre inférieur  c) Ponction articulaire  d) Coproculture  e) Tous les examens ci-dessus
+T22	procedure 1553 1570	ponction du genou
+T23	disorder 1709 1748	épanchement articulaire du genou gauche
+T24	procedure 1840 1849	ponction 
+T25	procedure 1912 1934	ponction sous ultrason
+T26	labvalue 1978 1997	petits épanchements
+T27	disorder 2052 2060	synovite
+T28	procedure 2073 2097	radiographie des genoux 
+T29	labvalue 2118 2134	chondrocalcinose
+T30	disorder 2188 2234	œdème du mollet étant mou et non inflammatoire
+T31	disorder 2240 2287	thrombose veineuse profonde du membre inférieur
+T32	disorder 2406 2415	diarrhées
+T33	procedure 2502 2515	coprocultures
+T34	disorder 2537 2543	virose
+T35	disorder 2552 2564	clostridium 
+T36	labvalue 2683 2715	pics fébriles entre 38,0 et 39,0
+T37	drugs 2758 2769	Ceftriaxone
+T38	disorder 2822 2838	œdème douloureux
+T39	disorder 2840 2844	mou 
+T40	disorder 2847 2863	prenant le godet
+T41	disorder 3085 3111	diminution de sa mobilité 
+T42	disorder 3085 3130	diminution de sa mobilité et de son équilibre
+T43	irrelevant 3338 3379;3381 3425;3427 3508;3511 3543;3545 3566;3568 3601;3603 3640;3642 3693	Figure 3: Œdème du dos de la main gauche.  Figure 4: Œdème symétrique du dos des mains.  Question 2: Quel est l’examen complémentaire que vous n’effectuez pas à ce stade?   a) Vitesse de sédimentation (VS)  b) Facteur rhumatoïde  c) Anticorps antinucléaires (ANA)  d) Radiographie des poignets et mains  e) Anticorps anticytoplasme des neutrophiles (ANCA)
+T44	procedure 3698 3714	bilan biologique
+T45	disorder 3698 3714	bilan biologique
+T46	disorder 3734 3767	syndrome inflammatoire persistant
+T47	labvalue 3734 3767	syndrome inflammatoire persistant
+T48	labvalue 3778 3808	CRP toujours autour de 50 mg/l
+T49	labvalue 3832 3842	VS à 90 mm
+T50	procedure 3832 3842	VS à 90 mm
+T51	procedure 3971 4012	 radiographies des poignets et des mains 
+T52	disorder 3971 4012	 radiographies des poignets et des mains 
+T53	disorder 4025 4037	rhizarthrose
+T54	disorder 4025 4037	rhizarthrose
+T55	disorder 4053 4115	dépôts de chondrocalcinose dans le triangle annulaire du carpe
+T56	labvalue 4053 4115	dépôts de chondrocalcinose dans le triangle annulaire du carpe
+T57	labvalue 4147 4159	ANA négatifs
+T58	disorder 4147 4159	ANA négatifs
+T59	disorder 4188 4217	lupus érythémateux systémique
+T60	disorder 4188 4217	lupus érythémateux systémique
+T61	disorder 4219 4222	LES
+T62	irrelevant 4452 4476	granulomatose de Wegener
+T63	irrelevant 4536 4597;4600 4619;4621 4645;4647 4679;4681 4707;4709 4789	Question 3: Quel diagnostic différentiel ne retenez-vous pas?   a) Chondrocalcinose  b) Polymyalgia rhumatica  c) Lupus erythémateux systémique  d) Polyarthrite rhumatoide  e) Synovite symmétrique seronégative non progressive avec œdème prenant le godet
+T64	disorder 15165 15170	RS3PE
+T65	disorder 15182 15209	pathologies rhumatologiques
+T66	disorder 14750 14776	rhumatismes inflammatoires
+T67	disorder 14807 14834	arthrites microcristallines
+T68	disorder 14968 15004	polyarthrite séronégative œdémateuse
+T69	disorder 4873 4889	 polyarthralgies
+T70	disorder 4919 4950	synovites symétriques des mains
+T71	procedure 5210 5219	ponctions
+T72	disorder 6289 6321	spondylarthropathie séronégative
+T73	disorder 6480 6513	synovite ­symétrique séronégative
+T74	disorder 6801 6828	­arthrite microcristalline 
+T75	drugs 10200 10206	 AINS 
+T76	procedure 10412 10426	physiothérapie
+T77	procedure 10430 10442	ergothérapie
+T78	drugs 10695 10706	corticoïdes
+T79	disorder 8356 8448	atteinte des articulations métacarpophalangiennes et interphalangiennes proximales des mains
+T80	labvalue 8866 8893	 association avec le HLA-B7
+T81	irrelevant 7963 8016;8019 8049;8051 8078;8080 8116;8118 8147;8149 8196	Question 4: Quel est l’élément typique pour un RS3PE?   a) Prédominant chez les femmes  b) Association avec HLA-B27  c) Absence de syndrome inflammatoire  d) Facteur rhumatoide négatif  e) Atteintes articulaires distales avec érosion

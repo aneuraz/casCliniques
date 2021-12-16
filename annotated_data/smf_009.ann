@@ -1,0 +1,43 @@
+T1	drugs 93 102	sulpiride
+T2	drugs 106 118	halopéridol 
+T3	drugs 165 175	amlodipine
+T4	drugs 179 189	olmésartan
+T5	risk 202 217	tabagisme actif
+T6	disorder 268 307	troubles de la marche et de l’équilibre
+T7	disorder 349 417	difficulté croissante à réaliser ses activités de la vie quotidienne
+T8	irrelevant 474 529	Il marche actuellement avec l’aide d’une canne anglaise
+T9	procedure 679 696	bilan vitaminique
+T10	procedure 698 721	bilan de physiothérapie
+T11	procedure 723 755	dépistage des troubles cognitifs
+T12	irrelevant 829 901;904 923;925 949;951 974;976 999;1001 1017	Question 1: Quelle condition ne s’accompagne généralement pas de tremor?   a) Tremor essentiel  b) Maladie de Huntington  c) Prise médicamenteuse  d) Maladie de Parkinson  e) Orthostatisme
+T13	disorder 1021 1028	 tremor
+T14	disorder 1056 1087	tremor à prédominance cinétique
+T15	disorder 1219 1240	maladie de Huntington
+T16	disorder 1295 1403	moteurs de type chorée (succession de mouvements spontanés excessifs, abrupts, imprévisibles et irréguliers)
+T17	drugs 1556 1596	agonistes des récepteurs β-adrénergiques
+T18	drugs 1598 1607	thyroxine
+T19	drugs 1609 1618	valproate
+T20	risk 1620 1631	halopéridol
+T21	risk 1633 1641	­caféine
+T22	risk 1643 1649	alcool
+T23	disorder 1715 1736	 maladie de Parkinson
+T24	irrelevant 1993 2108;2111 2125;2127 2145;2147 2177;2179 2194;2196 2220	Question 2: Parmi les caractéristiques suivantes, laquelle est moins utile dans la recherche étiologique du tremor?   a) La symétrie  b) La localisation  c) L’amplitude et la fréquence  d) L’activation  e) L’anamnèse périnatale
+T25	drugs 7684 7719	inhibiteur de la DOPA-décarboxylase
+T26	drugs 7970 7979	mémantine
+T27	drugs 8080 8091	halopéridol
+T28	disorder 8367 8374	 tremor
+T29	irrelevant 7376 7432;7435 7449;7451 7463;7465 7495;7497 7526;7528 7570	Question 5: Quelle est la prise en charge plus adéquate?   a) Propranolol  b) Mémantine  c) Majoration de l’halopéridol  d) Un verre d’alcool par jour  e) Lévodopa/ inhibiteur DOPA-décarboxylase
+T30	disorder 6994 7015	 maladie de Parkinson
+T31	disorder 6913 6934	syndrome parkinsonien
+T32	irrelevant 6327 6379;6382 6401;6403 6454;6456 6479;6481 6507;6509 6542	Question 4: Quel est le diagnostic le plus probable?   a) Tremor essentiel  b) Syndrome parkinsonien induit par les médicaments  c) Maladie de Parkinson  d) Démence à corps de Lewy  e) Atrophie multisystémique (AMS)
+T33	procedure 4657 4695	scintigraphie à l’ioflupane (DaTSCAN™)
+T34	disorder 5444 5480	syndrome parkinsonien médicamenteux 
+T35	procedure 5575 5604	électroneuromyographie (ENMG)
+T36	procedure 3818 3838	angio-IRM cérébrale 
+T37	disorder 3986 4012	malformations vasculaires 
+T38	disorder 4019 4046	pathologies démyélinisantes
+T39	disorder 3910 3916	tremor
+T40	disorder 57 80	schizophrénie paranoïde
+T41	irrelevant 3511 3630;3633 3655;3657 3708;3710 3730;3732 3780;3782 3814	Question 3: Quel examen est le plus indiqué pour définir l’étiologie du tremor de ce patient avec le plus de certitude?   a) Angio-IRM cérébrale  b) Dosage du cuivre sanguin et de la céruloplasmine  c) Ponction lombaire  d) DaTSCAN™ («Dopamine active transporter scan»)  e) Electroneuromyographie (ENMG)
+T42	disorder 1807 1826	remor orthostatique
+T43	disorder 1872 1900	tremor symétrique des jambes

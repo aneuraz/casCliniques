@@ -1,0 +1,56 @@
+T1	irrelevant 0 12	Cas clinique
+T2	disorder 183 212	entorse de la cheville gauche
+T3	disorder 228 242	lésion osseuse
+T4	profession 274 292	médecin urgentiste
+T5	drugs 332 343	antalgiques
+T6	procedure 350 360	traitement
+T7	drugs 365 369	HBPM
+T8	profession 412 419	médecin
+T9	procedure 499 523	immobilisation par botte
+T10	procedure 573 583	déplâtrage
+T11	profession 597 607	urgentiste
+T12	disorder 624 632	hématome
+T13	disorder 692 700	fracture
+T14	profession 714 721	médecin
+T15	procedure 734 751	tomodensitométrie
+T16	procedure 823 840	résine circulaire
+T17	profession 998 1008	urgentiste
+T18	procedure 1120 1130	déplâtrage
+T19	procedure 1135 1142	Doppler
+T20	disorder 1163 1223	phlébite des veines péronière et tibiale postérieure gauches
+T21	procedure 1234 1244	traitement
+T22	drugs 1249 1253	HBPM
+T23	profession 1275 1285	urgentiste
+T24	procedure 1299 1314	bande élastique
+T25	profession 1345 1355	infirmière
+T26	profession 1402 1412	infirmière
+T27	disorder 1699 1707	douleurs
+T28	profession 1790 1800	urgentiste
+T29	drugs 1835 1844	Doliprane
+T30	disorder 1852 1860	douleurs
+T31	profession 2003 2013	infirmière
+T32	drugs 2050 2059	Doliprane
+T33	disorder 2089 2097	phlébite
+T34	profession 2162 2180	médecin urgentiste
+T35	disorder 2227 2235	douleurs
+T36	profession 2331 2341	urgentiste
+T37	disorder 2515 2522	douleur
+T38	disorder 2724 2731	douleur
+T39	profession 2871 2881	urgentiste
+T40	disorder 2886 2903	pied était gonflé
+T41	disorder 2905 2915	douloureux
+T42	procedure 2952 2973	ééducation avec appui
+T43	procedure 3066 3090	stimulations électriques
+T44	procedure 3097 3110	scintigraphie
+T45	disorder 3139 3159	algo-neurodystrophie
+T46	profession 3203 3210	médecin
+T47	profession 3253 3263	neurologue
+T48	disorder 3286 3322	paralysie du releveur du pied gauche
+T49	disorder 3328 3363	faiblesse de la flexion des orteils
+T50	disorder 3371 3440	troubles sensitifs prédominant à la partie externe et dorsale du pied
+T51	disorder 3466 3503	atteinte du sciatique poplité externe
+T52	procedure 3559 3592	immobilisation de la jambe gauche
+T53	procedure 3646 3666	rééducation optimale
+T54	disorder 3726 3781	atteinte sensitivo-motrice du sciatique poplité externe
+T55	disorder 3782 3785	SPE
+T56	disorder 3877 3889	hypoesthésie

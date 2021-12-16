@@ -1,0 +1,70 @@
+T1	profession 75 94	chirurgien-dentiste
+T2	drugs 103 161	vives douleurs dentaires supérieures, évoluant par crises.
+T3	disorder 103 161	vives douleurs dentaires supérieures, évoluant par crises.
+T4	irrelevant 17 72	me âgé de 26 ans, consultant en urgence le 10 décembre 
+T5	irrelevant 14 18	Homm
+T6	irrelevant 69 74	re un
+T7	irrelevant 95 102	pour de
+T8	procedure 219 236	des radiographies
+T9	procedure 255 275	des images kystiques
+T10	anatomy 276 344	sur les première et deuxième molaires supérieures droites (14 et 15)
+T11	disorder 182 207	un mauvais état dentaire,
+T12	irrelevant 162 181	Celui-ci constatait
+T13	irrelevant 208 218	pratiquait
+T14	irrelevant 237 253	qui objectivaien
+T15	irrelevant 252 254	nt
+T16	drugs 417 426	Clamoxyl 
+T17	procedure 359 395	un drainage ouvert de ces deux dents
+T18	procedure 448 470	’une relative sédation
+T19	profession 495 502	médecin
+T20	disorder 531 548	algies pharyngées
+T21	disorder 580 597	amygdalite droite
+T22	disorder 598 636	associée à des adénopathies cervicales
+T23	drugs 671 680	Clamoxyl®
+T24	disorder 867 882	d’une dysphagie
+T25	disorder 886 906	d’un trismus discret
+T26	drugs 919 928	Célestène
+T27	drugs 950 960	Rocéphine®
+T28	procedure 962 979	une injection IM 
+T29	procedure 979 1006	quotidienne pendant 5 jours
+T30	disorder 1099 1113	 trismus serré
+T31	disorder 1128 1140	hyperthermie
+T32	disorder 1144 1159	un œdème facial
+T33	profession 1201 1212	médecin ORL
+T34	disorder 1232 1249	un abcès dentaire
+T35	anatomy 1264 1299	a dent de sagesse inférieure droite
+T36	procedure 1325 1344	anesthésie générale
+T37	procedure 1380 1402	examen bactériologique
+T38	disorder 1494 1520	troubles de la conscience,
+T39	disorder 1521 1585	hyperthermie à 39°C et gonflement important de la face et du cou
+T40	profession 1599 1603	’ORL
+T41	profession 1729 1735	l’ORL 
+T42	procedure 1769 1791	un cliché panoramique 
+T43	procedure 1791 1800	dentaire 
+T44	procedure 1803 1827	un examen scanographique
+T45	profession 1856 1862	l’ORL 
+T46	disorder 1881 1889	un abcès
+T47	anatomy 1893 1945	plancher de la bouche intéressant la portion médiane
+T48	anatomy 1945 1994	 de la branche horizontale et du ramus mandibulai
+T49	anatomy 1994 1996	re
+T50	anatomy 1998 2064	la paroi latéropharyngée droite et la paroi pharyngée postérieure 
+T51	anatomy 2091 2130	un liquide nauséabond brunâtre typique 
+T52	disorder 2130 2160	des infections polymicrobienne
+T53	disorder 2160 2184	s à contingent anaerobie
+T54	procedure 2202 2255	l'extraction de la dent de sagesse inférieure droite 
+T55	drugs 2343 2353	Pipériline
+T56	drugs 2354 2376	, Tibéral® et Amiklin®
+T57	procedure 2452 2473	 réanimation médicale
+T58	procedure 2485 2640	réalisées 34 séances d'oxygénothérapie hyperbare d'une durée de 90 minutes chacune en association avec l'antibiothérapie précédente et une corticothérapie 
+T59	profession 2644 2656	Solumédrol®.
+T60	drugs 2642 2656	r Solumédrol®.
+T61	drugs 2644 2656	Solumédrol®.
+T62	procedure 2319 2339	une antibiothérapie 
+T63	anatomy 2271 2288	sac péricoronaire
+T64	procedure 2260 2322	exérèse du sac péricoronaire et curetage apical ainsi qu'à une
+T65	disorder 2818 2866	une ischémie des nerfs optiques droit et gauche.
+T66	disorder 2721 2742	une cécité bilatérale
+T67	disorder 2873 2880	cécité 
+T68	profession 2935 2954	MEDECIN GENERALISTE
+T69	profession 2961 2974	l’ORL libéral
+T70	profession 3059 3107	 CHIRURGIEN-DENTISTE par le médecin généraliste.

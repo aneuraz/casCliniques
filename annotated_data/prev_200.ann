@@ -1,0 +1,95 @@
+T1	disorder 132 147	obésité morbide
+T2	risk 229 282	depuis l'enfance, cette patiente présente un surpoids
+T3	risk 355 365	grossesses
+T4	risk 387 405	 famille d'obèses 
+T5	disorder 545 575	cholécystectomie cœlioscopique
+T6	procedure 609 629	laparotomie médiane 
+T7	disorder 633 644	 hémorragie
+T8	disorder 653 656	HTA
+T9	drugs 669 676	Olmetic
+T10	disorder 684 698	hernie hiatale
+T11	disorder 704 728	reflux gastro-œsophagien
+T12	disorder 732 757	lombalgie par discopathie
+T13	procedure 884 901	by-pass gastrique
+T14	procedure 1067 1084	By-pass gastrique
+T15	procedure 1298 1305	 bilans
+T16	procedure 1312 1325	pneumologique
+T17	procedure 1335 1348	cardiologique
+T18	procedure 1431 1443	intervention
+T19	procedure 1460 1488	consultation préanesthésique
+T20	procedure 1580 1592	hospitalisée
+T21	procedure 1627 1659	Micro-laparotomie sus-ombilicale
+T22	procedure 1512 1524	intervention
+T23	procedure 1661 1687	Introduction du cœlioscope
+T24	procedure 1689 1701	Insufflation
+T25	procedure 1704 1733	Ouverture de la pars flacida 
+T26	procedure 1810 1846	 confection d'une raquette gastrique
+T27	procedure 1872 1894	étage sous-mésocolique
+T28	procedure 1910 1933	anse bilio-pancréatique
+T29	procedure 2028 2046	 section du grêle 
+T30	procedure 2132 2150	raquette gastrique
+T31	procedure 2212 2238	confectionner l'anastomose
+T32	procedure 2314 2330	anse alimentaire
+T33	procedure 2439 2451	solidarisées
+T34	procedure 2467 2474	fixées 
+T35	procedure 2880 2892	intervention
+T36	procedure 2996 3010	Gastrographine
+T37	procedure 3018 3026	boissons
+T38	procedure 3033 3051	alimentation mixée
+T39	drugs 3092 3099	Innohep
+T40	procedure 3124 3148	consultation de contrôle
+T41	drugs 3220 3233	antiémétiques
+T42	procedure 3235 3238	CRP
+T43	labvalue 3241 3248	64 mg/l
+T44	disorder 3263 3283	aspect d'atélectasie
+T45	disorder 3289 3315	épanchement pleural gauche
+T46	procedure 3339 3353	Kinésithérapie
+T47	procedure 3365 3389	Transit œsogastrojéjunal
+T48	procedure 3549 3572	transit œsogastrojéunal
+T49	disorder 3672 3822	déformation en brioche de la coupole diaphragmatique gauche par une grosse tubérosité gastrique contenant de l'air avec probablement un niveau liquide
+T50	disorder 3823 3904	deux images de niveau liquide dont l'une très volumineuse en sous-hépatique droit
+T51	disorder 3938 3945	nausées
+T52	disorder 3975 3982	 hoquet
+T53	disorder 3984 3994	dorsalgies
+T54	procedure 4000 4005	selle
+T55	procedure 4008 4019	Température
+T56	labvalue 4022 4029	37 8°C 
+T57	labvalue 4041 4048	38 4 °C
+T58	procedure 4128 4144	Bilan biologique
+T59	disorder 4547 4558	diarrhéique
+T60	procedure 4899 4907	 by-pass
+T61	drugs 4966 4978	Innohep 3500
+T62	drugs 5101 5111	Inexium 40
+T63	drugs 5114 5127	 Delursan 250
+T64	drugs 5152 5161	Elevit B9
+T65	procedure 5227 5255	consultation postopératoire 
+T66	disorder 5586 5594	fatiguée
+T67	disorder 5688 5696	nausées 
+T68	disorder 5703 5739	efforts de vomissements improductifs
+T69	disorder 5823 5840	douleurs dorsales
+T70	disorder 5846 5853	nausées
+T71	disorder 5861 5883	efforts de vomissement
+T72	procedure 6082 6094	consultation
+T73	procedure 6257 6269	intervention
+T74	disorder 6303 6312	 douleurs
+T75	disorder 6603 6613	asthénique
+T76	disorder 6631 6644	vomissements 
+T77	disorder 6669 6679	lombalgies
+T78	disorder 6696 6699	gaz
+T79	procedure 6703 6718	examen clinique
+T80	labvalue 6725 6731	normal
+T81	procedure 6768 6770	PA
+T82	labvalue 6771 6777	130/70
+T83	procedure 6778 6784	 pouls
+T84	labvalue 6787 6789	82
+T85	drugs 6872 6880	Lamaline
+T86	disorder 6906 6917	 lombalgies
+T87	disorder 7082 7102	douleurs abdominales
+T88	drugs 7156 7168	Innohep 3500
+T89	procedure 7200 7202	PA
+T90	disorder 7303 7318	arrêt cardiaque
+T91	disorder 7423 7437	 choc septique
+T92	disorder 7458 7494	péritonite par perforation gastrique
+T93	disorder 7502 7526	occlusion haute du grêle
+T94	disorder 7531 7550	 ischémie duodénale
+T95	irrelevant 7557 7724	 Saisine de la Commission de Conciliation et d'Indemnisation (CCI), en novembre 2013, par le mari de la patiente pour obtenir l’indemnisation du préjudice qu’il a subi

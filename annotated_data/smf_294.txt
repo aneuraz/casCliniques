@@ -1,0 +1,161 @@
+Description du cas
+
+Un patient de 34 ans se présente chez son médecin ­généraliste pour une fatigue depuis 4 semaines et une toux avec état sub-fébrile à 37,8 °C.
+
+Le status est sans particularité. Au vu d’une suspicion d’infection des voies respiratoires supérieures, il est traité par Azithromycine 500 mg 1×/jour pendant 3 jours. Son état ne s’améliore pas, motivant une nouvelle consultation. L’auscultation révèle alors des râles cré­pitants à la base pulmonaire droite. Une prise de sang montre des leucocytes à 35 G/l (norme 4–10 G/l), une hémoglobine (Hb) à 87 g/l (norme 133–177 g/l), des thrombocytes à 82 G/l (norme 150–400 G/l), une CRP à 25 mg/l (norme <10 mg/l).
+
+La radiographie montre un foyer pulmonaire à la base droite.
+
+Question 1: Parmi ces examens, quel est celui qui vous semble le plus judicieux à effectuer à ce stade?
+
+a) La procalcitonine
+
+b) La répartition leucocytaire (formule sanguine complète, FSC)
+
+c) La vitesse de sédimentation (VS)
+
+d) Les tests hépatiques
+
+e) La créatinine
+
+La procalcitonine est parfois considérée comme une aide décisionnelle pour l’instauration d’une antibiothérapie dans le contexte d’une infection. Toutefois, sa valeur prédictive négative est faible.
+
+En raison d’une leucocytose avec bicytopénie, il est ­nécessaire d’effectuer une répartition leucocytaire. Celle-ci révèle la présence de 62% de blastes périphériques (fig. 1) ainsi qu’une neutropénie à 0,3 G/l (norme 1,8–7,5 G/l).
+
+La VS est difficile à interpréter dans un contexte d’infection et n’est donc pas conseillée.
+
+Les tests hépatiques et la créatinine seront nécessaires pour la suite de la prise en charge mais sont à réaliser en deuxième intention.
+
+Vu ces résultats, le patient est alors adressé aux urgences d’un hôpital universitaire. En effet, la présence de >20% de blastes dans le sang périphérique suffit pour poser le diagnostic d’une leucémie aiguë (LA).
+
+Question 2: Quel élément de la prise en charge n’est pas utile à ce stade?
+
+a) L’électrocardiogramme (ECG)
+
+b) Appeler l’hématologue de garde et effectuer une ponction-biopsie de moelle osseuse (PBM)
+
+c) Effectuer un bilan biologique complet
+
+d) Demander un avis infectiologique et réaliser un CT thoracique
+
+e) Demander un PET-CT
+
+L’ECG permet d’évaluer le rythme et donne une idée sur des signes anciens ou nouveaux d’ischémie myocardique pouvant avoir un impact sur les futurs traitements.
+
+En présence de blastes circulant >20%, il s’agit d’une LA. Il est alors indispensable d’effectuer une PBM pour ­définir le type de LA (lymphoblastique ou myéloïde) et les facteurs de risque permettant de classifier la ma­ladie, d’élaborer un traitement adéquat et d’estimer son pronostic.
+
+Un bilan sanguin large est également indispensable, notamment pour l’adaptation des chimiothérapies (tab. 1).
+
+Au vu de la leucocytose, il est nécessaire d’exclure une infection et de la traiter. En présence d’une neutro­pénie, ce patient est à risque d’infections opportunistes et aucune piste ne doit être négligée. Le CT thoraco-­abdominal est fréquemment réalisé dans ce but.
+
+Le PET-CT n’est normalement pas nécessaire lors de LA, il est plutôt privilégié dans les lymphomes ou tumeurs solides.
+
+Chez notre patient, les analyses sanguines sont sans particularités excepté un taux d’urate à 500 µmol/l (norme 140–340 µmol/l).
+
+La PBM confirme une leucémie myéloïde aiguë (LMA) avec caryotype complexe en cytogénétique conventionnelle (soit ≥3 anomalies en comparaison d’un ­caryotype normal 46,XY) et une mutation de TP53 au NGS («next generation sequencing»), gène tumeur suppresseur.
+
+Question 3: Dans l’attente du bilan complet et en présence de blastes avec leucocytose à 35 G/l, quelle proposition n’est pas juste?
+
+a) Introduire une hyperhydratation intraveineuse de 3 litres/jour
+
+b) Administrer du rasburicase ou de l’allopurinol
+
+c) Débuter de l’hydroxyurée
+
+d) Transfuser des concentrés érythrocytaires (CE) pour un seuil à 90 g/l
+
+e) Introduire un isolement protecteur
+
+En présence d’une hyperleucocytose, une hydratation est indispensable pour limiter les symptômes de leucostase et prévenir un syndrome de lyse tumorale.
+
+Lors d’urates élevés (>400 µmol/l) et/ou risque de syndrome de lyse tumorale élevé, le rasburicase est in­diqué en dose unique (0,2 mg/kg iv) puis à réévaluer ­selon le taux d’urates. Sinon, l’allopurinol 300 mg po 1×/jour suffit (100 mg lors d’insuffisance rénale importante), suivi par des contrôles du taux d’urates.
+
+L’hydroxyurée est effectivement indiquée lors de leucocytose >20 G/l mais reste à discuter avec l’hématologue. Elle ne sera efficace que lors d’une LMA car elle n’agit pas sur les lymphoblastes. Il faut donc rapidement connaître la lignée de la LA. Ceci est parfois possible par microscopie seule, étant donné que les blastes myéloïdes peuvent être granulaires et/ou comporter des bâtonnets d’Auer. Dans les autres cas, la cytométrie de flux sera nécessaire pour le diagnostic précis.
+
+Chez ce jeune patient en bonne santé habituelle, sans antécédent cardiaque, la cible de Hb est fixée à 70 g/l dans notre établissement. Il est important de s’abstenir de transfuser des CE chez des patients avec leucocytose afin d’éviter un syndrome de stase. Il n’y a donc ici pas d’indication à le transfuser.
+
+Vu l’agranulocytose, l’isolement protecteur est indispensable afin d’éviter de lui transmettre des germes.
+
+Question 4: Le diagnostic de LMA est donc posé, quelle proposition n’est pas relevante à ce stade?
+
+a) Pose de voie veineuse centrale (VVC)
+
+b) Ponction lombaire (PL)
+
+c) Récolte de sperme
+
+d) Densitométrie osseuse
+
+e) Échographie cardiaque
+
+Une VVC est nécessaire afin d’administrer les chimiothérapies de manière adéquate, de perfuser plusieurs médicaments en même temps (chimiothérapie, hydratation, CE et transfusions plaquettaires, antibiotiques, etc …) et sert également aux prises de sang quotidiennes.
+
+Une PL à but diagnostique est parfois effectuée (dans les LMA, selon les hôpitaux et le niveau de leucocytose, dans les leucémies lymphoblastiques aiguës [LLA], ­intégrée dans le traitement, pour les deux souvent ­directement suivie d’une chimiothérapie intrathécale) afin d’évaluer une atteinte centrale.
+
+La chimiothérapie peut causer une infertilité, surtout si une greffe de cellules souches est envisagée. Une récolte de sperme doit être effectuée chez tout patient en âge de procréer avant toute médication cytotoxique, si le patient le souhaite. À noter que la qualité du sperme n’est pas toujours suffisante lors de maladie sévère et que la caisse maladie ne rembourse pas les coûts.
+
+La densitométrie osseuse est effectuée dans la période juste avant et après l’allogreffe en raison du risque d’ostéoporose accrue. Cet examen est donc trop précoce et ne changera pas la prise en charge.
+
+L’échographie cardiaque est réalisée avant admini­stration de chimiothérapie cardiotoxique (comme les anthracyclines) afin d’évaluer la fonction cardiaque de base et s’assurer que celle-ci soit suffisante, vu l’hyper­hydratation et les potentiels effets secondaires.
+
+Question 5: Le patient souhaite discuter des options thérapeutiques et des traitements qu’il va recevoir. Il vous explique qu’il doit se rendre à une réunion importante la semaine prochaine. Parmi ces propositions, laquelle n’est pas envisageable?
+
+a) Débuter la chimiothérapie dans 1 semaine
+
+b) Inclusion dans un protocole
+
+c) Allogreffe de cellules souches hématopoïétiques
+
+d) Prophylaxies anti-infectieuses
+
+e) Transfert dans une unité spécialisée, soins continus ou soins intensifs
+
+Lors de LA, il est impératif de débuter un traitement rapidement. Le degré d’urgence dépend des comorbidités (coagulation intravasculaire disséminée, insuffisance rénale ou hépatique, sepsis sévère/choc septique). Des études ont clairement montré que temporiser le début de la chimiothérapie diminue la survie des patients [1]. L’option d’attendre n’est donc pas indiquée et ceci, malgré le souhait du patient.
+
+Selon l’âge et la pathologie, chaque patient souffrant d’une LA devrait être inclus dans un protocole de thérapie, afin d’améliorer les résultats. En effet, la survie des patients souffrant de LLA a pu être améliorée d’une manière significative ces dernières années. Les progrès ont été moins significatifs dans les LMA, à l’exception de certains sous-groupes. En Suisse, plusieurs pro­tocoles sont à disposition selon les types de leucémies et les groupes d’âge.
+
+L’allogreffe n’est pas un traitement de première ligne, elle n’est possible qu’après l’obtention d’une rémission complète. Elle nécessite un donneur HLA-compatible, de préférence quelqu’un de la fratrie ou alors un donneur non-apparenté du registre international. Elle devient une option après les chimiothérapies d’induction chez des patients avec une maladie à haut risque de ­rechute (comme chez notre patient avec un caryotype complexe et une mutation TP53, deux facteurs de mauvais pronostic).
+
+Les prophylaxies anti-infectieuses varient en fonction des hôpitaux et des protocoles. Il s’agit généralement d’un anti-bactérien (sulfaméthoxazole et triméthoprime), d’un anti-fongique (fluconazole) et d’un anti-­viral (valaciclovir).
+
+Notre patient est alors hospitalisé dans notre centre hospitalier universitaire, dans l’unité d’isolement, pour y débuter sa chimiothérapie. Elle comprend de la cytarabine (antimétabolite, antagoniste de la pyrimidine, aussi appelé Ara-C) sur 7 jours et de l’idarubicine (anthracycline) sur 3 jours (régime communément appelé «7+3»), qui est le traitement standard établi depuis de nombreuses années et qui reste encore la meilleure thérapie disponible.
+
+Question 6: Parmi les effets secondaires possibles après une chimiothérapie intensive, lequel n’est pas fréquent?
+
+a) Éruption cutanée érythémateuse
+
+b) Diarrhées
+
+c) Perte immédiate de cheveux dans la première semaine de chimiothérapie
+
+d) Pancytopénie
+
+e) Nausées
+
+La cytarabine est souvent responsable de l’apparition d’un rash cutané érythémateux, au niveau des bras et des jambes et atteignant parfois les faces palmo-plantaires. Il peut se compliquer par la formation de cloques et nécessite l’administration de prednisone orale pendant quelques jours en plus d’une application large de crème hydratante et de corticostéroïde topique d’activité forte (classe III, par exemple mométasone).
+
+Les autres effets secondaires sont expliqués par le fait que la chimiothérapie touche toutes les cellules qui se divisent rapidement : au niveau des cheveux (alopécie), des muqueuses gastro-intestinales (mucite, diarrhées) et les cellules hématopoïétiques (pancytopénie).
+
+Contrairement aux idées reçues, la perte de cheveux n’apparaît pas avant 2–3 semaines après le début du traitement. L’arrêt des cytotoxiques permettra la repousse des cheveux dans un laps de temps variable selon les patients (plusieurs semaines à plusieurs mois).
+
+Les nausées peuvent être bien contrôlées avec l’utili­sation prophylactique d’aprépitant (antagoniste des ­récepteurs de la neurokinine 1) et de palonosétron (ant­agoniste des récepteurs de la sérotonine 5HT3). Les éventuelles nausées ultérieures peuvent être améliorées en ré-administrant ces substances, avec des benzodia­zépines et parfois des corticoïdes (tab. 2). Des études montrent un bénéfice d’ajouter l’olanzapine (neuroleptique atypique utilisé dans le traitement de la schizophrénie) pour la prévention et le traitement des nausées [2].
+
+Discussion
+
+La leucémie myéloïde aiguë (LMA) est une maladie rare, touchant environ 2–3/100 000 personnes. La présen­tation clinique est variable et dépend principalement de l’atteinte des 3 lignées cellulaires sanguines. En ­présence de symptômes d’anémie, d’infection ou de saignements inhabituels/pétéchies, une FSC à la recherche d’anomalies variées est indiquée. Souvent, ces patients se présentent rapidement au cabinet du ­médecin généraliste, d’où l’importance de cibler une éventuelle néoplasie hématologique en présence de ces symptômes.
+
+Le bilan nécessite également une PBM pour identifier de manière précise la maladie et le pronostic afin de déterminer la meilleure thérapie possible.
+
+Avec les progrès scientifiques, notamment les analyses cytogénétiques, le traitement devient plus spécifique en fonction des anomalies retrouvées dans les divers examens et de plus en plus de sous-classes de leucémies sont objectivées. L’OMS a par ailleurs publié en 2016 [3] une révision de la classification des tumeurs ­hématopoïétiques (tab. 3).
+
+En fonction de l’âge, des comorbidités et du désir du ­patient, le traitement d’une LMA repose en principe sur la chimiothérapie 7+3, souvent suivie d’une allogreffe lorsqu’un donneur HLA-compatible est disponible. Dans le cas contraire, pour les patients jusqu’à 65 ans, une greffe avec un donneur familial uniquement à moitié compatible (un parent ou un enfant) est une ­option de nos jours.
+
+Les complications du traitement d’une LMA sont liées à la maladie elle-même mais aussi à la chimiothérapie et surtout à l’agranulocytose qui en résulte, mettant le patient au risque d’infections parfois sévères.
+
+La prise en charge de ces patients nécessite une collaboration étroite entre hématologues, internistes et ­infectiologues.
+
+Réponses aux questions
+
+Question 1: b. Question 2: e. Question 3: d. Question 4: d.
+
+Question 5: a. Question 6: c.

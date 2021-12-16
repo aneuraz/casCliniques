@@ -1,0 +1,79 @@
+Contexte
+
+De nombreux diagnostics différentiels sont envisageables en présence d’un tableau clinique d’ulcère de jambe (voir tab. 1). Les causes rares incluent des lymphomes avec manifestations cutanées. Cet exemple de cas concerne le diagnostic d’un lymphome B diffus à grandes cellules («diffuse large B-cell lymphoma» [DLBCL]) positif au virus d’Epstein Barr (EBV), accompagné d’une manifestation principalement cutanée et d’ulcérations.
+
+Tableau 1: Diagnostics différentiels d’un ulcère de jambe (tableau modifié) [1–3, 5].
+Causes vasculaires	Artériopathie périphérique oblitérante
+Insuffisance veineuse chronique
+Vascularite
+Microangiopathie avec/sans neuropathie en cas de diabète sucré
+Causes hémato­logiques	Maladies hématologiques (notamment drépanocytose, thalassémie)
+Troubles de la coagulation (notamment carence en protéine C, S ou antithrombine III)
+Infections	Infections bactériennes
+Infections virales
+Mycoses
+Infections à protozoaires
+Malignomes	Carcinome basocellulaire
+Carcinome épidermoïde
+Mélanome malin
+Lymphome
+Causesmétaboliques	Médicaments (p. ex. hydroxyurée, méthotrexate, phénprocoumone)
+Goutte
+Traumatismes/causes physiques	Décubitus
+Brûlure
+Gelure
+Brûlure chimique
+Rapport de cas
+Anamnèse
+
+La patiente âgée de 76 ans a été adressée au cabinet de médecine de famille pour l’examen diagnostique d’ulcères de jambe bilatéraux présents depuis environ huit semaines. A part une sudation nocturne prononcée, l’anamnèse n’a identifié aucun symptôme B. Le dossier de la patiente révèle que, deux mois auparavant, les extrémités inférieures présentaient un gonflement douloureux, prononcé et d’étendue égale des deux côtés au niveau distal des pieds et de la partie inférieure des jambes ainsi que des œdèmes marqués par la pression; des ganglions lymphatiques mobiles et indolores étaient en outre palpables dans la région inguinale. Une rougeur/hyperpigmentation superficielle partiellement indurée de la peau est survenue sous traitement compressif au niveau des deux jambes. Par la suite, les indurations cutanées douloureuses se sont transformées en lésions ouvertes: notamment une importante lésion prétibiale à gauche et une lésion sur la partie médiale du mollet droit avec développement d’un ulcère floride étendu, dépôt de fibrine et bords nécrosés de la plaie.
+
+L’échographie Doppler n’a révélé aucun signe de phlébothrombose. Il n’a pas non plus été possible d’identifier une macroangiopathie significative (indice tibio-­brachial: à droite 1,21, à gauche 1,33).
+
+Les analyses biochimiques révélant un taux accru de protéine C-réactive (CRP: 21,9 mg/l, valeur normale: <5,0 mg/l) ainsi qu’un taux accru d’anticorps antinucléaires (AC anti-dsDNA: 32 IU/ml, valeur normale: <10 IU/ml), un traitement par 50 mg de prednisolone pendant 7 jours a été débuté en présence d’une suspicion initiale de vascularite avant le transfert en stationnaire. Sous ce traitement, la rougeur et les œdèmes périphériques de la partie inférieure des jambes ont régressé, tandis que les ulcères désormais partiellement nécrotiques ont progressé (fig. 1).
+
+Figure 1: Lésions dans la partie inférieure de la jambe droite A) et la partie inférieure médiane de la jambe gauche B). (La publication a été réalisée avec l’accord de la patiente).
+
+Résultats
+
+Au moment de l’admission, les analyses biochimiques ont révélé une anémie normochrome normocytaire avec un taux d’hémoglobine de 109 g/l (valeur normale: 120–160 g/l), une vitesse de sédimentation de 64 mm/h (valeur normale: <20 mm/h) et un taux de CRP de 33,9 mg/l (valeur normale: <5,0 mg/l). Outre une valeur accrue de lactate déshydrogénase (LDH) avec un maximum de 322 U/l (valeur normale: 135–214 U/l), le taux d’anticorps anti-dsDNA demeurait accru avec 32 IU/ml (valeur normale: <10 IU/ml) et le complément C3 légèrement abaissé avec 0,85 g/l (valeur normale: ­0,90–1,80 g/l). L’électrophorèse des protéines était compatible avec une réaction inflammatoire chronique et l’immunofixation n’a fourni aucun signe de paraprotéine. Le dépistage de l’EBV a révélé des anticorps IgG en l’absence d’anticorps IgM.
+
+L’examen histologique de la biopsie d’une des lésions du mollet droit a révélé des infiltrats prononcés au niveau périvasculaire de cellules lymphoïdes atypiques de taille moyenne à grande avec infiltration et destruction des parois vasculaires. Des analyses immuno­histochimiques ont notamment montré une positivité pour la CD20 (une protéine superficielle des lymphocytes B). L’EBV a pu être mis en évidence dans presque toutes les cellules tumorales.
+
+Diagnostic
+
+Au vu de l’histologie et de l’immunohistologie, le diagnostic d’une infiltration dermique et sous-cutanée d’un DLBCL EBV-positif à croissance angiocentrique et angiodestructive avec ulcération a été établi. L’analyse cytogénétique au moyen de la «fluorescence in situ hybridization» (FISH) n’a pas pu mettre en évidence la translocation chromosomique et l’activation de «myelocytomatosis oncogene cellular homolog» (c-MYC), un proto-oncogène qui régule l’expression des gènes de la croissance cellulaire et la différenciation cellulaire, ni celle de «B-cell lymphoma-2» (Bcl-2), un gène qui contrôle la mort cellulaire (apoptose). Une modification génétique de ces gènes ou de gènes apparentés est nécessaire pour l’estimation du pronostic. En particulier, la mise en évidence d’une ou plusieurs modifications génétiques indique un pronostic plutôt défavorable.
+
+Un staging subséquent a révélé, lors de la tomographie par émission de positons au fluorodéoxyglucose (FDG-PET), en plus d’une forte activité FDG au niveau des deux jambes, une absorption pulmonaire à gauche ainsi qu’au niveau des ganglions lymphatiques iliaques. Il existait ainsi une suspicion élevée d’atteinte pulmonaire, de sorte que le diagnostic d’un DLBCL EBV-positif de stade IV-B avec manifestation pulmonaire, nodale et cutanée a été établi.
+
+Traitement et évolution
+
+Un traitement combiné associant une chimiothérapie (CHOP [cyclophosphamide, hydroxydaunorubicine, vincristine, prednisone]) et un anticorps anti-CD20 (rituximab) a été initié, sous lequel les ulcérations ont par la suite cicatrisé (fig. 2).
+
+Figure 2: Lésions dans la partie inférieure de la jambe droite A) et la partie inférieure médiane de la jambe gauche B). (La publication a été réalisée avec l’accord de la patiente.)
+
+Lors de la FDG-PET de suivi réalisée à court terme trois mois après le début du traitement, les manifestations lymphomateuses connues ont présenté une nette régression de volume ainsi qu’une diminution de l’activité métabolique.
+
+Discussion
+
+Pour résumer, la maladie de cette patiente est un DLBCL EBV-positif de stade IV-B avec atteinte pulmonaire, nodale et cutanée. Etant donné qu’aucune biopsie n’a été réalisée dans le poumon, une néoplasie secondaire est possible mais toutefois improbable vu l’évolution. Sur le plan clinique, l’atteinte cutanée avec ulcères de jambe se trouvait au premier plan et a abouti à l’établissement du diagnostic.
+
+La manifestation cutanée d’un lymphome fait partie des diagnostics différentiels rares d’un ulcère de jambe, le plus souvent dû à une problématique d’ordre vasculaire [1]. Les causes fréquentes sont également des troubles de la microcirculation en cas de diabète sucré, généralement combinés à une neuropathie – des traumatismes physiques, infections et inflammations vasculaires d’origine auto-immune étant plus rares (tab. 1) [1–3].
+
+Une anamnèse précise prenant en compte l’évolution temporelle et la réponse aux mesures thérapeutiques est essentielle pour le diagnostic différentiel, tout comme la question de la douleur et l’examen clinique portant une attention particulière à la localisation, la délimitation de la lésion, la peau environnante, les signes d’atrophie ainsi que le statut veineux et le pouls.
+
+En ce qui concerne les appareils diagnostiques, l’échographie Doppler du système veineux ainsi que la mesure de l’indice tibio-brachial occupent le premier plan. En présence d’ulcères atypiques qui ne montrent aucune tendance à la résorption au bout de trois mois de traitement, augmentent rapidement en taille ou s’accompagnent de symptômes secondaires tels qu’un livedo réticulaire ou un purpura palpable, il convient d’adresser le patient à un dermatologue et, en présence d’ulcères vasculaires, de faire appel précocement aux consœurs et confrères spécialisés en angiologie et chirurgie vasculaire. Les anomalies inexpliquées doivent, particulièrement en présence d’une suspicion de maladie systémique, faire l’objet d’une biopsie de la zone marginale et être évaluées sur le plan pathologique ou dermato-pathologique [1, 2].
+
+Le DLBCL représente une maladie très hétérogène au sein de laquelle divers sous-types peuvent être différenciés selon la technique histologique, immunohistochimique et génétique [4]. Le DLBCL/NOS (NOS: «not otherwise specified») EBV-positif diagnostiqué chez notre patiente constitue l’un des sous-types et peut survenir à tout âge et présenter des caractéristiques communes avec une granulomatose lymphomatoïde [4]. Une manifestation extranodale semble souvent survenir chez ce sous-type, les manifestations cutanées se présentant sous forme de plaques ou nodules érythémateux, typiquement non ulcéreux, en particulier au niveau des extrémités inférieures [4].
+
+En fonction du stade de la maladie, une chimio-immunothérapie est pratiquée avec ou sans radiothérapie complémentaire [4].
+
+L’évaluation du pronostic de cette maladie hétérogène dépend fortement de divers paramètres cliniques et biochimiques ainsi que de la classification génétique moléculaire, qui sont résumés dans l’index pronostique international (IPI) [4].
+
+L’essentiel pour la pratique
+
+• En présence d’ulcères de jambe, il convient d’envisager également les maladies néoplasiques en tant que diagnostics différentiels. Une biopsie précoce avec prélèvements multiples doit être considérée en cas d’évolution atypique.
+
+• Le lymphome B diffus à grandes cellules (DLBCL) positif au virus d’Epstein Barr (EBV) est un lymphome non hodgkinien agressif.
+
+• La confirmation histologique du diagnostic avec réalisation d’une analyse immunohistochimique et cytogénétique représente la condition nécessaire pour une évaluation du pronostic et un traitement optimal.

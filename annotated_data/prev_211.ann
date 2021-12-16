@@ -1,0 +1,106 @@
+T1	irrelevant 0 12	Cas Clinique
+T2	profession 77 84	médecin
+T3	profession 99 109	neurologue
+T4	disorder 119 155	troubles sensitifs de la main droite
+T5	disorder 184 215	Syndrome du canal carpien droit
+T6	procedure 217 242	intervention chirurgicale
+T7	profession 380 403	chirurgien orthopédiste
+T8	profession 415 422	médecin
+T9	drugs 480 489	Préviscan
+T10	disorder 581 620	accident vasculaire cérébral ischémique
+T11	disorder 625 649	fibrillation auriculaire
+T12	disorder 683 691	diplopie
+T13	profession 714 724	chirurgien
+T14	procedure 753 778	intervention chirurgicale
+T15	procedure 834 843	chirurgie
+T16	drugs 1039 1048	Préviscan
+T17	drugs 1056 1063	Lovenox
+T18	drugs 1153 1162	Préviscan
+T19	drugs 1215 1239	traitement anticoagulant
+T20	drugs 1244 1251	Lovenox
+T21	procedure 1413 1454	neurolyse du nerf médian au canal carpien
+T22	procedure 1494 1517	bloc du plexus brachial
+T23	profession 1624 1636	anesthésiste
+T24	procedure 1698 1715	test d'aspiration
+T25	profession 1808 1815	médecin
+T26	profession 1862 1874	anesthésiste
+T27	drugs 1900 1909	Préviscan
+T28	drugs 1978 1985	Lovenox
+T29	drugs 1995 2004	Préviscan
+T30	drugs 2059 2068	Préviscan
+T31	procedure 2202 2205	INR
+T32	labvalue 2208 2212	1,16
+T33	procedure 2235 2238	INR
+T34	labvalue 2240 2244	1,37
+T35	procedure 2268 2271	INR
+T36	labvalue 2274 2278	1,86
+T37	profession 2308 2315	médecin
+T38	drugs 2406 2415	Préviscan
+T39	disorder 2592 2614	douleurs du bras droit
+T40	disorder 2655 2663	hématome
+T41	profession 2802 2820	médecin urgentiste
+T42	profession 2888 2906	médecin régulateur
+T43	profession 3077 3087	chirurgien
+T44	disorder 3308 3342	hématome de la loge antéro-externe
+T45	procedure 3623 3626	INR
+T46	labvalue 3638 3642	3,09
+T47	drugs 3670 3677	Lovenox
+T48	drugs 3695 3706	antalgiques
+T49	drugs 3748 3756	Tramadol
+T50	drugs 3758 3765	Néfopam
+T51	disorder 3881 3897	hématome du bras
+T52	profession 3961 3968	médecin
+T53	drugs 4078 4087	Préviscan
+T54	disorder 4148 4156	hématome
+T55	drugs 4398 4405	Néfopam
+T56	drugs 4412 4423	Paracétamol
+T57	procedure 4499 4502	INR
+T58	labvalue 4521 4524	5,2
+T59	profession 4593 4600	médecin
+T60	drugs 4630 4641	antalgiques
+T61	procedure 4661 4664	INR
+T62	profession 4669 4680	généraliste
+T63	profession 4771 4781	chirurgien
+T64	profession 5035 5045	chirurgien
+T65	profession 5119 5131	anesthésiste
+T66	procedure 5154 5168	bloc axillaire
+T67	profession 5294 5304	chirurgien
+T68	procedure 5319 5322	INR
+T69	labvalue 5353 5357	4,59
+T70	profession 5379 5390	infirmières
+T71	procedure 5449 5456	douleur
+T72	labvalue 5472 5476	7/10
+T73	disorder 5498 5524	paralysie des nerfs radial
+T74	disorder 5526 5532	médian
+T75	disorder 5536 5550	ulnaire droits
+T76	profession 5555 5565	chirurgien
+T77	disorder 5587 5606	yndrome de Volkmann
+T78	disorder 5773 5793	syndrome de Volkmann
+T79	procedure 5919 5922	IRM
+T80	profession 5971 5981	radiologue
+T81	disorder 6018 6026	hématome
+T82	procedure 6091 6102	échographie
+T83	disorder 6183 6210	paralysie de la main droite
+T84	disorder 6134 6158	gonflement total du bras
+T85	disorder 6246 6254	hématome
+T86	disorder 6573 6581	hématome
+T87	disorder 6743 6785	paralysie totale du membre supérieur droit
+T88	procedure 6789 6801	écho-doppler
+T89	disorder 6816 6824	hématome
+T90	procedure 6918 6925	scanner
+T91	disorder 6939 6947	hématome
+T92	procedure 7096 7099	IRM
+T93	procedure 7117 7130	l'échographie
+T94	procedure 7280 7283	INR
+T95	labvalue 7286 7289	2,5
+T96	procedure 7343 7346	INR
+T97	disorder 7364 7372	hématome
+T98	disorder 7460 7485	paralysie tri-tronculaire
+T99	drugs 7541 7548	Lovenox
+T100	drugs 7579 7586	Lovenox
+T101	drugs 7605 7608	AVK
+T102	disorder 7676 7692	lourdeur du bras
+T103	disorder 7759 7767	douleurs
+T104	drugs 7827 7833	Lyrica
+T105	drugs 8010 8025	antidépresseurs
+T106	disorder 8053 8107	atteinte motrice et sensitive du plexus brachial droit

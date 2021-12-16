@@ -1,0 +1,50 @@
+T1	irrelevant 10 281	Dans cet article, nous rapportons le cas d’une patiente de 54 ans avec douleurs épigastriques récidivantes, vomisse­ments et perte de poids. La cause des symptômes s’est avérée être une gastrite antrale ulcéreuse sévère due à une infection rare à Helicobacter Heilmannii.
+T2	procedure 371 396	gastroscopie ambulatoire 
+T3	disorder 409 443	douleurs épigastriques en ceinture
+T4	procedure 702 770	test de recherche d’antigènes d’Helicobacter pylori dans les selles 
+T5	profession 785 792	médecin
+T6	labvalue 818 826	 négatif
+T7	drugs 847 886	inhibiteurs de la pompe à protons (IPP)
+T8	disorder 1076 1096	douleurs abdominales
+T9	disorder 1318 1357	syndrome du canal carpien du côté droit
+T10	procedure 1360 1457	’anamnèse familiale relative aux cancers et aux maladies inflammatoires chroniques de l’intestin 
+T11	labvalue 1463 1482	sans particularités
+T12	procedure 1576 1593	paramètres vitaux
+T13	labvalue 1602 1609	normaux
+T14	procedure 1611 1630	pression artérielle
+T15	procedure 1659 1670	température
+T16	procedure 1645 1651	pouls 
+T17	labvalue 1631 1643	130/94 mm Hg
+T18	labvalue 1651 1657	61/min
+T19	labvalue 1671 1678	36,5 °C
+T20	procedure 1943 1953	hémogramme
+T21	procedure 1955 1958	CRP
+T22	procedure 1960 1981	paramètres hépatiques
+T23	procedure 1983 2007	paramètres de cholestase
+T24	procedure 1983 2007	paramètres de cholestase
+T25	procedure 1805 1831	es analyses de laboratoire
+T26	procedure 2038 2067	œsophago-gastro-duodénoscopie
+T27	labvalue 2112 2157	lésions ulcéreuses circulaires de la muqueuse
+T28	procedure 2284 2292	biopsies
+T29	procedure 2444 2455	endoscopie 
+T30	labvalue 2466 2499	gastrite antrale ulcéreuse sévère
+T31	procedure 2506 2525	examen histologique
+T32	procedure 2531 2560	biopsies de l’antre gastrique
+T33	labvalue 2618 2836	inflammation ulcéreuse chronique sévère très active avec mise en évidence d’organismes semblables à Helicobacter pylori, qui ont pu être classifiés en tant qu’Helicobacter Heilmannii à l’examen pathologique approfondi 
+T34	disorder 2885 2921	gastrite antrale ulcéreuse prononcée
+T35	procedure 3120 3132	gastroscopie
+T36	drugs 3203 3215	pantoprazole
+T37	procedure 3359 3378	examen histologique
+T38	drugs 3254 3258	IPP 
+T39	drugs 3522 3534	amoxicilline
+T40	drugs 3546 3561	clarithromycine
+T41	drugs 3546 3561	clarithromycine
+T42	drugs 3576 3589	métronidazole
+T43	drugs 3604 3616	pantoprazole
+T44	drugs 3693 3708	antibiothérapie
+T45	procedure 3746 3767	contrôle endoscopique
+T46	drugs 3925 3940	antibiothérapie
+T47	drugs 4009 4019	Bioflorin®
+T48	procedure 4084 4113	œsophago-gastro-duodénoscopie
+T49	procedure 4236 4256	examen histologique 
+T50	irrelevant 4423 4433;4435 6003;6005 6996;6998 8364;8366 8939;8941 9452;9454 9482;9484 9675;9677 9862;9864 9979;9981 10060	Discussion  Depuis la première culture réussie d’Helicobacter pylori, une bactérie spiralée à Gram négatif, en 1982, plus de 30 espèces d’Helicobacter ont été décrites. Les espèces gastriques non-Helicobacter pylorisont regroupées sous le terme Helicobacter Heilmannii, ou plus précisément Helicobacter Heilmannii sensu lato dans la mesure où aucun séquençage génétique ne permet une subdivision en différents sous-groupes, vu que les différentes espèces ne peuvent pas être distinguées les unes des autres sur le plan morphologique. Jusqu’à présent, 11 espèces différentes d’Helicobacter Heilmannii sensu lato, qui peuvent infecter l’estomac d’animaux domestiques et sauvages, ont été décrites. La bactérie Helicobacter Heilmannii a également été décrite dans la cavité buccale et la salive d’animaux domestiques, tels que le chat et le chien. Cinq de ces 11 espèces d’Heli­cobacter Heilmanniipeuvent également se retrouver dans l’estomac humain (Helicobacter suis, felis, bizzozeronii, salomonis et heilmannii sensu strictu). Dans différentes descriptions de cas, une transmission de l’animal à l’homme par contact direct avec des animaux (domestiques) a dès lors été supposée; il semble également y avoir une survenue accrue dans les zones rurales où les contacts avec les animaux sont plus nombreux. Par ailleurs, une infection par de la viande de porc crue contaminée a été rapportée. D’une manière générale, l’infection à Helicobacter Heilmannii est considérée comme une zoonose; les taux d’infection rapportés dans les biopsies gastriques humaines sont inférieurs à 1% [1].  Le diagnostic d’infection à Helicobacter Heilmannii est complexe par rapport à Helicobacter pyloriet il requiert généralement un examen histologique. Dans le cadre du diagnostic, la morphologie quelque peu différente des bactéries ainsi que les colorations à base d’argent («Steiner» et «Warthin-Starry») ou la coloration à l’hématoxyline et à l’éosine sont utiles pour le pathologiste. L’analyse par réaction de polymérisation en chaîne (PCR) avec séquençage génétique est la méthode la plus précise. Il n’existe pas d’anticorps spécifiques pour la confirmation immunohistochimique du diagnostic. Le test rapide à l’uréase et la culture in vitro ne sont pas fiables en raison du nombre le plus souvent faible de bactéries et de la culture plus difficile par rapport à Helicobacter pylori. De même, les tests non invasifs usuels pour Helicobacter pylori(antigènes dans les selles, test respiratoire au C13, sérologie) ne peuvent pas être utilisés avec fiabilité pour Helicobacter Heilmannii.  Les infections à Helicobacter Heilmannii sensu lato semblent préférentiellement toucher l’antre gastrique et d’après la littérature, elles provoquent le plus souvent une gastrite chronique active uniquement légère. En outre, la gastrite a avant tout été décrite comme étant focale. Cela s’oppose clairement au cas de notre patiente, qui présentait une gastrite antrale ulcéreuse très active touchant pratiquant tout l’antre gastrique de façon circulaire. Les patients peuvent soit être asymptomatiques soit, comme dans le cas de notre patiente, se présenter avec des symptômes dyspeptiques, tels que douleurs épigastriques chroniques, nausées/vomissements, inconfort postprandial ou dysphagie et reflux. La bactérie Helicobacter Heilmannii a également été décrite en lien avec l’ulcère peptique, le carcinome gastrique et le lymphome gastrique de type «mucosa associated lymphoid tissue» (MALT). En particulier pour le lymphome de type MALT, la prévalence semble être plus élevée en cas d’infection à Helicobacter Heilmanniiqu’en cas d’infection à Helicobacter pylori. Ainsi, dans une analyse de données rétrospective sur une période de 10 ans, Stolte et al. ont retrouvé une prévalence du lymphome MALT deux fois plus élevée chez les patients avec infection à Helicobacter Heilmannii par rapport aux patients avec infection à Helicobacter pylori (1,5 vs. 0,7%) [2].  Le traitement de l’infection à Helicobacter Heilmannii fait appel à des schémas d’éradication analogues à l’éradication d’Helicobacter pylori classique. Dans des descriptions de cas individuels provenant du Japon, une éradication réussie a pu être obtenue par trithérapie (IPP, amoxicilline, clarithromycine) [3]. Comme notre patiente présentait une inflammation ulcéreuse prononcée, nous avons opté pour une quadrithérapie concomitante d’une durée de 14 jours, comme le préconisent les lignes directrices allemandes S2k relatives à l’éradication d’Helicobacter pylori [4].  En raison de la prévalence accrue de lymphomes de type MALT mentionnée précédemment, un contrôle de l’éradication semble incontournable. Dans la mesure où les tests non invasifs ne sont pas fiables, ce contrôle devrait faire appel à l’endoscopie et à la biopsie. A cet égard, il convient de noter que l’examen devrait avoir lieu au plus tôt 4 semaines après l’arrêt de l’antibiothérapie ou 2 semaines après l’arrêt du traitement par IPP sous peine d’obtenir des résultats faussement négatifs à l’histologie [4].  L’essentiel pour la pratique  • L’infection à Helicobacter Heilmannii peut être une cause rare de symptômes dyspeptiques. Il s’agit probablement d’une zoonose, qui est transmise par contact avec des animaux (domestiques).  • Les tests non invasifs (recherche d’antigènes d’Helicobacter pylori dans les selles, test respiratoire au C13) ne sont pas fiables. Le diagnostic est généralement posé par endoscopie.  • Les patients avec infection à Helicobacter Heilmannii semblent présenter une prévalence accrue de lymphomes MALT.  • Le traitement est analogue au traitement d’éradication d’Helicobacter pylori.

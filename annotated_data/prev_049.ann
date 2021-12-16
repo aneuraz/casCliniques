@@ -1,0 +1,64 @@
+T1	disorder 51 90	occlusion de l’intestin grêle sur bride
+T2	procedure 113 138	ntervention chirurgicale 
+T3	procedure 181 193	ntervention 
+T4	disorder 198 237	récidive d’occlusion intestinale aiguë 
+T5	procedure 257 285	courte résection intestinale
+T6	disorder 415 437	 épisodes subocclusifs
+T7	procedure 500 518	traitement médical
+T8	procedure 520 540	aspiration digestive
+T9	procedure 542 563	lavements évacuateurs
+T10	procedure 565 585	administration orale
+T11	labvalue 589 603	Gastrographine
+T12	procedure 609 621	njection IM 
+T13	labvalue 624 635	Prostigmine
+T14	disorder 890 923	ballonnement abdominal douloureux
+T15	disorder 930 957	arrêt du transit intestinal
+T16	procedure 1019 1057	adiographie d’abdomen sans préparation
+T17	procedure 1155 1168	radiographie 
+T18	disorder 1304 1339	aspect typique d’occlusion du grêle
+T19	procedure 1553 1563	coloscopie
+T20	procedure 1758 1801	mise en aspiration par sonde naso-gastrique
+T21	procedure 1803 1824	lavements évacuateurs
+T22	drugs 1826 1837	Prostigmine
+T23	procedure 1843 1853	perfusion 
+T24	drugs 1856 1869	1000 ml de G5
+T25	drugs 1881 1892	4 g de ClNa
+T26	procedure 1897 1922	traitement neuroleptique 
+T27	procedure 2114 2146	volume de l’aspiration digestive
+T28	labvalue 2154 2160	900ml 
+T29	procedure 2348 2387	radiographie d’abdomen sans préparation
+T30	procedure 2591 2632	colo-aspiration sous anesthésie générale 
+T31	procedure 3075 3104	volume d’aspiration digestive
+T32	labvalue 3108 3116	2.900 ml
+T33	disorder 3160 3177	hyperleucocytose 
+T34	labvalue 3179 3190	15.400/mmm3
+T35	procedure 3203 3220	 bilan biologique
+T36	labvalue 3241 3247	normal
+T37	procedure 3307 3335	poursuite du même traitement
+T38	procedure 3350 3364	administration
+T39	drugs 3368 3408	1000 ml d’une solution de Ringer-lactate
+T40	procedure 3517 3535	sonde d’aspiration
+T41	drugs 3538 3554	2,9 l /24 heures
+T42	procedure 3758 3798	demandé à porter le volume des perfusion
+T43	disorder 4129 4156	persistance de vomissements
+T44	procedure 4215 4241	 intervention chirurgicale
+T45	disorder 4389 4425	nhalation bronchique de vomissements
+T46	procedure 4494 4516	adiographie pulmonaire
+T47	disorder 4941 4981	aggravation de la condition respiratoire
+T48	disorder 5143 5183	syndrome de détresse respiratoire aigue 
+T49	disorder 5199 5221	hypotension artérielle
+T50	labvalue 5224 5234	70/40 mmHg
+T51	disorder 5239 5251	 tachycardie
+T52	labvalue 5254 5261	154/min
+T53	disorder 5269 5281	hyperthermie
+T54	labvalue 5283 5290	 39 9°C
+T55	procedure 5314 5348	ntubé et ventilé en oxygène à 100%
+T56	procedure 5377 5382	 pO2 
+T57	labvalue 5384 5391	70 mmHg
+T58	procedure 5394 5421	clairance de la créatinine 
+T59	labvalue 5423 5431	34ml/min
+T60	disorder 5495 5545	occlusion du grêle sur bride avec un grêle volvulé
+T61	procedure 5594 5618	résection grêlique large
+T62	procedure 5653 5736	Rétablissement de la continuité par une anastomose grêlo-grêlique termino-terminale
+T63	disorder 5911 5950	défaillance multiviscérale irréversible
+T64	disorder 5861 5867	décède

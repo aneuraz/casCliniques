@@ -1,0 +1,52 @@
+Contexte
+
+Les céphalées post-traumatiques peuvent avoir de multiples causes et requièrent une anamnèse minutieuse, en tenant compte de nombreux diagnostics différentiels. Parmi les causes potentielles figurent le traumatisme cranio-cérébral, la méningite/l’irritation méningée et des troubles cérébrovasculaires, tels que l’hémorragie sous-arachnoïdienne ou la thromboembolie [1]. Le diagnostic différentiel s’effectue par étapes, selon le principe de l’exclusion. Les procédés d’imagerie revêtent une grande importance dans ce contexte [2].
+
+Présentation du cas
+Anamnèse et statut
+
+Un homme de 37 ans s’est présenté au centre des urgences en raison de céphalées pulsatiles progressives épisodiques consécutives à un accident de sport neuf jours auparavant. Lors de l’accident, il portait un casque de protection et l’arrière de sa tête a heurté une pierre. Il n’y a pas eu de perte de conscience ou d’amnésie. Suite à l’accident, il a uniquement ressenti un malaise de courte durée. Deux jours après l’accident, le patient a été en proie à une infection gastro-intestinale, avec vomissements et diarrhée, qui a duré quatre jours. Les céphalées ont débuté quatre jours avant la présentation du patient aux urgences; il s’agissait de céphalées pulsatiles à prédominance occipitale droite. Ces céphalées ont amené le médecin de famille à orienter en urgence le patient vers notre centre pour des investigations approfondies.
+
+Au moment de son admission, le patient était hémodynamiquement stable (pression artérielle 110/80 mm Hg, pouls 66/min, température 37,0 °C). Il ne présentait ni marques de contusion, ni troubles de la conscience («Glasgow Coma Scale» [GCS] 15), ni méningisme, ni déficits neurologiques focaux. Le patient ne prenait pas de médicaments réguliers et ne présentait pas d’allergies connues.
+
+Résultats et diagnostic
+
+Les analyses de laboratoire initiales ont montré une valeur accrue de protéine C réactive (CRP) de 13 mg/l (norme: <5 mg/l), une numération leucocytaire basse de 4,3 G/l (norme: 4,0–10,0 G/l) et une coagulation sanguine normale (INR = 1,1; norme: 0,85–1,27). Les valeurs des électrolytes, de l’hémoglobine et du cholestérol étaient sans particularités. A l’examen neurologique, une anisocorie (pupille droite plus grande que la pupille gauche) a été constatée.
+
+La survenue des céphalées quelques jours après la chute laissait à penser qu’il existait un lien de causalité. Par conséquent, nous avons discuté des causes possibles de céphalées traumatiques dans le cadre du diagnostic différentiel. L’absence d’amnésie, de déficits neurologiques et de confusion ne plaidait pas en faveur d’un traumatisme cranio-cérébral. Par ailleurs, il n’y avait pas de signes évocateurs de contusions au niveau de la tête ou d’une fracture crânienne. Les céphalées unilatérales, le malaise directement après la chute et l’épisode de troubles gastro-intestinaux faisaient suspecter une hémorragie intracérébrale. La tomodensitométrie (TDM) crânienne qui a été réalisée a révélé une thrombose des sinus veineux, avec des thrombi flottants autour du confluent des sinus (fig. 1).
+
+Figure 1: Tomodensitométrie crânienne après injection de produit de contraste i.v. (phase veineuse, coupe axiale): thrombi flottants dans le sinus transverse autour du confluent des sinus.
+
+Comme les structures hyperintenses au niveau occipital n’étaient pas clairement tubulaires (fig. 2A; comme il faudrait s’y attendre en cas de thrombose des sinus veineux récente) à la TDM sans produit de contraste, un hématome sous-dural concomitant a été envisagé dans le cadre du diagnostic différentiel, également en raison du traumatisme récent. Afin de s’assurer de l’absence d’hémorragie fraîche en plus de la thrombose des sinus veineux, le résultat TDM a exceptionnellement été vérifié au moyen d’une imagerie par résonance magnétique (IRM). Cet examen a permis d’exclure une hémorragie fraîche et a montré le thrombus qu’avait révélé la TDM (fig. 2B et 2C).
+
+Figure 2: A) Tomodensitométrie crânienne sans produit de contraste (coupe axiale): hyperdensité occipitale bilatérale avec «dense vessel sign» due à un thrombus frais dans le sinus. Un hématome sous-dural traumatique a été envisagé dans le cadre du diagnostic différentiel.B) Imagerie par résonance magnétique, séquence SWI, coupe axiale: un hématome récent peut être exclu; une atténuation du signal liée au thrombus est perçue dans le sinus.C) Imagerie par résonance magnétique, séquence T1 avec ­suppression de graisse, coupe axiale, après injection de produit de contraste i.v.: le thrombus cerné par le produit de contraste dans le sinus est visualisable en tant qu’hypointensité tubulaire.D) Imagerie par résonance magnétique de contrôle 6 mois après l’évènement initial, séquence T1 avec suppression de graisse, coupe axiale, après injection de produit de contraste i.v.: le thrombus est dissous, une bonne circulation est ­rétablie au sein du sinus.
+
+Lors du contrôle de suivi après six mois, la recanalisation réussie du sinus était visible (fig. 2D).
+
+Traitement et évolution
+
+Outre la diminution de la pression intracrânienne et la prévention des crises épileptiques, le traitement d’une thrombose des sinus veineux cérébraux englobe également une anticoagulation orale (ACO), dont l’utilisation off-label doit être spécifiquement expliquée au patient [3]. La durée de l’ACO dépend de l’évolution des douleurs; elle est de 3–6 mois en cas de facteurs de risque transitoires provoqués et de 6–12 mois en cas de facteurs de risque non provoqués, et elle peut être permanente en cas de thrombophilie sévère récidivante [3]. Une thrombolyse/thrombectomie doit uniquement être mise en œuvre dans des indications particulières. En cas de méningite ou d’autre infection concomitante, un traitement anti-infectieux peut le cas échéant être nécessaire.
+
+Dans notre cas, l’anticoagulation a tout d’abord été initiée au moyen d’héparine non fractionnée dans l’unité de surveillance, puis elle a été poursuivie durant trois mois au moyen d’apixaban à dose thérapeutique. Après trois mois, l’IRM de contrôle a montré une régression quasi-complète du thrombus.
+
+A la fois l’anamnèse familiale et le statut de coagulation du patient étaient sans particularités. L’anisocorie observée à l’admission a rétrospectivement été considérée comme étant probablement physiologique.
+
+Discussion
+
+La thrombose des sinus veineux cérébraux est une maladie vasculaire affectant les veines cérébrales, qui est caractérisée par une hémorragie de stase transveineuse et des troubles du retour veineux. Elle se manifeste souvent au niveau du sinus sagittal supérieur ou du sinus transverse, plus rarement au niveau du sinus droit ou des veines ponts [4]. La thrombose des sinus veineux est une cause rare d’ischémie cérébrale. La particularité du cas présenté ici est que les symptômes ont initialement été interprétés comme des céphalées post-traumatiques et qu’une hémorragie intracérébrale a été suspectée. Le diagnostic de thrombose des sinus veineux posé à l’aide de l’imagerie était inattendu.
+
+L’incidence des thromboses des sinus veineux cérébraux est d’env. 0,05–1,5%. En général, la distinction est faite entre les thromboses des sinus veineux d’origine septique et celles d’origine aseptique, moins de 10% de tous les cas ayant une cause infectieuse [5]. Le patient présenté ici ne présentait pas de signes de méningite et les valeurs accrues de CRP étaient probablement attribuables à l’infection gastro-intestinale.
+
+Les symptômes de la thrombose des sinus veineux sont variables; des céphalées sont dans la plupart des cas rapportées comme premier symptôme (jusqu’à 89%). Ces dernières sont fréquemment localisées et elles augmentent le plus souvent graduellement. Des symptômes tels que des déficits neurologiques focaux, comme par ex. symptômes hémisphériques et aphasie, ou des convulsions surviennent dans jusqu’à 40% des cas. Environ 13% des patients présentent un pronostic défavorable («modified rankin scale» ≥3 après six mois). Les facteurs de mauvais pronostic incluent l’âge avancé, le sexe masculin, l’hémorragie de stase, la thrombose des veines cérébrales internes et du sinus transverse droit, les infections du système nerveux central et les néoplasies [6]. L’étude prospective «International Study on Cerebral Vein and Dural Sinus Thrombosis» (ISCVT) conduite avec 624 patients présentant une thrombose des sinus veineux a montré une mortalité aiguë de 8,3%. [7]. Après six mois, 57% des patients ne présentaient plus aucun symptôme. La thrombose des sinus veineux survient avant tout entre l’âge de 30 et 50 ans; seuls 8% des patients ont plus de 65 ans. Parmi les facteurs de risque figurent l’hypercoagulabilité, la prise de contraceptifs oraux, la grossesse et le post-partum, les tumeurs malignes, les infections locales et généralisées, ainsi que les traumatismes cranio-cérébraux [3]. En raison des facteurs sexospécifiques mentionnés, les femmes sont plus fréquemment touchées que les hommes (rapport 3:1) [8, 9].
+
+Le diagnostic de suspicion d’une thrombose des sinus veineux est typiquement posé sur la base des symptômes caractéristiques (un taux accru de D-dimères confortant le diagnostic). Il doit impérativement être confirmé au moyen d’un examen d’imagerie [5]. Comme la TDM révèle des anomalies non spécifiques dans environ 30% des cas, la suspicion d’une thrombose des sinus veineux doit être confirmée par IRM avec séquence T2 et veinographie, comme dans le cas présent. En cas de suspicion d’une méningite, une ponction lombaire et un bilan infectieux sont nécessaires.
+
+L’essentiel pour la pratique
+
+• La thrombose des sinus veineux est une cause possible de céphalées post-traumatiques.
+
+• La survenue de céphalées en l’espace de quelques jours suivant une chute doit faire l’objet d’un diagnostic différentiel minutieux, qui nécessite un examen d’imagerie (tomodensitométrie et/ou imagerie par résonance magnétique).
+
+• Des infections, y compris une méningite, doivent être envisagées dans le cadre du diagnostic différentiel et, le cas échéant, être traitées.
+
+• Le traitement de la thrombose des sinus veineux repose sur l’anticoagulation orale «off-label», dont la durée dépend de la constellation d’anomalies et de la cause.

@@ -1,0 +1,100 @@
+T1	disorder 72 100	accident vasculaire cérébral
+T2	disorder 106 129	hypertension artérielle
+T3	risk 141 150	tabagisme
+T4	disorder 315 325	tachycarde
+T5	labvalue 328 342	100 par minute
+T6	procedure 395 407	auscultation
+T7	disorder 419 445	râles crépitants aux bases
+T8	labvalue 387 391	 90%
+T9	procedure 452 465	radiographies
+T10	disorder 479 518	fracture du col fémoral droit Garden IV
+T11	procedure 524 547	indication chirurgicale
+T12	procedure 563 583	électrocardiogramme 
+T13	procedure 584 587	ECG
+T14	disorder 600 620	tachycardie sinusale
+T15	disorder 626 650	bloc atrio-ventriculaire
+T16	disorder 680 750	sus-décalage millimétrique du segment ST de DII-DIII-AVF et de V4 à V6
+T17	procedure 772 792	Electrocardiogramme 
+T18	disorder 811 831	tachycardie sinusale
+T19	disorder 833 857	bloc atrio-ventriculaire
+T20	disorder 878 948	sus décalage millimétrique du segment ST de DII-DIII-AVF et de V4 à V6
+T21	irrelevant 951 1022;1025 1049;1051 1070;1072 1095;1097 1117;1119 1137	Question 1: Les examens complémentaires suivants sont pertinents, sauf?   a) Dosage des troponines  b) Dosage du proBNP  c) Dosage des D-dimères  d) Echocardiographie  e) Coronarographie
+T22	procedure 1141 1144	ECG
+T23	disorder 1167 1191	syndrome coronarien aigu
+T24	disorder 1193 1196	SCA
+T25	procedure 1203 1213	troponines
+T26	labvalue 1228 1236	800 ng/l
+T27	procedure 1259 1265	proBNP
+T28	labvalue 1272 1281	1355 ng/l
+T29	procedure 1306 1323	échocardiographie
+T30	disorder 1335 1364	akinésie antéro-septo-apicale
+T31	disorder 1370 1402	hyperkinésie des segments basaux
+T32	disorder 1410 1450	fraction d’éjection du ventricule gauche
+T33	disorder 1452 1456	FEVG
+T34	labvalue 1460 1463	35%
+T35	procedure 1488 1503	coronarographie
+T36	disorder 1515 1577	sténose significative de l’ostium de l’artère coronaire droite
+T37	disorder 1579 1581	CD
+T38	procedure 1664 1679	Coronarographie
+T39	procedure 1683 1700	ventriculographie
+T40	disorder 1704 1733	 Athéromatose du tronc commun
+T41	disorder 1747 1801	athéromatose de l’artère interventriculaire antérieure
+T42	disorder 1821 1908	sténose angiographiquement significative au niveau de l’artère coronaire droite ostiale
+T43	disorder 1913 1930	Ventriculographie
+T44	disorder 1945 1964	ballonnement apical
+T45	disorder 1972 2014	hypercontractilité des segments de la base
+T46	disorder 2021 2039	embolie pulmonaire
+T47	labvalue 2081 2094	>10 000 ng/ml
+T48	procedure 2121 2127	dosage
+T49	disorder 2182 2200	embolie pulmonaire
+T50	labvalue 2226 2234	négatifs
+T51	labvalue 2239 2245	faible
+T52	procedure 2306 2313	scanner
+T53	disorder 2360 2379	surcharge cardiaque
+T54	irrelevant 2382 2417;2420 2465;2467 2505;2507 2524;2526 2556;2558 2571	Question 2: Quel est le diagnostic?   a) Elévation des troponines sur rhabdomyolyse  b) Infarctus sur lésion de l’artère CD  c) Angor instable  d) Syndrome de Takotsubo (STT)  e) Myocardite
+T55	disorder 2576 2604	 augmentation des troponines
+T56	disorder 2626 2629	SCA
+T57	disorder 2635 2646	myocardites
+T58	disorder 2654 2657	STT
+T59	disorder 2663 2677	rhabdomyolyse 
+T60	disorder 2690 2724	augmentation des créatines kinases
+T61	disorder 2827 2856	akinésie antéro-septo-apicale
+T62	disorder 2873 2882	infarctus
+T63	disorder 2887 2937	atteinte de l’artère interventriculaire antérieure
+T64	disorder 2939 2942	IVA
+T65	disorder 2948 2964	sténose de la CD
+T66	procedure 3059 3083	traitement médicamenteux
+T67	irrelevant 3100 3692	La différentiation entre myocardite et STT est ardue. Le STT touche majoritairement les femmes (ratio de 9:1) d’âge post-ménopause, alors que les myocardites se retrouvent chez les jeunes sans prévalence de sexe. On retrouve un facteur déclenchant physique ou émotionnel dans 70% des cas de STT, alors que les myocardites s’inscrivent dans un tableau post-infectieux [1]. Dans les cas complexes, une IRM cardiaquepeut aider au diagnostic. Chez notre patiente, le contexte de fracture du fémur et l’âge, associés à la dysfonction ventriculaire typique permettent de poser le diagnostic de STT.
+T68	irrelevant 3694 4081	Le STT, décrit pour la première fois en 1990 par Sato et al. [2], est une lésion myocardique aiguë selon la 4ème définition universelle des infarctus [3]. Il tire son nom d’un vase en terre cuite traditionnel japonais dont la forme ressemble à l’image de l’atteinte ventriculaire typique. Il existe différentes variantes anatomiques moins fréquentes et l’image typique n’est pas requise 
+T69	irrelevant 4096 4737	Figure 3: Ventriculographie montrant les quatre différents types de Takotsubo pendant la diastole (colonne de gauche) et la systole (colonne du milieu). La colonne de droite montre un schéma des troubles de la cinétique pariétale (rouge: diastole, blanc: systole, ligne pointillée: localisation de l’anomalie du mouvement de la paroi). De [4]: Templin C, Ghadri JR, Diekmann J, Napp LC, Bataiosu DR, Jaguszewski M, et al. Clinical features and outcomes of takotsubo (stress) cardiomyopathy. N Engl J Med. 2015;373:929–38. Copyright © 2015 Massachusetts Medical Society, reproduit avec l’aimable autorisation de Massachusetts Medical Society.
+T70	irrelevant 4739 4933	Les critères diagnostiques du consensus d’experts internationaux sur le STT comprennent 8 items(tab. 1) [5]. Une atteinte coronarienne concomitante est possible et présente dans >50% des cas [6]
+T71	irrelevant 4936 5036;5037 5453	Tableau 1: Critères diagnostiques de Takotsubo («InterTAK Diagnostic criteria»), adapté d’après [5]. Dysfonction ventriculaire gauche transitoire (hypokinésie, akinésie ou dyskinésie) avec ballonisation apicale ou troubles de cinétique médians, basaux ou focaux. Une atteinte ventriculaire droite peut être associée. Ces troubles de cinétique pariétale transitoires dépassent en général un territoire de systématisation vasculaire; de rares cas peuvent exister avec atteinte d’un territoire artériel (Takotsubo focal)
+T72	irrelevant 5455 5567;5568 5781;5782 6017	Un facteur déclenchant émotionnel, physique ou combiné peut précéder la survenue du Takotsubo (pas obligatoire). Des troubles neurologiques (hémorragies sous-arachnoïdiennes, accident vasculaire cérébral, accident ischémique transitoire, convulsions) ou un phéochromocytome peuvent être des facteurs déclenchants de Takotsubo. Des modifications nouvelles de l’électrocardiogramme sont présentes (sus- ou sous-décalage du segment ST, inversion des ondes T, prolongation de l’intervalle QTc). Toutefois, il existe des cas sans modification à l’électrocardiogramme.
+T73	irrelevant 6018 6186;6187 6272;6273 6327;6328 6387	Les biomarqueurs cardiaques (troponine et créatine kinase) sont modérément augmentés. Une élévation significative du peptide cérébral natriurétique (BNP) est fréquente. Une atteinte coronarienne significative n’est pas en contradiction pour un Takotsubo. Il n’existe pas d’argument en faveur d’une myocardite. Les femmes après la ménopause sont principalement touchées.
+T74	irrelevant 6388 6438;6441 6468;6470 6501;6503 6527;6529 6555;6557 6591;6593 6869;6871 6951;6952 6987;6988 7051;7052 7080;7081 7102;7103 7133;7134 7163;7164 7191;7192 7221;7222 7250;7251 7290;7292 7898;7900 7977;7980 7996;7998 8044;8046 8064;8066 8098;8100 8114	Question 3: Quelles sont les complications du STT?   a) Fibrillation auriculaire  b) Insuffisance cardiaque aiguë  c) Régurgitation mitrale  d) Thrombus intracardiaque  e) Toutes ces réponses sont justes  Les grands registres de patients ont désormais montré un taux de complications sévères intrahospitalières d’environ 20%, similaire aux patients hospitalisés pour SCA [4, 6]. L’incidence des complications varie selon les études, celles-ci sont listées dans le tableau 2 [1, 7].  Tableau 2: Complications du syndrome de Takotsubo, compilées à partir de [1, 7]. Insuffisance cardiaque aiguë	12–45% Obstruction de la chambre de chasse du ventricule gauche	10–25% Régurgitation mitrale	14–25% Choc cardiogène	6–20% Fibrillation auriculaire	5–15% Arythmies ventriculaires	4–9% Bloc atrio-ventriculaire	5% Bradycardie ou asystolie	2–5% Thrombus intracardiaque	2–8% Tamponnade et rupture ventriculaire	<1%  Des facteurs de mauvais pronostique ont été identifiés, comme un facteur déclenchant physique, une coronaropathie, le sexe masculin, un âge supérieur à 75 ans, un taux élevé de troponines ou de proBNP à l’admission, une FEVG inférieure à 45%, un allongement du QT, et une obstruction de la chambre de chasse du VG ou une régurgitation mitrale [1, 4, 6]. On observe généralement une correction de la fonction ventriculaire en 4 à 8 semaines.L’affection est récurrente dans 5% des cas et le pronostic à long terme est impacté avec une mortalité à 15 ans similaire aux patients avec infarctus du myocarde [8].  Question 4: Les thérapies suivantes peuvent être indiquées dans le STT, sauf?   a) Bétabloquants  b) Inhibiteurs de l’enzyme de conversion (IEC)  c) Corticothérapie  d) Anticoagulation thérapeutique  e) Diurétiques
+T75	irrelevant 8116 8294	Les recommandations disponibles se basent sur l’expérience clinique et les consensus d’experts, ainsi que sur des études rétrospectives et des séries de cas (niveau d’évidence C)
+T76	irrelevant 8297 8757	Les bétabloquants, utilisés au vu d’une physiopathologie impliquant un taux élevé de catécholamines et de données expérimentales animales montrant une diminution du ballonnement apical [9], n’ont pas démontré de bénéfice sur la survie à un an ni sur la récurrence de STT [10]. Ils peuvent être bénéfiques lors d’une obstruction de la chambre de chasse du VG, mais il faut être prudent en cas de FEVG basse, de bradycardie ou d’un allongement de l’intervalle QT
+T77	irrelevant 8760 8874	Les IEC pourraient faciliter la récupération du VG et ont été associés à une réduction de la mortalité à un an [4]
+T78	irrelevant 8877 9119	Les diurétiques sont indiqués en cas d’œdème pulmonaire et la nitroglycérine est utile pour diminuer la postcharge en cas d’insuffisance cardiaque. Ces deux médicaments sont contre-indiqués lors d’une obstruction de la chambre de chasse du VG
+T79	irrelevant 9122 9506	La physiopathologie du STT n’est pas entièrement comprise, mais elle implique une activation du système sympathique et plusieurs études ont montré des taux de catécholamines endogènes élevés [5]. En cas de choc cardiogène, l’usage des catécholamines est donc à éviter. Les options alternatives sont un support mécanique ou le lévosimendan, un inotrope positif non caté­cholaminergique
+T80	irrelevant 9509 9778	Une anticoagulation thérapeutique est indiquée en cas de thrombus intracavitaire. Un traitement préventif est à discuter en fonction de la sévérité de la dysfonction ventriculaire et de l’étendue du ballonnement. L’utilisation des corticostéroïdes n’est pas recommandée
+T81	procedure 9820 9842	surveillance rythmique
+T82	disorder 9791 9814	complications associées
+T83	procedure 9913 9955	soins intermédiaires péri-interventionnels
+T84	procedure 9961 9972	 traitement
+T85	drugs 9976 9988	bétabloquant
+T86	irrelevant 10005 10080;10083 10105;10107 10169;10171 10230;10232 10273;10275 10346;10348 10867;10869 11094;11096 11729;11731 12085	Question 5: Quelle est la prise en charge optimale de la fracture du fémur?   a) Opération immédiate  b) Traitement conservateur au vu du risque cardiaque surajouté  c) Opération après traitement angioplastique de l’artère CD  d) Opération après optimisation cardiaque  e) Opération après récupération de la fonction cardiaque (4–8 semaines)  Une intervention chirurgicale chez un patient avec STT est une situation complexe. L’anesthésie et la chirurgie génèrent un stress psychologique et physique que l’on souhaite éviter. De nombreux cas ont été rapportés de STT déclenchés par un événement péri-interventionnel [11]. Il est préférable de reporter les procédures électives. Pour les procédures urgentes, le délai d’intervention doit être pondéré entre le degré d’urgence chirurgical et l’augmentation du risque opératoire en fonction de l’atteinte cardiaque.  Cette augmentation du risque dépend de la sévérité de la dysfonction ventriculaire et des complications comme la présence de troubles du rythme, d’une insuffisance mitrale ou d’une d’obstruction de la chambre de chasse du VG.  Ce dernier cas de figure peut par exemple représenter un défi anesthésique. Pour minimiser le phénomène obstructif, il faut maintenir une précharge et une postcharge du VG élevées, tout en maintenant une contractilité basse. La prise en charge anesthésique dans ce cas de figure ressemble à celle des cardiomyopathies obstructives, avec utilisation de remplissage pour le maintien de la précharge et de vasoconstricteurs pour contrer la vasodilatation due aux anesthésiques. Dans le cas particulier du STT, on souhaite cependant éviter l’usage des catécholamines et le remplissage doit être prudent au vu de l’insuffisance cardiaque.  Bien que le traitement précoce des fractures fémorales soit associé à une diminution de la mortalité et des complications majeures, une prise en charge chirurgicale immédiate n’est pas raisonnable dans ce contexte. Le timing idéal doit être évalué régulièrement en fonction de l’évolution après la stabilisation initiale et des complications éventuelles.
+T87	procedure 12111 12121	traitement
+T88	drugs 12125 12137	bétabloquant
+T89	procedure 12160 12182	surveillance rythmique
+T90	procedure 12207 12224	échocardiographie
+T91	disorder 12310 12315	FEVG 
+T92	labvalue 12317 12320	45%
+T93	procedure 12416 12423	opérée 
+T94	procedure 12459 12469	traitement
+T95	disorder 12490 12510	sténose coronarienne
+T96	risk 12537 12556	risque hémorragique
+T97	procedure 12564 12588	traitement antiaggrégant
+T98	irrelevant 12671 12934	Depuis sa première description en 1990, le STT est de plus en plus reconnu et diagnostiqué. Initialement considéré comme bénin, on sait maintenant que les complications sont fréquentes et que la mortalité au court et long terme est similaire aux patients avec SCA
+T99	irrelevant 12947 13376	La pathogénèse n’est cependant toujours pas élucidée et les connaissances pour diriger la prise en charge sont incomplètes. Il n’y a par ailleurs aucune directive pour des situations spécifiques comme celle d’un patient avec STT nécessitant une intervention chirurgicale. Il convient donc d’évaluer soigneusement ces patients, et de discuter chaque prise en charge en fonction des risques et des bénéfices des différentes options
+T100	irrelevant 13379 13388;13391 13465	Réponses:   Question 1: c. Question 2: d. Question 3: e. Question 4: c. Question 5: d.

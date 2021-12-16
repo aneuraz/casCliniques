@@ -1,0 +1,134 @@
+T1	irrelevant 9389 9399;9401 10035	Discussion  Comme le montre cette présentation de cas, ne pas passer à côté d’autres maladies potentiellement fatales durant une pandémie représente un grand défi dans la pratique clinique. L’anamnèse, l’examen clinique et les résultats de laboratoire peuvent être identiques en cas de pneumonie à SARS-CoV-2 et de pneumonie à P. jirovecii(tab. 2). La radiographie conventionnelle et la TDM ne permettent pas de distinguer avec certitude ces deux entités. Le tableau clinique de ces deux entités peut aller d’évolutions légères à une insuffisance respiratoire fulminante, la PPC étant plutôt caractérisée par un début insidieux des symptômes [5].
+T1	irrelevant 10037 10120;10121 10145	Tableau 2: Diagnostic de la pneumonie à Pneumocystis jirovecii(PPC) et du COVID-19.  	Résultats	PPC	COVID-19
+T1	irrelevant 10146 10327;10328 10515	Clinique	1. Anamnèse	Toux, fièvre, dyspnée, détérioration insidieuse de l’état général, fatigue	Fièvre, toux, anosmie, agueusie, fatigue, contact avec un patient atteint du COVID-19 2. Constellation de risques	Immunosuppression sans prophylaxie de la PPC	Age >65 ans, hypertension artérielle, maladies cardiopulmonaires, diabète sucré, tumeur maligne, immunosuppression
+T1	irrelevant 10516 10580;10581 10610	Analyses de ­laboratoire ­(sérum)	3. LDH	Normal – ↑↑	Normal – ↑↑ 4. (1→3)-β-D-glucane	↑	Normal
+T1	irrelevant 10611 10647;10648 10752	5. Lymphocytes	Normal – ↓	Normal – ↓ Radiologie	6. TDM thoracique	Infiltrats en verre dépoli bilatéraux	Infiltrats en verre dépoli bilatéraux
+T1	irrelevant 10753 10870;10871 10955	Microbiologie	7. Microscopie (IF)	Mise en évidence directe de Pneumocystis jirovecii (expectorations induites, LBA)	- 8. PCR	ADN de Pneumocystis jirovecii(expectorations induites, LBA)	ARN du SARS-CoV-2
+T1	irrelevant 10956 10983;10984 11315	(frottis nasopharyngé, LBA) PPC probable:Combinaison de 1 et 2 avec 3, 4, 5 et/ou 6. PPC certaine: Diagnostic probable en association avec7 ou 8. Abréviations: LDH: lactate déshydrogénase; TDM: tomodensitométrie; IF: immunofluorescence; LBA: lavage bronchoalvéolaire; PCR: «polymerase chain reaction»; ADN: acide désoxyribonucléique; ARN: acide ribonucléique.
+T1	irrelevant 11317 12691;12693 12721	La PPC est une affection fongique opportuniste associée à une mortalité élevée et elle touche typiquement les individus immunodéprimés [5]. Par conséquent, l’évaluation de la constellation de risques des patients s’avère particulièrement pertinente pour faire la distinction entre ces deux entités. A cet égard, une attention particulière doit être accordée à la corticothérapie à long terme, sachant que même une réduction de la dose est associée à un risque nettement accru de PPC [5]. Une colonisation asymptomatique par P. jirovecii est possible, raison pour laquelle une mise en évidence positive de l’agent pathogène par PCR doit uniquement être interprétée comme une PPC en tenant compte des aspects cliniques-anamnestiques. Le diagnostic est confirmé dès lors qu’en plus d’une anamnèse et d’une constellation de risques suggestives, les micro-organismes parviennent à être mis en évidence par microscopie (immunofluorescence ou coloration spéciale) ou par PCR dans les expectorations induites ou dans le LBA (tab. 2). En guise de confirmation supplémentaire, il est possible de procéder à la détermination du composant de la paroi cellulaire fongique (1→3)-β-D-glucane dans le sérum. La PPC est en première ligne traitée par cotrimoxazole et glucocorticoïdes. Une association de clindamycine et de primaquine peut être administrée comme alternative anti-infectieuse.  L’essentiel pour la pratique
+T1	irrelevant 12723 12945;12947 13260	• La pneumonie à Pneumocystis jirovecii (PPC) et les pneumonies dues au COVID-19 peuvent se présenter de manière similaire dans la pratique clinique quotidienne, la toux et la fièvre étant les symptômes les plus fréquents.  • Une corticothérapie à long terme (équivalent prednisolone ≥20 mg pour une durée de >4 semaines) et une lymphopénie s’accompagnent d’une immunosuppression. Chez tout patient ayant une constellation de risques pertinente pour une PPC, il convient de vérifier si une prophylaxie correspondante a été mise en œuvre.
+T1	irrelevant 13262 13649	• En cas de constellation de risques, d’anamnèse et d’anomalies compatibles, une PPC devrait être envisagée dans le cadre du diagnostic différentiel et les micro-organismes devraient être recherchés dans les expectorations induites ou le lavage bronchoalvéolaire (par microscopie ou PCR). La détermination du (1→3)-β-D-glucane dans le sérum peut être utile pour corroborer le diagnostic.
+T2	disorder 13 22	pneumonie
+T3	disorder 177 181	toux
+T4	disorder 211 218	dyspnée
+T5	disorder 226 246	douleurs thoraciques
+T6	disorder 294 300	fièvre
+T7	disorder 306 314	myalgies
+T8	disorder 320 328	asthénie
+T9	procedure 657 681	 analyses de laboratoire
+T10	labvalue 695 730	paramètres inflammatoires augmentés
+T11	procedure 781 811	mise en évidence radiologique 
+T12	disorder 946 956	pneumonies
+T13	risk 1142 1155	immunodéprimé
+T14	risk 371 385	immunodéprimés
+T15	procedure 1497 1522	antibiothérapie empirique
+T16	irrelevant 1610 1697;1698 1800	Tableau 1: Les trois formes classiques de pneumonie (modifié d’après Ott S et al. [2]). Pneumonie	Lieu où l’infection a été contractée	Statut immunitaire	Agents pathogènes les plus fréquents
+T16	irrelevant 1801 2033;2034 2337	Pneumonie contractée en milieu ambulatoire= pneumonie communautaire	En dehors de l’hôpital	Immunocompétent	• Streptococcus pneumoniae• Haemophilus influenzae• Bactéries atypiques (e. a. légionelles, mycoplasmes)• Virus respiratoires Pneumonie contractée en milieu stationnaire= pneumonie nosocomiale	A l’hôpital*	Immunocompétent	Agents pathogènes mentionnés ci-dessus plus agents pathogènes potentiellement résistants: • Staphylococcus aureus (SASM/SARM)• Agents pathogènes à Gram négatif (e. a. Pseudomonas aeruginosa, Klebsiella spp.)
+T16	irrelevant 2338 2507;2508 2584	Pneumonie chez le sujet immunodéprimé	En dehors de l’hôpital ­ou à l’hôpital*	Immunodéprimé†	Agents pathogènes mentionnés ci-dessus plus agents pathogènes opportunistes: • Pneumocystis jirovecii• Aspergillus spp.• Nocardies• Cytomégalovirus (CMV)
+T16	irrelevant 2585 2702;2703 3364	* Survenue >48 heures après l’admission à l’hôpital ou après hospitalisation préalable remontant à au maximum 3 mois. † Conditions typiquement associées à une immunodépression sévère: neutropénie (<1000/µl, avant tout risque accru d’aspergillose), infection par le VIH non traitée avec numération des cellules CD4 <200/µl ou corticothérapie à une dose d’équivalent prednisolone ≥20 mg/jour durant >4 semaines (avant tout risque accru de pneumonie à Pneumocystis jirovecii ou à cytomégalovirus [CMV]), autre immunosuppression médicamenteuse (par ex. méthotrexate), transplantation d’organes solides, transplantation de cellules souches, syndromes de déficits en anticorps et déficits immunitaires congénitaux. SASM/SARM = Staphylococcus aureus sensible/résistant à la méticilline.
+T17	disorder 3594 3621	pneumonie due au SARS-CoV-2
+T18	disorder 3629 3636	 fièvre
+T19	disorder 3642 3647	 toux
+T20	disorder 3708 3719	lymphopénie
+T21	procedure 3725 3748	analyses de laboratoire
+T22	labvalue 3776 3785	élévation
+T23	procedure 3800 3824	 lactate déshydrogénase 
+T24	procedure 3844 3867	omodensitométrie (TDM),
+T25	disorder 3908 3961	nfiltrats en verre dépoli à prédominance périphérique
+T26	disorder 4120 4165	 détérioration insidieuse de son état général
+T27	disorder 4189 4210	faiblesse généralisée
+T28	procedure 4240 4260	pression artérielle 
+T29	procedure 4268 4297	 saturation en oxygène (SpO2)
+T30	disorder 4347 4396	bronchopneumopathie chronique obstructive (BPCO) 
+T31	disorder 4424 4475	 lymphome primitif du système nerveux central (SNC)
+T32	disorder 4517 4531	ymphome du SNC
+T33	procedure 4549 4563	chimiothérapie
+T34	drugs 4565 4587	4 cycles de R-MTX-araC
+T35	procedure 4764 4795	radiothérapie du cerveau entier
+T36	drugs 4799 4812	dexaméthasone
+T37	procedure 4914 4927	radiothérapie
+T38	disorder 4958 4973	toux croissante
+T39	disorder 5030 5086	pneumonie due au COVID-19 avec surinfection bactérienne,
+T40	disorder 5179 5186	fébrile
+T41	labvalue 5188 5196	38,4 °C)
+T42	procedure 5231 5254	 fréquence respiratoire
+T43	labvalue 5269 5276	(16/min
+T44	procedure 5288 5303	SpO2 spontanée 
+T45	labvalue 5306 5309	86%
+T46	procedure 5314 5340	protéine C réactive (CRP) 
+T47	labvalue 5355 5365	 augmentée
+T48	labvalue 5367 5375	314 mg/l
+T49	procedure 5383 5403	procalcitonine (PCT)
+T50	labvalue 5421 5430	augmentée
+T51	labvalue 5432 5442	0,15 µg/l;
+T52	disorder 5534 5546	lymphopénie 
+T53	labvalue 5549 5558	0,20 G/l 
+T54	procedure 5600 5604	LDH 
+T55	labvalue 5606 5615	 832 U/l 
+T56	procedure 5698 5702	PaO2
+T57	labvalue 5703 5711	63 mm Hg
+T58	procedure 5718 5745	adiographie conventionnelle
+T59	procedure 5884 5911	 frottis nasopharyngé (FNP)
+T60	labvalue 5983 5992	 négatif.
+T61	procedure 6078 6091	hémocultures 
+T62	procedure 6095 6118	’antigénurie légionelle
+T63	labvalue 6127 6136	négatives
+T64	procedure 6143 6168	antibiothérapie empirique
+T65	drugs 6173 6184	ceftriaxone
+T66	drugs 6188 6199	doxycycline
+T67	disorder 6389 6414	pneumonie due au COVID-19
+T68	procedure 6432 6436	 FNP
+T69	labvalue 6437 6445	négatifs
+T70	procedure 6677 6703	­paramètres inflammatoires
+T71	disorder 6711 6736	hypotension intermittente
+T72	labvalue 6746 6757	60/30 mm Hg
+T73	procedure 6786 6793	 SpO2 j
+T74	labvalue 6799 6803	 80%
+T75	disorder 6861 6871	hypotendu 
+T76	procedure 6886 6910	 fréquence respiratoire 
+T77	labvalue 6925 6931	14/min
+T78	procedure 6938 6944	 SpO2 
+T79	labvalue 6952 6958	 >92% 
+T80	procedure 7128 7151	analyses de laboratoire
+T81	procedure 7211 7214	CRP
+T82	labvalue 7215 7223	198 mg/l
+T83	procedure 7224 7228	 PCT
+T84	labvalue 7229 7238	0,19 µg/l
+T85	procedure 7270 7274	 LDH
+T86	labvalue 7276 7285	1 115 U/l
+T87	procedure 7297 7320	numération leucocytaire
+T88	disorder 7328 7339	lymphopénie
+T89	labvalue 7350 7358	0,22 G/l
+T90	procedure 7365 7377	hémocultures
+T91	procedure 7381 7392	urocultures
+T92	procedure 7405 7428	antigénurie légionelle 
+T93	labvalue 7435 7445	 négatives
+T94	procedure 7458 7461	FNP
+T95	procedure 7734 7748	TDM thoracique
+T96	procedure 7821 7849	Tomodensitométrie du thorax 
+T97	risk 8142 8159	immunosuppression
+T98	disorder 7898 7954	infiltrats pulmonaires en verre dépoli diffus bilatéraux
+T99	disorder 7762 7799	infiltrats en verre dépoli bilatéraux
+T100	disorder 8168 8176	lymphome
+T101	procedure 8185 8201	corticothérapie 
+T102	drugs 8228 8252	dexaméthasone 8 mg/jour 
+T103	drugs 8254 8277	prednisolone 50 mg/jour
+T104	drugs 8322 8345	dexaméthasone 4 mg/jour
+T105	drugs 8368 8382	cotrimoxazole2
+T106	procedure 8352 8363	prophylaxie
+T107	procedure 8388 8403	antibiothérapie
+T108	drugs 8423 8436	cotrimoxazole
+T109	drugs 8437 8449	(800/160 mg 
+T110	disorder 8504 8549	pneumonie à Pneumocystis (P.) jirovecii (PPC)
+T111	drugs 8554 8567	dexaméthasone
+T112	procedure 8617 8628	β-D-glucane
+T113	labvalue 8667 8680	 251,9 pg/ml 
+T114	labvalue 8700 8713	P. jirovecii 
+T115	procedure 8739 8777	par PCR («polymerase chain reaction») 
+T116	procedure 8813 8842	avage bronchoalvéolaire (LBA)
+T117	disorder 8933 8937	PPC 
+T118	procedure 8968 8978	traitement
+T119	drugs 8982 8996	 cotrimoxazole
+T120	procedure 9046 9076	xygénothérapie par voie nasale
+T121	procedure 9151 9167	antibiothérapie 
+T122	procedure 9172 9189	 corticothérapie 

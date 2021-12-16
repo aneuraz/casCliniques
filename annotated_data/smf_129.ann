@@ -1,0 +1,85 @@
+T1	irrelevant 0 8;10 1871	Contexte  L’ablation endoscopique des polypes dans la région de l’abouchement de l’appendice représente un défi. Notamment la résection dans des segments intestinaux qui présentent un risque élevé de perforation et l’ablation complète de tissus de couches profondes de la paroi intestinale (résection de pleine épaisseur) étaient jusqu’à présent quasiment impossibles à réaliser par voie endoscopique et nécessitaient la plupart du temps une intervention chirurgicale. Peter Bauerfeind [1] a montré qu’il existe désormais une méthode de résection de pleine épaisseur de la paroi par voie endoscopique qui, dans des mains expérimentées, peut également être utilisée de façon sûre et efficace dans la région de l’abouchement de l’appendice: il s’agit du «full-thickness resection device» (FTRD®, Ovesco Endoscopy, Tübingen). Le dispositif est composé d’un capuchon d’application sur lequel le clip FTRD® préchargé est positionné, d’une anse intégrée et d’un fil, d’un attrape-fil, d’une housse d’endoscope avec un ruban adhésif pour la fixation et d’une manivelle FTRD®. Pour l’application, le capuchon d’application est monté sur la pointe de l’endoscope, l’anse étant à l’extérieur de l’endoscope et protégée par la housse d’endoscope. Tourner la manivelle permet de tendre le fil et de déployer le clip. Le tissu est ensuite séparé au-dessus du clip sous l’action de l’anse utilisant la radiofréquence (RF) intégrée. De cette façon, une résection de pleine épaisseur de la paroi peut être réalisée par voie endoscopique. Dans les mains de l’examinateur expérimenté, cet instrument est utilisé en tant que dispositif endoscopique flexible pour la résection de pleine épaisseur de la paroi et le prélèvement diagnostique de tissus par résection des lésions appropriées dans le côlon et le rectum, et ce avec une sécurité élevée [1]. L’instrument a été développé en continu
+T2	irrelevant 7453 7481;7483 7699;7701 7951;7953 8291	L’essentiel pour la pratique  • Dans des mains expérimentées, la résection de pleine épaisseur de la paroi («full-thickness resection») constitue une méthode sûre et efficace pour l’ablation complète des polypes dans le tractus gastro-intestinal.  • Les polypes qui sont enchevêtrés en profondeur dans la paroi intestinale et les polypes avec une localisation difficile peuvent également être complétement réséqués. En règle générale, il est conseillé de toujours réaliser une biopsie au préalable.  • Une complication pouvant survenir suite à une polypectomie par résection de pleine épaisseur de la paroi dans la région de l’appendice est l’appendicite. Dès lors, le polype devant être réséqué doit être suffisamment important pour justifier le risque de cette complication. Néanmoins, une appendicectomie n’est pas toujours nécessaire.
+T3	procedure 1972 1991	coloscopie de suivi
+T4	disorder 2005 2033	polypes coliques récidivants
+T5	disorder 2072 2088	polypes coliques
+T6	procedure 2101 2109	réséqués
+T7	procedure 2118 2135	plan histologique
+T8	disorder 2163 2175	hyperplasies
+T9	disorder 2185 2204	adénomes tubulaires
+T10	disorder 2210 2226	polypes coliques
+T11	procedure 2254 2261	retirés
+T12	procedure 2276 2294	anamnèse familiale
+T13	disorder 2304 2326	carcinomes colorectaux
+T14	disorder 2397 2427	thromboses veineuses profondes
+T15	disorder 2429 2432	TVP
+T16	disorder 2449 2467	embolie pulmonaire
+T17	procedure 2497 2521	traitement anticoagulant
+T18	drugs 2542 2553	rivaroxaban
+T19	procedure 2560 2584	interrompu pour l’examen
+T20	disorder 2651 2672	infarctus du myocarde
+T21	disorder 2704 2748	on-ST elevated myocardial infarction, NSTEMI
+T22	procedure 2781 2831	angioplastie coronarienne transluminale percutanée
+T23	procedure 2833 2837	ACTP
+T24	drugs 2893 2904	rivaroxaban
+T25	drugs 2932 2941	énalapril
+T26	drugs 2969 2978	nébivolol
+T27	procedure 3032 3042	coloscopie
+T28	disorder 3074 3085	hémorroïdes
+T29	procedure 3054 3069	mis en évidence
+T30	disorder 3108 3142	pandiverticulose non inflammatoire
+T31	disorder 3161 3168	polypes
+T32	procedure 3239 3271	complètement réséqués à la pince
+T33	procedure 3275 3285	histologie
+T34	disorder 3299 3318	adénomes tubulaires
+T35	disorder 3387 3414	masse polypoïde enchevêtrée
+T36	irrelevant 3500 3635	Figure 1: L’endoscopie montre, au niveau de l’abouchement de l’appendice, une masse polypoïde s’enchevêtrant dans l’appendice (flèche).
+T37	procedure 3660 3684	procéder à une résection
+T38	procedure 3727 3734	renoncé
+T39	procedure 3741 3748	biopsie
+T40	disorder 3767 3785	adhérence du tissu
+T41	procedure 3814 3833	nouvelle coloscopie
+T42	procedure 3876 3891	hospitalisation
+T43	disorder 3896 3902	polype
+T44	procedure 3936 3956	marqué avec la sonde
+T45	procedure 3986 3995	endoscope
+T46	procedure 4056 4082	abouchement de l’appendice
+T47	drugs 4130 4141	Twingrasper
+T48	procedure 4150 4182	réséqué avec l’anse diathermique
+T49	irrelevant 4194 4280	Figure 2: Ablation endoscopique de la masse au niveau de l’abouchement de l’appendice.
+T50	procedure 4289 4325	complication péri-­interventionnelle
+T51	procedure 4344 4354	endoscopie
+T52	disorder 4409 4429	moignon de résection
+T53	procedure 4462 4472	histologie
+T54	disorder 4485 4537	adénome dentelé sessile sans dysplasies épithéliales
+T55	procedure 4549 4569	complétement réséqué
+T56	disorder 4592 4612	douleurs abdominales
+T57	disorder 4618 4632	légère défense
+T58	disorder 4686 4693	fièvre 
+T59	labvalue 4704 4710	39,2°C
+T60	procedure 4754 4777	analyses de laboratoire
+T61	procedure 4809 4812	CRP
+T62	labvalue 4793 4802	élévation
+T63	labvalue 4821 4830	160 mg/dl
+T64	procedure 4835 4863	tomodensitométrie abdominale
+T65	disorder 4877 4894	appendicite aiguë
+T66	irrelevant 4928 5070	Figure 3: La tomodensitométrie montre une appendicite ­aiguë (flèche). * = Clip après la résection de pleine épaisseur de la paroi avec FTRD®.
+T67	disorder 5092 5104	inflammation
+T68	disorder 5144 5152	ischémie
+T69	procedure 5172 5184	intervention
+T70	profession 5211 5243	collègues de chirurgie viscérale
+T71	procedure 5267 5290	traitement antibiotique
+T72	drugs 5295 5306	ceftriaxone
+T73	drugs 5310 5323	métronidazole
+T74	procedure 5329 5354	intervention chirurgicale
+T75	procedure 5449 5461	hémocultures
+T76	labvalue 5475 5484	négatives
+T77	procedure 5360 5379	symptômes cliniques
+T78	procedure 5529 5539	traitement
+T79	drugs 5544 5555	ceftriaxone
+T80	drugs 5559 5572	métronidazole
+T81	procedure 5588 5603	appendicectomie
+T82	procedure 5691 5709	régime alimentaire
+T83	procedure 5721 5731	coloscopie
+T84	procedure 5803 5818	appendicectomie
+T85	irrelevant 5821 5831;5833 6985;6987 7451	Discussion  Dans des mains expérimentées, le traitement avec FTRD® représente une méthode sûre pour la résection de pleine épaisseur de la paroi. Une étude auprès de 60 patients a montré un succès de la résection de pleine épaisseur de la paroi dans 88% des cas, avec une résection R0 sur le plan histologique dans 79% des cas. Des complications, qui ont toutes pu être traitées par endoscopie, sont survenues dans seulement 7% des cas [1]. Dans une petite étude rétrospective, un patient sur un total de sept a présenté une appendicite suite à un traitement avec FTRD® au niveau de l’abouchement de l’appendice [2]. Une autre petite étude rétrospective relative à notre cas a analysé 32 patients ayant fait l’objet d’un traitement FTRD® au niveau de l’abouchement de l’appendice (les patients appendicectomiés avaient été exclus). Une appendicite est survenue chez sept patients (21,5%). Chez quatre patients, l’appendicite est survenue au cours des dix jours suivant la résection et dans les autres cas, elle n’est survenue que plus d’un mois après. Une appendicectomie a été réalisée dans cinq cas et un traitement conservateur a été mis en œuvre dans deux cas.  Les données issues de notre pratique montrent également une survenue de cette complication chez au maximum 20% des patients. Etant donné qu’une ­appendicite peut donc survenir dans un cinquième de tous les cas, il est impératif d’informer explicitement le patient au sujet de cette complication. La chirurgie d’appendicectomie n’est pas toujours indispensable. Il convient en revanche d’initier une antibiothérapie par voie intraveineuse d’une durée d’une semaine.

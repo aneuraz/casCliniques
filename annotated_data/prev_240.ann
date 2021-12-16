@@ -1,0 +1,88 @@
+T1	disorder 349 352	HTA
+T2	drugs 495 506	médicaments
+T3	risk 516 526	colérique 
+T4	drugs 799 807	Trandate
+T5	drugs 846 855	Practazin
+T6	drugs 900 909	’Altizide
+T7	drugs 916 930	spironolactone
+T8	disorder 993 1005	hyponatrémie
+T9	labvalue 1034 1044	128 mmol/l
+T10	drugs 1131 1140	Practazin
+T11	drugs 1296 1318	antagonistes calciques
+T12	drugs 1320 1334	béta bloquants
+T13	drugs 1336 1365	inhibiteurs de l’angiotensine
+T14	drugs 1701 1707	Lercan
+T15	disorder 1752 1772	douleurs thoraciques
+T16	drugs 1776 1783	Aprovel
+T17	disorder 1805 1818	 cervicalgies
+T18	disorder 1826 1834	vertiges
+T19	drugs 1839 1847	Pratazin
+T20	drugs 1873 1880	crampes
+T21	drugs 1903 1914	médicaments
+T22	disorder 1984 1997	intolérances 
+T23	risk 2000 2188	La patiente, à plusieurs reprises, modifie d’elle-même le traitement en cours, pour l’augmenter, l’arrêter ou le remplacer par d’anciens traitements qu’elle associe de sa propre initiative
+T24	procedure 2337 2365	consultations cardiologiques
+T25	procedure 2371 2394	examens complémentaires
+T26	procedure 2403 2420	scanner cérébral 
+T27	risk 2543 2564	modifie le traitement
+T28	risk 2591 2631	’arrête temporairement sans avis médical
+T29	drugs 2649 2659	 Practazin
+T30	disorder 2684 2692	 crampes
+T31	disorder 2924 2927	HTA
+T32	disorder 2981 2984	HTA
+T33	procedure 3021 3025	MAPA
+T34	procedure 3107 3112	MAPA 
+T35	drugs 3258 3267	 Trandate
+T36	drugs 3271 3280	Practazin
+T37	procedure 3608 3620	consultation
+T38	drugs 3712 3720	Trandate
+T39	drugs 3737 3748	Aldactazine
+T40	procedure 3821 3837	bilan biologique
+T41	procedure 3938 3957	examens urologiques
+T42	procedure 3993 4004	cystoscopie
+T43	disorder 4006 4026	calcul vésical connu
+T44	disorder 4028 4035	cystite
+T45	disorder 4039 4050	pollakiurie
+T46	disorder 4091 4100	 frissons
+T47	procedure 4105 4107	TA
+T48	labvalue 4112 4119	normale
+T49	disorder 4368 4380	vomissements
+T50	disorder 4564 4578	gastroentérite
+T51	procedure 4513 4537	traitement symptomatique
+T52	disorder 4616 4621	vomir
+T53	procedure 4666 4668	TA
+T54	labvalue 4675 4687	142/76 mm Hg
+T55	procedure 4692 4711	glycémie capillaire
+T56	labvalue 4712 4719	normale
+T57	disorder 4744 4779	Vomissements depuis 2 jours marrons
+T58	drugs 4921 4932	Dompéridone
+T59	drugs 5111 5118	Inexium
+T60	drugs 5120 5128	Vogalène
+T61	drugs 5130 5138	Motilium
+T62	disorder 5251 5263	vomissements
+T63	procedure 5411 5433	ionogramme plasmatique
+T64	procedure 5478 5487	 Natrémie
+T65	labvalue 5494 5503	98 meq/l 
+T66	procedure 5506 5514	Kalièmie
+T67	labvalue 5517 5526	2,1 meq/l
+T68	procedure 5533 5541	glycémie
+T69	labvalue 5543 5554	 8,1 mmol/l
+T70	procedure 5611 5621	créatinine
+T71	labvalue 5626 5633	normale
+T72	procedure 5692 5712	restriction hydrique
+T73	procedure 5724 5733	perfusion
+T74	procedure 5879 5887	Natrémie
+T75	labvalue 5894 5903	121 meq/l
+T76	procedure 5986 6006	restriction hydrique
+T77	procedure 6013 6021	natrémie
+T78	labvalue 6040 6049	130 meq/l
+T79	labvalue 6063 6072	134 meq/l
+T80	disorder 6161 6181	signes neurologiques
+T81	disorder 6205 6224	 troubles cognitifs
+T82	disorder 6226 6246	syndrome cérébelleux
+T83	disorder 6248 6269	troubles de la marche
+T84	disorder 6271 6311	déficit moteur des extenseurs du poignet
+T85	procedure 6331 6339	 examens
+T86	disorder 6376 6403	 myélinolyse centro-pontine
+T87	procedure 6451 6464	IRM cérébrale
+T88	irrelevant 6593 6675	 Quel est le rôle des diurétiques ? des vomissements ? d’une pathologie associée ?

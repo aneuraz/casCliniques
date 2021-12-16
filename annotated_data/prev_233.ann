@@ -1,0 +1,55 @@
+T1	procedure 67 79	mammographie
+T2	disorder 107 141	convergence supéro-externe centrée
+T3	disorder 150 169	macro calcification
+T4	procedure 179 190	échographie
+T5	disorder 197 242	distorsion de l’architecture non vascularisée
+T6	disorder 271 290	macro-calcification
+T7	procedure 340 354	macro-biopsies
+T8	disorder 307 322	creux axillaire
+T9	labvalue 327 332	libre
+T10	disorder 510 520	de lésions
+T11	disorder 572 579	nécrose
+T12	disorder 608 616	sclérose
+T13	disorder 622 650	désertification épithéliale 
+T14	procedure 670 688	image radiologique
+T15	disorder 716 746	calcifications interstitielles
+T16	disorder 799 806	nécrose
+T17	disorder 865 889	adénocarcinome canalaire
+T18	labvalue 917 923	faible
+T19	labvalue 1237 1243	faible
+T20	procedure 1324 1337	consultation 
+T21	disorder 1375 1384	hématome 
+T22	procedure 1712 1731	ympho-scintigraphie
+T23	disorder 1758 1766	ganglion
+T24	procedure 1801 1814	intervention 
+T25	procedure 1840 1852	tumorectomie
+T26	procedure 1891 1899	ablation
+T27	disorder 2121 2130	hématome 
+T28	procedure 2248 2255	exérèse
+T29	disorder 2269 2277	ganglion
+T30	disorder 2437 2455	cicatrice radiaire
+T31	disorder 2587 2617	carcinome canalaire infiltrant
+T32	procedure 2634 2647	radiothérapie
+T33	procedure 2653 2668	hormonothérapie
+T34	irrelevant 2672 2980	Lors de cette réunion, le chirurgien est le médecin référent, 5 autres médecins sont présents (avec un radiothérapeute différent de celui qui la prendra en charge et pas d’anatomopathologiste). L’intitulé contraste avec la teneur des propos plus nuancés tenus ultérieurement par le chirurgien en consultation
+T35	procedure 3022 3034	consultation
+T36	labvalue 3083 3093	excellente
+T37	disorder 3229 3248	 cicatrice radiaire
+T38	procedure 3740 3752	consultation
+T39	procedure 3866 3878	consultation
+T40	procedure 4166 4176	traitement
+T41	procedure 4191 4199	 scanner
+T42	procedure 4233 4245	consultation
+T43	procedure 4268 4293	intervention chirurgicale
+T44	disorder 4542 4548	lésion
+T45	drugs 4614 4618	dose
+T46	drugs 4063 4068	doses
+T47	disorder 4677 4684	lésions
+T48	disorder 4688 4703	dermite radique
+T49	disorder 4709 4717	érythème
+T50	labvalue 4721 4729	grade II
+T51	disorder 4734 4776	desquamation exsudative du sillon mammaire
+T52	irrelevant 4778 4974	Du fait de « cette erreur diagnostique » et « d’une radiothérapie inutile », la patiente porte plainte, fin 2012, devant le tribunal de grande instance, demandant qu’une expertise soit diligentée.
+T53	irrelevant 3316 3515	si confirmation d’un carcinome invasif, indication de radiothérapie, on adresse dores et déjà la patiente au radiothérapeute. Dans le cas contraire, on réajustera en RCP le traitement complémentaire 
+T54	irrelevant 3518 3671	L’anatomopathologiste numéro 3 adresse un courrier à l’anatomopathologiste numéro 1 lui demandant de lui envoyer les lames « à la demande du chirurgien »
+T55	irrelevant 3765 3830	demande de relecture des lames avant de débuter la radiothérapie 

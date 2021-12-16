@@ -1,0 +1,164 @@
+T1	disorder 10 27	Les vomissements 
+T2	disorder 29 41	 la diarrhée
+T3	disorder 270 299	gastro-entérite virale simple
+T4	disorder 303 354	les gastro-entérites bactériennes aux complications
+T5	disorder 631 660	gastro-entérite ­hémorragique
+T6	disorder 733 747	forte diarrhée
+T7	disorder 767 784	des selles noires
+T8	drugs 796 812	comprimés de fer
+T9	disorder 819 826	nausées
+T10	disorder 833 846	 vomissements
+T11	disorder 916 922	fièvre
+T12	labvalue 941 947	38,3 °
+T13	disorder 972 1037	u sang frais a pour la première fois été constaté dans les selles
+T14	procedure 1078 1098	 une antibiothérapie
+T15	drugs 1103 1117	ciprofloxacine
+T16	labvalue 1263 1275	164/97 mm Hg
+T17	disorder 1308 1320	 bradycardie
+T18	labvalue 1322 1328	58/min
+T19	labvalue 1428 1431	98%
+T20	labvalue 1382 1389	36,0 °C
+T21	procedure 1438 1455	examen abdominal,
+T22	disorder 1456 1483	des bruits intestinaux vifs
+T23	procedure 1742 1761	 L’examen cardiaque
+T24	procedure 1764 1784	 l’examen pulmonaire
+T25	disorder 1849 1875	 muqueuses étaient sèches.
+T26	procedure 1875 1897	 L’examen neurologique
+T27	disorder 1946 1998	altérations pathologiques des ganglions lymphatiques
+T28	disorder 2078 2091	une exsiccose
+T29	labvalue 2117 2124	179 g/l
+T30	disorder 2129 2158	une insuffisance rénale aiguë
+T31	procedure 2170 2180	créatinine
+T32	labvalue 2183 2195	 161 µmol/l.
+T33	procedure 2253 2263	leucocytes
+T34	labvalue 2264 2272	13,4 G/l
+T35	procedure 2274 2278	CRP 
+T36	labvalue 2278 2286	166 mg/l
+T37	disorder 2304 2341	légère perturbation des électrolytes 
+T38	labvalue 2351 2363	 3,3 mmol/l 
+T39	procedure 2342 2351	potassium
+T40	procedure 2366 2373	sodium 
+T41	labvalue 2373 2383	134 mmol/l
+T42	procedure 2742 2765	Les analyses urinaires 
+T43	disorder 2779 2799	 légère protéinurie 
+T44	disorder 2801 2816	 érythrocyturie
+T45	disorder 2831 2841	cétonurie.
+T46	procedure 2856 2885	 tomodensitométrie abdominale
+T47	disorder 2944 2961	colite ischémique
+T48	disorder 3006 3026	 pancolite prononcée
+T49	anatomy 3071 3076	reins
+T50	disorder 3103 3126	altérations ischémiques
+T51	disorder 3171 3190	un utérus myomateux
+T52	disorder 3194 3251	une lésion probablement kystique dans le processus unciné
+T53	procedure 3263 3314	 Tomodensitométrie axiale avec produit de contraste
+T54	anatomy 3371 3376	côlon
+T55	anatomy 3344 3349	côlon
+T56	anatomy 3459 3474	côlon sigmoïde 
+T57	procedure 3614 3623	’imagerie
+T58	disorder 3642 3689	colite hémorragique virale avec déshydratation 
+T59	procedure 3777 3802	 diagnostic différentiel.
+T60	drugs 3838 3853	ciprofloxacine 
+T61	procedure 3963 4018	réhydratation par Ringer acétate par voie intraveineuse
+T62	drugs 4061 4075	métoclopramide
+T63	drugs 4076 4089	 paracétamol 
+T64	drugs 4092 4108	butylscopolamine
+T65	labvalue 4206 4214	151 g/l)
+T66	labvalue 4251 4262	115 µmol/l)
+T67	procedure 4267 4270	CRP
+T68	labvalue 4283 4292	116 mg/l 
+T69	procedure 4338 4360	umération leucocytaire
+T70	procedure 4193 4204	hémoglobine
+T71	procedure 4483 4496	réhydratation
+T72	disorder 4558 4568	une anémie
+T73	procedure 4578 4589	hémoglobine
+T74	labvalue 4593 4601	108 g/l,
+T75	procedure 4606 4618	thrombopénie
+T76	labvalue 4622 4628	29 G/l
+T77	labvalue 4701 4710	1662 U/l)
+T78	drugs 4841 4849	héparine
+T79	disorder 4898 4908	thromboses
+T80	procedure 4914 4934	examen microscopique
+T81	procedure 4912 4953	l’examen microscopique du frottis sanguin
+T82	labvalue 4972 4974	>6
+T83	labvalue 4972 4991	>6 par champ visuel
+T84	procedure 5020 5043	 Les analyses urinaires
+T85	procedure 5059 5112	augmentation de la protéinurie et de l’érythrocyturie
+T86	disorder 5138 5171	 syndrome hémolytique et urémique
+T87	disorder 5172 5176	(SHU
+T88	drugs 5283 5296	 ceftriaxone 
+T89	drugs 5302 5315	métronidazole
+T90	procedure 5384 5392	ADAMTS13
+T91	procedure 5424 5463	von Willebrand factor-cleaving protease
+T92	labvalue 5555 5558	35%
+T93	labvalue 5590 5601	trop faible
+T94	labvalue 5622 5630	 51–100%
+T95	procedure 5662 5685	 test de Coombs direct,
+T96	labvalue 5703 5711	négatif.
+T97	procedure 5712 5733	Le diagnostic de SHU 
+T98	disorder 5835 5880	purpura thrombotique thrombocytopénique (PTT)
+T99	procedure 5907 5915	ADAMTS13
+T100	labvalue 5957 5961	 ≤5%
+T101	procedure 6047 6096	une détermination des E. coli entérohémorragiques
+T102	procedure 6098 6102	ECEH
+T103	disorder 6300 6305	 PTT 
+T104	procedure 6332 6349	une plasmaphérèse
+T105	procedure 6357 6372	corticothérapie
+T106	drugs 6398 6411	antibiotiques
+T107	drugs 6466 6490	pipéracilline-tazobactam
+T108	labvalue 6520 6524	ECEH
+T109	disorder 6531 6563	vérotoxine dans la ­coproculture
+T110	procedure 6565 6622	la plasmaphérèse, la corticothérapie et l’antibiothérapie
+T111	disorder 6690 6711	L’insuffisance rénale
+T112	procedure 6736 6744	dialyse 
+T113	procedure 6788 6814	La numération plaquettaire
+T114	disorder 6908 6933	 anémie hyperrégénérative
+T115	labvalue 6957 6962	 3,7%
+T116	procedure 6935 6957	indice réticulocytaire
+T117	disorder 10765 10850	insuffisance rénale aiguë–anémie–thrombopénie en conjonction avec une gastro-entérite
+T118	disorder 10876 10915	syndrome hémolytique et urémique (SHU).
+T119	disorder 10528 10549	Les gastro-entérites 
+T120	disorder 10387 10392	ECEH 
+T121	disorder 10476 10479	SHU
+T122	procedure 9496 9520	réhydratation suffisante
+T123	procedure 9529 9569	 correction des troubles électrolytiques
+T124	procedure 9596 9656	es thérapies de substitution rénale et sur des transfusions.
+T125	drugs 9717 9727	éculizumab
+T126	drugs 10011 10025	antibiotiques 
+T127	disorder 10047 10051	ECST
+T128	disorder 10129 10132	SHU
+T129	disorder 10262 10266	 SHU
+T130	disorder 8792 8828	thrombopénie, une anémie hémolytique
+T131	procedure 8831 8845	test de Coombs
+T132	labvalue 8846 8855	négatif, 
+T133	disorder 8855 8884	une insuffisance rénale aiguë
+T134	disorder 8888 8945	la présence de schizocytes dans l’hémogramme différentiel
+T135	labvalue 8982 8997	agent pathogène
+T136	labvalue 9006 9014	 toxine.
+T137	labvalue 9078 9085	toxine,
+T138	labvalue 9054 9068	gent pathogène
+T139	disorder 9227 9230	SHU
+T140	disorder 9237 9241	PTT,
+T141	procedure 9294 9345	 détermination de l’activité plasmatique d’ADAMTS13
+T142	labvalue 8054 8062	E. coli 
+T143	disorder 8119 8133	Les infections
+T144	disorder 8284 8289	SHU; 
+T145	irrelevant 8289 8355	la grande majorité des patients obtiennent une guérison spontanée 
+T146	labvalue 8360 8376	La shiga-toxine 
+T147	disorder 8440 8476	dérèglement du système du complément
+T148	disorder 8500 8562	la formation de thrombi microvasculaires à prédominance rénale
+T149	disorder 8572 8643	détérioration consécutive de la fonction rénale et par une thrombopénie
+T150	disorder 7082 7089	Le SHU 
+T151	disorder 7113 7151	microangiopathies thrombotiques (MAT),
+T152	disorder 7178 7218	 altérations pathologiques des artériole
+T153	disorder 7177 7238	s altérations pathologiques des artérioles et des capillaires
+T154	disorder 7240 7246	Le PTT
+T155	disorder 7276 7281	 MAT 
+T156	procedure 7298 7320	iagnostic différentiel
+T157	disorder 7324 7328	SHU.
+T158	disorder 7355 7362	les MAT
+T159	disorder 7387 7420	 amas de fibrine et de plaquettes
+T160	disorder 7446 7496	ischémies et d’infarctus au niveau microvasculaire
+T161	disorder 7652 7703	hémolyse mécanique et une formation de schizocytes.
+T162	disorder 7891 7930	 des altérations familiales/génétiques,
+T163	disorder 7935 7956	maladies auto-immunes
+T164	disorder 7969 7988	 lupus érythémateux

@@ -1,0 +1,15 @@
+T1	procedure 85 108	accouche par voie basse
+T2	disorder 147 171	hallucinations auditives
+T3	disorder 179 195	idées délirantes
+T4	profession 235 245	psychiatre
+T5	disorder 359 379	 psychose puerpérale
+T6	procedure 397 427	hospitalisation en psychiatrie
+T7	disorder 533 551	tentative de fugue
+T8	profession 556 566	psychiatre
+T9	procedure 589 616	propose une prise en charge
+T10	profession 1009 1019	psychiatre
+T11	disorder 1148 1189	changement brutal du comportement du mari
+T12	disorder 1199 1209	très agité
+T13	disorder 1213 1247	quitte sa famille sans explication
+T14	disorder 1396 1421	 troubles hallucinatoires
+T15	irrelevant 1422 1690;1692 1889;1891 1963	de la patiente persistent avec un risque pour elle-même et son bébé. Le traitement médicamenteux est changé et une demande de soins psychiatriques sur décision du représentant de l'Etat (SPDRE) est adressée au Parquet. La famille est sans nouvelles du mari depuis 24h.  L’enfant est envoyé en famille d’accueil et la patiente transférée en centre d’accueil et de traitement à durée brève (CATDB) structure spécialisée où coexistent soins somatiques et psychiatriques.  A J11, le mari est également hospitalisé dans un service de psychiatrie.

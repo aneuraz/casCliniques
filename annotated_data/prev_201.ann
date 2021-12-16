@@ -1,0 +1,61 @@
+T1	disorder 60 84	écoulement glaireux anal
+T2	disorder 94 118	alternance de diarrhées 
+T3	disorder 124 136	constipation
+T4	procedure 248 258	coloscopie
+T5	disorder 262 290	Prolapsus muco-hémorroïdaire
+T6	disorder 434 472	ensemble inflammatoire et adhérentiel 
+T7	disorder 477 499	diverticulose associée
+T8	procedure 553 579	lavement aux hydrosolubles
+T9	disorder 611 618	sténose
+T10	disorder 632 657	sigmoïdite diverticulaire
+T11	procedure 754 783	sigmoïdectomie cœlio-assistée
+T12	procedure 6837 6849	anesthésiste
+T13	drugs 7006 7019	noradrénaline
+T14	labvalue 7023 7071	 PA se maintenait aux alentours de 100 / 50 mmHg
+T15	disorder 10107 10140	écoulements purulents nauséabonds
+T16	disorder 10078 10101	syndrome du grêle court
+T17	procedure 9239 9274	pansements sous anesthésie générale
+T18	disorder 8847 8893	péritonite par perforation de l'intestin grêle
+T19	procedure 8982 9015	drainage d'une fistule digestive 
+T20	procedure 9045 9071	résection d'intestin grêle
+T21	procedure 9075 9099	anastomose jéjuno-iléale
+T22	procedure 8556 8597	établissement de la continuité digestive 
+T23	disorder 7904 7935	nécrose d'environ 60 cm d'iléon
+T24	disorder 7948 7973	 cholécystite gangréneuse
+T25	procedure 8094 8122	ésection de l'iléon nécrosé 
+T26	procedure 8127 8164	confection d'une nouvelle iléostomie 
+T27	procedure 8177 8193	cholécystectomie
+T28	irrelevant 7423 7685	A 10 h 15, la patiente était installée dans un véhicule du SAMU et arrivait au CHU, trente minutes plus tard. Le traitement mis en route dans le service de réanimation permet de stabiliser l'état hémodynamique et d'entreprendre un bilan de l'état de la patiente.
+T29	disorder 6445 6465	désaturation brutale
+T30	disorder 6469 6493	défaillance respiratoire
+T31	procedure 6511 6602	réintubation avec mise sous ventilation assistée et augmentation des doses de noradrénaline
+T32	disorder 6201 6230	Liquide de lame séro-sanglant
+T33	drugs 6092 6099	Lasilix
+T34	labvalue 5571 5605	PA systolique inférieure à 50 mmHg
+T35	labvalue 5609 5632	FC supérieure à 120/min
+T36	disorder 4950 4996	état de choc avec hémodynamique très instable 
+T37	disorder 5012 5064	aspect ischémique de l'ensemble du grêle et du côlon
+T38	procedure 5097 5166	iléostomie avec extériorisation de la perforation dans le flanc droit
+T39	procedure 5168 5221	Toilette péritonéale très abondante au sérum bétadiné
+T40	procedure 5223 5270	Drainage de la gouttière pariéto-colique gauche
+T41	procedure 5223 5298	Drainage de la gouttière pariéto-colique gauche et du cul de sac de Douglas
+T42	labvalue 4018 4123	nfiltration liquidienne de la région latérale gauche et postérieure gauche du pelvis autour du mésorectum
+T43	procedure 4631 4666	laparotomie médiane sous-ombilicale
+T44	procedure 4668 4710	Evacuation du liquide intestinal verdâtre 
+T45	procedure 4711 4722	prélèvement
+T46	disorder 4731 4742	péritonite 
+T47	disorder 4766 4853	plaie punctiforme de l'intestin grêle à sa portion moyenne et sur son bord mésentérique
+T48	drugs 3419 3427	morphine
+T49	procedure 3698 3706	 diurèse
+T50	drugs 2527 2534	Lovenox
+T51	disorder 1904 1919	Lésion du canal
+T52	disorder 2126 2156	Prolapsus de la muqueuse anale
+T53	disorder 2162 2176	 pseudo-colite
+T54	disorder 1777 1852	iverticulose sigmoïdienne abcédée avec mésentérite fibrosante et sténosante
+T55	procedure 1496 1520	colostomie de protection
+T56	procedure 1527 1614	drains de Redon sont mis en place pour assurer le drainage du flanc gauche et du pelvis
+T57	drugs 1699 1717	antibioprophylaxie
+T58	drugs 1722 1730	Mephoxin
+T59	procedure 1074 1122	cœlioscopie pour la libération de l'angle gauche
+T60	procedure 1137 1271	laparotomie médiane sous-ombilicale pour la résection du côlon sigmoïde et la confection d'une anastomose colorectale latéro-terminale
+T61	procedure 1289 1315	 technique trans-suturaire

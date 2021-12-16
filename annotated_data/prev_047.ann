@@ -1,0 +1,20 @@
+T1	disorder 84 100	douleur violente
+T2	disorder 84 156	douleur violente dans la région de l’incisive latérale supérieure gauche
+T3	procedure 396 410	 test du froid
+T4	drugs 672 685	 paracétamol 
+T5	drugs 693 705	amoxicilline
+T6	drugs 1218 1224	Ixprim
+T7	drugs 1231 1238	Laroxyl
+T8	procedure 2825 2848	traitement endodontique
+T9	procedure 2662 2666	IRM 
+T10	drugs 2444 2450	Flagyl
+T11	drugs 2456 2468	amoxicilline
+T12	disorder 2226 2235	voussure 
+T13	risk 2058 2065	Triptan
+T14	drugs 2088 2096	Imigrane
+T15	drugs 1616 1625	Isoptine 
+T16	drugs 1631 1645	Chrono Indocid
+T17	procedure 1672 1675	IRM
+T18	disorder 1466 1495	névralgie faciale essentielle
+T19	drugs 1514 1521	Indocid
+T20	disorder 820 837	douleurs intenses

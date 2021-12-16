@@ -1,0 +1,120 @@
+Description du cas
+
+Une assistante médicale de 22 ans est adressée pour un bilan par son médecin de famille, qui est aussi son employeur, en raison de sudation nocturne aiguë, de toux, de douleurs thoraciques pleurétiques du côté gauche et de sensations de dyspnée, ayant amené le médecin de famille à suspecter une embolie pulmonaire. Deux mois auparavant, la patiente avait passé des vacances dans l’archipel du Cap-Vert, où elle avait été piquée par un insecte; elle a en plus été en contact avec un patient atteint de tuberculose pulmonaire ouverte au cabinet de médecine de famille.
+
+A l’examen clinique, la patiente eupnéique et subfébrile présentait un murmure vésiculaire diminué du côté gauche, avec un affaiblissement au niveau de la base.
+
+L’électrocardiographie était sans particularité. Les analyses de laboratoire ont révélé des paramètres inflammatoires élevés (leucocytes 8,54 G/l, CRP 136 mg/l), ainsi que des D-dimères positifs; la sérologie pour le VIH et le dépistage de vascularites (FR, ANA, ANCA) étaient négatifs; par la suite, les sérologies pour le virus Zika, le virus de la dengue et le virus du chikungunya se sont également révélées négatives.
+
+La tomodensitométrie a finalement permis d’exclure le diagnostic de suspicion initial d’embolie pulmonaire; cet examen a toutefois mis en évidence un épanchement pleural cloisonné du côté gauche avec atélectasies partielles de compression au niveau du lobe inférieur gauche (fig. 1).
+
+Figure 1: Tomodensitométrie thoracique avec produit de contraste (fenêtre parties molles [à gauche]-poumons [à droite)
+révélant un épanchement pleural gauche cloisonné avec atélectasies partielles de compression au niveau du lobe inférieur.
+
+La ponction pleurale gauche réalisée par la suite a révélé un exsudat pleural mixte lymphocytaire/granulocytaire, riche en cellules, avec un pH normal de 7,45 et un faible taux de glucose (<3,3 mmol/l); l’examen microscopique direct et la mise en culture n’ont permis de mettre en évidence ni bactéries ni mycobactéries; l’examen cytologique n’a pas montré de cellules malignes.
+
+Question 1: Quel est le diagnostic différentiel le plus probable à ce stade?
+
+
+a) Pleurite/épanchement pleural parapneumonique
+
+b) Empyème pleural
+
+c) Pleurésie tuberculeuse
+
+d) Affection rhumatismale sous-jacente/collagénose
+
+e) Carcinose pleurale
+
+Chez cette jeune patiente sans facteurs de risque présentant une affection aiguë, une carcinose pleurale est très improbable malgré l’exsudat pleural à cellularité mixte avec faible concentration en glucose. De même, une affection rhumatismale sous-jacente/collagénose est très improbable compte tenu de l’atteinte unilatérale, de l’absence de symptômes typiques et du dépistage négatif des vascularites. En présence d’exsudat pleural à cellularité mixte avec pH normal, un empyème pleural est improbable en dépit de la nature cloisonnée de l’épanchement pleural gauche. Au vu de l’anamnèse concordante, une pleurésie tuberculeuse est en principe possible, mais bien plus improbable dans le diagnostic différentiel qu’une pleurite virale/bactérienne ou qu’un épanchement pleural parapneumonique.
+
+Face au diagnostic de suspicion d’épanchement pleural parapneumonique, une antibiothérapie intraveineuse empirique par amoxicilline/acide clavulanique a initialement été administrée à la patiente; compte tenu de l’absence de réponse clinique et biologique, ce traitement a par la suite été délaissé au profit de l’association pipéracilline/tazobactam. Après une durée globale de 7 jours d’antibiothérapie empirique, aucune réponse clinique et biologique adéquate n’a été constatée.
+
+Question 2: Lequel des examens suivants est désormais indiqué?
+
+
+a) Nouvelle ponction pleurale à visée diagnostique avec dosage de l’adénosine désaminase (ADA)
+
+b) Nouvelle ponction pleurale à visée diagnostique et thérapeutique avec mise en place d’un drainage Bülau
+
+c) Biopsie pleurale à l’aveugle avec aiguille d’Abrams
+
+d) Thoracoscopie diagnostique
+
+e) «Interferon-gamma release assay» (IGRA)
+
+Avant de se tourner vers des mesures diagnostiques plus invasives (biopsie pleurale à l’aveugle, thoraco­scopie), il convient, en particulier chez une jeune femme avec épanchement pleural gauche d’origine indéterminée, de répéter la ponction pleurale diagnostique; l’adénosine désaminase (ADA) est un paramètre très spécifique pour détecter une pleurésie tuberculeuse; le test «interferon-gamma release assay» (IGRA) ne permet en revanche pas de faire la distinction entre une infection tuberculeuse latente et une pleurésie tuberculeuse active. La mise en place d’un drainage Bülau n’est pas indiquée au vu de la faible probabilité d’empyème pleural, d’autant plus que cette mesure ne fournit pas d’informations diagnostiques supplémentaires par rapport à la ponction pleurale. Une biopsie pleurale à l’aveugle peut être réalisée en cas de processus pleuraux diffus, alors qu’une thoracoscopie est envisageable en cas de processus pleuraux plutôt localisés.
+
+La deuxième ponction pleurale a à nouveau révélé un exsudat pleural riche en cellules, mais désormais exclusivement lymphocytaire, avec un pH normal et une concentration d’ADA inférieure à la limite de détection; l’examen microbiologique et l’examen cytologique n’ont à nouveau pas permis de confirmer une infection ou une néoplasie. Par la suite, l’indication d’une thoracoscopie diagnostique a finalement été posée et elle a révélé le résultat macroscopique ci-dessous (fig. 2).
+
+Figure 2: Cliché intra-opératoire de la thoracoscopie diagnostique avec mise
+en évidence d’une pleurésie fibrineuse sévère avec petits nodules.
+
+Question 3: Quel est le résultat histologique le plus probable au vu des examens supplémentaires réalisés jusqu’à présent?
+
+
+a) Mise en évidence d’un lymphome intrapleural
+
+b) Mise en évidence d’une carcinose pleurale
+
+c) Mise en évidence d’une inflammation granulocytaire stérile non caséeuse
+
+d) Mise en évidence d’une inflammation granulocytaire caséeuse avec détection de mycobactéries
+
+e) Mise en évidence d’un épanchement pleural bénin associé à l’amiante
+
+Face à un épanchement pleural lymphocytaire isolé sans lymphadénopathie médiastino-hilaire et sans ­lésions intrapulmonaires, une sarcoïdose est très improbable. Au vu de l’exsudat pleural lymphocytaire stérile obtenu lors de la deuxième ponction, outre une pleurésie tuberculeuse, il convient également d’envisager dans le cadre du diagnostic différentiel une néoplasie, tout en sachant qu’à la fois la carcinose pleurale et le lymphome intrapleural sont rares chez une patiente de 22 ans non fumeuse.
+
+La PCR s’est révélée positive pour le complexe Mycobacterium tuberculosis et la mise en culture a permis de mettre en évidence Mycobacterium tuberculosis,ce qui a finalement permis de confirmer définitivement le diagnostic de suspicion de pleurésie tuberculeuse.
+
+Question 4: Quelles mesures thérapeutiques sont indiquées?
+
+
+a) Attitude expectative avec attente d’une guérison spontanée
+
+b) Attitude expectative avec attente d’une guérison spontanée, assortie d’un isolement gouttelettes et d’un arrêt de travail durant au moins 2 semaines
+
+c) Traitement antituberculeux préventif par isoniazide durant 9 mois ou rifampicine durant 4 mois
+
+d) Traitement d’association par tuberculostatiques classique pour une durée totale de 6 mois, par analogie avec le traitement de la tuberculose pulmonaire
+
+e) Traitement d’association par tuberculostatiques étendu en supposant une tuberculose multirésistante
+
+Un traitement antituberculeux préventif est uniquement indiqué en cas de tuberculose latente, mais pas en cas de tuberculose active. Bien qu’une pleurésie tuberculeuse guérisse en général spontanément sous traitement symptomatique, l’abstention thérapeutique est associée à un risque élevé de développement d’une tuberculose pulmonaire ou extra-pulmonaire au cours des 5 années suivantes. Ainsi, un traitement antituberculeux classique est nécessairement indiqué. Sur le plan clinique, il n’y a pas de facteurs de risque de tuberculose multirésistante.
+
+Nous avons initié une quadrithérapie tuberculostatique par pyrazinamide, rifampicine, éthambutol et isoniazide pour une durée de 2 mois. A l’issue de la phase initiale qui s’est avérée concluante, le traitement a été réduit à une bithérapie par isoniazide et rifampicine pour 4 mois supplémentaires. Après seulement 2 semaines de traitement, la patiente avait repris son travail d’assistante médicale.
+
+Question 5: Quels contrôles de suivi sont indiqués?
+
+
+a) Contrôles cliniques et de laboratoire toutes les 2 semaines durant la phase initiale et toutes les 4 semaines durant la phase d’entretien; radiographie thoracique à l’issue de la phase initiale et à l’issue de la phase d’entretien
+
+b) Contrôles cliniques, de laboratoire et radiologiques toutes les 2 semaines durant la phase initiale et toutes les 4 semaines durant la phase d’entretien
+
+c) Tomodensitométrie à l’issue de la phase initiale et à l’issue de la phase d’entretien
+
+d) Bilan ophtalmologique obligatoire et contrôle lors de l’initiation du traitement, ainsi qu’à l’issue de la phase initiale et de la phase d’entretien
+
+e) Contrôles de suivi uniquement chez l’infectiologue et/ou le pneumologue
+
+A l’échelle de la Suisse, la Ligue pulmonaire a élaboré et publié des directives pour l’évaluation du succès thérapeutique et la détection d’éventuels effets indésirables [1]. Les contrôles de suivi sont en règle générale réalisés par le médecin de famille et par un spécialiste. Les contrôles tomodensitométriques ou ophtalmologiques ne font généralement pas partie de la pratique de routine sous traitement d’association tuberculostatique classique.
+
+Une analyse MIRU-VNTR («mycobacterial interspersed repetitive units-variable number of tandem repeats») réalisée à l’institut de microbiologie médicale de l’université de Zurich a finalement révélé une concordance génétique très élevée entre les isolats de mycobactéries de la patiente et le patient index présumé. Ainsi, il est très probable qu’il s’agisse d’une primo-infection contractée par la patiente, assistante médicale, sur son lieu de travail, c.-à-d. le cabinet de médecine de famille, malgré la brève durée de contact, largement inférieure à 8 heures.
+
+Discussion [1]
+
+La tuberculose est une maladie infectieuse provoquée par des mycobactéries, qui est transmise par voie aérogène via les gouttelettes. A l’échelle mondiale, on dénombre env. 9 millions de cas par an, avec 1,5 million de décès. Dans 80% des cas, il s’agit d’une tuberculose pulmonaire, mais la maladie peut en principe toucher n’importe quel organe; les tuberculoses extrapulmonaires sont le plus souvent des tuberculoses ganglionnaires, suivies des pleurésies tuberculeuses [2, 3]. La pathogenèse de la pleurésie tuberculeuse reste confuse à ce jour. Il est supposé que l’épanchement pleural se développe dans la cavité pleurale en raison d’une réaction d’hypersensibilité retardée aux mycobactéries et à leurs antigènes [2, 3]. La pleurésie tuberculeuse est généralement auto-limitante et elle guérit le plus souvent spontanément, mais il subsiste un risque de réactivation au cours de la vie, en particulier chez les patients jeunes. Toutefois, l’état des patients peut également se détériorer et l’infection peut évoluer vers un empyème. Par conséquent, un traitement médicamenteux est en principe recommandé. Dans la majorité des cas de pleurésie tuberculeuse chez l’adulte, il s’agit d’une réactivation de la maladie; chez les enfants, il s’agit majoritairement d’une primo-infection, mais une primo-infection est cependant possible à tout âge, comme dans le cas de notre patiente [4, 5, 6].
+
+Dans 94% des cas, les patients présentent des manifestations cliniques typiques avec fièvre aiguë et toux non productive; dans 78% des cas, les patients présentent des douleurs pleurétiques sans élévation des leucocytes périphériques [2]; d’autres symptômes non spécifiques sont la faiblesse, la sudation nocturne et la perte de poids; fait caractéristique, les épanchements sont presque toujours unilatéraux, affectant plus souvent le côté droit que le côté gauche, avec une taille plutôt petite à modérée [7]. Pour établir le diagnostic, il convient au minimum de réaliser une ponction pleurale. Cette dernière révèle généralement un exsudat pleural lymphocytaire acide (pH <7,4) avec une faible concentration de glucose [2, 3]; le dosage de l’adénosine désaminase (ADA) constitue un autre examen pertinent en cas de suspicion de pleurésie tuberculeuse.
+
+L’ADA présente en principe une sensibilité et une spécificité élevées [8]; dans les régions où la prévalence de la tuberculose est élevée, ces tests non invasifs revêtent une grande importance diagnostique, contrairement aux pays où la prévalence de la tuberculose est faible, comme c’est le cas en Suisse [9].
+
+Dans la plupart des études, une culture positive du liquide pleural est obtenue dans moins de 20–30%; une biopsie pleurale augmente le rendement diagnostique à >90%. Une biopsie pleurale est justifiée en cas de probabilité de tuberculose modérée à élevée et lorsque l’examen du liquide pleural n’a pas permis de poser de diagnostic. Du tissu pleural peut être prélevé d’une part via une thoracoscopie diagnostique et d’autre part via une biopsie percutanée (fermée) à l’aiguille. L’examen histologique et la culture de la plèvre représentent les tests les plus sensibles pour la mise en évidence d’une pleurésie tuberculeuse; la biopsie révèle des granulomes dans 50–97% des cas et la culture est positive dans 40–80% des cas, la sensibilité augmentant avec le nombre de biopsies.
+
+Le traitement antibiotique de la pleurésie tuberculeuse est le même que celui de la tuberculose pulmonaire. Sans traitement, les patients ont un risque de 65% [10] de développer une tuberculose pulmonaire ou extrapulmonaire au cours des 5 années suivantes. Les drainages thérapeutiques réduisent certes la dyspnée, mais ils n’ont pas d’influence à long terme sur la guérison. Des études ont montré que le drainage thérapeutique n’avait d’influence favorable ni sur la fonction pulmonaire ni sur le développement d’une fibrose pleurale. En cas de traitement adéquat, la fièvre disparaît en l’espace de 2 semaines chez la majorité des patients; le liquide pleural se résorbe en l’espace de 6 semaines, avec un rétablissement intégral dans la plupart des cas. Chez certains patients, une corticothérapie systémique peut permettre de raccourcir cette longue durée de guérison, mais il existe peu de données relatives à la stratification du risque et au bénéfice d’une corticothérapie systémique.
+
+Réponses
+
+
+Question 1: a. Question 2: a. Question 3: d. Question 4: d.
+Question 5: a.

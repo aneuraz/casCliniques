@@ -1,0 +1,40 @@
+T1	irrelevant 14 177	A noter que ce cas est assez ancien (2000) et que les référentiels de bonnes pratiques ont évolué depuis… mais pas sûr qu’il ne serait plus susceptible de survenir
+T2	disorder 236 256	hypercholestérolémie
+T3	disorder 283 303	alcoolisme chronique
+T4	disorder 359 371	 flou visuel
+T5	disorder 396 435	paresthésies du membre supérieur gauche
+T6	disorder 541 586	crise de diminution de la vision latérale à G
+T7	disorder 648 680	SENSATION DE PESANTEUR DU BRAS G
+T8	procedure 686 692	examen
+T9	procedure 695 715	réflexes pupillaires
+T10	procedure 775 777	FM
+T11	procedure 850 866	Examen abdominal
+T12	procedure 872 888	Bilan biologique
+T13	procedure 904 916	consultation
+T14	disorder 944 974	 impression de bras G engourdi
+T15	procedure 1001 1003	TA
+T16	labvalue 1006 1033	140 / 70 à D et 120/ 70 à G
+T17	procedure 1035 1054	Examen neurologique
+T18	drugs 1107 1115	Cholstat
+T19	irrelevant 1123 1162	Doppler vasculaire ? Scanner cérébral ?
+T20	procedure 1187 1198	fond d’œil 
+T21	labvalue 1229 1235	normal
+T22	procedure 1251 1273	échographie abdominale
+T23	disorder 1380 1416	paralysie du membre inférieur gauche
+T24	irrelevant 1456 1699	 Il appelle son médecin traitant tôt le matin qui lui conseille de venir le voir. Le patient ne se rendra pas à cette consultation, car il partira travailler (cadre commercial) à distance de son domicile et rentrera (trop) tard à son domicile.
+T25	disorder 1753 1801	épisodes déficitaires du membre inférieur gauche
+T26	disorder 1836 1853	hémiplégie gauche
+T27	disorder 2035 2134	 hémiplégie gauche complète intéressant la face, le membre supérieur et le membre inférieur gauches
+T28	procedure 2140 2161	examen scanographique
+T29	disorder 2173 2223	hypodensité dans la zone capsulaire interne droite
+T30	procedure 2229 2238	perfusion
+T31	procedure 2413 2434	échographie cardiaque
+T32	disorder 2455 2482	cardiomyocardite ischémique
+T33	procedure 2488 2508	angiographie par IRM
+T34	disorder 2529 2565	lésions de l’artère sylvienne droite
+T35	procedure 2631 2643	 rééducation
+T36	drugs 2840 2846	Plavix
+T37	drugs 2849 2854	Tahor
+T38	drugs 2857 2865	Topalgic
+T39	drugs 2870 2877	Deroxat
+T40	procedure 2892 2903	rééducation

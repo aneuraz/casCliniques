@@ -1,0 +1,113 @@
+Présentation du cas
+
+La patiente âgée de 67 ans a été admise au service des urgences en raison d’un trouble visuel présent depuis plusieurs heures sans traumatisme préalable. Au cours de l’évolution, la vision perçue de l’œil droit est devenue de plus en plus floue et l’éblouissement de plus en plus important. Un arc brun a en outre été observé par intermittence dans le champ visuel supérieur.
+
+Question 1: Quelle déclaration n’est pas correcte concernant les troubles visuels monoculaires de survenue aiguë?
+
+
+a) Il convient d’interroger le patient quant aux symptômes ­typiques du décollement.
+
+b) Une cause neurologique est exclue.
+
+c) Lors d’une crise de glaucome, les troubles visuels s’accompagnent la plupart du temps de nausées et de céphalées.
+
+d) En cas de déficit pupillaire afférent relatif (DPAR), celui-ci est souvent en lien avec une affection du nerf optique de l’œil touché.
+
+e) Il est pertinent d’interroger le patient quant aux facteurs de risque cardiovasculaires.
+
+Les éclairs, la pluie de suie et l’apparition d’un voile sont des symptômes typiques du décollement de la rétine. Ainsi, l’anamnèse peut déjà être indicative du diagnostic en leur présence. Les symptômes concomitants tels que les nausées, les céphalées, l’épiphora et l’injection conjonctivale/ciliaire sont typiques de la crise de glaucome. Ils surviennent toutefois également en cas de migraine ou de céphalées en grappe, des affections pouvant également s’accompagner de troubles de la vision monoculaires. Un DPAR est présent lorsqu’une réaction pupillaire ralentie, ou même une réaction pupillaire consensuelle paradoxale, est observée lors du test «swinging-flashlight». Cela indique une pathologie du nerf optique ou de la rétine.
+
+Les pathologies vasculaires telles que les thrombo­embolies veineuses ainsi que les sténoses et occlusions artérielles peuvent aussi bien survenir dans le système nerveux central que s’accompagner par des troubles ­visuels monoculaires induits par une affection de ­l’artère ou veine centrale de la rétine.
+
+La patiente a répondu par la négative aux questions sur les symptômes typiques du décollement de la rétine. Les antécédents connus comprenaient une leucocytose d’étiologie indéterminée (avec possible syndrome prolifératif), un syndrome métabolique et des embolies pulmonaires multiples. Au cours des six derniers mois, plusieurs méningiomes ont été diagnostiqués (dans les zones temporales et frontales supérieures des deux côtés, et dans la zone préfrontale du côté droit) et en partie réséqués; une deuxième opération était prévue dans les semaines prochaines. Il y a trois ans, une opération de la cataracte bilatérale a été réalisée chez la patiente avec implantation de lentilles intraoculaires (LIO). Trois jours avant la consultation aux urgences, une cystite a été traitée par antibiotiques. Le traitement au long cours de la patiente comprenait du rivaroxaban, de la bétahistine, de la metformine, du métamizole, du pantoprazole, de la rosuvastatine et du sertragen.
+
+A l’examen clinique, la patiente présentait une légère hypertension. Les autres paramètres vitaux cardiopulmonaires étaient dans la norme et elle n’avait pas de fièvre. Les yeux n’étaient pas rougis, aucun signe de traumatisme n’a été décelé et la pression oculaire à la palpation était normale et symétrique. L’examen périmétrique par confrontation au doigt a montré une ­restriction du champ visuel périphérique de l’œil droit. La dilatation des pupilles était moyenne et symétrique. La réaction à la lumière directe et indirecte était rapide et symétrique. Il n’y avait notamment pas de DPAR. De façon indicative, les réflexes proprioceptifs des muscles symétriques n’ont pas révélé de déficits moteurs périphériques, et une hypoesthésie dans la région du pied droit a été révélée à l’anamnèse.
+
+Question 2: Quel diagnostic semble le plus probable au premier abord?
+
+
+a) Une occlusion de l’artère centrale
+
+b) Un œdème périfocal parallèle à de multiples méningiomes avec compression du nerf optique
+
+c) Une ischémie cérébrale de la circulation postérieure
+
+d) Une pathologie des segments postérieurs de l’œil
+
+e) Une migraine avec aura
+
+En cas d’ischémie rétinienne ou de compression du nerf, des symptômes négatifs allant des scotomes jusqu’à une amaurose sont en règle générale à escompter. Chez la patiente, le seul symptôme correspondant était un arc brun (scotome) dans le champ visuel supérieur droit. En cas d’ischémie postérieure, des phénomènes visuels positifs ou des hallucinations sont possibles, au sens d’un syndrome de Charles Bonnet. Cela est toutefois extrêmement rare. En l’absence de céphalées et au regard de l’évolution temporelle ainsi que de la persistance du trouble visuel pendant plusieurs heures, une migraine avec aura ou une «migraine sans migraine» semblaient également peu probables.
+
+Nous avons suspecté une pathologie des segments postérieurs de l’œil et avons demandé une écho­graphie oculaire. Cette dernière est contre-indiquée en cas de suspicion de traumatisme ouvrant le bulbe car dans ce cas, le contenu de l’œil peut être expulsé vers l’extérieur déjà sous une faible pression. Le gel d’échographie doit toujours être appliqué généreusement (dans ce cas 1–2 cm) de façon à ce que le transducteur ne touche pas la paupière et qu’aucune pression ne soit exercée sur le bulbe. Lors de l’examen, la patiente était allongée avec les yeux fermés (fig. 1A et B).
+
+Figure 1: A ) etB ) l’échographie (sonde linéaire 9 MHz; LOGIQ S8, GE Healthcare) montre un bulbe oculaire hypoéchogène avec une amplification acoustique dorsale typique. On observe une structure laminaire (marquée avec *) avec ombre acoustique dorsale adjacente à la paroi postérieure de l’œil.
+
+Selon les disponibilités, il est recommandé d’utiliser une sonde avec une fréquence entre 7,5 et 12 MHz. Pour la biomicroscopie échographique, même des fréquences allant jusqu’à 100 MHz sont recommandées. Le «tissue harmonic imaging» (THI) devrait être dés­activé sur l’appareil car il entraîne une résolution axiale faible. Le «compounding», également nommé «SonoCT» ou «CrossBeam» selon le fabricant, conduit également à une réduction de la résolution spatiale et à un flou sur les images en cas de mouvement. Il devrait si possible également être désactivé.
+
+L’énergie libérée dans le tissu (exprimée par l’indice mécanique [IM]) doit être maintenue à un minimum afin d’éviter d’endommager les structures analysées. L’IM est réduit en diminuant la puissance d’émission et en augmentant la fréquence. Pour l’examen de l’œil, il convient d’utiliser un IM <0,23.
+
+Question 3: Quelle pathologie diagnostiquez-vous sur la base du résultat de l’échographie?
+
+
+a) Un décollement de la rétine
+
+b) Une rupture du bulbe
+
+c) Une hémorragie du vitré
+
+d) Un corps étranger intraoculaire
+
+e) Un rétinoblastome
+
+Un décollement de la rétine se présente comme une membrane hyperéchogène sans ombre acoustique rattachée à la paroi postérieure de l’œil. Une rupture du bulbe et une hémorragie du vitré se présentent comme des structures échogènes mobiles et souvent mal délimitées dans la chambre postérieure de l’œil. Un rétinoblastome se présente comme une tumeur à la croissance exophytique, infiltrant le bulbe depuis la paroi postérieure de l’œil, mais est très peu probable dans ce groupe d’âge. Les corps étrangers sont en règle générale hyperéchogènes, en fonction du matériel et de la taille, et ils produisent une ombre acoustique ­dorsale.
+
+L’examen de l’œil droit a révélé une structure laminaire hyperéchogène dans le bulbe postérieur en comparaison bilatérale. En raison d’une suspicion de dé­collement de la rétine de l’œil droit, la patiente a été adressée en urgence à l’hôpital central le plus proche pour recevoir un diagnostic ophtalmologique approfondi et un traitement.
+
+Question 4: Quelle pathologie ne peut être diagnostiquée au moyen de l’échographie oculaire?
+
+
+a) Une ischémie cérébrale de la circulation postérieure
+
+b) Une pression intracrânienne accrue
+
+c) Une hémorragie du vitré
+
+d) Un hématome rétrobulbaire
+
+e) Un décollement du vitré
+
+Parmi les résultats pouvant être distingués par échographie figurent le décollement de la rétine, l’hémorragie et le décollement du vitré (avec ou sans hématome), la luxation du cristallin, naturel ou artificiel, ainsi que la mise en évidence d’un corps étranger intraoculaire. La mise en évidence indirecte d’une pression intracrânienne accrue est également possible par l’intermédiaire de l’évaluation du nerf optique [1]. Des exemples d’un décollement du vitré postérieur, d’une déchirure de la rétine, d’un décollement de la rétine et d’une hémorragie du vitré sont représentés ci-dessous (fig. 2). Une pathologie de l’artère cérébrale postérieure peut être diagnostiquée par échographie-doppler transcrânienne en utilisant la fenêtre acoustique transtemporale.
+
+Figure 2: Diagnostics différentiels échographiques (De [5]: Woo MY, et al. Test characteristics of point-of-care ultrasonography for the diagnosis of acute posterior ocular pathology. Can J Ophthalmol. 2016;51(5):336–41. Copyright © 2016, reproduction avec l’aimable permission de la Canadian Ophthalmological Society.https://www.sciencedirect.com/journal/canadian-journal-of-ophthalmology).
+
+L’examen ophtalmologique au sein de l’hôpital central a montré une vision de loin de 0,8 à gauche. Pour l’œil droit, seul le comptage des doigts à une ­distance d’1 m était possible. La pression oculaire, de 18 mm Hg des deux côtés, était dans la norme. L’œil gauche était normal, avec une LIO dans la bonne po­sition.
+
+Question 5: Qu’est-ce qui est correct concernant l’examen ophtalmologique de cette patiente?
+
+
+a) Il peut être renoncé à l’examen de la rétine en mydriase en raison de l’échographie déjà réalisée.
+
+b) L’échographie oculaire réalisée fausse les résultats d’examen.
+
+c) Une seule mesure d’une pression oculaire normale exclut une lésion glaucomateuse de la pupille.
+
+d) Concernant l’acuité visuelle, le comptage des doigts à une distance d’1 mètre correspond à une meilleure acuité visuelle qu’une acuité de 0,05.
+
+e) L’examen en mydriase est essentiel.
+
+Il ne peut en aucun cas être renoncé à un examen du segment antérieur de l’œil au moyen d’une lampe à fente ou à un examen du fond de l’œil en mydriase, et ce même si des résultats échographiques indiquent déjà un résultat. L’échographie ne fausse pas les résultats des examens ophtalmologiques lorsqu’elle a été réalisée correctement. Une pression oculaire normale exclut certes la présence d’une crise de glaucome mais pas celle d’une lésion glaucomateuse de la pupille. Dans la pratique clinique quotidienne, l’indication «comptage des doigts possible» est utilisée en tant qu’indication de l’acuité visuelle lorsque le tableau d’évaluation de l’acuité visuelle ne peut plus être utilisé. Aussi, 0,05 correspond à une meilleure acuité ­visuelle que le comptage des doigts à une distance d’1 mètre. A l’examen à la lampe à fente, l’œil droit de notre patiente était aphaque. Le segment postérieur de l’œil ne présentait pas de pathologies de la rétine pertinentes en mydriase. La LIO droite était visible au niveau inférieur dans le corps vitré. La structure laminaire dans le bulbe droit révélée à l’échographie était donc une LIO luxée dans le corps vitré. Dans le cadre de l’hospitalisation élective, la LIO droite luxée a été retirée par vitrectomie par la pars plana et une nouvelle lentille a été implanté. A la sortie, les mouvements de la main pouvaient être reconnus par l’œil droit, la LIO était bien positionnée, de façon rétropupillaire. Le premier contrôle de suivi conduit une semaine après l’opération a montré une évolution favorable et l’acuité visuelle corrigée était de 1,0.
+
+Discussion
+
+Les troubles visuels aigus à subaigus sont une cause fréquente de consultation au cabinet du médecin de famille et au service des urgences. Ils peuvent être directement causés par des causes exogènes (par exemple traumatiques, thermiques, chimiques, ou par le rayonnement UV) ou survenir sans déclencheur identifiable. Le diagnostic différentiel est large, s’étendant des infections, causes endocrines et maladies auto-immunes aux déficits structurels et fonctionnels des yeux eux-mêmes, en passant par des maladies du système nerveux central ou périphérique et des pathologies vasculaires [2]. Certains de ces tableaux cliniques présentent un caractère d’urgence, ce pourquoi il convient de poser le diagnostic correct aussi rapidement que possible. Outre l’anamnèse et l’examen clinique, différentes évaluations diagnostiques approfondies sont à la disposition du clinicien.
+
+Sans mydriase induite par médicaments, l’ophtalmo­scopie ne livre que des résultats insuffisants, et elle ­nécessite une certaine expérience. Au service des urgences, les LIO luxées sont la plupart du temps diagnostiquées de façon fortuite à l’imagerie dans le cadre de la recherche d’une ischémie cérébrale [3]. L’imagerie par résonance magnétique (IRM) et la tomodensitométrie (TDM) sont toutefois lourdes d’un point de vue logistique et la TDM expose à un rayonnement. Selon leur disponibilité, les deux examens peuvent en outre entraîner un délai significatif.
+
+Sur la base du présent cas, nous souhaitons montrer qu’il convient de penser à une LIO luxée en cas de symptômes correspondants et que l’échographie oculaire, facilement assimilable pour les non-ophtalmologues, peut être utilisée pour le diagnostic. Après une courte initiation, la sensibilité et la spécificité du diagnostic de décollement de la rétine sont d’environ 90% [4]. Bien que les médecins traitants Schreier et Speidel n’avaient pas d’expérience pratique de l’échographie oculaire et que le diagnostic de suspicion n’ait pas été confirmé, une pathologie du segment postérieur de l’œil a toutefois pu être diagnostiquée. Rétro­spectivement, l’ombre acoustique dorsale aurait permis de faire la distinction entre décollement de la rétine et corps étranger.
+
+Depuis plusieurs années, l’échographie focalisée ou POCUS («point-of-care ultrasonography») gagne en importance en tant que technique d’examen non invasive, rapidement réalisable, et rentable. En cas de pathologies oculaires, une première évaluation échographique peut déjà être réalisée par le médecin urgentiste [1, 4].
+
+Réponses:
+
+
+Question 1: b. Question 2: d. Question 3: d. Question 4: a. ­Question 5: e.

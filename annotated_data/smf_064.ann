@@ -1,0 +1,68 @@
+T1	irrelevant 10 769	Les anomalies de l’arc aortique sont typiquement ­diagnostiquées au cours de la petite enfance. Le degré de gravité des symptômes dépend de l’importance de la compression de la trachée ou de l’œsophage. Les troubles respiratoires représentent le symptôme principal chez les nourrissons; par contre, la plupart des patients adultes se plaignent surtout d’une dysphagie. Une correction opératoire a été réalisée chez une ­patiente de 28 ans atteinte de dysphagie et présentant un double arc aortique avec compression œsophagienne. Quatre mois après l’intervention, elle s’est de nouveau plainte de dysphagie. Cette étude de cas décrit la procédure diagnostique devant exclure d’autres causes de la dysphagie avant de poser l’indication d’une nouvelle opération.
+T2	procedure 786 794	Anamnèse
+T3	disorder 884 896	vomissements
+T4	disorder 914 937	douleurs rétrosternales
+T5	procedure 942 954	gastroscopie
+T6	disorder 968 1001	compression externe de l’œsophage
+T7	procedure 1040 1066	cliché tomodensitométrique
+T8	disorder 1079 1098	double arc aortique
+T9	disorder 1141 1179	atrésie segmentaire postérieure gauche
+T10	disorder 1187 1211	compression œsophagienne
+T11	procedure 1457 1481	 opération de correction
+T12	procedure 1483 1515	ouverture de l’anneau vasculaire
+T13	procedure 1519 1580	section du ligament du canal artériel par thoracotomie gauche
+T14	disorder 1770 1779	dysphagie
+T15	disorder 1784 1796	’odynophagie
+T16	disorder 1894 1910	 perte de poids 
+T17	procedure 1962 1969	CT-scan
+T18	procedure 2116 2128	gastroscopie
+T19	disorder 2154 2176	protubérance pulsatile
+T20	procedure 2238 2251	 Gastroscopie
+T21	disorder 2270 2290	compression ­externe
+T22	disorder 2316 2338	protubérance pulsatile
+T23	procedure 2343 2353	histologie
+T24	disorder 2424 2433	dysphagie
+T25	procedure 2439 2459	manométrie-impédance
+T26	disorder 2529 2567	augmentations de la pression pulsatile
+T27	disorder 2771 2780	dysphagie
+T28	disorder 2786 2810	douleurs retrosternales 
+T29	disorder 2817 2829	vomissements
+T30	procedure 2833 2858	échographie endoscopique 
+T31	disorder 2880 2914	masse de tissus mous hyperéchogène
+T32	procedure 2979 2990	planimétrie
+T33	procedure 3210 3221	Planimétrie
+T34	procedure 3543 3560	vidéofluoroscopie
+T35	disorder 3620 3646	ralentissement du ­passage
+T36	disorder 3652 3699	rétention intermittente du produit de contraste
+T37	disorder 3716 3783	compression externe de l’œsophage au niveau de l’arc aortique droit
+T38	procedure 3805 3836	Vidéofluoroscopie oesophagienne
+T39	disorder 3842 3933	rétention du produit de contraste de consistance molle à la hauteur de l’arc aortique droit
+T40	irrelevant 3936 4642	D’autres origines aux symptômes au sens de troubles pertinents de la vidange gastrique ou d’une lésion iatrogène du nerf vague ont pu être exclues à l’aide d’une scintigraphie de vidange gastrique et d’une élévation adéquate du polypeptide pancréatique dans le sérum lors d’un test de «sham-feeding». Lors de ce test, le ­patient voit, sent et mâche un repas test sans l’avaler. Le polypeptide pancréatique, une hormone, est libéré au début de la phase céphalique de la digestion par stimulation vagale et son taux sérique est contrôlé toutes les 15 minutes. Une lésion tronculaire du nerf vague est très peu probable si la concentration augmente de plus de 50% de la valeur de référence en 45 minutes [6].
+T41	procedure 4707 4723	stent œsophagien
+T42	procedure 4866 4872	stent 
+T43	procedure 4923 4933	opération 
+T44	disorder 4953 4991	Des adhérences étendues sur l’œsophage
+T45	procedure 5094 5103	réséquées
+T46	procedure 5157 5179	contrôle endoscopique 
+T47	irrelevant 5431 6024	Les anneaux vasculaires («vascular rings») sont des anomalies rares de l’arc aortique et représentent moins de 1% de toutes les malformations cardiaques congénitales. Les hommes sont 1,4 à 2 fois plus souvent touchés que les femmes [1]. Le tableau clinique est variable et dépend d’une part de la sévérité de la compression de la trachée ou œsophagienne et, d’autre part, de la ­présence concomitante possible d’une malformation cardiaque congénitale comme une communication ­interventriculaire, une tétralogie de Fallot, la transposition des gros vaisseaux ou un canal artériel persistant [2]
+T48	irrelevant 6027 6357	La cyanose est le symptôme principal chez le nourrisson, alors que la plupart des patients adultes souffrent principalement de dysphagie. La majorité des cas symptomatiques (>90%) sont dus soit à un double arc aortique ou à un arc aortique droit et une artère sous-clavière gauche aberrante ainsi qu’à un canal artériel gauche [3]
+T49	irrelevant 6360 7058	L’imagerie de référence diagnostique est l’angiographie par résonance magnétique ou l’angio-TDM pour la planification de l’intervention. L’opération est le seul traitement définitif et a été décrite pour la première fois par Gross en 1945. Le résultat clinique d’une correction opératoire est généralement excellent. Le taux de récidive d’une dysphagie est faible. Une série de cas avec 300 patients a montré un taux de réopération de 8%. Chez ces 26 patients, les indications primaires pour la nouvelle opération comprenaient: un diverticule de Kommerell (n = 18), une aorte circonflexe (n = 2), une cicatrisation résiduelle (n = 2) et une trachéobronchomalacie exigeant une aortopexie (n = 4) [4]
+T50	irrelevant 7061 7261	En cas de dysphagie postopératoire persistante ou ­récurrente, il est donc essentiel d’exclure d’autres ­origines possibles des troubles de la déglutition avant de poser l’indication d’une réopération
+T51	procedure 7283 7314	vidéofluoroscopie oesophagienne
+T52	procedure 7381 7393	gastroscopie
+T53	procedure 7400 7423	manométrie œsophagienne
+T54	disorder 7478 7601	perturbation du passage au sens d’une protubérance respectivement d’une zone de pression pulsatile dans l’œsophage proximal
+T55	disorder 7607 7618	oesophagite
+T56	disorder 7640 7683	trouble sévère de la motilité oesophagienne
+T57	disorder 7727 7735	 nausées
+T58	disorder 7743 7756	­vomissements
+T59	disorder 7772 7803	trouble de la vidange gastrique
+T60	disorder 7814 7844	lésion iatrogène du nerf vague
+T61	procedure 7963 7976	scintigraphie
+T62	procedure 8036 8062	examen vidéofluoroscopique
+T63	irrelevant 8345 9403	Le diagnostic différentiel primaire était ici celui d’une cicatrisation de la paroi œsophagienne due à la première opération nécessitant une dilatation endoscopique et non une réopération. Ceci a pu être exclu à l’aide d’une planimétrie par impédance (EndoFLIP®). Cette procédure est une technique établie pour effectuer des mesures de surfaces transversales dans le tractus digestif. Elle fait appel à des mesures de tension alternative entre des paires d’électrodes placées sur un ballonnet pour évaluer l’expansion du diamètre sur jusqu’à 16 points le long de la zone de mesure et pour fournir une image en temps réel de la géométrie luminale. Le remplissage du ballonnet avec des volumes différents permet de déterminer la surface transversale tout en mesurant la pression dans le ballonnet. Un indice d’élasticité est calculé sur la base du rapport entre l’endroit le plus étroit et la pression interne du ballonnet [5]. Puisque l’œsophage montrait une élasticité normale, une cicatrisation de la paroi œsophagienne avec effet sténosant a pu être exclue
+T64	procedure 9571 9587	stent œsophagien
+T65	procedure 9690 9720	vidéofluoroscopie œsophagienne
+T66	disorder 9877 9886	dysphagie
+T67	procedure 10005 10010	stent
+T68	irrelevant 10448 10476;10478 10705;10707 10900;10902 11094;11096 11385;11387 11573	L’essentiel pour la pratique  • La majorité des patients avec double arc aortique présentent des manifestations cliniques sous forme de troubles respiratoires au cours de la petite enfance, tandis que la dysphagie est le symptôme principal chez les adultes.  • Une correction opératoire est le traitement de choix chez les patients symptomatiques et mène à un excellent résultat. Par contre, les patients asymptomatiques n’ont pas besoin de traitement.  • Le taux de récidive étant très faible, d’autres origines doivent être ­exclues à l’aide d’examens diagnostiques gastro-entérologiques élargis en cas de troubles persistant après l’opération.  • Ces examens comprennent la manométrie œsophagienne haute résolution (HRM), la vidéofluoroscopie œsophagienne – éventuellement avec produit de contraste de consistance molle –, la scintigraphie de la vidange gastrique, le test de «sham feeding» et finalement la planimétrie par impédance.  • Cette dernière peut fournir des informations précieuses en temps réel sur l’élasticité et les modifications géographiques de l’œsophage en ­corrélation avec la dilatation volumétrique.

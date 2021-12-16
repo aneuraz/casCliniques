@@ -1,0 +1,48 @@
+T1	procedure 385 402	 bilan biologique
+T2	procedure 407 419	écho doppler
+T3	procedure 456 467	échographie
+T4	procedure 589 597	glycémie
+T5	procedure 610 623	triglycérides
+T6	procedure 638 649	cholestérol
+T7	labvalue 600 608	1,20 g/l
+T8	labvalue 626 633	9,8 g/l
+T9	labvalue 656 663	2,50g/l
+T10	drugs 812 821	LIPANTHYL
+T11	procedure 920 928	glycémie
+T12	procedure 949 951	TG
+T13	labvalue 935 943	0, 97g/l
+T14	labvalue 954 963	1, O5 g/l
+T15	procedure 968 985	cholestérol total
+T16	labvalue 988 992	1,56
+T17	procedure 1001 1008	HDL bas
+T18	labvalue 1010 1014	0,32
+T19	procedure 1020 1023	LDL
+T20	labvalue 1024 1029	élevé
+T21	procedure 1033 1055	hémoglobine glycosylée
+T22	labvalue 1062 1067	5,3 %
+T23	drugs 1096 1105	LIPANTHYL
+T24	drugs 1117 1123	GLUCOR
+T25	drugs 1131 1138	BURINEX
+T26	drugs 1460 1464	AINS
+T27	drugs 1497 1504	BURINEX
+T28	drugs 1470 1490	protecteur gastrique
+T29	drugs 1525 1532	LASILIX
+T30	drugs 1567 1573	GLUCOR
+T31	drugs 1594 1601	JANUVIA
+T32	drugs 1613 1622	CHOPHYTOL
+T33	drugs 1642 1649	JANUVIA
+T34	drugs 1670 1680	GLUCOVANCE
+T35	drugs 1682 1691	Biguanide
+T36	drugs 1694 1718	sulfamide hypoglycémiant
+T37	drugs 1761 1768	BURINEX
+T38	drugs 1783 1788	INEGY
+T39	drugs 1801 1805	AINS
+T40	disorder 2354 2366	hypoglycémie
+T41	labvalue 2380 2388	0,48 g/l
+T42	labvalue 2416 2424	0,43 g/l
+T43	labvalue 2746 2755	0.43 g/l.
+T44	procedure 2731 2739	glycémie
+T45	drugs 2906 2916	GLUCOVANCE
+T46	drugs 2920 2927	JANUVIA
+T47	drugs 3572 3586	hypoglycémiant
+T48	disorder 3661 3673	hypoglycémie

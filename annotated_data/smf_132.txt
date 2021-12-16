@@ -1,0 +1,87 @@
+Contexte
+
+Dans nos régions, la dose journalière maximale indiquée de vitamine D est de 100 µg/j ou 4 000 UI/j, et elle est également considérée comme sûre en cas de prise durant de nombreuses années [1]. Des doses plus ­élevées peuvent s’avérer nécessaires chez les patients souffrant de malabsorption, mais elles requièrent des contrôles étroits afin d’éviter une toxicité.
+
+Les symptômes d’une intoxication aiguë reposent sur l’hypercalcémie et touchent plusieurs systèmes d’organes. Ils vont de la confusion, la polyurie, la polydipsie, la perte d’appétit et la constipation jusqu’à la faiblesse musculaire et aux troubles du rythme cardiaque. Des complications rénales, telles que l’insuffisance ­rénale aiguë/chronique, la néphrocalcinose et la néphrolithiase, peuvent survenir.
+
+Une intoxication à la vitamine D est le plus souvent ­attribuable à une prise inadéquate de préparations de vitamine D [2, 3]. Elle est rarement causée par une préparation incorrecte d’aliments enrichis en vitamine D (uniquement rapports de cas isolés). Une toxicité ­exclusivement due à une exposition accrue aux rayons du soleil ne peut pas se produire en raison d’une conversion dépendante de la lumière en métabolites inactifs [4].
+
+Depuis plusieurs années, un protocole thérapeutique basé sur des doses ultra-élevées de vitamine D, qui a été développé par le neurologue brésilien Cicero G. Coimbra, est utilisé avant tout à l’étranger dans le cadre de maladies auto-immunes, telles que la sclérose en plaques (SEP). Ce protocole thérapeutique repose sur l’hypothèse selon laquelle il existe, en cas de maladies auto-immunes, une résistance d’origine génétique à la vitamine D et une diminution de l’action immunomodulatrice de la vitamine D. Le traitement à doses ultra-élevées est censé venir à bout de cette résistance et avoir une influence positive sur la maladie. Le traitement est contrôlé au moyen de mesures répétées de la parathormone (PTH) en tant que marqueur de la résistance à la vitamine D. En outre, il est recommandé d’adopter un régime alimentaire pauvre en calcium et de boire au minimum 2,5 litres par jour afin de limiter les effets indésirables. A ce jour, seule une étude pilote sans groupe contrôle menée avec neuf patients atteints de psoriasis et 16 patients atteints de vitiligo a été ­publiée au sujet de l’efficacité et de la sécurité d’un traitement par 35 000 UI de vitamine D3 par jour durant six mois [5].
+
+Présentation du cas
+Anamnèse
+
+Un patient de 39 ans a été adressé par son médecin de famille à l’hôpital en novembre 2017 en raison d’une hypercalcémie symptomatique et d’une insuffisance rénale suite à la prise durant plusieurs mois de vitamine D à une dose de 100 000 UI/j. Une SEP progressive primaire avait été diagnostiquée au patient en 2011, avec un début des symptômes aux alentours de 2008. Dans le cadre de cette maladie, un traitement par vitamine D à doses ultra-élevées selon le «protocole Coimbra» a été débuté en avril 2017. Le traitement était supervisé par un médecin formé au protocole situé en Allemagne.
+
+Le patient était en outre porteur du gène MEN1, et il ­faisait dès lors l’objet de contrôles endocrinologiques ­réguliers. Dans ce contexte, il présentait jusqu’alors des valeurs de PTH légèrement augmentées mais avec des valeurs de calcium sérique toujours normales, de sorte qu’une parathyroïdectomie n’était pas encore nécessaire.
+
+Le patient se plaignait d’une polyurie, d’une fatigue croissante avec un besoin accru de sommeil et d’une ­légère constipation.
+
+Après la constatation de l’hypercalcémie et de l’insuffisance rénale par le médecin de famille, un traitement ambulatoire par ingestion accrue de liquide, bouillon et diurétiques de l’anse a initialement été tenté. En raison de la persistance de valeurs élevées de calcium et de valeurs croissantes de créatinine, le patient a été adressé à l’hôpital pour un traitement stationnaire.
+
+Résultats à l’admission à l’hôpital
+
+L’examen clinique a révélé une démarche spastique ataxique avec une tétraparésie prédominant au niveau des jambes dans le cadre de la SEP. Au demeurant, ­aucune autre anomalie somatique n’a été objectivée.
+
+Comme c’était déjà le cas chez le médecin de famille, les analyses de laboratoire ont révélé une valeur accrue de calcium de 3,0 mmol/l (calcémie corrigée par l’albumine, norme 2,1–2,55 mmol/l) avec une valeur préalable maximale chez le médecin de famille de 3,87 mmol/l; le calcium ionisé s’élevait à 1,45 mmol/l (norme 1,1–1,3 mmol) et la créatinine s’élevait à 185 µmol/l (valeur préalable maximale chez le médecin de famille de 266 µmol/l). Des concentrations toxiques de 25-OH-­vitamine-D, de l’ordre de 1742 nmol/l (norme jusqu’à 125 nmol/l, ou 50 µg/l), ont été objectivées. La valeur de phosphate, de 0,8 mmol/l, était normale (norme 0,74–1,52 mmol/l). La PTH n’était pas supprimée et s’élevait à 96 ng/l (norme 15–68 ng/l) (fig. 1).
+
+Figure 1: Evolution de la concentration de créatinine (scale à gauche) et de ­calcium (scale à droite).
+
+Les analyses urinaires ont révélé une nette hypercalciurie, avec un rapport calcium/créatinine de 0,64 mmol/mmol (norme 0,01–0,57 mmol/mmol).
+
+Lors de l’admission à l’hôpital, l’échographie a montré des reins de taille normale, sans néphrolithiase, sans obstacle à l’écoulement et sans signe de néphrocalcinose médullaire.
+
+Diagnostic
+
+Considérés ensemble, ces résultats nous ont amenés à poser le diagnostic d’intoxication à la vitamine D, avec hypercalcémie consécutive ayant conduit à une insuffisance rénale aiguë de stade 2 KDIGO («kidney disease: improving global outcome») en raison de la déshydratation subséquente dans le cadre du diabète insipide néphrogénique induit par l’hypercalcémie et potentiellement aussi en raison de la précipitation intratubulaire de cristaux d’oxalate de calcium et de phosphate de calcium. Lors de la première échographie, le médecin de famille avait également constaté une ­néphrocalcinose médullaire, que nous n’avons plus ­retrouvée lors de l’admission du patient. La concentration accrue de PTH a été interprétée comme une hyperparathyroïdie primaire légère dans le cadre de la mutation connue du gène MEN1. En raison de cette ­maladie génétique, la PTH n’était pas supprimée, comme il aurait normalement fallu s’y attendre en cas d’hypercalcémie aussi prononcée liée à un surdosage de la vitamine D. En raison de l’anamnèse claire de prise excessive de vitamine D, nous n’avons pas procédé à un dosage de la PTHrP (afin d’exclure une ­origine paranéoplasique) ou de la 1,25-OH-vitamine-D3 (afin de mettre en évidence une conversion accrue en forme active de la vitamine D, comme cela se produit en cas de maladies granulomateuses, telles que la ­sarcoïdose par exemple).
+
+Traitement et évolution
+
+Nous avons initié une hydratation intraveineuse par solution saline isotonique (2000 ml/j), avec en plus une administration par voie orale d’eau pauvre en ­calcium et un traitement par calcitonine et zolédronate. Un régime pauvre en calcium a été prescrit par le diététicien. Nous avons décidé de ne pas administrer de corticostéroïdes afin d’éviter une myopathie stéroïdienne au vu de la faiblesse musculaire préexistante liée à la SEP. En l’absence d’indices évocateurs d’une hypervolémie, des diurétiques de l’anse n’ont pas été administrés. Grâce aux mesures initiées, une diminution rapide du calcium et une normalisation de la créatinine sérique au sein des valeurs de référence du laboratoire ont pu être obtenues. Une normalisation formelle du débit de filtration glomérulaire estimé (DFGe) selon l’équation CKD-EPI («chronic kidney disease epidemiology collaboration») a également été atteinte en l’espace de six semaines. Etant donné que le patient ­présentait une masse musculaire réduite dans le cadre de sa SEP et que le calcul du DFGe basé sur la créatinine pouvait dès lors fournir une valeur trop élevée, nous sommes à ce moment-là partis du principe d’une ­légère perte persistante du DFGe, car le niveau préalable de la créatinine n’avait pas encore été atteint. Pour mieux apprécier le DFGe réel, il aurait éventuellement été utile de réaliser un calcul selon la cystatine C. Fort heureusement, les mesures de contrôle réalisées chez le médecin de famille 14 mois après l’hospitalisation ont montré un DFGe complètement normalisé ­(retour aux valeurs préalables), avec une créatinine de 59 µmol/l.
+
+En tant qu’effet indésirable de la baisse du calcium, le patient a été en proie à une augmentation très douloureuse de la spasticité musculaire, qui était à la fois ­attribuable aux médicaments (calcitonine, bisphosphonate) et à la baisse du calcium en elle-même.
+
+La polyurie d’environ cinq litres par jour au début de l’hospitalisation était selon nous due à l’hypercalciurie. Elle s’est rapidement normalisée après la baisse du calcium sérique et du rapport calcium/créatinine et après la réduction de l’apport liquidien.
+
+Après l’atteinte d’une normocalcémie, la suite de la prise en charge a été assurée par le médecin de famille. Par la suite, le patient a à nouveau présenté une élévation du calcium jusqu’à une valeur maximale de 2,94 mmol/l. Cela était prévisible en raison de la longue demi-vie de la vitamine D. Une nouvelle administration de zolédronate a été prescrite par le médecin de­famille à la fin décembre 2017, un mois après la première administration.
+
+Quatre mois après la mesure initiale, la 25-OH-vitamine-D s’élevait à 283 nmol/l. Lors des dernières ­mesures effectuées par le médecin de famille en mai 2019, la concentration, qui s’élevait à 138 nmol/l, s’était normalisée, mais se situait toujours encore dans la ­limite supérieure de la normale (N: 50–150 nmol/l). Le calcium sérique se situait également dans les valeurs de référence.
+
+Discussion
+
+L’intoxication à la vitamine D est une complication ­potentiellement fatale et elle est pratiquement toujours attribuable à une prise excessive de préparations de vitamine D.
+
+Normalement, la vitamine D est mise en réserve dans le foie. En cas d’apports très élevés en vitamine D, une grande partie de la vitamine D excessive est mise en ­réserve dans le tissu adipeux. Lorsque la capacité de stockage du tissu adipeux est saturée suite à une prise de plusieurs mois, comme dans le cas décrit, il faut s’attendre à une demi-vie beaucoup plus longue que la demi-vie usuelle de deux à trois semaines. Cela explique la nouvelle élévation du calcium sérique après la sortie de l’hôpital, ainsi que la baisse très lente du taux de ­vitamine D, s’étalant sur de nombreux mois après l’hospitalisation.
+
+Contrairement à la 1,25(OH)-vitamine-D, la vitamine D présente uniquement une faible affinité pour le récepteur de la vitamine D. En cas de concentrations sériques très élevées, une hypercalcémie peut néanmoins se produire via l’activation directe du récepteur de la vitamine D et via l’éviction de la 1,25(OH)-vitamine-D de la protéine de liaison de la vitamine D [3].
+
+Les options thérapeutiques pour le traitement de l’hypercalcémie sont résumées dans le tableau 1. Ne sont pas inclus dans ce tableau le traitement de la cause de l’hypercalcémie, ainsi qu’un faible apport oral en calcium.
+
+Tableau 1: Options thérapeutiques de l’hypercalcémie.
+ 	Début d’action	Mécanisme d’action	Limitations
+Solution isotonique de NaCl	Après quelques heures	Augmentation de l’excrétion de calcium par les reins via augmentation du débit tubulaireCorrection de la déplétion volémique	Risque d’hypervolémie chez les patients avec insuffisance cardiaque et insuffisance rénale sévère
+Diurétiques de l’anse	Après quelques heures	Inhibition de la réabsorption tubulaire de calcium par inhibition du canal NKCC2 dans l’anse de Henlé	Uniquement chez les patients avec hypervolémie sous administration d’une solution isotonique de NaClEffets indésirables potentiels: trouble électrolytique, aggravation de la déshydratation
+Bisphosphonates i.v.	Après 2–4 jours	Inhibition de la libération de calcium à partir des osPlus forte action hypocalcémiante que la solution isotonique de NaCl et la calcitonine	Contre-indication en cas d’insuffisance rénale avec débit de filtration glomérulaire estimé (DFGe) < 30 ml/min. Effets indésirables: insuffisance rénale aiguë, syndrome néphrotique et ostéonécroses de la mâchoire (cependant rares en cas d’administration à court terme)
+Ligands RANKDénosumab s.c.	Après 4–10 jours	Inhibition de la libération de calcium à partir des os	«Utilisation off-label». Utilisation en cas de DFGe < 30 ml/min. ou en cas d’hypercalcémie réfractaire sous bisphosphonates
+Calcitonine i.m.	Après 4–6 heures	Inhibition de la libération de calcium à partir des os, augmentation de l’excrétion rénale de calcium	Tachyphylaxie, administration durant au maximum 48 heures
+Glucocorticoïdes	Après 2–5 jours	Inhibition de l’activité de la 1α-hydroxylase, absorption réduite de calciumBonne action avant tout en cas de maladies granulomateuses/lymphomes avec formation accrue de 1,25-(OH)-vitamine-D	Effets indésirables des corticostéroïdes
+Calcimimétiques	Après 2–3 jours	Diminution de la parathormone (PTH) par sensibilité accrue au calcium du récepteur sensible au calcium de la parathyroïde	Autorisation uniquement en cas de carcinome parathyroïdien et d’hyperparathyroïdie secondaire dans le cadre d’une insuffisance rénale nécessitant une ­dialyse, sinon utilisation «off-label»
+HémodialyseDialyse péritonéale	Après quelques heuresLa dialyse péritonéale prend un peu plus de temps	Elimination extracorporelle du calcium	Uniquement en cas d’insuffisance rénale ou d’insuffisance cardiaque très sévère, lorsqu’il est impossible d’administrer suffisamment de liquide, ou en cas d’hypercalcémie symptomatique très sévère ne ­répondant pas à d’autres mesuresEffet indésirable: complications associées au cathéter
+
+Chez notre patient, il se pourrait que la mutation MEN1 avec hyperparathyroïdie primaire ait contribué à la ­sévérité de l’hypercalcémie et à l’insuffisance rénale, même si le calcium sérique était normal avec l’initiation du traitement par vitamine D.
+
+Les nouvelles approches thérapeutiques, telles que le «protocole Coimbra» dans la SEP, doivent être considérées d’un œil critique en raison des effets indésirables graves potentiels. Une surveillance étroite des électrolytes et de la fonction rénale est indispensable. Dans l’idéal, un tel traitement devrait être évalué dans de grandes études randomisées.
+
+Le patient a souhaité que nous exposions aussi son point de vue. Il a beaucoup de contacts avec d’autres patients atteints de SEP et il sait, sur la base de récits d’expériences, que l’ocrélizumab, le seul traitement basé sur l’évidence et autorisé en Suisse pour la SEP progressive primaire, est aussi potentiellement associé à des effets indésirables graves. Il souhaite préciser qu’il a appris via les médias sociaux que certains ­patients atteints de SEP ayant suivi le traitement par vitamine D à doses élevées en ont retiré des bénéfices subjectifs en ce qui concerne les symptômes. Ils n’ont pas développé d’effets indésirables graves comme lui. Sous traitement par vitamine D à doses élevées, notre patient a éprouvé une nette amélioration de ses symptômes musculaires, il marchait mieux et pouvait suivre régulièrement son entraînement de remise en forme.
+
+L’essentiel pour la pratique
+
+• Un traitement par vitamine D à doses ultra-élevées durant plusieurs mois peut conduire à une intoxication prolongée à la vitamine D, avec hypercalcémie persistante et insuffisance rénale (discussions de cas supplémentaires dans [6, 7]).
+
+• Chez les patients avec symptômes de survenue nouvelle, tels que polyurie, polydypsie, forte fatigue, altérations cognitives et troubles gastro-intestinaux (nausées et constipation), il convient de songer dans le cadre du diagnostic différentiel à une hypercalcémie et à une insuffisance rénale consécutive.
+
+• En cas d’hypercalcémie d’origine indéterminée, nous recommandons d’interroger le patient quant à la prise de quantités très élevées de vitamine D, car ce traitement est actuellement vanté dans les livres et les médias sociaux et est souvent mis en œuvre sans prescription médicale.
+
+•- Il convient de déconseiller un traitement par vitamine D à doses ultra-élevées aux patients atteints de SEP et d’autres maladies auto-immunes, car des preuves de ses bénéfices font défaut et il existe un risque d’insuffisance rénale aiguë, mais potentiellement aussi chronique.
+
+• Lorsqu’un patient suit un traitement par vitamine D à doses ultra-élevées contre l’avis du médecin, des contrôles étroits du calcium sérique et de la calciurie sont essentiels; il est également important d’informer le patient au sujet des symptômes de l’hypercalcémie, tels que la polyurie, la soif, la fatigue et la constipation.

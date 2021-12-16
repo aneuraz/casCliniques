@@ -1,0 +1,138 @@
+T1	disorder 12 48	agénésie de la veine cave inférieure
+T2	disorder 50 53	VCI
+T3	disorder 63 84	anomalie congénitale 
+T4	disorder 192 210	affection clinique
+T5	disorder 226 252	hrombose veineuse profonde
+T6	disorder 270 293	thrombose intra-utérine
+T7	disorder 351 374	dysgénésie embryonnaire
+T8	disorder 407 414	maladie
+T9	disorder 481 508	thrombose veineuse profonde
+T10	disorder 652 670	agénésie de la VCI
+T11	procedure 694 711	tomodensitométrie
+T12	procedure 713 716	TDM
+T13	procedure 721 754	imagerie par résonance magnétique
+T14	procedure 756 759	IRM
+T15	procedure 765 804	détection de la circulation collatérale
+T16	procedure 833 845	angiographie
+T17	disorder 1002 1010	symptôme
+T18	procedure 1113 1121	Anamnèse
+T19	disorder 1217 1228	maux de dos
+T20	disorder 1237 1258	région lombaire basse
+T21	disorder 1262 1277	sacrée à droite
+T22	disorder 1296 1307	aine droite
+T23	disorder 1342 1352	douloureux
+T24	procedure 1365 1375	L’anamnèse
+T25	disorder 1415 1426	traumatisme
+T26	disorder 1431 1437	fièvre
+T27	disorder 1439 1453	perte de poids
+T28	disorder 1457 1474	sudation nocturne
+T29	disorder 1518 1538	douleurs thoraciques
+T30	disorder 1545 1552	dyspnée
+T31	procedure 1710 1734	traitement médicamenteux
+T32	drugs 1760 1783	contraception hormonale
+T33	drugs 1788 1796	NuvaRing
+T34	procedure 1801 1820	’anamnèse familiale
+T35	disorder 1845 1852	cancers
+T36	disorder 1858 1884	troubles de la coagulation
+T37	disorder 1890 1911	avortements spontanés
+T38	disorder 1917 1938	maladies auto-immunes
+T39	disorder 1946 1974	affections cardiovasculaires
+T40	procedure 1978 1993	examen physique
+T41	disorder 2007 2018	hypotension
+T42	procedure 2101 2120	fréquence cardiaque
+T43	procedure 2144 2155	température
+T44	procedure 2182 2203	saturation en oxygène
+T45	procedure 2210 2217	normale
+T46	procedure 2205 2208	SO2
+T47	labvalue 2221 2224	99%
+T48	procedure 2247 2253	eupnée
+T49	procedure 2255 2277	fréquence respiratoire
+T50	procedure 2294 2311	bruits cardiaques
+T51	procedure 2315 2328	respiratoires
+T52	disorder 2389 2405	hernie inguinale
+T53	disorder 2460 2467	douleur
+T54	disorder 2536 2543	douleur
+T55	disorder 2529 2535	légère
+T56	disorder 2549 2600	pression au niveau de l’articulation sacro-iliaque.
+T57	procedure 2601 2622	Force et sensibilité 
+T58	procedure 2695 2719	réflexes ostéo-tendineux
+T59	procedure 2737 2750	pouls pédieux
+T60	procedure 2755 2778	’artère dorsale du pied
+T61	procedure 2785 2813	l’artère tibiale postérieure
+T62	disorder 2871 2910	 différence de circonférence des jambes
+T63	procedure 3061 3084	Analyses de laboratoire
+T64	procedure 3090 3113	analyses de laboratoire
+T65	labvalue 3152 3155	82%
+T66	procedure 3159 3171	l’hémogramme
+T67	procedure 3186 3205	protéine C réactive
+T68	procedure 3207 3210	CRP
+T69	labvalue 3220 3227	60 mg/l
+T70	procedure 3129 3141	neutrophilie
+T71	procedure 3233 3243	créatinine
+T72	procedure 3251 3263	électrolytes
+T73	labvalue 3272 3279	normaux
+T74	procedure 3283 3309	analyse de la coagu­lation
+T75	procedure 3329 3338	élévation
+T76	procedure 3343 3352	D-dimères
+T77	labvalue 3354 3367	>10 000 ng/ml
+T78	procedure 3391 3408	céphaline activée
+T79	procedure 3410 3413	TCA
+T80	labvalue 3415 3423	augmenté
+T81	labvalue 3425 3431	70 sec
+T82	procedure 3442 3445	INR
+T83	labvalue 3446 3452	normal
+T84	labvalue 3454 3457	1,0
+T85	procedure 3461 3479	Echographie duplex
+T86	procedure 3549 3558	D-dimères
+T87	labvalue 3559 3567	positifs
+T88	procedure 3573 3584	échographie
+T89	disorder 3619 3646	thrombose veineuse profonde
+T90	procedure 3648 3661	L’échographie
+T91	procedure 3662 3668	duplex
+T92	procedure 3749 3758	angio-TDM
+T93	procedure 3820 3834	héparinisation
+T94	procedure 3835 3848	thérapeutique
+T95	procedure 3881 3898	Tomodensitométrie
+T96	procedure 3903 3906	TDM
+T97	disorder 3920 3938	agénésie de la VCI
+T98	disorder 4033 4042	thrombose
+T99	disorder 4047 4065	vaisseaux iliaques
+T100	drugs 4128 4137	contraste
+T101	procedure 4150 4167	Tomodensitométrie
+T102	drugs 4173 4193	produit de contraste
+T103	procedure 4362 4384	Phlébographie invasive
+T104	procedure 4389 4411	phlébographie invasive
+T105	disorder 4425 4443	agénésie de la VCI
+T106	disorder 4458 4467	thrombose
+T107	disorder 4472 4496	veines iliaques communes
+T108	procedure 4518 4531	Phlébographie
+T109	procedure 4729 4739	Traitement
+T110	procedure 4796 4825	anticoagulation thérapeutique
+T111	drugs 4830 4864	héparine de haut poids moléculaire
+T112	procedure 4890 4900	traitement
+T113	disorder 4924 4931	douleur
+T114	disorder 4935 4962	élévation de la température
+T115	procedure 4978 4991	phlébographie
+T116	procedure 4992 5000	invasive
+T117	procedure 5006 5010	lyse
+T118	procedure 5014 5027	thrombectomie
+T119	procedure 5125 5156	phlébographie interventionnelle
+T120	disorder 5170 5188	agénésie de la VCI
+T121	disorder 5239 5282	thrombose complète des deux veines iliaques
+T122	procedure 5325 5348	thrombectomie mécanique
+T123	procedure 5363 5381	lyse intraveineuse
+T124	drugs 5432 5441	urokinase
+T125	procedure 5536 5549	phlébographie
+T126	disorder 5607 5614	thrombi
+T127	procedure 5778 5791	thrombectomie
+T128	drugs 5918 5933	anticoagulation
+T129	drugs 5961 5972	rivaroxaban
+T130	procedure 6061 6074	angiologiques
+T131	procedure 6075 6087	non-invasifs
+T132	procedure 6216 6229	l’échographie
+T133	procedure 6230 6236	duplex
+T134	drugs 6304 6321	L’anticoagulation
+T135	drugs 6349 6360	rivaroxaban
+T136	procedure 6436 6462	prophylaxie médicamenteuse
+T137	disorder 6467 6477	thromboses
+T138	irrelevant 6506 6516;6518 7031;7033 7262;7264 7426;7427 7479;7480 7516;7517 7553;7554 7591;7592 7614;7615 7651;7652 7686;7687 7711;7712 7736;7737 7758;7759 7795;7797 8260;8262 8290;8292 8475;8477 8574;8576 8683	Discussion  Fait intéressant, les rares cas publiés ont toujours été diagnostiqués en raison d’une thrombose veineuse profonde. Il en résulte une prévalence non insignifiante de 5% chez les patients âgés de moins de 30 ans, ce qui revêt dès lors une importance épidémiologique considérable [1–3, 5]. L’absence de facteurs de risque classiques, tels que le tabagisme et la prise de contraceptifs, et une anamnèse négative concernant des opérations préalables peuvent constituer de premiers indices quant au diagnostic correct.  L’échographie classique peut parfois se révéler faussement négative, car l’agénésie de la VCI ne peut pas être détectée par compression en mode B. Ainsi, la TDM est l’examen de référence pour confirmer le diagnostic [5] (tab. 1).  Tableau 1: Critères d’imagerie pour le diagnostic d’une agénésie de la veine cave inférieure; comparaison spécifique de la tomodensitométrie et de l’angiographie. Critère diagnostique	Tomodensitométrie	Phlébographie Absence de veine cave inférieure	x	x Connexion avec le système azygos	 	x Circulation collatérale veineuse:	 	   	– Paravertébrale	x	x  	– Veines lombaires ascendantes	x	x  	– Système azygos/hémi-azygos	x	x  	– Rétropéritonéale	–	–  	– Paroi abdominale	–	–  	– Système porte	x	x  	– Plexus veineux hémorroïdaire	–	–  Le traitement des patients s’avère complexe par rapport à celui de la thrombose veineuse profonde conventionnelle. La prise continue d’antagonistes de la vitamine K ou de préparations plus récentes devrait être envisagée en tenant compte des facteurs de risque [4]. Malgré le traitement initialement conservateur, la nécessité d’une intervention, consistant en une thrombectomie ou une lyse locale, devrait être considérée en cas de persistance des symptômes [5].  L’essentiel pour la pratique  • L’identification correcte du groupe de patients et l’exclusion des facteurs de risque classiques de thrombose veineuse profonde sont essentielles pour la pose du diagnostic correct.  • Anamnèse: pas d’opérations préalables, pas d’immobilisation et pas d’autres facteurs de risque.  • Penser au traitement: pas d’interruption complète de l’anticoagulation après six mois, bas de contention.

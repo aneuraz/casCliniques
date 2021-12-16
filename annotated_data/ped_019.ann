@@ -1,0 +1,19 @@
+T1	disorder 107 116	épilepsie
+T2	disorder 469 485	crise convulsive
+T3	procedure 910 923	IRM cérébrale
+T4	procedure 930 933	EEG
+T5	disorder 968 984	crise convulsive
+T6	disorder 1031 1050	épilepsie partielle
+T7	drugs 1088 1099	gabapentine
+T8	disorder 1140 1156	crise convulsive
+T9	drugs 1220 1231	gapapentine
+T10	drugs 1528 1541	carbamazépine
+T11	drugs 1589 1600	gabapentine
+T12	drugs 1982 1993	lamotrigine
+T13	drugs 1999 2012	carbamazépine
+T14	procedure 2162 2171	EEG-vidéo
+T15	disorder 2259 2280	épilepsie généralisée
+T16	disorder 2331 2361	épilepsie myoclonique juvénile
+T17	drugs 2393 2402	valproate
+T18	disorder 2429 2439	myoclonies
+T19	disorder 2447 2466	crises généralisées

@@ -1,0 +1,33 @@
+T1	disorder 73 86	hypothyroïdie
+T2	drugs 90 101	 Levothyrox
+T3	disorder 114 138	 hypertension artérielle
+T4	drugs 144 152	Pretérax
+T5	disorder 260 331	troubles du comportement à type d’agressivité dans un registre délirant
+T6	disorder 374 394	maladie d’Alzheimer.
+T7	procedure 454 480	consultation psychiatrique
+T8	drugs 507 516	Risperdal
+T9	drugs 521 529	Séropram
+T10	drugs 852 862	 Previscan
+T11	disorder 872 917	 phlébite compliquée d’une embolie pulmonaire
+T12	drugs 922 946	traitement anticoagulant
+T13	disorder 1129 1156	déséquilibre de son diabète
+T14	drugs 1367 1373	Exelon
+T15	drugs 1576 1585	Préviscan
+T16	labvalue 1647 1657	INR à 3,78
+T17	procedure 2403 2427	 renouveler l’ordonnance
+T18	procedure 3258 3272	 prise de sang
+T19	labvalue 3415 3425	INR de 4,6
+T20	procedure 4316 4381	augmenter tous les soirs d’un demi-comprimé la dose de Previscan®
+T21	procedure 5459 5478	 contrôle de la TSH
+T22	procedure 5484 5506	 l’hémoglobine glyquée
+T23	disorder 5590 5603	maux de tête.
+T24	drugs 5716 5726	Efferalgan
+T25	disorder 5759 5768	céphalées
+T26	disorder 5842 5860	 violentes nausées
+T27	disorder 6282 6329	PA de la patiente est très élevée (190/90 mmHg)
+T28	procedure 6361 6396	augmente le traitement hypotenseur.
+T29	disorder 6436 6450	patiente chute
+T30	disorder 6484 6508	d’hématomes superficiels
+T31	labvalue 6764 6827	Volumineux hématome cérébral, au niveau de la fosse postérieure
+T32	labvalue 6842 6862	 hémorragie méningée
+T33	labvalue 6906 6934	 surdosage en AVK (INR à 11)

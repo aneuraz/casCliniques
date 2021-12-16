@@ -1,0 +1,126 @@
+Présentation du cas
+
+Homme de 57 ans, en bonne santé habituelle, admis pour investigations d’un quatrième épisode de poly­arthrite bilatérale (chevilles, genoux, interphalangiennes proximales et distales) avec un purpura des membres inférieurs, associé à une asthénie et un état fébrile intermittent (pics à 39,0 °C), le tout évoluant depuis un mois. Les épisodes précédents étaient résolutifs sous corticothérapie orale. L’anamnèse ne retrouve pas de contage ni de voyage récent. Les investigations ambulatoires, immunologiques et infectiologiques étaient négatives (sérologie VIH, facteur rhumatoïde [FR], facteur anti-nucléaire, anticorps anti-peptides cycliques citrullinés, recherche d’antigène HLA-B27), hormis un test ELISPOT positif, pour lequel un traitement d’isoniazide et de rifampicine a été débuté (suspicion de tuberculose latente dans un contexte de corticothérapie). Le patient a ensuite présenté des douleurs abdominales et une perte pondérale qu’il a attribuées à la thérapie antituberculeuse, entrainant l’arrêt du traitement. Notons également une suspicion d’angine bactérienne sur la base d’une odynophagie avec état fébrile traitée par deux jours d’amoxicilline-acide clavulanique per os sans amélioration avant l’hospitalisation.
+
+A l’admission, le patient est afébrile. L’examen clinique montre un purpura vasculaire, un œdème modéré aux membres inférieurs et une adénopathie sous-mandi­bulaire souple et douloureuse à la palpation. Le bilan sanguin montre une formule sanguine avec une leucocytose (16 G/l [norme 4–10]) à prédominance de polynucléaires neutrophiles, une hémoglobine (133 g/l [norme 120–140]), des plaquettes (342 G/l [norme 150–450]) et une fonction rénale dans la norme (créatinine 71 µmol/l [norme 62–106]). La vitesse de sédimentation est augmentée (54 mm/h [norme <10]). Les tests hépatiques sont normaux. La ferritine s’élève à 26 000 μg/l (norme 30–300). L’analyse du sédiment urinaire est normale.
+
+Question 1: Quel diagnostic différentiel initial semble le moins probable?
+
+
+a) Connectivite
+
+b) Réactivation d’une tuberculose latente
+
+c) Syndrome lymphoprolifératif
+
+d) Sarcoïdose
+
+e) Hépatite aigüe
+
+Les symptômes B (fièvre, perte pondérale, asthénie) dont souffre le patient doivent faire évoquer un diagnostic différentiel large. Une polyarthrite fébrile est évocatrice d’une connectivite. La présence d’une tuberculose latente doit faire rechercher une réactivation de la maladie. Un syndrome lymphoprolifératif ainsi qu’une sarcoïdose doivent être évoquées au vu des symptômes B et d’adénopathies palpables. Une hépatite aiguë est moins probable en l’absence d’anomalie du bilan hépatique.
+
+L’évolution est marquée par la persistance d’un pic fébrile diurne quotidien, sans foyer clinique infectieux. Le purpura disparait spontanément. Les hémocultures sont stériles. Les sérologies virales (hépatites A, B, C et E, virus de l’immunodéficience humaine [VIH], d’Epstein-Barr [EBV] et cytomégalovirus [CMV]) sont négatives pour une infection aiguë. Un CT-scanner ­thoraco-abdomino-pelvien puis un PET-CT corps entier (fig. 1) montrent de multiples adénopathies ainsi qu’une splénomégalie.
+
+Figure 1: PET-CT corps entier (18-Fluorodésoxyglucose) avec adénopathies hypermétaboliques bilatérales aux niveaux cervical, axillaire et inguinal.
+
+Question 2: Quel examen est le moins utile dans la suite de prise en charge?
+
+
+a) Ponction à l’aiguille fine d’une adénopathie
+
+b) Exérèse d’une adénopathie
+
+c) Dosage des anticorps anti-cytoplasmes des neutrophiles (ANCA)
+
+d) Frottis sanguin périphérique
+
+e) Calciurie sur urines de 24 heures
+
+L’exérèse ganglionnaire a un rendement supérieur à la ponction pour la recherche d’un lymphome. L’exérèse de l’adénopathie cervicale est effectuée: les analyses anatomopathologiques et immuno-histochimiques infirment cette hypothèse. Un dosage des ANCA dans les normes rend le diagnostic de vasculite associée aux ANCA peu probable. Le frottis sanguin périphérique ne retrouve pas d’argument pour une leucémie (absence de blastose). Une calciurie de 24 heures normale ainsi qu’une absence de granulome à l’analyse histologique vont à l’encontre du diagnostic de sarcoïdose.
+
+Devant une hyperferritinémie majeure, la présence d’arthralgies et d’un tableau d’angine ne régressant pas sous antibiothérapie, une maladie de Still de l’adulte (MSA) est suspectée. Le patient remplissant les critères selon Yamaguchi [1] (tab. 1, 3 critères majeurs et 3 critères mineurs), ce diagnostic est retenu.
+
+Tableau 1: Critères diagnostiques de la Maladie de Still de l’adulte selon Yamaguchi [1]. Diagnostic retenu en présence de ≥5 critères, y compris 2 majeurs et 0 critères d’exclusion.
+Critères majeurs	Critères mineurs	Critères d’exclusion
+Fièvre >39 °C ≥1 semaine	Odynodysphagie	Infection
+Arthralgies ou arthrites
+≥2 semaines	Lymphadénopathie ou splénomégalie	Néoplasie
+Rash typique	Perturbation des tests hépatiques (surtout trans­aminases et LDH)	Autres maladies inflammatoires
+Leucocytes ≥10 000/mm3,
+avec ≥80% de polymorphonucléaires	Négativité des facteurs
+rhumatoïdes et des anticorps antinucléaires	 
+Question 3: Dans ce contexte, quel traitement est indiqué en première intention?
+
+
+a) Anti-inflammatoires non-stéroïdiens (AINS)
+
+b) Corticothérapie per os
+
+c) Anti-interleukine-1 (IL-1)
+
+d) Méthotrexate
+
+e) Colchicine
+
+Le traitement de la MSA est empirique. Il est recommandé de débuter par une corticothérapie per os à une posologie de 0,5–1 mg/kg. Un traitement de méthotrexate (7,5–15 mg/semaine) peut être introduit à but d’épargne des stéroïdes [2]. Les agents biologiques (anti-IL-1) sont utilisés en deuxième ligne en cas d’inefficacité de la corticothérapie. Les AINS et la colchicine n’ont qu’une efficacité limitée si utilisés seuls. Une corticothérapie est introduite chez notre patient.
+
+Question 4: Avant de débuter la corticothérapie, quel schéma de traitement permettant la meilleure adhésion thérapeutique proposez-vous au patient concernant la tuberculose latente retrouvée en ambulatoire?
+
+
+a) Isoniazide 5 mg/kg/j pendant 9 mois
+
+b) Rifampicine 600 mg/j et isoniazide 300 mg/j pendant 3 mois
+
+c) Rifampicine 10 mg/kg/j pendant 4 mois
+
+d) Rifampicine, isoniazide, pyrazinamide, éthambutol pendant au moins 2 mois
+
+e) Pas de traitement nécessaire
+
+L’introduction d’un traitement est nécessaire pour éviter une réactivation de la tuberculose sur l’immunosuppression cortico-induite. Il existe plusieurs schémas de traitement possibles. L’isoniazide et la rifampicine en monothérapie ont une efficacité égale [3]. Le traitement combiné des deux molécules est également une alternative. De récentes études ont montré une meilleure compliance et des effets secondaires moindres chez les patients suivant le traitement de rifampicine [4]. Une quadrithérapie est indiquée en cas de ­tuberculose active.
+
+Le patient quitte notre service avec un traitement de prednisone de 80 mg/j (1 mg/kg) et de rifampicine de 600 mg/j pour 4 mois.
+
+5 jours après son retour à domicile, le patient est à nouveau hospitalisé en raison d’un état fébrile à 40 °C avec une instabilité hémodynamique initiale (hypotension à 80/40 mm Hg répondant au remplissage). Le status est sans particularité et ne retrouve pas de foyer infectieux. Une antibiothérapie large spectre empirique par pipéracilline-tazobactam est débutée. Le bilan sanguin montre un syndrome inflammatoire (leucocytes 14 G/l, CRP 192 mg/l, ferritine 46 000 μg/l). Le bilan infectieux, comprenant hémocultures, culture d’urine, radiographie thoracique puis CT-scanner abdominal ne montre pas de foyer infectieux. Une nouvelle exérèse ganglionnaire est réalisée et ne donne pas d’argument pour une tuberculose ou un lymphome. Le patient reste cependant fébrile de façon quotidienne.
+
+Question 5: Quelle adaptation de traitement est nécessaire au vu de l’évolution récente?
+
+
+a) Arrêt de la prednisone, relais du pipéracilline-tazobactam par une carbapénème
+
+b) Arrêt de la prednisone, ajout de l’isoniazide, la pyrazinamide, l’éthambutol au traitement de rifampicine
+
+c) Poursuite de la prednisone, ajout d’un anti-TNF-α
+
+d) Poursuite de la prednisone, relais de la rifampicine par ­l’isoniazide
+
+e) Poursuite de la prednisone, ajout d’un anti-IL-1
+
+L’absence de documentation microbiologique malgré un nouveau bilan large chez un patient restant fébrile mais stable sur le plan hémodynamique ne justifie pas un élargissement du spectre antibiotique. Le traitement de pipéracilline-tazobactam est d’ailleurs interrompu.
+
+De même, nous ne retrouvons pas d’argument pour une réactivation d’une tuberculose latente: il n’y a pas d’indication à une quadrithérapie anti-tuberculeuse.
+
+La rifampicine est un fort inducteur de plusieurs cytochromes P 450, notamment le CYP 3A4. Ce dernier catabolise la prednisone en prednisolone. Le métabolisme de la prednisone peut donc fortement augmenter sous l’induction de la rifampicine, généralement dès les premiers jours de son introduction [5]. Il est généralement recommandé de doubler les doses de prednisone pour garder un niveau similaire d’exposition ou de relayer le traitement de rifampicine par l’isoniazide au vu d’un profil d’interaction moindre.
+
+L’ajout d’un second médicament à la prednisone dans le traitement d’une MSA n’ayant pas bénéficié d’une corticothérapie efficace n’est pas indiqué.
+
+L’évolution clinique est favorable avec une disparition de l’état fébrile les jours suivant le relais de la rifampicine par l’isoniazide, permettant un retour à domicile sous corticothérapie orale avec un bon contrôle des symptômes et de l’état fébrile.
+
+Discussion
+
+La MSA est une pathologie inflammatoire systémique rare, avec une incidence estimée à 0,16 pour 100 000 habitants [6] touchant principalement de jeunes adultes, plus fréquemment des femmes. L’étiologie précise n’est pas connue. On émet l’hypothèse d’une origine multi­factorielle avec l’exposition à certains pathogènes infectieux pouvant déclencher la maladie, sur un terrain de prédisposition génétique et environnemental. Il est également suggéré qu’une surproduction de certaines cyto­kines inflammatoires (notamment les interleukines 1 et 6, le TNF-α) pourrait jouer un rôle important dans la pathogenèse de la maladie, en déclenchant et entretenant un état inflammatoire important. Les cytokines citées sont les cibles de traitements biologiques ciblés [6].
+
+La maladie se manifeste par un faisceau de symptômes, signes cliniques et anomalies biologiques. La triade classique, qui n’est pas retrouvée systématiquement, comprend un état hautement fébrile avec des pics de température quotidiens vespéraux, une oligoarthrite touchant généralement les articulations distales ainsi qu’une éruption cutanée érythémateuse de couleur ­rosée-saumon affectant surtout le tronc et les parties proximales des membres, durant les pics ­fébriles. On retrouve également fréquemment une odynophagie sans anomalie à l’examen du fond de gorge ainsi que la présence d’adénopathies bilatérales, généralement situées au niveau cervical. Le bilan biologique montre de manière quasi constante une élévation des paramètres inflammatoires. Une hyperferritinémie majeure (>1000 μg/l), est évocatrice, bien que non pathognomonique.
+
+Il existe actuellement quelques algorithmes diagnostiques, notamment celui de Yamaguchi (tab. 1). Le diagnostic différentiel étant large, il convient d’effectuer des investigations afin d’exclure une pathologie infectieuse (VIH, tuberculose, maladie de Lyme, hépatites virales, EBV, CMV ou parvovirus B19), une néoplasie ainsi qu’une vasculite ou une connectivite.
+
+En dépit d’une meilleure connaissance de la maladie et de ses critères diagnostics, l’évolution de la MSA reste imprévisible. On retrouve néanmoins trois formes évolutives principales: une atteinte monophasique, une ­atteinte intermittente avec plusieurs poussées consécutives d’intensité moins importante et une forme chronique où l’atteinte articulaire est prédominante. Le pronostic est principalement lié aux complications ­systémiques (syndrome d’activation macrophagique, dysfonction hépatique) ainsi qu’aux complications infectieuses liées au traitement immunosuppresseur.
+
+Le traitement de première ligne de la MSA est la corticothérapie. Le méthotrexate peut aussi être proposé, bien que peu efficace en phase aiguë. Les patients réfractaires à la corticothérapie se verront proposer l’ajout d’agents biologiques (anti-TNF-α, anti-IL-1 ou IL-6) pour contrer l’action des cytokines inflammatoires.
+
+En conclusion, la MSA est une pathologie inflammatoire systémique rare, nécessitant généralement un traitement immunosuppresseur, dont le diagnostic ne peut être retenu qu’après exclusion d’autres causes (infection, néoplasie, maladie systémique), mais devant être évoquée dans le diagnostic différentiel d’un état fébrile persistant.
+
+Réponses:
+
+
+Question 1: e. Question 2: a. Question 3: b. Question 4: c. Question 5: d.

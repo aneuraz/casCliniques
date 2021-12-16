@@ -1,0 +1,103 @@
+T1	irrelevant 0 8;10 949	Contexte  Une cause inhabituelle et non perceptible de prime abord a été responsable d’une maladie aiguë grave chez une patiente. C’est uniquement grâce à une anamnèse précise, comme elle était déjà pratiquée du temps d’Asclépios, que la cause de la maladie a pu être déterminée et que la patiente a pu bénéficier du traitement adéquat, en plus du traitement d’une ischémie mésentérique. Avec ce cas, nous souhaitons mettre en lumière le fait que dans des circonstances malencontreuses, des surdosages médicamenteux et intoxications médicamenteuses involontaires se produisent régulièrement, et ce en dépit de consignes précises données aux patients. En règle générale, ces situations ont une évolution favorable, ce qui n’a toutefois pas été le cas chez la patiente décrite dans cet article. Le cas a été signalé à l’Institut suisse des produits thérapeutiques, ce qui a eu pour conséquence une modification de la délivrance du médicament concerné.
+T2	disorder 1018 1038	douleurs abdominales
+T3	disorder 1135 1155	douleurs abdominales
+T4	disorder 1206 1213	nausées
+T5	disorder 1220 1229	diarrhées
+T6	disorder 1248 1254	fièvre
+T7	profession 1311 1318	secours
+T8	disorder 1370 1380	tachycarde
+T9	disorder 1384 1394	hypotendue
+T10	procedure 1404 1415	transportée
+T11	procedure 1421 1439	salle de déchocage
+T12	disorder 1493 1512	dissection aortique
+T13	procedure 1520 1537	tomodensitométrie
+T14	procedure 1539 1543	TDM)
+T15	procedure 1588 1596	confirmé
+T16	procedure 1601 1604	TDM
+T17	disorder 1630 1646	caecum œdémateux
+T18	disorder 1657 1686	infiltration du tissu adipeux
+T19	disorder 1746 1763	colite ischémique
+T20	procedure 1796 1840	apparence filiforme de l’artère mésentérique
+T21	procedure 1868 1879	indication 
+T22	procedure 1885 1909	laparotomie exploratoire
+T23	disorder 1947 1960	choc septique
+T24	disorder 1981 2002	ischémie mésentérique
+T25	procedure 2008 2032	analyses de laboratoire 
+T26	labvalue 2047 2059	pancytopénie
+T27	disorder 2079 2086	aplasie
+T28	procedure 2148 2158	leucocytes
+T29	labvalue 2159 2163	0,31
+T30	labvalue 2159 2172	0,31 × 109/l 
+T31	procedure 2186 2198	neutrophiles
+T32	labvalue 2177 2182	15,8%
+T33	procedure 2200 2212	thrombocytes
+T34	labvalue 2213 2223	99 × 109/l
+T35	procedure 2225 2227	Hb
+T36	labvalue 2228 2234	66 g/l
+T37	procedure 2250 2276	clairance de la créatinine
+T38	labvalue 2296 2305	34 ml/min
+T39	procedure 2342 2374	initiation d’une antibiothérapie
+T40	procedure 2406 2429	substitution volémique 
+T41	procedure 2459 2484	présenté en préopératoire
+T42	drugs 2521 2534	noradrénaline
+T43	procedure 2546 2555	induction
+T44	profession 2561 2571	anesthésie
+T45	procedure 2621 2660	réanimation mécanique et médicamenteuse
+T46	procedure 2698 2717	activité électrique
+T47	labvalue 2718 2728	sans pouls
+T48	procedure 2734 2750	intra-opératoire
+T49	disorder 2805 2825	ischémie transmurale
+T50	procedure 2847 2868	hémicolectomie droite
+T51	procedure 2885 2891	stomie
+T52	disorder 2974 2999	instabilité hémodynamique
+T53	procedure 3009 3019	transférée
+T54	procedure 3058 3089	agents vasoactifs à dose élevée
+T55	procedure 3095 3138	échocardiographie transthoracique focalisée
+T56	procedure 3194 3226	remplacement de la valve mitrale
+T57	disorder 3285 3308	insuffisance tricuspide
+T58	procedure 3378 3397	traitement inotrope
+T59	procedure 3405 3433	diminution de la post-charge
+T60	drugs 3465 3473	iloprost
+T61	drugs 3477 3493	monoxyde d’azote
+T62	procedure 3498 3510	voie inhalée
+T63	procedure 3530 3545	index cardiaque
+T64	procedure 3572 3600	cathéter artériel pulmonaire
+T65	labvalue 3610 3639	<1,5 l/min/surface corporelle
+T66	disorder 3695 3717	septique-cardiogénique
+T67	disorder 3747 3774	défaillance multi-organique
+T68	disorder 3784 3822	insuffisance hépatique et rénale aiguë
+T69	procedure 3859 3891	hémodiafiltration veino-veineuse
+T70	disorder 3972 3999	complications hémorragiques
+T71	disorder 4021 4044	thrombocytopénie sévère
+T72	disorder 4065 4099	déficit en facteurs de coagulation
+T73	disorder 4119 4141	insuffisance hépatique
+T74	procedure 4200 4212	laparotomies
+T75	disorder 4225 4254	ischémies de l’intestin grêle
+T76	labvalue 4320 4326	120 cm
+T77	procedure 4473 4500	traitement a été interrompu
+T78	disorder 4518 4530	pancytopénie
+T79	procedure 4595 4611	anamnèse élargie
+T80	disorder 4695 4719	polymyalgie rhumatismale
+T81	disorder 4740 4775	détérioration des valeurs sanguines
+T82	disorder 4849 4878	vésicules orales et vaginales
+T83	procedure 4910 4925	hospitalisation
+T84	drugs 4970 4980	prednisone
+T85	drugs 5015 5027	méthotrexate
+T86	drugs 5029 5032	MTX
+T87	disorder 5053 5061	douleurs
+T88	drugs 5074 5084	diclofénac
+T89	procedure 5089 5104	voie systémique
+T90	procedure 5108 5131	anamnèse médicamenteuse
+T91	drugs 5176 5179	MTX
+T92	procedure 5367 5392	recueil de cette anamnèse
+T93	labvalue 5463 5474	0,06 µmol/l
+T94	procedure 5397 5418	concentration de MTX 
+T95	procedure 5500 5517	hémodiafiltration
+T96	drugs 5568 5579	leucovorine
+T97	drugs 5581 5630	acide folinique sous forme de folinate de calcium
+T98	drugs 5653 5669	carboxypeptidase
+T99	procedure 5635 5649	administration
+T100	drugs 5732 5735	MTX
+T101	drugs 5790 5800	filgrastim
+T102	procedure 5847 5862	hospitalisation
+T103	irrelevant 5865 5875;5877 6732;6734 7802;7804 8216;8218 9167;9169 10013;10015 10392;10394 11369;11371 11824;11826 11889;11891 11919;11921 12054;12056 12155;12157 12341;12343 12402;12404 12477;12479 12622;12624 12643;12645 12815	Discussion  L’action du MTX repose sur l’inhibition intracellulaire de la dihydrofolate réductase, une enzyme clé dans la biosynthèse de l’acide tétrahydrofolique, qui est essentiel à la synthèse de l’ARN et de l’ADN. Il en résulte un effet anti-inflammatoire et antiprolifératif, qui est utilisé en oncologie pour l’inhibition des cellules à forte activité mitotique [1]. Le MTX est éliminé à 90% par voie rénale sous forme inchangée via le «human organic anion transporter-3» (hOAT-3), de sorte que toute détérioration de la fonction rénale conduit à une accumulation accrue et donc à une augmentation de la toxicité systémique avec survenue d’une insuffisance rénale, d’une hépatotoxicité, d’une myélosuppression et d’une mucite. Le MTX à faible dose est contre-indiqué en cas de ClCr <50 ml/min; en cas de ClCr de 50–80ml/min, une dose réduite est nécessaire [2].  Sur le plan pathogénique, la néphrotoxicité est principalement due à une précipitation du MTX et de ses ­métabolites dans l’urine acide, ainsi qu’à une action toxique directe sur les tubules. Par ailleurs, l’accumulation locale de MTX dans les reins entraîne une vasoconstriction des artérioles afférentes, ce qui réduit encore davantage le débit de filtration glomérulaire [3]. Ainsi, l’action néphrotoxique directe du MTX entraîne une augmentation de la demi-vie du MTX, avec une augmentation correspondante de l’action toxique sur la moelle osseuse et sur la muqueuse [4]. En cas d’administration d’anti-inflammatoires non stéroïdiens (AINS), il se produit en outre une interaction avec le MTX, qui est attribuable à une réduction du débit de ­filtration glomérulaire et à une inhibition du hOAT-3. Encas ­d’administration concomitante d’un AINS (dans notre cas, diclofénac), une exposition accrue au MTX et un effet toxique additif (les AINS en soi peuvent également déclencher une insuffisance rénale et, très rarement, des cytopénies) peuvent se produire [2, 5].  Les conséquences en sont une mucite survenant après environ sept jours en raison du renouvellement cellulaire insuffisant causé par l’effet toxique direct et une pancytopénie survenant après cinq à dix jours [1, 6]. Un autre effet indésirable pertinent est l’hépatotoxicité, dont le mécanisme exact n’est pas élucidé. Certaines études suggèrent néanmoins que le stress oxydatif est impliqué dans sa survenue [7].  En cas de fonction rénale résiduelle encore préservée, le traitement d’une intoxication au MTX réside dans une hydratation forcée et dans une alcalinisation des urines par bicarbonate de sodium par voie systémique. Cette dernière mesure doit aider à réduire la précipitation du MTX dans les tubules rénaux. En cas d’insuffisance rénale déjà établie, le MTX doit être éliminé au moyen d’un traitement de substitution rénale. Par ailleurs, l’administration de leucovorine est recommandée. La leucovorine est la forme biologiquement active de l’acide folique et elle agit comme un antidote, car elle est en concurrence avec le MTX pour l’absorption dans les cellules et renouvelle les dépôts d’acide folique. En cas de concentration de MTX >1 µmol/l et d’insuffisance rénale, l’administration de carboxypeptidase doit en outre être discutée. Cette dernière élimine le MTX extracellulaire en produisant des métabolites inactifs du MTX par hydrolyse [8].  Dans notre cas, nous étions confrontés à deux problèmes, à savoir l’ischémie mésentérique et l’intoxication au MTX, qui sont déjà séparément associés à une mortalité élevée, et ce même sans défaillance multi-organique concomitante. Chez notre patiente, il s’agissait très vraisemblablement d’une intoxication au MTX primaire, causée par la prise quotidienne, et non pas hebdomadaire, de 10 mg de MTX. Cela a donné lieu aux complications connues, avec pancytopénie, hépatotoxicité, néphrotoxicité et mucite sévère. Cette dernière a probablement entraîné une translocation bactérienne (mise en évidence de Escherichia coli dans le prélèvement abdominal profond recueilli lors de la première laparotomie), avec sepsis et donc ischémie mésentérique consécutive dans le cadre d’une sténose filiforme préexistante de l’artère mésentérique supérieure.  Chez notre patiente, la toxicité du MTX a été potentialisée par la prise simultanée de diclofénac, qui est également éliminé via l’hOAT-3, et par l’insuffisance rénale dès l’admission à l’hôpital. A son tour, cette situation a provoqué une réduction supplémentaire de la clairance rénale du MTX, ainsi que les effets indésirables toxiques, qui se sont finalement avérés létaux.  Dans le cas de notre patiente, comme dans d’autres cas de prise de MTX quotidienne au lieu d’hebdomadaire qui ont été rapportés dans la littérature, la concentration sérique de MTX était inférieure au seuil d’initiation d’un traitement par carboxypeptidase [9]. Qui plus est, dans une série de cas, sept patients avec toxicité importante du MTX (pancytopénie, pneumonie) avaient des concentrations sériques de MTX non détectables. Dans les cas où le MTX était détectable, la concentration n’était pas corrélée avec la sévérité de la cytopénie. Cela s’explique par la demi-vie plasmatique relativement courte (3–10 heures) en cas de fonction rénale normale, contrairement à la longue demi-vie intracellulaire des métabolites actifs polyglutamate de méthotrexate (GluMTX), qui se forment dans les tissus [2]. Ces métabolites intracellulaires ne pouvant pas être mesurés directement sont probablement responsables de la toxicité en cas d’administration de MTX à faible dose [9].  Le cas a été signalé au centre national de pharmacovigilance de Swissmedic. Entre-temps, des conditionnements plus petits ont été introduits (par exemple boîtes de 10 ou 20 comprimés de MTX 10 mg au lieu de boîtes de 100 comprimés). D’autres mesures ont également été prises, comme une carte patient (fig. 1) et une mise en garde encadrée dans les informations professionnelles et destinées aux patients, afin de réduire de telles erreurs de prise [10].  Figure 1: Carte patient destinée à éviter les erreurs de prise.  L’essentiel pour la pratique  • La discussion avec le patient au sujet de la prise correcte des médicaments est essentielle et peut permettre d’éviter des erreurs.  • Le méthotrexate (MTX) est éliminé à 90% par voie rénale – attention en cas d’insuffisance rénale!  • En cas de prise combinée de MTX et d’anti-inflammatoires non stéroïdiens, il convient toujours de penser à la possibilité d’une exposition accrue au MTX et à l’effet toxique additif!  • Les traitements possibles d’une intoxication au MTX sont:  – Leucovorine en tant que métabolite actif de l’acide folique (antidote);  – Hydratation forcée et alcalinisation des urines; le cas échéant, traitement de substitution rénale en cas d’insuffisance rénale déjà établie;  – Carboxypeptidase.  • Lorsqu’une erreur de prise ou de médicament évitable est constatée, il convient toujours de le signaler à Swissmedic dans le but d’éviter des cas similaires à l’avenir.

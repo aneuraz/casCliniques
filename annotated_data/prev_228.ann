@@ -1,0 +1,27 @@
+T1	profession 145 161	médecin traitant
+T2	disorder 233 242	varicelle
+T3	disorder 337 411	douleurs au niveau des membres inférieurs à la face postérieure des genoux
+T4	disorder 413 435	prédominantes à droite
+T5	disorder 441 449	douleurs
+T6	drugs 492 503	antalgiques
+T7	disorder 520 544	impotence fonctionnelle 
+T8	profession 715 726	généraliste
+T9	disorder 745 772	atteinte musculo-tendineuse
+T10	disorder 799 817	thrombose veineuse
+T11	drugs 864 875	 antalgique
+T12	drugs 892 899	Ixprim®
+T13	drugs 907 926	anti--inflammatoire
+T14	drugs 991 999	Innohep®
+T15	procedure 1147 1159	Echo Doppler
+T16	profession 1445 1455	infirmière
+T17	procedure 1493 1502	injection
+T18	drugs 1505 1517	Innohep®3500
+T19	profession 1535 1546	généraliste
+T20	disorder 1687 1694	malaise
+T21	disorder 1723 1736	malaise vagal
+T22	procedure 1767 1787	surélever les jambes
+T23	disorder 2072 2079	malaise
+T24	disorder 2161 2178	perd connaissance
+T25	disorder 2316 2334	Embolie pulmonaire
+T26	disorder 2373 2417	thrombose veineuse des deux veines poplitées
+T27	disorder 2450 2479	caillots adhérents à la paroi

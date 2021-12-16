@@ -1,0 +1,72 @@
+Rapport de cas
+Anamnèse
+
+Un patient âgé de 69 ans s’est présenté en urgence en raison d’une aggravation de l’état général, accompagnée de toux, dyspnée, fièvre, frissons et hématurie macroscopique. Depuis quatre semaines, le patient avait remarqué une fatigue et une intolérance à l’effort croissantes, de sorte qu’il n’était mobile que pour de courtes distances à son domicile et ne pouvait plus ­gérer le quotidien. Une tendance accrue au saignement avec survenue de petits hématomes spontanés au niveau des extrémités ainsi que la présence de sang dans les urines avaient également été constatées.Parmi les comorbidités figuraient une hyperplasie prostatique et une maladie de Parkinson traitée par des médicaments, qui s’était aggravée pendant la semaine précédant l’hospitalisation.
+
+Statut
+
+Sur le plan clinique, le patient s’est présenté dans un état général amoindri et un état nutritionnel faible (indice de masse corporelle 19 kg/m2). Il était normocarde, hypotendu et afébrile. A l’examen clinique, parmi les caractéristiques impressionnantes du statut figuraient des téguments très pâles, des râles à grosses bulles détectés bilatéralement à l’auscultation dans les régions basales, une douleur à la pression suprapubienne et deux plaques hyperkératosiques d’environ 10 × 4 cm au niveau de la partie inférieure des deux jambes. L’examen neurologique a révélé une hypomimie, un langage ralenti et une voix enrouée ainsi qu’une rigueur des extrémités avec un net phénomène de roue dentée, plus prononcé à droite.
+
+Résultats
+
+Les analyses biochimiques réalisées au moment de l’admission ont révélé une CRP accrue à 140 mg/l, des leucocytes normaux, une insuffisance rénale aiguë (créatinine 126 µmol/l, DFGe 50 ml/min/1,73 m2 selon CKD-EPI) et surtout une bicytopénie accompagnée d’une sévère anémie normochrome normocytaire hypo­régénérative (hémoglobine 40 g/l, réticulocytes 4,5/nl soit 0,2%, indice de production réticulocytaire [IPR] 0,2%) avec en plus une thrombocytopénie grave de 7/nl, sans signe d’hémolyse. Vous trouverez en ligne un résumé des principaux résultats de laboratoire au tableau S1 de l’annexe à cet article.
+
+La ponction de la moelle osseuse a révélé une moelle normocellulaire avec une érythropoïèse fortement ­réduite en l’absence quasi totale d’érythroblastes, une amégacaryocytose et une forte augmentation du fer interstitiel en présence d’une granulopoïèse mature accrue sans multiplication des blastes ni fibrose (fig. 1, E et F).
+
+Figure 1: Thymome de type AB selon l’OMS: La tumeur est typiquement constituée de deux composants tumoraux avec d’une part des portions épithéliales (A –C ) et d’autre part des portions lymphocytaires de densité variée (D ).A ) Zones avec cellules ­tumorales fusiformes à ovalaires.B ) Zones avec cellules tumorales polygonales et formation de petits microkystes.C ) Expression ­diffuse de CK14 dans les cellules tumorales.D ) Modèle biphasique classique de croissance de cellules tumorales épithéliales (*) ainsi que de zones pauvres en lymphocytes (**) et riches en lymphocytes (***). Les cellules lymphoïdes sont des lymphocytes T TdT-positifs immatures présentant des membranes nucléaires lisses. Aucune mise en évidence de blastes ou mitoses.E ) Moelle osseuse avec granulopoïèse mature en l’absence quasi totale de mégacaryopoïèse etF ) en l’absence d’érythropoïèse (glycophorine A, CD42b). (A etE : coloration HE, agrandissement 400×;B –D etF : coloration à l’immunopéroxydase, agrandissement 400×).
+
+L’étude immunophénotypique a révélé une carence ­extrêmement sévère en lymphocytes B (médullaires et périphériques) accompagnée d’une agammaglobulinémie (taux non mesurable des immunoglobulines G, A, M et E). Ni un clone HPN (hémoglobinurie paroxystique nocturne), ni une gammapathie monoclonale n’ont été mis en évidence. Les tests sérologiques typiques (VIH, virus de l’hépatite B et C, virus d’Epstein Barr, cytomégalovirus, parvovirus B19) n’ont montré aucun signe d’infection virale aiguë, bien que la pertinence des sérologies ait pu être limitée compte tenu de l’agammaglobulinémie. Aucun examen faisant appel à la réaction en chaîne par polymérase (PCR), en particulier pour le parvovirus B 19, n’a eu lieu.
+
+La radiographie du thorax a permis d’observer, outre des infiltrats pulmonaires bilatéraux, une grosse masse paracardiaque à gauche représentée à la CT et PET/CT (tomographie par émission de positons/tomodensitométrie) comme une formation solide aux contours nets et ­légèrement lobée présentant une faible activité métabolique au niveau du médiastin antérieur, avec une étendue maximale de 5 × 9 × 12 cm (fig. 2), sans autre ­lésion à suspicion tumorale.
+
+Figure 2: Tomodensitométrie thoracique, coupe coronale (A ), coupe transversale (B ). Masse lobée solide dans le média­stin antérieur avec contact à large base avec le péricarde (flèche).
+
+La biopsie assistée par CT de cette lésion a fourni l’image histologique d’une tumeur formée par de petits filaments polygonaux de cellules épithéliales et faisceaux de cellules fusiformes allongées de type fibroblastes (avec infiltration par des lymphocytes CD3-positifs). Au vu du résultat histomorphologique et du profil immunologique (positivité des cellules pour CK14, Lu5, CK5/6, p63, vimentine et CK7), le diagnostic d’un thymome de type AB a été établi (fig. 1, A, B, C, D). Aucune indice en faveur d’une myasthénie grave n’a été mis en évidence sur le plan clinique, neurographique ou biochimique.
+
+Diagnostic
+
+Pour résumer, nous avons pu établir le diagnostic d’un thymome avec phénomènes auto-immuns associés sous forme de «pure red cell aplasia» (PRCA), thrombocytopénie amégacaryocytaire (avec diathèse hémorragique), agammaglobulinémie (syndrome de Good) et lichen plan (au niveau des plaques hyperkératosiques sur les deux jambes). Il existait en outre une pneumonie basale bilatérale.
+
+Traitement et évolution
+
+Le patient a bien répondu au traitement antibiotique intraveineux initial. Durant l’hospitalisation, 15 concentrés d’érythrocytes et 10 concentrés de plaquettes ont au total été substitués (lors de deux épisodes d’hématurie macroscopique anémiante, en phase péri-opératoire et en présence d’une cytopénie réfractaire). Pour traiter la bicytopénie auto-immune aiguë, nous avons initié un traitement immunosuppresseur à base de prednisolone (1 mg/kg de poids corporel [PC]). En raison de l’agammaglobulinémie, nous avons administré des immunoglobulines par voie intraveineuse (dose initiale 0,4 g/kg de PC). Par ailleurs, l’indication d’ablation du thymome a été établie, d’où une thymectomie étendue ouverte par voie trans-sternale avec résection en-bloc de la tumeur et du tissu adipeux environnant (stade T1a, V0, L0, Pn0, N0, M0, R0, stade I selon ­Masaoka) (fig. 3).
+
+Figure 3: Vue macroscopique du thymome après résection.
+
+Malgré la poursuite du traitement stéroïdien et l’administration renouvelée d’immunoglobulines intraveineuses, la bicytopénie s’est montrée réfractaire au traitement. Le traitement immunosuppresseur a donc été complété par la cyclosporine (2,5 mg/kg/PC). Par ailleurs, le patient a reçu de l’eltrombopag (agoniste des récepteurs de la thrombopoïétine) à une dose quotidienne de 75 mg, sous lequel la cytopénie s’est également améliorée de manière non significative. Des érythrocytes et plaquettes ont été substitués toutes les deux semaines pendant quatre mois, jusqu’à ce que le patient décède subitement des suites d’un traumatisme lors d’une chute domestique.
+
+Discussion
+
+Les tumeurs du thymus constituent un groupe hétérogène de néoplasies épithéliales rares [1]. Parmi les lésions au niveau du médiastin antérieur, les thymomes sont les tumeurs les plus fréquemment diagnostiquées (incidence 2–4/106/an, 40e–70e année de vie, hommes et femmes aussi souvent concernés) [2, 3]. La classification histologique dépend de la morphologie des cellules épithéliales, la présence de lymphocytes et la ­similarité avec l’architecture normale du thymus [1]. Selon l’Organisation mondiale de la santé (OMS), les thymomes sont classés en types A, B et la forme mixte de type A/B, les carcinomes thymiques constituent quant à eux une entité séparée [1].
+
+La méthode diagnostique de choix pour l’évaluation de la taille et la délimitation avec les structures avoisinantes consiste en une TDM thoracique avec administration intraveineuse de produit de contraste. En présence d’un tableau clinique typique et de résultats d’imagerie univoques sans indication d’une croissance extra-organique, la biopsie diagnostique n’est pas absolument nécessaire [1].
+
+En fonction du stade, le traitement standard fait appel soit à la chirurgie (voir ci-dessus), le cas échéant également à une radiothérapie postopératoire, soit, à des stades plus avancés, à une chimiothérapie combinée (cisplatine, une anthracycline, étoposide et cyclophosphamide) [1]. Le taux de récidive s’élève approximativement à 10–15% [1]. Etant donné que les récidives de thymome sont également traitées en intention curative, le suivi régulier au moyen d’une TDM thoracique est recommandé.
+
+Outre la résection chirurgicale du thymome, une ­évaluation clinique précise en termes de phénomènes ­auto-immuns paranéoplasiques s’avère hautement prioritaire. Le thymus joue un rôle central dans la maturation et la différenciation des cellules T dont l’auto-tolérance est adéquate, c’est pourquoi un trouble de ce processus entraîne la formation de lymphocytes T auto-réactifs [2]. Des manifestations paranéoplasiques sous forme de phénomènes auto-immuns peuvent survenir chez 20–50% des patients atteints de thymome [2, 3], le plus souvent (env. 25–40%) en tant que myasthénie grave [2, 3].
+
+En termes de complications hématologiques, les cyto­pénies représentent une autre manifestation essentielle des phénomènes auto-immuns. Chez les patients atteints de thymome, la présence d’une anémie normochrome normocytaire hyporégénérative à arégénérative doit faire penser à une PRCA [4]. Celle-ci est caractérisée par l’absence d’érythroblastes dans la moelle osseuse en présence d’une granulopoïèse et d’une ­mégacaryopoïèse normales, et peut se retrouver chez 2–5% des patients atteints de thymome [2, 5]. A l’inverse, un thymome est détecté chez 10–50% des patients présentant une PRCA, de sorte que ce phénomène auto-­immun constitue la complication hématologique la plus fréquente [5].
+
+En termes de diagnostic différentiel, une infection à parvovirus B 19 ainsi que des processus néoplasiques envahissant la moelle osseuse doivent être exclus. Les auto-anticorps inhibant l’érythropoïèse dirigés contre l’érythropoïétine et les cellules précurseurs des érythroblastes ainsi qu’une action cytotoxique directe des lymphocytes T contre les cellules souches érythroïdes sont discutés sur le plan étiologique [4]. Une rémission peut parfois être obtenue après thymectomie sous traitement immunosuppresseur stéroïdien et, en l’absence de réponse, sous ciclosporine ou rituximab, mais cette complication peut malheureusement demeurer réfractaire au traitement [2].
+
+Dans notre cas, le patient a en outre présenté une thrombocytopénie grave en l’absence quasi complète de mégacaryocytes dans la moelle osseuse sous forme d’une thrombocytopénie amégacaryocytaire acquise. D’après la littérature, la combinaison entre PRCA et thrombocytopénie amégacaryocytaire s’avère très rare, la constellation de résultats décrite ici constitue une exception. Des rémissions peuvent être obtenues après thymectomie et sous traitement immunosuppresseur à base de ciclosporine [6, 7].
+
+Avec une prévalence de 5%, le syndrome de Good compte, après la PRCA, parmi les deuxièmes cytopénies les plus fréquentes en cas de thymome et est ­caractérisé par une carence acquise à l’âge adulte en lymphocytes B avec hypogammaglobulinémie à agammaglobulinémie. Dans plus de 50% des cas, il peut être accompagné d’autres phénomènes auto-immuns (par ex. PRCA, myasthénie grave ou lichen plan oral). Cela va souvent de pair avec une susceptibilité accrue aux infections (surtout les infections respiratoires) ainsi qu’une augmentation de la mortalité [2]. L’immunodéficience après thymectomie est irréversible, de sorte qu’une substitution intraveineuse régulière d’immunoglobulines est recommandée, tout comme la prophylaxie contre les infections opportunistes, c’est-à-dire les virus, fongus et Pneumocystis jirovecii [2, 8].
+
+Des phénomènes auto-immuns cutanés et muqueux dus au thymome se manifestent typiquement sous forme de lichen plan au niveau de la muqueuse orale, généralement en tant que lésions érosives douloureuses récidivantes [2, 9], souvent combinées, en cas de formes sévères, à un syndrome de Good [9, 10]. Sur le plan physiopathologique survient alors une destruction des kératinocytes, déclenchée par les cellules T ­auto-réactives [10]. Comme chez notre patient, des ­manifestations extra-orales et d’autres variantes du lichen plan sont également décrites [11].
+
+Les phénomènes auto-immuns pouvant survenir en relation avec des thymomes sont variés et pas encore entièrement expliqués sur le plan physiopathologique. Malgré la résection chirurgicale du thymome et l’immunosuppression, ces phénomènes auto-immuns hématologiques et immunologiques peuvent persister de sorte qu’au quotidien clinique, ces problèmes concomitants représentent souvent un défi thérapeutique de taille et s’avèrent souvent fatals.
+
+L’essentiel pour la pratique
+
+• L’acronyme 4-T nous aide dans le diagnostic différentiel de la masse médiastinale: thymome, thyroïde (goitre), «terrible lymphoma» (lymphome lymphoblastique à cellules T, lymphome diffus à grandes cellules T, lymphome de Hodgkin, etc.), tératome (tumeurs germinales).
+
+• En présence d’un thymome récemment diagnostiqué, il convient d’envisager des phénomènes auto-immuns associés.
+
+• Particulièrement en cas d’infections récidivantes, il convient d’envisager un syndrome de Good (carence en immunoglobulines).
+
+• Le traitement des phénomènes auto-immuns comprend, après la thymectomie, l’administration de stéroïdes et d’immunoglobulines ainsi que, le cas échéant, de cyclosporine ou rituximab.
+
+• Le risque accru d’infections et les complications hématologiques influencent défavorablement le pronostic (taux de survie à 10 ans d’environ 30%).
+
+L’annexe est disponible en tant que document séparé sur: https://doi.org/10.4414/fms.2019.08421.

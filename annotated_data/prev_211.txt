@@ -1,0 +1,65 @@
+Cas Clinique
+
+En août 2015, une patiente âgée de 75 ans est adressée par son médecin traitant à un neurologue pour des troubles sensitifs de la main droite. Celui-ci répondait :"(...) Syndrome du canal carpien droit, intervention chirurgicale le plus rapidement possible. Le pronostic à droite semble être entamé, surtout du côté sensitif (...)". La patiente est orientée vers un chirurgien orthopédiste, auquel le médecin traitant indique que, depuis 8 ans, la patiente est sous Préviscan (alternativement, 3/4 de comprimé un jour et 1/2 comprimé le jour suivant) au décours d'un accident vasculaire cérébral ischémique sur fibrillation auriculaire, ayant laissé pour séquelle, une diplopie.
+
+Le 21 septembre, le chirurgien confirme le bien-fondé de l'intervention chirurgicale.
+
+Le 6 octobre, la patiente signe un consentement à la chirurgie mentionnant qu'elle a reçu des explications sur les avantages et les risques de l'intervention.
+
+Le 12 octobre, lors de la consultation de pré-anesthésie les modalités du relais préopératoire du Préviscan par le Lovenox sont prévues.
+
+Le 19 octobre, la patiente est admise à la clinique. La dernière prise de Préviscan date du 13 octobre.
+
+Le 14 octobre est un jour sans traitement anticoagulant. Le Lovenox ((0,8 ml x 2 /jour) (86 kg pour 1,65 m) en SC est débuté le 15 octobre et la dernière injection est faite le 19 octobre au matin.
+
+Le 20 octobre l'intervention (neurolyse du nerf médian au canal carpien) se déroule sans problème (15 min). Un bloc du plexus brachial sous neurostimulation est réalisé pour l'anesthésie (INR : 1,28). Il n'y a pas de douleur rapportée par l'anesthésiste (affirmation contestée ultérieurement par la patiente) et le test d'aspiration est négatif.
+
+Le 21 octobre (J1), la patiente quitte la clinique avec deux lettres pour son médecin traitant, l'une du chirurgien et l'autre de l'anesthésiste prévoyant une reprise du Préviscan (aux doses préopératoires) à compter du 23 octobre avec un arrêt du Lovenox quand le Préviscan serait, de nouveau, efficace.
+
+Le 23 octobre (J3), le Préviscan est repris aux doses préopératoires (alternativement 3/4 de comprimé un jour et 1/2 comprimé le jour suivant).
+
+Le 26 octobre (J 6), INR : 1,16
+
+Le 28 octobre (J 8), INR :1,37
+
+Le 30 octobre (J 10), INR : 1,86. La patiente téléphone à son médecin traitant pour lui communiquer ce résultat. Celui-ci lui prescrit d'augmenter les doses de Préviscan (alternativement 1 comprimé un jour et 3/4 de comprimé le jour suivant). 
+
+Le 1er novembre (dimanche de la Toussaint) (J12), dans la soirée, la patiente se plaint de violentes douleurs du bras droit.
+
+Dans la nuit du 1er au 2 novembre, un hématome apparait au niveau de la face interne du 1/3 supérieur du bras avec majoration importante des douleurs. La patiente téléphone à sa fille (médecin urgentiste) qui, exerçant à plus de 200 km, lui conseille d'appeler le 15. Le médecin régulateur ne juge pas utile un transport hospitalier et conseille des pansements alcoolisés.
+
+Le 2 novembre (J13), toujours sur les conseils de sa fille, la patiente reconsulte le chirurgien. Ce dernier constate : "(...) Au niveau du site opératoire, cicatrice parfaite, bonne mobilité de l'ensemble des doigts (donnée contestée par la patiente) et absence de troubles sensitifs...Au niveau du bras, volumineux hématome de la loge antéro-externe, non circonférentiel avec des loges musculaires douloureuses à la palpation mais souples. L'état cutané, mauvais, n'incite pas à une évacuation et il n'existe pas de signes de gravité, notamment absence de troubles sensitivo-moteurs (...)".
+
+Prenant connaissance du résultat de l'INR du jour, à 3,09, il conseille d'arrêter le Lovenox, d'augmenter les antalgiques en ajoutant des médicaments de palier 2 (Tramadol, Néfopam) et de revoir le médecin traitant dans 48 heures.
+
+Le 3 novembre (J14), en raison de l'augmentation de volume de l'hématome du bras qui atteint le coude et l'avant-bras, la patiente consulte son médecin traitant. Celui-ci constate que la patiente ne peut plus bouger les doigts, ni serrer la main. Il diminue le Préviscan à 3/4 de c/j.
+
+Le 4 novembre (J15), d'après la patiente :"l'hématome était impressionnant, et sa main était insensible et immobile avec un poignet qui tombait".
+
+Le 5 novembre (J16), consultation par téléphone du médecin traitant qui conseille des pansements alcoolisés et propose de rédiger une ordonnance de Néfopam et de Paracétamol. Dans l'après-midi, le laboratoire communique à la patiente, son taux de l'INR prélevé le matin :5,2.
+
+Le 6 novembre (J17), le mari de la patiente se rend au cabinet du médecin pour chercher l'ordonnance d'antalgiques. Informé du taux d'INR, le généraliste conseille de revenir aux doses préopératoires (3/4c/j, 1/2c/j). Par ailleurs, il écrit au chirurgien :" Il faut penser qu'il existe une compression neurologique qui expliquerait les crises douloureuses".
+
+Le 7 novembre (J18), sur les conseils de sa fille et en raison de douleurs intolérables dans la nuit, la patiente se rend à la clinique pour voir le chirurgien. Elle y apprend qu’avec tous ses collègues, il est parti à un congrès. L'anesthésiste qui avait pratiqué le bloc axillaire et qui était d'astreinte à son domicile, refuse, toutefois, de se déplacer. Il aurait demandé d'orienter la patiente vers un chirurgien. Le taux de l'INR réalisé à la clinique était à 4,59.
+
+Conseillée par les infirmières, la patiente se rend aux urgences de l'hôpital voisin. La douleur est chiffrée à 7/10. L'examen montre une paralysie des nerfs radial, médian et ulnaire droits. Le chirurgien de garde évoque un "syndrome de Volkmann" et téléphone au service de neurologie du CHU pour avis thérapeutique. Il lui est répondu qu'il n'y a pas d'indication chirurgicale compte-tenu que, dans le cas d'un syndrome de Volkmann, il s'agit d'une "compression nerveuse hors délai". L’hospitalisation de la patiente est décidée.
+
+Le 9 novembre (J 20), une IRM (cervicale et du plexus brachial) est faite. Le radiologue constate des signes évocateurs d'un hématome mais "en limite du champ d'examen".
+
+Le 10 novembre (J 21), une échographie est réalisée avec comme motif "gonflement total du bras et de l'avant-bras avec paralysie de la main droite".
+
+Le compte-rendu conclue: "Pas d'hématome musculaire visible, œdème sous-cutané important de l'ensemble du membre supérieur droit". Un nouvel avis neurologique est sollicité mais ne peut être obtenu. 
+
+Le 11 novembre (J 22), la fille de la patiente contacte un spécialiste d'un centre de chirurgie de la main, proche de son lieu d'exercice. Celui-ci évoque un hématome compressif du plexus brachial.
+
+Le 12 novembre (J 23), la patiente est transférée dans un autre établissement pour un avis neurologique. Il est diagnostiqué une paralysie totale du membre supérieur droit. L'écho-doppler objective "un hématome, de 4 cm de diamètre, à 3 cm de profondeur, sur 5 à 6 cm à la partie supérieure du bras". Le scanner confirme "un hématome de la partie proximale de la métaphyse humérale proximale jusqu'au tiers moyen du bras, sur 13 cm de hauteur". Il est constaté, a posteriori, que l'IRM du 9 novembre et l'échographie du 10 novembre n'a pas exploré le creux axillaire.
+
+Le 13 novembre (J 24), la patiente est admise dans un centre spécialisé en chirurgie de la main (INR : 2,5). 
+
+Le 14 novembre (J25), après "stabilisation" de l'INR, évacuation de l'hématome avec lame de drainage laissée en place. Les douleurs disparaissaient mais persiste une paralysie tri-tronculaire totale.
+
+Le 17 novembre (J 28), retour à domicile sous Lovenox. Le 3 décembre 2015, arrêt du Lovenox après reprise des AVK.
+
+Lors de l'expertise (décembre 2016), La patiente se plaint d'une lourdeur du bras et de l'avant-bras avec une "sensation de pierre de la main". Des douleurs sont toujours présentes, plus ou moins bien calmées par le Lyrica. Elle ne peut s'habiller, ni prendre une douche seule. Elle ne peut plus écrire, ni conduire, ni faire le ménage (elle est droitière). Jusqu’en mars 2016, elle est traitée par antidépresseurs. A l'examen, il existe une atteinte motrice et sensitive du plexus brachial droit avec un début de récupération de flexion et d'extension de l'avant-bras sur le bras, très incomplète. Absence de mouvement au niveau de la main et des doigts. 
+
+Saisine de la Commission de Conciliation et d'Indemnisation (CCI) (février 2016) par la patiente pour obtenir réparation du préjudice subi.

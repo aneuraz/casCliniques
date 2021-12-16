@@ -1,0 +1,81 @@
+T1	irrelevant 0 8;10 475	Contexte  Les lésions et affections des os sésamoïdes du gros orteil sont rares et passent facilement inaperçues, ou font l’objet d’une mauvaise appréciation. Les dislocations d’origine traumatique des sésamoïdes du gros ­orteil sont quant à elles rares parmi ce type de lésions, tandis que les fractures des os métatarsiens constituent les principales fractures de l’avant-pied. Elles sont généralement provoquées par un traumatisme ­direct ou par des forces de torsion [1].
+T2	irrelevant 477 1458	Les sésamoïdes se nichent dans les tendons à proximité de nombreuses articulations (genou, carpe, pouce, gros orteil). Ils servent à protéger les tendons et augmentent leur effet mécanique. Les deux plus grands os sésamoïdes du pied humain se trouvent au niveau plantaire dans la région de la première articulation métatarso-phalangienne. Ils se situent dans le tendon du muscle court fléchisseur de l’hallux et sont impliqués dans l’absorption des chocs, la réduction des frottements, et la protection du tendon du muscle long fléchisseur de l’hallux. Les sésamoïdes sont donc d’une grande importance pour la mécanique de l’avant-pied. Toutefois, en raison de leur situation exposée, ils sont particulièrement sujets aux blessures et à la une sollicitation chronique excessive. L’os sésamoïde médial (tibial) est plus souvent blessé que le latéral (fibulaire) car il est plus ­exposé. L’ensemble du complexe hallux-sésamoïde est impliqué dans environ 9% des blessures au pied [2].
+T3	disorder 1514 1540	 lésion rare du sésamoïde 
+T4	disorder 1565 1584	traumatisme du pied
+T5	disorder 1961 2011	fortes ­douleurs dans la région du milieu du pied 
+T6	disorder 2046 2052	plaies
+T7	disorder 2071 2080	contusion
+T8	disorder 2288 2368	plaie contuse au ­niveau de l’articulation métatarso-phalangienne du gros orteil
+T9	disorder 2416 2509	plaie contuse se trouvait au niveau plantaire dans la région des têtes métatarsiennes II à V.
+T10	procedure 2700 2739	 radiographies conventionnelles du pied
+T11	disorder 2770 2828	 fractures des diaphyses de l’ensemble des os métatarsiens
+T12	disorder 2842 2851	fracture 
+T13	disorder 2941 2950	 fracture
+T14	disorder 2874 2891	plurifragmentaire
+T15	disorder 3107 3160	fracture distale de la diaphyse de l’os métatarsien V
+T16	disorder 3216 3251	atteinte articulaire des phalanges 
+T17	disorder 3290 3332	Radiographie conventionnelle préopératoire
+T18	disorder 3425 3471	Traumatisme grave du pied gauche par contusion
+T19	disorder 3474 3548	Fracture ouverte de second degré de la diaphyse des os métatarsiens I à V 
+T20	disorder 3633 3639	plaies
+T21	disorder 3779 3797	fractures ouvertes
+T22	procedure 3821 3833	débridement 
+T23	procedure 3845 3885	ostéosynthèse des os métatarsiens I à IV
+T24	disorder 3890 3935	fracture de la diaphyse de l’os métatarsien I
+T25	procedure 3946 3967	 plaque quart de tube
+T26	disorder 3973 4010	fractures des os métatarsiens II à IV
+T27	procedure 4037 4070	fils de Kirschner endomédullaires
+T28	procedure 4096 4129	fils de Kirschner endomédullaires
+T29	procedure 4131 4159	radiographie conventionnelle
+T30	disorder 4292 4324	 fracture de l’os métatarsien V 
+T31	disorder 4352 4380	traumatismes des tissus mous
+T32	procedure 4446 4460	ostéosynthèse 
+T33	procedure 4501 4510	opération
+T34	disorder 4556 4583	décollement des tissus mous
+T35	disorder 4589 4596	plaies 
+T36	procedure 4604 4631	refermées de façon primaire
+T37	disorder 4637 4674	imperfection superficielle résiduelle
+T38	disorder 4730 4745	Plaie plantaire
+T39	procedure 4752 4763	débridement
+T40	procedure 4767 4786	fermeture ­primaire
+T41	disorder 4941 4959	syndrome des loges
+T42	procedure 4971 4980	opération
+T43	labvalue 5102 5110	24 mm Hg
+T44	procedure 5018 5050	pression ­mesurée dans les loges
+T45	labvalue 5057 5064	normale
+T46	drugs 5182 5223	traitement antibiotique par amoxicilline 
+T47	drugs 5226 5244	acide clavulanique
+T48	procedure 5348 5359	débridement
+T49	procedure 5471 5515	 immobilisation du pied au niveau du mollet 
+T50	drugs 5626 5693	 prophylaxie antithrombotique par héparine de bas poids moléculaire
+T51	procedure 5762 5803	 contrôles radiologiques postopératoires 
+T52	procedure 5713 5742	contrôles étroits de la plaie
+T53	procedure 5376 5391	hospitalisation
+T54	procedure 5863 5878	contrôle annuel
+T55	disorder 5907 5978	troubles persistants dans la région distale des os métatarsiens I et II
+T56	disorder 5994 6033	douleur à la pression du côté plantaire
+T57	disorder 6039 6047	douleurs
+T58	drugs 6093 6103	analgésie 
+T59	procedure 6209 6227	tomodensitométrie 
+T60	procedure 6228 6232	TDM)
+T61	disorder 6338 6388	pseud­arthrose symptomatique de l’os métatarsien I
+T62	procedure 6392 6437	extraction de la plaque métallique quart tube
+T63	procedure 6499 6514	 spongioplastie
+T64	disorder 6585 6610	pseudarthrose infectieuse
+T65	procedure 6651 6676	prélèvement d’échantillon
+T66	drugs 6683 6706	traitement antibiotique
+T67	procedure 6735 6761	contrôle de suivi clinique
+T68	procedure 6765 6777	radiologique
+T69	disorder 6850 6859	 troubles
+T70	disorder 6870 6879	douleurs 
+T71	disorder 7047 7055	douleur 
+T72	procedure 7164 7176	TDM du pied 
+T73	disorder 7304 7373	dislocation du sésamoïde fibulaire en direction proximale et latérale
+T74	disorder 7505 7538	dislocation latérale du sésamoïde
+T75	procedure 7562 7584	résection chirurgicale
+T76	procedure 7610 7619	opération
+T77	disorder 7729 7749	cicatrice plantaire 
+T78	procedure 7963 7980	tomodensitométrie
+T79	procedure 8151 8178	contrôle clinique de suivi 
+T80	disorder 8452 8470	sésamoïde disloqué
+T81	irrelevant 8562 8572;8574 8793;8795 9543;9545 9962;9964 10399;10401 11228;11230 11258;11260 11650;11652 11939;11941 12287	Discussion  En raison de leur rareté, les lésions des os sésamoïdes peuvent facilement passer inaperçues. La dislocation traumatique d’un ou des deux sésamoïdes du pied, en particulier, constitue un événement particulièrement rare.  Les recherches dans la littérature ne révèlent que des exemples de cas isolés qui font état aussi bien du traitement conservateur que du traitement chirurgical [3]. Le traitement conservateur comprend l’immobilisation et l’analgésie, accompagnée de rembourrages, allant jusqu’aux semelles orthopédiques. Le traitement chirurgical consiste en la résection du sésamoïde touché. Des alternatives telles que le repositionnement et la fixation ne sont pas décrites. Dans notre cas, le procédé chirurgical était assurément justifié en raison de la longue anamnèse de douleur et du traitement conservateur sans succès. Cela s’est d’ailleurs vérifié rétrospectivement de manière saisissante par la disparition des douleurs suite à l’opération de résection.  La pose du diagnostic de sésamoïde disloqué a été ­retardée. Rétrospectivement, la lésion était décelable dès les premières radiographies. Toutefois, la pseudarthrose symptomatique clairement reconnaissable se trouvait au premier plan et a été traitée chirurgicalement avec succès. Cependant, cela souligne que la compréhension globale du profil de lésion est indispensable pour un traitement adéquat réalisé à temps.  Les problèmes des sésamoïdes du gros orteil ont un ­caractère critique en ce qui concerne la pleine performance et l’aptitude à marcher car ils sont, comme mentionné en introduction, d’une importance capitale pour la mécanique de l’avant-pied [4]. Ces lésions trompeuses doivent être recherchées délibérément et représentées de façon ciblée lors des examens d’imagerie. C’est le seul moyen pour les traiter à temps et de façon adaptée.  L’indication de résection d’un ou des deux sésamoïdes est occasionnellement posée lors des opérations d’hallux valgus, et plus rarement lors d’inflammations chroniques, de pseudarthroses ou de nécroses avasculaires (NAV). Un accès dorso-latéral est à privilégier par rapport à l’accès plantaire lors de la résection du sésamoïde fibulaire. En cas d’accès plantaire, le faisceau neurovasculaire et le tendon du muscle long fléchisseur de l’hallux doivent être représentés par imagerie. Les cicatrices plantaires douloureuses sont problématiques, c’est pourquoi il convient d’éviter au maximum ces accès [5]. Dans notre cas, nous avons tout de même choisi l’accès plantaire du fait de la cicatrice préexistante. En outre, en raison de la dislocation proximale, le sésamoïde n’aurait pas été atteignable via l’accès dorso-latéral.  L’essentiel pour la pratique  • Les lésions des os sésamoïdes dans le cadre de traumatismes graves du pied sont rares. Si elles ne sont pas décelées correctement et traitées de façon adéquate, elles peuvent toutefois avoir des conséquences invalidantes pour les victimes. Des examens d’imagerie ciblés ainsi que la compréhension globale du profil de lésion sont donc essentiels pour un traitement adapté réalisé à temps.  • Les sésamoïdes jouent un rôle central pour une course du tendon sans frottement lors du mouvement de roulement du pied. Des lésions graves de ces minuscules os peuvent entraîner d’importantes limitations de mouvement et des douleurs chroniques lors de la sollicitation de l’avant-pied.  • Si une relation de causalité avec une pathologie ou lésion du sésamoïde est cliniquement vraisemblable, il est en principe possible d’envisager la résection du sésamoïde (fibulaire). Un accès dorsal doit être privilégié par rapport à un accès plantaire, car les cicatrices au niveau de la plante doivent dans la mesure du possible être évitées.

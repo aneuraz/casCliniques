@@ -1,0 +1,55 @@
+T1	procedure 71 87	 ­bilan de santé
+T2	disorder 111 190	hypertension ­artérielle contrôlée par un inhibiteur de l’enzyme de conversion 
+T3	risk 223 249	4 verres d’alcool par jour
+T4	disorder 281 307	vomissements alimentaires 
+T5	disorder 313 323	 diarrhées
+T6	risk 475 514	urpoids («body mass index» 28,0 kg/m2) 
+T7	labvalue 599 625	thrombocytopénie à 64 G/l 
+T8	procedure 918 937	ultrason abdominal 
+T9	labvalue 957 1002	hyper­splénisme ou un dysmorphisme hépatique.
+T10	procedure 1088 1127	Examen microscopique du frottis sanguin
+T11	procedure 1132 1166	Ponction/biopsie de moelle osseuse
+T12	procedure 1170 1212	 Détection des anticorps anti-PF4/héparine
+T13	procedure 1217 1254	Recherche d’une mutation du gène JAK2
+T14	labvalue 1423 1452	 thrombopénie immune primaire
+T15	disorder 1457 1504	 thrombocytopénies induites par les médicaments
+T16	disorder 1512 1547	thrombocytopénies para-infectieuses
+T17	labvalue 1595 1634	compte plaquettaire inférieur à 150 G/l
+T18	labvalue 1662 1691	très légère entre 150–100 G/l
+T19	labvalue 1693 1716	légère entre 100–50 G/l
+T20	labvalue 1718 1741	modérée entre 50–20 G/l
+T21	labvalue 1745 1782	sévère en dessous de 20 G/l [1, 2, 4]
+T22	procedure 1809 1832	l’hémogramme automatisé
+T23	procedure 2968 2992	 formule sanguine simple
+T24	procedure 3158 3162	EDTA
+T25	drugs 3802 3816	’anticoagulant
+T26	drugs 4082 4106	chélation d’ions calcium
+T27	procedure 4582 4610	satellisation des plaquettes
+T28	procedure 4980 5009	 Frottis de sang périphérique
+T29	procedure 5160 5193	Coloration de May-Grünwald-Giemsa
+T30	procedure 5239 5253	Les automates 
+T31	disorder 6315 6324	leucémies
+T32	disorder 6326 6335	lymphomes
+T33	disorder 6337 6367	néoplasies myéloprolifératives
+T34	disorder 6369 6420	syndromes myélodysplasiques ou aplasies médullaires
+T35	disorder 7097 7148	nécroses cutanées et des infarcissements d’organes.
+T36	disorder 7348 7410	mutations du gène de la tyrosine kinase ­Janus kinase 2 (JAK2)
+T37	disorder 7486 7525	 maladie de Vaquez (polycythémie vraie)
+T38	disorder 7529 7585	 thrombocytémie essentielle et la myélofibrose primitive
+T39	procedure 7924 7979	 sérologies pour le virus de l’immunodéficience humaine
+T40	procedure 7984 8005	virus de l’hépatite C
+T41	disorder 8113 8142	 thrombopénie immune primaire
+T42	disorder 8292 8315	Causes médicamenteuses:
+T43	drugs 8331 8344	bêta-lactames
+T44	drugs 8346 8356	sulfamidés
+T45	drugs 8358 8369	vancomycine
+T46	drugs 8387 8422	Héparines et héparines fractionnées
+T47	drugs 8440 8478	(carbamazépine, phénytoïne, valproate)
+T48	drugs 8497 8506	sels d’or
+T49	drugs 8527 8536	abciximab
+T50	drugs 8588 8598	lisinopril
+T51	drugs 8616 8636	aténolol, métoprolol
+T52	drugs 8805 8840	zinc, cuivre, vitamine B12, folates
+T53	risk 8859 8865	Alcool
+T54	drugs 8665 8701	carboplatin, cisplatine, gemcitabine
+T55	drugs 8638 8648	Amiodarone

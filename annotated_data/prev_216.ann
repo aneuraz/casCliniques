@@ -1,0 +1,16 @@
+T1	irrelevant 14 211	En septembre 2015, un enfant âgé de 6 ans qui a eu de mauvaises expériences avec les dentistes est pris en charge par un praticien exerçant à titre de collaborateur libéral chez un de ses confrères
+T2	procedure 242 256	radiographies 
+T3	disorder 322 357	caries sur quatre dents temporaires
+T4	procedure 385 408	avulsion de la dent 84 
+T5	disorder 631 648	abcès sur la dent
+T6	procedure 851 861	pulpotomie
+T7	procedure 863 888	met en place un composite
+T8	disorder 1091 1102	convulsions
+T9	disorder 1134 1146	maux de tête
+T10	disorder 1204 1221	perd connaissance
+T11	disorder 1192 1200	délirant
+T12	procedure 1378 1395	abcès est drainé 
+T13	procedure 1510 1537	avulsion des dents 84 et 85
+T14	procedure 1543 1584	curetage d’un granulome inférieur à 2 cm 
+T15	procedure 1600 1609	avulsion 
+T16	irrelevant 1629 1713	Les parents de l'enfant réclament l'indemnisation des préjudices subis par leur fils

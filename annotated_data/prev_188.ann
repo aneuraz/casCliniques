@@ -1,0 +1,116 @@
+T1	procedure 42 63	traitée au long cours
+T2	disorder 85 88	HTA
+T3	drugs 93 100	Sopropl
+T4	procedure 103 115	bêtabloquant
+T5	drugs 142 149	Aldalix
+T6	procedure 152 213	association d'un diurétique thiazidique et d'une spirolactone
+T7	disorder 258 283	insuffisance thyroïdienne
+T8	drugs 288 298	Lévothyrox
+T9	drugs 314 322	Euthyrol
+T10	procedure 365 373	natrémie
+T11	labvalue 379 389	139 mmol/l
+T12	procedure 394 402	kaliémie
+T13	labvalue 405 416	3,1 mmol/l 
+T14	procedure 422 438	réserve alcaline
+T15	labvalue 441 450	36 mmol/l
+T16	disorder 655 665	subfébrile
+T17	disorder 632 651	légèrement fatiguée
+T18	procedure 673 681	consulte
+T19	profession 838 854	médecin traitant
+T20	procedure 914 929	examen clinique
+T21	procedure 954 970	bilan biologique
+T22	procedure 973 981	natrémie
+T23	labvalue 984 994	137 mmol/l
+T24	procedure 997 1019	kaliémie non prescrite
+T25	procedure 1022 1039	TSH ultrasensible
+T26	labvalue 1040 1051	<0,03 µU/ml
+T27	procedure 1067 1075	T4 libre
+T28	labvalue 1078 1088	22.0 pg/ml
+T29	procedure 1103 1106	NFS
+T30	labvalue 1107 1114	normale
+T31	procedure 1117 1119	VS
+T32	labvalue 1121 1126	90 mm
+T33	procedure 1144 1147	CRP
+T34	labvalue 1150 1159	23,2 mg/l
+T35	procedure 1161 1170	ASAT/ALAT
+T36	labvalue 1172 1184	721/823 UI/l
+T37	drugs 1279 1289	Lévothyrox
+T38	procedure 1260 1276	diminue la dose 
+T39	drugs 1315 1322	Aldalix
+T40	disorder 1363 1381	hypertransaminémie
+T41	procedure 1387 1412	sérologie de l'hépatite B
+T42	procedure 1430 1457	recherche de l'antigène HBs
+T43	labvalue 1462 1471	positive 
+T44	procedure 1484 1502	anticorps anti-HBc
+T45	procedure 1506 1514	anti-HBs
+T46	labvalue 1515 1523	négative
+T47	labvalue 1559 1563	posé
+T48	procedure 1592 1610	anticorps anti-HVC
+T49	labvalue 1627 1635	négative
+T50	procedure 1767 1770	CRP
+T51	labvalue 1772 1780	6,5 mg/l
+T52	procedure 1789 1802	transaminases
+T53	procedure 1803 1812	ASAT/ALAT
+T54	labvalue 1814 1819	37/30
+T55	labvalue 1853 1860	normale
+T56	disorder 1974 1982	asthénie
+T57	disorder 2015 2038	impotence fonctionnelle
+T58	procedure 2161 2182	rejette le diagnostic
+T59	disorder 2185 2208	impotence fonctionnelle
+T60	disorder 2221 2241	faiblesse musculaire
+T61	disorder 2452 2475	pathologie thyroïdienne
+T62	procedure 2399 2428	attribue le tableau clinique 
+T63	disorder 2486 2497	arthralgies
+T64	disorder 2516 2526	hépatite B
+T65	procedure 2544 2566	traitement corticoïde 
+T66	procedure 2566 2577	antalgique 
+T67	drugs 2589 2599	Solumédrol
+T68	procedure 2603 2620	 intra-musculaire
+T69	procedure 2878 2887	injection
+T70	drugs 2891 2900	Solumédol
+T71	procedure 3083 3103	appel à SOS-Médecins
+T72	procedure 3108 3125	diagnostic retenu
+T73	disorder 3142 3161	atteinte musculaire
+T74	disorder 3184 3200	trouble cognitif
+T75	disorder 3211 3231	déficit neurologique
+T76	procedure 3237 3262	hospitalisation d'urgence
+T77	procedure 3365 3373	examinée
+T78	profession 3381 3399	médecin urgentiste
+T79	procedure 3413 3432	dossier d'admission
+T80	disorder 3576 3599	impotence fonctionnelle
+T81	profession 3700 3718	médecin urgentiste
+T82	disorder 3635 3649	fausses routes
+T83	procedure 3731 3747	bilan biologique
+T84	procedure 3756 3768	hospitaliser
+T85	procedure 3808 3824	bilan biologique
+T86	procedure 3842 3860	ionogramme sanguin
+T87	procedure 3907 3919	hypokaliémie
+T88	labvalue 3930 3940	1,1 mmol/l
+T89	disorder 4085 4110	difficultés respiratoires
+T90	procedure 4115 4118	ECG
+T91	labvalue 4143 4169	allongement de l'espace QT
+T92	procedure 4174 4197	second dosage confirme 
+T93	procedure 4220 4228	kaliémie
+T94	labvalue 4205 4213	très bas
+T95	procedure 4279 4305	voie veineuse périphérique
+T96	procedure 4258 4263	 pose
+T97	procedure 4309 4329	 apport de potassium
+T98	drugs 4370 4379	potassium
+T99	procedure 4399 4409	administré
+T100	drugs 4433 4442	potassium
+T101	procedure 4527 4536	perfusion
+T102	disorder 4550 4575	arrêt cardio-circulatoire
+T103	procedure 4580 4602	réanimation entreprise
+T104	procedure 4604 4621	massage cardiaque
+T105	procedure 4623 4647	intubation oro-trachéale
+T106	procedure 4653 4673	ventilation assistée
+T107	procedure 4675 4689	administration
+T108	drugs 4692 4702	adrénaline
+T109	procedure 4704 4722	perfusion de sérum
+T110	drugs 4723 4735	bicarbonaté)
+T111	procedure 4746 4778	restauration du rythme cardiaque
+T112	procedure 4788 4790	PA
+T113	labvalue 4793 4803	95/60 mmHg
+T114	disorder 4813 4817	coma
+T115	procedure 4828 4853	Transférée en réanimation
+T116	procedure 4867 4901	récupère une ventilation spontanée

@@ -1,0 +1,27 @@
+Gestion du risque
+
+Erreurs : 
+
+Il est fait grief au généraliste d'avoir réalisé un ECG difficilement interprétable.
+
+=> Défaut d'organisation
+
+ou
+
+=> Défaut d'acquisition de connaissance
+
+Il est difficile de trancher pour les raisons de cette mauvaise qualité : Difficultés techniques d'enregistrement ? ou difficultés d'interprétation par le généraliste ?
+
+Le généraliste aurait du renouveler les examens complémentaires, pour confirmer le diagnostic.
+
+=> Défaut d'organisation 
+
+ou
+
+=> Défaut d'activation de connaissance
+
+Là aussi, difficile de trancher : pas de système d'alerte dans le dossier du patient pour souligner la nécessité de renouveler l'examen ? ou oubli que les signes ECG peuvent parfois être retardés de quelques heures ?
+
+Le généraliste aurait du évoquer la nécessité de recourir rapidement à un avis spécialisé. 
+
+=> Défaut d'organisation 

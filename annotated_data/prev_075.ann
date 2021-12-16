@@ -1,0 +1,32 @@
+T1	disorder 76 101	cardiopathie hypertensive
+T2	disorder 76 115	cardiopathie hypertensive et ischémique
+T3	disorder 76 138	cardiopathie hypertensive et ischémique avec arythmie complète
+T4	disorder 76 167	cardiopathie hypertensive et ischémique avec arythmie complète par fibrillation auriculaire
+T5	drugs 221 236	Préviscan 20 mg
+T6	drugs 296 305	Lopril 25
+T7	drugs 326 333	Amlor 5
+T8	drugs 345 356	Temerit 5mg
+T9	drugs 365 372	Lasilix
+T10	disorder 391 400	Aldactone
+T11	irrelevant 442 589	Cette patiente était décrite comme une personne active, tout à fait autonome, conduisant sa voiture et ayant de nombreuses activités associatives. 
+T12	disorder 647 674	hématome de la jambe droite
+T13	drugs 757 764	Lovenox
+T14	procedure 1001 1028	4 numérations plaquettaires
+T15	drugs 738 741	AVK
+T16	labvalue 1128 1137	INR à 1,1
+T17	labvalue 1299 1310	INR est à 3
+T18	drugs 1239 1248	Préviscan
+T19	disorder 3239 3248	céphalées
+T20	disorder 3288 3300	vomissements
+T21	disorder 5073 5091	lenteur idéatoire 
+T22	disorder 4948 5005	diminution de la force musculaire segmentaire du MS droit
+T23	disorder 4360 4368	aphasie 
+T24	disorder 4373 4409	troubles modérés de la compréhension
+T25	disorder 4433 4460	ralentissement psychomoteur
+T26	disorder 4360 4428	aphasie avec troubles modérés de la compréhension et de l’expression
+T27	disorder 4466 4495	hémiparésie droite partielle 
+T28	disorder 4466 4538	hémiparésie droite partielle prédominant en proximal aux MS et MI droits
+T29	drugs 3693 3706	anticoagulant
+T30	drugs 3756 3759	AVK
+T31	procedure 3467 3488	examen scanographique
+T32	labvalue 3504 3592	importante hémorragie méningée avec contamination de tous les espaces sous-arachnoïdiens

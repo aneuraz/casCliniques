@@ -1,0 +1,107 @@
+Description du cas
+
+La patiente âgée de 46 ans jusqu’à présent saine s’est présentée à notre service d’urgence en raison d’une dyspnée progressive depuis trois jours. Du fait d’une infection urinaire, la patiente avait préalablement été traitée pendant quatre jours par nitrofurantoïne. La prise du médicament a été arrêtée un jour avant l’hospitalisation. Environ trois ans auparavant, la patiente avait déjà été traitée par nitrofurantoïne de manière prophylactique pendant six mois en raison d’infections urinaires récidivantes. A l’époque, le médicament avait été parfaitement toléré. A l’admission, la patiente présentait un état général réduit, était subfébrile (température 37,8°C) et tout juste stable au niveau hémodynamique (fréquence cardiaque 123/min, pression artérielle 109/66 mm Hg). Elle était tachypnéique avec une fréquence respiratoire de 35/min et la mesure de la saturation périphérique en oxygène affichait 85% en air ambiant. L’examen corporel était normal. En particulier, l’auscultation pulmonaire n’a indiqué aucune anomalie et la patiente était en compensation cardiaque. Les analyses de laboratoire ont révélé des paramètres inflammatoires accrus (leucocytose 18,1 G/l et CRP 116 mg/l). L’hémogramme différentiel a mis en évidence une neutrophilie, mais également une éosinophilie significative avec 900 éosinophiles/µl. Le statut urinaire était normal. La gazométrie artérielle a détecté une insuffisance respiratoire partielle avec une pO2 de 7,6 kPa. Des opacités réticulaires prononcées au niveau basal étaient visibles à la radiographie conventionnelle des poumons (fig. 1).
+
+Figure 1: Radiographie thoracique conventionnelle avec opacités réticulaires au niveau basal.
+
+Question 1: Quel diagnostic différentiel semble être le moins probable à l’heure actuelle?
+
+
+a) Pneumonie bactérienne
+
+b) Pneumopathie toxique aiguë d’origine médicamenteuse
+
+c) Lymphangite carcinomateuse
+
+d) Infection à SARS-CoV-2
+
+e) Insuffisance cardiaque
+
+Au vu de l’anamnèse relativement brève de la patiente préalablement saine, une genèse infectieuse ou toxique aiguë nous semblait initialement être le principal diagnostic différentiel. Nous avons envisagé une insuffisance cardiaque du point de vue diagnostique, celle-ci semblait toutefois moins probable chez la patiente en compensation cardiaque clinique. L’anamnèse et l’examen clinique n’ont fourni aucune indication d’une lymphangite carcinomateuse.
+
+En présence d’une suspicion de pneumonie atypique, un traitement antibiotique empirique par ceftriaxone et clarithromycine a été initié. Vu la détérioration de son état général et la nette hypoxémie, la patiente a été admise au service de soins intensifs pour surveillance.
+
+Question 2: Quels examens diagnostiques entrent désormais en considération?
+
+
+a) Bronchoscopie avec lavage broncho-alvéolaire (LBA)
+
+b) Echocardiographie transthoracique
+
+c) Tomodensitométrie du thorax
+
+d) Frottis nasopharyngé à la recherche de SARS-CoV-2
+
+e) Tous les examens diagnostiques mentionnés
+
+En raison de la nette diminution de l’état général de la patiente et des résultats relativement discrets à la radiographie conventionnelle, nous avons décidé de réaliser en complément une tomodensitométrie des poumons. Celle-ci a révélé un tableau très impressionnant de pneumopathie interstitielle avec épaississement panlobulaire des septa interlobulaires et des lobules pulmonaires secondaires nettement délimités du niveau apical à basal (fig. 2). L’échocardiographie a montré une fonction cardiaque normale, permettant d’exclure le diagnostic différentiel d’une décompensation cardiaque avec stase veineuse pulmonaire.
+
+Figure 2: Tomodensitométrie du thorax sans produit de contraste (coupe axiale,
+fenêtres pulmonaires), lobule pulmonaire secondaire marqué par des flèches.
+
+Au vu de la tomodensitométrie et de l’anamnèse avec prise précédente de nitrofurantoïne, nous avons supposé une pneumopathie interstitielle toxique aiguë d’origine médicamenteuse. La patiente était initialement trop instable pour une bronchoscopie, c’est pourquoi nous avons d’abord initié un traitement stéroïdien par 50 mg/d de prednisolone. Une nette amélioration de la situation respiratoire est survenue dans les 24 heures, de sorte que la patiente a pu être transférée vers la station de soins médicaux. Une fois stabilisée deux jours après son admission, elle a été soumise à une bronchoscopie avec lavage broncho-alvéolaire.
+
+Question 3: Dans l’hémogramme différentiel, quel résultat du lavage bronchoalvéolaire est typique d’une éventuelle genèse toxique médicamenteuse de la pneumopathie interstitielle?
+
+
+a) Neutrophilie
+
+b) Augmentation du nombre total de cellules
+
+c) Coloration de Gram positive
+
+d) Eosinophilie
+
+e) LBA sanguinolent
+
+L’hémogramme différentiel du LBA a révélé une impressionnante éosinophilie de 42% (tab. 1), ce qui était parfaitement compatible avec notre diagnostic suspecté d’une genèse toxique d’origine médicamenteuse. La légère hausse des granulocytes neutrophiles n’est pas spécifique. Une nette neutrophilie dans le LBA ou une coloration de Gram positive indiqueraient plutôt un événement infectieux. Une multiplication des lymphocytes peut également survenir en cas de genèse toxique médicamenteuse. Le LBA peut produire un échantillon de plus en plus sanguinolent en cas d’hémorragie alvéolaire, pouvant être causée par une toxicité médicamenteuse, mais présentant un large diagnostic différentiel. Au vu des examens microbiologiques approfondis négatifs (agents pathogènes atypiques, virus respiratoires y compris SARS-CoV-2, Pneumocystis et bactériologie ­générale), le résultat était bien compatible avec une pneumonite toxique d’origine médicamenteuse.
+
+Tableau 1: Hémogramme différentiel du lavage broncho-alvéolaire (LBA).
+Différenciation cellulaire	Résultat	Valeurs normales
+Macrophages alvéolaires	50%	80–90%
+Granulocytes neutrophiles	7,5%	jusqu’à 3%
+Granulocytes éosinophiles	42%	jusqu’à 1%
+Lymphocytes	0,5%	jusqu’à 13%
+Question 4: Quelle est la principale mesure thérapeutique en cas d’hypothèse de pneumopathie toxique d’origine médicamenteuse?
+
+
+a) Traitement antibiotique
+
+b) Administration d’oxygène
+
+c) Traitement stéroïdien
+
+d) Arrêt immédiat de l’agent déclencheur présumé
+
+e) Intubation
+
+Chez notre patiente, nous avions déjà initié un traitement stéroïdien au vu de l’anamnèse suggestive et du résultat tomodensitométrique compatible. La bronchoscopie n’a eu lieu qu’après stabilisation sous traitement stéroïdien; malgré tout, l’éosinophilie importante pouvait encore être documentée dans le LBA. La principale mesure consiste toutefois à arrêter immédiatement la prise du médicament supposément à l’origine de la pneumotoxicité. Un traitement antibiotique peut être effectué en soutien lorsque l’évolution est sévère, afin de prévenir une surinfection bactérienne. Une oxygénothérapie était initialement nécessaire chez notre patiente du fait de l’insuffisance respiratoire partielle sévère. La détection rapide du problème a permis d’éviter l’intubation et la ventilation mécanique. Le traitement stéroïdien a été poursuivi pendant au total cinq jours, puis arrêté. Affichant une nette amélioration de son état général, la patiente a pu quitter l’hôpital au sixième jour sans oxygénothérapie. Un contrôle ambulatoire de suivi comprenant un examen de la fonction pulmonaire a peu après eu lieu en consultation de pneumologie, la patiente allait déjà beaucoup mieux du point de vue clinique. La dyspnée se manifestait seulement en cas d’effort important, comme la montée rapide des escaliers. La saturation en oxygène en air ambiant s’élevait à 97%.
+
+Question 5: Quelles restrictions sont attendues à la pléthysmographie corporelle en présence d’une pneumonite toxique d’origine médicamenteuse?
+
+
+a) Trouble ventilatoire obstructif fixe
+
+b) Trouble ventilatoire obstructif réversible
+
+c) Trouble ventilatoire restrictif et capacité réduite de diffusion du CO
+
+d) Hyperinflation pulmonaire
+
+e) Aucune des restrictions mentionnées
+
+La pneumonite toxique d’origine médicamenteuse s’accompagne typiquement d’un trouble ventilatoire restrictif et d’une diminution de la capacité de diffusion du CO. Les modifications interstitielles entraînent une réduction du volume pulmonaire et une perturbation des échanges gazeux. Un trouble ventilatoire obstructif ou une hyperinflation pulmonaire indiqueraient une BPCO ou un asthme bronchique. Chez notre patiente, la fonction pulmonaire s’était étonnamment déjà normalisée huit jours après sa sortie de l’hôpital. Il n’existait ni trouble ventilatoire restrictif, ni diminution de la capacité de diffusion du CO, ce qui correspondait bien à l’évolution clinique favorable. L’examen tomodensitométrique de suivi réalisé six semaines plus tard a lui aussi révélé une régression complète des modifications interstitielles.
+
+Discussion
+
+La nitrofurantoïne est de plus en plus utilisée comme antibiotique de premier choix en cas de simple cystite. Les directives suisses (actualisées en 2014) [1] et allemandes (directive S3 actualisée en 2017) [2] préconisent la nitrofurantoïne en première intention en se basant sur des recommandations internationales mises à jour pour la dernière fois en 2010 [3]. La toxicité pulmonaire de la nitrofurantoïne est connue depuis relativement longtemps [4] et il est attendu que son utilisation croissante s’accompagne d’une hausse des complications pulmonaires. Des données épidémiologiques ont indiqué une fréquence lors de l’exposition initiale d’environ 1:5000 patients. En cas de prise prolongée, la fréquence des symptômes respiratoires nécessitant une hospitalisation semble même être encore plus élevée, avec 1:750 patients [5]. Une toxicité aussi bien aiguë que chronique est décrite. Lorsque la problématique est détectée rapidement et la prise du médicament interrompue, la toxicité aiguë est en principe réversible et la récupération totale [6], comme dans notre cas. Il n’existe aucune évidence de qualité concernant le traitement stéroïdien, celle-ci se base sur quelques descriptions de cas. Nous ne disposons ainsi d’aucune donnée solide sur la durée et le dosage du traitement stéroïdien recommandé. Comme pour le traitement de pneumopathies interstitielles d’étiologie différente, un dosage de 0,5–1 mg/kg de poids corporel est probablement adéquat. Dans notre cas, celui-ci a été employé face à la menace d’une intubation. Nous avons administré de manière empirique 50 mg de prednisolone pendant cinq jours. Le cas a été signalé de manière anonymisée au centre national de pharmacovigilance de Swissmedic.
+
+Lorsque la nitrofurantoïne est utilisée en prévention d’infections urinaires récidivantes, des évolutions chroniques avec développement d’une fibrose pulmonaire peuvent survenir, qui ne sont plus réversibles après l’arrêt du médicament et du traitement stéroïdien [7]. Des cas d’un besoin persistant d’oxygène et quelques cas de décès ont été décrits [8]. Chez notre patiente, le médicament avait déjà été employé trois ans auparavant pendant environ six mois sans survenue de symptômes pulmonaires. Durant cette prise, une sensibilisation a probablement eu lieu, d’où l’apparition de la toxicité après seulement quatre jours.
+
+En raison des évolutions potentiellement sévères pouvant être évitées par la détection rapide et l’arrêt du médicament, il nous semble essentiel de rappeler cet effet indésirable à nos consœurs et confrères dont les patientes et patients sont atteints d’infections urinaires, afin qu’il soit envisagé et traité en conséquence en cas de survenue de troubles respiratoires. Toute réexposition doit être évitée du fait d’un risque élevé de récidive et il est important d’en informer les patientes et patients [9].
+
+Réponses:
+
+
+Question 1: c. Question 2: e. Question 3: d. Question 4: d.
+Question 5: c.

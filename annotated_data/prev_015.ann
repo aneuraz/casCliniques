@@ -1,0 +1,133 @@
+T1	drugs 79 89	Pyostacine
+T2	procedure 64 74	traitement
+T3	disorder 113 137	ulcère variqueux infecté
+T4	disorder 342 358	lésions cutanées
+T5	disorder 464 472	diarrhée
+T6	disorder 512 537	éruption maculo-papuleuse
+T7	disorder 628 645	signe de Nikolsky
+T8	disorder 728 734	prurit
+T9	disorder 751 758	lésions
+T10	disorder 784 806	atteinte des muqueuses
+T11	procedure 812 828	bilan biologique
+T12	disorder 839 861	syndrome inflammatoire
+T13	procedure 871 874	CRP
+T14	labvalue 877 885	198 mg/L
+T15	disorder 908 915	lésions
+T16	disorder 947 958	décollement
+T17	disorder 980 997	syndrome de Lyell
+T18	procedure 1010 1024	thérapeutiques
+T19	disorder 1117 1133	toxémie bulleuse
+T20	disorder 1148 1159	décollement
+T21	procedure 1210 1220	traitement
+T22	procedure 1229 1241	soins locaux
+T23	procedure 1251 1261	pansements
+T24	drugs 1305 1313	Plurexid
+T25	procedure 1580 1592	soins locaux
+T26	disorder 1598 1614	lésions cutanées
+T27	profession 1766 1782	médecin traitant
+T28	disorder 1848 1885	toxémie bulleuse post-antibiothérapie
+T29	disorder 1918 1923	obèse
+T30	disorder 1939 1951	hypertension
+T31	profession 2168 2184	médecin traitant
+T32	procedure 2312 2332	bilan allergologique
+T33	drugs 2373 2382	Augmentin
+T34	profession 2419 2426	médecin
+T35	disorder 2436 2451	bronchite aiguë
+T36	disorder 2471 2479	diarrhée
+T37	drugs 2481 2492	l’Augmentin
+T38	drugs 2517 2526	Rocéphine
+T39	drugs 2589 2597	Solupred
+T40	drugs 2635 2643	l'Oroken
+T41	drugs 2693 2702	Pulmicort
+T42	profession 2722 2738	médecin traitant
+T43	disorder 2995 3005	d'allergie
+T44	disorder 3037 3048	hypotension
+T45	disorder 3049 3059	artérielle
+T46	procedure 3078 3097	fréquence cardiaque
+T47	disorder 3111 3119	arythmie
+T48	disorder 3127 3138	hypothermie
+T49	procedure 3151 3174	auscultation pulmonaire
+T50	disorder 3188 3206	ronchus bilatéraux
+T51	procedure 3208 3222	Biologiquement
+T52	disorder 3224 3231	hypoxie
+T53	disorder 3251 3261	hypocapnie
+T54	disorder 3273 3302	syndrome inflammatoire majeur
+T55	disorder 3306 3325	insuffisance rénale
+T56	procedure 3331 3349	scanner thoracique
+T57	disorder 3361 3389	abcès pulmonaires bilatéraux
+T58	profession 3443 3461	médecin urgentiste
+T59	profession 3467 3477	infirmière
+T60	disorder 3530 3539	allergies
+T61	disorder 3540 3552	intolérances
+T62	drugs 3555 3565	Pyostacine
+T63	drugs 3568 3577	Augmentin
+T64	drugs 3594 3606	antibiotique
+T65	disorder 3580 3588	Allergie
+T66	procedure 3628 3652	observation informatisée
+T67	profession 3689 3701	l'infirmière
+T68	disorder 3724 3734	d'allergie
+T69	drugs 3740 3752	antibiotique
+T70	procedure 3793 3812	tension artérielle 
+T71	procedure 3827 3847	fréquence cardiaque 
+T72	procedure 3859 3870	température
+T73	procedure 3881 3885	SaO2
+T74	procedure 3903 3921	tension artérielle
+T75	procedure 3936 3955	fréquence cardiaque
+T76	procedure 3992 4021	prélèvements bactériologiques
+T77	drugs 4047 4056	Rocéphine
+T78	drugs 4061 4071	Pyostacine
+T79	disorder 4164 4175	hypotension
+T80	disorder 4190 4194	rash
+T81	procedure 4258 4276	tension artérielle
+T82	drugs 4298 4311	noradrenaline
+T83	procedure 4313 4317	SaO2
+T84	drugs 4340 4349	d'oxygène
+T85	drugs 4361 4372	Tazocilline
+T86	drugs 4377 4383	Zyvoxi
+T87	disorder 4448 4458	phlyctènes
+T88	disorder 4514 4529	état infectieux
+T89	disorder 4551 4567	lésions cutanées
+T90	disorder 4583 4592	bulleuses
+T91	disorder 4601 4610	exanthème
+T92	disorder 4617 4640	signe Nikolsky positif.
+T93	procedure 4659 4669	traitement
+T94	profession 4698 4710	dermatologue
+T95	labvalue 4727 4759	Staphyloccocus sp multi-sensible
+T96	procedure 4769 4781	hémocultures
+T97	labvalue 4817 4839	Pseudomonas aeruginosa
+T98	disorder 4914 4930	ulcère variqueux
+T99	procedure 4878 4889	prélèvement
+T100	disorder 4974 4980	brûlés
+T101	disorder 5012 5028	lésions cutanées
+T102	disorder 5082 5100	Etat de choc mixte
+T103	disorder 5113 5132	choc anaphylactique
+T104	drugs 5138 5148	Pyostacine
+T105	disorder 5166 5179	choc septique
+T106	disorder 5200 5217	abcès pulmonaires
+T107	disorder 5309 5316	confuse
+T108	procedure 5358 5376	tension artérielle
+T109	drugs 5402 5415	noradrénaline
+T110	disorder 5469 5501	Epidermolyse nécrosante suraiguë
+T111	disorder 5507 5525	décollement cutané
+T112	disorder 5552 5573	Nécrolyse épidermique
+T113	disorder 5614 5620	brûlée
+T114	procedure 5657 5667	traitement
+T115	drugs 5672 5683	Tazocilline
+T116	drugs 5688 5695	Zyvoxid
+T117	drugs 5730 5741	antalgiques
+T118	disorder 5771 5782	décollement
+T119	disorder 5830 5837	lésions
+T120	disorder 5928 5955	défaillance multi-viscérale
+T121	disorder 5965 5988	hypotension artérielle 
+T122	disorder 6015 6023	arythmie
+T123	disorder 6028 6052	fibrillation auriculaire
+T124	disorder 6060 6066	anurie
+T125	disorder 6076 6102	insuffisance respiratoire 
+T126	disorder 6106 6129	encombrement bronchique
+T127	disorder 6131 6136	Décès
+T128	procedure 6174 6221	réanimation cardio-circulatoire et respiratoire
+T129	profession 6239 6255	médecin traitant
+T130	profession 6391 6407	médecin traitant
+T131	disorder 6441 6451	l'allergie
+T132	drugs 6463 6473	Pyostacine
+T133	disorder 6602 6612	d'allergie

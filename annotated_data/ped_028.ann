@@ -1,0 +1,59 @@
+T1	procedure 157 165	biologie
+T2	procedure 201 230	syndrome inflammatoire modéré
+T3	procedure 232 235	CRP
+T4	labvalue 238 245	30 mg/l
+T5	procedure 268 284	hyperleucocytose
+T6	labvalue 286 299	15 300 GB/mm3
+T7	disorder 474 480	fièvre
+T8	disorder 484 496	vomissements
+T9	disorder 544 558	perte de poids
+T10	disorder 581 609	altération de l’état général
+T11	disorder 703 713	asthénique
+T12	disorder 783 794	dénutrition
+T13	procedure 883 898	 bilan hépatiqu
+T14	procedure 901 923	échographie abdominale
+T15	procedure 924 968	 endoscopie digestive et biopsies duodénales
+T16	procedure 995 1013	sérologies virales
+T17	procedure 1017 1029	immunitaires
+T18	procedure 1043 1054	fond d’oeil
+T19	disorder 1134 1152	 fièvre permanente
+T20	disorder 1157 1181	 intolérance alimentaire
+T21	disorder 1217 1236	céphalées nocturnes
+T22	procedure 1250 1267	tomodensitométrie
+T23	disorder 1294 1368	image de 16 mm de diamètre à contours flous avec réhaussement périphérique
+T24	disorder 1512 1517	abcès
+T25	procedure 1533 1551	 ponction lombaire
+T26	labvalue 1564 1596	liquide clair mais inflammatoire
+T27	labvalue 1603 1627	257 éléments nucléés/mm3
+T28	labvalue 1633 1644	40 % de PNN
+T29	labvalue 1646 1665	39 % de lymphocytes
+T30	labvalue 1667 1684	18 % de monocytes
+T31	labvalue 1686 1704	3 % de plasmocytes
+T32	procedure 1706 1722	L’examen direct 
+T33	labvalue 1726 1733	négatif
+T34	procedure 1741 1749	cultures
+T35	labvalue 1750 1758	stériles
+T36	procedure 1763 1777	protéinorachie
+T37	labvalue 1784 1793	1,38 g/l 
+T38	labvalue 1813 1821	1,1 mM/L
+T39	procedure 1799 1810	glycorachie
+T40	procedure 1827 1842	antibiothérapie
+T41	procedure 1891 1909	IRM de l’encéphale
+T42	procedure 1919 1925	moelle
+T43	disorder 1953 1959	lésion
+T44	procedure 2232 2256	 injection de gadolinium
+T45	irrelevant 2257 2894	 Figure 1 et 2. Figure 1. IRM de l’encéphale et de la moelle confirmant la présence d’une lésion située entre les hémisphères cérébelleux, en arrière et en-dessous du vermis, en hyposignal T1. Figure 2. IRM de l’encéphale et de la moelle confirmant la présence d’une lésion située entre les hémisphères cérébelleux, modérément hétérogène en hypersignal T2. Quels diagnostics évoquez-vous ? L’aspect de l’IRM fait évoquer le diagnostic de malformation de la fosse postérieure et l’examen minutieux du scalp retrouve en effet une petite tuméfaction strictement médiane sans pertuis, mesurant moins de 1 cm de diamètre sur 1 mm d’épaisseur.
+T46	disorder 2916 2922	fièvre
+T47	disorder 2928 2956	altération de l’état général
+T48	procedure 2985 3010	7 jours d’antibiothérapie
+T49	procedure 3015 3041	 exérèse neurochirurgicale
+T50	procedure 3075 3090	volet occipital
+T51	disorder 3114 3133	 volumineuse lésion
+T52	procedure 3273 3280	exérèse
+T53	procedure 3315 3341	examen anatomopathologique
+T54	disorder 3368 3387	 formation kystique
+T55	disorder 3624 3641	kyste épidermique
+T56	disorder 3680 3700	 méningite aseptique
+T57	procedure 3711 3726	bactériologique
+T58	labvalue 3742 3749	négatif
+T59	irrelevant 3863 5433	Les kystes épidermoïdes et dermoïdes, décrits aussi dans la littérature sous le terme de « tumeurs perlées », sont des malformations qui rendent compte de 0,3 à 1,8 % selon les séries de tous les processus expansifs intracrâniens. Largement décrits chez l’adulte, leur âge de révélation habituel est autour de 50 ans. Ces lésions malformatives résultent de l’inclusion de cellules de l’ectoderme primitif séquestré au cours de la fermeture du tube neural et sont retrouvées tout le long de la ligne médiane, le plus souvent dans la région lombosacrée, lieu de fermeture terminale du tube neural. De façon beaucoup plus exceptionnelle, les kystes peuvent se trouver au niveau de la fosse postérieure, de l’angle ponto-cérébelleux (figure 3) ou du vermis. Figure 3. Kyste de l’angle ponto-cérébelleux. La présentation clinique est variée, le kyste pouvant être de découverte fortuite ou révélé par une complication infectieuse comme une méningite bactérienne, un abcès ou par une hypertension intracrânienne (figure 4). Figure 4. Volumineux kyste épidermoïde révélé par une hypertension intracrânienne (HIC). Le germe le plus fréquemment retrouvé dans les abcès sur kyste dermoïde ou épidermoïde est le staphylocoque aureus, puis viennent les bacilles Gram négatif (E. Coli, B. fragilis, Proteus species, Klebsiella species). Une réaction cellulaire aseptique, telle qu’observée ici, constitue très rarement un mode de révélation. Elle correspond probablement à une réaction au contact des substances pro-inflammatoires lipidiques contenues dans le kyste, souvent fissuré.

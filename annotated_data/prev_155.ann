@@ -1,0 +1,13 @@
+T1	procedure 135 167	chirurgie osseuse et implantaire
+T2	disorder 352 359	anxieux
+T3	drugs 400 405	MEOPA
+T4	procedure 379 398	sédation consciente
+T5	procedure 447 484	comblement de sinus maxillaire gauche
+T6	procedure 605 639	pansement chirurgical hémostatique
+T7	disorder 838 846	douleurs
+T8	procedure 874 898	radiographie panoramique
+T9	procedure 959 981	rinçages à l’eau salée
+T10	disorder 1035 1043	sinusite
+T11	procedure 1068 1090	poursuite des rinçages
+T12	procedure 1165 1194	radiographie rétro-alvéolaire
+T13	procedure 1366 1395	radiographie rétro-alvéolaire

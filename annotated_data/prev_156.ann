@@ -1,0 +1,40 @@
+T1	disorder 167 171	RCIU
+T2	disorder 136 165	Retard de Croissance In Utéro
+T3	procedure 257 272	hauteur utérine
+T4	procedure 286 301	examen clinique
+T5	disorder 314 318	RCIU
+T6	procedure 359 370	échographie
+T7	disorder 416 424	allergie
+T8	drugs 430 441	pénicilline
+T9	disorder 499 503	RCIU
+T10	disorder 692 696	RCIU
+T11	disorder 712 720	mutation
+T12	disorder 724 747	gène de la prothrombine
+T13	disorder 791 817	arrêt de croissance fœtale
+T14	disorder 825 865	anomalies sur l’enregistrement cardiaque
+T15	procedure 894 904	césarienne
+T16	drugs 957 968	corticoïdes
+T17	procedure 1034 1039	poids
+T18	labvalue 1041 1068	nférieur au 3ème percentile
+T19	procedure 1127 1137	intubation
+T20	disorder 1240 1253	complications
+T21	disorder 1270 1281	prématurité
+T22	disorder 1308 1319	infectieuse
+T23	disorder 1292 1304	respiratoire
+T24	disorder 1432 1440	inquiète
+T25	procedure 1489 1508	suivi psychologique
+T26	disorder 1534 1553	angoisse maternelle
+T27	disorder 1593 1605	palpitations
+T28	disorder 1627 1634	malaise
+T29	procedure 1701 1711	césarienne
+T30	drugs 1717 1731	anticoagulants
+T31	drugs 1733 1737	HBPM
+T32	profession 1787 1799	sages-femmes
+T33	procedure 1815 1828	examen médica
+T34	procedure 1932 1946	l’accouchement
+T35	disorder 2039 2051	palpitations
+T36	disorder 2150 2158	symptôme
+T37	disorder 2299 2306	dyspnée
+T38	procedure 2316 2330	l’accouchement
+T39	procedure 2336 2359	examens complémentaires
+T40	disorder 2413 2431	embolie pulmonaire

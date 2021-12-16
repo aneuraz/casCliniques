@@ -1,0 +1,54 @@
+Contexte
+
+Le spectre clinique, histopathologique et radiologique de la tumeur myofibroblastique inflammatoire est large. La pathogenèse de cette maladie rare reste peu connue, ce qui explique les multiples changements de nom depuis la première mise en évidence au niveau pulmonaire en 1939 [1].
+
+Description du cas
+Anamnèse
+
+Nous rapportons le cas d’un patient de 77 ans avec s/p de multiples interventions maxillo-faciales entre 1992 et 2007 (sinus maxillaire droit) pour une «atteinte fibreuse inflammatoire» non-précisée. Bien que celle-ci soit en rémission depuis 2007, le patient remarque une baisse de l’état général depuis août 2018 associée à une perte de 7 kg en quelques semaines (10%), des sudations nocturnes et une asthénie. L’insomnie secondaire aux sudations nocturnes profuses est ce qui motive le patient à consulter son médecin de famille.
+
+Résultats
+
+A la recherche d’une maladie oncologique, un CT thoraco-abdominale est réalisé montrant une masse du pôle rénal supérieur droit avec infiltration mésentérique (fig. 1).
+
+Figure 1:A ) CT thoraco-abdominale (reconstruction coronale oblique au temps veineux) montrant une masse du pôle rénal supérieur droit (flèche).B) CT thoraco-abdominale (coupe axiale) avec la flèche indiquant la masse du pôle rénal supérieur droit.
+
+En septembre 2018, la biopsie montre un parenchyme rénal cortical dans la norme avec transition vers une lésion à stroma dense, composée de cellules fusiformes de taille moyenne aux atypies cellulaires légères, d’agencement discrètement storiforme, associée à un infiltrat inflammatoire marqué lymphoplasmocytaire, avec quelques granulocytes neutrophiles. L’immunophénotype des cellules fusiformes est positive pour «smooth muscle actin» (remplacer par: l’alpha-actine muscle lisse) et la vimentine, négative pour «muscle specific antigen», la desmine, le CD34, la protéine S100 et la cytokératine CAM 5.2. L’index de prolifération est <15% avec le marqueur MIB1.
+
+Ces résultats documentent une différenciation cellulaire myofibroblastique. La recherche immunohistochimique de la protéine ALK («anaplastic lymphoma ­tyrosine kinase») finit négative. Le résultat histologique ne montre pas de nécrose aiguë, de matériel thrombotique, de glomérulite ou de tubulite spécifique, ni de granulome. Il n’y a pas d’arguments en faveur d’une ­tumeur fibreuse solitaire ou d’une tumeur maligne. Les aspects histologiques parlent en premier lieu pour une tumeur myofibroblastique inflammatoire (diagnostic différentiel: cicatrice non-spécifique ou cicatrice post-infarctus). Aucune thérapie n’est instaurée et une attitude expectative est proposée.
+
+Trois mois plus tard un nouveau nodule indolore de 5 cm au niveau du bras droit apparait associé à un syndrome polyurique-polydipsique motivant une hospitalisation pour investigations approfondies et traitement. L’évaluation clinique à l’entrée montre de fait un patient asthénique avec un nodule au niveau bicipital droit, ferme mais indolore à la palpation. Les examens complémentaires mettent en évidence un syndrome inflammatoire avec une vitesse de sédimentation (VS) à 77 mm/h, une CRP à 90 mg/l, ferritine à 1285 µg/l, une anémie microcytaire et un diabète inaugural. Une IRM du bras droit montre une infiltration des tissus mous mal délimitée par cette masse. Sur avis de l’infectiologue, en vue de l’évolution chronique depuis 1992, ­aucune sérologie à la recherche de mycobactéries atypiques ou de virus d’Epstein-Barr n’est effectuée. Une biopsie du nodule du membre supérieur droit réalisée fin 2018 met en évidence une infiltration cellulaire ­superposable à l’aspect susmentionné avec recherche négative des récepteurs ALK.
+
+Traitement et évolution
+
+Une corticothérapie à dose moyenne (en raison du diabète décompensée) est introduite. Après quelques jours, le patient constate déjà une résolution complète des ­sudations nocturnes et ne présente plus de douleurs. Le syndrome inflammatoire diminue également promptement avec une VS à 38 mm/h, une CRP à 23 mg/l, une ferritine à 479 µg/l après 2 semaines de traitement. Le nodule au bras a complètement disparu après 6 semaines. Nous n’avons pas réitéré le CT abdominal en raison de l’évolution clinico-biologique favorable.
+
+Diagnostic
+
+Le tableau clinique et paraclinique évoquent une ­tumeur myofibroblastique inflammatoire ALK négative («inflamatory myofibroblastic tumor» [IMT], ORPHA 178342).
+
+Discussion
+
+La classification de l’IMT en tant que véritable néoplasie ou «pseudo»-tumeur fut un débat prédominant par le passé. Le terme de pseudotumeur inflammatoire a été utilisé pour l’associer aux processus post-infectieux. L’Organisation mondiale de la Santé (OMS) cependant a décidé de l’apprécier comme une atteinte néoplasique à potentiel biologique intermédiaire au vue du risque de récidive et du potentiel métastatique [2].
+
+L’incidence reste inconnue, estimée selon les études entre 0,04–0,7% [3] et peut atteindre tout âge. Cependant, une prédilection pédiatrique est suggérée par la littérature scientifique sans de préférence de genre. ­Aucun facteur de risque n’est connu. Le site de prédilection de l’atteinte est au niveau pulmonaire, abdomino-pelvien ou retro-péritonéal. Une atteinte multifocale est possible. L’aspect clinique se traduit par une induration indolore transitoire, des symptômes spécifiques de la région atteinte et des symptômes constitutionnels.
+
+L’atteinte pulmonaire est plus fréquente avant la deuxième décennie et est associée à un pronostic moins agressif, tandis que l’atteinte extra-pulmonaire touche des individus plus âgés avec une évolution plus agressive. Les lésions sont rares dans la région maxillo-faciale (bien que présentés chez notre patient). L’IMT doit rester un diagnostic d’exclusion chez des patients âgés.
+
+La nature de l’IMT n’est pas évidente, mais elle est considérée désormais comme une néoplasie à potentiel biologique intermédiaire. Des altérations du gène ALK avaient déjà été décrites dans d’autres cancers humains tels que les lymphomes anaplasiques à grandes cellules, les neuroblastomes et certains cancers du poumon. Les analyses génétiques ont alors démontré que cette translocation génétique apparait aussi dans environs 50% des cas d’IMT, notamment chez des jeunes patients [4]. Concernant l’origine inflammatoire, le fait que des analyses virales ont retrouvé la présence de l’EBV ou de l’herpèsvirus humain de type 8 (HHV-8) est parlant. Cependant, les preuves restent insuffisantes et la pathogenèse controversée notamment depuis la découverte des anomalies cytogénétiques susmentionnées.
+
+La prise en charge reste pareillement débattue. L’IMT ­focale est prise en charge de préférence par la chirurgie (notre patient a eu plusieurs opérations au sinus avec reconstruction faciale partielle entre 1992–2007). L’approche médicamenteuse est réservée pour les patients avec une atteinte systémique lorsqu’une exérèse chirurgicale n’est pas possible [5]. Certaines études proposent une prise en charge avec des anti-inflammatoires non stéroïdiens seuls (surtout dans l’IMT ALK-négative). L’utilisation anecdotique des inhibiteurs d’ALK-kinase suggère l’implication d’un processus de signalisation médié par ALK qui serait important dans l’activité de la tumeur. La chimiothérapie et la radiothérapie ont également été mises à l’essai.
+
+Le pronostic de l’IMT est caractérisé par un risque de récidive et le potentiel métastatique. La mortalité liée à l’IMT extra-pulmonaire peut être aussi haute que 4% [3]. Le risque de récidive varie selon le site atteint et la prise en charge proposée mais est évalué dans la littérature de très rare jusqu’à 15% [3,5]. Les métastases sont rares et n’apparaissent que dans <5% des cas [2]. Des études récentes suggèrent que certains partenaires de fusion du gène ALK et que les ­tumeurs ALK-négatives sont associées à un risque de métastases, tandis que le taux de récidive est indépendant de l’expression ALK [6].
+
+L’essentiel pour la pratique
+
+• La tumeur myofibroblastique inflammatoire (IMT) est une atteinte rare avec une prédilection pédiatrique ainsi qu’une clinique variable selon le site atteint. L’atteinte peut être multifocale.
+
+• La pathogénèse demeure incertaine; la mise en évidence des formes d’IMT ALK-positives (environ 50% des IMT) suggère une atteinte néoplasique.
+
+• Il s’agit d’un diagnostic d’exclusion. Le diagnostic nécessite l’analyse histologique.
+
+• Le traitement reste débattu et dépend des caractéristiques spécifiques de la tumeur.
+
+• L’évolution de l’IMT est caractérisée par un risque de récidive (indépendant du statut ALK) et du potentiel de métastases (qui augmente si ­tumeur ALK-négative).

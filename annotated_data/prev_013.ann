@@ -1,0 +1,26 @@
+T1	disorder 143 171	 vomissements et de diarrhée
+T2	disorder 181 213	 antécédents médico-chirurgicaux
+T3	disorder 226 242	 pathologies ORL
+T4	disorder 227 267	pathologies ORL et respiratoires banales
+T5	disorder 323 333	sciatalgie
+T6	procedure 346 362	cholécystectomie
+T7	disorder 374 418	un diabète non insulino-dépendant découvert 
+T8	labvalue 444 457	HbA1c = 6,1 %
+T9	disorder 575 594	troubles digestifs 
+T10	disorder 629 662	patiente se sentant très fatiguée
+T11	disorder 984 1036	 nausées, douleurs abdo et frissons depuis 2-3 jours
+T12	disorder 1047 1061	 pas de fièvre
+T13	disorder 1063 1088	pas de défense abdominale
+T14	disorder 1090 1110	auscultation normale
+T15	disorder 1112 1122	nauséeuse 
+T16	disorder 1137 1158	Gastro-entérite aiguë
+T17	disorder 1322 1362	douleurs diffuses des membres inférieurs
+T18	disorder 1367 1383	abdomen sensible
+T19	disorder 1389 1420	nausées, une sécheresse buccale
+T20	disorder 1423 1456	ans autre signe de déshydratation
+T21	disorder 1476 1510	Spasfon®, Vogalène® et paracétamol
+T22	procedure 1766 1803	réhydratation par voie intraveineuse 
+T23	disorder 2139 2155	gastro-entérite 
+T24	disorder 2368 2423	troubles de vigilance et parfois des propos incohérents
+T25	procedure 4018 4142	réanimation cardiopulmonaire associant massage cardiaque externe, oxygénation pulmonaire à haut débit par sonde d'intubation
+T26	drugs 4145 4184	 six injections itératives d'adrénaline

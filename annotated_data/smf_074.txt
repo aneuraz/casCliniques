@@ -1,0 +1,78 @@
+Contexte
+
+Avec une incidence de 11/100 000, la méningite aseptique induite par les médicaments («drug induced aseptic meningitis» [DIAM]) constitue un diagnostic différentiel rare mais essentiel des méningites aseptiques [1]. Le diagnostic de la DIAM est établi lorsqu’une prise de médicaments entraîne le développement de symptômes cliniques d’une méningite et/ou d’une encéphalite, en présence d’une inflammation du liquid cérébro-spinal (LCS), lorsqu’aucun agent pathogène ­déclencheur ne peut être mis en évidence et en cas de survenue d’une régression des symptômes après arrêt de l’agent déclencheur [1, 2]. Contrairement à une ­méningite virale, les symptômes d’une DIAM disparaissent rapidement – généralement dans un délai de 24–48 heures [1]. Plusieurs épisodes en cas de réexposition au même médicament corroborent le diagnostic d’une DIAM [1]. Les déclencheurs typiques d’une DIAM sont les anti-inflammatoires non stéroïdiens (AINS), en particulier l’ibuprofène [2], les antibiotiques triméthoprime/sulfaméthoxazole et les immunoglobulines intraveineuses. De nombreux autres médicaments sont décrits comme déclencheurs possibles [3].
+
+Le tableau clinique présente des symptômes d’une ­méningite (fièvre, céphalées, méningisme, photophobie, sensibilité au bruit, nausées, vomissements) [1, 2]. Par ailleurs, une contagion des méninges vers le cerveau peut entraîner des symptômes d’une encéphalite (crises, troubles de la conscience, symptômes neurologiques focaux) [1]. Le LCS présente typiquement une pléiocytose allant jusqu’à plusieurs centaines de cellules par microlitre, avec prédominance des granulocytes neutrophiles ou lymphocytes [4], des plasmocytes et granulocytes ­éosinophiles pouvant également être mis en évidence [3, 4]. Le taux de glucose est normal, celui de protéines variablement accru [5]. Par définition, la recherche d’un agent pathogène est négative.
+
+Nous décrivons le cas d’une DIAM causée par l’administration d’amoxicilline/acide clavulanique – un traitement antibiotique souvent employé.
+
+Rapport de cas
+Anamnèse
+
+Quinze mois après implantation d’une prothèse totale de la hanche droite, un patient âgé de 76 ans a bénéficié d’un remplacement de la tige en présence d’une suspicion de descellement aseptique. Le patient a reçu un traitement prophylactique antibiotique péri-opératoire à base d’amoxicilline/acide clavulanique trois fois par jour pendant une semaine (initialement 3 × 1,2 g, à partir du quatrième jour post-opératoire et en présence d’une détérioration clinique 4 × 2,2 g). Au troisième jour après l’opération sont survenus un état aigu de confusion, des céphalées, fièvre, nausées, ­vomissements ainsi qu’une nouvelle incontinence ­urinaire. Il convient de noter que les antécédents médicaux révèlent deux épisodes comparables respectivement un et neuf ans auparavant, dont l’étiologie avait été jugée inexpliquée et qui avaient été considérés comme des (méningo-)encéphalites virales. Les autres maladies préexistantes significatives incluent un trouble primaire de tics avec tics moteurs simples ainsi qu’une hyperplasie bénigne de la prostate.
+
+Statut
+
+Lors du transfert du service orthopédique à l’unité ­stationnaire de neurologie au troisième jour après l’opération, le patient se trouvait dans un état général réduit, était normotendu 105/77 mm Hg) et normocarde (fréquence cardiaque 94/min) avec une fièvre ne dépassant pas 39,4 °C.
+
+L’examen clinique neurologique a révélé une désorientation temporelle ainsi qu’un trouble du langage survenant par phases avec difficulté à trouver ses mots et paraphasies. Le patient ne présentait aucun méningisme.
+
+Nerfs crâniens: En présence d’un trouble connu de tics, spasme hémifacial intermittent à droite, légère ptôse à gauche avec fréquence accrue du clignement de l’œil, aucun autre résultat pathologique.
+
+Motricité: Aucune parésie centrale ni périphérique, ­tonus normal et trophicité normale. Après l’opération, la jambe droite présentait un handicap en termes de force et de mobilité.
+
+Reflexes: Réflexes proprioceptifs symétriques moyennement actifs, aucun réflexe pathologique.
+
+Coordination: Manœuvre doigt-nez ataxique à droite, manœuvre talon-genou impossible à droite.
+
+Sensibilité: Normale.
+
+Position debout et démarche: Aptitude à la marche restreinte avec utilisation de béquilles en présence d’une charge partielle autorisée de 20 kg à droite à la suite de l’opération.
+
+Résultats
+
+Laboratoire au troisième jour après l’opération: CRP 212 mg/l, leucocytes 13 G/l.
+
+LCS au troisième jour après l’opération: Nombre total de cellules 243/μl (valeur normale: <3/μl), dont mononucléaires 183, polynucléaires 60. Lactate 4,5 mmol/l (valeur normale: <2,4 mmol/l), protéines totales 1,37 g/l (valeur normale: jusqu’à 0,45 g/l). Valeur normale de glucose, nombre de globules rouges 1/μl.
+
+Aucun agent pathogène n’a pu être mis en évidence (aucune croissance de germe, index LCS/sérum négatif pour les IgM contre la méningo-encéphalite verno-estivale (MEVE), PCR négative pour l’ADN du virus Herpes simplex de types 1 et 2, le virus varicelle-zona, Listeria monocytogenes et Borrelia burgdorferi, PCR eubactérienne négative, complexe Mycobacterium tuberculosis négatif.
+
+LCS au sixième jour après l’opération: Nombre de cellules 87/μl (mononucléaires). Protéines 0,6 g/l. Aucune cellule maligne, aucun bâtonnet résistant aux acides, aucune mise en évidence de germe dans la culture.
+
+Electroencéphalogramme (EEG) au cinquième jour après l’opération: Légère modification générale, aucun signe de foyer, aucun potentiel typique de l’épilepsie.
+
+Imagerie par résonance magnétique (IRM) du neurocrâne au cinquième jour après l’opération: Rehaussement sous-arachnoïdien compatible avec une leptoméningite. Sur le plan morphologique, aucun signe d’encéphalite (fig. 1).
+
+Figure 1: Imagerie par résonance magnétique axiale représentative en séquence FLAIR avec produit de contraste: rehaussement leptoméningé par ­produit de contraste au niveau supratentoriel, accentué dans les sillons aux alentours de la région centrale des deux côtés (exemple à gauche enA ) ainsi qu’au niveau occipital des deux côtés (B ,C ).
+
+Diagnostic
+
+Au vu des expositions répétées à l’amoxicilline/acide clavulanique, le diagnostic initial d’une méningite aseptique chronique récidivante a été remplacé par celui d’une méningo-encéphalite induite par Co-Amoxicilline.
+
+Traitement et évolution
+
+Durant les trois premiers jours, la poursuite du traitement antibiotique par amoxicilline/acide clavulanique a présenté une évolution fluctuante avec, d’une part, un état de confusion et d’aphasie ainsi que des épisodes apathiques et, d’autre part, des phases éveillées au cours desquelles le patient était orienté et tout à fait normal sur le plan psychopathologique. Au sixième jour après l’opération, le traitement antibiotique est passé au méropénème en présence d’une fièvre persistante et de l’inefficacité supposée. Le patient est resté fébrile jusqu’au septième jour après l’intervention. A partir du huitième jour postopératoire, une nette amélioration clinique est apparue. Dès lors, le patient était afébrile et a retrouvé par la suite une orientation totale – sans trouble du langage, ni autre déficit neurologique focal. Le traitement antibiotique a été achevé au 13e jour après l’opération.
+
+Au cours du traitement consécutif de réadaptation dans les quatre semaines suivant l’opération, le patient a retrouvé une mobilité autonome sur surface plane et avec le soutien de deux béquilles dans les escaliers (ce qui correspond aux limites de charge encore existantes en phase postopératoire). Un test neuropsychologique a révélé de légers déficits de l’attention sous forme d’un léger trouble fonctionnel cognitif sans ­importance au quotidien avec des résultats autrement normaux (probablement préexistants avant la morbidité). Le patient était autonome dans les activités de la vie quotidienne.
+
+Discussion
+
+Etant donné qu’aucun agent pathogène n’a pu être ­détecté, une méningite aseptique a été diagnostiquée. Le diagnostic repose sur les résultats actuels ainsi que les précédents rapports des deux épisodes comparables d’il y a quelques années. Les trois épisodes relatifs à une méningite/méningo-encéphalite aseptique impliquaient l’administration préalable d’amoxicilline/acide clavulanique. Tous trois remplissent les critères diagnostiques de la DIAM mentionnés ci-dessus. Dans le cas présent, la clé du diagnostic a consisté en une anamnèse médicamenteuse approfondie.
+
+La présentation clinique de la DIAM dépend des structures atteintes et peut se manifester aussi bien sous forme de méningite que de méningo-encéphalite [1]. L’examen radiologique révèle typiquement une leptoméningite. Des lésions parenchymateuses focales peuvent survenir et rendre le diagnostic différentiel encore plus difficile. Même si l’IRM du neurocrâne de notre patient n’a mis en évidence aucune lésion focale, les fluctuations d’attitude et le trouble du langage traduit par une dysphasie cognitive ne peuvent s’expliquer que par une encéphalite – en plus de la méningite sous-jacente accompagnée de fièvre, céphalées, nausées et vomissements. Les composants encéphalitiques ont été étayés sur le plan paraclinique par la modification générale à l’ECG.
+
+L’amoxicilline a été décrite pour la première fois en 1999 comme déclencheur d’une DIAM [5]. A notre connaissance, 16 cas ont été jusqu’à présent publiés dans le monde [4, 6]. Parmi ceux-ci se trouvent également des cas dans lesquels l’amoxicilline n’a pas été administrée comme monothérapie, mais en association avec l’acide clavulanique. L’amoxicilline est la pénicilline qui provoque le plus souvent des réactions allergiques – généralement des réactions allergiques immédiates au niveau de la peau [7]. Dans près de 30% des réactions allergiques immédiates observées sous le traitement combiné amoxicilline/acide clavulanique, des tests allergologiques ont permis d’identifier l’acide clavulanique comme déclencheur unique [8]. Chez un même patient, des réactions tardives peuvent survenir sous traitement combiné, aussi bien du fait de l’amoxicilline que de l’acide clavulanique, comme cela a pu être montré au moyen de tests sélectifs de réactivité [9]. Dans de rares cas, des réactions tardives même après achèvement du traitement sont décrites, qui sont causées uniquement par l’acide clavulanique [10]. Bien que ces résultats se basent uniquement sur des réactions cutanées et ne soient que partiellement transposables pour une DIAM, l’amoxicilline et l’acide clavulanique sous forme de composants seuls ou encore combinés sont ainsi tous deux envisageables comme déclencheurs. Sans test allergologique différencié, la distinction ne peut toutefois pas être précisée.
+
+Au vu de l’utilisation fréquente de l’amoxicilline/acide clavulanique, il est essentiel de reconnaître cette complication rare mais grave. Parmi les DIAM, la DIAM due aux antibiotiques représente une entité particulièrement difficile à différencier, car la symptomatique comprenant une infection fébrile et des céphalées peut être provoquée aussi bien par la maladie infectieuse sous-jacente que par l’antibiotique. Dans notre cas, cette complexité a été clairement mise en évidence par la forte fièvre persistante et la hausse de la CRP. Dans une telle situation, l’arrêt ou le changement de l’antibiotique ­nécessite d’évaluer scrupuleusement le rapport bénéfice-risque. Dans notre cas, l’échec présumé du traitement par amoxicilline/acide clavulanique a abouti à un passage calculé au méropénème, ce qui a entraîné une régression des symptômes en l’espace de deux jours.
+
+L’essentiel pour la pratique
+
+• Une multitude de médicaments peuvent déclencher une méningite ou méningo-encéphalite aseptique non liée à un agent pathogène.
+
+• L’anamnèse médicamenteuse doit inclure non seulement les médicaments pris actuellement, mais aussi les éventuels effets secondaires de traitements préalables.
+
+• L’amoxicilline/acide clavulanique peut déclencher une méningite aseptique induite par les médicaments (DIAM).
+
+• Dans une constellation infectieuse, l’arrêt d’un traitement antibiotique représente un défi particulier nécessitant d’évaluer le rapport bénéfice-risque.
+
+• En présence d’une composition correspondante du liquid cérébro-spinal (méningite non purulente sans mise en évidence d’agent pathogène), il convient d’envisager la possibilité d’une DIAM et d’évaluer l’arrêt ou le changement des médicaments potentiellement déclencheurs.

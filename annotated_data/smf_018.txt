@@ -1,0 +1,70 @@
+Contexte
+
+Une thyroïdite auto-immune peut être associée à une adrénalite auto-immune dans le cadre d’une polyendocrinopathie auto-immune (PEAI) de type 2. S’il existe en outre une suspicion d’insuffisance corticosurrénale, celle-ci doit être exclue ou traitée avant le début du traitement substitutif d’hormones thyroïdiennes, car une substitution d’hormones thyroïdiennes peut déclencher une crise addisonienne.
+
+Rapport de cas
+Anamnèse
+
+Une patiente âgée de 33 ans s’est présentée au service des urgences avec une fatigue croissante, une perte de poids de 15 kg en deux ans ainsi que des troubles abdominaux augmentant en intensité. Le médecin de famille avait préalablement diagnostiqué et substitué en conséquence une hypothyroïdie dans le cadre d’une thyroïdite d’Hashimoto. Malgré le traitement, aucune amélioration des symptômes n’est survenue. Au vu de l’examen des troubles abdominaux, le médecin de famille avait conclu à une maladie cœliaque. Malgré une alimentation sans gluten, les symptômes ont néanmoins continué d’augmenter en intenisté. Par ailleurs, la patiente a observé une pigmentation accrue, principalement au niveau des lignes de la main et des faces d’extension des coudes. Elle a donc consulté un endocrinologue dans son pays natal, la Pologne, et celui-ci a suspecté une insuffisance surrénale et recommandé un traitement par glucocorticoïdes. Ce dernier n’a toutefois jamais été pris par la patiente car il avait été déconseillé par une pharmacie en Pologne. Il est ensuite survenu une détérioration aiguë accompagnée de diarrhées, nausées et vomissements. Les analyses biochimiques réalisées chez le médecin de famille ont ­révélé une hyponatrémie sévère, donnant lieu à l’admission en urgence.
+
+Examen clinique et résultats
+
+Lors de l’admission, la patiente présentait une pression artérielle normale faible (110/67 mm Hg), était normocarde (fréquence cardiaque 83/min) et afébrile (température 35,9 °C). L’examen clinique a mis en évidence des plis cutanés hyperpigmentées sur les deux paumes ainsi que sur les faces d’extension des coudes.
+
+Les analyses biochimiques ont confirmé l’hyponatrémie sévère (108 mmol/l, valeur normale: 136–145 mmol/l), le taux de potassium se trouvait dans la normale supérieure (4,92 mmol/l, valeur normale: 3,6–5,5 mmol/l), les paramètres thyroïdiens présentaient des modifications pathologiques (TSH 10,56 μIE/ml, valeur normale: 0,27–4,20 μIE/ml; fT4 26,67 pmol/l, valeur normale: 12–22 pmol/l; fT3 5,65 pmol/l, valeur normale: 3,1–6,8 pmol/l), il existait par ailleurs une acidose métabolique avec compensation respiratoire (pH 7,44, cHCO3- 18,7 mmol/l; pO2 13,8 kPa; pCO2 3,0 kPa). Les autres résultats de laboratoire étaient normaux.
+
+Traitement
+
+Au vu des résultats recueillis, nous avons établi la suspicion élevée d’une crise addisonienne aiguë et débuté un traitement intraveineux par hydrocortisone (SoluCortef®) à raison de 100 mg toutes les 6 heures. Ce dosage a été choisi en raison de l’évolution clinique prolongée. Le faible taux de cortisol basal de 22 nmol/l (valeur normale: 145–619 nmol/l) ainsi qu’un test au ­Synacthène pathologique (pic de cortisol 36 nmol/l, ­valeur normale: >500 nmol/l) ont en outre permis de confirmer le diagnostic suspecté d’une insuffisance corticosurrénale. Les taux d’ACTH et de rénine étaient nettement accrus (ACTH 532 pmol/l, valeur normale: <10,3 pmol/l; rénine 347,8 ng/l, valeur normale: <65 ng/l), le taux également élevé d’anticorps anti-21-hydroxylase a étayé le diagnostic d’une adrénalite auto-immune. Nous avons attribué l’hyponatrémie à la carence en minéralocorticoïdes liée à l’insuffisance corticosurrénale primaire ainsi qu’à la probable sécrétion accrue d’hormone antidiurétique (ADH); la sécrétion accrue d’ADH résulte d’une part de la disparition de l’inhibition de la sécrétion d’ADH par le cortisol, tandis que, d’autre part, le déficit volumique intravasculaire ainsi que l’hypothyroïdie entraînent une augmentation du taux d’ADH.
+
+Evolution
+
+La patiente a été admise au service de soins intensifs pour surveillance. Le traitement intraveineux par 100 mg d’hydrocortisone (SoluCortef®) toutes les 6 heures, accompagné d’un généreux traitement volumique intraveineux, a abouti à une rapide amélioration clinique avec régression des troubles abdominaux, de la nausée et des vomissements. Après une hausse initialement rapide du taux de sodium, le traitement volumique calculé concomitant par NaCl a permis d’équilibrer l’hyponatrémie (hausse initiale de 122 mmol/l, puis augmentation de 7 mmol/l par 24 heures). La hausse initiale rapide du taux de sodium est probablement due à la baisse de l’effet de l’AHD.
+
+Par la suite, l’hydrocortisone a pu être administrée par voie orale et réduite progressivement à une dose journalière d’au total 20 mg. Nous avons en outre complété le traitement par de la fludrocortisone (Florinef®, 0,05 mg/jour).
+
+Etant donné que la thyroxine augmente le métabolisme du cortisol présent dans la circulation et peut ainsi potentiellement déclencher une crise addisonienne, nous avons temporairement interrompu la lévothyroxine (Letrox®), puis poursuivi le traitement à un dosage réduit. Nous avons attribué la hausse du taux de TSH à l’absence d’inhibition de la sécrétion de TSH par le cortisol. La patiente a pu quitter l’hôpital après 9 jours. Lors d’une formation de patient relative à l’insuffisance surrénale, la patiente a été initiée à la gestion de l’hydrocortisone dans des situations particulières et à l’auto-administration de médicaments d’urgence. Un certificat ainsi qu’un kit d’urgence lui ont été remis.
+
+Discussion
+
+L’insuffisance corticosurrénale chronique se distingue en insuffisance corticosurrénale primaire (glandes surrénales) et secondaire (hypophyse). La forme primaire touche la totalité du cortex surrénal ainsi que la sécrétion de glucocorticoïdes, minéralocorticoïdes et DHEA-S, tandis que la forme secondaire concerne seulement la sécrétion de glucocorticoïdes. Nous nous rapportons ci-dessous uniquement à la forme primaire.
+
+L’adrénalite auto-immune est la cause la plus fréquente de la forme primaire en Europe avec une incidence de 4–6 cas pathologiques/million/an [1]. La constellation biochimique d’une insuffisance corticosurrénale primaire (baisse du taux de cortisol basal et/ou test au ­Synacthène pathologique ainsi que taux accrus d’ACTH et de rénine), combinée à la mise en évidence d’anticorps anti-21-hydroxylase, constituent des indicateurs diagnostiques [2]. La carence en minéralocorticoïdes entraîne par ailleurs une hyperkaliémie, une acidose métabolique et une hyponatrémie. Cette dernière se retrouve également dans l’insuffisance corticosurrénale secondaire à une fréquence moindre, déclenchée par une sécrétion accrue d’ADH liée au déficit volumique intravasculaire ainsi qu’à la disparition de l’inhibition de la sécrétion d’ADH par le cortisol [2]. L’adrénalite auto-immune est associée à une PEAI dans près de 60% des cas [3]. Il s’agit d’une insuffisance auto-immune de divers organes endocriniens, mais aussi non endocriniens. La distinction est faite entre la PEAI de type 1, survenant principalement durant l’enfance, et la PEAI de type 2, plus fréquente (prévalence 1 : 1000) [4]. Cette dernière se manifeste généralement à l’âge adulte, associée à une hérédité polygénique et définie par la survenue concomitante d’une adrénalite auto-immune et d’une thyroïdite auto-immune ou d’un diabète sucré de type 1. D’autres maladies auto-immunes typiquement associées à la PEAI sont répertoriées dans le tableau 1 [4].
+
+Tableau 1: Aperçu de la polyendocrinopathie auto-immune de types 1 et 2 [4].
+ 	Typ 1	Typ 2
+Hérédité	Autosomique récessif	Polygénique
+Prévalence	1:100 000	1:1000
+Âge de manifestation	Enfance	Âge adulte
+Maladies typiques	– Candidose cutanéomuqueuse	– Adrénalite auto-immune
+– Hypoparathyroïdisme	– Thyroïdite auto-immune
+– Adrénalite auto-immune	– Diabète sucré de type 1
+Autres maladies	– Insuffisance ovarienne prématurée	– Gastrite auto-immune
+– Thyroïdite auto-immune	– Alopécie
+– Diabète sucré de type 1	– Vitiligo
+– Gastrite/entérite	– Maladie cœliaque
+– Hépatite/pancréatite	– Insuffisance ovarienne prématurée
+– Pneumonie
+– Néphrite
+– Vitiligo
+– Alopécie
+– Dystrophie des ongles
+– Kératite
+– Rétinite
+– Hypoplasie gingivale
+
+La constellation d’une thyroïdite auto-immune et d’une adrénalite auto-immune, comme dans notre exemple de cas, est également appelée syndrome de Schmidt et a été décrite pour la première fois en 1926 [5]. Chez la patiente, une maladie cœliaque avait préalablement été établie comme diagnostic supplémentaire de la PEAI. Il n’existait aucune indication de diabète sucré, une insuffisance ovarienne prématurée est improbable en présence de menstruations régulières.
+
+L’insuffisance corticosurrénale aiguë (crise addisonienne) est un tableau clinique potentiellement mortel qui nécessite immédiatement un traitement intraveineux par hydrocortisone. Les déclencheurs les plus fréquents d’une crise addisonienne incluent gastro-entérites, infections, interventions chirurgicales, efforts physiques et charges psychiques [2]. Notre patiente a été traitée par lévothyroxine en raison d’une hypothyroïdie préalablement diagnostiquée. Comme la thyroxine augmente le métabolisme du cortisol se trouvant dans la circulation, nous présumons que la substitution d’hormones thyroïdiennes a fini par déclencher la crise addisonienne. Aucune indication d’une infection sous-jacente comme potentiel déclencheur n’a été détectée. Il est à noter que la carence en cortisol résulte en une désinhibition de la sécrétion de TSH en cas d’insuffisance corticosurrénale aussi bien primaire que secondaire. La hausse du taux de TSH dans le cadre d’une insuffisance corticosurrénale est ainsi souvent l’expression de la carence en cortisol et non pas d’une hypothyroïdie concomitante à proprement parler.
+
+Pour résumer, la présence d’une maladie auto-immune endocrinienne, mais également non endocrinienne, nécessite toujours d’examiner de manière critique si une maladie auto-immune supplémentaire se manifeste en cours d’évolution sous forme d’auto-immunité polyendocrinienne. Dans le cadre d’une PEAI de type 2, une thyroïdite auto-immune associée à une adrénalite auto-immune peut survenir. Chez une autre patiente traitée à l’Hôpital d’Uster, une thyroïdite d’Hashimoto avait préalablement été diagnostiquée et, quatre ans plus tard, une insuffisance corticosurrénale s’est en outre développée.
+
+Un dépistage précoce des patientes et patients présentant une maladie auto-immune endocrinienne ou non endocrinienne à la recherche d’une auto-immunité polyendocrinienne est conseillé en présence d’une suspicion clinique afin d’éviter les complications. Le dépistage d’une PEAI vaut également pour les parents au 1er degré en cas de suspicion clinique correspondante. Si une thyroïdite auto-immune s’accompagne d’une suspicion d’insuffisance corticosurrénale, le traitement par hydrocortisone doit impérativement être initié avant le début d’un traitement de substitution d’hormones thyroïdiennes.
+
+L’essentiel pour la pratique
+
+• L’insuffisance corticosurrénale aiguë représente une situation médicale d’urgence qui nécessite immédiatement un traitement intraveineux par hydrocortisone.
+
+• En présence d’une maladie auto-immune endocrinienne ou non endocrinienne, il convient de toujours examiner de manière critique si une maladie auto-immune supplémentaire se manifeste en cours d’évolution sous forme d’auto-immunité polyendocrinienne. Etant donné qu’une thyroïdite auto-immune peut être associée à une adrénalite auto-immune (syndrome de Schmidt), celle-ci doit impérativement être exclue en présence d’une suspicion clinique correspondante (p. ex. hyperpigmentation, hyponatrémie, hyperkaliémie) avant de débuter une substitution d’hormones thyroïdiennes.
+
+• En cas de présence concomitante d’une hypothyroïdie et d’une insuffisance corticosurrénale, le traitement glucocorticoïde doit être effectué avant le traitement par L -thyroxine.

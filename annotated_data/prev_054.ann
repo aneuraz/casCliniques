@@ -1,0 +1,70 @@
+T1	drugs 521 530	Kardégic®
+T2	drugs 487 497	Bipreterax
+T3	drugs 475 482	Témerit
+T4	drugs 467 473	Loxen®
+T5	disorder 68 91	arthroplastie de hanche
+T6	disorder 180 203	 infarctus du myocarde 
+T7	disorder 222 245	hypertension artérielle
+T8	disorder 247 276	diabète non insulinodépendant
+T9	disorder 277 299	 coliques néphrétiques
+T10	disorder 326 333	diabète
+T11	drugs 357 371	Glucophage 850
+T12	drugs 402 411	Novoform 
+T13	procedure 574 586	consultation
+T14	profession 607 619	anesthésiste
+T15	procedure 633 660	 examen cytobactériologique
+T16	procedure 634 684	examen cytobactériologique des urines est stérile.
+T17	procedure 686 708	Un bilan cardiologique
+T18	disorder 728 751	rétrécissement aortique
+T19	drugs 914 921	Xatral 
+T20	profession 1057 1065	urologue
+T21	disorder 1158 1176	troubles urinaires
+T22	disorder 1224 1244	pollakiurie nocturne
+T23	anatomy 1360 1370	a prostate
+T24	disorder 1546 1555	analgésie
+T25	drugs 1762 1768	Xatral
+T26	procedure 1883 1902	sevrage de la sonde
+T27	procedure 2050 2087	résection endoscopique de la prostate
+T28	procedure 2134 2148	examen sanguin
+T29	procedure 2200 2202	GB
+T30	labvalue 2206 2215	0 900/mm3
+T31	labvalue 2221 2224	76%
+T32	procedure 2228 2231	PNN
+T33	disorder 2248 2257	bronchite
+T34	disorder 2336 2348	La bronchite
+T35	drugs 2375 2388	antibiotique 
+T36	drugs 2389 2401	amoxicilline
+T37	profession 2477 2485	urologue
+T38	procedure 2504 2508	ECBU
+T39	procedure 2535 2547	leucocyturie
+T40	irrelevant 2662 2698	nfection possible ou contamination ?
+T41	profession 2762 2770	urologue
+T42	disorder 2858 2866	adénome.
+T43	disorder 2868 2923	La persistance d’un saignement avec caillotage vésical 
+T44	procedure 2952 2982	ondage et des lavages vésicaux
+T45	labvalue 3093 3117	 élévation significative
+T46	labvalue 3156 3166	16 930/mm3
+T47	labvalue 3173 3176	85%
+T48	procedure 3180 3183	PNN
+T49	labvalue 3188 3198	15 980/mm3
+T50	labvalue 3205 3209	77% 
+T51	procedure 3212 3215	PNN
+T52	procedure 3347 3351	ECBU
+T53	disorder 3643 3667	instabilité tensionnelle
+T54	disorder 3673 3692	chutes à répétition
+T55	labvalue 3842 3854	110/70 mm Hg
+T56	disorder 3863 3880	yndrome dépressif
+T57	drugs 3925 3936	Fluoxétine 
+T58	disorder 3974 3982	 algique
+T59	drugs 4002 4012	Durogésic®
+T60	disorder 4173 4216	plaignait « du ventre ». Il était apyétique
+T61	procedure 4301 4305	SMUR
+T62	disorder 4323 4330	syncope
+T63	disorder 4336 4341	chute
+T64	disorder 4345 4360	un état de choc
+T65	disorder 4399 4412	choc septique
+T66	disorder 4433 4460	 insuffisance rénale sévère
+T67	procedure 4581 4602	prélèvements sanguins
+T68	procedure 4581 4615	prélèvements sanguins et urinaires
+T69	procedure 4618 4645	Le scanner abdomino-pelvien
+T70	disorder 4742 4778	une inflammation péri-rénale modérée

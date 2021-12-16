@@ -1,0 +1,31 @@
+T1	disorder 35 66	 lésions bitronculaires sévères
+T2	disorder 138 187	sténose de l'artère circonflexe supérieure à 60 %
+T3	procedure 192 228	 indication opératoire était retenue
+T4	procedure 277 314	double revascularisation coronarienne
+T5	disorder 438 463	 fibrillation auriculaire
+T6	drugs 495 504	Cordarone
+T7	drugs 508 514	redons
+T8	procedure 545 585	 transfert en secteur de soins continus.
+T9	drugs 895 906	Avlocardyl.
+T10	disorder 981 1001	malaise lipothymique
+T11	procedure 1118 1139	échographie cardiaque
+T12	labvalue 1340 1372	PA 8/5. Pouls irrégulier 90-100 
+T13	procedure 1413 1429	Mis sous 2L d'O2
+T14	labvalue 1431 1447	Saturation 97% »
+T15	labvalue 1521 1563	hémoglobine du patient est à 8g pour 100ml
+T16	disorder 3383 3428	hypotension artérielle malgré le remplissage.
+T17	labvalue 3577 3613	 Déglobulisation de 13 à 7 g/100 ml 
+T18	drugs 3799 3810	Calciparine
+T19	labvalue 4250 4265	INR était à 1,5
+T20	disorder 4459 4469	tamponnade
+T21	procedure 4536 4567	posant une sonde naso-gastrique
+T22	disorder 4776 4798	anomalie auscultatoire
+T23	procedure 4830 4853	radiographie thoracique
+T24	labvalue 5000 5009	INR à 5,2
+T25	procedure 5038 5156	 le patient avait reçu 4 culots globulaires et 3 litres de soluté de remplissage vasculaire et que les anticoagulants 
+T26	labvalue 5274 5298	 poumon gauche « blanc »
+T27	drugs 5460 5465	 PPSB
+T28	procedure 5581 5621	 Induction anesthésique avec intubation 
+T29	procedure 5793 5862	 Massage cardiaque externe puis incision et massage cardiaque interne
+T30	procedure 5864 5993	Aspiration d'un volumineux épanchement pleural gauche de plusieurs litres de sang ainsi que d'un hémothorax droit moins important
+T31	procedure 6119 6142	Arrêt de la réanimation

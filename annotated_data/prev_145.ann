@@ -1,0 +1,45 @@
+T1	profession 49 60	gynécologue
+T2	procedure 32 40	adressée
+T3	procedure 81 100	biopsie d’un nodule
+T4	drugs 192 204	progestatifs
+T5	procedure 208 214	examen
+T6	profession 245 255	radiologue
+T7	procedure 262 284	repérage échographique
+T8	disorder 288 294	nodule
+T9	procedure 327 355	préparait sa table à biopsie
+T10	procedure 365 382	protocole affiché
+T11	drugs 459 469	Xylocaïne®
+T12	procedure 566 593	désinfection du plan cutané
+T13	drugs 599 608	Bétadine®
+T14	procedure 613 640	enfilait des gants stériles
+T15	procedure 710 729	sonde d’échographie
+T16	procedure 767 784	anesthésie locale
+T17	procedure 908 919	échographie
+T18	drugs 948 957	Xylocaïne
+T19	drugs 985 997	formol dilué
+T20	procedure 1109 1118	injectait
+T21	profession 1244 1254	radiologue
+T22	disorder 1288 1303	brûlure intense
+T23	procedure 1352 1363	interpréte 
+T24	procedure 1413 1422	injection
+T25	drugs 1426 1436	Xylocaïne®
+T26	procedure 1513 1533	incision au bistouri
+T27	procedure 1554 1590	prélèvements au pistolet automatique
+T28	profession 1628 1638	radiologue
+T29	drugs 1671 1677	formol
+T30	profession 1823 1833	radiologue
+T31	drugs 1892 1902	Xylocaïne®
+T32	disorder 2127 2134	nécrose
+T33	procedure 2225 2236	échographie
+T34	disorder 2307 2326	sein inflammatoire 
+T35	profession 2354 2373	médecin urgentiste 
+T36	disorder 2418 2432	lésion cutanée
+T37	profession 2445 2456	gynécologue
+T38	profession 2463 2479	médecin traitant
+T39	procedure 2549 2560	échographie
+T40	procedure 2577 2625	traitée par antibiotiques et anti-inflammatoires
+T41	procedure 2640 2652	soins locaux
+T42	profession 2661 2671	infirmière
+T43	disorder 2703 2712	cicatrice
+T44	disorder 2904 2922	pathologie bénigne
+T45	procedure 2873 2888	biopsie du sein

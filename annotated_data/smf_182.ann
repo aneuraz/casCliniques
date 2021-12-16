@@ -1,0 +1,93 @@
+T1	profession 101 117	médecin traitant
+T2	disorder 127 162	douleurs abdominales intermittentes
+T3	disorder 178 196	trouble du transit
+T4	disorder 206 217	flatulences
+T5	drugs 253 263	Omeprazole
+T6	drugs 265 276	Domperidone
+T7	drugs 283 290	laxatif
+T8	drugs 291 300	osmotique
+T9	disorder 384 392	asthénie
+T10	disorder 400 411	inappétence
+T11	disorder 441 460	symptômes digestifs
+T12	procedure 491 509	bilan radiologique
+T13	procedure 514 531	tomodensitométrie
+T14	procedure 534 544	CT-scanner
+T15	procedure 547 556	abdominal
+T16	disorder 588 594	ascite
+T17	disorder 616 637	carcinose péritonéale
+T18	disorder 647 678	adénopathies retro-péritonéales
+T19	disorder 732 761	épanchement pleural bilatéral
+T20	disorder 813 843	néoplasie d’origine digestive 
+T21	disorder 846 859	gynécologique
+T22	procedure 891 921	dosage des marqueurs tumoraux 
+T23	procedure 954 964	CT-scanner
+T24	procedure 966 976	thoracique
+T25	labvalue 1042 1051	3873 kU/L
+T26	labvalue 1061 1068	35 kU/L
+T27	procedure 1085 1092	scanner
+T28	procedure 1094 1104	thoracique
+T29	disorder 1117 1146	épanchement pleural bilatéral
+T30	profession 1236 1248	gynécologues
+T31	disorder 1278 1292	cancer ovarien
+T32	irrelevant 1295 1352;1355 1426;1428 1524;1526 1598;1600 1745;1747 1754;1757 1783;1785 1795;1796 1820;1822 2423;2425 3038;3040 3127;3128 3153;3154 3191;3192 3238;3239 3300;3301 3360;3361 3406;3407 3477;3478 3519;3520 3531;3532 3544;3545 3571;3573 3924;3926 4839;4841 4856;4858 6153	Question: Laquelle des propositions suivantes est exacte?   a) Le dépistage du cancer ovarien est effectué par le dosage du CA 125.  b) Le diagnostic du cancer ovarien peut être posé sur la base d’une élévation du taux du CA 125.  c) Le dosage du CA 125 est inutile dans le suivi du cancer de l’ovarien.  d) Un taux du CA 125 élevé est utile au diagnostic différentiel d’une ascite avec carcinose péritonéale ou lors d’un bilan d’une masse pelvienne.  Réponse   La réponse correcte est d.  Discussion Caractéristiques du test  Le CA 125 est un marqueur tumoral sérique identifié en 1981 sur la surface des cellules du cancer de l’ovaire. Sa sensibilité et sa spécificité dans le diagnostic d’un cancer de l’ovaire sont faibles. Une métanalyse de 51 études publiée en 2012 rapporte une sensibilité de 78,7% et une spécificité de 77,9% [1]. Ces résultats limités sont le corollaire d’une faible sensibilité du CA 125 pour la détection des cancers à un stade précoce, des variations physiologiques de son taux lié à l’âge et au statut ménopausique ainsi que de son élévation tant dans des ­situations bénignes que dans des cancers.  Le CA 125 est une glycoprotéine transmembranaire exprimée par une multitude de cellules, saines et malignes, principalement d’origine mésenchymateuse. Il est absent du tissu ovarien sain, mais il est exprimé dans plus de 80% des cellules tumorales ovariennes non-mucineuses. Le CA 125 est également exprimé par la plèvre, le péricarde, le péritoine, les cellules de l’endomètre et du tractus génital ainsi que par les membranes amniotiques. Au vu de la multitude de cellules pouvant le secréter, il n’est pas surprenant que le CA 125 soit augmenté dans de multiples situations tant bénignes que malignes (tab. 1).  Tableau 1: Situations bénignes et malignes associées à une élévation du CA 125 [18–21], (listes non exhaustives). Pathologie maligne	Pathologie bénigne Cancer de l’ovaire 75–85%	Endométriose 61–87 % Cancer du col utérin 20%	Premier trimestre de grossesse 2–24% Cancer de l’endomètre 25–48%	Masse pelvienne bénigne 20–40% Cancer du côlon 30%	Cirrhose hépatique 40–80% Cancer du sein 1–27%	Inflammation du haut appareil génital féminin 33% Cancer du poumon 10%	Léiomyome utérin 20%  	Pleurésie  	Peritonite  	Individus sains 0,6–1,4%  Pour le diagnostic du cancer de l’ovaire, le CA 125 est moins performant chez les femmes préménopausées (sensibilité autour de 50 à 74% et spécificité entre 69 et 78%) que chez les femmes postménopausées (sensibilité autour de 69 et 87% et spécificité de 81 à 93%) [2], car il est souvent affecté par des situations bénignes de la femme préménopausée.  La sensibilité du CA 125 dépend également du stade du cancer au moment du diagnostic. En effet, en cas de ­cancer ovarien avéré ce marqueur n’est élevé que dans 47% des cancers à un stade précoce (FIGO I) contre 80–90% lors des cancers avancés (FIGO III–IV) [3]. La valeur prédictive positive du CA 125 pour le diagnostic du cancer de l’ovaire a été étudiée dans l’étude randomisée PLCO («Prostate, lung, colorectal, and ovarian») sur des femmes de 55 à 74 ans. Le résultat montre une valeur prédictive basse autour de 3,7% [4], qui reste inchangé après un suivi de quatre ans (2,6%) [5]. La valeur prédictive ­négative du CA 125 pour le diagnostic du cancer de l’ovaire a quant à elle été étudiée dans une étude brésilienne sur 103 femmes présentant une masse annexielle. Le résultat montre que dans cette population, le CA 125 a une valeur prédictive négative de 88% pour la détection du cancer de l’ovaire [6].  Utilité du test  L’augmentation du CA 125 dans une multitude de situations bénignes et sa faible sensibilité aux stades précoces rend ce test peu propice comme dépistage du cancer de l’ovaire dans la population générale. Néanmoins, la majorité des situations bénignes avec élévation du CA 125 surviennent chez des femmes préménopausées; or 80% des cas des cancers de l’ovaire concernent des femmes ménopausées de 50 ans et plus. Avec une reproductibilité élevée et une position tarifaire facturable de 24 CHF, ce test pourrait ainsi être considéré comme un bilan de dépistage chez la femme ménopausée. Pour permettre un dépistage efficace, la pathologie à dépister doit être assez fréquente; ce qui est une des limites du dépistage du cancer ovarien, dont la fréquence est relativement faible. Le CA 125 a donc été évalué en combinaison avec un ultrason endovaginal par trois grandes études randomisées. Les trois études sont revenues négative [4, 7, 8]. Actuellement, le dépistage par CA 125 et ultrason endovaginal n’est pas recommandé pour la population générale. Il a cependant été démontré que les patientes porteuses d’une mutation BRCA, qui sont à haut risque de développer un cancer de l’ovaire, peuvent bénéficier d’un programme de dépistage par le dosage du CA 125 (couplé un ultrason endovaginal) [9].
+T33	disorder 6290 6311	carcinose péritonéale
+T34	disorder 6347 6365	cancer de l’ovaire
+T35	disorder 6399 6419	symptômes digestifs 
+T36	disorder 6419 6428	atypiques
+T37	disorder 6484 6509	symptômes de la carcinose
+T38	disorder 6559 6578	plaintes digestives
+T39	procedure 6788 6796	ultrason
+T40	procedure 6803 6820	scanner abdominal
+T41	procedure 6828 6859	examens endoscopiques digestifs
+T42	disorder 6911 6929	cancer de l’ovaire
+T43	disorder 7019 7034	masse ovarienne
+T44	procedure 7067 7074	scanner
+T45	procedure 7076 7085	abdominal
+T46	disorder 7141 7162	carcinose péritonéale
+T47	disorder 7254 7271	masses ovariennes
+T48	procedure 7276 7308	magerie par résonance magnétique
+T49	procedure 7310 7313	IRM
+T50	procedure 7315 7324	pelvienne
+T51	disorder 7378 7387	carcinose
+T52	disorder 7470 7491	carcinose péritonéale
+T53	disorder 7566 7587	carcinose péritonéale
+T54	disorder 7618 7635	cancers digestifs
+T55	disorder 7637 7655	gastro-intestinaux
+T56	disorder 7659 7672	pancréatiques
+T57	disorder 7682 7704	cancers gynécologiques
+T58	procedure 7777 7795	marqueurs tumoraux
+T59	procedure 7767 7772	doser
+T60	procedure 7917 7923	CA 125
+T61	procedure 7926 7935	3873 kU/L
+T62	procedure 7948 7954	CA 125
+T63	labvalue 7956 7960	kU/L
+T64	procedure 7964 7967	CEA
+T65	labvalue 7969 7973	µg/L
+T66	labvalue 7975 7978	≥25
+T67	disorder 8008 8017	carcinose
+T68	procedure 8179 8185	CA 125
+T69	disorder 8222 8242	cancer gynécologique
+T70	disorder 8265 8283	cancer de l’ovaire
+T71	procedure 8321 8327	CA 125
+T72	procedure 8358 8364	CA 125
+T73	disorder 8399 8413	cancer ovarien
+T74	procedure 8536 8557	ponction diagnostique
+T75	procedure 8563 8572	cytologie
+T76	disorder 8576 8584	l’ascite
+T77	disorder 8706 8727	ascite carcinomateuse
+T78	procedure 8749 8773	prélèvement cytologique 
+T79	disorder 8815 8821	cancer
+T80	procedure 8866 8873	biopsie
+T81	profession 8946 8958	gynécologues
+T82	procedure 8968 8993	confirmation histologique
+T83	procedure 9016 9028	laparoscopie
+T84	procedure 9029 9041	exploratrice
+T85	procedure 9043 9054	L’opération
+T86	disorder 9091 9109	cancer de l’ovaire
+T87	procedure 922 925	CEA
+T88	procedure 927 933	CA19-9
+T89	procedure 935 941	CA 125
+T90	procedure 1016 1023	CA 125 
+T91	disorder 9138 9156	cancer de l’ovaire
+T92	procedure 9178 9185	 CA 125
+T93	irrelevant 9216 10006;10008 10789;10791 11034;11036 11055;11057 11150;11152 11342;11344 11442	Avant le traitement opératoire il peut servir de facteur pronostique dans certains sous-types de cancer ovarien comme démontré par Meyer [14]. Dans leur étude, les patientes avec un taux du CA 125 supérieur à 65 kU/l avaient une espérance de vie à cinq ans inférieure et un risque de décès six fois supérieur aux patientes avec un taux inférieur à 65 kU/L. Cette même étude a également démontré que le nadir postopératoire du CA 125 était un facteur pronostique indépendant. L’utilisation du CA 125 comme facteur pronostique reste pourtant débattue car aucune autre étude n’a confirmé ces observations. Dans tous les cas le dosage du CA 125 ne devrait pas être réalisé plus tôt qu’à trois semaines de l’opération car toute manipulation du péritoine peut provoquer une élévation de son taux.  Après l’instauration du traitement de chimiothérapie, le dosage itératif du marqueur CA 125 est indiqué pour évaluer la réponse de la maladie. Différentes études ont été publiées montrant que la normalisation rapide du dosage du CA 125 au cours du traitement est un indicateur d’une bonne réponse au traitement de chimiothérapie et est corrélée avec une meilleure survie globale [15]. Enfin, le CA 125 fait partie intégrale du suivi du cancer de l’ovaire et des critères bien définis sont proposés pour la confirmation d’une éventuelle récidive (GCIC) [16]. On notera toutefois que l’étude MRCOVO5/EORTC 55955 [17] a mis en doute l’utilité du dosage du CA 125 dans le suivi des patientes atteintes d’un cancer ovarien, notamment sur le devenir des patientes et leur qualité de vie.  En l’absence de standardisation des méthodes de mesure et devant le risque de variation des valeurs entre les différents laboratoires, il est conseillé d’effectuer les dosages de suivi dans le même laboratoire et par la même méthode de mesure.  Messages principaux  • Le CA 125 est un marqueur sérique utile principalement pour le suivi du cancer de l’ovaire.  • Un dépistage généralisé par dosage du CA 125 couplé à un ultrason endovaginal n’est pas recommandé pour la population générale à l’exception des patientes porteuses d’une mutation BRCA1/2.  • Durant la phase diagnostic, le dosage CA 125 peut être une aide dans le diagnostic différentiel.

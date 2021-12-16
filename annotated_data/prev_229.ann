@@ -1,0 +1,50 @@
+T1	disorder 67 78	 col dilaté
+T2	disorder 90 125	rupture artificielle des membranes 
+T3	irrelevant 177 269	Le travail se déroule rapidement en deux heures Elle accouche par voie basse sans péridurale
+T4	profession 288 301	obstétricien 
+T5	irrelevant 332 378	mai à 22h d’un enfant vivant de sexe masculin 
+T6	labvalue 386 389	bon
+T7	procedure 397 403	’Apgar
+T8	profession 443 451	pédiatre
+T9	irrelevant 418 439	 l’enfant examiné par
+T10	irrelevant 461 497	Dans la nuit du 11 mai à 2h du matin
+T11	disorder 515 534	mouvements anormaux
+T12	disorder 542 610	accès toniques évocateurs de convulsions dans un contexte infectieux
+T13	profession 615 623	pédiatre
+T14	disorder 775 807	suspicion de méningite néonatale
+T15	disorder 826 853	méningite à streptocoque B 
+T16	procedure 882 893	réanimation
+T17	procedure 895 915	ventilation assistée
+T18	disorder 917 938	état de mal convulsif
+T19	irrelevant 940 1026	puis un traitement et une surveillance pendant une quinzaine de jours en néonatalogie,
+T20	disorder 1048 1057	méningite
+T21	disorder 1409 1454	nfection maternelle urinaire à streptocoque B
+T22	procedure 1479 1508	un examen cytobactériologique
+T23	procedure 1226 1281	examen (ou d’examens) cytobactériologique(s) urinaire(s
+T24	disorder 1115 1221	C’est seulement après le transfert de cet enfant que le pédiatre de garde a pris connaissance du résultat 
+T25	disorder 1544 1559	streptocoques B
+T26	labvalue 1532 1540	présence
+T27	disorder 1532 1559	présence de streptocoques B
+T28	procedure 1567 1585	sans leucocyturie:
+T29	procedure 1603 1607	ECBU
+T30	labvalue 1652 1661	 1/champ,
+T31	procedure 1662 1671	STREPTO B
+T32	labvalue 1672 1676	10 5
+T33	procedure 1765 1781	STREPTOCOQUES B 
+T34	labvalue 1781 1785	10 6
+T35	drugs 1819 1831	antibiotique
+T36	profession 1950 1958	pédiatre
+T37	procedure 2089 2109	prélèvement vaginal 
+T38	procedure 2114 2118	ECBU
+T39	procedure 2336 2356	prélèvement vaginal 
+T40	disorder 2630 2649	lésions organiques 
+T41	disorder 2680 2705	troubles psychoaffectifs 
+T42	disorder 2709 2726	troubles précoces
+T43	disorder 2754 2763	angoissée
+T44	irrelevant 2394 2545	mais ne figure pas dans le dossier médical et lorsqu’il sera communiqué à l’expert, il s’agit d’une copie datée de 3 mois et demi après le prélèvement.
+T45	irrelevant 2024 2085	l sera noté lors de l’expertise judiciaire, qu’une ordonnance
+T46	irrelevant 2120 2243	 été faite 3 jours après l’accouchement mais que le résultat de ces examens ne se trouve pas dans le dossier de la clinique
+T47	irrelevant 2245 2331	Ces résultats, importants, n’ont pas été portés à la connaissance de l’équipe médicale
+T48	irrelevant 1833 2022	le 7 avril les urines redevenaient stériles un mois avant son accouchement. C’est seulement en milieu de nuit que le pédiatre téléphone en réanimation pour leur faire part de ces résultats.
+T49	irrelevant 1700 1718	u terme de 7 mois,
+T50	irrelevant 1681 1697	Après traitement

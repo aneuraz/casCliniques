@@ -1,0 +1,98 @@
+Contexte
+
+Mycobacterium tuberculosisest le principal agent responsable de la tuberculose (TB) [1]. On estime qu’un tiers de la population mondiale est infectée par M. tuberculosisavec une incidence de 10,4 millions en 2015, dont 5,9 millions chez les hommes (56%) et 3,5 millions chez les femmes (34%) et finalement 10% chez les enfants [2]. Le continent africain rencontre 26% de tous les cas [3].
+
+La tuberculose péritonéale, qui représente 1 à 2% de toutes les formes de TB, peut se développer n’importe où dans la cavité abdomino-pelvienne, mais elle touche principalement l’épiploon, le tractus intestinal, le foie, la rate ou les organes génitaux féminins en plus du péritoine pariétal et viscéral [4]. La physiopathologie de la tuberculose péritonéale est souvent une dissémination hématogène d’un foyer pulmonaire primaire [5]. Les principaux facteurs de risque de la tuberculose péritonéale sont les patients infectés par le HIV, le diabète sucré et la présence d’une malignité sous-jacente [6–7].
+
+Les manifestations cliniques ne sont pas spécifiques et peuvent imiter des conditions sévères telles qu’une carcinose péritonéale aussi bien chez les hommes que chez les femmes. En effet, les patients peuvent présenter des douleurs abdomino-pelviennes, de la fièvre, une perte de poids et une ascite qui peuvent retarder le diagnostic d’une affection traitable [8]. La tuberculose reste l’une des dix principales causes de décès dans le monde [9].
+
+De nombreuses études, dans les pays en voie de développement, ont montré que les femmes ont souvent un diagnostic erroné de cancer de l’ovaire retenu, et que ce n’est seulement lors de la chirurgie que le diagnostic de tuberculose péritonéale est posé [10]. Le cas que nous présentons est celui d’une femme érythréenne âgée de 22 ans avec de multiples implants miliaires péritonéaux mimant un cancer de l’ovaire avancé.
+
+Présentation du cas
+Anamnèse
+
+Il s’agit d’une femme érythréenne âgée de 22 ans, en Suisse depuis 9 mois, qui se présente aux Urgences de l’hôpital principal du canton du Valais, en Suisse, pour des douleurs abdomino-pelviennes, une perte de poids ainsi qu’une anorexie, présentes depuis plusieurs semaines. Elle avait déjà consulté le service d’urgence d’un autre hôpital local trois semaines auparavant où une masse kystique de l’ovaire droit avait été mise en évidence par échographie (fig. 1).
+
+Figure 1: Echographie montrant une masse kystique de l’ovaire droit de 4,7 × 5,8 × 6,5 cm avec présence de fines cloisons.
+
+Parmi les autres symptômes, elle mentionne un épisode de vomissements sans présence de sang et des selles liquides.
+
+Trois mois avant, la patiente avait été hospitalisée pour une suspicion de pneumonie sans qu’aucun germe ne soit identifié. Lors de cette hospitalisation, un frottis bacilles acido-alcoolo-résistants, une amplification en chaîne par polymérase (PCR) et une culture des expectorations avaient été réalisés et étaient revenus négatifs pour une mycobactérie.
+
+Status
+
+L’examen clinique montre une patiente cachectique. Ses paramètres vitaux sont dans la norme et elle ne présente pas d’état fébrile. Son abdomen est distendu avec présence d’une douleur diffuse, en particulier dans les fosses iliaque droite et gauche. Les bruits intestinaux sont normaux en quantité et en intensité mais la percussion abdominale présente une matité suspecte d’ascite.
+
+Examens complémentaires
+
+Son laboratoire montre des leucocytes dans la norme, une protéine C-réactive à 22,2 mg/l et un CA-125 à 83 kU/l.
+
+Ses sérologies reviennent positives pour une hépatite B chronique (antigène HBs positif, PCR = 20 kUl/L, anti-HBc positif, anti-HBe positif et anti-HBs négatif). Les sérologies de la patiente sont négatives pour l’hépatite A et C, le HIV, l’EBV et le CMV.
+
+À la suite de sa première consultation aux urgences, un bilan d’imagerie par IRM avait été réalisé, montrant une grande quantité d’ascite et des nodules péritonéaux diffus avec prise de contraste progressive pouvant évoquer une péritonite tuberculeuse. Néanmoins, une restriction de la diffusion de ces nodules, en faveur de lésions à haute cellularité, ne permettait pas d’exclure une atteinte tumorale de type carcinose péritonéale. Par ailleurs l’IRM retrouvait également une masse annexielle droite, d’aspect kystique (fig. 2 et 3).
+
+Figure 2: IRM montrant l’ascite et un rehaussement ­progressif des nodules péritonéaux (axial FS T1 à 1 minute après gadolinium).
+
+Figure 3: IRM montrant une masse annexielle droite d’aspect kystique de 8 cm (coronale FS T1 post-gadolinium).
+
+Diagnostic
+
+A ce moment, le diagnostic évoqué est celui d’une tuberculose péritonéale, tout en sachant qu’une carcinose péritonéale restait non exclue. Une ponction d’ascite écho-guidée, envoyée en bactériologie, revient négative pour une mycobactérie (frottis bacilles acido-alcoolo-résistants, amplification en chaîne par polymérase et culture).
+
+Un bilan d’extension par un scanner (CT) thoracique et abdominal est réalisé. Le CT thoracique ne montre pas de lésion du parenchyme pulmonaire compatible avec une TB pulmonaire et le CT abdominal n’apporte aucune information supplémentaire par rapport à l’IRM (présence d’ascite et de multiples nodules péritonéaux).
+
+Au vu des résultats de l’imagerie et du bilan bactériologique négatif pour une mycobactérie, le diagnostic de carcinome ovarien primaire est fortement retenu. Dans ce contexte, nous décidons de poursuivre nos investigations par une laparoscopie diagnostique.
+
+A l’ouverture de la cavité abdominale, nous aspirons 3–4 litres d’ascite qui est envoyé pour analyse en cytologie. A l’inspection de la cavité abdominale, nous visualisons une cavité couverte d’implants miliaires (fig. 4). L’utérus et les annexes sont recouverts par les implants, rendant leur accessibilité difficile et ne permettant clairement pas de les identifier complètement. De multiples biopsies sont prélevées et envoyées en pathologie et bactériologie.
+
+Figure 4: Cavité abdomino-pelvienne couverte d’implants miliaires.
+
+L’ascite revient négative pour des cellules suspectes de malignité mais présente un aspect hautement lymphocytaire. L’histologie révèle des granulomes caséifiants avec des cellules géantes de type Langhans, suspect d’une tuberculose (fig. 5). Néanmoins, l’échantillon envoyé en bactériologie revient négatif pour une mycobactérie (frottis bacilles acido-alcoolo-résistants, amplification en chaîne par polymérase et culture).
+
+Figure 5: Réaction granulomateuse avec cellules géantes de type Langhans (coloration haematoxylin et eosin; grossissement ×200).
+
+Après l’intervention chirurgicale, la patiente se sent nettement mieux avec un retour de l’appétit. Elle rentre à domicile au 5e jour post-opératoire.
+
+Le cas de la patiente est discuté lors de notre colloque pluridisciplinaire d’oncologie où nous proposons d’envoyer un échantillon tissulaire congelé contenant des granulomes caséifiants pour une amplification en chaîne par polymérase à la recherche d’une mycobactérie. L’échantillon revient positif pour une Mycobactérie Complexe TB (1295 copies) multi-sensible.
+
+Traitement et évolution
+
+La patiente reçoit un traitement médical antituberculeux initialement par quadrithérapie pour 2 mois (rifampic­ine, éthambutol, isoniazide et pyrazinamide) puis une bithérapie pour 4 mois (isoniazide et rifampicine). La patiente est suivie cliniquement sans récidive de douleurs abdominales, un regain de l’appétit et une prise de poids. Au vu d’une bonne évolution clinique, sans récidive de la symptomatologie initiale, pas de suivi par imagerie ou par laparoscopie de second intention est préconisé.
+
+Discussion
+
+Ce cas clinique illustre la difficulté de diagnostique d’une TB péritonéale mimant cliniquement une carcinose péritonéale. La TB péritonéale est une maladie guérissable alors que la carcinose péritonéale est une pathologie de pronostic plutôt médiocre. Les symptômes dans les deux cas peuvent être assez similaires rendant le diagnostic différentiel difficile.
+
+Les outils diagnostic pour différencier une TB péritonéale d’une carcinose péritonéale sont multiples. Le référentiel actuel est la culture de mycobactérie, réalisée sur du liquide d’ascite ou sur des biopsies péritonéales [8].
+
+La bactériologie de l’ascite peut aider au diagnostic de la TB péritonéale, mais elle a une valeur prédictive négative basse et les cultures peuvent prendre jusqu’à six semaines.
+
+Parmi les autres outils diagnostic, les valeurs de CA 125 peuvent être utilisées, étant souvent élevées en cas de carcinome de l’ovaire. Néanmoins, les valeurs de CA 125 peuvent également être élevées dans d’autres conditions, telles qu’un état inflammatoire, rendant cet antigène cancéreux aspécifique en cas de TB péritonéale [9].
+
+Quant à la radiographie du thorax, elle peut être parfaitement normale chez 40% des patients atteints de tuberculose, comme c’était le cas avec notre patiente [10].
+
+Enfin, les tests cutanés tuberculiniques permettent de diagnostiquer une infection tuberculeuse, mais un résultat négatif ne permet pas d’exclure la maladie. Par ailleurs, un test tuberculinique positif ne permet pas de savoir si l’infection est active ou latente [11].
+
+Par conséquent, le diagnostic définitif de la TB péritonéale est actuellement souvent posé lors de l’intervention chirurgicale où des biopsies peropératoire sont collectées et analysées [12–13].
+
+Deux études utilisant un essai d’immuno-absorption enzymatique (ELISA) dans le diagnostic de la TB extra-pulmonaire ont montré des résultats prometteurs, mais davantage de recherches sont nécessaires [14–15].
+
+Le traitement actuel de la tuberculose péritonéale comprend des médicaments anti-TB standard avec un suivi clinique régulier.
+
+En raison de l’augmentation de l’émigration de masse en provenance de pays où la prévalence de la tuberculose est élevée, avec des personnes voyageant dans des conditions précaires, la tuberculose devient un problème de santé qui réapparait dans les pays en développement.
+
+En effet, un deuxième cas a été diagnostiqué à l’hôpital de Sion en 2017 et, par l’expérience de ce premier cas, le diagnostic et la prise en charge ont probablement été plus rapide avec un meilleur vécu pour la patiente.
+
+Par conséquent, chez une jeune femme migrante présentant des douleurs abdomino-pelviennes, une masse annexielle et une ascite, la tuberculose péritonéale devrait devenir un standard dans le diagnostic différentiel, même en cas de bactériologie négative sur l’ascite, comme l’illustre notre cas clinique [16].
+
+L’essentiel pour la pratique
+
+• Un tiers de la population mondiale est infectée par M. tuberculosis.
+
+• La tuberculose péritonéale représente 1 à 2% de toutes les formes de ­tuberculoses.
+
+• Chez une femme migrante avec des douleurs abdomino-pelviennes, la tuberculose péritonéale doit devenir un diagnostic différentiel.
+
+• En cas de suspicion de tuberculose péritonéale et une bactériologie ­négative sur du liquide de ponction, un examen bactériologique sur du tissu frais devrait être envisagé.
+
+• Le traitement de la tuberculose péritonéale comprend des médicaments anti-TB standard avec un suivi clinique régulier.

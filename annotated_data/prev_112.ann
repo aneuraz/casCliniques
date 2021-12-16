@@ -1,0 +1,74 @@
+T1	irrelevant 13 90	Femme née en 1943, d’origine étrangère, parlant et comprenant mal le français
+T2	procedure 92 106	Hystérectomie 
+T3	disorder 211 237	douleurs lombaires droites
+T4	procedure 247 257	urographie
+T5	labvalue 263 337	image kystique du pôle supérieur du rein droit contenant une calcification
+T6	disorder 339 364	diverticule avec lithiase
+T7	disorder 581 638	égère cystocèle entraînant des fuites urinaires d’effort 
+T8	disorder 753 771	lombalgies droites
+T9	disorder 775 818	aggravation des fuites urinaires à l’effort
+T10	disorder 825 848	pparition de cystalgies
+T11	disorder 878 898	cystocèle de grade 2
+T12	disorder 984 1002	cystoptose franche
+T13	disorder 1104 1116	lombarthrose
+T14	disorder 1446 1505	douleurs pelviennes diffuses et lombaires mal systématisées
+T15	procedure 1233 1306	repositionner le bas appareil urinaire en fermant l’angle cervico-urétral
+T16	disorder 1523 1540	hématurie récente
+T17	procedure 1555 1594	examen scanographique abdomino-pelvien 
+T18	risk 1806 1832	des agressions familiales 
+T19	disorder 2014 2023	cystocèle
+T20	disorder 2053 2073	 douleurs pelviennes
+T21	disorder 2081 2091	cystalgies
+T22	procedure 2300 2317	cure du prolapsus
+T23	procedure 2351 2442	mise en place d’une prothèse de Mersilène entre la face inférieure de la vessie et le vagin
+T24	procedure 2611 2629	technique de Burch
+T25	procedure 2953 2964	échographie
+T26	procedure 2698 2730	réparation du périnée postérieur
+T27	disorder 3309 3332	gonflement de l’abdomen
+T28	disorder 3334 3347	constipation,
+T29	disorder 3348 3356	brûlures
+T30	procedure 3396 3412	bilan biologique
+T31	labvalue 3432 3468	taux d’hémoglobine à 11, 4 g/ 100 ml
+T32	labvalue 3470 3490	une VS à 22mm (à 1h)
+T33	labvalue 3492 3517	une créatinémie à 16 mg/l
+T34	procedure 3519 3538	L’examen des urines
+T35	disorder 3826 3842	algies multiples
+T36	disorder 3858 3867	céphalées
+T37	disorder 3875 3895	douleurs abdominales
+T38	procedure 3929 3941	radiographie
+T39	procedure 3928 3971	 radiographie sans préparation de l’abdomen
+T40	drugs 4073 4081	Laroxyl®
+T41	procedure 4247 4259	 échographie
+T42	labvalue 4309 4356	dilatation des cavités pyélocalicielles gauches
+T43	disorder 4635 4686	une dilatation des cavités pyélocalicielles gauches
+T44	procedure 4940 4958	urétro-cystoscopie
+T45	disorder 5018 5040	es douleurs pelviennes
+T46	labvalue 5399 5455	dilatation marquée des cavités pyélo-calicielles gauches
+T47	procedure 5374 5385	échographie
+T48	procedure 5579 5592	urographie IV
+T49	labvalue 5602 5619	petit rein gauche
+T50	labvalue 5659 5703	’absence d’opacification des cavités gauches
+T51	procedure 5876 5907	examen scanographique abdominal
+T52	labvalue 5946 5967	urétéro-hydronéphrose
+T53	labvalue 5973 6025	un petit rein gauche prenant faiblement le contraste
+T54	labvalue 6029 6093	uretère apparait dilaté jusqu’au niveau de l’abouchement vésical
+T55	procedure 6121 6141	scintigraphie rénale
+T56	labvalue 6156 6181	sécrétion de 93% à droite
+T57	labvalue 6188 6199	7% à gauche
+T58	procedure 6303 6336	urétérolyse du bas uretère gauche
+T59	disorder 7715 7770	rûlures dans le ventre qui remontent dans tout le corps
+T60	disorder 7785 7799	fuites d’urine
+T61	labvalue 7883 7910	créatinémie était à 12 mg/l
+T62	labvalue 7916 7955	 clearance de la créatinine à 50 ml/min
+T63	procedure 7450 7476	ablation de ce rein gauche
+T64	risk 7522 7540	menace d’infection
+T65	labvalue 7543 7570	eucocyturie à 140 000 / mm3
+T66	procedure 7619 7631	coelioscopie
+T67	labvalue 6383 6440	Zone de sclérose intense paravésicale engainant l’uretère
+T68	procedure 6695 6714	ection de l’uretère
+T69	procedure 6775 6806	réimplantation urétéro-vésicale
+T70	procedure 6849 6861	pyélographie
+T71	procedure 6879 6907	sonde urétérale extériorisée
+T72	disorder 7028 7090	A sa sortie, la patiente décide de consulter un autre urologue
+T73	labvalue 7377 7406	8 % à gauche et 92 % à droite
+T74	procedure 7355 7375	scintigraphie rénale

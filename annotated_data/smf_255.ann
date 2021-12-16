@@ -1,0 +1,50 @@
+T1	disorder 66 90	 hypertension artérielle
+T2	disorder 98 110	dyslipidémie
+T3	disorder 159 187	douleurs thoraciques gauches
+T4	disorder 325 333	douleurs
+T5	disorder 381 389	dyspnée 
+T6	disorder 413 421	 nausées
+T7	procedure 567 575	anamnèse
+T8	procedure 20 28	Anamnèse
+T9	disorder 667 677	hypertendu
+T10	labvalue 680 693	190/110 mm Hg
+T11	disorder 838 868	douleur basi-thoracique gauche
+T12	procedure 987 1017	auscultation cardio-pulmonaire
+T13	procedure 1057 1067	troponines
+T14	labvalue 1068 1077	négatives
+T15	procedure 1082 1091	NT-proBNP
+T16	labvalue 1094 1102	309 ng/l
+T17	procedure 1129 1138	D-dimères
+T18	labvalue 1141 1151	1524 ng/ml
+T19	procedure 1176 1188	radiographie
+T20	procedure 1204 1223	électrocardiogramme
+T21	procedure 1259 1276	échocardiographie
+T22	disorder 1313 1332	cœur hypertrophique
+T23	procedure 1367 1374	CT-scan
+T24	disorder 1501 1587	infiltration focale de la graisse épi-péricardique à l’angle cardio-­phrénique gauche 
+T25	disorder 1595 1634	aspect de coussinet graisseux encapsulé
+T26	disorder 1648 1675	épaississement du péricarde
+T27	disorder 1737 1769	épanchement pleural basal gauche
+T28	procedure 1801 1819	image radiologique
+T29	disorder 1844 1885	infarctus de la graisse épi-péricardique 
+T30	procedure 1910 1929	 CT-scan thoracique
+T31	disorder 1966 1989	masse ovoïde encapsulée
+T32	disorder 2136 2163	épaississement du péricarde
+T33	disorder 2209 2241	épanchement pleural basal gauche
+T34	procedure 2328 2346	CT-scan thoracique
+T35	disorder 2360 2372	masse ovoïde
+T36	disorder 2415 2461	épanchement pleural basal gauche par la flèche
+T37	procedure 2464 2499	Diagnostic, traitement et évolution
+T38	disorder 2594 2634	infarctus de la graisse épi-péricardique
+T39	procedure 2650 2671	traitement antalgique
+T40	drugs 2675 2686	paracétamol
+T41	drugs 2692 2702	ibuprofène
+T42	disorder 2762 2789	symptomatologie douloureuse
+T43	disorder 2795 2803	douleurs
+T44	irrelevant 2879 4142	Décrit pour la première fois en 1957, l’infarctus de la graisse épi-péricardique est une entité rare et bénigne pouvant occasionner de fortes douleurs thoraciques par un processus inflammatoire local [1]. Cette atteinte est présente chez environ 2,6% des patients adressés aux ­urgences chez qui un CT-scan thoracique est effectué en raison de douleurs thoraciques [1]. Elle se présente, dans la plupart des cas, par une douleur thoracique gauche et peut être accompagnée de dyspnée, tachycardie et diaphorèse [2]. La symptomatologie douloureuse peut durer quelques jours et survenir sous forme d’épisodes intermittents [3]. L’étiologie exacte reste, à l’heure actuelle, toujours inconnue. Néanmoins, plusieurs hypothèses ont été postulées. Une torsion d’un pédicule graisseux qui causerait son ischémie pourrait être en cause. De ce fait, la présence d’un lipome, d’un hamartome ou d’une lipomatose ont été décrits comme des facteurs prédisposant à la torsion du pédicule [4]. Une manœuvre de Valsalva entrainant une hémorragie par augmentation de la pression capillaire dans le tissu adipeux a également été mentionnée comme hypothèse [3]. Enfin, le surpoids ou l’obésité pourraient être des facteurs de risque, par ­augmentation de la graisse épi-pericardique 
+T45	irrelevant 4148 5221	La triade radio-clinique classique, fortement suggestive d’un infarctus de la graisse épi-péricardique, inclut une douleur thoracique aiguë, une lésion encapsulée dans la graisse épi-péricardique et un épaississement du péricarde [3]. Une effusion pleurale et/ou une atélectase pulmonaire peuvent être associées [1]. Bien que la radiographie thoracique puisse, parfois, objectiver la présence d’une opacité para-cardiaque, le CT-scan thoracique est l’examen de choix pour le diagnostic [3]. A l’échographie, examen de plus en plus utilisé dans un contexte d’évaluation aux urgences, des nodules hyper­échogènes dans la graisse épi-péricardique, entourés d’un halo hypoéchogène, peuvent être mis en évidence. De plus, une augmentation de l’échogénicité du tissu adipeux adjacent au nodule est souvent retrouvée [4]. Des changements électrocardiographiques non-spécifiques au sein des segments ST et des ondes T, suggérant une ischémie myocardique ou une péricardite en résolution peuvent être retrouvés à l’ECG [2]. Enfin, l’examen clinique seul est souvent peu contri­butif
+T46	irrelevant 5224 5513	Cette pathologie, certainement sous-diagnostiquée, est à évoquer chez tout patient présentant une douleur thoracique aiguë; cela après avoir écarté la présence d’un syndrome coronarien aigu, d’une péricardite ­aiguë, d’une dissection aortique, d’une embolie pulmonaire ou d’un pneumothorax
+T47	irrelevant 5516 5821	Le diagnostic différentiel comprend le lipome, le liposarcome, le tératome, le thymo-lipome, les kystes bronchogéniques ou péricardique, une adénopathie ou un abcès. Nous pouvons également mentionner une hernie hiatale avec de la graisse abdominale qui occupe l’espace cardio-phrénique et la médiastinite 
+T48	irrelevant 5830 6023	Il est important de reconnaitre radiologiquement cette entité clinique afin d’éviter, pour le patient, la réalisation d’examens plus invasifs inutiles, telle qu’une ­thoracoscopie exploratrice 
+T49	irrelevant 6029 6505	Le traitement de cette pathologie est symptomatique avec des anti-inflammatoires non-stéroïdiens [1]. La résolution de la symptomatologie se fait habituellement en quelques semaines. A noter que l’infarctus graisseux ne prédispose pas à un infarctus myocardique. Un suivi clinique avec un CT-scan de contrôle dans les 2 mois suivant l’épisode sont recommandés par certains auteurs pour confirmer la guérison attendue [1]. Le but est d’exclure une pathologie tumorale évolutive
+T50	irrelevant 6508 6536;6538 6663;6665 6757;6759 6955;6957 7087	L’essentiel pour la pratique  • L’infarctus de la graisse épi-péricardique est une cause rare et souvent sous-diagnostiquée de douleurs thoraciques aiguës.  • Bien que plusieurs hypothèses aient été formulées, sa pathogénèse ​­exacte reste inconnue.  • La reconnaissance par le médecin urgentiste et le radiologue de cette entité bénigne et autolimitée est importante afin d’éviter la réalisation d’examens ultérieurs, surtout s’ils sont invasifs.  • Le traitement est conservateur et se base essentiellement sur la prescription de médicaments anti-inflammatoires non stéroïdiens

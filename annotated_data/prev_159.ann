@@ -1,0 +1,42 @@
+T1	disorder 106 130	 utérus poly-fibromateux
+T2	procedure 211 223	 myomectomie
+T3	procedure 271 285	hystérectomie 
+T4	disorder 315 340	réserve ovarienne altérée
+T5	procedure 528 541	 laparotomie 
+T6	procedure 873 920	avis est demandé auprès des FIVistes du service
+T7	labvalue 1262 1279	anémie à 8.3 g/dL
+T8	procedure 1285 1296	cure de fer
+T9	labvalue 1397 1411	Hb à 9.0 g/dL.
+T10	disorder 1506 1511	myome
+T11	procedure 1638 1660	5 myomes sont énucléés
+T12	procedure 1715 1730	 polytransfusée
+T13	procedure 1745 1780	igatures des artères hypogastriques
+T14	procedure 1881 1894	 embolisation
+T15	procedure 1912 1979	ligature complète de l’artère iliaque gauche et incomplète à droite
+T16	procedure 1981 2063	Embolisation de l’artère utérine et du tronc antérieur de l’artère iliaque interne
+T17	disorder 2118 2131	fièvre à 38.5
+T18	procedure 2179 2203	 transfusion à J2 et J3.
+T19	disorder 2232 2283	vomissements puis diarrhées et douleurs abdominales
+T20	procedure 2323 2326	TDM
+T21	labvalue 2332 2349	syndrome occlusif
+T22	procedure 2351 2380	 pose de sonde naso-gastrique
+T23	labvalue 2420 2431	Vancomycine
+T24	disorder 2438 2470	infection clostridium difficile 
+T25	disorder 2486 2515	 infection urinaire à E Coli 
+T26	labvalue 2549 2566	Ceftriaxone (C3G)
+T27	procedure 2631 2711	doppler des membres inférieurs, Radio du Thorax. Les hémocultures du KT central 
+T28	labvalue 2721 2750	 positives à un staphylocoque
+T29	procedure 2820 2833	arrêt de C3G.
+T30	drugs 2856 2864	Orbénine
+T31	labvalue 2997 3075	 péritonite réactionnelle à la nécrose utérine, épanchement pleural bilatéral.
+T32	labvalue 3161 3183	 CRP entre 110 et 120.
+T33	labvalue 3209 3382	rupture utérine, péritonite, abcès utérin, collection latérale droite avec fistule cicatrice sous ombilicale. Epanchement pleural droit, atélectasie du lobe inférieur droit.
+T34	procedure 3396 3416	reprise chirurgicale
+T35	procedure 3418 3455	 drainage avec hystérectomie possible
+T36	procedure 3605 3650	patiente est transfusée durant l’intervention
+T37	disorder 3665 3703	 frissons et d’une hyperthermie à 40° 
+T38	disorder 3729 3752	accident transfusionnel
+T39	procedure 3864 3915	hystérectomie totale avec salpingectomie bilatérale
+T40	disorder 3930 3965	 plaie du grêle et plaie de vessie 
+T41	drugs 4105 4151	 tazocilline®, amiklin®, zyvoxid® et mycanine®
+T42	disorder 4380 4414	cicatrice chéloïde péri-ombilicale

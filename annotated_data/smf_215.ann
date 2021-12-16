@@ -1,0 +1,48 @@
+T1	irrelevant 0 8;10 968	Contexte  Le terme «aorte de porcelaine» est utilisé lorsque l’aorte (avant tout l’aorte ascendante) présente des calcifications, le plus souvent circonférentielles, prononcées. Dans le cadre des interventions cardiologiques et des interventions de chirurgie cardiaque, les calcifications de l’aorte ascendante et de la crosse aortique jouent un grand rôle, car les manipulations interventionnelles et/ou chirurgicales au niveau de l’aorte ascendante et au niveau proximal de la naissance des troncs supra-aortiques sur la crosse aortique peuvent être responsables d’embolies cérébrales, périphériques et plus rarement, viscérales. Ces embolies exposent à un risque élevé d’accident vasculaire cérébral avec ­séquelles neurologiques permanentes. La dissection ­aortique et la rupture aortique sont plus rares [1–3]. Les patients avec aorte de porcelaine doivent bénéficier d’une stratégie thérapeutique individuelle, qui devrait être déterminée par l’équipe cardiaque.
+T2	disorder 1054 1061	dyspnée
+T3	disorder 1093 1117	 sténose aortique sévère
+T4	disorder 1130 1150	insuffisance modérée
+T5	disorder 1154 1190	coronaropathie tritronculaire sévère
+T6	disorder 1203 1261	sténose ­ostiale de l’artère interventriculaire antérieure
+T7	profession 1272 1283	cardiologue
+T8	procedure 1298 1321	intervention percutanée
+T9	disorder 1358 1372	calcifications
+T10	procedure 1420 1442	résection chirurgicale
+T11	procedure 1450 1473	radiothérapie adjuvante
+T12	disorder 1489 1509	carcinome du pharynx
+T13	disorder 1567 1595	calcification post-actinique
+T14	irrelevant 1698 1995	Figure 1: Tomodensitométrie (TDM) avec représentation de l’aorte de porcelaine. Angio-TDM de planification préopératoire. Coupe sagittale médiane: aorte ascendante fortement calcifiée (encerclée). Ao: aorte ascendante; P: tronc pulmonaire; LA: oreillette gauche; LV: ventricule gauche; S: Sternum.
+T15	disorder 2021 2047	troubles de la déglutition
+T16	procedure 2068 2099	intervention pharyngée radicale
+T17	disorder 2163 2204	bronchopneumopathie chronique obstructive
+T18	disorder 2210 2261	artériopathie oblitérante périphérique et cérébrale
+T19	disorder 2274 2293	insuffisance rénale
+T20	disorder 2301 2355	limitation modérée de la fonction ventriculaire gauche
+T21	risk 2376 2387	Euroscore I
+T22	risk 2471 2484	 risque élevé
+T23	disorder 2488 2514	aorte ascendante calcifiée
+T24	procedure 2744 2780	 intervention chirurgicale classique
+T25	disorder 2825 2863	artériopathie oblitérante périphérique
+T26	procedure 2875 2892	procédure hybride
+T27	procedure 2918 2941	remplacement valvulaire
+T28	procedure 2960 2989	implantation de prothèse TAVI
+T29	procedure 3015 3070	remplacement valvulaire aortique par voie transcathéter
+T30	procedure 3008 3012	TAVI
+T31	procedure 3112 3131	sternotomie médiane
+T32	disorder 3172 3191	aorte de porcelaine
+T33	disorder 3232 3246	calcifications
+T34	disorder 3339 3377	calcifications au niveau de l’épicarde
+T35	disorder 3384 3400	tronc pulmonaire
+T36	irrelevant 3430 3840	Figure 2: Vue intra-opératoire après ouverture du péricarde via une sternotomie ­médiane. Aorte (Ao) de porcelaine prononcée. En outre, épaississements en plaques avec calcifications blanchâtres au niveau de l’épicarde et du tronc pulmonaire en tant que conséquence de la radiothérapie du médiastin. Ao: aorte ascendante; P: tronc pulmonaire; RA: oreillette droite; RV: ventricule droit; LV: ventricule gauche.
+T37	procedure 3877 3919	circulation extracorporelle normothermique
+T38	procedure 3924 3946	cathétérisme artériel 
+T39	procedure 4328 4381	la valve aortique sévèrement calcifiée a été réséquée
+T40	procedure 4387 4421	anneau valvulaire a été décalcifié
+T41	procedure 4455 4491	 valve TAVI expansible par ballonnet
+T42	procedure 4829 4849	deux sutures Prolene
+T43	procedure 4911 4938	circulation extracorporelle
+T44	irrelevant 5244 5381	Figure 3: Angio-TDM postopératoire avec la valve TAVI (encerclée) en position aortique correcte. L li: poumon gauche; L re: poumon droit.
+T45	disorder 5403 5429	troubles de la déglutition
+T46	procedure 5454 5495	résection et une radiothérapie du pharynx
+T47	disorder 5585 5594	pneumonie
+T48	irrelevant 5756 5766;5768 7171;7173 7558;7560 7945;7947 8642;8644 9262;9264 9638;9640 9668;9670 9762;9764 9967;9969 10056	Discussion  Des calcifications de l’aorte ascendante s’observent chez jusqu’à 6–8% de tous les patients chez lesquels une revascularisation coronarienne ou un remplacement valvulaire aortique est planifié(e) [1, 4]. Cela peut fortement augmenter le taux de complications neurologiques [2, 3, 5]. Pour cette raison, l’«aorte de porcelaine» est aujourd’hui considérée comme une contre-indication relative à une intervention chirurgicale conventionnelle. Les recommandations des sociétés européennes de cardiologie et de chirurgie cardiaque considèrent l’aorte de porcelaine comme un problème particulier lors de lequel une procédure par cathétérisme doit généralement être privilégiée [6]. Les publications américaines soutiennent également ce point de vue [7]. Déjà dans les années 1980, des stratégies ont été définies afin d’éviter le risque d’embolie potentielle incontrôlable durant une intervention de chirurgie cardiaque. En font partie: 1) une canulation périphérique pour le retour artériel (iliaque ou axillaire), 2) l’occlusion intraluminale par ballon de l’aorte au lieu d’un clampage de l’extérieur, 3) l’arrêt circulatoire en hypothermie afin de mieux contrôler le site du clampage ou de remplacer l’aorte calcifiée sans nécessité de clampage, et 4) la technique «no aortic touch» consistant en une revascularisation coronarienne avec ­anastomoses en T ou Y sans toucher l’aorte, à cœur ­battant [8–11].  Dans le cas présent, après concertation avec les cardiologues, le patient a bénéficié de l’implantation d’une valve TAVI sous contrôle visuel direct, ce qui a permis un positionnement idéal de la valve dans l’anneau natif décalcifié, bien que l’aorte ait été ouverte à une localisation beaucoup plus crâniale que d’habitude, ce qui a quelque peu compliqué l’accès à la racine aortique.  La planification d’une telle intervention requiert une collaboration étroite avec les cardiologues et anesthésistes. L’analyse précise de la distribution des calcifications, le choix du site optimal pour le cathétérisme arté­riel, le type de protection cérébrale et finalement la définition des variantes minimales et maximales sont les prérequis essentiels d’une intervention réussie.  La «procédure hybride» décrite dans cet article est une option chirurgicale interventionnelle moderne pour résoudre ce problème. Une implantation TAVI classique n’a pas été retenue comme option pour le traitement de la sténose aortique en raison de l’artériopathie oblitérante périphérique. Un accès transapical aurait été possible et la revascularisation de l’IVA aurait en principe aussi pu se faire par cet abord latéral, mais cette ­approche ne constitue pas une procédure standard dans notre clinique. En outre, après radiothérapie du médiastin et sténose aortique sévère, la TAVI classique est associée à un taux accru de migration de la valve TAVI et de rupture de l’anneau aortique [12].  La technique utilisée dans notre cas présentait l’avantage que la valve aortique native fortement calcifiée a pu être réséquée complètement et que l’anneau aortique a pu être totalement décalcifié. Cela a très probablement en des répercussions positives sur le taux de fuites paravalvulaires. Une alternative aurait été l’implantation d’une valve sans suture (par exemple Perceval® de Liva Nova ou Intuity® de Edwards). Dans la mesure où nous avons déjà réalisé des interventions similaires avec nos cardiologues pour des valvulopathies aortiques et mitrales, il nous a semblé facile d’utiliser la valve TAVI [13, 14].  Il nous paraît nécessaire et important que la future ­génération de chirurgiens cardiaques connaisse et mette en pratique les possibilités stratégiques des interventions de chirurgie cardiaque en présence d’une aorte de porcelaine. Cela reste essentiel pour les patients chez lesquels une procédure TAVI ne serait pas encore indiquée ou serait exceptionnellement infaisable.  L’essentiel pour la pratique  • Une aorte de porcelaine ne représente pas une contre-indication à une chirurgie cardiaque.  • Les interventions au niveau du cœur sont pratiquement toujours faisables chez les patients avec aorte de porcelaine. Elles requièrent toutefois une évaluation minutieuse au sein d’une équipe cardiaque.  • Les procédures hybrides peuvent présenter des avantages lors de telles interventions.

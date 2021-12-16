@@ -1,0 +1,36 @@
+T1	irrelevant 0 14;18 35	L'enfant bleue    Anamnèse actuelle
+T2	disorder 87 97	bronchites
+T3	disorder 101 118	toux à répétition
+T4	disorder 124 140	accès de cyanose
+T5	disorder 142 160	Dyspnée à l'éffort
+T6	irrelevant 163 181	Anamnèse familiale
+T7	disorder 252 261	infarctus
+T8	disorder 292 295	HTA
+T9	disorder 337 355	décédée subitement
+T10	irrelevant 394 416	Antécédents personnels
+T11	procedure 455 473	Poids de naissance
+T12	labvalue 474 481	3kg 200
+T13	procedure 483 499	taille naissance
+T14	labvalue 500 505	52 cm
+T15	irrelevant 667 703	Traitement actuel (principes actifs)
+T16	irrelevant 544 562	Vaccins habituels.
+T17	drugs 709 719	Propanolol
+T18	drugs 740 751	Mebendazole
+T19	drugs 769 782	Métronidazole
+T20	irrelevant 800 815	Status clinique
+T21	procedure 819 824	Poids
+T22	labvalue 825 832	12.1 kg
+T23	procedure 834 840	taille
+T24	labvalue 841 846	96 cm
+T25	procedure 848 850	TA
+T26	labvalue 851 856	94/56
+T27	procedure 858 860	FC
+T28	labvalue 862 868	24/min
+T29	procedure 870 891	Saturation en oxygène
+T30	labvalue 892 896	66%.
+T31	disorder 897 904	Cyanose
+T32	disorder 906 926	hippocratisme digita
+T33	disorder 929 994	Impulsion cardiaque palpable le long du rebord parasternal gauche
+T34	disorder 1013 1074	souffle systolique éjectionnel 4/6 rugueux au 2ème EIC gauche
+T35	procedure 1160 1183	Auscultation pulmonaire
+T36	irrelevant 1199 1238;1242 1256	Etape suivante : choix du bilan initial    2010/08/24, ms

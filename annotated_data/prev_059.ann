@@ -1,0 +1,39 @@
+T1	disorder 60 97	ugmentation de volume de sa thyroïde 
+T2	disorder 109 139	 masse sus-claviculaire gauche
+T3	procedure 175 201	examen tomodensitométrique
+T4	disorder 226 299	volumineuse masse vraisemblablement ganglionnaire sus-claviculaire gauche
+T5	disorder 313 341	lésion thyroïdienne de 20 mm
+T6	disorder 433 464	carcinome thyroïdien papillaire
+T7	disorder 434 511	arcinome thyroïdien papillaire avec localisation carcinomateuse ganglionnaire
+T8	disorder 604 640	 extension de la chirurgie au thorax
+T9	disorder 774 824	cancer de la thyroïde avec infiltration cervicale 
+T10	procedure 951 994	thyroïdectomie plus curage avec sternotomie
+T11	procedure 1010 1050	radiothérapie métabolique complémentaire
+T12	drugs 1133 1141	Solupred
+T13	drugs 1201 1210	Symbicort
+T14	drugs 1212 1222	turbuhaler
+T15	drugs 1226 1234	Pulmicor
+T16	drugs 1318 1326	Serevent
+T17	drugs 1329 1334	Netux
+T18	drugs 1339 1346	Silomat
+T19	irrelevant 1350 1683	Le même jour, la patiente entre à la clinique. Elle est vue en consultation de cardiologie qui ne retrouve aucune anomalie. Lors de la consultation d’anesthésie, il n’est pas fait mention de difficultés respiratoires (rubrique « appareil respiratoire » barrée). Le traitement prescrit le 26 septembre par le pneumologue est mentionné
+T20	drugs 1795 1802	Lexomil
+T21	procedure 1970 2122	thyroïdectomie totale avec curage ganglionnaire cervical récurentiel, jugulo-carotidien, sus-claviculaire et cervical postérieur par voie cervicale pure
+T22	procedure 2128 2156	examen anatomo-pathologique 
+T23	disorder 2170 2242	carcinome papillaire isthmique avec multiples métastases ganglionnaires 
+T24	drugs 2406 2413	Lovenox
+T25	drugs 2459 2468	Cefacidal
+T26	drugs 2471 2477	Mopral
+T27	drugs 2499 2506	Fentani
+T28	drugs 2512 2521	Perfalgan
+T29	drugs 2486 2497	antalgiques
+T30	disorder 2764 2778	 toux nocturne
+T31	procedure 2680 2688	diurèse 
+T32	labvalue 2668 2674	5l/min
+T33	procedure 3084 3113	 toilette autonome au lavabo 
+T34	drugs 3344 3352	Dafalgan
+T35	drugs 3355 3362	Codéine
+T36	drugs 3364 3369	Netux
+T37	procedure 3491 3541	aérosols sont réalisés avec du sérum physiologique
+T38	disorder 4151 4161	 nauséeuse
+T39	disorder 3965 3976	 dyspnéique

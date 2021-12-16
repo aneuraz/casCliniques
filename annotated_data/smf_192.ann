@@ -1,0 +1,122 @@
+T1	disorder 147 154	La toux
+T2	disorder 158 167	la fièvre
+T3	disorder 173 197	une opacité concomitante
+T4	procedure 203 226	radiographie thoracique
+T5	disorder 259 268	pneumonie
+T6	disorder 413 427	une pneumonie 
+T7	disorder 534 569	une ­tumeur pulmonaire inhabituelle
+T8	labvalue 615 623	cinq ans
+T9	profession 697 718	 pédiatre à l’hôpital
+T10	disorder 772 792	une toux productive,
+T11	disorder 793 825	une rhinite et une fièvre élevée
+T12	labvalue 843 858	jusqu’à 40,3 °C
+T13	drugs 916 927	 ibuprofène
+T14	disorder 974 992	outre une diarrhée
+T15	disorder 1001 1005	vomi
+T16	procedure 1050 1062	L’hémogramme
+T17	profession 1075 1086	le pédiatre
+T18	anatomy 1096 1118	des leucocytes normaux
+T19	labvalue 1120 1128	5,3 G/l)
+T20	procedure 1132 1175	une protéine C réactive légèrement augmenté
+T21	labvalue 1178 1193	CRP, 13,9 mg/l)
+T22	disorder 1216 1246	bruit respiratoire asymétrique
+T23	procedure 1310 1322	radiographie
+T24	anatomy 1325 1332	 thorax
+T25	procedure 1354 1410	une volumineuse diminution de la transparence pulmonaire
+T26	disorder 1459 1486	une perte de poids d’1,2 kg
+T27	disorder 1670 1700	une légère obstruction ­nasale
+T28	labvalue 1736 1743	 20/min
+T29	procedure 1702 1728	sa fréquence respiratoire 
+T30	procedure 1747 1772	sa saturation en oxygène 
+T31	labvalue 1774 1779	 97% 
+T32	disorder 1840 1859	une hypoventilation
+T33	anatomy 1873 1892	l’hémithorax gauche
+T34	disorder 1912 1919	rougeur
+T35	anatomy 1922 1930	 pharynx
+T36	procedure 1990 2017	La radiographie thoracique 
+T37	disorder 2034 2060	une consolidation acinaire
+T38	anatomy 2083 2106	lobe supér­ieur gauche 
+T39	procedure 2127 2155	La radiographie thoracique l
+T40	disorder 2209 2279	une consolidation acinaire confluente étendue du lobe supérieur gauche
+T41	disorder 2310 2328	 pneumonie gauche,
+T42	procedure 2378 2408	antibiothérapie intraveineuse 
+T43	drugs 2409 2421	amoxicilline
+T44	procedure 2444 2459	oxygénothérapie
+T45	procedure 2484 2497	L’échographie
+T46	disorder 2527 2565	consolidation du lobe supérieur gauche
+T47	disorder 2580 2590	la lingula
+T48	disorder 2610 2631	pleural hyperéchogène
+T49	procedure 2693 2725	 l’antibiothérapie intraveineuse
+T50	procedure 2753 2773	’une antibiothérapie
+T51	procedure 2774 2779	orale
+T52	drugs 2912 2924	antibiotique
+T53	labvalue 2932 2942	dix jours.
+T54	procedure 2980 2999	l’examen d’imagerie
+T55	profession 3068 3079	pneumologie
+T56	disorder 3169 3186	la perte de poids
+T57	disorder 3242 3260	bruit respiratoire
+T58	disorder 3321 3342	détresse respiratoire
+T59	procedure 3349 3374	une saturation en oxygène
+T60	procedure 3408 3422	La spirométrie
+T61	procedure 3454 3480	une capacité vitale forcée
+T62	labvalue 3482 3499	CVF) d’1,21 litre
+T63	labvalue 3501 3525	84% de la valeur prédite
+T64	procedure 3530 3571	un volume expiratoire maximal par seconde
+T65	labvalue 3578 3617	 d’1,13 litre (93% de la valeur prédite
+T66	procedure 3625 3656	 la pléthysmographie corporelle
+T67	labvalue 3715 3754	à 1,21 litre (79% de la valeur prédite)
+T68	procedure 3759 3782	radiographie thoracique
+T69	procedure 3845 3882	La tomodensitométrie (TDM) thoracique
+T70	labvalue 3960 3981	diamètre de 11 × 4 cm
+T71	procedure 4305 4343	une thoracotomie gauche a été réalisée
+T72	anatomy 4422 4433	à un lipome
+T73	procedure 4681 4707	L’examen histopathologique
+T74	disorder 4717 4746	une tumeur graisseuse mature 
+T75	disorder 4746 4755	pédiculée
+T76	labvalue 4762 4790	taille de 140 × 100 × 50 mm 
+T77	anatomy 4799 4885	travées vasculaires éparses au niveau focal ainsi que des altérations myxoïdes focales
+T78	disorder 5016 5044	altérations myxoïdes focales
+T79	labvalue 5221 5236	quatre semaines
+T80	procedure 5192 5215	contrôle ­radiologique 
+T81	procedure 5286 5324	Radiographie thoracique postopératoire
+T82	disorder 5402 5416	toux et fièvre
+T83	disorder 5476 5489	une pneumonie
+T84	procedure 5544 5566	radiographie du thorax
+T85	procedure 5654 5667	l’échographie
+T86	disorder 5778 5792	lipome pleural
+T87	procedure 5670 5694	a radiographie du thorax
+T88	disorder 5832 5854	 la croissance tumoral
+T89	disorder 5984 6020	Les affections tumorales pulmonaires
+T90	disorder 6186 6204	toux et la fièvre,
+T91	disorder 6230 6239	pneumonie
+T92	disorder 6265 6290	une détresse respiratoire
+T93	disorder 6297 6320	 symptômes thoraciques;
+T94	disorder 6375 6395	 une perte d’appétit
+T95	disorder 6399 6435	une consommation réduite de liquides
+T96	disorder 6441 6455	déshydratation
+T97	disorder 6464 6527	 douleurs abdominales ou uniquement par un état général diminué
+T98	disorder 6666 6692	es infections parasitaires
+T99	disorder 6734 6760	une tuberculose pulmonaire
+T100	disorder 6781 6798	un lymphome malin
+T101	disorder 6885 6892	lipomes
+T102	anatomy 6930 6934	peau
+T103	anatomy 7217 7396	lipomes intra-thoraciques, lipomes de localisation intra-thoracique avec extension crâniale et finalement, lipomes de localisation intra-thoracique avec extension extra-thoracique
+T104	disorder 7425 7453	tumeurs sont asymptomatiques
+T105	procedure 7511 7537	la radiographie thoracique
+T106	procedure 7538 7578	sous forme de diminution de transparence
+T107	procedure 7583 7598	 TDM thoracique
+T108	procedure 7651 7675	masse homogène hypodense
+T109	disorder 7778 7803	Ces tumeurs sont bénignes
+T110	procedure 7860 7870	(un poids 
+T111	labvalue 7881 7886	8 kg 
+T112	disorder 8042 8053	congénitaux
+T113	disorder 7989 8018	Les lipomes intra-thoraciques
+T114	procedure 8095 8115	ne excision complète
+T115	disorder 8119 8129	la tumeur 
+T116	disorder 8411 8473	d’une pneumonie ou d’anomalie radiologique prononcée évocatric
+T117	procedure 8492 8516	un contrôle radiologique
+T118	labvalue 8547 8571	trois à quatre semaines 
+T119	disorder 8659 8696	Les lipomes sont des tumeurs bénignes
+T120	anatomy 8735 8743	 la peau
+T121	anatomy 8795 8812	intra-­thoracique
+T122	profession 8983 8999	asymptomatiques.

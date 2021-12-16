@@ -1,0 +1,18 @@
+T1	disorder 184 219	fausses couches spontanées précoces
+T2	disorder 257 270	hypofertilité
+T3	drugs 418 424	Clomid
+T4	drugs 480 491	Puregon® 50
+T5	labvalue 671 698	 follicule ovarien de 25x17
+T6	drugs 825 828	HCG
+T7	drugs 921 929	bêta HCG
+T8	disorder 1152 1179	douleurs pelviennes droites
+T9	procedure 1252 1274	 échographie pelvienne
+T10	labvalue 1345 1424	grossesse arrêtée avec présence d’un corps jaune kystique de 43 mm de diamètre 
+T11	procedure 1603 1622	curetage évacuateur
+T12	labvalue 2126 2141	vacuité utérine
+T13	disorder 2225 2237	métrorragies
+T14	drugs 2514 2523	Methergin
+T15	disorder 3299 3323	 grossesse extra-utérine
+T16	procedure 3772 3802	ablation de la trompe porteuse
+T17	procedure 4412 4424	coelioscopie
+T18	procedure 4536 4557	salpingectomie droite

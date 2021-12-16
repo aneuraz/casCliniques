@@ -1,0 +1,40 @@
+T1	drugs 104 114	cisplatine
+T2	procedure 81 95	chimiothérapie
+T3	drugs 124 135	gemcitabine
+T4	disorder 144 191	carcinome métastatique de la vésicule biliaire.
+T5	procedure 325 336	 programmée
+T6	procedure 394 405	vaccination
+T7	disorder 421 446	bon état de santé général
+T8	procedure 522 533	vaccination
+T9	disorder 632 650	douleur musculaire
+T10	drugs 535 560	COVID-19 Vaccine Moderna®
+T11	disorder 821 828	rougeur
+T12	disorder 833 843	gonflement
+T13	disorder 848 862	 hyperthermie 
+T14	disorder 869 940	­dolence croissants sont apparus dans la zone du bras supérieur gauche.
+T15	disorder 968 986	faiblesse générale
+T16	disorder 1003 1042	températures subfébriles intermittentes
+T17	disorder 1173 1180	rougeur
+T18	disorder 1182 1192	gonflement
+T19	disorder 1194 1204	induration
+T20	disorder 1206 1229	hyperthermie et dolence
+T21	procedure 1244 1252	analyses
+T22	labvalue 1268 1313	légère augmentation de la protéine C-réactive
+T23	procedure 1315 1318	CRP
+T24	labvalue 1319 1327	21,8 g/l
+T25	labvalue 1337 1367	nombre normal de neutrophiles 
+T26	labvalue 1368 1376	2,21 G/l
+T27	irrelevant 1380 1652	Figure 1: Lors de la première consultation, une rougeur, un gonflement, une induration, une hyperthermie et une douleur sont apparus dans la partie supérieure du bras gauche dans la zone du site de vaccination (La publication a été réalisée avec l’accord de la patiente.).
+T28	disorder 1710 1719	érysipèle
+T29	disorder 1754 1787	état immunodéprimé de la patiente
+T30	disorder 1805 1813	afébrile
+T31	labvalue 1815 1832	non neutropénique
+T32	labvalue 1861 1882	CRP légèrement élevée
+T33	drugs 1920 1935	antibiothérapie
+T34	drugs 2083 2107	compresses réfrigérantes
+T35	disorder 2133 2142	exanthème
+T36	disorder 2161 2168	douleur
+T37	disorder 2173 2183	gonflement
+T38	disorder 2189 2201	hyperthermie
+T39	irrelevant 2219 2309	(fig. 2). Des démangeaisons sont apparues. L’effet indésirable a été signalé à Swissmedic.
+T40	irrelevant 2311 2519;2521 2531;2533 2918;2920 3808;3810 4479;4481 5838	Figure 2: Deux jours après la consultation initiale, l’exanthème s’était estompé, et la douleur, le gonflement et l’hyperthermie avaient régressé (La publication a été réalisée avec l’accord de la patiente.).  Discussion  Une réaction locale retardée à la vaccination (apparaissant le 8e jour ou plus tard) a été décrite chez 0,8% des participants après la première dose et chez 0,2% après la seconde dose dans l’étude de phase 3 sur le vaccin ARNm-1273 contre le SARS-CoV-2 de Moderna® [1]. Les réactions étaient caractérisées par un érythème, une induration et une douleur et disparaissaient en 4–5 jours.  En rapport avec la réaction locale à la vaccination décrite, nous avons trouvé des rapports médiatiques de début février concernant cet effet secondaire, qui a été décrit comme le «bras COVID» [2, 3]. Le 19.2.2021, Swissmedic a publié qu’il avait reçu à plusieurs reprises des rapports de réactions locales retardées [4]: comme dans le cas de notre patiente, «la réaction est caractérisée par une rougeur et un gonflement cutanés généralement bien définis sur le bras vacciné, dans certains cas associés à des douleurs ou des démangeaisons». Les réactions se seraient améliorées après quelques jours sans autre mesure. Les rapports indiquent que «certaines personnes ont été traitées avec un antibiotique en raison d’une suspicion vraisemblablement erronée d’infection bactérienne de la peau (érysipèle)». Il est précisé que la deuxième dose de vaccination ne doit pas être suspendue [4].  La réaction locale retardée à la vaccination est susceptible de devenir plus fréquente à mesure que la vaccination progresse et le médecin vaccinateur doit s’y familiariser. Jusqu’à présent, cet effet indésirable a été observé principalement après la vaccination avec le vaccin Moderna® RNA. Comme mentionné ci-dessus, le tableau clinique peut suggérer le début d’un érysipèle et indiquer à tort un traitement antibiotique. Les patients doivent être informés de cet effet secondaire possible et rassurés si la réaction se produit. La deuxième dose de vaccin peut et doit être administrée même si une réaction locale retardée au vaccin se produit après la première dose.  Entre-temps, une «letter» est parue dans le New Eng­land Journal of Medicine[5] le 3 mars 2021, décrivant une série de 12 patients présentant d’importantes réactions locales retardées après la vaccination avec le vaccin ARNm-1273 contre le SARS-CoV-2. Les réactions sont survenues 4 à 11 jours après la première dose (durée médiane 8 jours). Chez un patient, la lésion cutanée s’est manifestée par un exanthème urticarien sur le coude. On pense que le pathomécanisme est une ­réaction d’hypersensibilité retardée des cellules T («delayed-type hypersensitivityreaction»). Cette hypothèse a été confirmée par une biopsie cutanée mettant en évidence des infiltrats lymphocytaires superficiels périvasculaires et périfolliculaires, ainsi que des éosinophiles et des mastocytes intercalés. Les 12 patients ont reçu la deuxième dose de vaccin. La moitié d’entre eux n’ont pas développé de nouvelle réaction locale retardée, trois ont eu une réaction locale similaire et trois ont eu une réaction locale moins sévère. Pour la deuxième vaccination, la réaction cutanée est survenue 1 à 3 jours (durée médiane 2 jours) après la vaccination. La «letter» insiste également sur le fait que les médecins doivent connaître la réaction afin d’apaiser les inquiétudes des patients, d’éviter un traitement antibiotique inutile et d’encourager l’achèvement de la vaccination.

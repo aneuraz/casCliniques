@@ -1,0 +1,56 @@
+Contexte
+
+Nous présentons le cas d’un patient avec bloc auriculo-ventriculaire (AV) complet passager, déclenché par une irritation endocardique avec perturbation des voies de conduction. Le bloc AV est survenu suite à la mise en place d’une pompe cardiaque micro-axiale (Impella-CP®) chez un patient avec bloc de branche droit (BBD) préexistant.
+
+Description du cas
+Anamnèse et résultats
+
+Un homme de 66 ans a été retrouvé allongé sur le sol. Les services de secours ont constaté que le patient présentait une diminution de la vigilance (score de Glasgow 7–8), une hypotension (pression artérielle de 90/50 mm Hg), un rythme cardiaque normal (73 bpm) et une centralisation de la circulation sanguine. La saturation transcutanée en O2 n’était pas mesurable. Une anamnèse n’a pas pu être recueillie. L’hétéro-anamnèse a révélé qu’un bilan cardiaque était déjà planifié en raison de douleurs thoraciques à l’effort croissantes et d’une dyspnée. En raison de la vigilance fortement diminuée et des élévations du segment ST dans les dérivations I, aVL et V5–V6, il a été décidé de transférer en urgence le patient vers l’hôpital central.
+
+La tomodensitométrie n’a pas révélé d’indices évocateurs d’un évènement cérébral aigu. L’échocardiographie transthoracique a montré une fonction ventriculaire gauche fortement réduite (fraction d’éjection ventriculaire gauche [FEVG] 20%) avec hypokinésie antérolatérale. Outre les élévations persistantes du segment ST, l’électrocardiogramme (ECG) a désormais révélé un BBD (fig. 1).
+
+Figure 1: Electrocardiogramme à l’admission.
+
+Face à un choc cardiogénique, une angiographie coronarienne avec stand-by anesthésique a immédiatement été réalisée, mais le patient a développé une instabilité hémodynamique croissante. Le patient a été intubé et s’est vu administrer de la dobutamine et de la nor-/adrénaline, ainsi que de l’amiodarone en raison d’une fibrillation auriculaire tachycarde. L’angiographie coronarienne a permis d’objectiver une maladie coronaire tritronculaire, avec occlusion thrombotique du tronc commun, ainsi que multiples sténoses sévères de l’artère interventriculaire antérieure (IVA) et de l’artère circonflexe (CX) ostiale et proximale. Une intervention complexe au niveau du tronc commun / de l’IVA et de la CX (intervention coronarienne percutanée/1 stent à élution médicamenteuse du tronc commun jusqu’à l’IVA, intervention coronarienne percutanée/2 stents à élution médicamenteuse au niveau de la CX) a en conséquence été pratiquée. En raison d’une instabilité hémodynamique persistante, il a été décidé de procéder à la pose d’un dispositif Impella-CP®en péri-interventionnel. Le patient a été transféré à l’unité de soins intensifs médicale pour la suite de la prise en charge.
+
+Traitement et évolution
+
+Malgré une assistance maximale par le dispositif Impella-CP®, une oxygénation par membrane extracorporelle veino-artérielle (ECMO-VA, fémoro-fémorale) a en outre dû être initiée en raison d’une stabilisation circulatoire insuffisante. Sous assistance double maximale (Impella-CP®/ECMO), le patient a développé un bloc AV soudain avec disparition en partie persistante de l’activité ventriculaire (fig. 2).
+
+Figure 2: Electrocardiogramme immédiatement après le retrait du dispositif Impella-CP®.
+
+Un stimulateur provisoire a été posé par voie transjugulaire. Par la suite, il y a progressivement eu une reprise de l’activité cardiaque autonome, avec en alternance un rythme sinusal et une fibrillation auriculaire. Au vu de la stabilisation progressive, nous avons tout d’abord retiré le stimulateur. Après un sevrage réussi, nous avons également retiré le dispositif Impella-CP®. Immédiatement après le retrait du dispositif Impella-CP®, le patient a toutefois à nouveau développé le ­tableau de bloc AV décrit ci-dessus avec instabilité hémodynamique. Une nouvelle fois, un stimulateur provisoire a été mis en place. Là encore, l’activité ­cardiaque défaillante a uniquement persisté durant quelques heures, puis s’est rétablie en l’espace d’un jour.
+
+Le patient a présenté de nombreuses complications par la suite: en raison d’une défaillance multiviscérale avec anurie, une hémofiltration continue a été initiée. Outre une hémolyse intravasculaire, probablement induite par le dispositif Impella-CP®, le patient a par la suite développé une thrombopénie induite par l’héparine de type II (TIH II) avec plusieurs thromboses à la fois dans la circulation artérielle et veineuse. Des ­ischémies critiques sont survenues en périphérie au niveau des deux extrémités inférieures. Des hémorragies sont en outre survenues au niveau du système broncho-alvéolaire et du tractus gastro-intestinal.
+
+Malheureusement, le patient a ensuite développé en plus une insuffisance hépatique, raison pour laquelle nous avons interrompu le traitement actif et sommes passés à des mesures palliatives. Le patient est décédé en présence de ses proches.
+
+Discussion
+
+En cas de choc cardiogénique ventriculaire gauche, une assistance circulatoire mécanique par Impella-CP® (pompe cardiaque micro-axiale) est possible afin d’améliorer la fonction d’éjection et de soulager le ventricule gauche. Cette assistance devrait ensuite également entraîner une amélioration de la circulation coronarienne [1]. Ainsi, il est avant tout possible de gagner du temps pour attendre une récupération du cœur. Si ce n’est pas le cas, des décisions supplémentaires doivent être prises, allant d’une transplantation cardiaque en urgence, en passant par la pose d’un cœur artificiel (dispositif d’assistance ventriculaire), jusqu’à l’initiation de mesures palliatives. La question de savoir quels moyens doivent être employés pour une assistance circulatoire passagère dans le cadre d’un choc cardiogénique (par exemple: pompe cardiaque micro-axiale, ballon de contre-pulsion intra-aortique [BCPIA], ECMO ou combinaisons) est une décision multidisciplinaire et situationnelle. Il n’est pas possible de prendre une décision basée sur l’évidence, comme l’avait déjà montré une revue systématique avec méta-analyse [2] datant de 2017. Cette publication avait avant tout souligné l’absence d’études prospectives randomisées. Ainsi, jusqu’à 95% des données proviennent d’analyses rétrospectives.
+
+Dans notre cas, nous avons décidé de procéder durant l’intervention coronarienne à la pose d’un dispositif Impella-CP®, qui a été introduit dans le ventricule gauche via l’aorte ascendante par la valve aortique.
+
+Les évènements indésirables associés au dispositif Impella peuvent par exemple être entrés dans la base de données «Manufacturer and User Facility Device Experience» (MAUDE) de la «Food and Drug Administration» (FDA). Une analyse de 407 signalements effectués entre 2008 et 2018 a montré que les complications les plus fréquentes étaient les hémorragies (hématomes/hémolyse), suivies des lésions vasculaires (dissections/perforations) [3]. Parmi les nombreux autres évènements indésirables listés par la FDA [4] figurent divers troubles du rythme cardiaque (fibrillation auriculaire, tachycardies/arythmies ventriculaires ou fibrillation ventriculaire). Les troubles de la conduction AV ne sont en revanche pas mentionnés.
+
+Chez notre patient, il y avait une coïncidence temporelle entre le positionnement (pose/retrait) du dispositif Impella-CP® et la survenue d’un bloc AV avec une stimulo-dépendance absolue, alors que le patient présentait déjà un BBD persistant lors de son admission.
+
+La survenue du bloc AV plusieurs heures après la pose du dispositif et la nouvelle survenue immédiatement après son retrait permettent de conclure à une défaillance du système de conduction au niveau du faisceau de His (atrio-ventriculaire) ou de la branche proximale gauche (de Tawara), avant même la division en circulation principale antérieure et postérieure (antérieure gauche / postérieure gauche). Sur le plan anatomique, seule une faible distance sépare les voies de conduction et la valve aortique au travers de laquelle le dispositif Impella transite durant le placement ou le retrait (fig. 3). Le nœud AV est situé au niveau de l’oreillette droite, dans le septum inter-auriculaire, au-dessus du trigone fibreux droit. Ce trigone fait partie du squelette du cœur et est composé de tissu conjonctif ferme. Il appartient ainsi au plan valvulaire, dans lequel se rencontrent les valves aortique, mitrale et tricuspide. Le faisceau de His débute à partir du nœud AV et traverse le trigone, puis, peu après, se divise en branches (de Tawara) droite et gauche [5]. Au vu de la proximité anatomique entre les voies de conduction et la valve aortique, un trouble passager de la conduction dû à une lésion endocardique iatrogène causée par le dispositif Impella-CP® est possible.
+
+Figure 3: Représentation schématique des voies de conduction et d’un dispositif de pompe micro-axiale (© 2020, Agnes Veis. Reproduction avec l’aimable autorisation de l’auteur).
+
+Jusqu’alors, un tel évènement indésirable en lien avec la pose d’une pompe cardiaque micro-axiale n’avait pas encore été décrit. Etant donné que les interventions au niveau de la valve aortique («transcatheter aortic valve implantation» [TAVI]) sont associées à des troubles de la conduction (bloc de branche gauche jusqu’à bloc AV III) [6], notre hypothèse paraît plausible. Un BBD préexistant avant une TAVI constitue un facteur de risque de développement d’un bloc de haut degré, ainsi que de stimulo-dépendance persistante [7, 8].
+
+L’évolution auto-limitante dans notre cas pourrait s’expliquer par une défaillance réversible par compression avec un œdème passager, et non pas par une lésion structurelle importante au niveau des voies de conduction. Ainsi, un traumatisme sévère n’est probablement pas toujours nécessaire pour provoquer un bloc de haut degré. Citons également comme exemple le traumatisme cardiaque fermé avec bloc AV III. A ce sujet, il n’existe que quelques descriptions de cas isolées et une revue systématique [9] qui les résume. Sur 50 cas décrits, 50% avaient reçu un stimulateur définitif. Chez quatre patients avec issue fatale sur huit, des tissus lésés au niveau des voies de conduction AV ont effectivement été retrouvés à l’examen histologique.
+
+Conclusion
+
+Les interventions au niveau de la valve aortique peuvent être à l’origine d’une perturbation des voies de conduction AV. Nous décrivons pour la première fois un tel cas de figure en lien avec la pose et le retrait d’un dispositif Impella-CP®. En raison de la localisation sous-endocardique des voies gauches, des blocs de branche gauches, qui peuvent être passagers, peuvent se développer. En cas de BBD préexistant, un bloc AV complet avec une situation hémodynamique défavorable correspondante peut néanmoins survenir.
+
+L’essentiel pour la pratique
+
+• Des parties du système de conduction cardiaque ont une localisation anatomique proche de la valve aortique.
+
+• Lors des interventions au niveau de la valve aortique et du ventricule gauche, un bloc de branche droit préexistant constitue un facteur de risque de survenue d’un bloc auriculo-ventriculaire complet.
+
+• Les mesures d’assistance circulatoire mécanique en cas de choc cardiogénique sont associées à de multiples complications et doivent faire l’objet d’une pose minutieuse de l’indication.

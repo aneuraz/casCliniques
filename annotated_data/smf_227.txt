@@ -1,0 +1,100 @@
+Contexte
+
+La fièvre d’origine indéterminée implique souvent de nombreux examens coûteux. Nous décrivons le cas d’une patiente atteinte de fièvre d’origine indéter­minée depuis plusieurs mois. Malgré de multiples examens diagnostiques, la cause n’a pas pu être identifiée. La clé pour résoudre ce problème résidait dans l’emploi d’une méthode de diagnostic moléculaire.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 67 ans a été admise à la clinique d’immunologie de l’hôpital universitaire de Zurich à l’été 2016 afin de réaliser des examens stationnaires en raison d’une fièvre d’origine indéterminée et d’un état inflammatoire. La patiente a fait état d’une fièvre présente ­depuis 4 mois survenant surtout le soir et pouvant ­atteindre jusqu’à 40 °C, parfois accompagnée de frissons. Durant cette période, elle a développé une intolérance à l’effort croissante, un abattement général et des sueurs nocturnes, et elle a perdu 6 kg. Environ 6 semaines après le début des symptômes, un érythème noueux est survenu dans la région prétibiale gauche. De plus, 4 semaines avant le début des symptômes, une thrombose veineuse profonde de la jambe avait été diagnostiquée du côté droit, et elle avait été traitée par rivaroxaban.
+
+Les symptômes avaient commencé environ 3 semaines après une dernière séance de chimiothérapie par rituximab (anticorps anti-CD20) et chlorambucil. La patiente avait reçu cette chimiothérapie en raison d’une maladie de Waldenström (type IgM kappa) connue depuis 1995, qui avait dû être traitée en raison de taux d’immunoglobuline M (IgM) et de paraprotéine accrus. La patiente a répondu par la négative lorsqu’elle a été ­interrogée sur de précédents voyages, des rapports sexuels à risque, ainsi que des contacts avec des animaux domestiques, et elle ne se rappelait pas avoir été piquée par une tique dans le passé.
+
+En amont de l’hospitalisation actuelle, des examens ambulatoires et stationnaires exhaustifs avaient été conduits dans un autre hôpital, sans résultats probants: la tomodensitométrie (TDM) thoracique et abdominale ne présentait pas d’anomalies, à l’exception d’un accroissement non spécifique des ganglions lymphatiques médiastinaux. Une légère stimulation de la moelle ­osseuse a été décrite lors d’une tomographie par émission de positons couplée à la TDM (TEP/TDM). L’échocardiographie transthoracique n’a pas révélé d’anomalies. Les cultures sanguines étaient stériles à plusieurs reprises. La ponction de moelle osseuse réalisée après la fin de la chimiothérapie a montré une bonne réponse avec une réduction considérable de l’atteinte des plasmocytes. L’IgM et les paraprotéines avaient aussi considérablement régressé. Aucun signe de progression de la maladie n’a été observé.
+
+En dehors d’une CRP accrue (43 mg/l, norme <5), d’une vitesse de sédimentation (VS) considérablement accrue (>100 mm/h) et d’une anémie, les analyses de laboratoire n’ont pas montré d’autres anomalies. Dans le cadre de l’immuno-sérologie, les anticorps antinucléaires (ANA), les anticorps anticytoplasme des neutrophiles (ANCA), les facteurs rhumatoïdes, les anticorps anti-CCP, les ­anticorps anti-streptolysine ainsi que les facteurs C3/C4 du complément étaient normaux.
+
+Examen clinique
+
+La patiente s’est présentée dans un état général légèrement réduit. Elle était tachycarde et fébrile. A l’exception d’une température corporelle de 39,0 °C, l’examen clinique de médecine générale interne ainsi que les autres paramètres vitaux étaient normaux à l’admission.
+
+Résultats
+
+Les analyses de laboratoire ont montré, comme cela avait déjà été le cas au préalable, des paramètres inflammatoires accrus avec une CRP de 25 mg/l et une VS de 130 mm/h.
+
+La radiographie thoracique et l’échographie abdominale ne présentaient pas d’anomalies. L’IRM cérébrale ainsi que l’échographie Doppler de la carotide étaient normales. La répétition de l’échocardiographie transthoracique n’a pas révélé de signes d’endocardite. Dans la mesure où une artérite à cellules géantes a été en­visagée dans le cadre du diagnostic différentiel, une biopsie de l’artère temporale a été réalisée. Cette dernière était normale. Les cultures sanguines répétées n’ont pas mis en évidence une croissance de micro-­organismes. La sérologie des Borrelia était négative. La réaction en chaîne par polymérase (PCR) pour le virus d’Epstein-Barr, le cytomégalo-, le parvo- et l’adénovirus, ainsi que la sérologie du VIH, étaient négatives, tout comme le dépistage de la syphilis. Les sérologies pour les Coxiella, les Bartonella et les Brucella étaient négatives. La PCR bactérienne à large spectre a finalement permis d’identifier la bactérie Candidatus Neoehrlichia mikurensis. Une PCR espèce-spécifique conduite à l’institut de microbiologie de l’université de Zurich a permis de confirmer l’agent pathogène.
+
+Diagnostic
+
+Infection invasive par Candidatus Neoehrlichia miku­rensis.
+
+Traitement
+
+Doxycycline 100 mg deux fois par jour pendant 6 semaines par voie orale.
+
+Evolution
+
+Sous traitement par doxycycline, la fièvre de la patiente a disparu en l’espace de quelques jours (fig. 1). L’état ­général s’est rapidement amélioré. Concernant les analyses de laboratoire, un contrôle ambulatoire a montré une normalisation des paramètres inflammatoires ainsi qu’une hausse de la valeur d’hémoglobine 1 semaine après le début du traitement. Lors des contrôles suivants, à la fin du traitement et 3 mois après l’arrêt du traitement, la patiente était toujours dans un très bon état de santé et aucun signe d’inflammation n’a été ­observé. Outre le traitement antibiotique, la patiente a reçu de l’immunoglobuline intraveineuse pendant 4 mois en raison de l’hypogammaglobulinémie.
+
+Figure 1: Evolution de la fièvre et de la CRP chez notre patiente, avec une normalisation rapide après le début du traitement par doxycycline. Nous attribuons l’évolution fluctuante des deux paramètres au traitement par stéroïdes initié à l’admission.
+
+Discussion
+
+La fièvre d’origine indéterminée a initialement été définie par Petersdorf et Beeson en tant que température corporelle ≥38,3 °C mesurée plusieurs fois sur une période de 3 semaines, sans mise en évidence de la cause malgré des examens stationnaires approfondis. La définition a ensuite été modifiée, et le milieu d’examen ambulatoire a également été pris en compte. Les néoplasies, les infections et les maladies immunologiques représentent les causes les plus fréquentes de la fièvre d’origine indéterminée.
+
+Les patients immunodéprimés sont exclus du cadre de la nouvelle définition de la fièvre d’origine indéterminée, car les causes sous-jacentes sont alors différentes, et un algorithme d’évaluation différent et accéléré devrait en conséquence être initié.
+
+La neoehrlichiose, la cause identifiée de la «fièvre d’origine indéterminée» de notre cas, est une infection bactérienne chez l’être humain extrêmement rare, découverte il y a seulement peu de temps.
+
+Depuis les premières descriptions de cas en 2010, tout juste 30 cas ont été publiés à travers le monde, dont un faible nombre de porteurs asymptomatiques. La majorité des descriptions de cas proviennent d’Europe de l’Est, d’Europe du Nord et d’Europe centrale. Certains cas isolés ont également rapportés en Asie.
+
+En Suisse, trois cas ont été décrits. La totalité des patients suisses touchés vivaient dans l’agglomération de Zurich. Dans la région de Zurich-Winterthur, la population de tiques analysée (Ixodes ricinus) a montré une prévalence de Candidatus Neoehrlichia mikurensis de jusqu’à 8%. Des chiffres similaires ont été recensés dans le cadre d’analyses conduites dans toute l’Europe, notamment en Allemagne, en Autiche, en France et en Italie. En comparaison avec les maladies transmises par les tiques les plus fréquentes telles que la maladie de Lyme ou l’encéphalite à tique, pour lesquelles la prévalence d’agents pathogènes s’élève respectivement à 20–30% et 5% dans les populations de tiques, ce chiffre est étonnement haut.
+
+Candidatus Neoehrlichia mikurensis est une bactérie coccoïde à Gram négatif obligatoirement intracellulaire qui, tout comme les Rickettsia, les Ehrlichia et d’autres, appartient à la famille des Anaplasmataceae. Cette bactérie a été mise en évidence pour la première fois en 2004 sur l’île japonaise de Mikura, chez des populations de tiques (vecteurs) et des rats (hôtes). Outre l’Asie, l’agent pathogène a également été trouvé en Europe et en Afrique chez des vecteurs (la plupart du temps de l’espèce Ixodes), des mammifères (surtout des rongeurs) et des oiseaux.
+
+Jusqu’à présent, Candidatus Neoehrlichia mikurensisn’a pas pu être mise en culture. Ainsi, diverses incertitudes persistent quant à sa morphologie, son tropisme cellulaire et son cycle de vie. On suppose que les cellules cibles de la bactérie sont les cellules endothéliales et les leucocytes, et qu’elle présente une croissance impliquant une liaison membranaire.
+
+Les descriptions de cas de patients avec une neoehr­lichiose symptomatique publiées jusqu’à présent montrent divers parallèles également présent dans notre cas (tab. 1):
+
+Tableau 1: Anomalies cliniques et de laboratoire chez les patients atteints de neoehrlichiose. Les caractéristiques qui n’ont été décrites que de façon isolée sont nommées «rares».
+Caractéristiques de la neoehrlichiose
+Clinique	Fièvre, frissons
+Sueurs nocturnes
+Myalgie/arthralgie
+Evénements vasculaires/thromboemboliques
+Céphalées
+Perte de poids
+Altérations cutanées
+Rare: toux, diarrhée
+Analyses de laboratoire	Augmentation de la CRP, VS
+Anémie, thrombopénie, leucocytose /leucopénie, neutrophilie
+Rares: hyponatrémie, augmentation de la LDH, augmentation des transaminases
+
+Les patients touchés étaient majoritairement immunodéprimés (par ex. rituximab), souffraient d’une maladie sous-jacente immunologique ou hématologique, et ils étaient souvent splénectomisés. Deux des patients malades décrits ne présentaient toutefois pas de maladie sous-jacente ou d’immunodéficience connue.
+
+L’ensemble des patients touchés souffraient de fièvre, et souvent aussi de sueurs nocturnes et de perte de poids. Des événements thromboemboliques ont été décrits dans de nombreux cas (surtout des thromboses veineuses profondes de la jambe, ainsi que des accidents vasculaires cérébraux). Des rougeurs cutanées ainsi que la survenue d’un érythème noueux ont été observées plusieurs fois.
+
+Les symptômes ont souvent persisté pendant des semaines ou des mois, et il n’est pas rare qu’ils aient initialement été faussement interprétés en tant que progression de la maladie sous-jacente. Les troubles ont uniquement disparu après l’initiation d’un traitement antibiotique adéquat. Dans un des cas publié, la maladie a eu une évolution fatale. Chez ce patient avec état septique, le diagnostic a uniquement été posé post mortem.
+
+Il existe toutefois également quelques rares descriptions de cas de patients asymptomatiques. Ainsi, en Pologne, 316 forestiers sains et asymptomatiques ont été soumis à une PCR sanguine, et la bactérie Candidatus Neoehrlichia mikurensis a été mise en évidence chez 1,6% de cette population. Il est donc à supposer qu’une infection par cette bactérie ne conduit pas forcément à une maladie symptomatique, particulièrement chez les personnes immunocompétentes, et peut également présenter des évolutions légères et auto-limitantes.
+
+On suppose que le temps de latence présente une grande variabilité. Aussi bien des cas de maladie symptomatique développée 2 jours après la piqûre de tique que des cas développés après plus de 6 mois ont été décrits.
+
+Le diagnostic peut seulement être posé au moyen de méthodes de biologie moléculaire (tab. 1). Comme dans le cas décrit plus haut, la bactérie peut être mise en évidence au moyen d’une PCR bactérienne à large spectre. Depuis 5 ans, il existe également une PCR espèce-spé­cifique. Elle a été développée à l’institut de microbio­logie de l’Université de Zurich et elle est aujourd’hui proposée en tant qu’analyse de routine. Actuellement, il n’existe ni possibilité de mise en évidence sérologique ni possibilité de mise en évidence au moyen d’une culture. La PCR bactérienne à large spectre exploite le fait que pour la grande majorité des bactéries, une région génomiquement conservée peut être amplifiée, puis attribuée à une espèce au moyen du séquençage. Bien qu’elle soit hautement spécifique, la PCR bactérienne à large spectre est toutefois variable selon les agents pathogènes, et elle est moins sensible qu’une PCR espèce-spécifique. Etant donné qu’une culture de l’agent pathogène offre souvent une sensibilité plus élevée dans le cas des bactéries «cultivables», cette méthode reste la référence absolue. Toutefois, de nouvelles méthodes de séquençage encore plus complètes transformeront fortement le diagnostic microbiologique dans les années à venir.
+
+Un antibiotique à action intracellulaire doit être employé pour le traitement. Les bêtalactamines, notamment, n’agissent pas. Dans les descriptions de cas, la doxycycline 100 mg deux fois par jour était le traitement le plus fréquemment employé. La durée de traitement généralement choisie était de 6 semaines. Dans des cas isolés, l’infection a été traitée avec succès en l’espace de seulement 2 à 3 semaines. La durée idéale n’est pas fixée. Alternativement, de la rifampicine à la dose de 450 mg deux fois par jour peut être prescrite, mais il n’existe néanmoins qu’une description de cas avec ce traitement.
+
+Pendant le traitement par doxycycline, il convient de veiller à une protection solaire suffisante (réactions phototoxiques). Pour la doxycycline et la rifampicine, il faut être attentif aux éventuelles interactions mé­dicamenteuses (par ex. avec Marcoumar®, les contra­ceptifs oraux, et les préparations à base d’aluminium, de calcium ou encore de magnésium).
+
+L’essentiel pour la pratique
+
+• La neoehrlichiose est une infection bactérienne très rare, qui touche majoritairement les patients immunodéprimés ou atteints d’une maladie hématologique ou immunologique sous-jacente et se transmet par les tiques.
+
+• La maladie se manifeste souvent sous la forme d’une fièvre prolongée.
+
+• Chez les patients immunocompétents, des évolutions asymptomatiques ou légères et auto-limitantes ont le plus souvent été observées.
+
+• Jusqu’à présent, le diagnostic ne peut s’effectuer qu’au moyen de méthodes de biologie moléculaire (PCR bactérienne à large spectre, PCR espèce-spécifique).
+
+• Dans une configuration de fièvre d’origine non déterminée et prolongée et de symptômes B sans résultats diagnostiques probants, il convient, chez les patients immunodéprimés, d’envisager le recours à de nouvelles méthodes de diagnostic biologique moléculaire.
+
+• Chez les patients immunocompétents, ces méthodes diagnostiques ne doivent être envisagées que dans des cas spécifiques (état inflammatoire sévère prolongé, absence de mise en évidence d’agent pathogène par mise en culture, diagnostic sous traitement antibiotique en cours, suspicion d’infection par une bactérie culture-négative) en raison de la rareté des infections pertinentes par Candidatus Neoehrlichia mikurensis.

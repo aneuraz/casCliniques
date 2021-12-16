@@ -1,0 +1,16 @@
+T1	irrelevant 13 309	Le service compte 23 lits au total. 18 patientes sont présentes dans le service avec leur nouveau-né. Ceci représente une activité normale pour le service. Ce secteur de suites de couches est défini comme physiologique : il s’agit de prise en soin sans comorbidité ou de pathologies particulières
+T2	irrelevant 311 481	La plupart des patientes sont autonomes pour les soins des nouveau-nés. Un berceau transparent est à disposition pour chaque enfant dans les chambres près du lit maternel
+T3	irrelevant 483 625	Une sage-femme et une auxiliaire de puériculture sont présentes sur ce secteur la nuit pour répondre aux besoins des mamans et des nouveau-nés
+T4	irrelevant 627 836;837 1145	Les professionnels prennent les transmissions à leur arrivée dans le service afin de prioriser leurs actions en début de nuit. Par exemple, examen et surveillance des jeunes accouchées et de leurs nouveau-nés. Ensuite elles réalisent un « tour » afin de voir toutes les patientes et de répondre à leurs attentes. Elles rappellent certaines consignes pour la surveillance du nouveau-né : délai maximum des tétées, conseils de mises au sein, changes, etc. Les professionnelles présentes dans le service sont expérimentée
+T5	irrelevant 1148 1388	A 3h du matin. Une patiente sort de sa chambre paniquée, elle a été réveillée par les pleurs de son bébé. Celui-ci était à terre au pied du lit maternel. Celui-ci avait chuté du lit maternel, il était installé auprès de sa maman pour dormir
+T6	procedure 1441 1456	examen clinique
+T7	procedure 1629 1640	hospitalisé
+T8	procedure 1678 1701	examens complémentaires
+T9	procedure 1662 1674	surveillance
+T10	procedure 1714 1729	hospitalisation
+T11	procedure 1870 1893	examens complémentaires
+T12	procedure 1901 1913	surveillance
+T13	procedure 2092 2104	surveillance
+T14	disorder 2175 2182	choquée
+T15	procedure 2223 2244	soutien psychologique
+T16	irrelevant 2263 2390	Les professionnelles présentes cette nuit-là ont également été entendues par le cadre du service afin de débriefer la situation

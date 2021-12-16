@@ -1,0 +1,37 @@
+T1	procedure 153 164	échographie
+T2	procedure 240 242	PA
+T3	labvalue 270 281	120/70 mmHg
+T4	disorder 532 541	céphalées
+T5	disorder 548 568	douleurs abdominales
+T6	disorder 676 697	contractions utérines
+T7	drugs 940 947	Spasfon
+T8	procedure 1468 1470	PA
+T9	labvalue 1471 1483	160/105 mmHg
+T10	procedure 1485 1495	Monitorage
+T11	drugs 1859 1865	Nubain
+T12	drugs 1873 1884	Catapressan
+T13	procedure 1960 1976	bilan biologique
+T14	procedure 2080 2083	 PA
+T15	labvalue 2090 2102	228/128 mmHg
+T16	labvalue 2582 2594	220/120 mmHg
+T17	disorder 2602 2630	œdèmes importants des jambes
+T18	procedure 2738 2754	bilan biologique
+T19	procedure 2915 2926	protéinurie
+T20	labvalue 2950 2956	80 g/l
+T21	disorder 3314 3330	crise convulsive
+T22	disorder 3997 4016	saignements utérins
+T23	disorder 4123 4136	CIVD probable
+T24	disorder 4443 4468	choc hypovolémique majeur
+T25	disorder 4824 4831	algique
+T26	drugs 5079 5087	Gardénal
+T27	drugs 5091 5099	Dilantin
+T28	disorder 5014 5027	mal convulsif
+T29	disorder 5172 5238	infirmité motrice d’origine cérébrale avec retard de développement
+T30	disorder 5287 5312	anoxo-ischémie périnatale
+T31	disorder 5358 5381	grande hypotonie axiale
+T32	disorder 5386 5404	syndrome pyramidal
+T33	disorder 5419 5462	tétraplégie spastique à prédominance droite
+T34	disorder 5468 5501	hypertonie des membres inférieurs
+T35	disorder 5504 5526	étractions tendineuses
+T36	disorder 5530 5557	retentissement orthopédique
+T37	disorder 5622 5651	mportant retard psychomoteur.

@@ -1,0 +1,83 @@
+Présentation du cas
+Anamnèse
+
+Lorsqu’elle s’est présentée au service des urgences, une patiente âgée de 79 ans présentait une tuméfaction cervicale gauche progressive depuis trois jours et une dysphagie, ainsi qu’un hématome survenu spontanément dans la région jugulaire. La patiente n’était ni sous anticoagulation, ni sous inhibition de l’agrégation plaquettaire. Elle n’avait pas le souvenir d’avoir subi un traumatisme et l’anamnèse relative à la coagulation était normale.
+
+Les antécédents de la patiente comprenaient une hyperparathyroïdie primaire traitée par cinacalcet, une hypothyroïdie substituée, une hypertension artérielle bien contrôlée sous bithérapie, ainsi qu’une insuffisance rénale chronique.
+
+Statut et résultats
+
+Sur le plan clinique, la patiente était afébrile et stable sur le plan hémodynamique, et elle présentait une masse cervicale gauche palpable d’environ 3 × 4 cm, ainsi qu’un hématome jugulaire indolore (fig. 1A). Sur le plan neurologique, aucun déficit n’était présent. A l’échographie, une masse ronde clairement délimitée avec contour hyperéchogène et contenu central isoéchogène de 3,3 × 3,2 × 3,3 cm atteignant le pôle inférieur de la thyroïde gauche a été observée (fig. 1B). La fibroscopie du pharynx et du larynx était normale.
+
+Figure 1: A ) Tableau clinique au Jour 1 (La publication a été réalisée avec l'accord de la patiente).B ) Résultat de l’échographie au Jour 1.
+
+En raison de la suspicion d’un kyste thyroïdien hémorragique et compte-tenu des valeurs de coagulation normales, une ponction guidée par échographie avec aspiration de 3,5 ml de sang a été réalisée. L’examen cyto­logique n’a mis en évidence que du sang frais. En raison de l’amélioration des symptômes cliniques avec régression de la dysphagie, la patiente a pu rentrer chez elle.
+
+Le jour suivant, la patiente s’est de nouveau présentée au service des urgences en raison de la progression de la tuméfaction cervicale et de l’hématome, ainsi que d’un enrouement nouvellement survenu. Sur le plan clinique, la patiente présentait une suffusion étendue, qui allait de la région cervicale jusqu’à la région thoracique supérieure (fig. 2). La patiente était toujours stable sur le plan hémodynamique, sans altération significatif de la teneur en hémoglobine (tab. 1).
+
+Figure 2: Tableau clinique au Jour 2 (La publication a été ­réalisée avec l'accord de la patiente).
+
+Tableau 1: Valeurs de laboratoire.
+Valeurs de laboratoire	Jour 1	Jour 2	Unité	«Range»
+Hb	129	124	g/l	120–169
+Lc	11,9	13,1	x10S9/l	3,5–10,0
+Tc	397	349	x10S9/l	150–450
+INR	1,1	1,1	 	<1,3
+CRP	13,7	69,9	mg/l	<10,0
+Créatinine	116	112	µmol/l	42–80
+Calcémie corrigée par l’albumine	2,89	2,85	mmol/l	2,10–2,65
+Hb: hémoglobine, Lc: leucocytes, Tc: thrombocytes, INR: «international normalized ratio»,
+CRP: protéine C réactive
+Diagnostic
+
+La tomodensitométrie, même si elle ne pouvait être comparée que de façon limitée à l’échographie précédente, a désormais montré une masse hypodense progressive d’environ 5 cm. Elle était de localisation crânio-latérale par rapport au lobe thyroïdien gauche et correspondait le plus vraisemblablement à un hématome.
+
+La fibroscopie a nouvellement montré une parésie partielle des cordes vocales gauches.
+
+Pour le diagnostic approfondi, une scintigraphie au technétium (99mTc)-sestamibi et une TEMP/TDM (to­mographie par émission monophotonique/tomodensitométrie) des glandes parathyroïdes ont été conduites dans le cadre de l’hyperparathyroïdie primaire jusqu’alors traitée par médicaments. Cet examen a ­révélé, caudalement par rapport au pôle inférieur de la thyroïde gauche, une faible accumulation de méthoxy-isobutyl-isonitrile (MIBI), compatible avec un adénome parathyroïdien (fig. 3).
+
+Figure 3: Fusion TEMP/TDM au99mTc-sestamibi (A ) et TDM coronaire (B ) avec représentation de l’hématome (flèche) et de l’adénome parathyroïdien hémorragique.
+
+Traitement et évolution
+
+En raison de l’évolution clinique, il existait une suspicion d’événement hémorragique en plusieurs temps ayant conduit à une parésie des cordes vocales en raison de l’effet expansif. Face au risque d’une nouvelle hémorragie avec obstruction potentielle des voies respiratoires et instabilité hémodynamique, nous avons décidé de pratiquer une hémithyroïdectomie gauche et une parathyroïdectomie gauche au niveau caudal.
+
+Pendant l’opération, nous avons trouvé une masse bleu foncé de localisation caudale par rapport au lobe thyroïdien gauche; elle a été réséquée tout comme le lobe thyroïdien. Sur le plan histologique, elle a été identifiée en tant qu’adénome parathyroïdien avec hématome étendu. Des hémorragies étendues récentes avec nécroses tissulaires et parties d’un hématome organisé datant de plusieurs jours ont été trouvées. Ce dernier avait franchi la capsule parathyroïdienne en plusieurs endroits et s’était étendu dans les tissus mous environnants. Aucun signe histologique de carcinome parathyroïdien n’était présent. Une chute significative des valeurs de la parathormone (PTH) a déjà été constatée en intra-opératoire suite à l’ablation de la glande parathyroïde (tab. 2).
+
+Tableau 2: Valeurs du calcium au fil du temps.
+Valeur	Jour 1	Jour 2	OP	Intra-op.	1erjour post-op.	3 mois post-op.	Unité
+Calcémie corrigée par l’albumine	2,89	2,85	2,73	 	2,31	2,45	mmol/l
+PTH	 	 	143	20	6,2	42,4	pg/ml
+
+Après l’opération, la parésie des cordes vocales gauches et une dysphonie ont persisté, et une hypoparathyroïdie asymptomatique s’est développée. Un traitement de substitution a été initié. Au cours de l’évolution
+postopératoire ultérieure, les taux de PTH et de calcium se sont normalisés.
+
+Discussion
+
+Dans l’ensemble, les hémorragies spontanées des adénomes parathyroïdiens sont très rares [1] et elles ont été décrites la première fois par R. Capps en 1934 [2]. Elles peuvent être intra- ou extra-capsulaires. En cas d’hémorragie intra-capsulaire, une tuméfaction cervicale et une dysphagie sont les manifestations cliniques prédominantes. En cas d’hémorragie extra-capsulaire, un hématome sous-cutané et un enrouement peuvent en outre survenir, comme dans le cas de notre patiente [3]. La présentation clinique peut varier en fonction de la localisation et de la taille de l’hématome. Ce dernier peut s’étendre en direction de la région cervicale, rétropharyngée ou médiastinale [4].
+
+Le mécanisme physiopathologique de l’hémorragie n’est pas clair. Un apport sanguin insuffisant avec une nécrose centrale consécutive de la glande parathyroïde hypertrophiée est notamment postulé. Elle peut ainsi constituer une complication dans le cadre d’une hyperplasie ou d’un carcinome [1]. Elle survient toutefois le plus fréquemment (dans 84% des cas) dans les adénomes [5].
+
+Dans le cadre du diagnostic différentiel, il convient notamment de penser à une dissection de la carotide ou de l’aorte, à un processus malin ou à des hémorragies partant de la glande thyroïde [5].
+
+Une hypercalcémie peut être indicative du diagnostic, mais ne doit pas forcément être présente car une rémission complète ou passagère de l’hyperparathyroïdie primaire voire une hypoparathyroïdie peuvent survenir suite à l’hémorragie.
+
+Compte-tenu de la dynamique imprévisible, un contrôle étroit du taux de calcium est indiqué au cours de l’évolution. Chez notre patiente également, une légère régression de l’hypercalcémie a été observée après la survenue de l’hémorragie, déjà avant l’opération. Résultat concordant, seule une faible accumulation de MIBI dans la glande parathyroïde a été mise en évidence à la TEMP/TDM, en tant qu’expression d’un infarcissement débutant.
+
+Pour résumer, chez notre patiente, la tuméfaction cervicale aiguë et l’hématome jugulaire étaient induits par une hémorragie extra-capsulaire en deux temps d’un adénome parathyroïdien.
+
+L’hémorragie est certes une complication très rare de l’adénome parathyroïdien, mais en cas de tableau clinique correspondant (tuméfaction cervicale aiguë et hématome cutané), il convient toutefois d’y penser. Une hyperparathyroïdie primaire déjà connue ou la présence d’une hypercalcémie peuvent être indicatives dans le cadre du diagnostic différentiel.
+
+Comme notre l’exemple l’illustre, l’évolution d’une hémorragie d’un adénome parathyroïdien est imprévisible. Dans la littérature, des cas avec obstruction des voies respiratoires et instabilité hémodynamique ont été décrits [1, 4], si bien que l’indication pour un traitement chirurgical devrait être posée généreusement.
+
+L’essentiel pour la pratique
+
+• Les hémorragies dans le cadre d’adénomes parathyroïdiens sont très rares.
+
+• En cas de tuméfaction cervicale de survenue aiguë et d’hématome sous-cutané (avec éventuellement un enrouement), il convient d’y ­penser dans le cadre du diagnostic différentiel.
+
+• Une hypercalcémie peut être indicative, mais elle ne doit pas néces­sairement être présente.
+
+• La dynamique de l’hémorragie est imprévisible. Elle peut conduire à une instabilité hémodynamique et à une obstruction de voies respiratoires et nécessite alors un traitement chirurgical immédiat.
+
+• Une rémission passagère ou complète de l’hyperparathyroïdie peut survenir suite à l’hémorragie. Une hypoparathyroïdie avec hypocalcémie est également possible. Un contrôle étroit du calcium est donc nécessaire.

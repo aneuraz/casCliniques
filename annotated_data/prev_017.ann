@@ -1,0 +1,21 @@
+T1	drugs 23 31	Dostinex
+T2	disorder 170 190	gêne" à l'œil gauche
+T3	procedure 244 263	séances d'orthoptie
+T4	procedure 332 342	fond d'œil
+T5	procedure 349 361	champ visuel
+T6	procedure 380 393	IRM cérébrale
+T7	labvalue 417 437	adénome hypophysaire
+T8	labvalue 529 556	amputation du champ visuel.
+T9	labvalue 799 849	prolactine montre un taux très élevé (5 693 ng/ml 
+T10	drugs 910 919	 Dostinex
+T11	procedure 1166 1272	 neurochirurgien revoit le patient et augmente la posologie hebdomadaire à 12 comprimés, soit 6 mg/semaine
+T12	procedure 1539 1624	 posologie hebdomadaire du Dostinex® est augmentée à 18 comprimés, soit 9 mg/semaine.
+T13	procedure 2055 2087	faire une échographie cardiaque 
+T14	procedure 2253 2286	une épreuve d’effort et un Holter
+T15	drugs 2960 2987	 agonistes dopaminergiques 
+T16	procedure 3198 3299	endocrinologue décide de baisser progressivement le Dostinex® jusqu’à 4 comprimés/semaine (soit 2 mg)
+T17	disorder 3374 3421	patient disait garder une "gêne" à l’œil gauche
+T18	risk 3591 3599	IMC à 31
+T19	disorder 3652 3677	insuffisance thyroïdienne
+T20	disorder 3735 3766	 insuffisance gonadique modérée
+T21	drugs 4348 4357	 Dostinex

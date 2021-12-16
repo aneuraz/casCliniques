@@ -1,0 +1,134 @@
+T1	disorder 211 222	métrorragie
+T2	disorder 228 251	décollement membranaire
+T3	disorder 287 320	rupture prématurée des membranes 
+T4	procedure 406 421	corticothérapie
+T5	procedure 429 444	antibiothérapie
+T6	disorder 503 537	contractions utérines douloureuses
+T7	procedure 557 570	traitement de
+T8	drugs 571 578	SPASFON
+T9	drugs 585 596	PARACETAMOL
+T10	drugs 680 693	20mg ADALATE 
+T11	procedure 697 708	voie orale.
+T12	procedure 720 758	tension artérielle chute brutalement à
+T13	labvalue 759 765	70/40 
+T14	labvalue 770 775	60/30
+T15	disorder 784 801	perd connaissance
+T16	procedure 807 818	pouls est à
+T17	labvalue 819 821	80
+T18	procedure 831 842	saturation 
+T19	labvalue 842 849	normale
+T20	procedure 925 928	TA 
+T21	labvalue 939 945	 50/20
+T22	disorder 963 975	inconsciente
+T23	procedure 1035 1069	placée en décubitus latéral gauche
+T24	procedure 1095 1114	perfusion accélérée
+T25	drugs 1118 1124	RINGER
+T26	procedure 1137 1139	TA
+T27	labvalue 1146 1151	43/23
+T28	disorder 1206 1218	obnubilation
+T29	procedure 1223 1232	mise sous
+T30	drugs 1233 1246	EPHEDRINE 6mg
+T31	procedure 1369 1372	TA 
+T32	labvalue 1374 1379	51/27
+T33	drugs 1400 1415	6mg d’EPHEDRINE
+T34	procedure 1419 1423	IVD 
+T35	procedure 1430 1439	perfusion
+T36	drugs 1443 1451	VOLUVEN 
+T37	procedure 1522 1525	TA 
+T38	labvalue 1544 1549	60/30
+T39	procedure 1635 1660	Le rythme cardiaque fœtal
+T40	labvalue 1667 1673	150bpm
+T41	procedure 1683 1696	la saturation
+T42	labvalue 1703 1706	98%
+T43	procedure 1711 1730	fréquence cardiaque
+T44	labvalue 1733 1735	77
+T45	procedure 1744 1779	oxygénothérapie (lunettes) à 3l/min
+T46	procedure 1804 1806	TA
+T47	labvalue 1811 1816	67/24
+T48	procedure 1821 1823	FC
+T49	labvalue 1826 1829	124
+T50	drugs 1833 1847	1mg d’ATROPINE
+T51	procedure 1848 1851	IVD
+T52	procedure 1896 1912	Un bilan NFS+CRP
+T53	disorder 1974 1980	sepsis
+T54	disorder 1982 1985	HRP
+T55	disorder 1987 1997	hémorragie
+T56	disorder 1999 2007	allergie
+T57	disorder 2009 2027	embolie amniotique
+T58	disorder 2037 2050	syndrome cave
+T59	drugs 2065 2072	ADALATE
+T60	procedure 2185 2188	RCF
+T61	labvalue 2189 2196	normal 
+T62	procedure 2203 2206	TA 
+T63	labvalue 2223 2228	64/33
+T64	procedure 2274 2277	 TA
+T65	labvalue 2284 2289	70/32
+T66	procedure 2465 2477	oxygène à 3L
+T67	drugs 2512 2525	NEOSYNEPHRINE
+T68	procedure 2531 2558	seringue électrique 20µ/min
+T69	drugs 2586 2602	 2g de CLAMOXYL 
+T70	drugs 2606 2626	50mg d’ERYTHROMYCINE
+T71	procedure 2630 2634	IVL,
+T72	procedure 2638 2641	TA 
+T73	labvalue 2647 2653	72/46.
+T74	procedure 2657 2661	RCF 
+T75	labvalue 2663 2669	150bpm
+T76	procedure 2698 2709	échographie
+T77	disorder 2832 2844	très algique
+T78	disorder 2854 2884	contractions utérines intenses
+T79	disorder 2306 2320	plus réactive.
+T80	disorder 2900 2926	dilatation cervicale à 8cm
+T81	procedure 2965 2979	une césarienne
+T82	disorder 3094 3108	atonie utérine
+T83	drugs 3149 3164	10UI SYNTOCINON
+T84	procedure 3168 3172	IVL 
+T85	procedure 3197 3208	une ampoule
+T86	drugs 3212 3220	NALADOR.
+T87	drugs 3177 3181	15UI
+T88	procedure 3184 3188	 IVL
+T89	disorder 3315 3341	hématome rétro placentaire
+T90	procedure 3404 3416	Apgar 1/0/0.
+T91	procedure 3422 3439	éanimation active
+T92	disorder 3480 3517	as de reprise de l’activité cardiaque
+T93	procedure 3528 3539	ventilation
+T94	procedure 3543 3553	intubation
+T95	procedure 3558 3584	massage cardiaque externe 
+T96	drugs 3589 3599	ADRENALINE
+T97	procedure 3599 3603	 IT.
+T98	procedure 3651 3685	arrêt de la réanimation est décidé
+T99	disorder 3858 3868	 décèdera 
+T100	procedure 3977 3979	TA
+T101	labvalue 3984 3992	normale 
+T102	procedure 4001 4011	saturation
+T103	labvalue 4013 4017	 95%
+T104	procedure 4021 4039	lunettes O2 à 1,5l
+T105	procedure 4043 4059	 bilan cardiaque
+T106	procedure 4139 4143	 TA 
+T107	procedure 4149 4168	fréquence cardiaque
+T108	labvalue 4174 4181	normaux
+T109	procedure 4214 4230	bilan biologique
+T110	procedure 4242 4251	troponine
+T111	labvalue 4254 4256	64
+T112	procedure 4262 4266	CRP 
+T113	labvalue 4268 4270	64
+T114	procedure 4276 4286	leucocytes
+T115	labvalue 4289 4294	22000
+T116	procedure 4319 4338	électrocardiogramme
+T117	labvalue 4344 4351	normaux
+T118	disorder 4372 4389	gêne respiratoire
+T119	procedure 4489 4503	nouveau bilan 
+T120	procedure 4508 4520	gaz du sang 
+T121	procedure 4526 4538	angioscanner
+T122	procedure 4587 4599	angioscanner
+T123	disorder 4620 4650	embolie pulmonaire bilatérale 
+T124	procedure 4798 4821	raitement anticoagulant
+T125	drugs 4823 4832	Heparine 
+T126	procedure 5220 5263	écho doppler veineux des membres inférieurs
+T127	disorder 5278 5323	thrombose profonde du membre inférieur gauche
+T128	procedure 5369 5380	traitement 
+T129	drugs 5384 5392	XARELTO 
+T130	procedure 5463 5489	ordonnance d’écho doppler 
+T131	procedure 5522 5544	bilan de thrombophilie
+T132	procedure 5770 5797	 examen obstétrical complet
+T133	procedure 5867 5894	prescription d’antibiotique
+T134	disorder 5934 5958	chorioamniotite à E.Coli

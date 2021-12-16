@@ -1,0 +1,131 @@
+T1	profession 16 27	généraliste
+T2	procedure 252 268	bilan biologique
+T3	disorder 347 353	anémie
+T4	procedure 365 367	GR
+T5	labvalue 370 380	3,7 M/mm 3
+T6	procedure 382 393	hémoglobine
+T7	labvalue 396 408	5,5 g/100 ml
+T8	labvalue 423 433	61 mucubes
+T9	procedure 436 440	CCMH
+T10	labvalue 443 446	24%
+T11	procedure 448 458	plaquettes
+T12	labvalue 461 468	373 000
+T13	procedure 470 472	VS
+T14	labvalue 473 478	34/70
+T15	disorder 538 544	anémie
+T16	disorder 593 606	déséquilibrée
+T17	procedure 677 695	traitement martial
+T18	drugs 697 707	Tardyféron
+T19	disorder 745 756	homéopathie
+T20	procedure 939 947	prescrit
+T21	procedure 959 964	bilan
+T22	procedure 1132 1142	numération
+T23	procedure 1161 1163	GR
+T24	labvalue 1166 1176	4,16 M/mm3
+T25	procedure 1182 1193	hémoglobine
+T26	labvalue 1196 1206	11g/100 ml
+T27	procedure 1208 1219	normocytose
+T28	procedure 1223 1225	VS
+T29	labvalue 1228 1233	27/55
+T30	procedure 1257 1267	traitement
+T31	procedure 1287 1306	contrôle biologique
+T32	procedure 1348 1360	consultation
+T33	procedure 1406 1433	diminution de l’hémoglobine
+T34	disorder 1457 1477	surmenage au travail
+T35	procedure 1483 1494	hémoglobine
+T36	labvalue 1501 1514	10,2 g/100 ml
+T37	procedure 1516 1519	VGM
+T38	labvalue 1522 1524	81
+T39	procedure 1542 1566	vitesse de sédimentation
+T40	labvalue 1569 1574	32/76
+T41	procedure 1630 1642	consultation
+T42	profession 1649 1660	généraliste
+T43	procedure 1680 1708	prescriptions homéopathiques
+T44	drugs 1714 1724	Tardyféron
+T45	procedure 1765 1773	consulte
+T46	procedure 1800 1811	laboratoire
+T47	disorder 1831 1841	saignement
+T48	disorder 1848 1854	anémie
+T49	procedure 1879 1890	hémoglobine
+T50	labvalue 1893 1904	7,2 g/100ml
+T51	procedure 1910 1932	microcytose importante
+T52	procedure 1941 1944	VGM
+T53	labvalue 1947 1957	60 mucubes
+T54	procedure 1981 1990	ferritine
+T55	labvalue 1962 1974	effondrement
+T56	procedure 1996 2020	vitesse de sédimentation
+T57	labvalue 2023 2032	81/119 mm
+T58	procedure 2061 2080	dosage de ferritine
+T59	labvalue 2110 2119	1,8ng/ml 
+T60	procedure 2172 2200	 consultation en hématologie
+T61	profession 2324 2335	généraliste
+T62	disorder 2471 2493	tuméfaction abdominale
+T63	disorder 2557 2573	trouble digestif
+T64	procedure 2577 2585	prescrit
+T65	procedure 2590 2612	échographie abdominale
+T66	procedure 2620 2630	coloscopie
+T67	disorder 2725 2735	saignement
+T68	disorder 2765 2771	anémie
+T69	procedure 2794 2810	perfusion de fer
+T70	procedure 2853 2863	coloscopie
+T71	procedure 2884 2907	sous traitement martial
+T72	profession 2987 2998	généraliste
+T73	procedure 3017 3043	prescription d’échographie
+T74	procedure 3056 3063	scanner
+T75	disorder 3102 3127	lésion tumorale du caecum
+T76	disorder 3137 3148	douloureuse
+T77	procedure 3177 3184	dirigée
+T78	procedure 3271 3281	coloscopie
+T79	disorder 3311 3328	tumeur sténosante
+T80	disorder 3346 3379	métastase hépatique ou pulmonaire
+T81	procedure 3406 3424	marqueurs tumoraux
+T82	labvalue 3430 3438	négatifs
+T83	procedure 3442 3454	intervention
+T84	disorder 3489 3514	tumeur du bas fond caecal
+T85	procedure 3516 3570	hémi colectomie droite avec anastomose iléo transverse
+T86	procedure 3575 3602	analyse anatomopathologique
+T87	disorder 3613 3639	adénocarcinome envahissant
+T88	disorder 3730 3747	embole vasculaire
+T89	procedure 3749 3776	classant la tumeur T3 N0 M0
+T90	profession 3781 3791	chirurgien
+T91	procedure 3874 3900	étude immuno-histochimique
+T92	procedure 3906 3947	expression des protéines h MLH1 et h MSH2
+T93	labvalue 3961 3979	perte d’expression
+T94	disorder 4020 4062	syndrome d’instabilité des microsatellites
+T95	procedure 4091 4129	composante génétique constitutionnelle
+T96	disorder 4177 4192	umeurs du colon
+T97	disorder 4208 4230	tumeurs de l’endomètre
+T98	disorder 4236 4256	lésions urothéliales
+T99	disorder 4262 4293	tumeurs du grêle et de l’ovaire
+T100	procedure 4379 4405	 échographie endo-vaginale
+T101	procedure 4299 4325	recommandations d’experts 
+T102	procedure 4411 4431	curetage endométrial
+T103	procedure 4548 4566	examen cytologique
+T104	procedure 4633 4657	scanner abdomino-pelvien
+T105	disorder 4714 4730	lésions du grêle
+T106	disorder 4762 4789	lésions du tractus urinaire
+T107	procedure 4831 4854	surveillance spécifique
+T108	disorder 4900 4915	cancer du côlon
+T109	procedure 4931 4936	bilan
+T110	procedure 5061 5075	toucher rectal
+T111	procedure 5082 5115	palpation des aires ganglionnaire
+T112	procedure 5139 5160	échographie hépatique
+T113	procedure 5168 5191	radiographie pulmonaire
+T114	procedure 5205 5220	dosage de l’ACE
+T115	procedure 5236 5248	coloscopies 
+T116	disorder 5360 5378	cancer endométrial
+T117	procedure 5517 5530	hystérectomie
+T118	procedure 5536 5559	annexectomie bilatérale
+T119	profession 5641 5656	Onco-généticien
+T120	procedure 5706 5734	modalités de la surveillance
+T121	procedure 5817 5834	analyse génétique
+T122	disorder 6084 6101	néoplasie colique
+T123	procedure 6158 6185	surveillance carcinologique
+T124	procedure 6194 6215	échographie hépatique
+T125	procedure 6221 6244	radiographie pulmonaire
+T126	procedure 6251 6266	dosage de l’ACE
+T127	procedure 6339 6352	bilan complet
+T128	procedure 6367 6382	dosage de l’ACE
+T129	procedure 6387 6425	scanner thoracique et abdomino-pelvien
+T130	profession 6535 6546	généraliste
+T131	disorder 6590 6614	déséquilibre alimentaire

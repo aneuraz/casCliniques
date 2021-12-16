@@ -1,0 +1,174 @@
+T1	disorder 117 129	 toux sèche 
+T2	disorder 136 167	épisodes fébriles intermittents
+T3	procedure 234 257	une imagerie suggestive
+T4	procedure 260 291	es prélèvements PCR1SARS-CoV-2 
+T5	disorder 321 329	négatifs
+T6	disorder 342 347	 toux
+T7	disorder 354 360	fièvre
+T8	disorder 375 402	une infection à la COVID-19
+T9	irrelevant 404 453	nous devons rester ouverts à d’autres diagnostics
+T10	irrelevant 10 58	Au cœur de la pandémie de COVID-19 en avril 2020
+T11	irrelevant 60 113	un homme au début de la trentaine s’est présenté avec
+T12	disorder 599 607	 fièvre 
+T13	disorder 610 614	toux
+T14	disorder 652 675	mucosités transparentes
+T15	disorder 699 714	perte de poids 
+T16	disorder 815 827	une diarrhée
+T17	drugs 949 962	métronidazole
+T18	procedure 982 997	Examen clinique
+T19	disorder 1059 1067	afébrile
+T20	disorder 1101 1120	état général réduit
+T21	disorder 1124 1156	un état nutritionnel de cachexie
+T22	labvalue 1256 1268	128/85 mm Hg
+T23	disorder 1273 1298	légèrement ­tachycardique
+T24	labvalue 1306 1313	106/min
+T25	procedure 1300 1305	pouls
+T26	procedure 1236 1255	pression artérielle
+T27	labvalue 1371 1374	95%
+T28	labvalue 1416 1424	normales
+T29	disorder 1447 1474	bruit respiratoire accentué
+T30	anatomy 1500 1523	la région basale gauche
+T31	procedure 1559 1584	Les analyses biochimiques
+T32	disorder 1612 1659	un taux légèrement accru de protéine C-réactive
+T33	labvalue 1660 1668	(17 mg/l
+T34	labvalue 1682 1692	taux élevé
+T35	labvalue 1720 1727	724 U/l
+T36	disorder 1746 1784	légère anémie microcytaire normochrome
+T37	procedure 1786 1797	hémoglobine
+T38	labvalue 1798 1805	135 g/l
+T39	procedure 1807 1833	volume moyen corpusculaire
+T40	procedure 1834 1838	[VMC
+T41	labvalue 1840 1846	80 fl;
+T42	procedure 1847 1890	teneur corpusculaire moyenne en hémoglobine
+T43	procedure 1892 1896	TCMH
+T44	labvalue 1898 1903	28 pg
+T45	procedure 1941 1967	leucocytes et thrombocytes
+T46	procedure 1969 1981	électrolytes
+T47	procedure 1983 1998	valeurs rénales
+T48	procedure 2000 2013	transaminases
+T49	labvalue 2023 2031	normales
+T50	anatomy 2123 2143	prélèvements nasopha
+T51	procedure 2123 2172	prélèvements nasopharyngés PCR SARS-CoV-2 répétés
+T52	labvalue 2208 2216	négatifs
+T53	procedure 2223 2252	 test sérologique SARS-CoV-2 
+T54	procedure 2281 2320	radiographie conventionnelle du thorax,
+T55	disorder 2321 2387	une légère baisse de la transparence dans le segment postéro-basal
+T56	procedure 2464 2501	La tomodensitométrie (TDM) thoracique
+T57	disorder 2549 2609	 embolie pulmonaire en présence d’un taux accru de D-dimères
+T58	disorder 2611 2724	Des infiltrats en verre dépoli et en forme de tâches étaient visibles dans tous les lobes et segments pulmonaires
+T59	disorder 2731 2816	accentuation au niveau des lobes inférieurs et surtout à la périphérie des deux côtés
+T60	profession 2837 2848	radiologues
+T61	disorder 2884 2963	une pneumopathie interstitielle virale associée à la COVID-19 au stade précoce.
+T62	procedure 2984 3001	Tomodensitométrie
+T63	disorder 3019 3117	Infiltrats en verre dépoli et en forme de tâches concernant tous les lobes et segments pulmonaires
+T64	disorder 3119 3196	Accentuation au niveau des lobes inférieurs et à la périphérie des deux côtés
+T65	disorder 3343 3361	une perte de poids
+T66	disorder 3375 3395	une baisse d’appétit
+T67	disorder 3426 3461	des épisodes fébriles intermittents
+T68	disorder 3486 3526	des sueurs nocturnes parfois abondantes.
+T69	risk 3847 3854	drogue,
+T70	irrelevant 3567 3605	 sa compagne n’avait eu aucun symptôme
+T71	irrelevant 3210 3320	Nous avons recueilli sur place une anamnèse détaillée et remarqué en particulier la symptomatique B prononcée.
+T72	irrelevant 3607 3690	Le patient se trouvait ­lui-même depuis 3 semaines en auto-isolement à son domicile
+T73	disorder 3946 3983	maladies infectieuses ou néoplasiques
+T74	procedure 4029 4047	cultures sanguines
+T75	procedure 4058 4100	les tests de détection d’agents pathogènes
+T76	disorder 4107 4125	pneumonie atypique
+T77	disorder 4136 4151	les légionelles
+T78	labvalue 4168 4176	négatifs
+T79	procedure 4178 4204	Les analyses biochimiques 
+T80	disorder 4248 4278	inflammation légèrement accrus
+T81	procedure 4291 4318	la vitesse de sédimentation
+T82	labvalue 4328 4335	48 mm/h
+T83	procedure 4337 4376	Les sérologies des hépatites A, B et C 
+T84	procedure 4389 4403	sérodiagnostic
+T85	procedure 4389 4418	sérodiagnostic de la syphilis
+T86	labvalue 4436 4444	négatifs
+T87	procedure 4446 4490	Un test de dépistage du VIH de 4e génération
+T88	procedure 4548 4573	es analyses biochimiques 
+T89	disorder 4606 4631	une infection par le VIH 
+T90	procedure 4647 4681	 test de dépistage du VIH réactif,
+T91	labvalue 4714 4721	positif
+T92	procedure 4722 4750	 Une PCR de la charge virale
+T93	labvalue 4840 4858	450 000 copies/ml.
+T94	procedure 4859 4884	Le nombre de cellules CD4
+T95	labvalue 4894 4899	126/μ
+T96	labvalue 4918 4921	10%
+T97	procedure 5039 5061	nombre de cellules CD4
+T98	labvalue 5076 5082	200/μl
+T99	disorder 5149 5154	 SIDA
+T100	disorder 5213 5251	une pneumonie à Pneumocystis jirovecii
+T101	procedure 5278 5281	PCR
+T102	disorder 5303 5339	infection par le VIH au stade CDC C3
+T103	procedure 5370 5388	immunofluorescence
+T104	procedure 5431 5455	lavage bronchoalvéolaire
+T105	disorder 5526 5531	PCP. 
+T106	disorder 5531 5561	La perte involontaire de poids
+T107	disorder 5642 5668	 syndrome de dépérissement
+T108	disorder 5703 5708	SIDA.
+T109	disorder 5757 5760	PCP
+T110	drugs 5814 5827	triméthoprime
+T111	drugs 5828 5844	sulfaméthoxazole
+T112	drugs 6045 6055	stéroïdien
+T113	labvalue 6107 6113	10 kPa
+T114	labvalue 6115 6124	>70 mm Hg
+T115	disorder 6131 6141	La dyspnée
+T116	disorder 6144 6150	a toux
+T117	disorder 6154 6163	la fièvre
+T118	disorder 6318 6326	dyspnée,
+T119	drugs 6419 6431	antibiotique
+T120	drugs 6561 6592	triméthoprime/sulfaméthoxazole 
+T121	drugs 6618 6632	prophylactique
+T122	labvalue 6728 6733	200/μ
+T123	drugs 6863 6877	antirétroviral
+T124	irrelevant 6888 7003	initié aussi tôt que possible et dans un délai de 2 semaines après début du traitement d’une infection opportuniste
+T125	irrelevant 6737 6848	Selon les directives internationales actuelles telles que celles de la «European AIDS Clinical Society» (EACS),
+T126	disorder 7109 7163	 syndrome d’immunoreconstitution en présence d’une PCP
+T127	disorder 7198 7201	VIH
+T128	drugs 7389 7400	bictégravir
+T129	drugs 7402 7415	emtricitabine
+T130	drugs 7419 7441	fumarate de ténofovir 
+T131	drugs 7441 7452	alafénamide
+T132	labvalue 7844 7851	600/μl 
+T133	labvalue 7904 7917	40 copies/ml.
+T134	disorder 7940 7946	a toux
+T135	irrelevant 7919 7929	Discussion
+T136	disorder 7953 7959	fièvre
+T137	procedure 8121 8135	PCR SARS-CoV-2
+T138	labvalue 8170 8178	négatifs
+T139	procedure 8222 8241	imagerie suggestive
+T140	procedure 8338 8352	expectorations
+T141	procedure 8359 8383	lavage bronchoalvéolaire
+T142	procedure 8546 8599	test de dépistage du VIH-1 et VIH-2 de 4e génération 
+T143	disorder 8409 8429	 fièvre persistante 
+T144	disorder 8455 8482	 perte de poids inexpliquée
+T145	disorder 8511 8530	une maladie au VIH 
+T146	labvalue 8701 8708	négatif
+T147	disorder 8738 8741	VIH
+T148	irrelevant 8744 9067	Selon l’Office fédéral de la santé publique (OFSP), l’information du patient sur l’exécution du test est suffisante: «La personne consultant pour des symptômes/douleurs fait une demande générale de diagnostic, il suffit alors de lui dire que, dans sa situation, le dépistage du VIH est recommandé par la directive de l’OFSP
+T149	risk 9210 9217	drogues
+T150	procedure 9286 9326	inspection des téguments et de la bouche
+T151	procedure 9335 9361	leucoplasie orale chevelue
+T152	procedure 9374 9434	a palpation de toutes les stations de ganglions lymphatiques
+T153	disorder 9451 9469	fièvre inexpliquée
+T154	disorder 9471 9495	une infection par le VIH
+T155	disorder 9602 9616	co-infections 
+T156	disorder 9641 9650	syphilis 
+T157	disorder 9652 9666	 l’hépatite C.
+T158	disorder 9668 9692	Une infection par le VIH
+T159	procedure 9932 9940	test VIH
+T160	disorder 9991 10012	infection par le VIH 
+T161	disorder 10193 10231	 une infection invasive à pneumocoques
+T162	disorder 10170 10192	dermatite séborrhéique
+T163	disorder 10237 10264	infection à l’herpès zoster
+T164	disorder 10317 10336	diarrhée chronique 
+T165	disorder 10471 10492	prophylaxie de la PCP
+T166	labvalue 10590 10597	>100/μl
+T167	disorder 10825 10843	fièvre persistante
+T168	disorder 10871 10886	 perte de poids
+T169	disorder 10918 10938	infection par le VIH
+T170	irrelevant 11044 11271	 Après l’établissement du diagnostic, une bonne collaboration avec les spécialistes en infectiologie est essentielle pour pouvoir déterminer l’indication d’autres examens diagnostiques et le moment du traitement antirétroviral.
+T171	disorder 11463 11501	la pneumonie à Pneumocystis jirovecii.
+T172	disorder 11412 11451	maladies opportunistes associées au VIH
+T173	irrelevant 11503 11720	• Les médecins de famille jouent un rôle central pour la suite de l’évolution et peuvent apporter une aide relative à l’observance de la prise des médicaments ainsi qu’à la prévention et au traitement de comorbidités.
+T174	irrelevant 11724 11983	Lors de l’administration de nouveaux médicaments, il convient par ­ailleurs de toujours vérifier le potentiel d’interaction avec le traitement antirétroviral (https://www.hiv-druginteractions.org/checker) et de consulter, le cas échéant, le ou la spécialiste.

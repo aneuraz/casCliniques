@@ -1,0 +1,64 @@
+Contexte
+
+Un ictère indolore avec une cholestase extrahépatique et une obstruction au niveau du hile hépatique doit faire suspecter, jusqu’à preuve du contraire, un cholangiocarcinome hilaire (tumeur de Klatskin). En cas de morphologie suggestive à l’imagerie, la question du choix entre diagnostic cytologique et diagnostic ­histologique se pose toujours. Néanmoins, à la fois la cytologie à la brosse via cholangiopancréatographie ­rétrograde endoscopique (CPRE) et la ponction (sous échoendoscopie) ne possèdent qu’une sensibilité modérée, si bien qu’un résultat négatif ne permet toujours pas d’exclure un cholangiocarcinome. En l’absence d’indices évocateurs d’un diagnostic différentiel non malin au sens d’une origine inflammatoire ou auto­-immune (cholangite sclérosante primitive ou cholangite à IgG4), l’opération est également réalisée en cas d’histologie négative, dès lors que la résécabilité est ­assurée et que le patient est opérable.
+
+Depuis quelques années, la cholangioscopie haute résolution est disponible en tant que modalité diagnostique complémentaire pour le prélèvement tissulaire ciblé sous guidage optique. La valeur de cette modalité diagnostique n’est pas encore définitivement clarifiée et il reste à démontrer si la valeur ajoutée diagnostique est suffisamment élevée pour pouvoir renoncer à un traitement chirurgical dans les cas auparavant incertains.
+
+Dans les lignes qui suivent, nous décrivons un cas dans lequel une opération a pu être évitée grâce à la cholangioscopie.
+
+Présentation du cas
+Anamnèse et statut
+
+Un patient de 68 ans s’est présenté au service des urgences avec un ictère persistant depuis deux semaines. En parallèle, il avait des selles acholiques et des urines foncées. Le patient a affirmé ne pas présenter de douleurs abdominales, de fièvre, de sueurs nocturnes ou de perte de poids.
+
+Dans l’anamnèse personnelle figurait une épilepsie connue, qui avait été diagnostiquée en 1989 et était ­depuis lors traitée par phénobarbital. Depuis ce temps-là, des crises convulsives n’étaient plus survenues. Le patient a également signalé des symptômes de reflux, qui étaient traités au besoin par un inhibiteur de la pompe à protons. En 2014, une cholécystectomie laparoscopique a en outre été réalisée en raison d’une cholécystite aiguë et d’une cholécystolithiase connue.
+
+A l’examen clinique, un ictère a été constaté. L’examen abdominal était normal, avec en particulier une absence de douleur à la pression dans la partie supérieure de l’abdomen. Le patient était afébrile.
+
+Résultats et diagnostic
+
+Les analyses de laboratoire ont révélé une élévation des transaminases et des paramètres de cholestase ­(bilirubine totale 195 μmol/l [11,4 mg/dl], ALT 162 U/l, AST 89 U/l, phosphatase alcaline 220 U/l). Les valeurs de CRP et de leucocytes étaient normales, tout comme le marqueur tumoral CA 19-9 et les IgG4.
+
+L’échographie abdominale a montré une dilatation ­bilatérale des voies biliaires intrahépatiques, avec un canal hépato-cholédoque mince. La tomodensitométrie (TDM) a objectivé une sténose avec rupture de­calibre de localisation immédiatement distale à la ­bifurcation du canal hépatique, qui présentait une certaine prise de contraste. Un processus expansif univoque n’a été détecté ni à la TDM ni à l’imagerie par ­résonance magnétique (IRM) avec cholangiopancréato-IRM (CP-IRM) (fig. 1). La morphologie pancréatique était sans particularités et aucune hypertrophie pathologique des ganglions lymphatiques n’a été visualisée.
+
+Figure 1: Cholangiopancréato-IRM (CP-IRM) révélant une sténose de localisation immédiatement distale au hile hépatique.
+
+Une CPRE avec prélèvement cytologique à la brosse a été réalisée comme examen complémentaire afin de mieux pouvoir évaluer la présence éventuelle d’un cholangiocarcinome dans le cadre du diagnostic différentiel. Ce faisant, une sténose courte du canal hépatique commun a été objectivée et elle a pu être dilatée à 6 mm. Un cathéter en queue de cochon (7 French) a été posé vers la droite pour permettre l’évacuation de la bile. L’échantillon cytologique prélevé à la brosse n’a pas montré de cellules malignes.
+
+Traitement et évolution
+
+En raison de la situation confuse et de l’absence de mise en évidence de tumeur morphologiquement univoque, une cholangioscopie haute résolution a été réalisée trois jours plus tard. Proximalement à la sténose, dont l’apparence macroscopique n’était pas suspecte de néoplasie et qui a pu être franchie de justesse avec ­l’endoscope, nous avons, de façon inattendue, constaté un calcul biliaire impacté, qui a pu être désintégré par ­lithotripsie électrohydraulique (LEH) sous guidage cholangioscopique. Contre toute attente, nous avons découvert en-dessous un clip Hem-o-lok® blanc (fig. 2), qui était probablement la cause de la sténose et du calcul. En complément, la sténose a fait l’objet d’une biopsie ­ciblée et aucune cellule dysplasique n’a été retrouvée.
+
+Figure 2: Cliché de cholangioscopie montrant le clip.
+
+Les fragments du calcul ont pu être extraits au cours d’une deuxième intervention, et le clip a finalement pu être mobilisé à l’aide d’un ballon (fig. 3) et évacué. La sténose cicatricielle résiduelle a été dilatée à trois reprises à 8 mm, si bien que les endoprothèses plastiques qui avaient été insérées dans l’intervalle ont pu être ­retirées. L’évolution ultérieure a été très réjouissante. Les transaminases et les paramètres de cholestase se sont normalisés et le patient est resté asymptomatique jusqu’à ce jour.
+
+Figure 3: Clip mobilisé dans le duodénum.
+
+Discussion
+
+Un ictère indolore lié à une cholestase extrahépatique constitue une situation alarmante dans la pratique ­clinique, car le risque de carcinome sous-jacent au niveau du pancréas et des voies biliaires est élevé. Une échographie abdominale est généralement indiquée comme première modalité diagnostique afin de circonscrire le diagnostic différentiel et, en présence d’une cholestase extrahépatique, de réaliser un premier diagnostic de localisation. En cas d’obstruction au niveau du hile hépatique avec voies biliaires intrahépatiques dilatées mais voies biliaires extrahépatiques minces, l’IRM avec CP-IRM représente la méthode ­diagnostique de choix. Elle offre une visualisation ­optimale des voies biliaires de façon non invasive. La présence d’un cholangiocarcinome hilaire (tumeur de Klatskin) entre alors principalement en ligne de compte dans le cadre du diagnostic différentiel, mais des sténoses bénignes doivent naturellement aussi être évaluées (par ex. cholangite à IgG4, cholangite due au VIH ou cholangite parasitaire avec sténose consécutive, cicatrices postopératoires/ischémiques, cholangite sclérosante primitive ou, en l’occurrence, migration de clip en tant que cause d’une sténose).
+
+Tandis que la stadification et la classification selon Bismuth au moyen de l’IRM ne posent le plus souvent pas de problème, la confirmation du diagnostic par cytologie ou histologie s’avère souvent difficile [1]. Toutes les variantes possibles pour le prélèvement tissulaire, à savoir la CPRE, la cholangiographie transhépatique percutanée (CTP) et la ponction (échoendoscopique), sont invasives et ont une sensibilité limitée; par conséquent, une opération est malgré tout réalisée en cas de doute lorsque le diagnostic tissulaire se révèle négatif [1, 2].
+
+Dans les cas douteux, avant de se résoudre à cette mesure radicale, il est possible depuis quelques années de réaliser une cholangioscopie haute résolution avec inspection endoscopique directe des voies biliaires et biopsie ciblée des anomalies. La question de savoir si le taux de diagnostic tissulaire correct, positif ou négatif, s’en trouve augmenté ne peut pour l’heure pas être tranchée de manière définitive [3]. Dans l’idéal, cette modalité permet cependant de révéler un autre diagnostic univoque, qui peut, dans le meilleur des cas, être traité simultanément. Dans notre cas, la cholangioscopie a permis non seulement d’évaluer et de biopsier de manière ciblée la sténose, mais aussi de détecter avec certitude la cause, à savoir un clip ayant migré, par visualisation directe. En outre, le calcul biliaire a pu être désintégré par LEH sous guidage cholangioscopique, puis être extrait des voies biliaires, tout comme le clip.
+
+Bien entendu, la cholangioscopie est encore une ­méthode récente, dont la valeur diagnostique et en particulier aussi le rapport coût-efficacité («single use instrument» pour 2700 CHF) ne sont pas encore définitivement clarifiés. En tout état de cause, l’indication d’une cholangioscopie doit être posée strictement et l’examen doit uniquement être réalisé par des examinateurs chevronnés.
+
+La migration de clip diagnostiquée dans notre cas ­représente une complication rare de la cholécystectomie. L’incidence exacte n’est pas connue. Jusqu’à présent, moins de 100 cas ont été décrits dans la littérature. Le plus grand article de revue publié à ce jour date de 2010 et il porte sur 69 cas [4]. La cause de la migration de clip n’est pas totalement comprise et elle est probablement multifactorielle; un placement non ­optimal du clip avec une fuite biliaire consécutive ainsi que des états inflammatoires, ischémiques et infectieux pourraient être des facteurs prédisposants. Un nombre important de clips posés et une courte ­distance entre le clip et le canal hépato-cholédoque constituent également des facteurs de risque [4, 5]. Le clip ayant migré peut par la suite faire office de nid pour la formation d’un calcul. Il peut en outre être ­responsable de sténoses et de rétrécissements. Des symptômes, tels que des douleurs et/ou un ictère, apparaissent en moyenne 26 mois (11 jours à 20 ans) après l’intervention. Dans notre cas, 45 mois se sont écoulés jusqu’au développement de l’ictère indolore.
+
+Une migration de clip peut éventuellement être suspectée lors d’un examen d’imagerie, mais le diagnostic est souvent uniquement posé dans le cadre de l’intervention ultérieure. Le fait qu’un clip ne puisse pas toujours être visualisé avec certitude à l’imagerie pourrait s’expliquer d’une part par le fait que tous les clips ne sont pas radio-opaques et d’autre part par l’espace très restreint entre le clip, la sténose et le calcul, avec en plus des composantes inflammatoires et une incrustation partielle du clip dans la paroi.
+
+Le traitement de choix est la CPRE. D’après la littérature, le clip parvient à être extrait par CPRE dans près de 85% des cas [4]. Le drainage biliaire transhépatique percutané ou une opération entrent en ligne de compte comme traitements de secours. D’après notre recherche de la littérature, notre cas est le premier cas publié dans lequel le clip a pu être mis en évidence et retiré à l’aide de la cholangioscopie haute résolution.
+
+En résumé, ce cas illustre une situation dans laquelle la cholangioscopie haute résolution a permis d’écarter la forte suspicion initiale de tumeur de Klatskin et de ­poser le diagnostic rare de migration de clip et le traiter simultanément.
+
+L’essentiel pour la pratique
+
+• Un ictère indolore dans le cadre d’une cholestase extrahépatique et d’une obstruction au niveau du hile hépatique doit faire suspecter, jusqu’à preuve du contraire, un carcinome.
+
+• En cas de suspicion de cholangiocarcinome hilaire (tumeur de Klatskin), le prélèvement tissulaire et la confirmation histologique du diagnostic représentent un défi, et il n’est ainsi pas rare qu’une opération doive être réalisée même sans diagnostic cytologique ou histologique.
+
+• La cholangioscopie haute résolution avec évaluation endoscopique directe des voies biliaires et biopsie ciblée peut apporter une valeur ajoutée diagnostique, en particulier lorsqu’un autre diagnostic univoque parvient à être posé.
+
+• La migration de clip est une complication rare après une cholécystectomie et elle peut après une période prolongée se manifester par des ­coliques biliaires ou également par un ictère indolore.

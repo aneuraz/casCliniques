@@ -1,0 +1,51 @@
+T1	disorder 103 109	fièvre
+T2	disorder 157 164	nausées
+T3	disorder 171 180	céphalées
+T4	disorder 189 219	e de douleurs dans les membres
+T5	risk 283 361	séjour de deux semaines dans une région endémique de la dengue aux Philippines
+T6	risk 391 412	 piqûres de moustique
+T7	disorder 581 600	état général réduit
+T8	procedure 605 624	pression artérielle
+T9	labvalue 629 641	130/80 mm Hg
+T10	procedure 684 701	 une tachycardie 
+T11	labvalue 703 724	117 battements/minute
+T12	procedure 726 739	une tachypnée
+T13	labvalue 741 772	 26 cycles respiratoires/minute
+T14	labvalue 818 821	99%
+T15	procedure 789 814	une saturation en oxygène
+T16	disorder 850 857	 fièvre
+T17	labvalue 860 868	38,8 °C.
+T18	procedure 868 886	 L’examen clinique
+T19	procedure 954 969	une lymphopénie
+T20	labvalue 971 980	 0,25 G/l
+T21	labvalue 988 999	0,9–3,3 G/l
+T22	procedure 1008 1012	CRP 
+T23	labvalue 1033 1040	20 mg/l
+T24	labvalue 1048 1056	<10 mg/l
+T25	procedure 1063 1075	thrombocytes
+T26	labvalue 1082 1089	220 G/l
+T27	procedure 1114 1162	Les tests du virus de l’immunodéficience humaine
+T28	labvalue 1194 1202	négatifs
+T29	procedure 1114 1185	Les tests du virus de l’immunodéficience humaine (VIH) et de la malaria
+T30	procedure 1207 1225	test du tourniquet
+T31	labvalue 1259 1266	positif
+T32	anatomy 1241 1253	bras gauche 
+T33	procedure 1575 1582	La PCR 
+T34	labvalue 1582 1590	positive
+T35	labvalue 1596 1617	le virus de la dengue
+T36	anatomy 1685 1697	Bras gauche 
+T37	procedure 1702 1720	test du tourniquet
+T38	labvalue 1721 1728	positif
+T39	labvalue 1730 1743	>20 pétéchies
+T40	labvalue 1730 1788	>20 pétéchies sur une surface de 6,25 cm2[2,5 cm × 2,5 cm]
+T41	anatomy 1827 1841	 le bras droit
+T42	procedure 1904 1925	 test de Rumpel-Leede
+T43	procedure 1927 1939	test de Hess
+T44	disorder 2047 2083	infection par le virus de la dengue 
+T45	procedure 2343 2375	 pression artérielle diastolique
+T46	procedure 2307 2337	pression artérielle systolique
+T47	labvalue 2414 2424	 105 mm Hg
+T48	procedure 2609 2630	Le test du tourniquet
+T49	procedure 1872 1892	Le test du tournique
+T50	labvalue 2651 2659	positif 
+T51	labvalue 2776 2784	négatif 

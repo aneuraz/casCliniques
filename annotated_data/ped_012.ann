@@ -1,0 +1,81 @@
+T1	procedure 26 32	suivie
+T2	disorder 82 111	ulcères récidivants des pieds
+T3	irrelevant 332 380	Figure 1. Ulcères bilatéraux du dos des pieds. •
+T4	disorder 436 464	ulcère du dos du pied gauche
+T5	disorder 466 476	douloureux
+T6	disorder 480 491	prurigineux
+T7	disorder 527 545	ulcères bilatéraux
+T8	procedure 583 589	examen
+T9	disorder 604 610	ulcère
+T10	labvalue 626 633	fibrine
+T11	procedure 650 657	détergé
+T12	procedure 698 707	cicatrise
+T13	labvalue 708 711	pas
+T14	disorder 721 735	péri-ulcéreuse
+T15	disorder 770 812	dépigmentation et hyperpilosité paradoxale
+T16	procedure 818 837	pouls périphériques
+T17	labvalue 843 851	présents
+T18	procedure 867 873	examen
+T19	disorder 901 911	peau sèche
+T20	disorder 927 942	arachnodactylie
+T21	disorder 949 964	télangiectasies
+T22	procedure 1003 1006	NFS
+T23	procedure 1029 1035	anémie
+T24	procedure 1037 1039	Hb
+T25	labvalue 1042 1054	6,4 g/100 ml
+T26	procedure 1056 1090	hypochrome microcytaire ferriprive
+T27	procedure 1095 1097	VS
+T28	labvalue 1104 1109	75 mm
+T29	disorder 1126 1134	hémolyse
+T30	procedure 1139 1161	radiographie des pieds
+T31	procedure 1168 1195	Doppler artériel et veineux
+T32	labvalue 1232 1239	normaux
+T33	procedure 1243 1265	échographie abdominale
+T34	disorder 1286 1305	hépatosplénomégalie
+T35	procedure 1313 1320	biopsie
+T36	disorder 1368 1383	lichen striatus
+T37	procedure 1390 1400	traitement
+T38	procedure 1419 1432	soins locaux 
+T39	drugs 1441 1447	éosine
+T40	drugs 1453 1469	dermocorticoïdes
+T41	drugs 1477 1490	antibiotiques
+T42	procedure 1491 1513	administrés localement
+T43	procedure 1521 1531	voie orale
+T44	procedure 1576 1582	reçoit
+T45	drugs 1599 1602	fer
+T46	disorder 1621 1627	anémie
+T47	procedure 1634 1671	dosage quantitatif des acides aminés 
+T48	disorder 1721 1738	iminodipeptidurie
+T49	labvalue 1710 1720	importante
+T50	disorder 1758 1778	déficit en prolidase
+T51	procedure 1784 1790	examen
+T52	procedure 1802 1826	dernière hospitalisation
+T53	disorder 1837 1854	multiples ulcères
+T54	disorder 1991 1998	ulcères
+T55	procedure 2006 2020	fond fibrineux
+T56	procedure 2026 2032	bords 
+T57	labvalue 2037 2048	irréguliers
+T58	disorder 2058 2087	peau péri-ulcéreuse scléreuse
+T59	disorder 2102 2118	atrophie blanche
+T60	disorder 2169 2176	ulcères
+T61	procedure 2124 2134	évolution 
+T62	disorder 2180 2201	incurvation des pieds
+T63	procedure 2228 2234	anémie
+T64	procedure 2246 2248	Hb
+T65	labvalue 2251 2264	12,9 g/100 ml
+T66	procedure 2270 2292	radiographie des pieds
+T67	procedure 2299 2308	 évidence
+T68	disorder 2313 2345	déminéralisation osseuse diffuse
+T69	procedure 2361 2393	biopsie de la graisse abdominale
+T70	procedure 2398 2422	 recherche d’une amylose
+T71	labvalue 2442 2450	négative
+T72	procedure 2464 2491	recherche d’une protéinurie
+T73	irrelevant 2493 2524	Figure 2. Ulcères plantaires. •
+T74	procedure 2528 2552	traitement symptomatique
+T75	disorder 2557 2564	ulcères
+T76	procedure 2568 2582	administration
+T77	drugs 2586 2596	vitamine C
+T78	drugs 2603 2613	Pyostacine
+T79	procedure 2670 2684	greffe cutanée
+T80	profession 2710 2721	plasticiens
+T81	irrelevant 2788 6575	Discussion Le déficit en prolidase est une maladie autosomique récessive très rare. Ce déficit a été mis en évidence pour la première fois en 1974 sur les érythrocytes et les leucocytes et, en 1977 et 1979, sur les fibroblastes dermiques. La prolidase (peptidase D, imidopeptidase) est une enzyme qui hydrolyse la proline ou l’hydroxyproline à l’extrémité C. Son gène est situé sur le chromosome 19p13.2. Elle intervient à la phase terminale du catabolisme du collagène. En conséquence, son déficit est responsable en amont de l’accumulation de dipeptides qui passent dans le sang, puis dans les urines ; en aval, la perte de dipeptides, dont les acides aminés ne sont pas réincorporés in situ, entraîne un déficit de la synthèse de procollagène, et donc une maladie de cicatrisation (figure 4). L’histologie montre une atrophie épidermique avec destruction irrégulière de la membrane basale ; au niveau des ulcères, on peut observer des dépôts de substance amyloïde sur la paroi interne des vaisseaux. Clinique. La maladie se traduit cliniquement par l’apparition chez un enfant d’ulcères des jambes et des pieds, invétérés, bilatéraux, résistant aux traitements. Le fond ulcéreux, lorsqu’il est détergé, est caverneux ou vasculaire et bourgeonnant, mais ne cicatrise pas. La zone péri-ulcéreuse est le siège d’une pachyépidermie avec dépigmentation et hyperpilosité paradoxale. Des troubles trophiques cutanés peuvent se voir, à type d’éruption inflammatoire, de Figure 3. Radiographie des pieds face (A) et profil (B). télangiectasies et de scléro-atrophies (tableau). D’autres signes sont associés au déficit en prolidase : syndrome dystrophique, sensibilité aux infections, complications ORL et ophtalmiques, hépatosplénomégalie, retard mental et psychomoteur plus ou moins sévère... Le diagnostic repose sur le dosage enzymatique érythrocytaire et le taux d’aminopeptides dans les urines. Le diagnostic anténatal est possible sur les cellules amniotiques. Chez notre patiente, le syndrome dystrophique est présent sous la forme d’une arachnodactylie. Le diagnostic est évoqué cliniquement par des ulcères des jambes et des pieds, bilatéraux, résistant aux traitements, survenant chez un enfant. Des cas familiaux peuvent exister, mais le défaut d’anamnèse ne permet pas de l’affirmer. Le diagnostic est confirmé biologiquement par l’iminodipeptidurie, qui est massive et constante. Le dipeptide prédominant est le glycylproline. Traitement • Le traitement symptomatique est celui de tous les ulcères : détersion, désinfection et application de pansements colloïdes. Pour certains auteurs, l’antibiothérapie doit être systématique ; nous pensons qu’elle est de mise en cas d’infection. • Le traitement étiologique consiste en la supplémentation en proline et hydroxyproline par voie locale, et en cofacteurs de la prolidase, la vitamine C et le manganèse. Ce traitement n’a pas été efficace chez notre patiente. Figure 4. Schéma du rôle de la prolidase dans le métabolisme du collagène. • La dapsone à dose de 75 mg/j pendant 2 mois a permis d’obtenir une épidermisation dans certaines observations ; ce traitement n’a pas été essayé chez notre patiente en raison de son anémie ferriprive. Des greffes de résilles ont été réalisées et se sont avérées efficaces au début de la maladie, mais le résultat n’a été que transitoire et des amputations ont dû être pratiquées. Conclusion Le déficit en prolidase est une maladie autosomique rare qui touche l’enfant. Il faut penser à cette pathologie rare devant des ulcères invétérés apparaissant dès l’enfance. Le diagnostic est posé devant une iminodipeptidurie positive, alors que le reste du bilan est normal. Le traitement est symptomatique mais décevant ; seul un traitement étiologique efficace pourra apporter un espoir à l’avenir. 

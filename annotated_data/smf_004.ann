@@ -1,0 +1,108 @@
+T1	irrelevant 10898 10907;10910 10985;10987 11082	Réponses:   Question 1: b. Question 2: a. Question 3: d. Question 4: c. ­Question 5: c.  L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2021.08775.
+T2	irrelevant 9190 9266;9269 9339;9341 9431;9433 9484;9486 9544;9546 9577	Question 5: Quelle première mesure s’avère suspendre la production de chyle?   a) Administration de diurétiques agissant sur le tube contourné distal  b) Administration d’une alimentation parentérale en supplément d’une alimentation entérale  c) Application d’un régime strict pauvre en graisse  d) Mise en place d’un ballonnet dans la citerne de Pecquet  e) Ligature du canal thoracique
+T3	irrelevant 8562 9187	Le mécanisme observé est celui des bloqueurs des canaux calciques qui reste mal déterminé mais incrimine les propriétés lipophiles de ce traitement agissant sur les cellules musculaires lisses du tractus gastro-intestinal et sur les vaisseaux lymphatiques entraînant une baisse de l’absorption lymphatique par augmentation de la pression lymphatique hydrostatique. Notons ici que le traitement de monoxidine, fréquemment prescrit, et ayant un effet vasodilatateur central, ne semble pas avoir d’effet sur le système lymphatique. Finalement, l’insuffisance rénale de stade 5 est associée à un risque augmenté d’ascite chyleuse
+T4	irrelevant 8093 8558	La survenue d’ascite chyleuse peut être liée à quatre phénomènes [3, 4]: 1. interruption de la circulation via intervention chirurgicale ou traumatisme abdominal; 2. phénomène de masse d’une infiltration lymphoproliférative ou maligne ayant pour conséquence une ­dilatation du réseau en amont de la circulation par rapport à la masse; 3. exsudation liée à une fistule; 4. augmentation des pressions hépato-cave et porte via insuffisance cardiaque droite ou cirrhose
+T5	irrelevant 7718 8090	Brièvement, le système lymphatique suit les vaisseaux avec une circulation propre, unidirectionnelle, des parties distales aux parties proximales convergeant vers la citerne de Pecquet qui est à l’origine du canal thoracique et se situe autour de la deuxième vertèbre lombaire. La lymphangiographie, considéré comme gold-standard, permet d’évaluer le transport lymphatique
+T6	irrelevant 7148 7217;7220 7307;7309 7349;7351 7396;7398 7476;7478 7562;7564 7715	Question 4: Quelle affirmation est fausse sur le système lymphatique?   a) Ce système englobe lymphe, vaisseaux et tissus lymphatiques et moelle osseuse rouge.  b) La circulation est unidirectionnelle.  c) L’échographie permet d’évaluer ce système.  d) L’insuffisance rénale terminale est associée à un risque d’ascite chyleuse.  e) La lymphangiographie au Lipiodol® est le meilleur examen pour évaluer ce système.  La littérature est pauvre à ce sujet toutefois, en 1982, l’incidence reportée était de 1/20 000 admissions dans un hôpital universitaire sur 20 ans [2]
+T7	irrelevant 6872 6882;6884 7145	Discussion  L’ascite chyleuse, forme rare d’ascite, est définie par une accumulation de lymphe dans la cavité péritonéale. Son diagnostic est posé après une paracentèse abdominale où les triglycérides sont >200 mg/dl (2,3 mmol/l) ou ­selon auteurs à >110 mg/dl (1,2 mmol/l)
+T8	irrelevant 9579 10895	Concernant le traitement, la pierre angulaire est le traitement spécifique de l’étiologie de l’ascite chyleuse [3, 4]. Sans cause spécifique, nous avons procédé par élimination en stoppant dans un premier temps le traitement incriminé puis en traitant l’insuffisance rénale chronique avancée par hémodialyse. Comme traitement aspécifique, la mise au repos du système lymphatique par régime pauvre en graisses est recommandée. Ce régime est difficile à appliquer car il faut tenir compte des pertes protéiques et lipidiques inhérentes, raison pour laquelle un support nutritionnel est essentiel. Il est nécessaire donc de réduire la production de chyle, de remplacer les pertes et de maintenir un status nutritionnel adéquat. Une nutrition riche en protéines et faible en triglycérides est alors primordiale. Dans le cas où, comme notre patient la nutrition entérale ne suffit pas, il est recommandé alors de débuter une nutrition parentérale. ­Finalement, un traitement de somatostatine ou d’octréotide peut favoriser la fermeture d’une fistule lymphatique même si la cause n’est pas élucidée [4]. Si ce traitement ne fonctionne pas, shunts, embolisation ou intervention chirurgicale sont proposés en dernier lieu. Chez un patient insuffisant rénal de stade 5, la mise en dialyse fait partie intégrante du traitement
+T9	irrelevant 5329 5437;5440 5466;5468 5483;5485 5498;5500 5516;5518 5531	Question 3: Lequel des médicaments pris par le patient peut être incriminé lors de présence de chylo-ascite?   a) Acide acétylsalicylique  b) Simvastatine  c) Métoprolol  d) Lercanidipine  e) Vitamine D
+T10	irrelevant 5533 5769	Face à l’absence d’autres pistes diagnostiques et de l’existence de rares cas de CA reportés sous traitement de bloqueurs des canaux calciques chez des patients insuffisants rénaux, nous avons suspendu le traitement de lercanidipine [1]
+T11	procedure 42 54	greffé rénal
+T12	disorder 85 121	polykystose hépatorénale autosomale 
+T13	procedure 136 147	hospitalisé
+T14	disorder 153 162	asthénie.
+T15	disorder 202 225	hypertension artérielle
+T16	disorder 231 268	fibrillation auriculaire paroxystique
+T17	disorder 275 325	adénocarcinome de la prostate Gleason 3+4c T1cN0Mx
+T18	disorder 394 406	hématochézie
+T19	procedure 438 450	colonoscopie
+T20	disorder 476 482	polype
+T21	disorder 561 569	asthénie
+T22	disorder 635 670	augmentation du périmètre abdominal
+T23	disorder 672 693	alternance du transit
+T24	disorder 695 706	inappétence
+T25	disorder 708 715	dyspnée
+T26	disorder 726 735	orthopnée
+T27	disorder 737 747	rhinorrhée
+T28	disorder 751 765	odynodysphagie
+T29	drugs 831 841	tacrolimus
+T30	drugs 843 853	torasémide
+T31	drugs 854 865	 métolazone
+T32	drugs 867 890	acide acétylsalicylique
+T33	drugs 891 902	 métoprolol
+T34	drugs 904 916	simvastatine
+T35	drugs 918 931	lercanidipine
+T36	drugs 932 942	 magnésium
+T37	drugs 944 951	calcium
+T38	drugs 953 963	vitamine D
+T39	drugs 965 976	allopurinol
+T40	drugs 978 995	darbépoétine alfa
+T41	drugs 997 1005	nicobion
+T42	procedure 1036 1052	’examen clinique
+T43	disorder 1069 1080	cachectique
+T44	disorder 1084 1094	asthénique
+T45	disorder 1179 1224	fond de gorge montre un écoulement postérieur
+T46	procedure 1228 1257	auscultation cardiopulmonaire
+T47	labvalue 1262 1269	normale
+T48	disorder 1273 1378	abdomen, globuleux, présente des bruits diminués. Il est indolore à la palpation et on perçoit une matité
+T49	disorder 1391 1432	greffon est palpé en fosse iliaque droite
+T50	irrelevant 1523 1597;1600 1658;1660 1741;1743 1769;1771 1788;1790 1810	Question 1: Quels examens paracliniques demandez-vous d’emblée à ce stade?   a) Colonoscopie avec répétitions de biopsies si nécessaire  b) Bilan sanguin étendu, ultrason pan-abdominal et ponction d’ascite avec analyse  c) CT-scanner corps entier  d) Biopsie rénale  e) Biopsie hépatique
+T51	procedure 1816 1837	examens paracliniques
+T52	disorder 1852 1858	anémie
+T53	disorder 1924 1950	 insuffisance rénale aiguë
+T54	procedure 1960 1970	créatinine
+T55	labvalue 1971 1981	382 µmol/l
+T56	procedure 1983 1987	eGFR
+T57	labvalue 2096 2113	12 ml/min/1,73 m2
+T58	procedure 2115 2119	urée
+T59	labvalue 2120 2129	28 mmol/l
+T60	procedure 2184 2203	protéine C-réactive
+T61	labvalue 2203 2214	 12,10 mg/l
+T62	procedure 2259 2280	frottis nasopharyngés
+T63	labvalue 2286 2294	négatifs
+T64	disorder 2329 2360	foie dysmorphique et hétérogène
+T65	disorder 2376 2393	kystes hépatiques
+T66	disorder 2401 2468	quantité importante de liquide intrapéritonéal dans les 4 quadrants
+T67	procedure 2570 2598	ponction du liquide d’ascite
+T68	procedure 2656 2666	leucocytes
+T69	labvalue 2667 2673	48 M/l
+T70	labvalue 2674 2677	 0 
+T71	procedure 2677 2699	cellules polynucléées 
+T72	labvalue 2706 2709	81%
+T73	procedure 2710 2721	macrophages
+T74	labvalue 2722 2726	 18%
+T75	procedure 2727 2738	lymphocytes
+T76	procedure 2740 2762	lactate déshydrogénase
+T77	labvalue 2769 2775	50 U/l
+T78	procedure 2777 2786	protéines
+T79	labvalue 2787 2795	15,6 g/l
+T80	procedure 2797 2812	albumine ascite
+T81	labvalue 2813 2818	2 g/l
+T82	procedure 2820 2850	gradient albumine serum-ascite
+T83	labvalue 2851 2859	3,3 g/dl
+T84	procedure 2861 2874	triglycérides
+T85	labvalue 2875 2885	1062 mg/dl
+T86	disorder 2919 2934	ascite chyleuse
+T87	disorder 2938 2950	chylo-ascite
+T88	procedure 2961 2964	IRM
+T89	disorder 2986 3022	citerne de Pecquet fortement dilatée
+T90	procedure 3044 3047	IRM
+T91	disorder 3097 3132	dilatation de la citerne de Pecquet
+T92	irrelevant 3177 3265;3267 3279;3281 3306;3308 3339;3341 3364;3366 3390	Question 2: Quelle est l’étiologie de la chylo-ascite la moins probable chez ce patient?  a) Filariose  b) Insuffisance cardiaque  c) Syndrome lympho-prolifératif  d) Cause médicamenteuse  e) Processus néoplasique
+T93	disorder 3445 3457	chylo-ascite
+T94	irrelevant 3492 3589;3590 3610;3611 3639;3640 3675;3676 3713;3714 3760;3761 3805;3806 3839;3840 3882;3883 3914;3915 3963;3964 3999;4000 4036;4037 4076;4077 4090;4091 4114	Tableau 1: Récapitulatif des causes atraumatiques de chylo-­ascite par ordre de fréquence [4, 5]. Causes atraumatiques Néoplasie 25%	 	Autres (45%) Cancer organes solides	 	Cardiaques Lymphome	 	 	Péricardite constrictive Tumeurs carcinoïdes	 	 	Insuffisance cardiaque Leucémie lymphoïde chronique	 	Inflammatoire Maladies acquises	 	 	Pancréatite Cirrhoses15%	 	 	Fibrose tissus abdominaux Infectieuses 15%	 	 	Sarcoïdose  	Tuberculose	 	 	Lupus érythémateux ­systémique  	Filariose	 	 	Dialyse péritonéale  	Maladie de Whipple	 	Médicamenteux  	 	 	 	Bloqueurs des canaux ­calciques  	 	Sirolimus  	Maladies congénitales
+T95	irrelevant 4116 5326	Sur le plan infectiologie, le quantiféron, l’adénosine ­désaminase et la PCR Tropheryma whipplei sont négatifs permettant d’exclure tuberculose et maladie de Whipple. Nous n’avons pas recherché la filariose étant donné l’absence de facteur de risque ni la lymphangiectasie intestinale face à une albuminémie à 36 g/l. Nous avons recherché une néoplasie ou un syndrome lymphoprolifératif. Les analyses cytologiques ainsi que les cytométries de flux sériques et péritonéales sont ­revenues sans particularité, tout comme le PET-scanner. Une échocardiographie ne montre pas de pathologie constrictive. Une lymphangiographie au ­Lipiodol® décèle une fuite au niveau de la veine rénale à la hauteur de corps vertébral de L2 sans obstacle visible (voir fig. S1 dans l’annexe joint à l’article en ligne), la formation spontanée d’une brèche in situ paraissant peu probable. Avec ceci, un épaississement de la paroi de l’œsophage ayant été décrite à l’IRM foie-rate, une oeso-gastro-duodénoscopie a exclu un processus néoplasique. Un remodelage tissulaire survenant après radiothérapie de l’adénocarcinome de la prostate est exclu par la lymphangiographie montrant une fuite au niveau L2, non irradiée lors des séances
+T96	procedure 5804 5811	 régime
+T97	disorder 5851 5869	dénutrition sévère
+T98	procedure 5938 5956	nutrition entérale
+T99	drugs 5961 5969	Survimed
+T100	procedure 5979 5994	drain abdominal
+T101	drugs 6316 6335	hydrochlorothiazide
+T102	drugs 6342 6353	moxonidine 
+T103	drugs 6375 6385	torasémide
+T104	disorder 6428 6453	l’hypertension artérielle
+T105	drugs 6491 6520	bloqueur des canaux calciques
+T106	disorder 6590 6605	 récidive de CA
+T107	disorder 6705 6735	insuffisance rénale chronique 
+T108	procedure 6765 6772	dialyse

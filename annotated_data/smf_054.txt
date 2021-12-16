@@ -1,0 +1,102 @@
+Contexte
+
+Selon des données de l’Organisation mondiale de la santé (OMS), les bronchopneumopathies chroniques obstructives (BPCO) et l’emphysème pulmonaire font partie des maladies non transmissibles les plus fréquentes au niveau international [1]. En Suisse, près de 400 000 personnes souffrent d’une BPCO.
+
+Pendant longtemps, seules des options chirurgicales, dont l’objectif est de réduire la zone la plus distendue du tissu pulmonaire afin de permettre une meilleure fonction respiratoire, étaient disponibles pour les ­patients atteints de dyspnée due à un emphysème ­pulmonaire sévère [2].
+
+Cependant, des méthodes moins invasives et associées à moins de complications se sont désormais si bien ­établies qu’elles sont préconisées dans les recommandations actuelles de la «Global Initiative for Chronic ­Obstructive Lung Disease» (GOLD) [3] et ont également été intégrées dans de nombreuses lignes directrices nationales.
+
+Actuellement l’implantation d’une valve par endoscopie, l’implantation d’une spirale et la réduction thermique du volume pulmonaire par instillation de vapeur d’eau sont disponibles. Toutes les procédures sont ­certifiées CE.
+
+La recommandation d’une réduction endoscopique du volume pulmonaire (ELVR) repose sur de nombreuses études qui accordent à ce procédé des résultats en partie impressionnants, notamment en ce qui concerne la réduction de la dyspnée, l’amélioration de la fonction pulmonaire et la qualité de vie [4–9]. La réduction thermique du volume pulmonaire est actuellement recommandée uniquement en cas d’emphysème pulmonaire hétérogène avec prédominance du lobe supérieur, et présente alors des résultats positifs dans les études [7, 8].
+
+L’intervention bronchoscopique est peu invasive et ne requiert que quelques minutes sous anesthésie. L’administration de vapeur d’eau dans un segment pulmonaire s’effectue à l’aide d’un cathéter introduit avec un bronchoscope flexible. La vapeur d’eau est ainsi instillée dans le segment, ce qui provoque une inflammation du tissu pulmonaire. Par la suite, le tissu emphysémateux régresse et une atélectasie apparaît. L’hyperinflation pulmonaire est ainsi réduite [10, 11].
+
+Les complications sont majoritairement faibles et consistent généralement en des exacerbations occasionnelles qui sont principalement légères et traitables en ambulatoire. Dans le cas de l’implantation endoscopique d’une valve, le pneumothorax post-interventionnel est une complication fréquente qui ne survient pas plus souvent avec la méthode par vapeur d’eau que chez les patients non traités [12].
+
+La suite de l’article présente une patiente atteinte d’un emphysème pulmonaire et d’une BPCO sévères, qui a bénéficié d’une réduction thermique du volume pulmonaire.
+
+Présentation du cas
+Anamnèse
+
+La patiente âgée de 52 ans, souffrant depuis 2012 d’une BPCO sévère connue et d’un emphysème pulmonaire croissant sans déficit en alpha-1-antitrypsine, consulte notre ­cabinet de pneumologie en présence d’une dyspnée croissante. Elle rapporte une symptomatique de dyspnée affichant une progression lente depuis des années ainsi qu’une baisse significative de la performance qui s’est considérablement accrue au cours des six derniers mois. Elle est peu résistante et se plaint déjà d’une dyspnée d’effort correspondant au degré 3 selon la classification mMRC lorsqu’elle doit marcher 50 mètres sur une surface plane et monter les escaliers jusqu’au premier étage. Le traitement médicamenteux de la BPCO avait déjà été optimisé par le médecin de ­famille. L’ancienne grosse fumeuse (environ 40 paquets-années jusqu’en 2018) présentait occasionnellement des exacerbations infectieuses. Une réhabilitation pneumologique professionnelle de près de deux mois (dont trois semaines en stationnaire) a permis d’obtenir un soulagement des symptômes uniquement à court terme.
+
+Statut et résultats
+
+La patiente s’est présentée dans un état général fortement réduit et un état de cachexie (tab. 1). La pléthysmographie corporelle a révélé un trouble sévère et non réversible de la ventilation (VEMF 20%) avec une hyper­inflation pulmonaire sévère (VR 367%) et une capacité de diffusion modérément limitée (45% de la valeur de référence). L’hyperinflation pulmonaire sévère mise en évidence apparaissait comme la cause principale de la dyspnée d’effort due à l’emphysème.
+
+Tableau 1: Comparaison de la performance avant et après les deux ELVR thermiques.
+Résultat	Avant l’intervention	Après l’intervention
+Général	 	 
+Poids	42 kg	52 kg
+Indice de masse corporelle	17,8 kg/m2	22 kg/m2
+Lié à la performance	 	 
+Fonction pulmonaire	VEMS: 20%	VEMS: 31%
+CVF: 43%	CVF: 68%
+VR: 367%	VR: 211%
+Gazométrie artérielle	pO2: 7,44 kPa	pO2: 10,2 kPa
+pCO2: 6,17 kPa	pCO2: 5,19 kPa
+Qualité de vie	 	 
+St. Georges Respiratory ­Questionnaire	35/100 points	20/100 points
+Besoin d’oxygène	1 lpm O2 au repos	Air ambiant au repos
+2–3 lpm O2 à l’effort	1–2 lpm O2 uniquement à l’effort
+Cathétérisme cardiaque droit	PAPm 34 mm Hg	 
+ELVR: réduction endoscopique du volume pulmonaire; CVF: capacité vitale forcée; VEMS: volume expiratoire maximal par seconde; VR: volume résiduel.
+
+La tomodensitométrie (TDM) a mis en évidence un emphysème pulmonaire centrolobulaire bilatéral prononcé dans la zone apicale (fig. 1).
+
+Figure 1: Tomodensitométrie du thorax 7 mois avant l’intervention.
+
+La gazométrie artérielle (GA) a révélé une insuffisance respiratoire sévère accompagnée d’une légère hypercapnie (tab. 1), de sorte qu’une oxygénothérapie de longue durée et un traitement«bi-level nasal positive airway pressure» (nBiPAP) ont été initiés.
+
+En raison de signes échocardiographiques d’une contrainte dans le cœur droit (PAPs 45 mm Hg), un ­cathétérisme cardiaque droit a été réalisé, confirmant l’augmentation de la pression artérielle pulmonaire (tab. 1).
+
+La densitométrie pulmonaire a révélé une destruction du parenchyme pulmonaire, prononcée au niveau du lobe supérieur. L’examen scintigraphique du poumon a mis en évidence une perfusion très faible (16% à droite, 18% à gauche) au niveau des lobes supérieurs. Au vu de l’analyse de densitométrie de la TDM thoracique, des segments des deux lobes supérieurs étaient envisageables pour une réduction endoscopique du volume pulmonaire.
+
+Etant donné que toutes les options thérapeutiques ­médicamenteuses et non médicamenteuses, y compris la réhabilitation pneumologique professionnelle sur deux mois, avaient été épuisées, il existait une indication de réduction endoscopique du volume pulmonaire, en l’absence de contre-indication.
+
+En raison du pourcentage élevé de pneumothorax que présente la réduction endoscopique du volume pulmonaire au moyen d’une valve et de la faible efficacité à long terme d’une implantation de spirale, mise en évidence dans des études récentes, nous avons recommandé à la patiente une réduction thermique du ­volume pulmonaire par endoscopie.
+
+Traitement
+
+La figure 2A montre l’état deux mois avant l’intervention. La première intervention a eu lieu sans complication. L’ablation thermique par vapeur d’eau a été réalisée dans deux sous-segments apicaux à droite.
+
+Figure 2: Radiographie Rthoracique:A) état 2 mois avant l’intervention,B) 1 jour après la première ELVR,C) 15 jours post-interventionnel. ELVR: réduction endoscopique du volume pulmonaire.
+
+En présence d’une évolution satisfaisante, nous avons pratiqué une nouvelle ELVR sans complication dans un segment du lobe supérieur à gauche quatre mois plus tard.
+
+Evolution
+
+Dans les jours suivants la première intervention, il s’est formé un infiltrat inflammatoire dans le lobe ­supérieur droit (fig. 2B) et, par la suite, une cicatrice ­cunéiforme (fig. 2C)
+
+Au bout d’environ quatre semaines après la ELVR, la ­patiente s’est déjà sentie plus stable et plus résistante. Plus aucun signe d’exacerbation de la BPCO, ni aucune autre complication ne sont survenus après l’intervention. Elle utilisait encore régulièrement l’oxygénothérapie de longue durée pendant 24 heures à raison de mit 1–2 lpm O2. Concernant la fonction pulmonaire, une amélioration du trouble ventilatoire obstructif (VEMS 28%) a été observée. L’hyperinflation pulmonaire sévère s’était améliorée avec un VR de 239%.
+
+Deux mois après l’intervention, la dyspnée s’est considérablement améliorée et la patiente pouvait déjà retravailler à temps partiel dans la vente.
+
+Par la suite, la patiente a été en mesure d’adapter l’oxygénothérapie de longue durée (amélioration de l’oxygénation à pO2 10,8 kPa). Depuis, elle n’utilise l’oxygénothérapie que pendant l’effort. La fonction pulmonaire a révélé une régression de l’hyperinflation avec un VR de 222%. Entre-temps, une échocardiographie avait été ­réalisée, sans signe d’hypertension pulmonaire.
+
+A la suite de la deuxième ELVR, une exacerbation est survenue chez la patiente environ trois semaines après l’intervention. La radiographie thoracique a mis en évidence un infiltrat inflammatoire dans le lobe supérieur apical gauche (fig. 3A). Un traitement stéroïdien systémique temporaire a permis d’améliorer significativement la symptomatique en quelques jours. Deux ­semaines plus tard, la patiente était quasiment exempte de symptômes. La résistance s’était encore améliorée, elle pouvait même à nouveau faire de la randonnée dans les montagnes. Elle nécessitait l’oxygénothérapie uniquement en cas d’effort physique prononcé. A la radiographie, l’infiltrat inflammatoire avait complètement régressé et il s’était formé une atélectasie du segment apical du lobe supérieur gauche (fig. 3B). L’hyperinflation avait continué de régresser (VR 211%) et le «St. Georges Respiratory Questionnaire» (SGRQ) s’était amélioré (20 points). L’oxygénation était stable avec une valeur de 10,2 kPa (tab. 1), toujours en présence d’une normocapnie.
+
+Figure 3: Radiographie thoracique:A) état 14 jours après la deuxième ELVR,B) 29 jours post-interventionnel. ELVR: réduction endoscopique du volume pulmonaire.
+
+Discussion
+
+Après réduction thermique du volume pulmonaire, la patiente a présenté une régression très positive de l’hyperinflation pulmonaire ainsi qu’une nette amélioration de l’oxygénation.
+
+La méthode peu invasive de l’ablation par vapeur d’eau a permis d’améliorer considérablement les paramètres de la fonction pulmonaire, la dyspnée d’effort et la qualité de vie de la patiente. L’amélioration clinique était encore présente au bout d’environ un an. Les résultats ont été objectivés par l’amélioration du SGRQ.
+
+L’état actuel des données concernant l’ablation bronchoscopique par vapeur d’eau est actuellement trop faible et les limitations de la méthode ne présentent aucune évidence fiable. Selon les «NICE draft recommendations», la méthode doit prochainement être utilisée dans le cadre d’études [13].
+
+Par rapport à la réduction chirurgicale du volume pulmonaire ou à l’implantation d’une valve, la réduction de volume pulmonaire par vapeur d’eau n’atteint pas la même efficacité dans les études [14], mais présente l’avantage d’un taux inférieur de complications et peut être utilisée à plusieurs reprises chez de nombreux ­patients.
+
+L’essentiel pour la pratique
+
+• La réduction de volume pulmonaire (LVR) endoscopique constitue, chez des patients sélectionnés atteints d’emphysème pulmonaire, une bonne alternative à la LVR chirurgicale, peut réduire l’hyperinflation pulmonaire et améliore ainsi la dyspnée et la qualité de vie des patients [11].
+
+• Le choix du procédé technique repose sur une multitude de critères et nécessite un examen diagnostique approfondi. L’établissement de l’indication et le choix de la méthode doivent avoir lieu dans le cadre d’une discussion interdisciplinaire («emphysema board» entre pneumologie, radiologie et chirurgie thoracique) [13].
+
+• Cette option thérapeutique présente un faible taux de complications, peut être répétée dans d’autres segments en fonction du résultat individuel et assure un plan thérapeutique individuel au vu de la pathologie de l’emphysème pulmonaire du patient.
+
+• Contrairement à d’autres méthodes de LVR, il est possible de traiter de manière sélective les segments pulmonaires les plus détruits et d’épargner les régions pulmonaires plus saines. Par ailleurs, aucun corps étranger ne reste dans les bronches.
+
+• Des méthodes thérapeutiques interventionnelles de l’emphysème ­pulmonaire sévère doivent toujours être intégrées dans un concept ­thérapeutique interdisciplinaire, multimodal, individuel et à long terme, dans lequel la médecine de premier recours joue un rôle essentiel. Les interventions techniques ne peuvent en aucun cas remplacer une telle gestion à long terme de la BPCO [13, 15].

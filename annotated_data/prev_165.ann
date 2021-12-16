@@ -1,0 +1,89 @@
+T1	procedure 72 84	intervention
+T2	disorder 90 101	éventration
+T3	profession 125 135	chirurgien
+T4	disorder 159 179	ischémie intestinale
+T5	irrelevant 211 548	Ce cas, pour une fois, débute par les dires de la famille, en grande détresse suite au décès de leur mère, dires connus lors de la saisine de la CCI. Ils sont révélateurs du vécu de cette famille, très présente et confrontée au décès de leur mère, à distance de cette chirurgie programmée, lors de son transport en ambulance, en urgence.
+T6	disorder 690 711	syndrome sub occlusif
+T7	disorder 729 760	volumineuse éventration médiane
+T8	profession 767 777	chirurgien
+T9	procedure 852 864	intervention
+T10	procedure 867 879	intervention
+T11	procedure 889 903	laparoscopique
+T12	procedure 965 986	intervention complète
+T13	procedure 990 1002	intervention
+T14	profession 1039 1049	chirurgien
+T15	procedure 1078 1106	pose de 8 anneaux gastriques
+T16	procedure 1176 1188	 subi une AG
+T17	procedure 1225 1234	pansement
+T18	profession 1370 1380	chirurgien
+T19	procedure 1399 1422	sortie était programmée
+T20	procedure 1453 1463	ordonnance
+T21	drugs 1483 1487	iode
+T22	disorder 1522 1532	allergique
+T23	procedure 1558 1577	nouvelle ordonnance
+T24	profession 1653 1663	chirurgien
+T25	procedure 1694 1706	intervention
+T26	procedure 1781 1803	suivi médical envisagé
+T27	procedure 1897 1909	intervention
+T28	profession 2091 2101	chirurgien
+T29	procedure 2307 2319	intervention
+T30	profession 2396 2421	secrétariat du chirurgien
+T31	disorder 2662 2683	déformation du ventre
+T32	disorder 2731 2739	hématome
+T33	procedure 2782 2807	intervention chirurgicale
+T34	disorder 2900 2912	intervention
+T35	disorder 2964 2970	strips
+T36	disorder 3000 3009	hématomes
+T37	disorder 3030 3047	douleurs répétées
+T38	drugs 3072 3078	Ixprim
+T39	profession 3234 3250	médecin traitant
+T40	procedure 3205 3208	CRO
+T41	procedure 3292 3294	CR
+T42	procedure 3301 3314	suivi médical
+T43	drugs 3406 3412	Ixprim
+T44	profession 3473 3484	urgentistes
+T45	procedure 3604 3633	déroulement de l’intervention
+T46	disorder 3671 3700	inflammation de ses intestins
+T47	procedure 3747 3759	intervention
+T48	disorder 3864 3890	hématomes post opératoires
+T49	drugs 3951 3960	Primpéran
+T50	procedure 3938 3947	injection
+T51	disorder 4181 4196	gastro entérite
+T52	procedure 4152 4162	diagnostic
+T53	procedure 4336 4343	scanner
+T54	procedure 4375 4393	 SAMU intervienne 
+T55	profession 5324 5344	médecins urgentistes
+T56	profession 5350 5372	équipes de réanimation
+T57	disorder 5648 5669	occlusion intestinale
+T58	disorder 5987 6001	polypathologie
+T59	procedure 6069 6082	hystérectomie
+T60	procedure 6092 6108	cholécystectomie
+T61	procedure 6122 6152	lusieurs cures d’éventrations 
+T62	procedure 6165 6176	laparotomie
+T63	procedure 6225 6256	ré intervention par laparotomie
+T64	procedure 6341 6362	abstention opératoire
+T65	disorder 6427 6435	douleurs
+T66	procedure 6573 6597	plaque intra péritonéale
+T67	disorder 6884 6903	glaucome unilatéral
+T68	disorder 6905 6923	surdité unilatéral
+T69	procedure 6925 6960	chirurgie thyroïdienne pour goitre 
+T70	risk 6969 6986	allergie à l’iode
+T71	disorder 6990 6997	obésité
+T72	procedure 7061 7077	Hospitalisation 
+T73	disorder 7111 7133	récidive d’éventration
+T74	procedure 7136 7148	intervention
+T75	procedure 7204 7246	choix de la technique et les voies d’abord
+T76	procedure 7319 7348	adhésiolyse sous laparoscopie
+T77	disorder 7529 7564	douleurs abdominales intermittentes
+T78	profession 7612 7638	secrétariat du chirurgien 
+T79	disorder 8044 8064	douleurs abdominales
+T80	disorder 8253 8286	douleurs abdominales intolérables
+T81	disorder 8291 8304	sub occlusion
+T82	disorder 8306 8317	hypothermie
+T83	procedure 8430 8437	examens
+T84	procedure 8447 8450	ASP
+T85	profession 8475 8485	chirurgien
+T86	disorder 8631 8639	glycémie
+T87	procedure 8840 8849	transfert
+T88	disorder 9629 9661	nécrose ischémique de l’intestin
+T89	disorder 9693 9712	occlusion sur bride

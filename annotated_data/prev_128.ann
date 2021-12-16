@@ -1,0 +1,117 @@
+T1	irrelevant 0 12	Cas clinique
+T2	profession 50 69	gynéco-obstétricien
+T3	profession 384 394	sage-femme
+T4	procedure 455 477	rythme cardiaque fœtal
+T5	procedure 479 482	RCF
+T6	drugs 544 550	Nubain
+T7	procedure 512 540	administration d’une ampoule
+T8	profession 702 712	sage-femme
+T9	procedure 960 981	enregistrement du RCF
+T10	disorder 1016 1049	membranes de l’œuf sont fissurées
+T11	disorder 1127 1144	souffrance fœtale
+T12	profession 1156 1175	gynéco-obstétricien
+T13	procedure 1226 1250	provoquer l’accouchement
+T14	procedure 1258 1293	déclenchement artificiel du travail
+T15	profession 1374 1384	sage-femme
+T16	profession 1510 1520	sage-femme
+T17	procedure 1697 1706	perfusion
+T18	drugs 1710 1720	Syntocinon
+T19	profession 1766 1786	médecin anesthésiste
+T20	procedure 1799 1819	analgésie péridurale
+T21	profession 1846 1865	gynéco-obstétricien
+T22	profession 1899 1909	sage-femme
+T23	procedure 1922 1950	rupture de la poche des eaux
+T24	procedure 2001 2004	RCF
+T25	labvalue 2011 2017	normal
+T26	profession 2029 2039	sage-femme
+T27	profession 2053 2072	gynéco-obstétricien
+T28	procedure 2367 2391	dilatation du col utérin
+T29	labvalue 2404 2412	complète
+T30	profession 2483 2493	sage-femme
+T31	procedure 2660 2676	révision utérine
+T32	profession 2725 2737	anesthésiste
+T33	procedure 2827 2859	réinjection d’anesthésique local
+T34	profession 2895 2905	sage-femme
+T35	disorder 2965 2983	saignement anormal
+T36	disorder 3009 3026	saignement utérin
+T37	profession 3058 3068	sage-femme
+T38	procedure 3073 3092	pression artérielle
+T39	labvalue 3100 3111	125/70 mmHg
+T40	procedure 3118 3137	fréquence cardiaque
+T41	labvalue 3140 3147	125/min
+T42	profession 3171 3190	gynéco-obstétricien
+T43	profession 3206 3216	sage-femme
+T44	profession 3425 3435	sage-femme
+T45	disorder 3450 3467	saignement utérin
+T46	procedure 3562 3571	perfusion
+T47	drugs 3575 3583	Plasmion
+T48	disorder 3616 3630	perte sanguine
+T49	profession 3677 3696	gynéco-obstétricien
+T50	profession 3844 3856	anesthésiste
+T51	procedure 3862 3873	réanimation
+T52	disorder 3967 3986	hémorragie génitale
+T53	procedure 3990 3997	perfuse
+T54	drugs 4018 4026	Plasmion
+T55	profession 4040 4052	anesthésiste
+T56	procedure 4102 4104	PA
+T57	labvalue 4122 4129	55 mmHg
+T58	procedure 4148 4167	fréquence cardiaque
+T59	labvalue 4180 4187	135/min
+T60	procedure 4240 4253	voie veineuse
+T61	procedure 4281 4290	perfusion
+T62	drugs 4294 4302	Plasmion
+T63	procedure 4308 4310	PA
+T64	labvalue 4321 4323	70
+T65	labvalue 4329 4336	90 mmHg
+T66	profession 4394 4413	gynéco-obstétricien
+T67	profession 4428 4438	sage-femme
+T68	disorder 4487 4497	saignement
+T69	procedure 4564 4580	révision utérine
+T70	disorder 4653 4697	plaie étendue du col de l’utérus et du vagin
+T71	disorder 4724 4734	saignement
+T72	procedure 4743 4774	suture de la plaie obstétricale
+T73	disorder 4828 4839	saignements
+T74	disorder 4941 4951	hémorragie
+T75	procedure 4967 4984	voie de perfusion
+T76	profession 5009 5021	anesthésiste
+T77	procedure 5026 5028	PA
+T78	labvalue 5048 5050	70
+T79	labvalue 5054 5061	90 mmHg
+T80	profession 5088 5100	anesthésiste
+T81	procedure 5204 5221	xamens préalables
+T82	procedure 5296 5310	groupe sanguin
+T83	procedure 5326 5338	agglutinines
+T84	profession 5362 5381	gynéco-obstétricien
+T85	profession 5462 5481	gynéco-obstétricien
+T86	procedure 5567 5589	hémostase chirurgicale
+T87	disorder 5660 5680	saignements génitaux
+T88	disorder 5787 5808	effondrement de la PA
+T89	disorder 5812 5831	perte de conscience
+T90	profession 5844 5856	anesthésiste
+T91	procedure 5861 5868	intuber
+T92	procedure 5877 5902	ventiler artificiellement
+T93	disorder 6006 6021	arrêt cardiaque
+T94	procedure 6044 6069	massage cardiaque externe
+T95	procedure 6073 6082	perfusion
+T96	drugs 6085 6095	adrénaline
+T97	procedure 6116 6127	hémoglobine
+T98	labvalue 6140 6149	2g/100 ml
+T99	procedure 6202 6213	réanimation
+T100	procedure 6303 6321	culots globulaires
+T101	procedure 6383 6401	culots globulaires
+T102	procedure 6544 6577	embolisation des artères utérines
+T103	disorder 6620 6635	arrêt cardiaque
+T104	procedure 6651 6676	massage cardiaque externe
+T105	procedure 6703 6712	perfusion
+T106	drugs 6715 6725	adrénaline
+T107	disorder 6776 6805	mydriase bilatérale aréactive
+T108	procedure 6819 6852	embolisation des artères utérines
+T109	procedure 6856 6870	hypogastriques
+T110	disorder 6932 6949	saignement utérin
+T111	procedure 7064 7102	ballon occlusif est monté dans l’aorte
+T112	procedure 7227 7260	ablation chirurgicale de l’utérus
+T113	disorder 7294 7321	nécrose ischémique du grêle
+T114	disorder 7397 7424	défaillance multi-viscérale
+T115	profession 7445 7455	sage-femme
+T116	profession 7461 7481	gynéco-obstétriciens
+T117	profession 7488 7500	anesthésiste

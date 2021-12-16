@@ -1,0 +1,31 @@
+T1	disorder 139 160	fièvre avec céphalées
+T2	disorder 162 180	gêne respiratoire 
+T3	disorder 182 219	 douleur thoracique de la base droite
+T4	disorder 460 473	 état grippal
+T5	drugs 555 564	Rhinadvil
+T6	drugs 567 576	Doliprane
+T7	drugs 581 589	Motilium
+T8	labvalue 751 779	température atteignait 40°C,
+T9	disorder 844 868	expectoration mousseuse 
+T10	procedure 1136 1180	poursuivre le traitement à la dose maximale 
+T11	disorder 1622 1675	 Douleur thoracique droite augmentant à l’inspiration
+T12	disorder 1676 1684	 dyspnée
+T13	labvalue 1690 1707	polypnée à 38/min
+T14	disorder 1741 1770	murmure vésiculaire non perçu
+T15	disorder 1821 1831	crépitants
+T16	procedure 1872 1884	radiographie
+T17	labvalue 1911 1948	pneumopathie du lobe supérieur droit 
+T18	labvalue 1961 1988	 épanchement pleural modéré
+T19	labvalue 2005 2020	SaO2) est à 91%
+T20	labvalue 2108 2127	fibrinogène à 12g/l
+T21	labvalue 2129 2142	CRP à 410mg/l
+T22	labvalue 2172 2193	créatinémie à 228mg/l
+T23	drugs 2234 2243	 dopamine
+T24	labvalue 2259 2283	 PA inférieure à 100mmHg
+T25	procedure 2287 2326	 patient est hospitalisé en réanimation
+T26	drugs 2367 2379	amoxicilline
+T27	drugs 2383 2390	Oflocet
+T28	labvalue 2451 2463	pneumocoque 
+T29	procedure 2514 2535	aspiration bronchique
+T30	disorder 2936 2954	escarre occipitale
+T31	procedure 3379 3407	 traitement kinésithérapique

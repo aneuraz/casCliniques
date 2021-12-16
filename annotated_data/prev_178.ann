@@ -1,0 +1,140 @@
+T1	profession 118 128	chirurgien
+T2	disorder 136 160	 hallux valgus bilatéral
+T3	disorder 169 235	malformation congénitale des articulations métatarso-phalangiennes
+T4	risk 315 324	tabagisme
+T5	procedure 374 377	IMC
+T6	labvalue 380 384	20,6
+T7	profession 427 438	gynécologue
+T8	drugs 481 490	Climaston
+T9	drugs 493 530	traitement hormonal œstro-progestatif
+T10	procedure 707 719	écho-doppler
+T11	disorder 725 733	phlébite
+T12	disorder 737 760	membre supérieur gauche
+T13	risk 783 799	piqûre d'insecte
+T14	profession 857 876	médecin cardiologue
+T15	profession 888 899	gynécologue
+T16	drugs 919 938	traitement hormonal
+T17	drugs 1014 1023	Climaston
+T18	profession 1053 1069	médecin traitant
+T19	profession 1115 1126	généraliste
+T20	disorder 1133 1141	phlébite
+T21	disorder 1145 1161	membre supérieur
+T22	procedure 1219 1225	examen
+T23	profession 1230 1240	chirurgien
+T24	procedure 1413 1427	l'intervention
+T25	profession 1524 1534	chirurgien
+T26	profession 1684 1700	médecin traitant
+T27	disorder 1728 1735	anxiété
+T28	procedure 1743 1757	l'intervention
+T29	procedure 1758 1770	chirurgicale
+T30	procedure 1783 1785	PA
+T31	labvalue 1803 1813	70/90 mmHg
+T32	labvalue 1857 1869	140/80 mmHg 
+T33	profession 1908 1915	médecin
+T34	drugs 1929 1955	spécialités homéopathiques
+T35	drugs 1968 1980	anxiolytique
+T36	drugs 1988 1998	Sympavagol
+T37	disorder 2047 2061	état d'anxiété
+T38	procedure 2262 2276	amygdalectomie
+T39	procedure 2286 2301	appendicectomie
+T40	drugs 2334 2343	Climaston
+T41	disorder 2392 2400	phlébite
+T42	disorder 2404 2420	membre supérieur
+T43	procedure 2453 2468	examen clinique
+T44	labvalue 2473 2479	normal
+T45	procedure 2489 2491	PA
+T46	labvalue 2494 2505	140/80 mmHg
+T47	procedure 2528 2533	l'ECG
+T48	procedure 2540 2556	bilan biologique
+T49	procedure 2568 2579	l'hémostase
+T50	procedure 2646 2666	anesthésies générale
+T51	procedure 2670 2680	péridurale
+T52	profession 2703 2719	médecin traitant
+T53	disorder 2836 2843	anxiété
+T54	disorder 2868 2883	état migraineux
+T55	procedure 2912 2918	examen
+T56	procedure 2923 2925	PA
+T57	labvalue 2934 2945	170/90 mmHg
+T58	labvalue 2963 2974	150/90 mmHg
+T59	drugs 3013 3020	Lexomil
+T60	drugs 3152 3161	Climaston
+T61	procedure 3201 3219	tension artérielle
+T62	labvalue 3220 3227	180/100
+T63	profession 3248 3264	médecin traitant
+T64	disorder 3273 3275	TA
+T65	profession 3374 3390	médecin traitant
+T66	procedure 3427 3429	PA
+T67	profession 3505 3515	chirurgien
+T68	disorder 3672 3680	Stressée
+T69	disorder 3685 3694	céphalées
+T70	disorder 3698 3710	hypertension
+T71	disorder 3935 3948	mal à la tête
+T72	disorder 3952 3956	vomi
+T73	procedure 3958 3960	PA
+T74	labvalue 3961 3972	180/95 mmHg
+T75	profession 3984 3996	anesthésiste
+T76	procedure 4007 4010	ECG
+T77	profession 4027 4038	cardiologue
+T78	labvalue 4040 4046	normal
+T79	profession 4089 4103	L'anesthésiste
+T80	procedure 4470 4484	l'intervention
+T81	procedure 4343 4357	l'intervention
+T82	procedure 4500 4514	l'intervention
+T83	procedure 4719 4721	PA
+T84	labvalue 4740 4747	110/70 
+T85	labvalue 4750 4761	130/90 mmHg
+T86	procedure 4766 4785	fréquence cardiaque
+T87	labvalue 4792 4794	65
+T88	labvalue 4798 4805	70/ min
+T89	procedure 4812 4816	SaO2
+T90	labvalue 4823 4825	99
+T91	labvalue 4829 4834	100 %
+T92	procedure 4941 4943	PA
+T93	labvalue 4946 4957	110/70 mmHg
+T94	procedure 4982 4984	PA
+T95	labvalue 5019 5030	110/60 mmHg
+T96	disorder 5052 5062	dysarthrie
+T97	disorder 5064 5076	vomissements
+T98	disorder 5078 5090	inconsciente
+T99	disorder 5092 5136	ne bouge plus ni le bras, ni la jambe gauche
+T100	profession 5139 5153	L'anesthésiste
+T101	procedure 5241 5257	scanner cérébral
+T102	disorder 5375 5392	hémiplégie gauche
+T103	disorder 5408 5416	phlébite
+T104	disorder 5420 5443	membre supérieur gauche
+T105	disorder 5462 5472	somnolente
+T106	disorder 5503 5521	Hémiparésie gauche
+T107	disorder 5540 5581	Diminution du champ visuel vers la gauche
+T108	procedure 5650 5678	tomodensitométrique cérébral
+T109	labvalue 5681 5687	normal
+T110	procedure 5689 5722	Echo-doppler des vaisseaux du cou
+T111	labvalue 5723 5729	normal
+T112	procedure 5731 5734	ECG
+T113	labvalue 5736 5742	normal
+T114	procedure 5744 5754	Holter ECG
+T115	procedure 5817 5833	Bilan biologique
+T116	labvalue 5836 5842	normal
+T117	procedure 5868 5879	thrombolyse
+T118	procedure 5905 5915	péridurale
+T119	procedure 6015 6020	L'IRM
+T120	disorder 6058 6061	AVC
+T121	disorder 6062 6069	Sylvien
+T122	disorder 6070 6075	droit
+T123	disorder 6090 6113	carotide droite occluse
+T124	disorder 6142 6166	troubles de la vigilance
+T125	procedure 6171 6187	scanner cérébral
+T126	disorder 6216 6253	hypodensité pariéto-occipitale droite
+T127	disorder 6259 6273	œdème cérébral
+T128	disorder 6286 6291	masse
+T129	disorder 6324 6348	remaniement hémorragique
+T130	disorder 6293 6318	engagement sous-falcoriel
+T131	disorder 6387 6412	troubles de la conscience
+T132	procedure 6414 6421	Glasgow
+T133	labvalue 6424 6425	8
+T134	labvalue 6432 6434	 5
+T135	profession 6490 6506	neurochirurgical
+T136	procedure 6617 6622	l'EEG
+T137	disorder 6589 6603	mort cérébrale
+T138	profession 6662 6678	médecin traitant
+T139	profession 6683 6693	chirurgien
+T140	profession 6699 6712	anesthésistes

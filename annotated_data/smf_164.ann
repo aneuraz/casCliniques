@@ -1,0 +1,79 @@
+T1	irrelevant 0 8;10 495;497 516;517 525	Contexte  Le syndrome de l’homme raide (SHR) est caractérisé par une augmentation généralisée du tonus musculaire à prédominance axiale et proximale. Sa prévalence est estimée à un à deux cas par million d’habitants [1, 2]. Dans environ 2–5% des cas, cette condition survient en tant que syndrome paranéoplasique, représentant ainsi un indice en vue d’une maladie tumorale sous-jacente. Dans les cas sévères, le SHR conduit à une forte limitation de la mobilité et de l’autonomie du patient [1].  Présentation du cas Anamnèse
+T2	procedure 558 569	hospitalisé
+T3	disorder 604 626	 immobilité croissante
+T4	disorder 647 655	douleurs
+T5	disorder 672 749	rigidité musculaire dans les deux jambes et dans la région des muscles du dos
+T6	disorder 768 791	 perdu cinq kilogrammes
+T7	disorder 852 878	 températures subfébriles 
+T8	disorder 924 931	 fièvre
+T9	disorder 938 954	sueurs nocturnes
+T10	procedure 958 966	anamnèse
+T11	disorder 990 1031	pneumopathie chronique obstructive sévère
+T12	disorder 1082 1115	carcinome urothélial de la vessie
+T13	disorder 1148 1159	 carcinome 
+T14	drugs 1226 1250	Bacillus Calmette-Guérin
+T15	drugs 1252 1256	BCG)
+T16	procedure 1261 1292	 contrôles de suivi urologiques
+T17	disorder 1312 1321	anomalies
+T18	risk 1338 1355	abus de nicotine 
+T19	disorder 1480 1501	état général amoindri
+T20	disorder 1515 1554	état de compensation cardio-pulmonaire 
+T21	disorder 1557 1565	afébrile
+T22	procedure 1569 1585	examen clinique 
+T23	labvalue 1598 1611	augmentation 
+T24	procedure 1622 1659	tonus musculaire dans les deux jambes
+T25	disorder 1673 1725	endurcissement musculaire au niveau des deux cuisses
+T26	disorder 1924 1947	tonus musculaire ­accru
+T27	procedure 1953 1976	analyses de laboratoire
+T28	disorder 1992 2024	­anémie normocytaire normochrome
+T29	disorder 2038 2065	hyponatrémie hypo-osmolaire
+T30	disorder 2096 2156	 syndrome de sécrétion inappropriée d’hormone antidiurétique
+T31	disorder 2158 2163	SIADH
+T32	procedure 2170 2228	anticorps (AC) dirigés contre le système nerveux central (
+T33	procedure 2433 2469	analyse du liquide céphalo-rachidien
+T34	procedure 2486 2506	 nombre de cellules 
+T35	labvalue 2523 2528	accru
+T36	procedure 2535 2566	indices de bandes oligoclonales
+T37	procedure 2610 2653	examen d’imagerie par résonance magnétique 
+T38	procedure 2654 2658	IRM)
+T39	disorder 2744 2756	myélopathie 
+T40	disorder 2761 2781	 processus rachidien
+T41	procedure 2785 2803	 tomodensitométrie
+T42	procedure 2805 2808	TDM
+T43	disorder 2832 2884	 foyer arrondi spiculé dans le lobe supérieure droit
+T44	procedure 2921 2965	 tomographie par émission de positons au FDG
+T45	disorder 2995 3025	 fracture bilatérale du pubis 
+T46	disorder 3030 3085	fracture périprothétique de l’acetabulum du côté gauche
+T47	disorder 3113 3124	traumatisme
+T48	procedure 3138 3146	anamnèse
+T49	procedure 3150 3167	électromyographie
+T50	procedure 3169 3172	EMG
+T51	disorder 3187 3283	activité prolongée non répressible des unités motrices normales au sein du muscle vaste latéral 
+T52	irrelevant 3307 3593;3595 3605	Figure 1: Représentation d’un foyer arrondi spiculé dans le lobe supérieur droit. (A ) TDM avec produit de contraste, cliché axial: foyer arrondi spiculé (flèche blanche) d’environ 17 × 11 mm de diamètre. (B ) TEP au 18-F-FDG, cliché axial: foyer métaboliquement actif (flèche blanche).  Diagnostic
+T53	disorder 3624 3665	syndrome de l’homme raide paranéoplasique
+T54	disorder 3741 3792	 carcinome bronchique dans le lobe supérieure droit
+T55	drugs 3838 3849	clonazépam 
+T56	drugs 3851 3862	 baclofène 
+T57	disorder 3897 3962	diminution considérable du tonus musculaire dans les deux jambes 
+T58	disorder 4014 4052	fonction pulmonaire fortement limitée 
+T59	procedure 4103 4153	résection chirurgicale du foyer arrondi pulmonaire
+T60	procedure 4158 4183	rayonnement stéréotaxique
+T61	procedure 4266 4290	 procédure conservatrice
+T62	disorder 4327 4338	 fractures 
+T63	disorder 4384 4409	syndrome paranéoplasique 
+T64	disorder 4442 4468	syndrome de l’homme raide 
+T65	disorder 4502 4519	maladie tumorale 
+T66	disorder 4666 4686	carcinome bronchique
+T67	disorder 4706 4741	tonus musculaire massivement accru 
+T68	disorder 4769 4780	immobilité 
+T69	disorder 4807 4857	 fractures dans la région de la ceinture pelvienne
+T70	irrelevant 4860 4886;4888 5688;5690 5780	Syndromes paranéoplasiques  Les syndromes paranéoplasiques sont des complexes de symptômes survenant dans le contexte d’une tumeur. Toutefois, ils ne sont pas directement induits par un effet direct de la tumeur ou de ses métastases [4]. Le mécanisme supposé repose sur la libération de messagers par soit la tumeur primaire soit ses métastases pouvant exercer une influence systémique au sein de notre organisme [4, 5]. Dans ce contexte, les symptômes surviennent souvent déjà avant le diagnostic de tumeur [3–9]. Ces types de syndromes sont observés chez environ 16% des patients atteints de carcinome bronchique [6]. Les syndromes paranéoplasiques recouvrent un grand nombre de complexes de symptômes parmi lesquels figurent notamment les troubles locomoteurs d’origine paranéoplasiques, tels que le SHR (fig. 2 A) [3, 6, 7].  Figure 2: Représentation schématique du pathomécanisme du syndrome de l’homme raide (SHR).
+T71	irrelevant 5782 6184;6186 7110;7112 7145	(A ) Des néoplasies (en violet) peuvent exercer une influence systémique sur l’organisme via la libération de messagers, au sens d’un syndrome néoplasique, comme dans le cadre du SHR. De potentiels facteurs influents dans ce cadre sont par exemple une production ectopique d’hormones ou de substances actives sur le plan hormonal, de cytokines, de facteurs de croissance ou d’inhibiteurs [3, 4, 6, 22].  (B ) Les voies de signalisation via l’acideγ-aminobutyriquesont essentielles à l’inhibition des cellules nerveuses [23]. Dans l’axone, le glutamate (en jaune) est décarboxylé en acideγ-aminobutyrique (GABA, en bleu) par le bais de la glutamate décarboxylase, puis il est libéré dans la fente synaptique après transport dans les vésicules synaptiques. L’amphiphysine (rouge) est responsable de l’endocytose des vésicules synaptiques. Le GABA se lie aux récepteurs GABAA des dendrites, ce qui entraîne un flux de chlorure et, de façon correspondante, une inhibition neuronale. La géphyrine (en violet) et la protéine associée au récepteur de l’acide gamma-aminobutyrique (GABARAP) («GABAA-receptor associated protein», en rose) sont essentielles à la stabilité et l’interaction du récepteur GABAA. En cas de SHR, des anticorps dirigés contre les protéines de cette voie de signalisation peuvent souvent être identifiés [1, 2].  Caractéristiques cliniques du SHR
+T72	irrelevant 7147 8986	Le syndrome de l’homme raide (SHR) a été décrit pour la première fois en 1956 par Moersch et Woltmann [10] et peut être classé selon trois sous-groupes: le SHR classique, le SHR partiel, et le SHR paranéoplasique [1, 2, 11]. Le SHR se caractérise par un tonus musculaire accru et une rigidité du tronc et des membres proximaux ainsi que des spasmes musculaires douloureux [1, 11]. Le dosage de certains anticorps (AC) dans le sérum et le liquide céphalo-rachidien peut corroborer le diagnostic de suspicion clinique. La mesure des AC anti-glutamate décarboxylase (AC anti-GAD) est la mieux documentée [12–15]. Les AC anti-GAD sont détectés chez 60–80% des patients qui présentent un SHR classique. Toutefois, ils sont rarement détectables en cas de SHR d’origine paranéoplasique [1, 3, 12–16]. Parmi les autres AC documentés dans le cadre du SHR figurent les AC anti-amphiphysine, surtout mesurés en cas de SHR paranéoplasique [1, 3, 17, 18]. Des bandes oligoclonales, une synthèse locale d’IgG ainsi qu’une production intrathécale d’AC peuvent en outre survenir dans le liquide céphalo-rachidien [1, 2]. Une autre caractéristique du SHR est une activité aléatoire accrue à l’EMG. L’électrostimulation permet souvent de documenter des spasmes généralisés avec une courte latence ainsi que des spasmes réflexe de type myoclonique se modifiant en activité EMG tonique désynchronisée [1, 2, 13]. Généralement, on observe une bonne réponse des symptômes aux benzodiazépines [2]. Sur le plan du diagnostic différentiel, il convient de distinguer le SHR des contractures musculaires induites par la douleur, des syndromes avec hyperexcitabilité centrale ou périphérique (par exemple tétanos, neuromyotonie), des processus intrarachidiens et des spasmes toniques (comme dans le cadre de la sclérose en plaque) ainsi que de la dystonie axiale [1].
+T73	irrelevant 8988 9016;9018 9752;9754 9986;9988 10028;10030 10977;10979 10985	Pathogenèse du SHR classique  Une limitation de la neurotransmission inhibitrice médiée de façon auto-immune serait responsable des symptômes du SHR [19]. Il semblerait qu’un rôle décisif incombe particulièrement au neurotransmetteur acide γ-aminobutyrique (GABA) dans ce cadre [1, 16, 20]. C’est la raison pour laquelle des anticorps anti-GAD, qui jouent un rôle central dans la production de GABA, sont souvent trouvés dans le sang ou le liquide céphalo-rachidien des patients atteints de SHR. D’autres anticorps dirigés contre des protéines centrales de la voie de signalisation GABA, telles que l’amphiphysine, la géphyrine, ou la protéine associée au récepteur de l’acide gamma-aminobutyrique (GABARAP) [1, 16, 21], peuvent également être mesurées (fig. 2 B).  Le rôle décisif des phénomènes auto-immuns est corroboré par la survenue concomitante fréquente d’autres maladies auto-immunes telles que le diabète sucré de type 1 ou des dysfonctions de la thyroïde parallèlement au SHR [1, 2, 16].  Possibilités de traitement en cas de SHR  Les benzodiazépines telles que le diazépam et le clonazépam, qui entraînent un renforcement de la neurotransmission induite par GABA au sein des synapses inhibitrices [24], sont la première option thérapeutique et en cas de bonne réponse, ils corroborent le diagnostic de suspicion clinique [1, 2]. Le baclofène est bien adapté en tant que médicament antispasmodique. Un traitement antalgique orienté en fonction des symptômes ­devrait être conduit parallèlement. Si les symptômes ­devaient persister malgré les mesures entreprises, l’administration d’immunoglobulines intraveineuses, de rituximab ou d’autres médicaments immunosuppresseurs tels que des corticostéroïdes ou l’azathioprine sont des options discutées dans la littérature [1, 2]. Outre les traitements médicamenteux, une physiothérapie s’avère nécessaire. En cas de SHR paranéoplasique, il convient d’initier un traitement ciblé contre la tumeur en fonctions des possibilités [1, 3].  Résumé
+T74	disorder 11022 11041	crampes musculaires
+T75	disorder 11056 11097	syndrome de l’homme raide paranéoplasique
+T76	procedure 11103 11119	tomodensitométri
+T77	disorder 11170 11202	 indices de carcinome bronchique
+T78	procedure 11326 11370	 traitement par rayonnements stéréotaxiques 
+T79	irrelevant 11395 11423;11425 11755;11757 12041;12043 12152	L’essentiel pour la pratique  • En cas de tonus musculaire accru, notamment du tronc et des membres proximaux, et de spasmes musculaires douloureux, il convient de penser à un syndrome de l’homme raide (SHR). S’il n’est pas décelé, ce syndrome peut évoluer progressivement (jusqu’à la formation de fracture) et finalement conduire à une immobilité persistante.  • Les analyses de laboratoire (notamment la mesure de certains anticorps tels que les AC anti-GAD ou les AC anti-amphiphysine) ainsi que les examens électrophysiologiques peuvent corroborer le diagnostic de suspicion clinique. L’absence de ces anticorps n’exclut toutefois pas un SHR.  • En cas de SHR, il convient toujours de penser à un processus néoplasique sous-jacent (SHR paranéoplasique).

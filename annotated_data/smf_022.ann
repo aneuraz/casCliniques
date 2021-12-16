@@ -1,0 +1,38 @@
+T1	disorder 74 85	ostéoporose
+T2	disorder 127 164	polyarthrite rhumatoïde séropositive 
+T3	procedure 197 214	monothérapie par 
+T4	drugs 214 226	méthotrexate
+T5	drugs 271 280	 calcium 
+T6	drugs 289 299	vitamine D
+T7	drugs 338 356	acide alendronique
+T8	disorder 389 456	hémiplégie complète des extrémités supérieure et inférieure gauches
+T9	disorder 501 530	accident vasculaire cérébral 
+T10	procedure 573 595	teneur en sels minérau
+T11	labvalue 601 619	égère augmentation
+T12	procedure 642 660	ostéodensitométrie
+T13	procedure 662 674	fémur gauche
+T14	labvalue 681 687	0,515 
+T15	procedure 690 705	rachis lombaire
+T16	labvalue 706 717	1,032 g/cm2
+T17	labvalue 737 743	0,474 
+T18	labvalue 746 758	0,923 g/cm2 
+T19	procedure 851 864	radiographie 
+T20	procedure 1000 1012	main gauche 
+T21	disorder 1099 1138	étrécissement de la substance corticale
+T22	disorder 1067 1096	troubles micro-architecturaux
+T23	disorder 1030 1061	réduction de la densité osseuse
+T24	disorder 1142 1181	raréfaction de la substance spongieuse 
+T25	procedure 1217 1236	’ostéodensitométrie
+T26	procedure 1345 1351	 L1–L2
+T27	labvalue 1352 1357	0,923
+T28	labvalue 1358 1362	–2,2
+T29	labvalue 1332 1337	0,474
+T30	labvalue 1338 1342	–4,4
+T31	procedure 1313 1330	Fémur gauche tota
+T32	procedure 1380 1399		Fémur gauche total
+T33	labvalue 1400 1405	0,515
+T34	labvalue 1406 1410	–4,0
+T35	labvalue 1426 1430	–2,4
+T36	labvalue 1420 1425	1,032
+T37	procedure 1413 1419	 L1–L2
+T38	procedure 1532 1554	Radiographie des mains

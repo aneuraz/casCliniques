@@ -1,0 +1,110 @@
+Contexte
+
+Les transplantés pulmonaires sont à haut risque de ­développer des infections fongiques invasives pulmonaires. Par conséquent, une prophylaxie antifongique postopératoire systémique est généralement introduite au cours de la première année suivant la transplantation et permet de diminuer considérablement, sans annuler complètement, l’incidence de telles infections [1]. Les principaux facteurs de risque sont l’intensité de l’immunosuppression, la fréquence des procédures invasives au niveau des voies respiratoires, l’exposition à des antibactériens ou la survenue d’infections virales intercurrentes [2–4].
+
+L’aspergillose invasive (AI) qui affecte de manière prédominante les transplantés pulmonaires, est associée à une morbidité (par ex., bronchiolites oblitérantes) et une mortalité accrues [5]. Les difficultés de diagnostic et de traitement en font une maladie complexe. De plus, le maintien d’un traitement antifongique au long cours est généralement nécessaire, ce qui augmente le risque d’effets indésirables médicamenteux.
+
+Les directives actuelles recommandent l’utilisation de voriconazole en première intention chez les patients immunosupprimés [6]. En raison de sa marge thérapeutique étroite, l’amphotéricine B, y compris sa forme liposomale, n’est recommandée que pour le traitement de souches résistantes, ou en cas de rechute sous traitement d’azolés. La caspofungine n’est pas approuvée par Swissmedic dans cette indication, alors que la «Food and Drug Administration» (FDA) la reconnaît comme traitement de deuxième intention.
+
+Nous rapportons le cas d’une patiente transplantée pulmonaire, qui présente une rechute de son AI chronique à l’arrêt du traitement d’entretien. Suite à l’administration accidentelle d’amphotéricine B sous forme désoxycholate au lieu de la forme liposomale, la patiente présente un arrêt cardio-respiratoire prolongé nécessitant un support circulatoire extra-corporel.
+
+Description du cas
+
+Il s’agit d’une patiente de 39 ans, transplantée pulmonaire à l’âge de 27 ans pour une mucoviscidose. Du Pseudomonas aeruginosa multirésistant et de l’Aspergillus (A.) fumigatus colonisent ses voies aériennes inférieures depuis plus de 6 ans. En raison de signes d’AI pulmonaire, elle reçoit séquentiellement entre août 2013 ­et juin 2014 de l’itraconazole, puis du voriconazole. En juin 2014, suite à l’apparition d’effets secondaires sous voriconazole et vu la stabilité des lésions de l’AI sur les 9 derniers mois, le traitement d’entretien par voriconazole est stoppé (fig. 1A).
+
+Figure 1: Evolution des lésions pulmonaires dans le contexte d’aspergillose invasive avant l’interruption du traitement antifongique (A ), lors de l’admission à l’hôpital (B ), lors de l’admission aux soins intensifs (C ), 2 semaines, 3 mois et 7 mois après le ­surdosage en amphotéricine B désoxycholate (D –F ).
+
+Treize jours plus tard, la patiente développe une dyspnée progressive associée à de la fièvre. Un CT-thoracique diagnostique une pneumonie multilobaire (fig. 1B). Le lavage broncho- alvéolaire confirme la présence d’A. ­fumigatus,ce quimotive la reprise du voriconazole. Toutefois, une hypoxémie sévère motive son admission aux soins intensifs dans les heures qui suivent, puis son intubation. L’évolution radiologique (fig. 1C) suggère une progression rapide de l’AI, posant l’indication d’un traitement de sauvetage par amphotéricine B. Les prescriptions dans le Service des soins intensifs sont manuscrites et l’ordre est rédigé comme suit: «amphotéricine B 350 mg iv sur deux heures». La patiente pèse 70 kg.
+
+Nonante minutes après le début de la perfusion d’amphotéricine B, la patiente présente un arrêt cardiaque dans le contexte d’une tachycardie ventriculaire sans pouls, dégénérant rapidement vers la fibrillation ventriculaire puis l’asystolie. Une réanimation cardio-­pulmonaire standard est immédiatement initiée. L’analyse sanguine effectuée au cours des premières minutes de réanimation met en évidence une hyperkaliémie sévère à 13 mmol/l en l’absence de perfusion de potassium ou d’insuffisance rénale aiguë préexistante. La kaliémie était dans la norme deux heures plus tôt (tab. 1). D’importantes quantités de gluconate de calcium et de l’insuline-glucose sont rapidement administrées. Après 50 minutes de réanimation et correction partielle de la kaliémie, la patiente retrouve une circulation spontanée. Une hémofiltration est débutée dans les plus brefs délais.
+
+Tableau 1: Gaz du sang artériel mesurés 2h30 avant l’arrêt cardiaque, puis pendant la réani­mation qui a duré plus de 50 minutes (entre les lignes pointillées) et quelques heures plus tard.
+Temps	pH	pCO2(mmHg)	HCO3-(mM)	K+(mM)	Glucose (mM)	Lactate (mM)
+03:25	7,37	38,5	21,9	4,2	6,4	1,9
+05:55	7,39	18,3	10,7	12,9	19,5	9,1
+06:00	7,18	28,2	10,2	12,0	18,4	13,7
+06:15	6,93	49,5	9,9	9,0	41,0	12,5
+06:30	6,99	70,1	16,0	7,0	32,0	14,4
+06:35	6,92	73,3	14,3	6,5	30,0	13,9
+06:45	6,91	70,8	13,5	4,8	28,0	13,5
+07:00	6,94	66,6	13,7	3,4	22,6	10,8
+07:15	6,99	68,8	15,7	2,9	19,5	10,1
+07:40	6,99	81,9	19,0	3,8	18,9	10,7
+08:00	6,99	80,3	18,4	3,6	16,4	9,8
+
+Malgré le retour à un rythme sinusal, la patiente présente un choc cardiogénique réfractaire associé à une insuffisance rénale et une défaillance hépatocellulaire aiguë. L’échocardiographie diagnostique une dysfonction biventriculaire sévère avec une fraction d’éjection ventriculaire gauche estimée à moins de 10%. La patiente est alors mise au bénéfice d’une assistance circulatoire veino-artérielle avec oxygénation par membrane extra-corporelle (ECMO) pour une durée de 56 heures. La fonction cardiaque s’améliorant rapidement, l’ECMO veino-artérielle est remplacée par une ECMO veino-veineuse vue la persistance d’une insuffisance respiratoire sévère. Cette assistance peut être retirée après 6 jours.
+
+Afin de comprendre la cause de cette hyperkaliémie ­sévère, les perfusions ont été analysées et aucune trace de potassium n’a été retrouvée. La pharmacie de l’hô­pital a pu démontrer que la patiente a reçu par erreur de l’amphotéricine B désoxycholate (Fungizone®) au lieu de l’amphotéricine B liposomale (Ambisome®). La prescription médicale indiquait certes correctement la substance en dénomination commune internationale (DCI), le dosage et la durée de la perfusion, mais ne précisait pas la forme galénique (forme liposomale). Ainsi, le dosage et le débit de perfusion étaient appropriés pour une formulation liposomale, mais ils étaient trop élevés (5 mg/kg au lieu d’une dose quotidienne maximale de 1,5 mg/kg/j) et trop rapides (perfusion sur 2 heures au lieu de 6 heures) pour la formulation ­désoxycholate que la patiente a réellement reçu. Pour tenter de diminuer la toxicité de l’amphotéricine B ­désoxycholate, substance aux propriétés lipophiles, une émulsion lipidique (Lipovenos® 20%) a été débutée 15 heures après l’événement.
+
+Les concentrations sériques de l’amphotéricine B ont été suivies au cours des trois semaines suivantes (fig. 2). Les échantillons sériques ont été analysés par chromatographie liquide à haute performance couplée à la spectrométrie de masse (LC-MS/MS) [7]. La première concentration a été mesurée 9 heures après le surdosage à 1,0 mg/l (valeur de référence du taux résiduel 0,03–1,00 mg/l). Au 3ème et 22ème jour, les concentrations ont été mesurées respectivement à 0,29 mg/l et 0,19 mg/l. Les CT-scan de contrôle effectués à 2 et 14 semaines de l’incident ont mis en évidence une diminution très ­importante de la taille des lésions d’aspergillose pulmonaire (fig. 1D et 1E). Parallèlement, le taux sérique de galactomannane s’est négativé (indice <0,5; fig. 3).
+
+Figure 2: Concentrations sériques d’amphotéricine B (mg/l) en fonction du temps écoulé (jours) après le surdosage ­d’amphotéricine B désoxycholate.
+
+Figure 3: Profil des taux sériques du galactomannane. La ligne rouge horizontale pointillée représente le seuil de positivité. La ligne verticale en pointillé représente le jour du surdosage.
+
+Discussion
+
+L’amphotéricine B désoxycholate, polyène initialement extrait du Streptomyces nodosus, fut introduit en 1955 comme traitement des infections fongiques invasives. En raison de sa marge thérapeutique étroite, il a été remplacé par les nouvelles générations d’azolés et par les échinocandines. Des effets secondaires liés au traitement d’amphotéricine B sont très fréquents (70–90%) [8]: nausées, vomissements, troubles gastro-intestinaux, fièvre, frissons, douleurs au site d’injection, thrombophlébites, bronchospasmes, hypotension artérielle et arythmies cardiaques. L’amphotéricine B sous forme liposomale est mieux tolérée et peut être administrée plus rapidement que l’amphotéricine B désoxycholate. De plus, les schémas posologiques diffèrent de manière significative entre l’amphotéricine B désoxycholate (1–1,5 mg/kg/j) et l’amphotéricine B liposomale (3–6 mg/kg/j).
+
+La toxicité cardiaque de l’amphotéricine B est bien ­documentée et plusieurs cas cliniques rapportent des arythmies fatales suite à un surdosage ou à son administration trop rapide [9] (tab. 2 et 3). La cytotoxicité ainsi que l’induction d’une hyperkaliémie sont les mécanismes les plus incriminés. L’amphotéricine B exerce son activité fongicide en se liant à l’ergostérol de la membrane cytoplasmique des champignons. En cas de surdosage, elle peut également se lier au cholestérol de la membrane des cellules du patient perturbant ainsi le fonctionnement cellulaire. On postule alors que l’hyperkaliémie est la conséquence d’une lyse cellulaire ­induite suite à la liaison de l’amphotéricine B au cholestérol membranaire [10–12].
+
+Tableau 2: Rapports de cas adultes avec surdosage en amphotéricine B.
+Age	Formulation	Dose	Toxicité	Traitement	Issue	Référence
+39 ans	Amphotéricine B
+désoxycholate	5 mg/kg sur 2 h	Hyperkaliémie, arrêt ­cardiaque, insuffisance. rénale terminale	RCP, Intralipid®, ECMO, CRRT	Survie	Cas présenté dans le texte
+41 ans	Amphotéricine B
+désoxycholate	5 mg/kg perfusée 2 fois sur 2 h	Hyperkaliémie, arrêt ­cardiaque, insuffisance rénale aiguë, anémie	RCP, CVVHDF	Décès	[11]
+41 ans	Amphotéricine B
+désoxycholate	2 doses de
+5 mg/kg	Arrêt cardiaque, insuffisance rénale aiguë, CIVD, hépatotoxicité	RCP, CVVHDF	Décès	[10]
+60 ans	Amphotéricine B
+désoxycholate	4,3 mg/kg	Insuffisance rénale aiguë, douleurs abdominales, malaise générale avec ­paramètres vitaux ­normaux	Plasmaphérèse (5×),
+hémodialyse (5×)	Survie	[16]
+36 ans	Amphotéricine B
+liposomale	5 mg/kg sur 2 h	Hyperkaliémie, arrêt ­cardiaque, insuffisance rénale aiguë	RCP	Décès	[17]
+CIVD: coagulation intravasculaire disséminée; RCP: Réanimation cardiopulmonaire; ECMO: extra corporeal membrane oxygenation; CRRT: ­continuous renal replacement therapy; CVVHDF: continuous veno-venous hemodiafiltration
+Tableau 3: Rapports de cas pédiatriques avec surdosage en amphotéricine B.
+Age	Formulation	Dose	Toxicité	Traitement	Issue	Référence
+4 ans	Amphotéricine B
+liposomale	5 mg/kg sur 1 h	Hyperkaliémie,
+arrêt ­cardiaque	PP	Décès	[18]
+2 ans	Amphotéricine B
+désoxycholate	1 mg/kg sur 2 h	Hyperkaliémie	Aucune. Dose successive donnée pendant la dialyse (IRC).	Survie	[18]
+7 ans	Amphotéricine B
+désoxycholate	5 mg/kg sur 3 h	Hyperkaliémie,
+arrêt ­cardiaque	PP	Décès	[15]
+2 ans	Amphotéricine B
+désoxycholate	4,6 mg/kg	Vomissement, crise tonico ­clonique, arrêt cardiaque	PP	Survie	[15]
+4,5 sem (30 sem de gestation)	Amphotéricine B
+désoxycholate	20 mg/kg	Arrêt cardiaque	PP	Décès	[15]
+7 sem (25 sem de gestation)	Amphotéricine B
+désoxycholate	40,8 mg/kg	Bradycardie, arrêt cardiaque	PP	Décès	[15]
+3,5 ans	Amphotéricine B
+désoxycholate	3,8 mg/kg	Arrêt cardiaque	PP	Décès	[15]
+3 mois	Amphotéricine B
+désoxycholate	2 doses de 5 mg/kg	Hyperkaliémie,
+arrêt ­cardiaque	PP	Décès	[12]
+16 ans	Amphotéricine B
+désoxycholate	5 mg/kg	Hyperkaliémie, insuffisance rénale aiguë	PP	Survie	[12]
+32 jours (25 sem de gestation)	Amphotéricine B
+désoxycholate	15 mg/kg en 3 jours	Hyperkaliémie,
+arrêt ­cardiaque	PP	Survie	[19]
+PP: pas précisé
+
+A ce jour, il n’y a pas de traitement bien défini en cas de surdosage en amphotéricine B et la prise en charge ­repose principalement sur le soutien de la défaillance des organes. Compte tenu de ses propriétés pharma­cocinétiques, l’amphotéricine B n’est pas dialysable. L’administration d’une émulsion lipidique a parfois été suggérée, sans que son efficacité ne soit démontrée [13, 14]. A notre connaissance, nous rapportons l’un des rares cas de patient adulte ayant survécu à un surdosage d’amphotéricine B (tab. 2) [15].
+
+L’introduction récente de la prescription médicamenteuse par dénomination commune internationale dans notre unité de soins intensifs a été à l’origine de cette erreur aux conséquences graves. La rareté de l’utilisation de l’amphotéricine B de nos jours a contribué à la confusion, la connaissance des différentes ­formulations disponibles et de la spécificité d’administration intraveineuse de tels traitements ayant été perdue chez la majorité des soignants. Par ailleurs, l’amphotéricine B désoxycholate était disponible dans la pharmacie de notre unité de soins intensifs (pour aérosols, en prophylaxie de receveur de greffe pulmonaire), alors que l’amphotéricine B liposomale ne l’était pas et devait être commandée spécialement à la pharmacie. Finalement, c’est le produit disponible dans l’unité de soins qui a été sélectionné par erreur, par méconnaissance des différences significatives entre les deux formes galéniques. L’introduction du médicament ­administré dans le dossier patient informatisé n’a pas permis de rattraper cette erreur, dans la mesure où seule la dénomination commune internationale suivie du nom de marque étaient visibles dans la liste, sans mention de la forme galénique ou de messages de mise en garde sur les risques de confusion. Il est également à relever que le code ATC de l’OMS utilisé pour classifier les médicaments dans de nombreux systèmes informatiques ne différencie pas les deux formes d’amphotéricine B.
+
+Après analyse approfondie, les modifications suivantes ont été apportées pour la prescription des médicaments: (i) les médicaments administrés moins d’une fois par semaine sont détaillés dans le dossier des patients avec le nom complet en DCI, le nom de marque et les mo­dalités d’administration; (ii) le protocole pour la prophylaxie de l’AI chez les transplantés pulmonaires ne comprend plus que l’amphotéricine B liposomale; (iii) les flacons d’amphotéricine B désoxycholate ne sont désormais plus stockés à la pharmacie. S’ils sont commandés, ils sont délivrés avec l’avertissement suivant: «Pour utilisation en aérosol uniquement, administration IV interdite».
+
+Dans le cas présent, l’AI a été stabilisée par le surdosage d’amphotéricine B désoxycholate. Cependant, les effets indésirables graves qui ont résulté de ce surdosage ont nécessité une prise en charge agressive par des techniques avancées de réanimation. La patiente a finalement survécu sans séquelles neurologiques ou cardiaques, mais garde une insuffisance rénale chronique terminale nécessitant une hémodialyse.
+
+L’essentiel pour la pratique
+
+• La prescription en dénominations communes internationales (DCI) est simple, mais ne dispense pas le prescripteur de préciser la forme galénique lorsqu’il en existe plusieurs.
+
+• Toute prescription médicamenteuse inhabituelle nécessite une bonne communication entre les médecins et les infirmiers, en particulier pour les médicaments à marge thérapeutique étroite.
+
+• La formation sur les médicaments à marge thérapeutique étroite devrait être renforcée chez les médecins et infirmiers.
+
+• De bons outils informatiques d’aide à la prescription devraient permettre à l’avenir d’éviter un certain nombre d’erreurs.

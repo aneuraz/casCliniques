@@ -1,0 +1,72 @@
+Contexte
+
+Les patients présentant des douleurs thoraciques se rencontrent fréquemment au cabinet de médecine de famille ainsi qu’au service d’urgence. Dans de nombreux cas, il s’agit d’une cause musculosquelettique inoffensive, mais il convient néanmoins d’exclure d’autres diagnostics différentiels potentiellement mortels (p. ex. syndrome coronarien aigu, embolie pulmonaire, dissection aortique, pneumothorax sous tension). Dans le cas présent, nous rapportons une manifestation atypique d’une dissection aortique au cabinet de médecine de famille, qui a initialement été interprétée comme un zona au vu de la modification cutanée au niveau du thorax.
+
+Description du cas
+Anamnèse
+
+Un patient âgé de 53 ans s’est présenté au cabinet de médecine de famille avec des douleurs thoraciques brûlantes survenues soudainement environ 6 heures plus tôt. Auparavant, il avait déjà ressenti une certaine fatigue et une baisse de performance physique. Les douleurs ont débuté subitement et étaient accompagnées d’une sensation de pression au milieu de la poitrine. Par la suite, cette sensation de pression a migré vers l’hémithorax gauche, où une rougeur en forme de points ou de taches est apparue. Le patient nie l’application de médicaments topiques. A part une légère hypertension artérielle (traitée par une dose journalière de 5 mg de périndopril), le patient était jusqu’à présent sain. L’anamnèse personnelle a révélé un abus persistant de nicotine (env. 40 paquets-années), mais aucun symptôme thoracique ni pectangineux préalable.
+
+Statut
+
+Le patient s’est présenté dans un état général légèrement diminué. L’auscultation a mis en évidence des battements cardiaques clairs et rythmiques sans bruit pathologique ainsi que des valeurs de pression artérielle normales dans la partie supérieure des deux bras (gauche: 120/63 mm Hg, droit: 116/63 mm Hg). Le pouls ne présentait aucune anomalie. Une macule érythémateuse à disposition segmentaire, nettement délimitée et ne dépassant pas la ligne médiane était visible du côté gauche au niveau du dermatome Th 5/6. Il n’y avait aucun vésicule. Les douleurs thoraciques n’étaient pas reproductibles à la pression.
+
+Résultats
+
+L’ECG de repos a révélé un rythme sinusal normal, aucune modification du segment ST, mais des négativations de l’onde T dans les dérivations III, aVF et V4–V6 (fig. 1). Avec un taux de créatine kinase (CK) de 113 U/l et un taux de troponine I <10 ng/l, les analyses de laboratoire non révélé aucune anomalie.
+
+Figure 1: ECG de repos (encerclé en rouge: négativations non spécifiques de l’onde T).
+
+Evaluation et traitement
+
+En présence de négativations non spécifiques de l’onde T et d’enzymes cardiaques normales, un syndrome coronarien aigu a été classé comme improbable. Au vu de l’état général légèrement diminué et des douleurs thoraciques à gauche accompagnées d’une macule érythémateuse au niveau d’un dermatome, un traitement par valacyclovir (3× 1000 mg/jour pendant 7 jours) ainsi qu’une analgésie à base de paracétamol (3× 1 g/jour) et de métamizole 500 mg (4× 2/jour) ont été initiés en présence d’une suspicion de zona débutant.
+
+Evolution
+
+En raison de la suspicion de zona, un contrôle de suivi a été convenu au bout de 3 jours, au cours duquel le patient a rapporté que la modification cutanée s’était lentement estompée en une journée et n’était plus ­réapparue. Toutefois, il se plaignait désormais d’une sensation de pression récurrente liée à l’effort au niveau du thorax.
+
+La modification cutanée maculeuse n’était plus visible à l’examen corporel. L’auscultation en position debout et assise a révélé un frottement péricardique. Au vu des symptômes, un examen diagnostique approfondi a été réalisé, incluant une nouvelle mesure des enzymes cardiaques, un hémogramme, un autre ECG ainsi qu’une échographie superficielle avec focus cardiovasculaire.
+
+Les analyses biochimiques ont à nouveau révélé des enzymes cardiaques négatives (CK 50 U/l), mais des paramètres d’infection accrus (leucocytes 15,6 G/l, CRP 113 mg/l). L’ECG n’a présenté aucune variation par rapport à l’examen précédent. L’échographie a mis en évidence une aorte abdominale de calibre normal sans plaque visible ainsi qu’un petit épanchement péricardique (fig. 2).
+
+Figure 2: Echographie, coupe sous-xiphoïdienne: flèche blanche = épanchement ­péricardique.
+
+En raison des résultats d’un épanchement péricardique, des paramètres d’infection accrus et de la sensation de pression thoracique liée à l’effort, le patient a finalement été adressé au service des urgences en présence d’une suspicion de péricardique. L’épanchement péricardique y a été confirmé par échocardiographie et, du fait d’un taux en outre accru de D-dimères (901 ng/ml), une tomodensitométrie (TDM) a été réalisée à la recherche d’une embolie pulmonaire, de signes de congestion cardiaque et d’infiltrations pulmonaires. La TDM a finalement révélé une dissection aortique de type Stanford A avec anévrisme de l’aorte ascendante (diamètre maximal 54 mm) et extension dans le tronc artériel brachio-céphalique en présence d’une perfusion correcte des artères coronaires via le vrai chenal. Par ailleurs, un hématome intramural aortique longitudinal était visible.
+
+Une prise en charge chirurgicale d’urgence a été effectuée, faisant appel à un remplacement de la racine aortique par «composite graft» ainsi qu’un remplacement de l’aorte ascendante et de l’hémicrosse. Globalement, l’évolution postopératoire n’a présenté aucune complication. Le patient a bénéficié d’une réadaptation cardiaque ambulatoire ainsi que d’un accompagnement en médecine de premier recours. Mis à part une baisse de performance encore présente ainsi que des douleurs au niveau de la cicatrice de thoracotomie, le patient se sent en bon état près de 3 mois après l’intervention.
+
+Discussion
+
+Dans la classification de Standford, la dissection aortique est classée en une atteinte proximale proche du cœur (type A) et une atteinte distale (type B) de l’aorte. De plus, la distinction est faite entre une forme «aiguë» (<14 jours) et une forme «chronique» (>14 jours) au vu de la durée des symptômes. Le fait de savoir si l’aorte ascendante est concernée est aussi d’une importance cruciale pour le traitement. Généralement, une dissection aortique aiguë de type A est traitée chirurgicalement et une dissection aortique aiguë de type B de manière conservatrice ou au moyen d’un procédé basé sur cathéter.
+
+Les analyses épidémiologiques indiquent une incidence de la dissection aortique aiguë de 2–4/100 000 personnes-années, avec une nette préférence pour le sexe masculin (80–90%). Le syndrome aortique aigu s’exprime par des douleurs thoraciques aiguës à caractère dévastateur dans >80% des cas. La localisation de la douleur thoracique est souvent ventrale pour la dissection de type A et dorsale interscapulaire pour le type B. Des syncopes se retrouvent chez 5–10% des patients atteints de dissection comme signe d’une tamponnade péricardique ou d’une dissection dans les troncs supra-aortiques.
+
+L’hypertension artérielle survient chez >70% des patients. Les hypotensions sont plutôt observées en cas de dissection de type A comme conséquence de l’insuffisance valvulaire aortique, comme signe de la tamponnade péricardique ou encore sous forme de malaise vasovagal dû aux douleurs. Des baisses de pouls surviennent souvent en cas de dissection au niveau de la crosse aortique ou dans l’aorte thoraco-­abdominale.
+
+Etant donné qu’une dissection aortique non détectée est associée à une morbidité et une mortalité élevées, il convient, en présence de signes cliniques suggestifs, d’examiner et de clarifier rapidement le diagnostic suspecté.
+
+Un tableau clinique atypique en cas de dissection aortique de type A est décrit dans la littérature avec une fréquence d’environ 20%. Les patients présentant une dissection aiguë de type A avec atteinte ou mauvaise perfusion des vaisseaux supra-aortiques se présentent souvent sous le tableau d’une syncope et sont d’abord traités sur le plan neurologique. La dissection aortique chronique (>14 jours) est habituellement asymptomatique et souvent détectée fortuitement.
+
+Dans le cas présent, la triade (état général diminué, érythème maculeux d’un dermatome ainsi que douleurs thoraciques à gauche) a initialement fait penser à un zona et relégué à l’arrière-plan une genèse cardiaque en présence de modifications non spécifiques de l’ECG et d’enzymes cardiaques négatives. Il convient néanmoins de noter qu’avec une incidence de 1000/100 000/an, le zona est nettement plus fréquent au cabinet médical par rapport à la dissection aortique dont l’incidence est de 2–4/100 000/an. Actuellement, la patientèle d’un médecin de famille est estimée à environ 1200. En extrapolant, un médecin de famille voit ainsi près de 10–12 patients atteints de zona chaque année, tandis qu’une dissection aortique ne se présente qu’environ tous les 20 ans.
+
+La survenue soudaine des douleurs, certains facteurs de risque (âge et sexe du patient, hypertension artérielle, abus de nicotine) ainsi que les modifications non spécifiques de l’ECG ont fourni des indications en faveur d’une dissection et ne pouvant pas tout à fait être expliquées par un zona. Lors de l’examen radiologique initial au service des urgences, une dissection aortique n’a pas non plus été envisagée en premier lieu, mais une embolie pulmonaire, des signes de congestion cardiaque ou des infiltrations pulmonaires. Le diagnostic de la dissection aortique a donc été plutôt surprenant. Les reconstructions de la TDM d’embolie pulmonaire initialement réalisée (malheureusement, aucune phase artérielle optimale) ont permis de mettre clairement en évidence la sortie des artères intercostales à droite, tandis que les sorties au niveau de TH 4–6 à gauche n’étaient guère représentables en présence d’un hématome intramural visible (fig. 3 et 4).
+
+Figure 3: «Curved planar reconstruction» de la tomodensitométrie pour embolie pulmonaire: sortie des artères intercostales à droite (flèches blanches); hématome intramural aortique (*). La figure a été aimablement mise à disposition par PD Dr méd. Justus Roos, médecin-chef du département de radiologie de l’hôpital cantonal de Lucerne.
+
+Figure 4: «Volume rendering» de la tomodensitométrie pour embolie pulmonaire. Sorties des artères intercostales (flèches): Sorties côtes 2 et 3; aucun vaisseau représentable au niveau des côtes 4–6 (R4–6). La figure a été aimablement mise à disposition par PD Dr méd. Justus Roos, médecin-chef du département de radiologie de l’hôpital cantonal de Lucerne.
+
+Compte tenu de ces connaissances, il serait également possible d’établir la thèse d’une hypoperfusion des artères intervertébrales gauches au niveau des côtes 4–6 due à l’hématome intramural. La réaction cutanée attendue serait toutefois plutôt une pâleur ou éventuellement un livedo, et non pas une macule érythémateuse.
+
+Une macule érythémateuse isolée peut survenir initialement en cas de zona. Cependant, des vésicules viendraient ensuite se former dans un délai de 12–24 heures. Dans le cadre d’un zona, les douleurs pourraient également survenir avant la modification cutanée et une absence de réaction cutanée serait éventuellement envisageable en cas d’initiation rapide du traitement. Lors du contrôle de suivi 3 jours après le début des symptômes, le traitement par valacyclovir a été poursuivi pour une durée totale de 7 jours même si le patient présentait à ce moment un tégument normal. Toutefois, l’anamnèse révélant l’estompage de l’exanthème en une journée s’opposait clairement au diagnostic suspecté d’un zona.
+
+La modification cutanée initiale n’a pas été documentée par photo. Rétrospectivement, l’érythème pourrait éventuellement être interprété comme une modification maculeuse due à un livedo, ce qui étayerait plutôt la thèse de l’hypoperfusion due à la dissection. En définitive, il est néanmoins impossible de déterminer avec certitude ce qui a provoqué la modification cutanée maculeuse.
+
+L’essentiel pour la pratique
+
+• La dissection aortique représente un diagnostic différentiel rare, mais potentiellement mortel en cas de douleurs thoraciques.
+
+• Même au cabinet médical, il convient de toujours avoir à l’esprit la physiopathologie et le tableau clinique des diagnostics différentiels rares tels qu’une dissection aortique et de ne pas se laisser tromper par des symptômes non spécifiques, ni des questions de fréquence.
+
+• Etant donné qu’une dissection aortique non détectée est associée à une morbidité et une mortalité élevées, il convient, en présence de signes cliniques suggestifs, d’examiner rapidement le diagnostic suspecté et d’initier un traitement adéquat.
+
+• La dissection aortique aiguë ne présente pas toujours un tableau clinique typique et doit donc être activement recherchée et exclue, même en cas de faible suspicion.

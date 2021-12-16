@@ -1,0 +1,162 @@
+T1	profession 81 95	chirurgien ORL
+T2	procedure 176 197	indication opératoire
+T3	procedure 290 319	consultation pré anesthésique
+T4	disorder 357 365	allergie
+T5	drugs 370 378	aspirine
+T6	drugs 396 400	AINS
+T7	procedure 405 417	intervention
+T8	procedure 503 525	instruction judiciaire
+T9	profession 530 540	chirurgien
+T10	procedure 574 594	retrait de la glande
+T11	disorder 637 659	saignement intempestif
+T12	procedure 666 685	fait la coagulation
+T13	procedure 698 716	placé les 2 redons
+T14	procedure 726 734	refermer
+T15	disorder 738 743	plaie
+T16	procedure 770 790	pansement compressif
+T17	profession 809 825	panseuse du bloc
+T18	procedure 830 839	pansement
+T19	disorder 915 920	plaie
+T20	procedure 1019 1028	pansement
+T21	procedure 1049 1061	intervention
+T22	procedure 1121 1148	examen anatomo-pathologique
+T23	disorder 1166 1214	goitre multinodulaire avec hyperplasie nodulaire
+T24	disorder 1215 1232	macro-vésiculaire
+T25	disorder 1246 1266	remaniements fibreux
+T26	procedure 1335 1360	consignes postopératoires
+T27	profession 1366 1378	anesthésiste
+T28	procedure 1519 1539	continuité des soins
+T29	procedure 1547 1572	consignes postopératoires
+T30	profession 1576 1586	chirurgien
+T31	profession 1600 1609	infirmier
+T32	disorder 1618 1639	Thyroïdectomie totale
+T33	procedure 1641 1649	2 redons
+T34	procedure 1652 1672	pansement compressif
+T35	procedure 1674 1704	Sortira en fonction des redons
+T36	procedure 1710 1720	prendre RV
+T37	procedure 1726 1743	ablation des fils
+T38	procedure 1770 1781	instruction
+T39	profession 1786 1796	chirurgien
+T40	profession 1878 1887	infirmier
+T41	procedure 1892 1926	protocole détaillé de surveillance
+T42	procedure 1955 1969	thyroïdectomie
+T43	procedure 1974 1983	protocole
+T44	profession 2024 2033	infirmier
+T45	procedure 2054 2067	reste en SSPI
+T46	procedure 2117 2132	hospitalisation
+T47	disorder 2149 2157	anomalie
+T48	procedure 2202 2214	surveillance
+T49	disorder 2283 2296	malaise vagal
+T50	drugs 2319 2327	atropine
+T51	profession 2345 2355	chirurgien
+T52	procedure 2401 2407	redons
+T53	labvalue 2423 2428	donné
+T54	profession 2444 2453	nfirmière
+T55	disorder 2470 2479	angoissée
+T56	disorder 2503 2511	hématome
+T57	disorder 2551 2565	mal à déglutir
+T58	procedure 2640 2647	redon 1
+T59	labvalue 2649 2651	40
+T60	procedure 2654 2661	redon 2
+T61	labvalue 2663 2665	80
+T62	procedure 2702 2725	feuille de surveillance
+T63	procedure 2737 2744	redon 1
+T64	labvalue 2746 2748	50
+T65	procedure 2749 2756	redon 2
+T66	labvalue 2758 2761	160
+T67	disorder 2830 2843	malaise vagal
+T68	procedure 2871 2873	PA
+T69	labvalue 2874 2877	8,5
+T70	procedure 2879 2884	Pouls
+T71	labvalue 2885 2887	83
+T72	procedure 2889 2900	Température
+T73	labvalue 2901 2903	36
+T74	procedure 2905 2920	Pieds surélevés
+T75	disorder 2922 2931	angoissée
+T76	procedure 2933 2949	Pose d'un flacon
+T77	drugs 2953 2962	Restorvol
+T78	drugs 2964 2982	hydroxyéthylamidon
+T79	procedure 2983 3015	soluté de remplissage vasculaire
+T80	procedure 3035 3037	PA
+T81	labvalue 3040 3042	13
+T82	procedure 3142 3152	saturation
+T83	labvalue 3173 3176	100
+T84	profession 3182 3192	infirmière
+T85	procedure 3202 3233	enlever le pansement compressif
+T86	procedure 3288 3299	instruction
+T87	profession 3303 3313	infirmière
+T88	procedure 3338 3357	écarté le pansement
+T89	disorder 3383 3400	gêne respiratoire
+T90	profession 3413 3423	infirmière
+T91	profession 3458 3472	aide-soignante
+T92	profession 3531 3543	anesthésiste
+T93	procedure 3550 3569	endormi la patiente
+T94	disorder 3620 3633	œdème laryngé
+T95	procedure 3635 3655	prescrit l'injection
+T96	drugs 3668 3678	Solumédrol
+T97	disorder 3710 3735	arrêt cardio-respiratoire
+T98	procedure 3741 3765	manœuvres de réanimation
+T99	profession 3816 3839	infirmière anesthésiste
+T100	procedure 3913 3920	intuber
+T101	disorder 3964 3983	cyanose des tissus 
+T102	profession 4044 4056	anesthésiste
+T103	disorder 4098 4113	arrêt cardiaque
+T104	disorder 4123 4142	mydriase bilatérale
+T105	disorder 4162 4176	cou est gonflé
+T106	procedure 4183 4203	pansement circulaire
+T107	procedure 4280 4290	intubation
+T108	profession 4312 4325	anesthésiste 
+T109	procedure 4330 4340	injections
+T110	drugs 4343 4353	adrénaline
+T111	profession 4476 4486	chirurgien
+T112	disorder 4576 4602	suintement de la cicatrice
+T113	disorder 4621 4630	bombement
+T114	disorder 4662 4681	hématome compressif
+T115	disorder 4701 4716	caillot de sang
+T116	profession 4826 4836	chirurgien
+T117	procedure 4854 4866	réintervenir
+T118	procedure 4889 4903	accord du SAMU
+T119	procedure 4917 4927	transférer
+T120	profession 4993 5011	infirmière de nuit
+T121	procedure 5098 5112	thyroïdectomie
+T122	disorder 5199 5218	risque hémorragique
+T123	procedure 5236 5262	 intervention hémorragique
+T124	procedure 5290 5306	protocole rédigé
+T125	disorder 5425 5450	arrêt cardio-respiratoire
+T126	profession 5566 5576	chirurgien
+T127	procedure 5654 5668	malade intubée
+T128	procedure 5670 5678	ventilée
+T129	procedure 5680 5688	sédatée 
+T130	drugs 5693 5701	Propofol
+T131	procedure 5703 5705	PA
+T132	labvalue 5707 5718	109/76 mmHg
+T133	procedure 5719 5721	FC
+T134	labvalue 5723 5729	98 bpm
+T135	procedure 5732 5736	SpO2
+T136	labvalue 5738 5743	100 %
+T137	procedure 5745 5749	FiO2
+T138	labvalue 5752 5756	100%
+T139	labvalue 5771 5776	50 ml
+T140	procedure 5759 5770	redon droit
+T141	procedure 5778 5790	redon gauche
+T142	labvalue 5791 5795	30ml
+T143	procedure 5820 5845	hypothermie thérapeutique
+T144	procedure 5853 5879	mesures de neuroprotection
+T145	procedure 5883 5903	Reprise chirurgicale
+T146	procedure 5907 5940	Ouverture de l'incision cervicale
+T147	disorder 5971 5979	hématome
+T148	disorder 5988 6001	sang cailloté
+T149	disorder 6030 6038	hématome
+T150	procedure 6042 6065	 retiré progressivement
+T151	procedure 6067 6090	Contrôle de l'hémostase
+T152	disorder 6103 6113	saignement
+T153	procedure 6124 6146	examen de l'oropharynx
+T154	disorder 6172 6214	œdème de la paroi oropharyngée postérieure
+T155	procedure 6236 6252	examen clinique 
+T156	procedure 6275 6288	réchauffement
+T157	procedure 6297 6317	arrêt de la sédation
+T158	procedure 6338 6354	signes de réveil
+T159	procedure 6375 6378	EEG
+T160	disorder 6393 6416	état de mal épileptique
+T161	disorder 6422 6441	décharge permanente
+T162	procedure 6492 6495	EEG

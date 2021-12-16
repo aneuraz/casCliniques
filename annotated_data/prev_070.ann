@@ -1,0 +1,15 @@
+T1	procedure 69 104	valvuloplastie mitrale per cutanée 
+T2	disorder 108 152	 rétrécissement mitral en arythmie complète 
+T3	drugs 181 205	traitement anticoagulant
+T4	labvalue 215 244	contrôles réguliers de l’INR.
+T5	disorder 290 308	migration biliaire
+T6	drugs 421 472	LOVENOX 0,4 ml deux fois par jour pendant 15 jours 
+T7	procedure 522 538	cholécystectomie
+T8	drugs 659 674	éparinothérapie
+T9	drugs 762 776	antiarythmique
+T10	drugs 864 875	CALCIPARINE
+T11	procedure 921 934	coelioscopie 
+T12	drugs 1022 1038	’antivitamine K 
+T13	drugs 1270 1289	antalgiques mineurs
+T14	disorder 2239 2275	accident vasculaire cérébral brutal 
+T15	disorder 2437 2461	fibrillation auriculaire

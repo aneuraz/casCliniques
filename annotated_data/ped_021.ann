@@ -1,0 +1,84 @@
+T1	irrelevant 0 536	Histoire clinique Jérôme est le cadet d’une fratrie de deux avec une sœur aînée de 25 ans. Les parents sont bien portants et n’ont pas d’antécédents particuliers. Il est né à terme au poids de 3 250 g pour une taille de 50 cm et a grandi normalement à -1 DS, alors que la taille cible familiale se situe aux alentours de -2 DS (le père mesure 160 cm et la mère 153 cm). Les parents sont presque surpris de cette consultation, espérant seulement que « cela va démarrer », alors que Jérôme exprime plus timidement que… ce n’est pas normal
+T2	procedure 583 594	 caryotype 
+T3	labvalue 610 617	normal 
+T4	labvalue 618 623	46 XY
+T5	disorder 718 735	musculature grêle
+T6	disorder 737 767	une absence totale de pilosité
+T7	disorder 769 801	une petite adiposité tronculaire
+T8	disorder 806 843	un aspect gracile un peu « marfanoïde
+T9	procedure 1163 1189	 L'auscultation cardiaque 
+T10	labvalue 1276 1287	123/78 mmHg
+T11	procedure 1254 1273	pression artérielle
+T12	labvalue 1241 1249	 72/min,
+T13	procedure 1289 1314	L’auscultation pulmonaire
+T14	procedure 1327 1351	a palpation de l’abdomen
+T15	disorder 1366 1386	hépato-splénomégalie
+T16	disorder 1389 1404	 masse palpable
+T17	procedure 1406 1427	L’examen neurologique
+T18	labvalue 1432 1439	normal 
+T19	disorder 1466 1485	trouble fonctionnel
+T20	procedure 1740 1768	exploration endocrinologique
+T21	disorder 1550 1565	verge augmentée
+T22	procedure 1851 1890	test de stimulation de GH par ornithine
+T23	procedure 1913 1949	Test de stimulation GH par ornithine
+T24	procedure 2005 2029	Radiographie de la main 
+T25	irrelevant 2087 2184	Discussion La reconstitution de la courbe de croissance est un temps essentiel et incontournable 
+T26	procedure 2187 2207	l’examen pédiatrique
+T27	irrelevant 2059 2086	Quel est votre diagnostic ?
+T28	irrelevant 2209 2337	permettant de visualiser des chiffres et de donner souvent une première orientation à l’examen clinique devant une petite taille
+T29	disorder 2542 2559	retard pubertaire
+T30	disorder 3467 3482	hypogonadisme, 
+T31	disorder 3493 3526	le taux bas de la testostéronémie
+T32	disorder 3643 3666	ne pathologie chronique
+T33	disorder 3705 3734	insuffisance rénale chronique
+T34	disorder 3736 3775	maladie inflammatoire du tube digestif,
+T35	disorder 3776 3789	malabsorption
+T36	disorder 3790 3803	 malnutrition
+T37	disorder 3805 3821	anémie chronique
+T38	disorder 3823 3834	hémolytique
+T39	disorder 3856 3882	corticothérapie prolongée,
+T40	disorder 3885 3946	un trouble du comportement alimentaire type anorexie mentale,
+T41	disorder 4124 4143	une hypothyroïdie, 
+T42	procedure 4149 4156	e bilan
+T43	labvalue 4161 4167	normal
+T44	disorder 4170 4187	 un déficit en GH
+T45	procedure 4221 4256	test de stimulation à l’ornithine (
+T46	procedure 4304 4334	taux de base bas et pic de GH 
+T47	labvalue 4334 4345	insuffisant
+T48	procedure 4393 4415	le taux correct d’IGF1
+T49	disorder 4500 4579	un hypogonadisme hypergonadotrophique en rapport avec une anomalie testiculaire
+T50	disorder 4601 4621	dysgénésie gonadique
+T51	disorder 4630 4653	syndrome de Klinefelter
+T52	disorder 4675 4699	’altération du testicule
+T53	disorder 4701 4714	cryptorchidie
+T54	procedure 4716 4739	radio ou chimiothérapie
+T55	disorder 4853 4870	syndrome de Turne
+T56	disorder 4927 4961	hypogonadisme hypogonadotrophique,
+T57	procedure 4981 5007	les taux bas de FSH et LH 
+T58	procedure 5053 5069	 un test au LHRH
+T59	procedure 5147 5160	 Test au LHRH
+T60	disorder 5166 5199	hypogonadisme hypogonadotrophique
+T61	disorder 5241 5262	déficit en GnRH ou LH
+T62	disorder 5281 5317	associé à une pathologie syndromique
+T63	disorder 5319 5339	syndrome de Kallmann
+T64	disorder 5340 5356	 de Willi Prader
+T65	disorder 5421 5480	: adénome hypophysaire à prolactine ou tumeur suprasellaire
+T66	disorder 5482 5499	craniopharyngiome
+T67	disorder 5504 5541	 liée à la destruction de l’hypophyse
+T68	disorder 5543 5554	traumatisme
+T69	disorder 5556 5569	radiothérapie
+T70	procedure 5622 5637	 IRM cérébrale 
+T71	disorder 5688 5730	anomalie de l’axe hypothalamo-hypophysaire
+T72	disorder 5734 5755	 tumeur suprasellaire
+T73	disorder 5772 5789	 bulbes olfactifs
+T74	disorder 5792 5805	eur agénésie 
+T75	disorder 5808 5854	hypoplasie caractérise le syndrome de Kallmann
+T76	disorder 6158 6192	visualisation des bulbes olfactifs
+T77	disorder 6207 6228	syndrome de Kallmann.
+T78	disorder 6048 6080	hypersignal de la post-hypophyse
+T79	procedure 6243 6294	test de stimulation de GH par glucagon propranolol 
+T80	drugs 6360 6371	 androgènes
+T81	procedure 6476 6512	Test de stimulation GH par ornithine
+T82	procedure 6631 6676	stimu-lation de GH par glucagon propranolol, 
+T83	disorder 6703 6717	 déficit en GH
+T84	disorder 6953 6967	’hypofertilité

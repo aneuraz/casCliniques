@@ -1,0 +1,20 @@
+Présentation du contexte et de la problématique
+
+Mr M., 82 ans, est hospitalisé dans un service d’orthopédie-traumatologie pour une fracture du col du fémur.
+
+Une intervention est indiquée (pose d’un clou gamma), et programmée le lendemain matin, fin de matinée.
+
+Le médecin anesthésiste passe pour réaliser la consultation pré-opératoire. L’examen du traitement habituel du patient montre la prise régulière de PREVISCAN*.
+L’arrêt de ce médicament est prescrit, ainsi que l’administration de vitamine K. Un contrôle de l’INR est prescrit le lendemain à 6h00 pour confirmer la réalisation de l’intervention chirurgicale.
+
+Le lendemain, le bilan sanguin est réalisé, et le résultat à 7h30 montre un résultat à 1,1. Il est transmis au médecin anesthésiste de garde, qui confirme la faisabilité de l’intervention.
+
+Lors du tour du matin, débuté à 8h30, l’infirmière en charge du secteur où se trouve le malade est avec une étudiante infirmière de 2° année. Elles entrent dans la chambre :
+- l’étudiante infirmière prend les paramètres vitaux de Mr M. pendant que l’infirmière prépare les médicaments prescrits par l’anesthésiste dans le cadre du traitement maintenu pour la prémédication,
+- l’infirmière les dépose dans le pilulier donné la veille (dans la case du soir) sans le préciser à l’étudiante,
+- l’étudiante voit les médicaments dans le pilulier, dans la case soir, et en déduit que ce sont les médicaments non donnés la veille,
+- elle prend un autre pilulier préparé la veille, avec le traitement habituel, pour la période post-opératoire, et donne les médicaments sans vérifier leur concordance avec la prescription pré-opératoire.
+
+A 10h00, le bloc appelle le service, pour demander de prémédiquer Mr M. (anxiolytique). C’est à ce moment que l’infirmière retrouve dans la chambre les deux piluliers, et surtout les médicaments qu’elle avait préparé lors du tour du matin. Elle questionne l’étudiante, et ensemble elles comprennent l’erreur d’administration.
+
+L’incident est signalé au médecin anesthésiste. La décision est prise de reporter l’intervention au lendemain.

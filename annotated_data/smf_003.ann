@@ -1,0 +1,157 @@
+T1	disorder 20 24	toux
+T2	disorder 29 35	fièvre
+T3	procedure 42 67	paramètres inflammatoires
+T4	labvalue 68 74	élevés
+T5	disorder 93 115	pneumonie bactérienne 
+T6	procedure 181 204	traitement antibiotique
+T7	disorder 480 525	détérioration progressive de son état général
+T8	disorder 558 585	dyspnée d’effort croissante
+T9	disorder 591 615	baisse des performances 
+T10	disorder 622 637	perte d’appétit
+T11	disorder 652 662	toux sèche
+T12	disorder 670 722	douleurs thoraciques lancinantes respiro-dépendantes
+T13	disorder 768 828	néoplasie myéloproliférative de type «myélofibrose primaire»
+T14	procedure 887 909	traitée depuis un mois
+T15	disorder 993 1005	thrombocytos
+T16	procedure 1008 1018	plaquettes
+T17	labvalue 1019 1026	730 G/l
+T18	procedure 1109 1130	récente augmentation 
+T19	drugs 914 932	hydroxy­urée (HU) 
+T20	drugs 1143 1169	HU de 500 mg/j à 1000 mg/j
+T21	procedure 1282 1303	gazométrie artérielle
+T22	disorder 1317 1352	insuffisance respiratoire partielle
+T23	disorder 1358 1376	embolie pulmonaire
+T24	procedure 1394 1417	tomodensitométrie (TDM)
+T25	disorder 1453 1522	opacités en verre dépoli tachetées bilatérales à prédominance apicale
+T26	disorder 1527 1555	légers épanchements pleuraux
+T27	disorder 1570 1612	lymphadénopathie médiastinale et bihilaire
+T28	procedure 1634 1662	Tomodensitométrie thoracique
+T29	disorder 1693 1750	opacités en verre dépoli tachetées à prédominance apicale
+T30	disorder 1795 1800	toux 
+T31	procedure 1803 1828	paramètres inflammatoires
+T32	labvalue 1829 1835	élevés
+T33	disorder 1881 1890	pneumonie
+T34	procedure 1908 1923	antibiothérapie
+T35	drugs 1938 1969	amoxicilline/acide clavulanique
+T36	drugs 1973 1988	clarithromycine
+T37	procedure 2041 2067	protéine C réactive (CRP) 
+T38	labvalue 2069 2078	régressé 
+T39	procedure 2211 2243	traitement cytoréducteur par HU 
+T40	drugs 2270 2278	500 mg/j
+T41	disorder 2346 2363	dyspnée d’effort 
+T42	disorder 2387 2395	une toux
+T43	disorder 2404 2411	 fièvre
+T44	disorder 2502 2515	fièvre élevée
+T45	disorder 2525 2550	hémodynamiquement stable 
+T46	procedure 2550 2563	(température 
+T47	labvalue 2563 2571	39,9 °C,
+T48	procedure 2572 2591	pression artérielle
+T49	labvalue 2592 2605	144/78 mm Hg 
+T50	labvalue 2615 2627	153/74 mm Hg
+T51	procedure 2638 2657	fréquence cardiaque
+T52	labvalue 2658 2664	88/min
+T53	procedure 2666 2689	fréquence respiratoire 
+T54	labvalue 2689 2695	20/min
+T55	disorder 2706 2748	 insuffisance respiratoire partielle aiguë
+T56	labvalue 2798 2806	6,89 kPa
+T57	procedure 2808 2867	pression partielle artérielle en dioxyde de carbone [paCO2]
+T58	procedure 2749 2798	(pression partielle artérielle en oxygène [paO2] 
+T59	labvalue 2868 2876	3,63 kPa
+T60	procedure 2878 2918	saturation artérielle en oxygène [SaO2] 
+T61	labvalue 2918 2936	88% en air ambiant
+T62	disorder 2969 2984	discrets râles 
+T63	disorder 3120 3133	splénomégalie
+T64	disorder 3164 3193	néoplasie myéloproliférative 
+T65	procedure 3266 3291	paramètres inflammatoires
+T66	labvalue 3292 3299	élevés 
+T67	procedure 3300 3304	CRP 
+T68	labvalue 3304 3312	152 mg/l
+T69	procedure 3314 3324	leucocytes
+T70	labvalue 3325 3331	25 G/l
+T71	procedure 3333 3345	neutrophiles
+T72	labvalue 3346 3352	22 G/l
+T73	procedure 3357 3398	 radiographie conventionnelle des poumons
+T74	disorder 3411 3464	 plages de diminution de transparence en fines taches
+T75	disorder 3527 3552	opacités en verre dépoli 
+T76	procedure 3574 3591	tomodensitométrie
+T77	disorder 3634 3666	épanchements pleuraux bilatéraux
+T78	disorder 3691 3722	 congestion veineuse pulmonaire
+T79	disorder 3750 3772	manchon péribronchique
+T80	procedure 3794 3818	Radiographie thoracique 
+T81	disorder 3823 3834	infiltrats 
+T82	disorder 3881 3919	etits épanchements pleuraux bilatéraux
+T83	disorder 3925 3948	 insuffisance cardiaque
+T84	disorder 3972 3994	 congestion pulmonaire
+T85	disorder 4002 4024	épanchements pleuraux 
+T86	procedure 4071 4109	peptide natriurétique de type B (BNP) 
+T87	labvalue 4051 4068	valeurs normales 
+T88	procedure 4171 4189	échocardiographie 
+T89	disorder 4116 4167	bonne fonction cardiaque systolique et diastolique 
+T90	procedure 4255 4267	hémocultures
+T91	labvalue 4280 4290	 stériles 
+T92	procedure 4372 4387	 bronchoscopie 
+T93	procedure 4392 4424	lavage broncho-alvéolaire (LBA) 
+T94	labvalue 4479 4500	légèrement augmentées
+T95	labvalue 4507 4546	sans altérations inflammatoires aiguës 
+T96	procedure 4573 4608	Une coloration au bleu de toluidine
+T97	labvalue 4609 4618	négative 
+T98	procedure 4625 4643	immunofluorescence
+T99	labvalue 4644 4652	négative
+T100	procedure 4714 4760	La réaction de polymérisation en chaîne (PCR) 
+T101	labvalue 4847 4861	était négative
+T102	procedure 4865 4869	 LBA
+T103	procedure 4883 4915	numération cellulaire augmentée 
+T104	labvalue 4916 4922	776/μl
+T105	procedure 4930 4951	profil inflammatoire 
+T106	labvalue 4977 5005	 prédominance de lymphocytes
+T107	labvalue 5007 5025	45% de lymphocytes
+T108	labvalue 5027 5046	14% de neutrophiles
+T109	labvalue 5048 5065	5% d’éosinophiles
+T110	labvalue 5067 5085	36% de macrophages
+T111	disorder 5121 5152	pneumopathie d’hypersensibilité
+T112	procedure 5174 5216	Cytologie après lavage broncho-alvéolaire 
+T113	procedure 5217 5250	coloration de May-Grünwald-Giemsa
+T114	procedure 5271 5291	profil inflammatoire
+T115	labvalue 5315 5342	prédominance de lymphocytes
+T116	labvalue 5344 5362	45% de lymphocytes
+T117	labvalue 5365 5383	4% de neutrophiles
+T118	labvalue 5385 5402	5% d’éosinophiles
+T119	labvalue 5406 5424	36% de macrophages
+T120	procedure 5463 5467	LBA 
+T121	disorder 5541 5571	pneumopathie induite par l’HU 
+T122	procedure 5591 5613	imagerie morphologique
+T123	disorder 5658 5680	pneumopathie organisée
+T124	procedure 5787 5838	Le traitement par HU a été immédiatement interrompu
+T125	procedure 5862 5877	corticothérapie
+T126	drugs 5882 5903	40 mg de prednisolone
+T127	procedure 5913 5947	 réduction posologique progressive
+T128	procedure 6015 6025	prévention
+T129	drugs 6071 6101	triméthoprime/sulfaméthoxazole
+T130	procedure 6110 6127	 corticothérapie 
+T131	drugs 6168 6174	≥20 mg
+T132	drugs 6188 6200	prednisolone
+T133	procedure 6260 6289	l’arrêt du traitement par HU 
+T134	procedure 6292 6311	sous traitement par
+T135	drugs 6312 6324	prednisolone
+T136	procedure 6387 6400	valeur de CRP
+T137	labvalue 6413 6422	 régressé
+T138	irrelevant 7255 7265;7267 7941;7943 8442	Discussion  L’HU (également appelée hydroxycarbamide) est un agent chimiothérapeutique, qui inhibe spécifiquement la sous-unité R2 de la ribonucléotide réductase et bloque ainsi la synthèse d’ADN et les mécanismes de réparation de l’ADN. Elle est utilisée pour la cytoréduction dans le cadre de maladies myéloprolifératives, telles que la maladie de Vaquez, la thrombocytémie essentielle et la myélofibrose primaire, ainsi qu’en cas de leucémie myélomonocytaire chronique. Une autre indication est la drépanocytose, dans laquelle l’HU permet d’induire la production de l’hémoglobine fœtale (HbF) et ainsi d’abaisser la concentration d’hémoglobine falciforme (HbS) dans les érythrocytes.  La toxicité de l’HU est dose-dépendante, la myélosuppression étant l’effet indésirable le plus fréquent. Dans la littérature, une fièvre élevée est en outre décrite en tant qu’effet indésirable fréquent et après une longue durée de traitement, différentes toxicités dermatologiques, dont la plus fréquente est l’ulcère malléolaire douloureux, ont été rapportées. Des symptômes gastro-intestinaux, tels que nausées, vomissements et diarrhées, surviennent également chez jusqu’à 4,5% des patients [1].
+T139	irrelevant 11714 12011;12013 12481	• L’évaluation diagnostique fait appel à la tomodensitométrie thoracique, suivie d’une bronchoscopie avec lavage broncho-alvéolaire pour rechercher une cause infectieuse. En cas de doute persistant quant au diagnostic, une biopsie (transbronchique, par ex. sous forme de cryobiopsie) est indiquée.  • La mesure la plus importante, comme pour les pneumopathies d’hypersensibilité de toute autre cause, consiste à interrompre immédiatement l’agent déclenchant (dans le cas présent, l’HU). Concernant l’initiation d’une corticothérapie, il n’existe pas de recommandations spécifiques pour la pneumopathie induite par l’HU. Par analogie avec les autres formes de pneumopathie d’hypersensibilité, une corticothérapie de courte durée est indiquée en cas d’évolution sévère.
+T140	irrelevant 11029 11281;11283 11414;11416 11712	• La pneumopathie induite par l’hydroxyurée (HU) est un diagnostic d’exclusion qui, compte tenu de son évolution potentiellement fatale, doit cependant être envisagé précocement en tant que diagnostic différentiel d’une pneumonie bactérienne ou virale.  • Une pneumopathie induite par l’HU peut survenir après une durée variable de traitement par HU (deux semaines à plusieurs années).  • Les symptômes les plus fréquents sont la toux sèche, la dyspnée et la fièvre, et parfois les douleurs thoraciques. La radiographie révèle le plus souvent des opacités en verre dépoli interstitielles bilatérales, des infiltrats réticulo-nodulaires et fréquemment aussi des épanchements pleuraux.
+T141	irrelevant 9942 10997;10999 11027	En raison de la présentation clinique avec fièvre, toux, dyspnée et infiltrats pulmonaires, une pneumonie bactérienne a dans la plupart des cas été suspectée initialement et une antibiothérapie empirique a été initiée, sans succès. Dans certains cas, l’association d’opacités en verre dépoli, de septa interlobulaires épaissis et d’épanchements pleuraux a initialement fait penser à la possibilité d’une insuffisance cardiaque. Dans les cas rapportés dans la littérature, après l’exclusion de causes infectieuses (le plus souvent par LBA) et de diagnostics différentiels cardiaques et auto-immuns, le diagnostic de suspicion de pneumopathie d’origine médicamenteuse a été posé et le traitement par HU a été interrompu. Dans plus de la moitié des cas, le seul fait d’interrompre le traitement a permis d’obtenir une rémission complète des symptômes. Dans les cas restants plus sévères, une corticothérapie a en outre été initiée, avec le plus souvent une réponse rapide. Deux cas avec une issue fatale ont cependant aussi été rapportés dans la littérature.  L’essentiel pour la pratique
+T142	irrelevant 9031 9940	Dans ces cas rapportés dans la littérature, les patients présentaient des symptômes similaires à ceux de notre patient, à savoir dyspnée, toux sèche et fièvre (n = 13/22) et parfois douleurs thoraciques. La durée préalable du traitement par HU était comprise entre deux semaines et plus de douze ans. La TDM montrait le plus souvent des opacités en verre dépoli bilatérales, parfois des consolidations, avec en plus des épaississements des septa interlobulaires, des réticulations et des nodules la plupart du temps centrolobulaires. Certains patients présentaient des épanchements pleuraux bilatéraux ou des épaississements pleuraux. Dans quelques rares cas, un examen histologique a été réalisé (1 biopsie transbronchique, 3 biopsies pulmonaires chirurgicales, 1 autopsie), avec une mise en évidence d’altérations interstitielles avec fibrose en taches, réaction inflammatoire et formations granulomateuses.
+T143	irrelevant 8444 8750;8752 9029	A la fois dans le Compendium des médicaments et sur le site internet www.pneumotox.com, diverses affections pulmonaires (pneumonie, pneumopathie organisée, fibrose pulmonaire, syndrome de détresse respiratoire aiguë, épanchements pleuraux) sont décrites en tant qu’effets indésirables du traitement par HU.  Toutefois, seuls 22 cas de pneumopathie interstitielle ou de pneumopathie d’hypersensibilité aiguë en tant que complication d’un traitement par HU ont jusqu’à présent été rapportés dans la littérature [2,3], malgré l’utilisation clinique de la substance depuis les années 1960.
+T144	procedure 6496 6525	contrôle pneumologique final,
+T145	procedure 6536 6550	TDM thoracique
+T146	procedure 6554 6592	exploration fonctionnelle respiratoire
+T147	procedure 6783 6786	TDM
+T148	disorder 6801 6818	guérison complète
+T149	disorder 6872 6901	 sans opacités en verre dépol
+T150	disorder 6903 6927	ni épanchements pleuraux
+T151	disorder 6988 7017	pneumopathie induite par l’HU
+T152	disorder 7036 7057	myélofibrose primaire
+T153	procedure 7064 7075	traitée par
+T154	drugs 7076 7087	ruxolitinib
+T155	drugs 7131 7142	ruxolitinib
+T156	procedure 7144 7169	la numération plaquettair
+T157	labvalue 7185 7196	 contrôlée 

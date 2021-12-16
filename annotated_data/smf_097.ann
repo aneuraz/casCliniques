@@ -1,0 +1,237 @@
+T1	disorder 67 95	 extrasystolie ventriculaire
+T2	drugs 121 129	 sotalol
+T3	procedure 132 145	 phytothérapi
+T4	disorder 167 203	épisode de syncope à l’emporte-pièce
+T5	disorder 335 353	douleur thoracique
+T6	procedure 628 669	’examen cardio-pulmonaire et neurologique
+T7	irrelevant 756 859	uestion 1: Quel(s) élément(s) fait/font partie du bilan initial systématique de la syncope aux urgences
+T8	procedure 865 874	 Anamnèse
+T9	procedure 879 906	Anamnèse et examen clinique
+T10	procedure 940 965	électrocardiogramme (ECG)
+T11	procedure 921 936	examen clinique
+T12	procedure 911 919	Anamnèse
+T13	procedure 970 979	Anamnèse,
+T14	procedure 980 995	examen clinique
+T15	procedure 996 1001	 ECG 
+T16	procedure 1004 1031	massage du sinus carotidien
+T17	procedure 1036 1044	Anamnèse
+T18	procedure 1045 1061	 examen clinique
+T19	procedure 1062 1067	 ECG,
+T20	procedure 1068 1095	massage du sinus carotidien
+T21	procedure 1099 1116	échocardiographie
+T22	disorder 1271 1279	 syncope
+T23	procedure 1292 1305	 une anamnèse
+T24	procedure 1398 1416	un examen clinique
+T25	procedure 1417 1473	avec mesure de la pression artérielle couchée et debout 
+T26	procedure 1475 1483	 un ECG.
+T27	procedure 1579 1600	monitoring cardiaque 
+T28	disorder 1610 1630	suspicion d’arythmie
+T29	procedure 1638 1655	échocardiographie
+T30	disorder 1665 1679	 cardiopathie 
+T31	procedure 1703 1719	’examen clinique
+T32	procedure 1725 1729	ECG,
+T33	procedure 1732 1762	un massage du sinus carotidien
+T34	procedure 1803 1820	’examens sanguins
+T35	procedure 1860 1865	l’ECG
+T36	irrelevant 1892 1960	Question 2: Quelle mesure vous semble la plus pertinente à ce stade?
+T37	procedure 2044 2078	Bilan cardiologique en ambulatoire
+T38	procedure 2083 2109	Coronarographie en urgence
+T39	procedure 2114 2132	Avis cardiologique
+T40	procedure 2135 2162	 surveillance hospitalière 
+T41	procedure 2166 2187	 monitoring cardiaque
+T42	procedure 2002 2039	Modification du traitement freinateur
+T43	procedure 1966 1977	Rassurance 
+T44	disorder 2316 2341	syncope à l’emporte-pièce
+T45	procedure 2394 2398	 ECG
+T46	labvalue 2398 2406	 anormal
+T47	labvalue 2479 2488	 170 msec
+T48	procedure 2467 2470	 PR
+T49	procedure 2492 2496	 QRS
+T50	labvalue 2506 2512	100 ms
+T51	procedure 2615 2618	QT 
+T52	labvalue 2620 2628	 380 ms 
+T53	labvalue 2635 2644	 à 460 ms
+T54	procedure 2700 2747	 extrasystoles ventriculaires (ESV) monomorphes
+T55	procedure 2803 2807	e T 
+T56	procedure 2819 2838	Le bilan biologique
+T57	disorder 2855 2878	 trouble électrolytique
+T58	disorder 2881 2904	 syndrome inflammatoire
+T59	procedure 2921 2936	 troponine T hs
+T60	labvalue 2947 2956	174 ng/l 
+T61	labvalue 2956 2971	(norme <14 ng/l
+T62	disorder 3005 3013	 syncope
+T63	procedure 3015 3050	L’échocardiographie transthoracique
+T64	disorder 3069 3096	 cardiopathie sous-jacente.
+T65	procedure 3124 3145	 une coronarographie 
+T66	disorder 3194 3222	 ischémie myocardique aiguë.
+T67	procedure 3234 3238	ECG 
+T68	procedure 3359 3363	ECG 
+T69	procedure 3443 3454	 monitoring
+T70	procedure 3560 3564	 ECG
+T71	procedure 3585 3589	 ECG
+T72	disorder 3623 3632	 syncope.
+T73	disorder 3657 3666	’arythmie
+T74	procedure 3669 3674	t ECG
+T75	disorder 3698 3717	Torsades de pointes
+T76	disorder 3722 3753	Fibrillation ventriculaire (FV)
+T77	disorder 3758 3788	Tachycardie ventriculaire (TV)
+T78	disorder 3793 3852	Fibrillation atriale (FA) avec pré-excitation ventriculaire
+T79	disorder 3857 3876	Syndrome de Brugada
+T80	disorder 3908 3946	 épisodes de torsades de pointes (TdP)
+T81	disorder 3961 4048	TV polymorphe de courte durée avec une rotation en torsade des complexes ventriculaires
+T82	disorder 4049 4057	 Une FV 
+T83	disorder 4143 4171	La TV est d’aspect irrégulie
+T84	labvalue 4195 4205	200–280/mn
+T85	procedure 4215 4219	 QRS
+T86	labvalue 4233 4240	≥0,14 s
+T87	disorder 4258 4265	Une FA 
+T88	disorder 4281 4357	une tachycardie irrégulière à QRS large en présence d’un faisceau accessoire
+T89	disorder 4358 4382	 Un syndrome de Brugada 
+T90	irrelevant 4382 4464	se caractérise par un bloc de branche droit atypique avec sus-décalage persistant 
+T91	irrelevant 4056 4141	 se caractérise par des ondulations anarchiques d’amplitude et de fréquence variables
+T92	procedure 4467 4470	ST 
+T93	disorder 4478 4499	 précordiales droites
+T94	disorder 4532 4566	arythmies ventriculaires malignes.
+T95	disorder 4583 4605	 les épisodes de TdP s
+T96	disorder 4624 4649	les ESV à couplage court 
+T97	disorder 4675 4683	arythmie
+T98	disorder 4720 4733	TdP typiques 
+T99	procedure 4767 4771	 QT 
+T100	procedure 4774 4778	 QTc
+T101	labvalue 4780 4787	normal 
+T102	disorder 4792 4832	L’extrasystole initiatrice de la torsade
+T103	irrelevant 4833 4854	est à couplage court 
+T104	disorder 4880 4900	dégénérescence en FV
+T105	procedure 4984 5021	 une cardioversion électrique externe
+T106	procedure 5059 5078	Une coronarographie
+T107	disorder 5127 5155	arythmie ventriculaire grave
+T108	procedure 5106 5124	bilan systématique
+T109	disorder 5176 5197	atteinte coronarienne
+T110	labvalue 5166 5173	absence
+T111	disorder 5260 5264	TdP 
+T112	disorder 5266 5270	 FV 
+T113	disorder 5287 5306	 tempête rythmique.
+T114	irrelevant 5308 5409	Question 4: Quelle attitude thérapeutique peut s’appliquer à la prise en charge de l’orage rythmique?
+T115	procedure 5415 5457	Anesthésie générale profonde et intubation
+T116	drugs 5462 5472	Amiodarone
+T117	procedure 5476 5502	 Stimulation ventriculaire
+T118	procedure 5507 5546	Procédure d’ablation par radiofréquence
+T119	disorder 5551 5574	Toutes ces propositions
+T120	procedure 5619 5644	 intubation endotrachéale
+T121	procedure 5647 5667	 sédation profonde. 
+T122	drugs 5699 5716	 anti-arythmiques
+T123	drugs 5737 5747	 lidocaïne
+T124	drugs 5764 5776	’amiodarone 
+T125	disorder 5821 5848	’ESV bradycardie-dépendante
+T126	procedure 5849 5900	 un overdrive à l’aide d’un stimulateur provisoire 
+T127	disorder 5959 6020	 tachyarythmies ventriculaires multirécidivantes réfractaires
+T128	drugs 6039 6054	anti-arythmique
+T129	procedure 6128 6151	 électrocardiographique
+T130	disorder 6166 6169	ESV
+T131	anatomy 6213 6240	bandelette modératrice (BM)
+T132	anatomy 6244 6266	ventricule droit (VD).
+T133	disorder 6306 6310	’ESV
+T134	anatomy 6334 6362	le septum interventriculaire
+T135	anatomy 6373 6376	 VD
+T136	anatomy 6383 6406	déviation axiale gauche
+T137	anatomy 6434 6459	 portion inférieure du VD
+T138	anatomy 6485 6488	 V6
+T139	drugs 6527 6529	VD
+T140	drugs 6563 6566	 BM
+T141	anatomy 6564 6566	BM
+T142	anatomy 6527 6529	VD
+T143	procedure 6571 6574	QRS
+T144	labvalue 6587 6593	150 ms
+T145	anatomy 6643 6646	 BM
+T146	irrelevant 11503 11577	Question 1: c. Question 2: e. Question 3: a. Question 4: e. Question 5: e.
+T147	irrelevant 11491 11500	Réponses:
+T148	disorder 11182 11186	’ESV
+T149	disorder 11248 11274	 cardiopathie sous-jacente
+T150	disorder 11323 11332	syncope i
+T151	disorder 11461 11464	TdP
+T152	disorder 11485 11489	 FV.
+T153	procedure 11344 11375	Un couplage ventriculaire court
+T154	disorder 10884 10889	 TdP 
+T155	disorder 10935 10978	désordres génétiques de pénétrance variable
+T156	procedure 11059 11075	 bilan génétique
+T157	disorder 10107 10142	 battements ventriculaires précoces
+T158	disorder 10208 10217	arythmie.
+T159	procedure 10244 10247	QT 
+T160	labvalue 10247 10251	long
+T161	disorder 10232 10241	arythmies
+T162	drugs 10282 10293	β-bloquant 
+T163	procedure 10321 10339	stimulation rapide
+T164	procedure 10341 10357	u défibrillateur
+T165	procedure 10501 10509	ablation
+T166	procedure 10655 10669	thermoablation
+T167	procedure 10793 10807	thermoablation
+T168	disorder 9582 9606	La TdP à couplage court 
+T169	disorder 9627 9650	arythmie ventriculaire 
+T170	procedure 9656 9658	QT
+T171	labvalue 9667 9673	normal
+T172	disorder 9707 9715	arythmie
+T173	disorder 9745 9748	 FV
+T174	irrelevant 9756 9824	 Elle est décrite pour la première fois en 1994 par Leenhardt et al.
+T175	labvalue 9854 9862	<300 ms)
+T176	disorder 9890 9893	TdP
+T177	procedure 9956 9959	 QT
+T178	labvalue 9959 9967	 normal.
+T179	disorder 10060 10064	 TdP
+T180	disorder 10078 10082	 FV.
+T181	disorder 10061 10082	TdP dégénérant en FV.
+T182	disorder 8818 8825	Les TdP
+T183	disorder 8933 8971	cardiopathie structurelle sous-jacente
+T184	disorder 8979 9000	 syndrome du QT long,
+T185	disorder 9054 9110	troubles métaboliques, ­électrolytiques ou médicamenteux
+T186	drugs 9190 9204	 antibiotiques
+T187	drugs 9206 9222	clarithromycine,
+T188	drugs 9223 9238	érythromycine, 
+T189	drugs 9238 9251	moxifloxacine
+T190	drugs 9252 9264	 chloroquine
+T191	drugs 9267 9287	les antipsychotiques
+T192	drugs 9288 9303	(chlorpromazine
+T193	drugs 9305 9316	halopéridol
+T194	drugs 9318 9340	 les anti­arythmiques 
+T195	drugs 9341 9353	amiodarone, 
+T196	drugs 9353 9362	quinidine
+T197	drugs 9364 9371	sotalol
+T198	drugs 9373 9383	ibutilide)
+T199	drugs 9384 9397	 la méthadone
+T200	drugs 9399 9420	t les antiémétiques d
+T201	drugs 9426 9438	 dompéridone
+T202	drugs 9439 9454	 la dropéridol 
+T203	drugs 9459 9470	ondansetron
+T204	drugs 9471 9491	 Le métoclopramide n
+T205	procedure 9544 9547	 QT
+T206	disorder 8702 8729	 Infarctus aigu du myocarde
+T207	disorder 8734 8764	Syndrome du QT long congénital
+T208	disorder 8769 8781	Hypokaliémie
+T209	disorder 8786 8797	Halopéridol
+T210	disorder 8802 8816	Métoclopramide
+T211	irrelevant 8632 8697	Question 5: Quelle condition augmente le moins le risque de TdP ?
+T212	disorder 8414 8421	Les TdP
+T213	disorder 8511 8524	TV polymorphe
+T214	procedure 6699 6733	’exploration électrophysiologique,
+T215	procedure 6774 6811	cartographie électro-anatomique du VD
+T216	procedure 6814 6841	 échographie intracardiaque
+T217	disorder 6879 6883	’ESV
+T218	anatomy 6908 6912	 BM 
+T219	procedure 6933 6948	IRM myocardique
+T220	disorder 7008 7058	la bandelette modératrice localisée à l’apex du VD
+T221	disorder 7083 7088	’ESV 
+T222	procedure 7279 7307	l’échographie intracardiaque
+T223	procedure 7324 7367	’application d’un courant de radiofréquence
+T224	disorder 7413 7420	l’ESV. 
+T225	procedure 7573 7587	 IRM cardiaque
+T226	labvalue 7640 7648	normales
+T227	procedure 7602 7628	 ventricules de dimension 
+T228	disorder 7682 7698	 cardiomyopathie
+T229	disorder 7699 7726	dysplasie arythmogène du VD
+T230	drugs 7828 7839	 vérapamil 
+T231	drugs 7926 7936	e sotalol 
+T232	procedure 7952 8008	. L’implantation d’un défibrillateur automatique interne
+T233	procedure 8115 8133	la thermoablation,
+T234	disorder 8312 8322	arythmie. 
+T235	procedure 8322 8338	Un examen Holter
+T236	procedure 8340 8356	t une ergométrie
+T237	disorder 8396 8400	ESV.

@@ -1,0 +1,59 @@
+T1	drugs 80 91	natalizumab
+T2	drugs 95 106	alemtuzumab
+T3	drugs 110 121	ocrélizumab
+T4	drugs 128 138	daclizumab
+T5	disorder 198 217	sclérose en plaques
+T6	drugs 255 259	AcM 
+T7	disorder 507 532	SEP récurrente-rémittente
+T8	disorder 593 599	fièvre
+T9	disorder 606 614	frissons
+T10	disorder 648 658	exanthème 
+T11	disorder 647 714	 exanthème dans la région du décolleté et de la mâchoire inférieure
+T12	disorder 1034 1040	fièvre
+T13	disorder 1083 1092	exanthème
+T14	labvalue 1365 1392	pression artérielle élevées
+T15	labvalue 1411 1425	175/100 mm Hg 
+T16	labvalue 1374 1446	artérielle élevées pouvant atteindre 175/100 mm Hg et un pouls de 95/min
+T17	procedure 1450 1467	examen cardiaque 
+T18	procedure 1472 1489	examen pulmonaire
+T19	disorder 1546 1609	égère douleur à la pression a été constatée au niveau hépatique
+T20	disorder 1724 1753	exanthème papuleux héliotrope
+T21	disorder 1810 1845	légère thrombopénie et lymphopénie 
+T22	disorder 1817 1829	thrombopénie
+T23	labvalue 1846 1891	valeurs de respectivement 137 G/l et 1,09 G/l
+T24	labvalue 1902 2009	protéine C réactive (CRP) de 41 mg/l avec une procalcitonine de 0,11 ng/ml (valeur de référence <0,5 ng/ml)
+T25	procedure 2166 2204	tomodensitométrie (TDM) crânio-faciale
+T26	procedure 2229 2257	céphalées frontales intenses
+T27	disorder 2282 2290	sinusite
+T28	risk 2487 2507	infection systémique
+T29	drugs 2693 2703	daclizumab
+T30	disorder 2951 2969	exanthème papuleux
+T31	disorder 3102 3109	nausées
+T32	labvalue 3181 3250	élévation des enzymes hépatiques au sens d’une hépatite cholestatique
+T33	labvalue 3261 3336	valeurs de transaminases jusqu’à cinq fois supérieures aux valeurs normales
+T34	drugs 3437 3448	paracétamol
+T35	drugs 3419 3432	antipyrétique
+T36	drugs 3517 3527	ibuprofène
+T37	drugs 3597 3607	métamizole
+T38	disorder 3728 3754	lymphadénopathie cervicale
+T39	disorder 3769 3795	insuffisance rénale aiguë 
+T40	disorder 3796 3802	AKIN 2
+T41	labvalue 3812 3886	débit de filtration glomérulaire estimé (DFGe) minimal de 27 ml/min/1,7 m²
+T42	labvalue 3958 3974	96 ml/min/1,7 m²
+T43	labvalue 3983 4006	albuminurie de 71 mg/l 
+T44	procedure 4104 4126	échographie abdominale
+T45	disorder 4306 4452	néphrite du côté gauche avec nette hypertrophie du rein gauche, perte partielle de la différenciation cortico-­médullaire et cortex hyperéchogène.
+T46	disorder 4292 4305	pyélonéphrite
+T47	procedure 4458 4483	analyses infectiologiques
+T48	procedure 4455 4708	es analyses infectiologiques, incluant le virus de l’immunodéficience humaine (VIH), le virus d’Epstein-Barr (EBV) (sérologie et PCR), le cytomégalovirus (CMV) (sérologie et PCR), l’hépatite A, B, C et E (sérologie et PCR), les adénovirus et la syphilis
+T49	procedure 5065 5088	test des auto-anticorps
+T50	procedure 5090 5365	incluant les anticorps antinucléaires (ANA), les anticorps anti-cytoplasme des neutrophiles (ANCA), les anticorps anti-mitochondries (AMA), le facteur rhumatoïde, les anticorps anti-CCP, les anticorps anti-ADN double brin, les anticorps anti-SSA/SSB et les anticorps anti-Jo1
+T51	procedure 5564 5580	 biopsie cutanée
+T52	labvalue 5621 5780	 infiltrat lymphohistiocytaire périvasculaire essentiellement CD4-positif du derme superficiel et des follicules pileux avec mise en évidence de cellules CD56+
+T53	drugs 5833 5844	daclizumab 
+T54	drugs 6008 6024	 corticothérapie
+T55	disorder 6544 6568	éosinophilie transitoire
+T56	drugs 6683 6698	co-trimoxazole 
+T57	drugs 6774 6785	vitamine D3
+T58	drugs 6786 6793	calcium
+T59	irrelevant 9244 9272;9274 9489;9491 9675;9677 9852	L’essentiel pour la pratique  • Chez les patients sous traitements immunomodulateurs, des effets indésirables immuno-médiés devraient être recherchés régulièrement, notamment des exanthèmes, une hépatite et des limitations de la fonction rénale.  • Des effets indésirables graves peuvent également survenir après une prise unique et après un délai étonnamment long, de sorte qu’une anamnèse médicamenteuse précise s’avère décisive.  • Pour confirmer le diagnostic de toxicité cutanée du daclizumab, il est recommandé de procéder à une biopsie cutanée avec recherche spécifique d’infiltrats de cellules CD56+.

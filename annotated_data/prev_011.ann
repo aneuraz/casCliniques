@@ -1,0 +1,51 @@
+T1	profession 73 96	chirurgien orthopédiste
+T2	disorder 106 121	symptomatologie
+T3	anatomy 138 163	un canal cervical étroit.
+T4	disorder 186 208	 douleurs persistantes
+T5	procedure 321 389	 intervention chirurgicale destinée à lever la compression nerveuse.
+T6	procedure 503 526	 greffe osseuse iliaque
+T7	procedure 445 498	 libération médullaire au niveau de C5-C6 et de C6-C7
+T8	disorder 583 616	la blessure d’une veine épidurale
+T9	procedure 629 650	tamponnement simple. 
+T10	irrelevant 651 801	A 13h, le patient était transféré en SSPI où il demeurait jusqu’à 17h15 sans qu’aucun événement anormal n’ait été noté sur la feuille de surveillance.
+T11	irrelevant 802 827	Au retour dans sa chambre
+T12	irrelevant 829 880	l’opéré était dans un état tout à fait satisfaisant
+T13	irrelevant 880 942	, ce dont témoignait l’infirmière qui l’avait pris en charge, 
+T14	profession 945 955	chirurgien
+T15	irrelevant 956 1114	qui disait être passé le voir vers 18h30 ainsi que sa femme arrivée vers 20h auprès de son mari qui confirmait qu’il allait bien et parlait même au téléphone.
+T16	disorder 1233 1256	ensation d’étouffement 
+T17	disorder 1265 1278	très angoissé
+T18	profession 1310 1335	’anesthésiste réanimateur
+T19	procedure 1377 1389	Réanimation 
+T20	disorder 1544 1570	signes de détresse vitale,
+T21	profession 1585 1597	 chirurgien 
+T22	drugs 1677 1686	Tranxéne®
+T23	profession 1777 1787	chirurgien
+T24	procedure 2004 2029	 SpO2(oxymétrie de pouls)
+T25	procedure 2063 2083	aspiration pharyngée
+T26	procedure 2085 2100	oxygénothérapie
+T27	drugs 2122 2131	Tranxéne®
+T28	anatomy 2289 2294	gorge
+T29	procedure 2368 2376	 La SpO2
+T30	procedure 2403 2409	la PA 
+T31	labvalue 2417 2430	18 / 10 cm Hg
+T32	procedure 2640 2662	aspirations pharyngées
+T33	disorder 2788 2807	angoissé et cyanosé
+T34	procedure 2815 2820	 SpO2
+T35	disorder 3176 3214	un arrêt respiratoire puis cardiaque. 
+T36	procedure 3214 3242	Un massage cardiaque externe
+T37	procedure 3421 3443	ntervention trachéale 
+T38	disorder 3470 3498	volumineux œdème du pharynx 
+T39	disorder 3727 3752	 état végétatif chronique
+T40	irrelevant 4766 4943	Ce matériel est réservé à un usage privé ou d'enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l'objet d'une transaction commerciale.
+T41	irrelevant 4741 4764	Télécharger le jugement
+T42	irrelevant 4731 4739	Jugement
+T43	irrelevant 4669 4729	Télécharger le tableau d'analyse des barrières de prévention
+T44	irrelevant 4632 4667	Analyse des barrières de prévention
+T45	irrelevant 3872 3953	Au cours de l’enquête déclenchée par l’assignation de l’anesthésiste réanimateur,
+T46	irrelevant 3954 4078	du chirurgien et de la clinique, en septembre 2001 par la femme du patient agissant en son nom propre et au nom de son mari,
+T47	irrelevant 4078 4276	 Il était produit une note destinée au personnel soignant et rédigée par la directrice de la clinique faisant état de la position retenue par l’ARE responsable de l’équipe anesthésique de la cliniqu
+T48	irrelevant 4279 4327	– et qui était celui ayant endormi le patient--,
+T49	irrelevant 4328 4406	au nom de ses collègues pour l’appel des médecins lors de la période de garde.
+T50	irrelevant 4406 4416	 Cette not
+T51	irrelevant 4420 4630	iffusée en septembre 1999, indiquait qu’en cas de problèmes post-opératoires ne mettant pas en jeu le pronostic vital, les personnes à prévenir étaient le chirurgien et/ou l’ARE présents lors de l’intervention.

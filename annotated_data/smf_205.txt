@@ -1,0 +1,56 @@
+Présentation du cas
+Anamnèse
+
+Un patient de 74 ans nous a été adressé par son médecin traitant en raison d’une défaillance rénale aiguë. Les antécédents connus étaient une arthrite rhumatoïde traitée par abatacept, méthotrexate et prednisone (5 mg), une hypertension artérielle et une maladie coronarienne.
+
+Le patient souffrait depuis deux semaines de poussées de fièvre intermittentes qui étaient attribuées à une prostatite et traitées par ciprofloxacine. En dernier lieu sont apparues des nausées, des douleurs abdominales et de la diarrhée, de sorte que le patient a passé les derniers jours exclusivement au lit.
+
+Statut
+
+Dès son admission à l’hôpital, un exanthème, caractérisé par de multiples papules ou lésions papulo-vésiculeuses de couleur marron-rouge partiellement érodées et présentant une croûte au centre, a été observé sur son dos (fig. 1).
+
+Figure 1: Etat de la peau à l’admission (dos): multiples papules ou lésions papulo-vésiculeuses partiellement érodées.
+
+Le patient a expliqué que cet exanthème était apparu deux à trois semaines auparavant et qu’il n’avait quasiment pas changé. Il ne ressentait pas de démangeaisons. L’examen détaillé de la peau et des muqueuses s’est révélé normal, hormis les kératoses actiniques connues.
+
+Résultats
+
+Par la suite, une sepsis à Staphylococcus aureus avec coxite septique droite a été diagnostiquée. Suite à une biopsie, la défaillance rénale aiguë nécessitant une dialyse a été attribuée à une glomérulonéphrite para-infectieuse. Compte tenu de l’évolution graduelle, l’exanthème n’a pas fait l’objet de plus d’attention au départ. Cependant, une fois le patient stabilisé, une légère progression des lésions avec élargissement en direction ventrale (pectorale) a été observée (fig. 2). Par ailleurs, le patient étant gêné par les vêtements de nuit ou par des draps tachés de sang, les confrères du service de dermatologie ont été consultés. Au vu du tableau clinique typique, le diagnostic présumé de maladie de Grover a été avancé, avant d’être confirmé par la présence d’une acantholyse focale à la biopsie (fig. 3).
+
+Figure 2: Etat de la peau après environ deux semaines (face ventrale).
+
+Figure 3: Histologie de la biopsie cutanée des lésions (coloration à l’hématoxyline-éosine, grossissement 10× ou 40×): acantholyse caractéristique (formation de fentes intraépidermiques) avec perte du contact cellule-cellule (cf. vue détaillée) et croûte exosérosée sus-jacente.
+
+Traitement et évolution
+
+L’exanthème avait régressé déjà après quelques jours de traitement par stéroïdes topiques (fig. 4). La sepsis à Staphylococcus aureus a été traitée par pénicilline par voie intraveineuse pendant encore quatre semaines après la révision articulaire; la fonction rénale ne s’améliorant malheureusement pas, le patient continue à avoir recours à la dialyse.
+
+Figure 4: Etat de la peau une semaine après le début d’un ­traitement par stéroïdes topiques.
+
+Discussion
+
+Le tableau clinique de la maladie de Grover est connu depuis 1970 et a été décrit initialement à l’aide de six observations de cas. Ralph W. Grover a remarqué sur le tronc de ses patients des papules ou lésions papulo-vésiculeuses qui régressaient spontanément en l’espace de quelques semaines. L’examen histologique a montré des cellules acantholytiques, identiques à celles observées dans la maladie de Darier (dyskératose folliculaire) et la maladie de Hailey-Hailey (pemphigus chronique bénin familial). Une acantholyse désigne une rupture focale des ponts intercellulaires entre les kératinocytes avec la formation consécutive de fentes épidermiques. En raison du processus de guérison spontané et de l’aspect histologique, Grover a qualifié la maladie de «transitoire» ou de «dermatose acantholytique transitoire» [1].
+
+L’étiologie de la maladie de Grover n’a pas encore été élucidée à ce jour. Les facteurs déclencheurs potentiels sont l’exposition au soleil, la sudation excessive, la chaleur et les infections virales ou bactériennes. Cependant, aucun lien définitif n’a pu être établi entre l’un de ces facteurs et l’apparition de la maladie de Grover [2].
+
+La maladie de Grover semble prédominante surtout chez les hommes de race blanche. Son incidence augmente dans la seconde moitié de la vie. De nombreux patients présentent simultanément des maladies malignes non dermatologiques. Il n’existe pas de données certaines sur la fréquence de la maladie de Grover, même s’il est globalement admis qu’elle est d’apparition rare [3]. Ainsi, les modifications histologiques typiques d’une maladie de Grover n’ont pu être mises en évidence que dans 24 biopsies cutanées sur 30 000 [4]. Le service de dermatologie de l’hôpital universitaire de Bâle traite environ cinq à dix patients atteints de la maladie de Grover par an.
+
+Le tableau clinique typique permet souvent d’établir le diagnostic de maladie de Grover. Les lésions couramment observées sont des papules partiellement hyperkératosiques, rougies, disséminées. Les efflorescences sont de préférence situées dans les canaux sudoraux du tronc. Il est à noter que les cas de maladie de Grover décrits dans la littérature scientifique concernent des morphologies de peau différentes [5]. L’histologie mettant en évidence les acantholyses focales caractéristiques permet de confirmer le diagnostic [6].
+
+La maladie de Grover est dans la plupart des cas une pathologie auto-limitante évoluant favorablement. L’indication de traiter résulte des démangeaisons parfois très marquées et de la longue durée jusqu’à la guérison spontanée. Les stéroïdes topiques des classes 3 et 4 ainsi que des mesures de soins constituent les principales options thérapeutiques à cet effet. Les corticostéroïdes systémiques ne sont indiqués que si le traitement topique s’avère décevant [7].
+
+Il n’est généralement pas difficile de faire le diagnostic différentiel avec la maladie de Darier, car celle-ci est récidivante chronique, héréditaire et de transmission autosomique dominante, se présente le plus souvent dès l’adolescence et siège surtout au niveau des grands plis du tronc. En revanche, la bourbouille, due à la rétention de sécrétion des glandes sudoripares en raison de l’occlusion de ces dernières, est souvent plus difficile à différencier. Les papules de la bourbouille sont en règle générale plus rapprochées et présentent moins de croûtes. Le diagnostic différentiel doit toujours inclure la folliculite. Cependant, celle-ci concerne avant tout le follicule.
+
+A l’exception de l’absence de démangeaisons, le tableau clinique de notre patient était typique de la maladie de Grover, surtout par sa survenue après un épisode de fièvre ou suite à l’alitement. L’absence de démangeaisons peut éventuellement être attribuée au traitement immunosuppresseur existant.
+
+Même si la maladie de Grover est en principe auto-limitante, il convient d’établir rapidement un diagnostic afin d’instaurer le traitement local aussitôt que possible et d’éviter une exacerbation.
+
+L’essentiel pour la pratique
+
+• En présence de papules prurigineuses ou de lésions papulo-vésiculeuses sur le tronc, il convient d’envisager la maladie de Grover en terme de diagnostic différentiel, surtout s’il existe d’autres facteurs associés comme le sexe masculin, l’âge avancé, la transpiration excessive, la chaleur ou les infections virales ou bactériennes.
+
+• Le diagnostic clinique présumé est étayé par la mise en évidence d’une acantholyse focale à l’examen histologique.
+
+• Les diagnostics différentiels à éliminer sont la bourbouille, la maladie de Darier ou la folliculite.
+
+• En dépit de son évolution le plus souvent auto-limitante, un traitement par stéroïdes topiques peut s’avérer nécessaire en cas de fortes démangeaisons ou de longue période jusqu’à la guérison spontanée.

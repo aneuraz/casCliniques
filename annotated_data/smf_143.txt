@@ -1,0 +1,106 @@
+Présentation du cas
+
+Un patient de 73 ans, connu pour une tumeur neuro­endocrine bien différenciée (TNE) bronchique mé­tastatique au niveau osseux et hépatique, un état ­anxio-dépressif et un diabète de type 2 non insulino-­requérant, est admis pour un état confusionnel aigu. Le patient présente une désorientation temporelle et tient des propos incohérents, dans un contexte de toux pro­ductive depuis deux jours et de l’aggravation de diarrhées chroniques. Son traitement habituel est composé de prazépam 10 mg le soir, sitagliptine/metformine 50/­500 mg 1×/j et une injection d’octréotide forme retard 30 mg chaque 28 jours (dernière administration il y a plus de six semaines en vue d’un traitement de radio­thérapie métabolique).
+
+Lors de l’examen clinique, le patient présente une ­tachycardie à 113 bpm, une tension artérielle à 125/­82 mm Hg, une saturation de l’oxygène à l’air ambiant de 96%, un état fébrile à 39,4° et un érythème facial. Le status pulmonaire révèle un encombrement bronchique et des râles grossiers sur les deux plages pulmonaires. A l’examen neurologique, le patient est confus, désorienté dans le temps et l’espace, sans déficit sensitivomoteur. La nuque est souple et les tests de Kernig et Brudzinski sont négatifs. Au niveau abdominal, une hépatomégalie sans splénomégalie est mise en évidence.
+
+Les examens biologiques montrent une leucocytose à 16,5 G/l, une thrombocytose à 544 G/l et une CRP à 71 mg/l. La fonction rénale, la natrémie ainsi que la créatinémie sont dans la norme mais une hypokaliémie sévère à 1,8 mmol/l est découverte. L’électrocardiogramme (ECG) révèle une tachycardie régulière sinusale à 100/min, avec un allongement de l’intervalle QT et un QTc selon la formule de Framingham à 500 ms. Le sédiment urinaire est sans anomalie, des hémocultures sont prélevées et une radiographie du thorax met en évidence un in­filtrat interstitiel de la base gauche. La recherche de l’antigène urinaire de Legionella pneumophila est négative.
+
+Devant l’association d’un état fébrile, d’une toux grasse depuis deux jours et d’un infiltrat radiologique, une pneumonie acquise en communauté est retenue comme diagnostic le plus probable et un traitement antibiotique par amoxicilline-acide clavulanique est initié. En raison de l’hypokaliémie sévère avec un allongement du QTc, le patient est admis aux soins intermédiaires pour une surveillance rythmique et une substitution potassique intraveineuse. A 48 heures d’hospitalisation, malgré la correction de la kaliémie et l’initiation d’une antibiothérapie, l’évolution clinique est défavorable avec la persistance des symptômes et une augmentation du syndrome inflammatoire.
+
+Question 1: A ce stade quel examen est le moins pertinent?
+
+
+a) De nouvelles hémocultures
+
+b) Une tomodensitométrie (CT) thoraco-abdominal
+
+c) Un scanner cérébral
+
+d) Une ponction lombaire
+
+e) Un lavage broncho-alvéolaire (LBA)
+
+De nouvelles hémocultures sont prélevées et un CT ­cérébro-thoraco-abdominal est réalisé. Ce dernier montre la lésion tumorale endobronchique lobaire inférieure gauche, un épanchement pleural gauche de 1,4 cm d’épaisseur maximale associé à un infiltrat en verre dépoli du parenchyme pulmonaire adjacent. Au niveau abdominal, on observe de multiples métastases hépatiques intéressant l’ensemble du parenchyme hépatique. Le CT cérébral est normal et une ponction lombaire est effectuée. On observe un liquide céphalo-­rachidien (LCR) limpide sans leucorachie, sans pro­téinorachie ni de germes à l’examen direct. Les analyses virologiques et bactériennes du LCR par «poly­merase chain reaction» (PCR) ainsi que la culture sont également négatives. Des cultures de selles sont pré­levées et reviennent aussi négatives. Un lavage broncho-alvéolaire n’est pas réalisé en raison de l’absence d’anomalie des échanges gazeux et du résultat du ­scanner.
+
+Question 2: A ce stade, quel est la diagnostic le plus probable?
+
+
+a) Une diarrhée bactérienne
+
+b) Une pneumonie bactérienne
+
+c) Une méningite virale ou bactérienne
+
+d) Un syndrome carcinoïde sévère
+
+e) Une fièvre tumorale
+
+Au vu de l’absence d’arguments pour une origine infectieuse après un bilan exhaustif, de la présence d’un important flush cutané, de diarrhées six à huit épisodes par jour et de symptômes pulmonaires, un syndrome carcinoïde (SC, fig. 1) est évoqué. Une fièvre tumorale semble peu probable au vu de la cinétique rapide d’apparition et des symptômes associés.
+
+Figure 1: Le syndrome carcinoïde (©Laurence Zulianello).
+
+Question 3: Quelle hormone est principalement responsable des symptômes du syndrome carcinoïde?
+
+
+a) La sérotonine
+
+b) L’insuline
+
+c) L’adrénaline
+
+d) La rénine
+
+e) L’aldostérone
+
+Bien que de nombreuses molécules comme les brady­kinines, les tachykinines, les prostaglandines et l’histamine puissent être sécrétées par les cellules tumorales, la sérotonine joue un rôle primordial dans le développement du SC [1].
+
+Question 4: Lequel de ces symptômes n’est pas associé au syndrome carcinoïde ?
+
+
+a) Un flush facial
+
+b) Des diarrhées
+
+c) Des sibilances
+
+d) Des arthralgies
+
+e) Des œdèmes aux membres inférieurs
+
+Le SC (fig. 1) se caractérise par un flush au niveau du visage observé chez plus de 90% des patients, des diarrhées sécrétoires et un bronchospasme chez 70% et 15% des patients respectivement [1]. Les symptômes apparaissent de manière abrupte et durent en générale quelques minutes. Il est également important de savoir que jusqu’à 60% des patients souffrant d’un SC vont développer un cœur carcinoïde [2]. Cette ­atteinte cardiaque se caractérise par la formation d’une plaque fibreuse au niveau des feuillets valvulaires et de l’appareil sous valvulaire du cœur droit. Ce dépôt fibreux provoque progressivement le dévelop­pement d’une insuffisance tricuspide et d’une sténose/insuffisance pulmonaire menant à une insuffisance cardiaque droite [2].
+
+Question 5: Quel examen effectuez-vous pour confirmer le diagnostic de syndrome carcinoïde?
+
+
+a) Dosage de la chromogranine A
+
+b) Dosage de l’excrétion urinaire de l’acide 5-hydroxyindole­acétique (5-HIAA) dans les urines de 24 heures
+
+c) Dosage de la sérotonine plasmatique
+
+d) Un Ga-68 DOTATATE tomographie par émission de positrons (PET)
+
+e) Dosage du NT-pro-BNP («brain natriuretic peptide»)
+
+L’acide 5-hydroxyindoleacétique est un métabolite de la sérotonine sécrété dans l’urine et reflète sa sécrétion par les cellules de la TNE. Chez des patients atteints d’un SC, le dosage de l’excrétion urinaire du 5-HIAA dans les urines de 24 heures présente une sensibilité de 70% et une spécificité de 90% ainsi qu’une valeur prédictive positive et négative de 60% et 92% respectivement [3]. L’éviction d’une alimentation riche en sérotonine (pamplemousse, banane, kiwi, noix) et du paracétamol est impérative afin d’éviter les faux positifs [4]. La sensibilité et la spécificité du dosage de la sérotonine plasmatique n’étant pas bien établies, ce test n’est pas recommandé [3]. Le NT-pro-BNP a une valeur prédictive et pronostic d’une atteinte cardiaque chez les patients connus pour un SC [2].
+
+Les tumeurs neuroendocrines sont souvent associées à une élévation de la concentration plasmatique de la chromogranine A. Néanmoins, ce marqueur est peu spécifique et une augmentation de la chromogranine A peut également être observée lors de la prise d’in­hibiteurs de la pompe à protons, de corticostéroïdes ou en cas l’insuffisance rénale. Concernant le Ga-68 ­DOTATATE PET, il s’agit de l’examen radiologique le plus performant pour l’évaluation morphologique des TNE, mais il n’apporte aucune information concernant une éventuelle composante sécrétoire [4].
+
+Chez notre patient, au vu de la sévérité du tableau clinique, un traitement d’octréotide sous cutané 3×/j est introduit. Dans les 12 heures suivantes on observe une résolution des symptômes. L’évolution biologique se révèle également favorable avec la normalisation de la formule sanguine et la diminution de la CRP.
+
+Discussion
+
+Le SC fait partie de l’éventail des syndromes sécrétoires associés aux tumeurs neuroendocrines bien différenciées au même titre que le gastrinome (syndrome de Zolliger Ellison), le VIPome, le glucagonome ou d’autres encore. Il s’observe chez 50% des patients présentant une atteinte métastatique hépatique d’une TNE le plus souvent lorsque cette dernière est d’origine de l’in­testin grêle. Les cellules tumorales métastatiques sécrètent alors les différentes hormones directement dans la circulation systémique en évitant ainsi leur inactivation au niveau du foie [1]. Les tumeurs neuroendocrines bien différenciées présentent une incidence annuelle de cinq à sept cas pour 100 000 personnes avec une origine le plus souvent du tractus gastro-intestinal (55%) ou bronchique (30%) [5]. Elles sont habituellement de croissance lente et souvent ­découvertes fortuitement lors d’une chirurgie abdo­minale.
+
+L’interruption d’un traitement d’analogue de la somatostatine, l’induction d’une anesthésie générale, l’utilisation de médicaments inotropes ou des procédures invasives peuvent induire une libération massive de sérotonine menant à une crise carcinoïde pouvant mettre en jeu le pronostic vital du patient. Ce tableau clinique se caractérise par un flush sévère, une in­stabilité hémodynamique, parfois une hypertension artérielle, des arythmies cardiaques, un bronchospasme, un état confusionnel et occasionnellement de la fièvre [4].
+
+Le traitement médicamenteux du SC repose sur les analogues de la somatostatine, lanréotide et octréotide, qui en se liant à leur récepteur inhibent la sé­crétion des différentes hormones [6]. En cas de crise carcinoïde, l’introduction sous cutanée ou intraveineuse d’octréotide permet de diminuer la libération de substances vasoactives et ainsi la sévérité des symptômes. Plus récemment, en cas de SC insuffisamment contrôlé sous analogue de la somatostatine, le télotristat, un inhibiteur de la tryptophane hydroxylase bloquant la synthèse de la sérotonine, a démontré une diminution de la fréquence des diarrhées chez 44% des patients [7].
+
+En conclusion, le SC s’observe chez des patients atteints d’une tumeur neuroendocrine le plus souvent métastatique. Il peut associer un flush facial, des diarrhées et des symptômes respiratoires. Sa reconnaissance est importante car l’introduction d’un traitement d’analogue de la somatostatine permet une amélioration rapide des symptômes et diminue le risque de développer des complications cardiaques [2].
+
+Réponses:
+
+
+Question 1: e; Question 2: d; Question 3: a; Question 4: d;
+Question 5: a.

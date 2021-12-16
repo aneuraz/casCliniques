@@ -1,0 +1,73 @@
+T1	disorder 75 85	écrasement
+T2	disorder 90 107	doigts de la main
+T3	disorder 108 114	droite
+T4	disorder 241 246	Plaie
+T5	disorder 250 252	P3
+T6	disorder 257 294	3ème et 5ème doigts de la main droite
+T7	disorder 300 317	lésions unguéales
+T8	disorder 336 352	lésions osseuses
+T9	procedure 377 391	d’intervention
+T10	procedure 395 406	ambulatoire
+T11	procedure 423 442	anesthésie générale
+T12	procedure 463 478	suture unguéale
+T13	procedure 495 510	greffe unguéale
+T14	disorder 575 583	douleurs
+T15	profession 625 649	anesthésiste réanimateur
+T16	profession 678 690	l’infirmière
+T17	disorder 755 762	douleur
+T18	drugs 791 797	Nubain
+T19	profession 841 853	l’infirmière
+T20	disorder 905 913	douleurs
+T21	profession 934 952	personnel soignant
+T22	profession 1072 1095	chirurgien orthopédique
+T23	profession 1188 1198	chirurgien
+T24	procedure 1222 1231	pansement
+T25	procedure 1253 1265	consultation
+T26	disorder 1346 1354	douleurs
+T27	profession 1378 1385	médecin
+T28	disorder 1430 1438	douleurs
+T29	procedure 1490 1499	pansement
+T30	drugs 1516 1524	l’Atarax
+T31	disorder 1568 1576	douleurs
+T32	profession 1965 1976	chirurgiens
+T33	profession 1996 2010	l’orthopédiste
+T34	disorder 2137 2145	douleurs
+T35	procedure 2367 2379	consultation
+T36	profession 2383 2406	chirurgien orthopédiste
+T37	procedure 2430 2439	pansement
+T38	procedure 2420 2430	défait le 
+T39	procedure 2525 2534	l’amputer
+T40	procedure 2535 2544	d’urgence
+T41	procedure 2667 2681	L’intervention
+T42	profession 2655 2665	chirurgien
+T43	disorder 2713 2730	nécrose iatrogène
+T44	disorder 2734 2746	majeur droit
+T45	disorder 2750 2772	stade de nécrose sèche
+T46	procedure 2801 2811	amputation
+T47	procedure 2815 2824	col de P1
+T48	disorder 2864 2888	régurgitation bronchique
+T49	procedure 2937 2948	Réanimation
+T50	procedure 2905 2920	hospitalisation
+T51	procedure 3005 3012	greffon
+T52	disorder 2992 2999	moignon
+T53	procedure 3020 3048	prélevé sur le cuir chevelu.
+T54	procedure 3013 3019	cutané
+T55	procedure 3066 3080	réintervention
+T56	disorder 3090 3098	douleurs
+T57	disorder 3147 3167	névromes collatéraux
+T58	procedure 3169 3187	électrocoagulation
+T59	procedure 3194 3211	nerfs collatéraux
+T60	procedure 3218 3228	dissection
+T61	procedure 3238 3251	paume de main
+T62	profession 3293 3303	chirurgien
+T63	profession 3310 3326	médecin de garde
+T64	profession 3428 3438	chirurgien
+T65	procedure 3504 3518	garrot digital
+T66	procedure 3592 3601	pansement
+T67	profession 3636 3648	l’infirmière
+T68	procedure 3754 3763	pansement
+T69	disorder 4074 4084	douloureux
+T70	disorder 4105 4117	complication
+T71	profession 4329 4340	chirurgiens
+T72	profession 4347 4357	chirurgien
+T73	disorder 4536 4544	douleurs

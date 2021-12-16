@@ -1,0 +1,167 @@
+T1	disorder 86 116	douleurs épigastriques droites
+T2	disorder 157 164	nausées
+T3	disorder 171 177	ictère
+T4	disorder 236 252	coloration brune
+T5	drugs 390 401	paracétamol
+T6	disorder 720 730	hépatite B
+T7	disorder 958 982	ictère scléral et cutané
+T8	disorder 997 1050	douleur à la palpation au niveau de l’épigastre droit
+T9	disorder 1144 1150	anémie
+T10	disorder 1131 1142	bicytopénie
+T11	disorder 1154 1170	thrombocytopénie
+T12	disorder 1179 1192	coagulopathie
+T13	disorder 1202 1214	hépatopathie
+T14	procedure 1302 1314	Hémoglobine	
+T15	procedure 1335 1339	VGM	
+T16	procedure 1356 1361	CCMH	
+T17	procedure 1383 1394	Leucocytes	
+T18	procedure 1413 1426	Thrombocytes	
+T19	procedure 1465 1469	INR	
+T20	procedure 1516 1523	Sodium	
+T21	procedure 1551 1561	Potassium	
+T22	procedure 1589 1600	Créatinine	
+T23	procedure 1625 1630	Urée	
+T24	procedure 1658 1666	Glucose	
+T25	procedure 1694 1698	CRP	
+T26	procedure 1716 1720	LDH	
+T27	procedure 1742 1750	Lactate	
+T28	procedure 1778 1787	Albumine	
+T29	procedure 1806 1817	Bilirubine	
+T30	procedure 1841 1846	ASAT	
+T31	procedure 1866 1871	ALAT	
+T32	procedure 1889 1893	yGT	
+T33	procedure 1912 1933	Phosphatase alcaline	
+T34	procedure 1952 1972	Amylase pancréatique
+T35	labvalue 1973 1980	36 U/l	
+T36	labvalue 1933 1940	60 U/l	
+T37	labvalue 1903 1911	6–40 U/l
+T38	labvalue 1880 1888	8–41 U/l
+T39	labvalue 1846 1854	170 U/l	
+T40	labvalue 1817 1828	270 µmol/l	
+T41	labvalue 1787 1794	24 g/l	
+T42	labvalue 1750 1761	1,6 mmol/l	
+T43	labvalue 1720 1728	370 U/l	
+T44	labvalue 1698 1706	9 mg/l	 
+T45	labvalue 1666 1677	4,8 mmol/l	
+T46	labvalue 1630 1641	4,2 mmol/l	
+T47	labvalue 1600 1610	60 µmol/l	
+T48	labvalue 1561 1572	3,7 mmol/l	
+T49	labvalue 1523 1534	138 mmol/l	
+T50	labvalue 1469 1472	2,4
+T51	labvalue 1426 1433	90 G/l	
+T52	labvalue 1394 1400	9 G/l	
+T53	labvalue 1361 1369	330 g/l	
+T54	labvalue 1339 1345	90 fl	
+T55	labvalue 1314 1321	80 g/l	
+T56	irrelevant 1992 2072;2075 2144;2146 2161;2163 2180;2182 2207;2209 2278	Question 1: Qu’est-ce qui ne fait pas partie des étapes diagnostiques suivantes?   a) Formule sanguine complète et analyse approfondie de la coagulation  b) Haptoglobine  c) Test de Coombs  d) Echographie abdominale  e) Cholangiopancréatographie par résonance magnétique (Cholangio-IRM)
+T57	procedure 2283 2299	formule sanguine
+T58	disorder 2313 2327	réticulocytose
+T59	labvalue 2362 2385	érythrocytes en cocarde
+T60	disorder 2428 2448	anémie ­hé­molytique
+T61	procedure 2452 2464	haptoglobine
+T62	labvalue 2490 2499	<0,05 g/l
+T63	procedure 2525 2539	test de Coombs
+T64	labvalue 2540 2547	négatif
+T65	disorder 2576 2612	 anémie hémolytique à Coombs négatif
+T66	procedure 2649 2660	facteurs II
+T67	labvalue 2662 2665	25%
+T68	labvalue 2671 2674	45%
+T69	labvalue 2684 2686	8%
+T70	procedure 2668 2669	V
+T71	procedure 2679 2682	VII
+T72	procedure 2736 2747	fibrinogène
+T73	labvalue 2754 2760	normal
+T74	disorder 2784 2796	hépatopathie
+T75	disorder 2805 2820	hypoalbuminémie
+T76	disorder 2878 2906	insuffisance hépatique aiguë
+T77	disorder 2908 2911	IHA
+T78	disorder 2928 2966	coagulation intravasculaire disséminée
+T79	disorder 2979 3001	hépatopathie ictérique
+T80	procedure 3050 3094	échographie pour évaluer les voies biliaires
+T81	disorder 3158 3180	ascite péri-hépatique 
+T82	disorder 3187 3200	splénomégalie
+T83	procedure 3238 3256	ch­­­­­olangio-IRM
+T84	disorder 3323 3353	dilatation des voies biliaires
+T85	disorder 3426 3432	calcul
+T86	disorder 3442 3448	tumeur
+T87	disorder 3453 3465	thrombopénie
+T88	disorder 3487 3500	splénomégalie
+T89	disorder 3590 3625	anémie hémolytique à Coombs négatif
+T90	disorder 3631 3643	hépatopathie
+T91	irrelevant 3648 3748;3751 3768;3770 3782;3784 3807;3809 3833;3835 3860	estion 2: Quelle maladie se caractérise typiquement par l’absence d’IHA avec une anémie hémolytique?   a) Syndrome HELLP  b) Paludisme  c) Hépatite auto-immune  d) Hépatite virale aiguë  e) Maladie de Wilson (MW)
+T92	disorder 3865 3879	syndrome HELLP
+T93	disorder 4073 4082	paludisme
+T94	disorder 4095 4129	crise hémolytique à Coombs négatif
+T95	disorder 4137 4140	IHA
+T96	procedure 4232 4254	dépistage du paludisme
+T97	disorder 4300 4317	anémie hémolytiqu
+T98	disorder 4358 4378	hépatite auto-immune
+T99	disorder 4389 4404	hépatite virale
+T100	disorder 4410 4428	anémie hémolytique
+T101	disorder 4451 4468	 anémie aplasique
+T102	disorder 4568 4588	hépatite auto-immune
+T103	procedure 4531 4540	sérologie
+T104	procedure 4590 4609	auto-anticorps [Ac]
+T105	procedure 4610 4630	antinucléaires [ANA]
+T106	procedure 4632 4658	«anti-smooth muscle» [SMA]
+T107	procedure 4662 4699	«anti-liver-kidney microsomal» [LKM1]
+T108	labvalue 4700 4708	négatifs
+T109	disorder 4762 4801	maladie auto-immune des voies biliaires
+T110	procedure 4803 4824	Ac anti-mitochondries
+T111	procedure 4837 4890	anti-cytoplasme des polymorphonucléaires neutrophiles
+T112	procedure 4892 4896	ANCA
+T113	procedure 4826 4832	AMA-M2
+T114	disorder 4915 4936	hépatite virale aiguë
+T115	procedure 4938 4949	Ac anti-VHA
+T116	labvalue 4960 4968	>60 UI/l
+T117	procedure 4974 4978	 IgM
+T118	labvalue 4979 4988	négatives
+T119	disorder 5018 5029	hépatite A 
+T120	procedure 5038 5049	vaccination
+T121	procedure 5051 5063	antigène HBs
+T122	procedure 5075 5087	 Ac anti-HBc
+T123	labvalue 5088 5096	négatifs
+T124	procedure 5098 5109	Ac anti-VHC
+T125	labvalue 5110 5118	négatifs
+T126	labvalue 5132 5140	négatifs
+T127	procedure 5120 5131	Ac anti-VHE
+T128	disorder 5153 5155	MW
+T129	disorder 5191 5194	IHA
+T130	disorder 5202 5238	anémie hémolytique à Coombs négatif.
+T131	irrelevant 5240 5331;5334 5382;5384 5412;5414 5434;5436 5453;5455 5539	Question 3: Quels examens ne servent pas à la pose du diagnostic en cas de suspicion de MW?   a) Céruloplasmine sérique et cuivre dans l’urine  b) Examen à la lampe à fente  c) Biopsie hépatique  d) Test génétique  e) Imagerie par résonance magnétique (IRM) avec détermination du cuivre dans le foie
+T132	disorder 5673 5693	cuivre dans le foie 
+T133	procedure 5697 5700	IRM
+T134	procedure 5778 5792	céruloplasmine
+T135	procedure 5837 5885	excrétion de cuivre dans les urines de 24 heures
+T136	disorder 5936 5938	MW
+T137	disorder 6028 6062	 péri-cornéen de Kayser-Fleischer 
+T138	procedure 6069 6086	biopsie hépatique
+T139	labvalue 6272 6283	 ≥250 µg/g 
+T140	disorder 6320 6322	MW
+T141	labvalue 6335 6344	 <50 µg/g
+T142	procedure 6409 6425	 test génétique 
+T143	procedure 6472 6488	score de Leipzig
+T144	procedure 6602 6616	céruloplasmine
+T145	labvalue 6644 6652	0,18 g/l
+T146	disorder 6690 6696	anurie
+T147	procedure 6700 6717	 cuivre urinaire 
+T148	procedure 6744 6771	L’examen à la lampe à fente
+T149	disorder 6794 6824	coloration brunâtre circulaire
+T150	disorder 6889 6928	anneau péri-cornéen de Kayser-Fleischer
+T151	procedure 6942 6960	biopsie hépatique 
+T152	disorder 6973 7009	hépatite chronique d’activité sévère
+T153	procedure 7056 7082	 coloration par rhodamine 
+T154	disorder 7104 7126	accumulation de cuivre
+T155	procedure 7149 7175	teneur hépatique en cuivre
+T156	labvalue 7179 7187	543 µg/g
+T157	procedure 7245 7259	céruloplasmine
+T158	disorder 7270 7310	anneau péri-cornéen de Kayser-Fleischer 
+T159	disorder 7319 7345	teneur hépatique en cuivre
+T160	disorder 7377 7379	MW
+T161	irrelevant 9928 10017;10018 10045;10046 10252;10253 10664;10665 10865;10866 11032;11033 11162;11163 11312;11313 11406;11407 11445;11446 11505;11506 11583;11584 11626;11629 11706;11708 11798;11800 11877;11879 11959;11961 12033	Tableau 3: Manifestations cliniques de la maladie de Wilson, compilées à partir de [1–5]. Système d’organes	Symptômes Foie	Fréquents: élévation asymptomatique des transaminases, stéatose hépatique, hépatite aiguë, hépatite chronique active avec fibrose progressive, cirrhose hépatiqueRares: insuffisance hépatique fulminante Système nerveux	Fréquents: tremblements, dystonie, choréoathétose, parkinsonisme, dysarthrie, hypersalivation, dysgraphie, troubles de la concentration, troubles cognitifs, changements de ­comportement, troubles de la personnalité, états anxieux, dépression, psychose, hallucinationsRares: dysphagie, ataxie, crises épileptiques, catatonie, troubles du sommeil, en cas d’insuffisance hépatique: ­encéphalopathie Yeux	Fréquents:anneau péri-cornéen de Kayser-Fleischer (en cas d’atteinte hépatique isolée, dans jusqu’à 50% des cas; en cas d’atteinte neurologique, dans jusqu’à 90% des cas), ­cataracte en tournesol Système hématologique 	Fréquents: splénomégalieRares:leucopénie, thrombocytopénieFréquents (en cas d’insuffisance hépatique): hémolyse à Coombs négatif, coagulopathie Appareil locomoteur	Fréquents: ostéoporose/ostéomalacie, arthrite/arthralgie, altérations dégénératives du rachisRares: myopathie Système endocrinien	Fréquents: aménorrhée, dysfonction ovarienne/testiculaire, infertilité, avortements spontanésRares: hypoparathyroïdie, gigantisme Reins	Rares: aminoacidurie, néphrolithiase, syndrome de Fanconi (acidose tubulaire proximale) Cœur	Rares: arythmies, cardiomyopathie Tractus gastro-intestinal	Rares: pancréatite, cholélithiase Peau	Rares: coloration de la lunule, acanthosis nigricans, ­hyperpigmentation Question 5: Quelle affirmation est fausse?   a) Les chélateurs du cuivre et le zinc sont les médicaments de premier choix.  b) Sous traitement de chélateur de cuivre, les patients ont un bon pronostic à long terme.  c) Une alimentation sans cuivre est une composante essentielle du traitement.  d) La transplantation hépatique est jusqu’à présent le seul ­traitement curatif.  e) Un dépistage familial des patients atteints de la MW est ­recommandé.
+T162	irrelevant 7768 7861;7862 7882;7883 7916;7917 7950;7951 8139;8140 8147;8148 8189;8190 8229;8230 8262;8263 8284;8285 8292;8293 8323;8324 8367;8368 8437;8438 8473;8474 8688;8690 8999;9001 9521;9523 9577	Teneur en cuivre dans le foie sec (biopsie)	Points	Cuivre dans les urines de 24 heures	Points >250 µg/g	2	Normal	  >50 et <250 µg/g	1	100–200 µg/j	1 Normale (<50 µg/g)	–1	>200 µg/j	2 Granules positives à la rhodamine (si mesure du cuivre hépatique impossible)	1	Normal, mais élévation >5 fois la limite supérieure de la normale après administration de D-pénicillamine**	2  	 	 	  Analyse mutationnelle de ATP7B	Points	 	  Mutation sur les deux chromosomes	4	 	  Mutation sur un chromosome	1	 	  Pas de mutation	 	 	   	 	 	  Score total	 	Interprétation	  ≥4 points	 	Diagnostic hautement probable	  2–3 points	 	Diagnostic possible, tests supplémentaires nécessaires	  <2 points	 	Diagnostic improbable	  * Hyperintensité (en T2) dans les ganglions de la base, le thalamus et le tronc cérébral (tectum et pont central).** Test de provocation à la D-pénicillamine (bien validé uniquement dans la population pédiatrique).  Figure 1: Anneau péri-cornéen de Kayser-Fleischer (coloration brun doré-verte de la périphérie de la cornée par dépôt de cuivre sur la membrane de Descemet de la cornée au bord de l’iris (publication avec l’aimable autorisation du Dr S. Rothenbühler, clinique ophtalmologique, hôpital univer­sitaire de Bâle).  Figure 2: Histologie de la biopsie hépatique.A, B) Les colorations à l’hématoxyline et à l’éosine (grossissement de 100 fois et 200 fois) montrent des infiltrats inflammatoires lympho-plasmocytaires dans les espaces portes avec «hépatite de la zone ­frontière» etC) la coloration à l’orcéine (grossissement de 400 fois) montre une accumulation de cuivre dans des hépatocytes et macrophages isolés. (Publication avec l’aimable autorisation du Prof. L. Terracciano, institut de pathologie, hôpital univer­sitaire de Bâle).  Question 4: Quel organe n’est pas touché en cas de MW?
+T163	irrelevant 7399 7446;7447 7544;7545 7565;7566 7584;7585 7592;7593 7684;7685 7715;7716 7738;7739 7759	ableau 2: Score de Leipzig, adapté d’après [1]. Anneau péri-cornéen de Kayser-Fleischer	Points	Anémie hémolytique à test de Coombs négatif	Points Présent	2	Présente	1 Absent	 	Absente	   	 	 	  Symptômes neurologiques / anomalie à l’IRM ­cérébrale*	Points	Céruloplasmine sérique	Points Sévères	2	Normale (>0,2 g/l)	  Légers	1	0,1–0,2 g/l	1 Absents	 	<0,1 g/l	2
+T164	irrelevant 9580 9590;9592 9600;9602 9609;9611 9618;9620 9630;9632 9924	a) Poumons  b) Reins  c) Cœur  d) Peau  e) Cerveau  Etant donné que le foie et le cerveau sont les organes les plus souvent touchés par le dépôt de cuivre, les symptômes hépatiques, neurologiques et psychiatriques prédominent. Le tableau 3 résume les diverses manifestations cliniques. Une atteinte pulmonaire n’a jusqu’à présent pas été décrit
+T165	irrelevant 14633 15387;15389 15715	La pose du diagnostic de MW en cas d’IHA représente un cas particulier, car il se peut alors que les paramètres de laboratoire diagnostiques classiques ne soient pas interprétables: la céruloplasmine peut être faussement normale/élevée et l’excrétion de cuivre dans les urines peut ne pas être utilisable en cas défaillance rénale [1]. Pourtant en cas d’IHA, certaines anomalies de laboratoire peuvent déjà fournir des indices diagnostiques quant à la présence d’une MW. Ainsi, comme chez notre patiente, il y a souvent une anémie hémolytique à Coombs négatif concomitante, une phosphatase alcaline nettement diminuée par rapport à l’hyperbilirubinémie (phosphatase alcaline: bilirubine totale <4) et un quotient de De Ritis élevé (ASAT:ALAT) >2,2 [1–3].  Bien que la MW soit globalement considérée comme une cause rare d’IHA (environ 5% des cas), une IHA s’observe à l’inverse chez jusqu’à 10% des patients avec MW. Ainsi, face à toute IHA, la MW devrait être envisagée dans le cadre du diagnostic différentiel, notamment lors de la présence d’une anémie hémolytique à Coombs négat
+T166	irrelevant 12035 13854;13856 13866;13868 14631	Le traitement réside dans la prise précoce et à vie de chélateur du cuivre (D-pénicillamine ou trientine) et de zinc, qui permettent généralement d’avoir une espérance de vie normale en cas de diagnostic et de traitement précoces. Les chélateurs se lient au cuivre déposé dans les organes et l’excrètent par voie rénale sous forme de complexe. Le zinc réduit l’absorption entérale du cuivre. L’objectif est en premier lieu d’éliminer le cuivre accumulé en excès et en second lieu de prévenir une nouvelle accumulation. La maladie est létale, si elle n’est pas traitée. En particulier au début du traitement, les aliments riches en cuivre (crustacés, noix, cacao, champignons et abats) devraient être évités, mais un régime sans cuivre n’est pas nécessaire et pratiquement irréalisable [2, 3]. Une transplantation hépatique est indiquée en cas d’IHA et de cirrhose hépatique terminale. Etant donné que la transplantation permet de supprimer le défaut génétique de la protéine de transport du cuivre dans les hépatocytes, le patient est considéré comme guéri [3]. Dans la mesure où les frères et sœurs d’un patient atteint de la MW ont une probabilité de développer la maladie de 1:4 et que les enfants des patients ont une probabilité de 1:200, un dépistage génétique familial visant une initiation précoce du traitement chez les patients encore pré-symptomatiques est recommandé [2, 4]. En raison de l’IHA, notre patiente a été transférée dans le centre de transplantation hépatique le plus proche, où, en présence d’une encéphalopathie hépatique et de troubles de la coagulation croissants, ainsi que d’une insuffisance rénale nécessitant une dialyse, la transplantation a eu lieu quatre jours plus tard. L’évolution postopératoire a été réjouissante, avec une normalisation complète des fonctions hépatique et rénale.  Discussion  La MW est une maladie métabolique génétique à ­transmission autosomique-récessive, dont l’incidence s’élève à 1:30 000. La mutation du gène ATP7B perturbe la fonction de transport de la protéine hépatique ATP7B, se traduisant par une diminution de l’excrétion biliaire du cuivre et de la liaison du cuivre à la céruloplasmine [3]. Le cuivre ingéré quotidiennement avec l’alimentation (1–2 mg/j) s’accumule alors au niveau ­intra-hépatique et entraîne la destruction des hépatocytes, avec une libération de cuivre libre (non lié) dans la circulation sanguine. Par ce biais, le cuivre s’accumule dans d’autres organes, menant à des dysfonctions [1, 2]. L’anémie hémolytique à Coombs négatif est la conséquence de l’effet toxique du cuivre sur les ­érythrocytes [3].
+T167	irrelevant 15720 15729;15732 15805	Réponses:   Question 1: e. Question 2: d. Question 3: e. Question 4: a. Question 5: c

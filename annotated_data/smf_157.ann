@@ -1,0 +1,94 @@
+T1	irrelevant 0 8	Contexte
+T2	irrelevant 10 333	L’entérite à salmonelles n’est pas rare dans la pratique quotidienne hospitalière et elle a le plus souvent une évolution banale. Malgré tout, les complications graves ne devraient pas être sous-estimées et en cas de suspicion de telles complications, des investigations supplémentaires devraient être initiées précocement.
+T3	irrelevant 335 354;355 363	Présentation du cas Anamnèse
+T4	disorder 458 464	fièvre
+T5	disorder 470 478	frissons
+T6	disorder 486 498	vomissements
+T7	disorder 505 513	diarrhée
+T8	disorder 533 554	ntérite à salmonelles
+T9	procedure 656 668	hémocultures
+T10	labvalue 675 684	positives
+T11	labvalue 690 749	Salmonella enterica subspecies enterica Serovar enteritidis
+T12	drugs 785 796	ceftriaxone
+T13	drugs 756 771	antibiothérapie
+T14	drugs 829 844	antibiothérapie
+T15	drugs 849 863	ciprofloxacine
+T16	procedure 881 894	antibiogramme
+T17	procedure 900 913	coprocultures
+T18	labvalue 922 931	négatives
+T19	disorder 1210 1258	artériopathie oblitérante des membres inférieurs
+T20	disorder 1260 1264	AOMI
+T21	disorder 1271 1294	hypertension artérielle
+T22	risk 1301 1320	tabagisme chronique
+T23	risk 1346 1363	75 paquets-années
+T24	irrelevant 1419 1425	Statut
+T25	procedure 1586 1601	examen clinique
+T26	procedure 1649 1668	pression artérielle
+T27	labvalue 1688 1700	130/70 mm Hg
+T28	procedure 1720 1725	pouls
+T29	labvalue 1735 1741	85/min
+T30	risk 1837 1865	cinq cigarettes quotidiennes
+T31	irrelevant 1868 1877	Résultats
+T32	procedure 1938 1941	CRP
+T33	labvalue 1943 1951	172 mg/l
+T34	procedure 1960 1971	leucocytose
+T35	labvalue 1973 1979	22 G/l
+T36	labvalue 1986 1998	neutrophilie
+T37	procedure 2004 2026	adiographie thoracique
+T38	procedure 2062 2080	analyses urinaires
+T39	disorder 2126 2134	diarrhée
+T40	drugs 2156 2171	antibiothérapie
+T41	procedure 2207 2244	recherche de la toxine de Clostridium
+T42	labvalue 2282 2289	négatif
+T43	drugs 2402 2417	antibiothérapie
+T44	procedure 2504 2527	 échographie abdominale
+T45	disorder 2556 2585	anévrisme aortique infrarénal
+T46	labvalue 2595 2605	5,7 × 5 cm
+T47	disorder 2680 2702	membrane de dissection
+T48	irrelevant 2779 2953;2955 3093;3095 3320;3322 3357	Figure 1: Représentation échographique de l’anévrisme de l’aorte; un anévrisme mycotique de l’aorte (AMA) a été considéré comme diagnostic différentiel pour la première fois.  Figure 2: L’échographie n’a pas permis d’exclure avec certitude une membrane de dissection chez la patiente à ce moment-là asymptomatique.  A la tomodensitométrie (TDM) abdominale consécutive, une cause infectieuse de l’anévrisme a été suspectée en raison de l’aspect de champignon typique de la lésion anévrismale. Cette dernière mesurait près de 6 cm de diamètre.  Diagnostic, traitement et évolution
+T49	disorder 3375 3403	anévrisme mycotique aortique
+T50	disorder 3405 3408	AMA
+T51	drugs 3451 3466	antibiothérapie
+T52	drugs 3471 3485	ciprofloxacine
+T53	disorder 3647 3669	entérite à salmonelles
+T54	disorder 3688 3710	AMA dû aux salmonelles
+T55	procedure 3736 3767	réparation chirurgicale ouverte
+T56	procedure 3777 3801	procédure endovasculaire
+T57	procedure 3804 3832	endovascular aneurysm repair
+T58	procedure 3835 3839	EVAR
+T59	disorder 3994 4014	douleurs abdominales
+T60	procedure 4099 4121	contrôle échographique
+T61	disorder 4127 4130	AMA
+T62	labvalue 4158 4162	5 mm
+T63	disorder 4231 4240	anévrisme
+T64	procedure 4272 4286	TDM abdominale
+T65	labvalue 4310 4320	6,4 × 6 cm
+T66	disorder 4343 4365	membrane de dissection
+T67	irrelevant 4485 4839	Figure 3: Tomodensitométrie abdominale avec produit de contraste (coupe axiale): documentation d’une augmentation de la taille de l’anévrisme mycotique aortique à court terme. L’image explique pourquoi l’anévrisme est qualifié de «mycotique»: les bosselures ayant l’aspect d’un champignon correspondent aux plaques aortiques dilatées par les salmonelles.
+T68	profession 4924 4952	radiologues interventionnels
+T69	profession 4958 4972	infectiologues
+T70	profession 4980 5003	chirurgiens vasculaires
+T71	procedure 5030 5034	EVAR
+T72	procedure 5054 5089	reconstruction chirurgicale ouverte
+T73	profession 5422 5445	chirurgiens vasculaires
+T74	procedure 5562 5577	bilan cardiaque
+T75	disorder 5596 5616	insuffisance mitrale
+T76	disorder 5620 5634	tricuspidienne
+T77	disorder 5659 5688	insuffisance aortique modérée
+T78	procedure 5743 5760	débridement large
+T79	disorder 5910 5935	rupture couverte de l’AMA
+T80	disorder 6260 6264	AOMI
+T81	procedure 6657 6665	biopsies
+T82	disorder 6752 6757	abcès
+T83	disorder 6763 6772	infection
+T84	labvalue 6784 6843	Salmonella enterica subspecies enterica Serovar enteritidis
+T85	procedure 6886 6894	cultures
+T86	drugs 6919 6933	ciprofloxacine
+T87	drugs 6899 6914	antibiothérapie
+T88	procedure 6969 6994	paramètres inflammatoires
+T89	disorder 7117 7126	infection
+T90	drugs 7181 7195	ciprofloxacine
+T91	drugs 7237 7252	antibiothérapie
+T92	drugs 7275 7288	cotrimoxazole
+T93	drugs 7606 7621	antibiothérapie
+T94	irrelevant 7669 7679;7681 8113;8115 8577;8579 8903;8905 9171;9173 9678;9680 10989;10991 11373;11375 11710;11712 12330;12332 12360;12362 12515;12517 12820;12822 13205;13207 13737;13739 13929	Discussion  L’anévrisme mycotique correspond à une dilatation destructrice ou une néoformation d’un anévrisme en raison d’une infection bactérienne. Il tire son nom de William Osler, qui l’a décrit pour la première fois en tant qu’inflammation vasculaire bactérienne ayant un aspect macroscopique de champignon [1]. Depuis lors, le nom historique porte néanmoins parfois à confusion, car la lésion bactérienne n’a aucun rapport avec une mycose.  Concernant le pathomécanisme, il y a lieu de faire la distinction entre une dissémination bactérienne, des embolies septiques, la progression d’infections ­locales, ainsi que des mécanismes pathogéniques iatrogènes ou traumatiques. Au sens strict, le terme «anévrismes mycotiques» se limite aux anévrismes causés par des embolies septiques dans le cadre d’une endocardite bactérienne, mais il est communément utilisé pour désigner tous les anévrismes infectieux.  Il est clair que le type de bactéries impliquées est largement déterminé par le mécanisme pathogénique. S’agissant des anévrismes mycotiques le long de l’aorte, les bactéries Staphylococcus aureus et Salmonella ssp. en sont les principales responsables. L’AMA représente uniquement 0,65–4% de tous les anévrismes de l’aorte.  Sur le plan thérapeutique, une antibiothérapie est combinée à une intervention chirurgicale ou endovasculaire. En cas d’AMA dû aux salmonelles, il est possible de tenter une antibiothérapie seule, en particulier chez les sujets âgés ayant un risque opératoire élevé.  Il demeure incontesté qu’une antibiothérapie est dans tous les cas nécessaire après le traitement aigu (opération ou EVAR). La durée exacte de l’antibiothérapie n’est pas connue et elle dépend de la prise en charge chirurgicale/endovasculaire. Dans la littérature, une durée d’au minimum six semaines est recommandée, tandis que dans les études de cas, cette durée est le plus souvent nettement plus longue. La mise en œuvre d’un traitement à vie, en particulier après EVAR, est sujette à controverse [2].  Au cours des dernières années, la procédure endovasculaire a gagné en importance, y compris dans le cadre de l’AMA. Jusqu’alors, la réparation chirurgicale ouverte avec mise en place d’une greffe in situ ou pontage extra-anatomique était considérée comme le traitement de référence, car elle permet un débridement large contrairement à la mise en place d’un conduit ­directement dans le site infectieux en cas d’EVAR. Différentes études ont cependant aussi révélé un bon ­devenir à long terme en cas d’EVAR, même si sa supériorité par rapport à l’intervention chirurgicale n’a pas été démontrée [3]. Dans la mesure où jusqu’à 60% des AMA sont rompus de manière couverte ou franche lors de la première présentation, une EVAR peut également être utilisée comme solution transitoire d’urgence jusqu’à la réparation chirurgicale [4, 5]. D’une manière générale, l‘EVAR est associée à un plus faible risque ­peropératoire et elle peut également être pratiquée chez les patients polymorbides. Rétrospectivement, il s’est néanmoins avéré que les anévrismes rompus et la fièvre au moment de la réalisation de l‘EVAR conduisaient à des infections persistantes et donc à un plus mauvais devenir. L’état général actuel du patient et ses comorbidités sont dès lors décisifs pour le choix de la bonne méthode de traitement.  Notre cas fait partie de ces AMA rares et il a été causé par la bactériémie à salmonelles. Environ 10% de tous les patients avec bactériémie à salmonelles développent une infection vasculaire, souvent sous forme d’anévrisme mycotique. Les salmonelles possèdent une adhérence particulière à l‘endothélium vasculaire, avant tout en cas d’altérations artériosclérotiques préexistantes.  Les patients atteints d’un AMA se plaignent parfois de douleurs abdominales ou de maux de dos. La présentation est souvent non spécifique. En cas d’entérites à ­salmonelles, en particulier après une bactériémie, il convient de songer à une atteinte infectieuse de l’aorte face à une élévation persistante des paramètres inflammatoires.  L’âge avancé combiné à une artériosclérose ainsi que les états d’immunosuppression sont considérés comme des facteurs prédisposants de l’AMA, en particulier dû à des salmonelles. Par conséquent, certains spécialistes préconisent d’allonger le traitement empirique d’une bactériémie à salmonelles à 4–6 semaines chez les patients présentant des facteurs de risque. D’une manière générale, un anévrisme de l’aorte infecté se comporte de manière agressive, croît rapidement et menace de se rompre. En cas de suspicion ­d’infection vasculaire, il convient dès lors d’initier précocement des investigations complémentaires.  L’essentiel pour la pratique  Même les entérites à salmonelles banales peuvent entraîner des complications lourdes de conséquences. C’est pourquoi les principes suivants s’appliquent:  • En cas d’entérite à salmonelles préalable voire de bactériémie à salmonelles et de facteurs de risque (artériosclérose, âge avancé, immunosuppression) avec éventuellement en plus des symptômes abdominaux, il est recommandé de réaliser rapidement des examens d’imagerie (échographie/tomodensitométrie).  • Le traitement repose sur une réparation chirurgicale ouverte ou une intervention endovasculaire (EVAR), toutes deux en association avec une antibiothérapie adaptée à la situation de résistance du patient. Chez les patients âgés avec anévrisme mycotique aortique dû à des salmonelles chez lesquels une intervention semble trop risquée, une antibiothérapie seule peut être envisagée.  • Précisément parce qu’il n’existe pas de recommandation établie concernant l’antibiothérapie après une intervention (opération ou EVAR), la concertation entre le médecin de famille et le spécialiste est essentielle. Des contrôles réguliers chez le médecin de famille, en particulier pour vérifier l’observance et les effets indésirables et intolérances des antibiotiques, sont recommandés. En cas de détérioration de l’état du patient d’origine indéterminée, il convient toujours de songer à une infection persistante sur greffe.  • Chez les patients âgés, il faut toujours tenir compte des facteurs physiques, cognitifs, psychiques et sociaux pour la prise de décision médicale, et pas uniquement de l’âge chronologique.

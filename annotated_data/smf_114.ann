@@ -1,0 +1,98 @@
+T1	irrelevant 4170 4180;4182 4914	Discussion  Le syndrome sérotoninergique [1, 2] est une réaction médicamenteuse indésirable potentiellement fatale causée par les agonistes sérotoninergiques [3, 4]. Dans de rares cas, il peut déjà survenir lors de la prise des doses recommandées, mais le plus souvent, il résulte d’un surdosage. Le surdosage peut concerner la prise d’un seul médicament, mais une prise concomitante de différents agonistes sérotoninergiques et de substances entraînant une inhibition du transporteur de la sérotonine, telles que la cocaïne ou la méthadone, est fréquemment impliquée [5], aboutissant alors de façon cumulative à un syndrome sérotoninergique via une concentration accrue de sérotonine dans les synapses des neurones sérotoninergiques cérébraux.
+T1	irrelevant 4916 5315;5317 5528	Dans l’histoire de la médecine, un cas illustre est celui de la patiente âgée de 18 ans Libby Zion [6]. Elle est dé­cédée en 1984 d’un syndrome sérotoninergique ayant résulté de l’administration de péthidine et de l’antidépresseur phénelzine (inhibiteur sélectif de la mono­amine oxydase, IMAO) par des médecins assistants inexpérimentés et surmenés, qui ont en outre été ­insuffisamment supervisés.  Le diagnostic de syndrome sérotoninergique repose classiquement sur la triade suivante: hyperactivité du système nerveux autonome, altérations qualitatives de la conscience et troubles neuromusculaires (tab. 1).
+T1	irrelevant 5530 5700;5701 5736	Tableau 1: Signes classiques du syndrome sérotoninergique. Toutes les anomalies ne sont pas systématiquement présentes chez tous les patients (toxicité sérotoninergique). Triade du syndrome sérotoninergique
+T1	irrelevant 5737 5799;5800 5823	Signes d’hyperactivité du système nerveux autonome	Tachycardie Hypertension artérielle
+T1	irrelevant 5824 5836;5837 5845	Hyperhidrose Mydriase
+T1	irrelevant 5846 5858;5859 5867	Vomissements Diarrhée
+T1	irrelevant 5868 5880;5881 5930	Hyperthermie Altérations qualitatives de la conscience	Anxiété
+T1	irrelevant 5931 5950;5951 5980	Délirium hyperactif Agitation motrice (akathisie)
+T1	irrelevant 5981 5995;5996 6103	Désorientation Troubles neuromusculaires (avant tout au niveau des membres inférieurs)	Réflexes ostéo-tendineux ­augmentés
+T1	irrelevant 6104 6114;6115 6127	Myoclonies Tremblements
+T1	irrelevant 6128 6168;6170 7219	Rigidité musculaire dans les cas sévères  Sur le plan clinique, le syndrome sérotoninergique peut donner lieu à des manifestations très variées. Dans les cas de symptômes plutôt légers, les patients afébriles se présentent avec une tachycardie, des tremblements musculaires et une hyperhidrose. Il y a typiquement des réflexes ostéo-tendineux augmentés et des myoclonies, qui sont plus prononcées au niveau des membres inférieurs. Dans les cas plus sévères, un délirium hyperactif s’y ajoute typiquement. L’examen clinique révèle alors parfois une rigidité musculaire prononcée (tension musculaire augmentée), qui peut masquer les myoclonies, et souvent une fièvre élevée. Les patients sont hypertendus et tachycardes. Plus tard, un état de choc pouvant avoir une évolution fatale peut se développer. Les anomalies de laboratoire typiques incluent une acidose métabolique, une rhabdomyolyse avec créatine kinase accrue, une myoglobinurie et éventuellement une insuffisance rénale. Dans les cas sévères, le syndrome sérotoninergique peut conduire à une coagulation intravasculaire disséminée.
+T1	irrelevant 7221 7486;7488 7774	Le diagnostic du syndrome sérotoninergique est un diagnostic clinique. L’anamnèse médicamenteuse doit être recueillie méticuleusement, sans omettre les médicaments non soumis à ordonnance et les substances illégales. Un algorithme [1] est présenté dans la figure 1.  Figure 1: Algorithme pour la pose du diagnostic du syndrome sérotoninergique. (From: Boyer EW, Shannon M. The Serotonin-Syndrome. N Engl J Med. 2005;352:1112–20. ­Copyright © 2005, Massachusetts Medical Society. Translated/reprinted with permission from ­Massachusetts Medical Society.)
+T1	irrelevant 7776 8255;8257 9299	En cas de surdosage des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS), environ 14–16% des patients développent un syndrome sérotoninergique. Toutefois, ce syndrome passe souvent inaperçu dans la pratique clinique quotidienne, peut-être en raison des présentations atypiques (lorsque seules certaines composantes du syndrome sérotoninergique sont présentes, il est question de toxicité sérotoninergique) ou d’une sensibilisation insuffisante de l’équipe soignante.  Divers médicaments ou associations de médicaments peuvent être responsables d’un syndrome sérotoninergique. Les plus fréquemment incriminés sont les IMAO (outre des antidépresseurs, les antibiotiques isoniazide et linézolide font également partie de ce groupe), les antidépresseurs tricycliques, les ISRS et les inhibiteurs de la recapture de la sérotonine et de la noradrénaline (IRSN) et certains opioïdes (en particulier le tramadol, la péthidine et la méthadone; en revanche, la morphine, la codéine, l’oxycodone et la buprénorphine ne provoquent probablement pas de syndrome sérotoninergique [2]). Certains antitussifs (dextrométhorphane) et même le millepertuis sont également connus pour déclencher un syndrome sérotoninergique, tout comme des drogues illégales, telles que l’amphétamine, la cocaïne, l’ecstasy et le LSD (tab. 2). Les triptans ne peuvent probablement pas déclencher un syndrome sérotoninergique [7], au même titre que les antiémétiques (ondansétron) en tant qu’inhibiteurs des récepteurs de la 5-hydroxytryptamine [2].
+T1	irrelevant 9301 9398;9399 9448	Tableau 2: Médicaments pouvant provoquer un syndrome sérotoninergique et leur mécanisme d’action. Classe médicamenteuse	Exemples	Mécanisme d’action
+T1	irrelevant 9449 9605;9606 9665	ISRS	Citalopram, escitalopram, fluoxétine, fluvoxamine, ­paroxétine, sertraline	Inhibition de la recapture de la sérotonine dans le ­neurone (présynaptique) IRSN, IRDN	Duloxétine, venlafaxine, ­mirtazapine, bupropion
+T1	irrelevant 9666 9733;9734 9784	Antidépresseurs ­tricycliques	Clomipramine, opipramol, trimipramine Opioïdes	Fentanyl, péthidine, ­tramadol, méthadone
+T1	irrelevant 9785 9848;9849 9881	Antitussifs et anti­grippaux	Dextrométhorphane, ­chlorphénamine Phytothérapeutiques	Millepertuis
+T1	irrelevant 9882 10038;10039 10097	Drogues et psychostimulants	Cocaïne, diverses nouvelles substances psychoactives, MDMA (ecstasy)	Libération accrue de ­sérotonine à partir de la ­présynapse LSD, psilocybine	Agonisme des récepteurs sérotoninergiques
+T1	irrelevant 10098 10118;10119 10257	(Lisdex)amphétamine, méthylphénidate	Inhibition de la recapture de la sérotonine dans le ­neurone (présynaptique) et agonisme des récepteurs sérotoniner-giques
+T1	irrelevant 10258 10350;10351 10387	IMAO	Moclobémide	Inhibition de la monoamine oxydase > dégradation ­ré-duite de la sérotonine Antibiotiques	Linézolide, isoniazide
+T1	irrelevant 10388 10428;10429 10510	Antiparkinsoniens	Safinamide, rasagiline Acide aminé	L-tryptophane	Synthèse accrue de séroto-­nine à partir du tryptophane
+T1	irrelevant 10512 11444;11446 12978	Dans le cadre du diagnostic différentiel, outre les intoxications aux anticholinergiques (réflexes ostéo-tendineux normaux, pas de bruits intestinaux) et l’hyperthermie maligne liée à une anesthésie par inhalation, le syndrome malin des neuroleptiques entre avant tout en ligne de compte. Le syndrome malin des neuroleptiques se distingue principalement du syndrome sérotoninergique par un début plus lent s’étalant sur plusieurs jours (à la différence du syndrome sérotoninergique, qui se développe rapidement), des réflexes ostéo-tendineux diminués et une rigidité musculaire prononcée. A l’anamnèse, il n’y a pas de prise de substances sérotoninergiques, le syndrome malin des neuroleptiques étant déclenché par les antagonistes des récepteurs dopaminergiques [8]. Le syndrome malin des neuroleptiques régresse aussi plus lentement. Enfin, chez les patients avec encéphalites, des signes sérotoninergiques peuvent être retrouvés.  La première étape dans le traitement du syndrome sérotoninergique consiste à arrêter tous les médicaments qui peuvent en être responsables. Une surveillance étroite, une substitution volémique et l’administration de benzodiazépines pour traiter l’agitation et les myoclonies sont recommandées. Les patients avec des formes sévères ­particulières pourraient en outre profiter de l’adminis­tration d’antagonistes sérotoninergiques. La cyproheptadine, exclusivement sous forme orale, n’est plus commercialisée en Suisse. Des neuroleptiques atypiques ayant une activité antagoniste des récepteurs de la 5-hydroxytryptamine 2A ont été utilisés avec succès, notamment l’olanzapine 10 mg par voie sublinguale. Des preuves issues d’études cliniques font néanmoins défaut, et des cas de syndrome sérotoninergique survenus sous traitement par olanzapine ont même été rapportés dans la littérature [9]. Face à des évolutions sévères avec hyperthermie prononcée et agitation, il convient d’envisager précocement une sédation par benzodiazépines y compris relaxation musculaire par myorelaxant non dépolarisant, suivie d’une intubation avec ventilation mécanique. Dans la mesure où certains antidépresseurs, en particulier le citalopram, peuvent entraîner un allongement de l’intervalle QT, des ECG répétés sont nécessaires, par exemple toutes les huit heures, jusqu’à la normalisation du QT. L’administration de sulfate de magnésium (2 g i.v.) est recommandée en cas d’allongement du QTc supérieur à 560 ms ou de survenue de torsades de pointe.
+T1	irrelevant 12980 13008;13010 13138	L’essentiel pour la pratique  • Le syndrome sérotoninergique est une réaction médicamenteuse indésirable souvent sous-diagnostiquée et potentiellement fatale.
+T1	irrelevant 13140 13418;13420 13820	• Sur le plan clinique, il se caractérise avant tout par la triade symptomatique associant hyperactivité du système nerveux autonome, altérations qualitatives de la conscience et troubles neuromusculaires. La fièvre, l’hyperréflexie, les myoclonies et l’agitation sont typiques.  • Sur le plan thérapeutique, l’arrêt de tous les médicaments sérotoninergiques est une priorité absolue; la prise en charge comprend également une surveillance étroite, y compris ECG à douze dérivations, une substitution volémique et l’administration de benzodiazépines. Dans les cas ­sévères, une relaxation musculaire par agent non dépolarisant et une ventilation mécanique sont en outre indiquées.
+T2	drugs 64 82	 Cipralex® à 20 mg
+T3	drugs 84 102	2 g d’escitalopram
+T4	risk 116 123	héroïne
+T5	risk 130 137	cocaïne
+T6	drugs 337 346	méthadone
+T7	procedure 403 428	traitement psychiatrique 
+T8	disorder 452 469	trouble dépressif
+T9	disorder 476 512	trouble de la personnalité schizoïde
+T10	disorder 521 540	syndrome d’Asperger
+T11	procedure 558 579	traitement d’entretie
+T12	drugs 585 593	Fluanxol
+T13	disorder 648 666	multiples coupures
+T14	procedure 684 709	traitées chirurgicalement
+T15	disorder 722 732	tachycarde
+T16	procedure 734 739	pouls
+T17	labvalue 740 747	121/min
+T18	procedure 763 782	pression artérielle
+T19	labvalue 783 795	122/63 mm Hg
+T20	procedure 822 849	saturation en oxygène (SpO2
+T21	labvalue 854 872	95% en air ambiant
+T22	disorder 919 930	 exophtalmi
+T23	procedure 876 905	examen interniste-neurologiqu
+T24	disorder 938 962	asciculations périorales
+T25	disorder 968 991	pupilles intermédiaires
+T26	disorder 999 1014	nette agitation
+T27	drugs 1115 1127	escitalopram
+T28	procedure 1198 1210	surveillance
+T29	procedure 1456 1482	électrocardiogramme (ECG) 
+T30	procedure 1556 1568	surveillance
+T31	disorder 1601 1613	 suicidaire 
+T32	disorder 1616 1622	agitée
+T33	procedure 1837 1865	 a été transférée en urgence
+T34	disorder 1957 1982	syndrome sérotoninergique
+T35	disorder 2005 2015	myoclonies
+T36	disorder 2088 2103	fuite urinaire 
+T37	disorder 2110 2130	morsure de la langue
+T38	disorder 2327 2348	 état général diminué
+T39	procedure 2395 2414	pression artérielle
+T40	labvalue 2415 2427	119/76 mm Hg
+T41	procedure 2429 2434	pouls
+T42	labvalue 2435 2441	78/min
+T43	procedure 2452 2457	 SpO2
+T44	labvalue 2461 2480	96% en air ambiant 
+T45	procedure 2487 2498	température
+T46	labvalue 2502 2509	38,1 °C
+T47	disorder 2537 2548	désorientée
+T48	disorder 2552 2558	agitée
+T49	procedure 2562 2581	examen neurologique
+T50	procedure 2815 2846	examen cardiaque et pulmonaire 
+T51	disorder 2914 2938	coupures superficielles 
+T52	disorder 3045 3076	cicatrices d’anciennes coupures
+T53	procedure 3083 3106	analyses de laboratoire
+T54	procedure 3139 3149	myoglobine
+T55	labvalue 3153 3164	26 360 µg/l
+T56	procedure 3184 3201	créatinine kinase
+T57	labvalue 3202 3211	augmentée
+T58	labvalue 3214 3222	 276 U/l
+T59	labvalue 3128 3135	 accrue
+T60	procedure 3251 3272	transaminases élevées
+T61	labvalue 3274 3286	ASAT 770 U/l
+T62	procedure 3301 3307	 ALAT 
+T63	labvalue 3307 3314	143 U/l
+T64	procedure 3330 3363	analyse toxicologique des urines 
+T65	labvalue 3369 3377	positive
+T66	procedure 3477 3494	créatinine kinase
+T67	labvalue 3547 3559	115 430 U/l.
+T68	procedure 3571 3593	hydratation intensive 
+T69	procedure 3809 3820	 créatinine
+T70	labvalue 3824 3834	94 µmol/l 
+T71	procedure 3893 3939	débit de filtration glomérulaire estimé (DFGe)
+T72	labvalue 3951 3961	112 ml/min
+T73	labvalue 3964 3973	69 ml/min
+T74	procedure 3984 3994	traitement
+T75	drugs 3999 4014	benzodiazépines

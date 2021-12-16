@@ -1,0 +1,34 @@
+T1	irrelevant 10 1145	Avec une incidence de 11/100 000, la méningite aseptique induite par les médicaments («drug induced aseptic meningitis» [DIAM]) constitue un diagnostic différentiel rare mais essentiel des méningites aseptiques [1]. Le diagnostic de la DIAM est établi lorsqu’une prise de médicaments entraîne le développement de symptômes cliniques d’une méningite et/ou d’une encéphalite, en présence d’une inflammation du liquid cérébro-spinal (LCS), lorsqu’aucun agent pathogène ­déclencheur ne peut être mis en évidence et en cas de survenue d’une régression des symptômes après arrêt de l’agent déclencheur [1, 2]. Contrairement à une ­méningite virale, les symptômes d’une DIAM disparaissent rapidement – généralement dans un délai de 24–48 heures [1]. Plusieurs épisodes en cas de réexposition au même médicament corroborent le diagnostic d’une DIAM [1]. Les déclencheurs typiques d’une DIAM sont les anti-inflammatoires non stéroïdiens (AINS), en particulier l’ibuprofène [2], les antibiotiques triméthoprime/sulfaméthoxazole et les immunoglobulines intraveineuses. De nombreux autres médicaments sont décrits comme déclencheurs possibles [3].
+T2	irrelevant 1147 1887	Le tableau clinique présente des symptômes d’une ­méningite (fièvre, céphalées, méningisme, photophobie, sensibilité au bruit, nausées, vomissements) [1, 2]. Par ailleurs, une contagion des méninges vers le cerveau peut entraîner des symptômes d’une encéphalite (crises, troubles de la conscience, symptômes neurologiques focaux) [1]. Le LCS présente typiquement une pléiocytose allant jusqu’à plusieurs centaines de cellules par microlitre, avec prédominance des granulocytes neutrophiles ou lymphocytes [4], des plasmocytes et granulocytes ­éosinophiles pouvant également être mis en évidence [3, 4]. Le taux de glucose est normal, celui de protéines variablement accru [5]. Par définition, la recherche d’un agent pathogène est négative.
+T3	irrelevant 1889 2029;2031 2045;2046 2054	Nous décrivons le cas d’une DIAM causée par l’administration d’amoxicilline/acide clavulanique – un traitement antibiotique souvent employé.  Rapport de cas Anamnèse
+T4	procedure 2074 2128	implantation d’une prothèse totale de la hanche droite
+T5	procedure 2172 2195	remplacement de la tige
+T6	disorder 2227 2249	descellement aseptique
+T7	drugs 2271 2310	 traitement prophylactique antibiotique
+T8	drugs 2336 2367	amoxicilline/acide clavulanique
+T9	procedure 2558 2567	opération
+T10	disorder 2584 2607	 état aigu de confusion
+T11	disorder 2613 2622	céphalées
+T12	disorder 2624 2630	fièvre
+T13	disorder 2632 2639	nausées
+T14	disorder 2642 2654	vomissements
+T15	disorder 2676 2699	 incontinence ­urinaire
+T16	disorder 2912 2943	 (méningo-)encéphalites virales
+T17	disorder 3006 3030	trouble primaire de tics
+T18	disorder 3036 3056	tics moteurs simples
+T19	disorder 3070 3104	hyperplasie bénigne de la prostate
+T20	disorder 3263 3282	état général réduit
+T21	labvalue 3301 3313	105/77 mm Hg
+T22	procedure 3330 3349	fréquence cardiaque
+T23	labvalue 3350 3356	94/min
+T24	procedure 3366 3374	 fièvre 
+T25	labvalue 3391 3398	39,4 °C
+T26	procedure 3403 3431	examen clinique neurologique
+T27	disorder 3444 3470	 désorientation temporelle
+T28	disorder 3483 3501	trouble du langage
+T29	disorder 3561 3572	paraphasies
+T30	disorder 3605 3615	méningisme
+T31	disorder 3668 3672	tics
+T32	disorder 3674 3713	spasme hémifacial intermittent à droite
+T33	disorder 3722 3736	ptôse à gauche
+T34	disorder 3837 3853	parésie centrale

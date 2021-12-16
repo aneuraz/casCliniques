@@ -1,0 +1,43 @@
+T1	profession 50 81	étudiante en thèse en pharmacie
+T2	profession 95 111	médecin traitant
+T3	disorder 128 149	douleurs thoraciques 
+T4	disorder 154 176	sensation d’oppression
+T5	disorder 180 197	gêne respiratoire
+T6	profession 201 209	 médecin
+T7	procedure 229 255	hospitalisation immédiate,
+T8	disorder 401 422	oppression thoracique
+T9	disorder 427 454	 impossibilité de se remuer
+T10	disorder 461 509	tenir sur ses membres inférieurs ou de se remuer
+T11	disorder 530 570	douleurs pour se retourner ou se tourner
+T12	procedure 572 576	ECG 
+T13	disorder 579 611	 normal à part une transition V5
+T14	profession 759 777	médecin urgentiste
+T15	disorder 850 902	malaise en position debout avec chute sur les fesses
+T16	disorder 905 912	ans PCI
+T17	risk 921 927	anémie
+T18	risk 937 960	contraception par Diane
+T19	drugs 984 992	VERATRAN
+T20	disorder 1070 1081	TA : 107/68
+T21	disorder 1083 1095	pouls 52/min
+T22	disorder 1097 1115	Saturation à 100 %
+T23	procedure 1119 1122	ECG
+T24	disorder 1130 1144	rythme sinusal
+T25	procedure 1148 1171	auscultation pulmonaire
+T26	procedure 1173 1182	cardiaque
+T27	procedure 1186 1204	examen des mollets
+T28	disorder 1210 1218	normaux 
+T29	profession 1293 1303	urgentiste
+T30	procedure 1316 1333	examen biologique
+T31	procedure 1356 1374	taux des D Dimères
+T32	disorder 1541 1555	carence en fer
+T33	disorder 1571 1588	anémie hypochrome
+T34	labvalue 1595 1616	bilan ferrique limite
+T35	disorder 1813 1820	malaise
+T36	disorder 1894 1903	 malaises
+T37	profession 1931 1950	médecin généraliste
+T38	profession 2037 2044	médecin
+T39	disorder 2068 2077	détresse 
+T40	disorder 2093 2112	 arrêt circulatoire
+T41	procedure 2255 2279	manœuvres de réanimation
+T42	disorder 2524 2554	embolies pulmonaires multiples
+T43	irrelevant 2556 2797;2798 3045;3047 3119;3121 3179;3180 3576;3578 3631;3633 3719;3720 3834;3835 4136;4137 4365;4366 4573;4574 4675;4677 4815	sans caillot dans les artères pulmonaires, ce qui s’expliquerait par la fragmentation lors du massage cardiaque ; en anatomie pathologique, atteintes récentes et anciennes faisant évoquer un possible trouble constitutionnel de coagulation ». L'enquête révèlera que les résultats demandés mais non consultés par l’urgentiste le jeudi avaient confirmé la suspicion du médecin généraliste, à savoir que le taux de D Dimères était très élevé (4262 ng/ml) soit huit fois supérieur à la normale.  Une triple procédure, administrative, ordinale et pénale est diligentée.  Le dossier est saisi, sans que le médecin en ait la copie. Dans un de ses mémoires devant le Conseil National de l’Ordre, suite à l’appel de la décision par le médecin, la famille écrit : « je ne peux que ressentir particulièrement durement l’exercice de ce recours qui est une nouvelle fois le signe du comportement de ce praticien qui est à l’origine, pour moi et ma fille survivante, de tant de peines et qui cherche ainsi à fuir ses responsabilités ».  Le médecin des urgences fera valoir pour sa défense :  que le système informatisé de biologie, qui fonctionnait à l’époque était particulier, que les résultats provisoires, sortis sur écran avec une visualisation peu lisible, étaient collectés par les IDE, que la mise en page des feuilles provisoires de résultats était à la fois « inadéquate et aléatoire, et qu’elle entrainait, depuis le début de la mise en place de ce système, l’édition de très nombreuses feuilles portant parfois sur un seul résultat et d’autres simplement sur des lignes de tableaux » que si un résultat n’était pas confirmé, il était noté « en cours », et qu’il allait, soit dans le dossier du patient, soit était récupéré par le service d’hospitalisation, soit était collecté par le secrétariat en cas de sortie que les résultats provisoires étaient détruits le lendemain et que les résultats définitifs, récupérés auprès du laboratoire étaient intégrés dans le dossier et archivés : ce sont les seuls qui apparaissent. que ce jour-là, ce résultat était isolé une feuille, la dernière et n’a donc pas été ni édité ni vu ;  Tous les praticiens ont critiqué ce système, en place depuis au moins 7 ans et lui aussi, lors de sa prise de fonction de chef de service.

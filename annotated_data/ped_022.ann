@@ -1,0 +1,98 @@
+T1	disorder 61 76	rhinopharyngite
+T2	disorder 86 120	rhinite mucopurulente postérieure 
+T3	disorder 127 159	tympans qui paraissent infiltrés
+T4	disorder 234 240	fièvre
+T5	disorder 349 362	hépatomégalie
+T6	disorder 380 401	pôle de rate palpable
+T7	procedure 495 498	ASP
+T8	disorder 500 513	Hépatomégalie
+T9	disorder 517 530	splénomégalie
+T10	procedure 553 576	Radiographie pulmonaire
+T11	procedure 607 629	 Échographie hépatique
+T12	disorder 632 670	hépatomégalie hétérogène hyperéchogène
+T13	procedure 739 742	NFS
+T14	procedure 767 769	GR
+T15	procedure 800 802	GB
+T16	procedure 836 846	Plaquettes
+T17	procedure 863 871	Glycémie
+T18	procedure 887 897	Ionogramme
+T19	procedure 919 921	Na
+T20	procedure 930 931	K
+T21	procedure 940 952	bicarbonates
+T22	procedure 960 962	Ca
+T23	procedure 972 976	urée
+T24	procedure 985 993	Protides
+T25	procedure 1005 1015	Créatinine
+T26	procedure 1030 1040	Bilirubine
+T27	procedure 747 749	Hb
+T28	labvalue 752 764	8,6 g/100 ml
+T29	labvalue 772 797	2 950 000/mm3 (VGM 88 µ3)
+T30	labvalue 806 833	 800/mm3 (dont 81 % de PNN)
+T31	labvalue 849 860	191 000/mm3
+T32	labvalue 873 885	 5,9 mmol/l 
+T33	labvalue 923 928	 140 
+T34	labvalue 934 937	5,0
+T35	labvalue 955 957	22
+T36	labvalue 965 970	2,25 
+T37	labvalue 978 982	 4,1
+T38	labvalue 996 1002	62 g/l
+T39	labvalue 1018 1028	34 µmol/l 
+T40	labvalue 1043 1051	4 µmol/l
+T41	disorder 1218 1234	 ictère néonatal
+T42	disorder 1370 1389	 ictère gravidique 
+T43	disorder 1394 1400	prurit
+T44	disorder 1452 1465	hépatomégalie
+T45	procedure 1689 1721	 temps de recoloration inférieur
+T46	procedure 1791 1814	auscultation pulmonaire
+T47	disorder 1867 1880	hépatomégalie
+T48	disorder 1998 2011	splénomégalie
+T49	disorder 2157 2174	candidose buccale
+T50	procedure 2225 2248	échographie abdominale 
+T51	irrelevant 2258 2354	Quelle est votre démarche diagnostique et quels examens complémentaires demander pour l'étayer ?
+T52	disorder 2416 2429	hépatomégalie
+T53	disorder 2472 2495	hépatomégalie tumorale 
+T54	disorder 2562 2580	syndrome de Pepper
+T55	disorder 2604 2617	neuroblastome
+T56	irrelevant 2620 2763	mais la consistance du foie, la présence d’une splénomégalie, et… paradoxalement, la perturbation du bilan hépatique ne vont pas dans ce sens. 
+T57	irrelevant 2763 2918	L’échographie n’apporte pas d’éléments suffisamment fiables dans ce contexte pour éliminer formellement une tumeur surrénalienne parfois déjà disparue ; la
+T58	procedure 2952 2977	catécholamines urinaires 
+T59	labvalue 3014 3021	normaux
+T60	irrelevant 3025 3180	 un hépatoblastome, de croissance plus lente ; mais l’aspect échographique (absence de tumeur individualisée, absence d’amputation du système porte) et le 
+T61	procedure 3199 3218	’alpha fœtoprotéine
+T62	labvalue 3244 3253	55 ng/ml 
+T63	procedure 3312 3315	TDM
+T64	disorder 3343 3367	hépatomégalie hétérogène
+T65	procedure 3642 3660	TDM avec injection
+T66	procedure 3551 3569	TDM sans injection
+T67	disorder 3860 3875	ictère prolongé
+T68	irrelevant 3877 4130	ui, chez cet enfant né et en absence de toute histoire d’hémolyse et d’allaitement maternel, devrait être probablement cholestatique ; encore eut-il fallu le préciser ! Rappelons une fois de plus la nécessité d’explorer et de « qualifier » tout ictère. 
+T69	disorder 4166 4179	hépatomégalie
+T70	procedure 4232 4245	transaminases
+T71	procedure 4252 4274	 enzymes de cholestase
+T72	irrelevant 4277 4701	peuvent faire évoquer : • une atrésie des voies biliaires ; mais à cet âge et sans ictère clinique, cela ne peut être retenu, et la présence d’une vésicule biliaire en échographie, sans lithiase ni dilatation des voies biliaires, élimine une lithiase ou un kyste du cholédoque ; • une mucoviscidose, malgré le dépistage systématique, qui cependant n’est pas exhaustif, car ne repérant que les mutations les plus fréquentes. 
+T73	procedure 4704 4720	test de la sueur
+T74	labvalue 4733 4742	12 mmol/l
+T75	procedure 4771 4797	 trypsine immuno-réactive 
+T76	labvalue 4798 4807	13,3 µg/l
+T77	irrelevant 4847 5173	un syndrome d’Alagille ; mais le poids de naissance est normal, il n’y a pas de dysmorphie faciale, pas de souffle cardiaque ni de vertèbre en aile de papillon sur la radiographie du thorax ; • une maladie de surcharge type Niemman-Pick ; mais la taille de la splénomégalie est en général bien supérieure à l’hépatomégalie ; •
+T78	procedure 5188 5208	alpha 1 antitrypsine
+T79	procedure 5216 5244	’électrophorèse des protéine
+T80	labvalue 5250 5257	normale
+T81	procedure 5262 5270	albumine
+T82	procedure 5291 5310	 alpha 1 globulines
+T83	procedure 5328 5348	 alpha 2 globulines 
+T84	procedure 5365 5381	gamma globulines
+T85	labvalue 5272 5282	 37,7 g/l 
+T86	labvalue 5313 5321	1,5 g/l 
+T87	labvalue 5350 5355	1 g/l
+T88	labvalue 5384 5391	3,3 g/l
+T89	irrelevant 5399 5688	 Avant d’envisager une exploration invasive (biopsie hépatique ou cholangiographie), n’y a-t-il pas une vérification à faire ? car le diagnostic est là ! Si l’électrophorèse des protides est normale dans son résultat brut, c’est le tracé électrophorétique… (qui n’est pas toujours adressé)
+T90	labvalue 5703 5718	 absence de pic
+T91	procedure 5719 5729	d’alpha-1 
+T92	procedure 5767 5787	alpha-1 antitrypsine
+T93	procedure 5789 5792	AAT
+T94	labvalue 5844 5852	0,54 g/l
+T95	labvalue 5903 5917	homozygotie ZZ
+T96	procedure 5945 5973	Électrophorèse des protides 
+T97	labvalue 5975 6009	absence de pic d’alpha 1 globuline
+T98	irrelevant 6011 8071	Commentaire L’alpha-1 antitrypsine (ATT), principale molécule inhibitrice des protéases (Pi) est une glycoprotéine codée par un gène situé sur le chromosome 14 présentant plusieurs allèles : normal (M), déficient (Z, S) ou absent (nul). La mutation Z (glu342lys) est portée par 4 % de la population et seul l’état homozygote (ZZ ou plus rarement nul-nul) ou de double hétérozygote (Z-nul) conduit à : – une cholestase néonatale transitoire dans 10 % des cas ; – une évolution vers la cirrhose chez 10 % de ces enfants, dont l’évolution faite de cholestase chronique, d’hypertension portale et d’insuffisance hépato-cellulaire mène à envisager une transplantation hépatique. • Chez l’enfant, le déficit en AAT se révèle principalement par une atteinte hépatique liée à l’accumulation intracellulaire dans le réticulum endoplasmique de cette molécule mutée, qui est identifiable en histologie sous forme de granulations PAS +. • La mutation de cette protéine est à l’origine d’une modification de sa configuration spatiale, dont le site actif se fixe alors préférentiellement non pas sur sa cible habituelle, une protéase, mais sur une autre molécule d’AAT ; cela conduit à une polymérisation et ainsi à son accumulation dans le réticulum endoplasmique, qui ne peut la dégrader. Le nouveau-né serait particulièrement exposé par l’altération de cette protéolyse cellulaire. Cette dernière peut être majorée à l’occasion d’une infection intercurrente par augmentation de la synthèse protéique hépatique, et de la fièvre qui augmenterait la polymérisation. D’autres facteurs interviennent peut-être car tous les porteurs du génotype ZZ ne font pas pour autant une maladie hépatique. • Chez l’adulte, le déficit plasmatique en AAT est à l’origine d’un défaut de la balance protéase-antiprotéase (l’AAT, est une anti-élastase, elle s’oppose aux élastases produites par les polynucléaires) ; il aboutit à la destruction des structures élastiques du poumon se traduisant par un emphysème souvent aggravé par des facteurs environnementaux (particulièrement le tabagisme)

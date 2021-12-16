@@ -1,0 +1,62 @@
+T1	profession 50 56	skieur
+T2	disorder 75 82	fatigué
+T3	profession 316 335	ingénieur commercia
+T4	disorder 381 389	surpoids
+T5	disorder 485 492	fatigue
+T6	disorder 612 617	vomit
+T7	disorder 622 629	glaires
+T8	disorder 644 648	pâle
+T9	disorder 681 688	malaise
+T10	disorder 714 735	oppression thoracique
+T11	disorder 747 765	douleur thoracique
+T12	disorder 801 810	symptômes
+T13	disorder 823 833	s'inquiète
+T14	disorder 1077 1095	pathologie bénigne
+T15	profession 1143 1161	médecin régulateur
+T16	disorder 1440 1448	oppressé
+T17	disorder 1467 1472	vomir
+T18	disorder 1496 1501	vomir
+T19	profession 1647 1654	médecin
+T20	profession 1886 1893	médecin
+T21	procedure 1921 1929	L'examen
+T22	procedure 1966 1982	prise de tension
+T23	procedure 1994 2008	d'auscultation
+T24	procedure 2009 2018	cardiaque
+T25	procedure 2025 2034	rédaction
+T26	procedure 2053 2077	traitement symptomatique
+T27	disorder 2083 2097	gastroentérite
+T28	procedure 2116 2128	consultation
+T29	procedure 2178 2186	d'examen
+T30	profession 2203 2222	médecin généraliste
+T31	disorder 2241 2253	Vomissements
+T32	disorder 2280 2297	céphalées légères
+T33	disorder 2299 2307	asthénie
+T34	disorder 2309 2319	apyrétique
+T35	disorder 2328 2335	vertige
+T36	procedure 2385 2391	Examen
+T37	disorder 2410 2418	sensible
+T38	disorder 2433 2457	déficit sensitivo moteur
+T39	profession 2594 2601	médecin
+T40	procedure 2630 2640	traitement
+T41	disorder 2659 2683	gastroentérite débutante
+T42	drugs 2686 2695	Primpéran
+T43	drugs 2698 2707	Ercefuril
+T44	drugs 2710 2718	Debridat
+T45	drugs 2721 2727	Smecta
+T46	profession 2936 2961	préparatrice en pharmacie
+T47	drugs 2988 2996	Motilium
+T48	disorder 3145 3154	essoufflé
+T49	disorder 3165 3172	algique
+T50	disorder 3339 3347	inquiète
+T51	disorder 3562 3574	d'inquiétant
+T52	procedure 4006 4030	manœuvres de réanimation
+T53	profession 3929 3938	 pompiers
+T54	disorder 3967 3972	décès
+T55	profession 4064 4071	médecin
+T56	disorder 4099 4104	décès
+T57	disorder 4195 4204	symptômes
+T58	procedure 4253 4263	diagnostic
+T59	disorder 4265 4292	'infarctus aigu du myocarde
+T60	procedure 4309 4319	d'autopsie
+T61	procedure 4345 4366	homicide involontaire
+T62	procedure 4325 4339	plainte pénale

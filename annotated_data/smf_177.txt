@@ -1,0 +1,82 @@
+Contexte
+
+L’agénésie de la veine cave inférieure (VCI) est une anomalie congénitale très rare dont la prévalence est estimée à 0,0005–1% dans la population générale; elle se manifeste par une affection clinique fréquente, la thrombose veineuse profonde [1–2]. Outre une thrombose intra-utérine, il est admis qu’elle est en premier lieu causée par une dysgénésie embryonnaire [3]. Les caractéristiques de la maladie sont très homogènes et englobent une localisation proximale de la thrombose veineuse profonde, qui survient souvent suite à l’activité physique, principalement chez les jeunes adultes avant la quatrième décennie de vie.
+
+Le diagnostic d’agénésie de la VCI peut être confirmé par tomodensitométrie (TDM) ou imagerie par résonance magnétique (IRM). La détection de la circulation collatérale peut également se faire par angiographie.
+
+Dans le cadre de notre cas intéressant, nous souhaitons attirer l’attention sur ce diagnostic différentiel très rare chez les patients jeunes. De par son symptôme principal fréquent, il revêt une pertinence clinique pour ce groupe de patients.
+
+Présentation du cas
+Anamnèse
+
+Une patiente de 28 ans s’est présentée au cabinet médical d’urgence en mars 2017 en raison de maux de dos dans la région lombaire basse et sacrée à droite, ainsi que dans l’aine droite. Il s’agissait du premier épisode douloureux de ce type. L’anamnèse n’a révélé ni effort physique accru ou traumatisme, ni fièvre, perte de poids ou sudation nocturne. La patiente a ­déclaré ne pas souffrir de douleurs thoraciques ou de dyspnée, avec une tolérance à l’effort et une mobilité normales. Elle était au demeurant en bonne santé et n’avait encore jamais été opérée ou hospitalisée. Le seul traitement médicamenteux de la patiente était une contraception hormonale par NuvaRing®.
+
+L’anamnèse familiale était négative pour des cancers, des troubles de la coagulation, des avortements spontanés, des maladies auto-immunes ou des affections cardiovasculaires. L’examen physique a montré une hypotension limite avec des valeurs de 100/50 mm Hg à droite et de 105/50 mm Hg à gauche, une fréquence cardiaque normale de 70/min, une température subfébrile de 37,5°C, une saturation en oxygène (SO2) normale de 99% en air ambiant et une eupnée (fréquence respiratoire de 16/min). Les bruits cardiaques et respiratoires étaient normaux. L’abdomen était souple et indolore, aucune hernie inguinale n’était palpable, et la patiente ne présentait pas de douleur à la percussion au niveau de la colonne vertébrale, mais une légère douleur à la pression au niveau de l’articulation sacro-iliaque. Force et sensibilité normales de l’extrémité inférieure et de l’extrémité supérieure (M5), et réflexes ostéo-tendineux symétriques. Les pouls pédieux de l’artère dorsale du pied et de l’artère tibiale postérieure étaient symétriques et bien palpables.
+
+Visuellement, une différence de circonférence des jambes a été observée et elle a été objectivée par une différence mesurée de 3 cm au niveau de la cuisse et de 3 cm au niveau du bas de la jambe.
+
+Résultats
+Analyses de laboratoire
+
+Les analyses de laboratoire ont révélé une neutrophilie discrète (82%) à l’hémogramme, ainsi qu’une protéine C réactive (CRP) élevée (60 mg/l). La créatinine et les électrolytes étaient normaux. L’analyse de la coagu­lation a montré une nette élévation des D-dimères (>10 000 ng/ml), ainsi qu’un temps de céphaline activée (TCA) augmenté (70 sec), avec un INR normal (1,0).
+
+Echographie duplex
+
+En raison de la nette différence de circonférence des jambes et des D-dimères positifs, une échographie a été réalisée afin d’exclure une thrombose veineuse profonde. L’échographie duplex n’a montré de flux ni dans la veine iliaque des deux côtés, ni dans la VCI. Une angio-TDM a dès lors été réalisée afin de compléter le diagnostic. Une héparinisation thérapeutique a été ­initiée à ce moment-là.
+
+Tomodensitométrie
+
+La TDM a révélé une agénésie de la VCI, avec des circu­lations collatérales étendues au niveau des vaisseaux lombaires (fig. 1). Une thrombose des vaisseaux iliaques n’a pas pu être évaluée avec certitude en raison du manque de contraste.
+
+Figure 1: Tomodensitométrie avec produit de contraste;A ) ­Visualisation des veines azygos droite et hémi-azygos gauche dilatées à hauteur du foie (flèches bleues);B ) ­Marquage des veines lombaires ascendantes dilatées.
+
+Phlébographie invasive
+
+La phlébographie invasive a confirmé l’agénésie de la VCI et en plus la thrombose des veines iliaques communes (fig. 2).
+
+Figure 2: Phlébographie de l’axe pelvien droit avec visualisation des veines lombaires ascendantes droites dilatées;A ) Veine iliaque commune droite,B ) Veine lombaire ascendante droite,C ) Veine iliaque commune gauche.
+
+Traitement
+
+Au vu des résultats disponibles, nous avons initié une anticoagulation thérapeutique par héparine de haut poids moléculaire. En raison de l’échec du traitement avec progression de la douleur et élévation de la température à 38,1 °C, une phlébographie invasive avec lyse et thrombectomie a été réalisée à l’hôpital cantonal de Winterthour quatre jours après la pose du diagnostic.
+
+La phlébographie interventionnelle a confirmé l’agénésie de la VCI avec collatérales étendues (fig. 2), ainsi que la thrombose complète des deux veines iliaques. Par conséquent, nous avons procédé à une thrombectomie mécanique, suivie d’une lyse intraveineuse locale fractionnée avec au total 400 000 unités d’urokinase administrées via deux cathéters de lyse dans les veines iliaques communes des deux côtés.
+
+La phlébographie consécutive a montré une régression complète de tous les thrombi avec une accélération considérable du flux des veines iliaques et ilio-lombaires en tant que signe de la recanalisation.
+
+Evolution
+
+Le jour suivant la lyse et la thrombectomie, la patiente a pu quitter l’hôpital avec une poursuite de la prise en charge en ambulatoire, son traitement consistant en une anticoagulation thérapeutique par 30 mg de rivaroxaban pour trois semaines, suivie d’une réduction standard à 20 mg/j.
+
+Les premiers contrôles angiologiques non-invasifs 3 semaines plus tard, ainsi qu’après 3, 6 et 12 mois, ont montré un système veineux des jambes et du bassin totalement ouvert à l’échographie duplex, sans signe de destruction des valvules veineuses des deux côtés.
+
+L’anticoagulation thérapeutique par 20 mg de rivaroxaban a été poursuivie durant un an, puis réduite à une dose prophylactique. Une prophylaxie médicamenteuse des thromboses a été planifiée à vie [3].
+
+Discussion
+
+Fait intéressant, les rares cas publiés ont toujours été diagnostiqués en raison d’une thrombose veineuse profonde. Il en résulte une prévalence non insignifiante de 5% chez les patients âgés de moins de 30 ans, ce qui revêt dès lors une importance épidémiologique considérable [1–3, 5]. L’absence de facteurs de risque classiques, tels que le tabagisme et la prise de contraceptifs, et une anamnèse négative concernant des opérations préalables peuvent constituer de premiers indices quant au diagnostic correct.
+
+L’échographie classique peut parfois se révéler faussement négative, car l’agénésie de la VCI ne peut pas être détectée par compression en mode B. Ainsi, la TDM est l’examen de référence pour confirmer le diagnostic [5] (tab. 1).
+
+Tableau 1: Critères d’imagerie pour le diagnostic d’une agénésie de la veine cave inférieure; comparaison spécifique de la tomodensitométrie et de l’angiographie.
+Critère diagnostique	Tomodensitométrie	Phlébographie
+Absence de veine cave inférieure	x	x
+Connexion avec le système azygos	 	x
+Circulation collatérale veineuse:	 	 
+ 	– Paravertébrale	x	x
+ 	– Veines lombaires ascendantes	x	x
+ 	– Système azygos/hémi-azygos	x	x
+ 	– Rétropéritonéale	–	–
+ 	– Paroi abdominale	–	–
+ 	– Système porte	x	x
+ 	– Plexus veineux hémorroïdaire	–	–
+
+Le traitement des patients s’avère complexe par rapport à celui de la thrombose veineuse profonde conventionnelle. La prise continue d’antagonistes de la vitamine K ou de préparations plus récentes devrait être envisagée en tenant compte des facteurs de risque [4]. Malgré le traitement initialement conservateur, la nécessité d’une intervention, consistant en une thrombectomie ou une lyse locale, devrait être considérée en cas de persistance des symptômes [5].
+
+L’essentiel pour la pratique
+
+• L’identification correcte du groupe de patients et l’exclusion des facteurs de risque classiques de thrombose veineuse profonde sont essentielles pour la pose du diagnostic correct.
+
+• Anamnèse: pas d’opérations préalables, pas d’immobilisation et pas d’autres facteurs de risque.
+
+• Penser au traitement: pas d’interruption complète de l’anticoagulation après six mois, bas de contention.

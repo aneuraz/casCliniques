@@ -1,0 +1,20 @@
+T1	disorder 88 110	mobilité de la dent 63
+T2	disorder 224 243	agénésie de la dent
+T3	disorder 402 426	résorption de la racine 
+T4	disorder 529 539	édentement
+T5	procedure 585 601	poser un implant
+T6	procedure 724 749	traitement orthodontique 
+T7	procedure 752 783	avançant l’hémiarcade concernée
+T8	procedure 808 833	traitement orthodontique 
+T9	procedure 848 866	pose d’un implant 
+T10	profession 930 943	orthodontiste
+T11	procedure 1013 1038	 traitement orthodontique
+T12	procedure 1079 1117	simulation du traitement par aligneurs
+T13	procedure 1274 1304	extraction de la dent de lait 
+T14	procedure 1353 1399	dent artificielle incluse dans les gouttières 
+T15	profession 1777 1790	orthodontiste
+T16	profession 1592 1605	orthodontiste
+T17	profession 1569 1577	dentiste
+T18	profession 1629 1637	dentiste
+T19	procedure 1960 1985	 traitement orthodontique
+T20	profession 2008 2021	orthodontiste

@@ -1,0 +1,36 @@
+T1	disorder 102 129	hyperparathyroïdie primaire
+T2	disorder 135 170	adénomes de la glande parathyroïde 
+T3	disorder 687 715	adénome parathyroïdien géant
+T4	disorder 846 870	carcinome parathyroïdien
+T5	procedure 1372 1405	imagerie par résonance magnétique
+T6	procedure 1407 1410	IRM
+T7	labvalue 1566 1589	hypercalcémie prononcée
+T8	labvalue 1592 1629	alcium à 4,38 mmol/l (norme: 2,1–2,6)
+T9	procedure 1635 1658	réhydratation intensive
+T10	drugs 1790 1808	acide zolédronique
+T11	procedure 1766 1809	administration unique d’acide zolédronique 
+T12	labvalue 1858 1904	valeur de calcium sérique était de 2,65 mmol/l
+T13	labvalue 1910 1979	augmentation massive de la parathormone (165 pmol/l, norme: 1,6–6,9) 
+T14	labvalue 2053 2102	25-hydroxy-vitamine-D à 34 nmol/l (norme: 50–140)
+T15	labvalue 2104 2157	1,25 dihydroxy-vitamine-D à 99 pmol/l (norme: 42–211)
+T16	labvalue 2013 2040	oncentration de vitamine D 
+T17	procedure 2163 2226	supplémentation avec 150 000 UI de vitamine D3-cholécalciferol 
+T18	procedure 2249 2268	échographie du cou 
+T19	labvalue 2309 2418	Deux nodules thyroïdiens de 1,1 et 0,9 cm de diamètre ont été trouvés dans le lobe thyroïdien droit (7,5 cm3)
+T20	labvalue 2555 2655	masse hypoéchogène de 2,9 × 4,8 × 6,1 cm était visible sur la face dorsale du lobe thyroïdien gauche
+T21	procedure 2661 2687	scintigraphie thyroïdienne
+T22	procedure 2883 2914	scintigraphie parathyroïdienne 
+T23	procedure 3023 3044	ponction à l’aiguille
+T24	disorder 3101 3162	hyperparathyroïdie primaire avec adénome parathyroïdien géant
+T25	procedure 3431 3451	 incision de Kocher 
+T26	procedure 3455 3466	 base du co
+T27	procedure 3432 3467	incision de Kocher à la base du cou
+T28	procedure 3432 3467	incision de Kocher à la base du cou
+T29	procedure 3639 3746	résection en bloc du lobe thyroïdien gauche et de la glande parathyroïdienne de volume massivement augmenté
+T30	labvalue 3952 4042	valeur intra-­opératoire de la parathormone avant l’incision cutanée était de 131,7 pmol/l
+T31	procedure 4481 4521	surveillance en unité de soins intensifs
+T32	disorder 4481 4521	surveillance en unité de soins intensifs
+T33	disorder 5142 5171	adénome parathyroïdien bénin 
+T34	disorder 5140 5172	d’adénome parathyroïdien bénin a
+T35	disorder 4913 4970	néoplasme de la glande parathyroïde solide et non cystiqu
+T36	disorder 4912 4971	 néoplasme de la glande parathyroïde solide et non cystique

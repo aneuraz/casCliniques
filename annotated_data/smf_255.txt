@@ -1,0 +1,44 @@
+Présentation du cas
+Anamnèse
+
+Un patient de 49 ans, connu pour une hypertension artérielle et une dyslipidémie non traitées, se présente aux urgences avec des douleurs thoraciques gauches oppressives non respiro-dépendantes d’apparition rapide persistant depuis 4 jours et augmentant en intensité de manière progressive. Les douleurs sont également exacerbées par les efforts. Une dyspnée de stade NYHA III et des nausées y sont associées. A noter ­qu’aucun traumatisme n’a précédé la symptomatologie douloureuse et qu’il s’agit d’un premier épisode. Par ailleurs, l’anamnèse familiale n’est pas contributive.
+
+Status
+
+Lors de l’admission, le patient est normocarde, hypertendu à 190/110 mm Hg sans asymétrie tensionnelle au niveau des deux membres supérieurs, afébrile et sature normalement à l’air ambiant. L’examen clinique révèle une douleur basi-thoracique gauche, antérieurement et latéralement, reproductible à la palpation. Le reste du status est sans particularité, y compris l’auscultation cardio-pulmonaire.
+
+Résultats
+
+Le laboratoire révèle des troponines négatives, un NT-proBNP à 309 ng/l (norme: <300 ng/l) et des D-dimères à 1524 ng/ml (norme: <500 ng/ml). La radiographie du thorax et l’électrocardiogramme (ECG) sont sans particularité. Une échocardiographie trans-thoracique met en évidence un cœur hypertrophique sans autre anomalie décelable. Le CT-scan thoracique ne montre pas d’argument pour une embolie pulmonaire ou une dissection aortique. En revanche, nous objectivons une infiltration focale de la graisse épi-péricardique à l’angle cardio-­phrénique gauche avec un aspect de coussinet graisseux encapsulé associé à un épaississement du péricarde au contact, sans épanchement péricardique associé. Un ­léger épanchement pleural basal gauche est également objectivé. Cette image radiologique correspond à celle d’un infarctus de la graisse épi-péricardique (fig. 1 et 2).
+
+Figure 1: CT-scan thoracique (coupe axiale) injecté montrant une masse ovoïde encapsulée ne prenant pas le contraste (étoile). La masse contient de la graisse (–75 UH) et est localisée dans l’angle cardiophrénique gauche antérieur. Un épaississement du péricarde est visible en regard de la lésion. Un léger épanchement pleural basal gauche est objectivé (flèche). UH = unités de Hounsfield.
+
+Figure 2: Coupe sagittale du même CT-scan thoracique ­injecté. La masse ovoïde est de nouveau indiquée par l’étoile et l’épanchement pleural basal gauche par la flèche.
+
+Diagnostic, traitement et évolution
+
+Après l’exclusion d’un syndrome coronarien aigu et d’une embolie pulmonaire, le diagnostic d’infarctus de la graisse épi-péricardique est retenu. Un traitement antalgique de paracétamol et d’ibuprofène est introduit, ce qui permet une amélioration rapide de la symptomatologie douloureuse. Les douleurs sont maîtrisées et le patient quitte l’hôpital après 4 jours.
+
+Discussion
+
+Décrit pour la première fois en 1957, l’infarctus de la graisse épi-péricardique est une entité rare et bénigne pouvant occasionner de fortes douleurs thoraciques par un processus inflammatoire local [1]. Cette atteinte est présente chez environ 2,6% des patients adressés aux ­urgences chez qui un CT-scan thoracique est effectué en raison de douleurs thoraciques [1]. Elle se présente, dans la plupart des cas, par une douleur thoracique gauche et peut être accompagnée de dyspnée, tachycardie et diaphorèse [2]. La symptomatologie douloureuse peut durer quelques jours et survenir sous forme d’épisodes intermittents [3]. L’étiologie exacte reste, à l’heure actuelle, toujours inconnue. Néanmoins, plusieurs hypothèses ont été postulées. Une torsion d’un pédicule graisseux qui causerait son ischémie pourrait être en cause. De ce fait, la présence d’un lipome, d’un hamartome ou d’une lipomatose ont été décrits comme des facteurs prédisposant à la torsion du pédicule [4]. Une manœuvre de Valsalva entrainant une hémorragie par augmentation de la pression capillaire dans le tissu adipeux a également été mentionnée comme hypothèse [3]. Enfin, le surpoids ou l’obésité pourraient être des facteurs de risque, par ­augmentation de la graisse épi-pericardique [5].
+
+La triade radio-clinique classique, fortement suggestive d’un infarctus de la graisse épi-péricardique, inclut une douleur thoracique aiguë, une lésion encapsulée dans la graisse épi-péricardique et un épaississement du péricarde [3]. Une effusion pleurale et/ou une atélectase pulmonaire peuvent être associées [1]. Bien que la radiographie thoracique puisse, parfois, objectiver la présence d’une opacité para-cardiaque, le CT-scan thoracique est l’examen de choix pour le diagnostic [3]. A l’échographie, examen de plus en plus utilisé dans un contexte d’évaluation aux urgences, des nodules hyper­échogènes dans la graisse épi-péricardique, entourés d’un halo hypoéchogène, peuvent être mis en évidence. De plus, une augmentation de l’échogénicité du tissu adipeux adjacent au nodule est souvent retrouvée [4]. Des changements électrocardiographiques non-spécifiques au sein des segments ST et des ondes T, suggérant une ischémie myocardique ou une péricardite en résolution peuvent être retrouvés à l’ECG [2]. Enfin, l’examen clinique seul est souvent peu contri­butif.
+
+Cette pathologie, certainement sous-diagnostiquée, est à évoquer chez tout patient présentant une douleur thoracique aiguë; cela après avoir écarté la présence d’un syndrome coronarien aigu, d’une péricardite ­aiguë, d’une dissection aortique, d’une embolie pulmonaire ou d’un pneumothorax.
+
+Le diagnostic différentiel comprend le lipome, le liposarcome, le tératome, le thymo-lipome, les kystes bronchogéniques ou péricardique, une adénopathie ou un abcès. Nous pouvons également mentionner une hernie hiatale avec de la graisse abdominale qui occupe l’espace cardio-phrénique et la médiastinite [4, 6].
+
+Il est important de reconnaitre radiologiquement cette entité clinique afin d’éviter, pour le patient, la réalisation d’examens plus invasifs inutiles, telle qu’une ­thoracoscopie exploratrice [1].
+
+Le traitement de cette pathologie est symptomatique avec des anti-inflammatoires non-stéroïdiens [1]. La résolution de la symptomatologie se fait habituellement en quelques semaines. A noter que l’infarctus graisseux ne prédispose pas à un infarctus myocardique. Un suivi clinique avec un CT-scan de contrôle dans les 2 mois suivant l’épisode sont recommandés par certains auteurs pour confirmer la guérison attendue [1]. Le but est d’exclure une pathologie tumorale évolutive.
+
+L’essentiel pour la pratique
+
+• L’infarctus de la graisse épi-péricardique est une cause rare et souvent sous-diagnostiquée de douleurs thoraciques aiguës.
+
+• Bien que plusieurs hypothèses aient été formulées, sa pathogénèse ​­exacte reste inconnue.
+
+• La reconnaissance par le médecin urgentiste et le radiologue de cette entité bénigne et autolimitée est importante afin d’éviter la réalisation d’examens ultérieurs, surtout s’ils sont invasifs.
+
+• Le traitement est conservateur et se base essentiellement sur la prescription de médicaments anti-inflammatoires non stéroïdiens.

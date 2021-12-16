@@ -1,0 +1,84 @@
+T1	procedure 155 166	césarienne 
+T2	disorder 179 206	défaut de dilatation du col
+T3	disorder 273 289	diabète maternel
+T4	irrelevant 208 272	Cette première grossesse avait été marquée par le dépistage d'un
+T5	irrelevant 290 433;434 481	bien équilibré par le régime et les glycémies seront normales lors de la surveillance de cette deuxième grossesse qui se déroule sans incident. Au cours de la dernière semaine de la grossesse
+T6	procedure 486 505	prélèvement vaginal
+T7	labvalue 519 555	nombreuses colonies de colibacilles 
+T8	labvalue 562 600	streptocoques hémolytiques du groupe B
+T9	drugs 676 685	Augmentin
+T10	irrelevant 602 675	résistants à un grand nombre d'antibiotiques. La patiente est traitée par
+T11	irrelevant 686 796	auquel est sensible le streptocoque mais pour lequel le colibacille n'éprouve qu'une sensibilité intermédiaire
+T12	irrelevant 800 854	Elle se présente à la clinique, à 40 semaines pour des
+T13	disorder 855 867	contractions
+T14	disorder 869 885	Le col est fermé
+T15	procedure 890 907	monitorage fœtal 
+T16	labvalue 911 917	normal
+T17	drugs 948 959	 Salbutamol
+T18	procedure 1034 1044	monitorage
+T19	labvalue 1049 1055	normal
+T20	disorder 1061 1086	contractions irrégulières
+T21	procedure 1151 1159	réadmise
+T22	disorder 1187 1200	contractions 
+T23	procedure 1221 1230	 examinée
+T24	irrelevant 14 51	Une femme de 30 ans est suivie par un
+T25	profession 52 65	obstétricien 
+T26	irrelevant 65 154	pour sa seconde grossesse. Elle a accouché 3 ans auparavant d'un enfant bien portant, par
+T27	profession 1244 1256	obstétricien
+T28	profession 1262 1273	 sage-femme
+T29	disorder 1279 1320	col initialement long et fermé se modifie
+T30	profession 1347 1355	médecin 
+T31	procedure 1355 1363	prescrit
+T32	drugs 1367 1393	Salbutamol intramusculaire
+T33	drugs 1400 1406	Valium
+T34	disorder 1419 1433	poche des eaux
+T35	disorder 1460 1487	liquide est d'emblée teinté
+T36	procedure 1529 1537	 injecté
+T37	drugs 1541 1567	Salbutamol intramusculaire
+T38	profession 1575 1585	sage-femme
+T39	procedure 1594 1624	 transfert en salle de travail
+T40	disorder 1642 1676	liquide devient franchement teinté
+T41	procedure 1683 1694	monitorage 
+T42	disorder 1705 1731	 ralentissements itératifs
+T43	profession 1739 1750	sage-femme 
+T44	irrelevant 1750 1820	ne juge pas suffisamment inquiétants pour prévenir le médecin de garde
+T45	disorder 1833 1854	col est dilaté à 3 cm
+T46	profession 1872 1882	sage-femme
+T47	profession 1927 1939	obstétricien
+T48	procedure 1960 1968	 examine
+T49	procedure 2021 2052	envisage un accouchement rapide
+T50	procedure 2088 2097	 prescrit
+T51	drugs 2102 2122	analgésie péridurale
+T52	procedure 2139 2148	injection
+T53	procedure 2172 2182	monitorage
+T54	disorder 2217 2238	ralentissements brefs
+T55	disorder 2244 2254	répétitifs
+T56	disorder 2276 2296	bradycardie à 80 bpm
+T57	disorder 2384 2402	tension maternelle
+T58	disorder 2435 2440	11/ 6
+T59	disorder 2493 2509	malaise maternel
+T60	procedure 2403 2408	prise
+T61	disorder 2517 2528	bradycardie
+T62	procedure 2568 2592	décubitus latéral gauche
+T63	profession 2607 2617	sage-femme
+T64	disorder 2638 2668	excès de contractions utérines
+T65	disorder 2685 2701	rythme cardiaque
+T66	disorder 2717 2734	fréquence normale
+T67	disorder 2752 2764	oscillations
+T68	disorder 2795 2823	ralentissements plus amples 
+T69	disorder 2826 2835	itératifs
+T70	profession 2845 2858	obstétricien 
+T71	procedure 2898 2921	extraction par ventouse
+T72	disorder 2946 2953	livide 
+T73	disorder 2961 2975	Apgar à 4/6/7 
+T74	disorder 2991 3012	détresse respiratoire
+T75	procedure 3026 3060	transfert en réanimation néonatale
+T76	profession 3079 3087	pédiatre
+T77	disorder 3128 3136	convulse
+T78	labvalue 3142 3191	colibacille est présent dans le liquide gastrique
+T79	irrelevant 3192 3305	mais le reste des examens (ponctions lombaires, hémocultures…) élimine une méningite associée ou une septicèmie. 
+T80	procedure 3308 3313	bilan
+T81	disorder 3346 3363	schémie néonatale
+T82	disorder 3373 3441	images cérébrales caractéristiques de leucomalacie périventriculaire
+T83	disorder 3465 3483	infirmité profonde
+T84	disorder 3489 3510	tétraplégie spastique

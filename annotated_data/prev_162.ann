@@ -1,0 +1,121 @@
+T1	profession 51 65	aide-soignante
+T2	profession 135 153	gastro-entérologue
+T3	disorder 215 253	crises douloureuses abdominales basses
+T4	disorder 300 330	troubles du transit intestinal
+T5	disorder 425 434	 diarrhée
+T6	disorder 440 472	hémorragies basses de sang rouge
+T7	disorder 492 498	polype
+T8	procedure 609 620	rectoscopie
+T9	procedure 693 708	 sigmoïdoscopie
+T10	procedure 723 774	désinvagination par poussée à l'aide de l'endoscope
+T11	procedure 837 855	scanner abdominal 
+T12	disorder 883 908	invagination sigmoïdienne
+T13	disorder 985 1002	masse tissulaire 
+T14	profession 1046 1065	 gastro-entérologue
+T15	procedure 1111 1137	intervention chirurgicale 
+T16	profession 1163 1183	chirurgien viscéral 
+T17	disorder 1492 1500	Douleurs
+T18	drugs 1581 1588	opiacés
+T19	disorder 1591 1603	Rectorragies
+T20	procedure 1697 1725	consultation préanesthésique
+T21	profession 1783 1793	chirurgien
+T22	procedure 1891 1919	 résection colosigmoïdienne 
+T23	procedure 1940 1948	Hartmann
+T24	procedure 1957 1977	 stomie de décharge 
+T25	procedure 2060 2071	cœlioscopie
+T26	procedure 2082 2115	remonter le boudin d'invagination
+T27	procedure 2123 2141	 fixer à la paroi 
+T28	procedure 2189 2199	coloscopie
+T29	procedure 2207 2224	évaluer la tumeur
+T30	procedure 2302 2313	coloscopie 
+T31	procedure 2329 2362	ablation de la tumeur sans stomie
+T32	procedure 2533 2562	Intervention sous cœlioscopie
+T33	procedure 2572 2606	Désinvagination par contrepulsion 
+T34	procedure 2615 2628	sigmoïdopexie
+T35	procedure 2645 2660	désinvagination
+T36	disorder 2753 2768	plaies séreuses
+T37	disorder 2784 2817	lésion tumorale du côlon sigmoïde
+T38	procedure 2819 2838	Drainage aspiratif 
+T39	profession 2874 2886	 chirurgien 
+T40	procedure 3000 3004	Colo
+T41	disorder 3077 3084	algique
+T42	drugs 3123 3135	 antalgiques
+T43	disorder 3166 3186	douleurs abdominales
+T44	procedure 3188 3191	EVA
+T45	labvalue 3193 3195	 7
+T46	drugs 3270 3276	Acupan
+T47	profession 3207 3219	anesthésiste
+T48	drugs 3313 3321	Profenid
+T49	procedure 3344 3347	PA 
+T50	labvalue 3367 3378	 90/50 mmHg
+T51	disorder 3432 3439	algique
+T52	procedure 3441 3444	EVA
+T53	labvalue 3445 3446	2
+T54	procedure 3498 3500	PA
+T55	labvalue 3503 3513	70/50 mmHg
+T56	procedure 3517 3519	FC
+T57	labvalue 3522 3529	107/min
+T58	procedure 3531 3538	diurèse
+T59	labvalue 3539 3545	450 ml
+T60	labvalue 3581 3587	36,5°C
+T61	procedure 3569 3580	Température
+T62	procedure 4036 4038	PA
+T63	labvalue 4039 4049	65/50 mmHg
+T64	procedure 4052 4054	FC
+T65	labvalue 4055 4062	105/min
+T66	procedure 4064 4072	diurèse 
+T67	labvalue 4072 4077	50 ml
+T68	drugs 4202 4214	Gélofuschine
+T69	drugs 4237 4244	Voluven
+T70	drugs 4273 4283	adrénaline
+T71	procedure 4301 4317	bilan biologique
+T72	procedure 4340 4350	leucocytes
+T73	labvalue 4353 4363	2 400 /mm3
+T74	procedure 4365 4368	CRP
+T75	labvalue 4371 4380	276 mg/ml
+T76	procedure 4393 4398	 PCT 
+T77	procedure 4399 4413	procalcitonine
+T78	labvalue 4417 4428	14,3 ng/ml 
+T79	procedure 4438 4449	créatinémie
+T80	labvalue 4452 4460	9,2 mg/l
+T81	disorder 4496 4508	hypotension 
+T82	labvalue 4510 4519	60/40 mmH
+T83	disorder 4527 4538	tachycardie
+T84	disorder 4561 4569	polypnée
+T85	procedure 4650 4666	bilan biologique
+T86	procedure 4707 4709	Hb
+T87	labvalue 4710 4718	9g/100ml
+T88	procedure 4720 4731	 leucocytes
+T89	labvalue 4733 4742	2 200/mm3
+T90	procedure 4744 4748	CRP 
+T91	labvalue 4749 4757	320 mg/l
+T92	procedure 4759 4762	PCT
+T93	labvalue 4765 4775	47,1 ng/ml
+T94	procedure 4777 4788	créatinémie
+T95	labvalue 4791 4800	17,2 mg/l
+T96	disorder 4832 4841	 Douleur 
+T97	disorder 4879 4912	syndrome inflammatoire biologique
+T98	disorder 4917 4934	gêne respiratoire
+T99	disorder 4969 4977	septique
+T100	procedure 5043 5061	Antibioprophylaxie
+T101	drugs 5066 5076	Tazociline
+T102	drugs 5081 5088	Amiklin
+T103	disorder 5104 5132	Péritonite sous- mésocolique
+T104	disorder 5153 5164	perforation
+T105	disorder 5240 5255	Lésion tumorale
+T106	procedure 5358 5375	Colectomie gauche
+T107	procedure 5091 5102	Laparotomie
+T108	procedure 5381 5399	colostomie iliaque
+T109	procedure 5403 5431	fermeture du moignon rectal 
+T110	disorder 5502 5510	anurique
+T111	procedure 5608 5619	hémodialyse
+T112	disorder 5715 5742	œdème pulmonaire lésionnel 
+T113	disorder 5696 5709	choc septique
+T114	disorder 5745 5770	insuffisance rénale aiguë
+T115	disorder 5814 5825	hémodialyse
+T116	procedure 5834 5859	Laparotomie exploratrice 
+T117	disorder 5872 5884	 perforation
+T118	disorder 5904 5932	souffrance viscérale diffuse
+T119	procedure 5934 5940	Lavage
+T120	procedure 5942 5954	prélèvements
+T121	disorder 5988 6024	décès par défaillance multiviscérale

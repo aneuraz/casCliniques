@@ -1,0 +1,78 @@
+Rapport de cas
+Anamnèse
+
+Un patient de 51 ans, sans antécédent médico-chirurgical, se présente aux urgences pour un gonflement abdominal, des œdèmes des membres inférieurs et un essoufflement en position couchée d’apparition progressive sur 3 à 4 semaines. Il n’a pas de traitement et boit au moins 1 litre de vin par jour.
+
+Statut
+
+Le patient est en mauvais état général, dénutri et pâle. On note des œdèmes des membres inférieurs, une hypoventilation et une matité aux bases pulmonaires, et un abdomen globuleux avec volumineuse splénomégalie. Un ultrason au lit du patient montre une grande quantité d’ascite, qui est rapidement ponctionnée.
+
+Examens biologiques et complémentaires
+
+Le bilan biologique révèle une bicytopénie avec leucopénie à 3,3 G/l due à une neutropénie à 1,16 G/l et thrombopénie à 121 G/l, une éosinophilie à 0,92 G/l et une perturbation des tests hépatiques (phosphatase alcaline 227 UI/l, gamma-GT 190 UI/l, bilirubine totale 24,1 μmol/l, bilirubine conjuguée 11,5 μmol/l, transaminases normales). L’alpha-foetoproteine (AFP) est à 3,2 µg/l. Un bilan infectieux large (CMV, EBV, HIV, syphilis, hépatite C, hépatite D, parasites) revient négatif ou montre des infections anciennes. Il n’y a pas de syndrome inflammatoire. Seuls les marqueurs pour une hépatite B active reviennent positifs (antigène HBs, anticorps anti-HBc totaux, anticorps antiHBe). La virémie HBV est à 851 UI/ml, soit 4953 copies/ml. Les bilans thyroïdiens et auto-immuns reviennent négatifs.
+
+Les analyses du liquide d’ascite montrent un gradient d’albumine de 19 g/l, parlant pour une hypertension portale (HTP). La numération cellulaire et les analyses microbiologiques et cyto-pathologiques ne montrent pas d’élément en faveur d’une péritonite bactérienne primaire ou d’une carcinose péritonéale.
+
+Figure 1: Radiographie de thorax de face: Silhouette ­cardiaque, médiastin et squelette dans les normes. Probable nodule para-hilaire droit d’environ 28 mm de diamètre (flèche). ­Epanchements pleuraux bilatéraux.
+
+La radiographie du thorax de face (fig. 1) montre des épanchements pleuraux bilatéraux et un possible nodule hilaire droit. Un CT thoraco-abdominal injecté ­révèle un foie à contours bosselés d’allure cirrhotique sans lésion focale ni thrombose veineuse portale ou sus-hépatique, une splénomégalie, des varices œsophagiennes et des adénopathies pré- et para-aortiques. Il précise la nature du nodule pulmonaire qui correspond à un foyer infectieux débutant (fig. 2).
+
+Figure 2: CT-scan thoraco-abdominal: Epanchements pleuraux bilatéraux avec atélectasie de contact associée. Foyer du segment antérieur du lobe supérieur droit (flèche).
+
+A ce stade nous retenons le diagnostic de probable cirrhose hépatique d’origine toxique (alcool) avec possible composante infectieuse (hépatite B chronique) pour laquelle seule une surveillance biologique est proposée initialement.
+
+Afin de préciser l’étiologie et la sévérité de l’inflammation hépatique, une ponction biopsie hépatique (PBF) transjugulaire est programmée. Malheureusement, après que son état clinique eût été stabilisé par la ponction d’ascite et par l’introduction d’un traitement diurétique, le patient quitte prématurément le service, contre avis médical. Il accepte un rendez-vous ambulatoire pour la PBF, qui a lieu 10 jours plus tard. Par la suite, il quitte la Suisse pour la France, sans suivi médical organisé et restera inatteignable.
+
+Les résultats de la PBF avec mesures du gradient de pression veineuse hépatique («hepatic venous pressure gradient»– [HVPG]) révèlent un gradient de 8 mm Hg traduisant une légère hypertension portale. Pour rappel, une HTP résulte en l’augmentation du gradient de pression entre la pression veineuse hépatique libre («free hepatic venous pressure», pression siégeant au niveau des veines sus-hépatiques) et la pression portale estimée par la mesure de la pression sinusoïdale bloquée («wedge hepatic venous pressure»). Ce gradient doit être inférieur à 5 mm Hg. Une HTP peut être classifiée en étiologies pré-sinusoïdale, sinusoïdale et post-sinusoïdale. Les prélèvements réalisés lors de la PBF sont de bonne qualité et permettent d’objectiver une hépatite active d’allure chronique avec présence de fibrose et de foyers inflammatoires à prédominance lymphocytaire compatibles avec une atteinte virale ou médicamenteuse (score de Métavir A3F2). L’examen histologique exclut par contre un remaniement cirrhotique. Il n’y a pas de signe pour une atteinte de type alcoolique et la coloration au rouge Congo revient négative.
+
+Les diagnostics retenus initialement sont donc infirmés par la PBF. Le virus de l’hépatite B pourrait parti­ciper à l’hépatopathie mais l’absence d’élévation des transaminases et la virémie basse ne suffisent pas à expliquer l’ensemble du tableau. Le degré minime d’hypertension portale pré-sinusoïdale ne semble pas non plus pouvoir expliquer une ascite si importante ni la splénomégalie massive.
+
+Evolution
+
+Le patient revient 6 mois plus tard pour une nouvelle décompensation ascitique avec anasarque et orthopnée sur épanchements pleuraux. Dix-huit litres d’ascite sont ponctionnés.
+
+La première hospitalisation avait permis d’exclure de nombreuses étiologies pouvant causer de l’ascite, mais son origine reste peu claire.
+
+Le bilan biologique est complété par une immunofixation des protéines qui montre une hypogammaglobulinémie polyclonale avec diminution des IgG à 5 g/l, des IgA à 0,76 g/l et des IgM à 0,28 g/l, alors que le dosage des chaînes légères libres révèle une légère augmentation des kappa libres à 40,5 mg/l avec un rapport kappa/lambda libres augmenté à 5,16, suggestif d’une monoclonalité kappa des lymphocytes B.
+
+Le CT thoraco-abdominal confirme des épanchements pleuraux, une ascite importante et une splénomé­galie majeure (25,7 cm de grand axe × 7,6 cm × 17,2 cm) (fig. 3).
+
+Figure 3: CT-scan thoraco-abdominal: Dysmorphisme et hétérogénéité hépatiques avec signes d’hypertension porte. Importante ascite. Splénomégalie majeure avec un grand axe estimé à 27,5 cm.
+
+Une échocardiographie trans-thoracique (ETT) permet d’exclure une péricardite constrictive. Des analyses du liquide d’ascite excluent une atteinte tuberculeuse par culture bactérienne et test au Quantiféron. Une analyse du liquide pleural ne montre pas de cellule suspecte de malignité et les critères de Light parlent pour un exsudat.
+
+Cette situation nous amène à explorer le diagnostic différentiel d’une splénomégalie massive avec ascite, sans cirrhose, en utilisant les termes «splenic lymphoma ascitis» dans le moteur de recherche Google. Une recherche avec des mots-clés similaires dans Pubmed s’était révélée infructueuse. Nous orientons alors notre démarche sur la recherche d’une pathologie hématologique, à localisation hépato-splénique [1].
+
+De nouvelles analyses cytologiques du liquide d’ascite montrent la présence de cellules lymphoïdes atypiques compatibles avec un lymphome B de bas grade. En ­effet, environ 50% des lymphocytes sont de type B CD5-, CD10- et CD23-, avec une monoclonalité prouvée par PCR-IgH multiplex.
+
+Le bilan est complété par une ponction-biopsie de moelle osseuse qui montre une infiltration lymphomateuse de 10 à 15%, composée d’éléments matures, positifs pour les marqueurs CD20 et CD79a (marqueurs Pan B), ainsi que pour le CD25 et l’IgM, alors que les marqueurs CD5, CD10, CD23 ne sont pas exprimés. L’immunophénotypisation des lymphocytes médullaires met aussi en évidence une population monoclonale B kappa, CD20+ et IgM+. Le diagnostic de lymphome splénique de la zone marginale est ainsi retenu. Des immuno-marquages complémentaires sur le prélèvement de la ponction-biopsie hépatique montrent des agrégats lymphoïdes riches en lymphocytes B au niveau des espaces portes avec les mêmes co-expressions que dans la moelle, ce qui prouve une micro-infiltration hépatique par le lymphome.
+
+Diagnostic
+
+Le diagnostic finalement retenu est celui d’un lymphome splénique primaire de la zone marginale avec infiltration hépatique et médullaire. Les diagnostics secondaires ayant brouillé les pistes sont une hépatite B chronique active non cirrhotique qui par la suite a tout de même été traitée avec succès par Tenofovir (disparition de la virémie HBV) et une consommation éthylique chronique.
+
+Discussion
+
+L’ascite comme manifestation initiale d’un lymphome splénique n’est pas décrite, mais la splénomégalie massive sur hémopathie est un diagnostic différentiel des hypertensions portales pré-sinusoïdales liée à une hypertension portale non cirrhotique, dont la cause principale est une thrombose porte ou splénique. Il est présumé que le flux et le volume sanguin splénique sont diminués en raison d’une compression sinusoïdale suite à l’expansion lymphomateuse dans les cordons de la pulpe blanche. A la différence d’une hypertension portale due à une cirrhose, la pression sinusoïdale bloquée ne montre pas d’anomalie au niveau des sinusoïdes. Le diagnostic est principalement clinique et posé après exclusion des autres causes d’hypertension portale et notamment après s’être assuré de la perméabilité des veines portales et hépatiques. Une biopsie hépatique doit être réalisée pour exclure la cirrhose et les autres causes d’hypertension portale sinusoïdale [2].
+
+Le lymphome splénique de la zone marginale est une néoplasie du lymphocyte B composée de petits lymphocytes qui entourent et remplacent les centres germinatifs de la pulpe blanche splénique, effacent le manteau folliculaire et fusionnent avec la zone périphérique (marginale) de grandes cellules. Les petits et les plus grands lymphocytes infiltrent la pulpe rouge. Il représente moins de 2% des lymphomes. La plupart des patients sont âgés de plus de 50 ans avec une médiane de 67 ans. Le lymphome implique la rate, les ganglions hilaires spléniques, la moelle osseuse et souvent le sang périphérique. Le foie peut être infiltré [3].
+
+Les patients présentent une splénomégalie, parfois associée à une thrombopénie ou à une anémie auto-immune et à la présence variable de lymphocytes villeux dans le sang. Un tiers des patients ont une gammapathie monoclonale. L’évolution est indolente avec une survie à 10 ans de 67 à 95%.
+
+Traitement
+
+La réponse aux chimiothérapies utilisées dans d’autres lymphomes B de bas degré de malignité est moyenne. Cependant, une réponse hématologique est généralement obtenue par la splénectomie et/ou une immunothérapie de Rituximab, avec d’excellente survie au long terme [4].
+
+En raison d’un état général précaire, notre patient a reçu dans un premier temps une immunothérapie de Rituximab, avec une réponse partielle mais significative ­(aucune nouvelle ponction d’ascite, une sensible amélioration de son état général et une légère diminution de la splénomégalie). Une splénectomie a été réalisée seize mois après l’immunothérapie. Elle a confirmé le diagnostic de lymphome splénique de la zone marginale.
+
+Conclusion
+
+Ce case report est intéressant pour le cheminement diagnostic emprunté. Le tableau clinique initial est classique et évoque des diagnostics courants (cirrhose éthylique avec possible composante d’hépatite B). Après une démarche diagnostique standard contredisant notre impression clinique de départ, nous devons reprendre un chemin peu fréquenté qui nous amène finalement à un diagnostic rare dont le traitement séquentiel (hépatite B puis lymphome) permet d’envisager un pronostic plutôt favorable.
+
+L’essentiel pour la pratique
+
+• Il existe de rares cas d’hypertension portale d’origine non cirrhotique et sans atteinte vasculaire veineuse qui doivent être évoqués lorsque le bilan de cirrhose initial n’est pas conclusif.
+
+• En cas de splénomégalie massive, le lymphome splénique doit être recherché soit indirectement (ponction-biopsie médullaire, cytométrie de flux des lymphocytes du sang périphérique, cytologie de l’ascite avec immuno-marqueurs) soit directement (splénectomie) [5].
+
+• Le traitement du lymphome B splénique de la zone marginale est multimodal et le pronostic est plutôt favorable.

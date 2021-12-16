@@ -1,0 +1,61 @@
+T1	disorder 98 127	syndrome douloureux abdominal
+T2	disorder 129 171	douleur prédominant au point de Mac Burney
+T3	procedure 189 200	température
+T4	labvalue 203 211	37,6 °C 
+T5	procedure 267 270	NFS
+T6	labvalue 271 278	normale
+T7	procedure 284 295	échographie
+T8	labvalue 297 440	« …Absence de signe d’appendicite franche. Il pourrait s’agir d’un tout début d’appendicite a minima sans signe de perforation appendiculaire »
+T9	procedure 515 540	consultation d’anesthésie
+T10	drugs 674 692	antibioprophylaxie
+T11	profession 715 726	chirurgien 
+T12	drugs 1484 1496	 Efferalgan®
+T13	procedure 1064 1116	appendicectomie avec ligature du moignon à l’endolop
+T14	drugs 864 883	antibioprophylaxie 
+T15	disorder 992 1023	syndrome appendiculaire typique
+T16	procedure 1170 1197	examen anatomo-pathologique
+T17	labvalue 1221 1278	 « appendice siège de lésions d’endo-appendicite aiguë. »
+T18	procedure 1433 1463	échographie abdomino-pelvienne
+T19	labvalue 1464 1471	normale
+T20	profession 1560 1567	médecin
+T21	procedure 1768 1779	échographie
+T22	procedure 1784 1794	radiologue
+T23	drugs 1960 1975	antibiothérapie
+T24	drugs 1977 1987	Augmentin®
+T25	drugs 2144 2158	ntibiothérapie
+T26	procedure 2197 2209	consultation
+T27	procedure 2238 2258	contrôle biologique 
+T28	disorder 2353 2373	douleurs abdominales
+T29	disorder 2485 2507	syndrome inflammatoire
+T30	procedure 2509 2512	CPR
+T31	labvalue 2515 2522	78 mg/l
+T32	procedure 2527 2538	échographie
+T33	procedure 2621 2641	xamen scanographique
+T34	procedure 2715 2734	anesthésie générale
+T35	procedure 2755 2786	drainage d’un abcès périvésical
+T36	procedure 2790 2812	examen bactériologique
+T37	labvalue 2854 2870	Escherichia coli
+T38	drugs 2884 2894	Augmentin®
+T39	drugs 2900 2912	antibiotique
+T40	procedure 3060 3105	drainage d’un abcès sus-pubien postopératoire
+T41	procedure 3011 3026	hospitalisation
+T42	disorder 3140 3146	fièvre
+T43	disorder 3148 3171	douleurs du flanc droit
+T44	disorder 3175 3187	vomissements
+T45	disorder 3193 3209	hyperleucocytose
+T46	labvalue 3212 3223	26 000 /mm3
+T47	procedure 3268 3271	CPR
+T48	labvalue 3274 3281	119mg/l
+T49	procedure 3350 3354	ECBU
+T50	procedure 3395 3406	échographie
+T51	drugs 3528 3538	Rocéphine®
+T52	drugs 3557 3565	Amiklin®
+T53	disorder 3667 3687	douleurs abdominales
+T54	disorder 3706 3739	syndrome inflammatoire biologique
+T55	procedure 3744 3751	scanner
+T56	drugs 4082 4097	antibiothérapie
+T57	disorder 3296 3317	 pyélonéphrite aiguë 
+T58	procedure 3237 3264	polynucléaires neutrophiles
+T59	labvalue 3431 3438	normale
+T60	disorder 3460 3501	collection postopératoire rétro-ovarienne
+T61	labvalue 3765 3804	formation liquidienne à l’étage pelvien

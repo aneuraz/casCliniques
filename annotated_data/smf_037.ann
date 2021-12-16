@@ -1,0 +1,126 @@
+T1	irrelevant 0 8;10 320;322 341;342 350	Contexte  La diarrhée aiguë chez le nourrisson constitue un ­motif fréquent de consultation aux urgences. Avec cet exemple de cas, nous souhaitons cependant nous pencher plus en détails sur la recherche de la cause en cas de diarrhée prolongée, notamment lorsque les examens diagnostiques de routine se révèlent normaux.  Présentation du cas Anamnèse
+T2	disorder 642 654	vomissements
+T3	disorder 660 688	 diarrhées aqueuses présents
+T4	disorder 728 749	perte de poids de >6%
+T5	disorder 945 965	gastroentérite aiguë
+T6	irrelevant 352 641	Une fillette âgée de six semaines, née à terme et sous allaitement maternel exclusif (semaine de grossesse 41 4/7, poids de naissance 3205 g [percentiles (P) 10–25], taille à la naissance 50 cm [P10–25], périmètre crânien 33 cm [P3–10]) est amenée dans un hôpital périphérique en raison de
+T7	irrelevant 750 944	par rapport au contrôle réalisé à l’âge d’1 mois (poids actuel 3720 g [P3–10], poids lors du contrôle réalisé à l’âge d’1 mois 3920 g [P10–25]). L’anamnèse de l’entourage était négative pour une
+T8	procedure 1076 1093	examen des selles
+T9	labvalue 1100 1131	echerche de virus était négatif
+T10	procedure 1139 1158	 valeurs hépatiques
+T11	procedure 1164 1172	albumine
+T12	labvalue 1181 1189	normales
+T13	disorder 1232 1247	diarrhée sévère
+T14	procedure 1322 1352	transférée à l’hôpital central
+T15	disorder 1516 1545	état général diminué compensé
+T16	disorder 1547 1559	poids 3500 g
+T17	disorder 1561 1574	pouls 163/min
+T18	disorder 1576 1605	fréquence respiratoire 40/min
+T19	disorder 1607 1638	pression artérielle 86/69 mm Hg
+T20	disorder 1640 1657	absence de fièvre
+T21	disorder 1712 1744	coloration de la peau était pâle
+T22	disorder 1761 1798	 ni efflorescences cutanées ni œdèmes
+T23	disorder 1810 1829	 extrémités froides
+T24	disorder 1835 1869	emplissage capillaire était rapide
+T25	disorder 1873 1910	 fontanelle était légèrement déprimée
+T26	disorder 1916 1952	muqueuses buccales étaient hydratées
+T27	disorder 1967 1994	pas de signes de dysmorphie
+T28	disorder 2000 2031	bruits intestinaux étaient vifs
+T29	disorder 2035 2067	abdomen était souple et indolore
+T30	disorder 2085 2110	pas d’hépatosplénomégalie
+T31	procedure 2117 2140	analyses de laboratoire
+T32	labvalue 2179 2212	 hypoalbuminémie sévère de 13 g/l
+T33	labvalue 2237 2275	valeurs hépatiques et rénales normales
+T34	procedure 2277 2303	aspartate aminotransférase
+T35	labvalue 2304 2321	[ASAT] 350 nmol/l
+T36	procedure 2344 2368	alanine aminotransférase
+T37	labvalue 2369 2387	[ALAT] 467 nmol/l 
+T38	labvalue 2409 2417	INR 1,3 
+T39	labvalue 2435 2456	créatinine 20 μmol/l 
+T40	labvalue 2477 2493	urée 1,6 mmol/l 
+T41	labvalue 2523 2542	protéinurie normale
+T42	labvalue 2557 2579	leucocytose (18,9 G/l 
+T43	labvalue 2603 2625	neutrophilie (11,3 G/l
+T44	labvalue 2659 2683	d’hémoglobine de 98 g/l 
+T45	labvalue 2717 2736	hématocrite de 0,28
+T46	labvalue 2773 2796	thrombocytes de 347 G/l
+T47	disorder 2849 2870	diarrhée très aqueuse
+T48	procedure 2876 2890	sonde urinaire
+T49	disorder 3008 3036	pertes intestinales élevées 
+T50	labvalue 3037 3044	690 ml/
+T51	disorder 3269 3288	diarrhée sécrétoire
+T52	disorder 3296 3314	diarrhée osmotique
+T53	disorder 3351 3386	selles étaient quelque peu réduites
+T54	disorder 3485 3507	diarrhée non sanglante
+T55	irrelevant 3509 3845;3847 3943	vec une forte composante sécrétoire, nous avons en premier lieu songé à un processus infectieux, mais aucun germe n’a pu être mis en évidence. Par conséquent, nous avons étendu le diagnostic étiologique conformément à la publication de Thiagarajah et al. [5] (tab. 1), sans qu’aucune cause de la diarrhée ne parvienne à être identifiée.  Dans le cadre de la pose d’un cathéter veineux central pour la nutrition parentérale (partielle)
+T56	procedure 3985 3996	endoscopie 
+T57	labvalue 4631 4654	Coprocultures négatives
+T58	labvalue 4717 4740	Coprocultures négatives
+T59	procedure 4802 4816	culture courte
+T60	labvalue 4821 4864	étection d’antigènes dans l’urine négatives
+T61	procedure 4903 4917	culture courte
+T62	labvalue 4921 4953	détection d’antigènes ­positives
+T63	procedure 4955 4958	PCR
+T64	labvalue 4966 4988	urine 15 500 copies/ml
+T65	procedure 4990 4993	PCR
+T66	labvalue 5002 5024	sang 144 000 copies/ml
+T67	disorder 5117 5148	diarrhée persistante sous jeûne
+T68	disorder 5237 5314	diarrhée persistante sous jeûne et sous lait infantile à base d’acides aminés
+T69	labvalue 5316 5338	IgE totales 165,6 μg/l
+T70	labvalue 5412 5430	Sérologie négative
+T71	labvalue 5474 5492	agammaglobulinémie
+T72	labvalue 5493 5536	Numération normale des neutrophiles 6,9 G/l
+T73	labvalue 5553 5573	lymphocytes 4,4 G/l 
+T74	labvalue 5623 5637	(Ig)G 3,18 g/l
+T75	labvalue 5658 5670	IgA 0,62 g/l
+T76	labvalue 5688 5700	IgM 0,11 g/l
+T77	procedure 5713 5729	Test de Guthrie 
+T78	procedure 5780 5802	Granulomatose septique
+T79	labvalue 5803 5854	Résultat normal au test au nitrobleu de tétrazolium
+T80	disorder 5855 5890	Syndrome de dérèglement immunitaire
+T81	labvalue 6188 6253	Morphologie des entérocytes normale à la microscopie électronique
+T82	disorder 6146 6187	Maladie des inclusions microvillositaires
+T83	disorder 6357 6390	Dysplasie épithéliale intestinale
+T84	labvalue 6418 6483	Morphologie des entérocytes normale à la microscopie électronique
+T85	labvalue 6485 6519	pas d’amas typiques d’entérocytes 
+T86	labvalue 6255 6291	pas de microvillosités internalisées
+T87	labvalue 6293 6356	pas de trouble des microvillosités à la surface des entérocytes
+T88	disorder 6529 6566	Diarrhée chlorée ou sodée congénitale
+T89	procedure 6567 6586	Electrolytes fécaux
+T90	labvalue 6588 6611	chlorure [Cl] 93 mmol/l
+T91	labvalue 6626 6648	sodium [Na] 122 mmol/l
+T92	labvalue 6650 6673	potassium [K] 10 mmol/l
+T93	labvalue 6696 6738	électrolytes ­sanguins sans particularités
+T94	disorder 6788 6828	Malabsorption du glucose et du galactose
+T95	disorder 6886 6914	Lymphangiectasie intestinale
+T96	labvalue 6936 6950		IgG 3,18 g/l 
+T97	labvalue 6985 7004	lymphocytes 4,4 G/l
+T98	disorder 7092 7113	Tumeur neuroendocrine
+T99	labvalue 7114 7164	Enolase neurone-spécifique dans le sérum 31,5 μg/l
+T100	labvalue 7258 7296	Peptide vasoactif intestinal 31,5 ng/l
+T101	labvalue 7308 7346	Dopamine dans l’urine 721 nmol/mmolCr 
+T102	labvalue 7366 7392	Adrénaline <1 nmol/mmolCr 
+T103	labvalue 7410 7439	Noradrénaline 108 nmol/mmolCr
+T104	procedure 7472 7485	macroscopique
+T105	procedure 7489 7516	œsophagogastroduodénoscopie
+T106	procedure 7522 7542	 rectosigmoïdoscopie
+T107	procedure 7621 7640	examen histologique
+T108	disorder 7654 7687	gastrite chronique active modérée
+T109	disorder 7693 7736	atrophie des villosités de l’intestin grêle
+T110	disorder 7744 7791	colite sévère avec formation d’abcès cryptiques
+T111	procedure 7798 7895	coloration à l’hématoxyline et à l’éosine et au test immunohistochimique de détection d’antigènes
+T112	labvalue 7901 7950	cellules positives pour le cytomégalovirus (CMV) 
+T113	procedure 8034 8057	microscope électronique
+T114	labvalue 8063 8111	entérocytes présentaient une morphologie normale
+T115	irrelevant 8114 8442;8444 8908;8910 9152	Figure 1: Examen histologique de la biopsie gastrique révélant une gastrite chronique et des altérations cytopathologiques virales d’une cellule épithéliale, avec inclusion intranucléaire éosinophile (flèche), compatibles avec une infection à cytomégalovirus (coloration à l’hématoxyline et à l’éosine [HE]; grossissement 200×).  Figure 2: Examen histologique de la biopsie colique avec infiltrats cellulaires inflammatoires, principalement composés de granulocytes neutrophiles, de plasmocytes et de lymphocytes (coloration à l’hématoxyline et à l’éosine [HE]; grossissement original 200×). Insert: altérations cytoplasmiques virales de cellules endothéliales et de cellules épithéliales, avec inclusions intranucléaires éosinophiles (flèche), compatibles avec une infection à cytomégalovirus.  Figure 3: La coloration immunohistochimique de la muqueuse colique montre des cellules positives pour le cytomégalovirus (CMV; cellules brunes avec coloration immunohistochimique au moyen d’anticorps monoclonaux anti-CMV, grossissement 400×).
+T116	procedure 9192 9210	CMV à l’histologie
+T117	procedure 9235 9307	nouvelle culture courte et une recherche d’antigènes de CMV dans l’urine
+T118	labvalue 9340 9349	positives
+T119	procedure 9364 9415	test de réaction de polymérisation en chaîne (PCR) 
+T120	labvalue 9449 9476	CMV dans le sang et l’urine
+T121	procedure 9663 9678	test de Guthrie
+T122	labvalue 9708 9715	négatif
+T123	disorder 9746 9776	entérocolite à CMV postnatale 
+T124	drugs 10172 10183	ganciclovir
+T125	drugs 10256 10267	ganciclovir
+T126	irrelevant 10268 10856;10858 11025;11027 11458;11460 11470;11472 11700;11702 12374;12376 13241;13243 13788;13790 14648;14650 14678;14680 14874;14876 15060;15062 15155	avec un risque de myélosuppression et de néphrotoxicité pouvant aller jusqu’à l’insuffisance ­rénale, de la nécessité d’un traitement intraveineux de quatre à six semaines, de la lente récupération clinique spontanée avec baisse de la fréquence des selles et du besoin énergétique parentéral réduit, nous avons ­renoncé à un traitement causal et avons privilégié une attitude attentiste. Jusqu’à la sortie de la patiente, nous avons surveillé l’équilibre hydrique, avec au besoin détermination des électrolytes sériques, afin d’adapter en conséquence la nutrition parentérale et entérale.  Après une durée d’hospitalisation de sept semaines au total, la fillette a pu rentrer chez elle dans un bon état général, avec une alimentation exclusivement entérale.  Lors du contrôle de suivi réalisé dix jours plus tard chez la fillette alors âgée de cinq mois, elle avait déjà repris 300 g (poids 4,85 kg [<P3]) et les selles s’étaient normalisées (trois selles par jour, consistance granuleuse). L’albumine avait augmenté à 35 g/l. L’évolution ultérieure était normale; la fillette a présenté une bonne croissance et les bouillies puis la nourriture solide ont pu être introduites sans problème.  Discussion  Le cas décrit présente l’approche structurelle à adopter pour déterminer la cause en cas de diarrhée prolongée et il démontre clairement que même des nourrissons immunocompétents peuvent contracter une entérocolite à CMV sévère.  Les prématurés et les nourrissons immunodéprimés sont particulièrement vulnérables à une infection à CMV postnatale. Les symptômes typiques sont alors un tableau clinique semblable à un sepsis, une hépatite, une pneumonie, une encéphalite et une entérocolite. Il était jusqu’alors admis que chez les enfants nés à terme et immunocompétents, une infection à CMV postnatale se déroulait de façon asymptomatique ou s’accompagnait uniquement de symptômes légers, tels que fièvre passagère, symptômes gastro-intestinaux (diarrhée, vomissements), hépatosplénomégalie, pneumonie légère ou modification de l’hémogramme (lymphocytose, lymphopénie, thrombocytose, thrombopénie) [3].  Au cours des dix dernières années, plusieurs cas d’entérocolite à CMV ont néanmoins été décrits chez des nourrissons immunocompétents [1, 2, 4]. Sur le plan clinique, ces cas se sont manifestés par une diarrhée aqueuse ­sévère et souvent prolongée, comme c’était également le cas de notre patiente. Des diarrhées sanglantes ont aussi parfois été décrites. La durée des symptômes allait de quelques jours à 14 mois. L’âge moyen au moment de la présentation était de 2,5 mois (1,5–12 mois) [4]. La plupart des patients étaient allaités et le lait maternel a été considéré comme la source de transmission la plus probable [1, 2, 4]. Dans la plupart des cas, le diagnostic a pu être confirmé par mise en évidence du CMV à l’examen histologique. Comme chez notre patiente, la détermination initiale des antigènes de CMV dans l’urine était négative dans un autre cas [4].  Parmi les cas de nourrissons décrits dans la littérature, neuf sur 13 ont été traités au moyen d’un traitement antiviral par ganciclovir [1, 2, 4], mais l’entérocolite à CMV a également guéri spontanément sans traitement causal chez les autres nourrissons [4]. L’état général des patients a le plus souvent été utilisé comme critère de décision pour l’instauration d’un traitement antiviral, un tel traitement ayant avant tout été initié chez les nourrissons présentant une évolution sévère et chez les nourrissons les plus jeunes (âge <3 mois).  Nous avons également discuté l’indication d’un traitement par ganciclovir, mais avons décidé de ne pas initier de traitement causal malgré une charge virale ­détectable dans l’urine et dans le sérum en raison d’une amélioration clinique spontanée. Les avantages et les inconvénients d’un traitement antiviral doivent néanmoins être soupesés individuellement chez chaque ­patient. Plusieurs questions restent encore en suspens, notamment celles de savoir si un traitement virostatique oral pourrait constituer une option thérapeutique, s’il permettrait d’atteindre des concentrations locales de médicament plus élevées et si le taux d’effets indésirables s’en trouverait réduit [4]. En pédiatrie, les virostatiques oraux sont en effet déjà utilisés dans le cadre de la transplantation d’organes solides, à la fois à des fins prophylactiques et thérapeutiques.  L’essentiel pour la pratique  • Une entérocolite à cytomégalovirus (CMV) sévère est rare chez les nourrissons immunocompétents, mais des examens correspondants ­devraient néanmoins être réalisés en cas de diarrhée prolongée.  • En cas de forte suspicion d’une infection à CMV, l’examen (examen ­immunohistologique d’un échantillon tissulaire ou examen PCR d’un échantillon sanguin/tissulaire) doit être répété.  • Les bénéfices et les risques d’un traitement antiviral doivent être évalués au cas par cas.

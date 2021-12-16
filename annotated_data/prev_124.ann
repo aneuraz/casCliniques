@@ -1,0 +1,45 @@
+T1	disorder 56 63	malaise
+T2	disorder 208 247	violente douleur précordiale antérieure
+T3	disorder 270 277	malaise
+T4	disorder 479 513	 sensation d’oppression thoracique
+T5	risk 582 591	tabagique
+T6	disorder 741 755	précordialgies
+T7	procedure 761 801	épreuve d’effort maximale était négative
+T8	procedure 887 901	 bilan complet
+T9	procedure 939 948	troponine
+T10	disorder 1028 1049	 douleurs thoraciques
+T11	procedure 1110 1120	antiacides
+T12	drugs 1128 1136	spasmine
+T13	drugs 1148 1158	trinitrine
+T14	procedure 1186 1195	troponine
+T15	labvalue 1275 1288	0,2 ng par ml
+T16	procedure 1348 1351	CPK
+T17	procedure 1355 1361	CPK MB
+T18	procedure 1389 1402	transaminases
+T19	procedure 1406 1414	gamma gt
+T20	procedure 1419 1429	créatinine
+T21	procedure 1434 1442	kaliémie
+T22	procedure 1449 1451	VS
+T23	labvalue 1457 1465	normales
+T24	procedure 1472 1482	numération
+T25	disorder 1503 1515	polynucléose
+T26	labvalue 1518 1529	12 190 /mm3
+T27	procedure 1560 1576	 bilan lipidique
+T28	profession 1651 1664	artisan maçon
+T29	disorder 1781 1863	douleur thoracique précordiale plus intense irradiant dans le dos et les deux bras
+T30	drugs 1920 1930	trinitrine
+T31	drugs 1905 1915	trinitrine
+T32	procedure 2305 2314	troponine
+T33	disorder 2471 2498	douleurs dorsales nocturnes
+T34	disorder 2504 2584	paresthésies membre supérieur droit nitro résistantes calmées par le paracétamol
+T35	disorder 2586 2637	douleurs provoquées à la palpation du rachis dorsal
+T36	procedure 2716 2739	radiographie pulmonaire
+T37	procedure 2746 2772	décontracturant musculaire
+T38	disorder 2822 2848	 arrêt cardiorespiratoire 
+T39	disorder 2862 2888	douleur thoracique brutale
+T40	disorder 2956 2962	décède
+T41	disorder 3027 3049	 infarctus myocardique
+T42	disorder 3064 3096	 trouble du rythme ventriculaire
+T43	disorder 3115 3130	 crises d’angor
+T44	procedure 3189 3198	troponine
+T45	labvalue 3599 3609	0,16 ng/ml

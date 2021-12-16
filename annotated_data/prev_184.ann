@@ -1,0 +1,27 @@
+T1	disorder 67 81	AVC ischémique
+T2	disorder 97 115	arythmie cardiaque
+T3	drugs 175 182	Xarelto
+T4	drugs 186 194	Flécaïne
+T5	disorder 231 254	hypertension artérielle
+T6	disorder 262 269	obésité
+T7	procedure 299 302	IMC
+T8	labvalue 309 312	 38
+T9	procedure 515 534	pose d'une prothèse
+T10	procedure 659 670	hémoglobine
+T11	procedure 677 700	numération plaquettaire
+T12	drugs 803 814	Calciparine
+T13	drugs 838 845	Xarelto
+T14	disorder 1203 1223	douleurs abdominales
+T15	drugs 1242 1250	Tramadol
+T16	procedure 1454 1456	PA
+T17	labvalue 1459 1466	60 mmHg
+T18	disorder 2200 2209	vomissait
+T19	disorder 2241 2253	vomissements
+T20	drugs 2521 2534	anticoagulant
+T21	drugs 2869 2878	Primpéran
+T22	drugs 2880 2888	Lamaline
+T23	drugs 2890 2898	Maxilase
+T24	drugs 2900 2909	Pneumorel
+T25	procedure 3471 3495	manœuvres de réanimation
+T26	labvalue 3603 3611	7g/100ml
+T27	procedure 3526 3536	HemoCue Hb

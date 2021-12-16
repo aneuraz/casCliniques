@@ -1,0 +1,233 @@
+T1	profession 171 189	gastro-entérologue
+T2	disorder 199 232	poussées douloureuses abdominales
+T3	disorder 265 290	troubles digestifs banals
+T4	procedure 295 307	 prescrivait
+T5	procedure 322 333	échographie
+T6	procedure 340 346	examen
+T7	disorder 393 431	anomalies intra-abdominales ou rénales
+T8	disorder 465 498	violentes douleurs du flanc droit
+T9	procedure 529 541	consultation
+T10	profession 587 605	gastro-entérologue
+T11	procedure 631 653	scanographie abdominal
+T12	disorder 677 714	remaniement de la dernière anse grêle
+T13	disorder 729 734	abcès
+T14	disorder 739 761	épanchement péritonéal
+T15	procedure 790 802	hospitalisée
+T16	procedure 820 849	mettre en place une perfusion
+T17	procedure 852 863	antalgiques
+T18	disorder 880 888	douleurs
+T19	procedure 966 977	 coloscopie
+T20	procedure 1016 1032	transit du grêle
+T21	procedure 1120 1144	traitement symptomatique
+T22	drugs 1176 1184	Entocort
+T23	disorder 1334 1350	maladie de Crohn
+T24	disorder 1387 1394	fistule
+T25	disorder 1431 1452	sténose cicatricielle
+T26	procedure 1464 1495	scanographie abdomino-pelvienne
+T27	procedure 1513 1529	transit du grêle
+T28	disorder 1560 1611	atteinte des 4 à 5 derniers cms de l’intestin grêle
+T29	disorder 1630 1646	iléite ulcéreuse
+T30	profession 1694 1710	médecin traitant
+T31	profession 1715 1733	gastro-entérologue
+T32	drugs 1756 1764	Entocort
+T33	disorder 1819 1847	forme purement inflammatoire
+T34	procedure 1859 1868	régresser
+T35	disorder 1877 1895	aspect cicatriciel
+T36	procedure 1940 1960	éventuelle résection
+T37	procedure 1999 2007	adressée
+T38	profession 2015 2033	gastro-entérologue
+T39	profession 2037 2056	chirurgien digestif
+T40	disorder 2103 2119	épisode occlusif
+T41	procedure 2159 2188	amélioration sous corticoïdes
+T42	disorder 2215 2237	syndrome inflammatoire
+T43	disorder 2260 2267	sténose
+T44	procedure 2277 2289	intervention
+T45	profession 2305 2316	 chirurgien
+T46	procedure 2377 2409	document de consentement éclairé
+T47	procedure 2427 2439	intervention
+T48	procedure 2453 2465	coelioscopie
+T49	procedure 2507 2533	conversion par laparotomie
+T50	procedure 2594 2618	résection colique droite
+T51	procedure 2628 2653	courte résection du grêle
+T52	procedure 2660 2700	rétablissement immédiat de la continuité
+T53	procedure 2706 2737	réalisation de deux anastomoses
+T54	procedure 2808 2835	examen anatomo-pathologique
+T55	disorder 2877 2893	maladie de Crohn
+T56	procedure 2924 2939	post-opératoire
+T57	procedure 2945 2954	perfusion
+T58	drugs 2957 2987	hémisuccinate d’hydrocortisone
+T59	procedure 3028 3063	traitement corticoïde préopératoire
+T60	procedure 3072 3083	tachycardie
+T61	labvalue 3093 3100	130/min
+T62	procedure 3114 3130	bilan thyroïdien
+T63	labvalue 3149 3156	légère 
+T64	disorder 3158 3172	hyperthyroïdie
+T65	drugs 3184 3195	Avlocardyl 
+T66	procedure 3174 3183	Mise sous
+T67	procedure 3212 3229	rythme cardiaque 
+T68	labvalue 3241 3248	100/min
+T69	procedure 3254 3257	PCA
+T70	drugs 3261 3269	morphine
+T71	procedure 3276 3283	stoppée
+T72	profession 3496 3506	chirurgien
+T73	procedure 3507 3517	autorisait
+T74	profession 3606 3630	remplaçant du chirurgien
+T75	profession 3634 3641	interne
+T76	disorder 3781 3795	vives douleurs
+T77	procedure 3854 3868	administration
+T78	drugs 3872 3880	Profenid
+T79	procedure 3885 3896	prescrivait
+T80	procedure 3900 3916	bilan biologique
+T81	drugs 4019 4028	Perfalgan
+T82	drugs 4035 4041	Acupan
+T83	profession 4138 4156	gastro-entérologue
+T84	procedure 4161 4172	prescrivait
+T85	drugs 4176 4183	Lexomil
+T86	profession 4219 4230	infirmières
+T87	procedure 4205 4218	transmissions
+T88	profession 4253 4263	chirurgien
+T89	procedure 4289 4292	ASP
+T90	procedure 4294 4318	abdomen sans préparation
+T91	disorder 4376 4402	volumineux pneumopéritoine
+T92	procedure 4340 4355	examen montrait
+T93	procedure 4431 4442	laparotomie
+T94	disorder 4450 4485	présence d’air dans le côlon gauche
+T95	profession 4505 4527	chirurgien remplaçant 
+T96	procedure 4535 4548	gaz à évacuer
+T97	disorder 4550 4561	douloureuse
+T98	procedure 4579 4601	perfusion d’antalgique
+T99	disorder 4641 4665	persistance des douleurs
+T100	disorder 4671 4684	abdomen tendu
+T101	disorder 4697 4704	fièvre 
+T102	procedure 4709 4725	hyperleucocytose
+T103	labvalue 4728 4738	10700 /mm3
+T104	procedure 4742 4746	CPR 
+T105	labvalue 4748 4756	274 mg/l
+T106	profession 4809 4830	chirurgien remplaçant
+T107	procedure 4794 4805	communiqués
+T108	procedure 4861 4863	PA
+T109	labvalue 4866 4876	90/40 mmHg
+T110	procedure 4878 4897	fréquence cardiaque
+T111	labvalue 4900 4906	84/min
+T112	drugs 4920 4930	Avlocardyl
+T113	profession 4944 4954	infirmière
+T114	procedure 4933 4938	Pose 
+T115	drugs 4980 4994	Ringer lactate
+T116	procedure 4999 5001	PA
+T117	labvalue 5012 5022	90/60 mmHg
+T118	drugs 5057 5071	Ringer lactate
+T119	profession 5089 5106	infirmier de nuit
+T120	procedure 5077 5082	 posé
+T121	profession 5197 5207	chirurgien
+T122	procedure 5248 5250	PA
+T123	labvalue 5268 5278	80/50 mmHg
+T124	drugs 5301 5315	Ringer lactate
+T125	procedure 5322 5326	posé
+T126	profession 5359 5371	anesthésiste
+T127	profession 5466 5487	chirurgien remplaçant
+T128	procedure 5510 5519	examinait
+T129	disorder 5540 5566	Conscience un peu ralentie
+T130	disorder 5568 5578	Apyrétique
+T131	disorder 5584 5594	tachycarde
+T132	procedure 5600 5607	Transit
+T133	labvalue 5612 5615	gaz
+T134	profession 5666 5684	gastro-entérologue
+T135	procedure 5731 5754	scanographie abdominale
+T136	procedure 5760 5766	examen
+T137	labvalue 5779 5789	volumineux
+T138	disorder 5790 5838	épanchement intrapéritonéal avec pneumopéritoine
+T139	procedure 5843 5851	ponction
+T140	procedure 5866 5877	échographie
+T141	disorder 5890 5918	liquide louche et nauséabond
+T142	procedure 5923 5949	décision de réintervention
+T143	procedure 5980 5994	bilan pratiqué
+T144	procedure 6024 6043	 taux d’hémoglobine
+T145	labvalue 6046 6058	6,3 g/100 ml
+T146	labvalue 6064 6069	3200 
+T147	procedure 6069 6079	leucocytes
+T148	labvalue 6083 6089	67 000
+T149	procedure 6090 6100	plaquettes
+T150	procedure 6106 6120	réintervention
+T151	disorder 6178 6188	péritonite
+T152	procedure 6206 6226	 suture iléo-colique
+T153	procedure 6235 6245	Evacuation
+T154	labvalue 6275 6283	2 litres
+T155	procedure 6286 6303	 liquide digestif
+T156	disorder 6320 6347	 tissus très inflammatoires
+T157	disorder 6387 6404	saignement diffus
+T158	procedure 6409 6428	expose l’anastomose
+T159	procedure 6489 6501	intervention
+T160	procedure 6519 6544	démontage de l’anastomose
+T161	procedure 6551 6592	confection d’une double stomie temporaire
+T162	procedure 6617 6620	PA 
+T163	labvalue 6628 6635	80 mmHg
+T164	procedure 6640 6649	induction
+T165	profession 6726 6738	anesthésiste
+T166	procedure 6694 6719	réanimation préopératoire
+T167	procedure 6674 6687	 prescription
+T168	profession 6754 6764	chirurgien
+T169	procedure 6798 6821	début de l’intervention
+T170	procedure 6835 6837	PA
+T171	labvalue 6840 6847	50 mmHg
+T172	procedure 6864 6874	injection 
+T173	drugs 6876 6885	Ephédrine
+T174	procedure 6928 6930	PA
+T175	procedure 6958 6960	PA
+T176	labvalue 6969 6976	90 mmHg
+T177	procedure 6992 7016	mise en position déclive
+T178	procedure 7044 7046	PA
+T179	labvalue 7058 7065	50 mmHg
+T180	profession 7069 7081	anesthésiste
+T181	procedure 7094 7126	poser une voie veineuse centrale
+T182	drugs 7147 7165	culots globulaires
+T183	procedure 7179 7192	préopératoire
+T184	procedure 7226 7232	anémie
+T185	labvalue 7235 7262	6,3 g d’hémoglobine /100 ml
+T186	procedure 7283 7313	 pose d’une voie sous-clavière
+T187	profession 7353 7366	anesthésistes
+T188	profession 7458 7468	chirurgien
+T189	procedure 7521 7538	massage cardiaque
+T190	profession 7564 7576	anesthésiste
+T191	disorder 7673 7698	arrêt cardio-circulatoire
+T192	procedure 7727 7747	réanimation standard
+T193	disorder 7753 7778	arrêt cardio-circulatoire
+T194	drugs 7808 7818	Adrénaline
+T195	drugs 7840 7858	culots globulaires
+T196	procedure 7823 7834	transfusion
+T197	procedure 7865 7883	remplissage massif
+T198	procedure 7885 7917	récupération d’une hémodynamique
+T199	procedure 7964 7976	hospitalisée
+T200	procedure 8110 8112	PA
+T201	labvalue 8096 8103	normale
+T202	procedure 8122 8152	fortes doses de catécholamines
+T203	procedure 8157 8171	hémofiltration
+T204	procedure 8228 8249	ventilation assistée 
+T205	procedure 8307 8317	récupérait
+T206	procedure 8371 8383	intervention
+T207	procedure 8400 8410	amputation
+T208	disorder 8529 8556	hémorragie intrapéritonéale
+T209	procedure 8573 8593	colectomie subtotale
+T210	procedure 8600 8627	résection de 140 cm d’iléon
+T211	disorder 8633 8651	nécrose ischémique
+T212	procedure 8664 8680	cholécystectomie
+T213	disorder 8686 8708	nécrose de la vésicule
+T214	procedure 8822 8841	assurer l’hémostase
+T215	procedure 8809 8818	tamponner
+T216	procedure 8874 8897	nouvelle réintervention
+T217	procedure 8946 8962	exérèse du grêle
+T218	procedure 8976 9016	réalisation d’une iléostomie dans la FIG
+T219	disorder 9118 9134	maladie de Crohn
+T220	procedure 9103 9115	 diagnostic 
+T221	procedure 9158 9198	régularisation des apports nutritionnels
+T222	procedure 9265 9279	réhospitalisée
+T223	disorder 9302 9323	écoulements purulents
+T224	procedure 9357 9388	fistulisation du moignon rectal
+T225	procedure 9408 9441	reprise chirurgicale des moignons
+T226	procedure 9536 9597	rétablissement de la continuité entre le jéjunum et le rectum
+T227	procedure 9616 9638	 jéjunostomie latérale
+T228	procedure 9814 9834	iléostomie terminale
+T229	disorder 9879 9909	troubles importants du transit
+T230	disorder 9913 9933	 selles diarrhéiques
+T231	disorder 9987 10022	syndrome de malabsorption chronique
+T232	disorder 10104 10116	fatigabilité
+T233	disorder 10211 10221	douloureux

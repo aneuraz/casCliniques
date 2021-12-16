@@ -1,0 +1,50 @@
+T1	profession 33 47	aide-soignante
+T2	disorder 79 100	maladies infectieuses
+T3	disorder 179 200	maladie psychiatrique
+T4	disorder 361 371	 anxieuse 
+T5	disorder 394 419	Tabagisme à 10 cigarettes
+T6	disorder 495 507	IDR positive
+T7	procedure 541 564	radiographie thoracique
+T8	disorder 707 734	 asthénie, toux et frissons
+T9	drugs 749 763	d’Amoxicilline
+T10	drugs 770 783	Carbocistéine
+T11	profession 984 992	 médecin
+T12	profession 1047 1058	Bronchokod®
+T13	drugs 1046 1059	 Bronchokod® 
+T14	drugs 1086 1099	 Déturgylone®
+T15	profession 1119 1127	 médecin
+T16	disorder 1338 1342	toux
+T17	disorder 1344 1374	fièvre, sueurs nocturnes et as
+T18	disorder 1374 1380	thénie
+T19	drugs 1398 1406	 Zeclar®
+T20	profession 1566 1573	médecin
+T21	disorder 1613 1624	tuberculose
+T22	procedure 1630 1645	antibiothérapie
+T23	drugs 1650 1662	Amoxicilline
+T24	drugs 1697 1706	Lysanxia®
+T25	disorder 1750 1758	asthénie
+T26	drugs 1806 1816	fortifiant
+T27	disorder 1849 1892	ses problèmes familiaux et de son anxiété. 
+T28	drugs 1988 1995	Zinnat®
+T29	procedure 2072 2087	antibiothérapie
+T30	disorder 2151 2173	perte de poids de 4 kg
+T31	disorder 2179 2196	asthénie profonde
+T32	disorder 2211 2220	la fièvre
+T33	disorder 2226 2242	sueurs nocturnes
+T34	disorder 2246 2262	une toux pénible
+T35	disorder 2327 2349	tuberculose pulmonaire
+T36	procedure 2400 2423	radiographie pulmonaire
+T37	disorder 2444 2472	des lésions multi-cavitaires
+T38	anatomy 2475 2497	 lobe supérieur gauche
+T39	procedure 2562 2596	La recherche de VIH était négative
+T40	procedure 2545 2560	l’examen direct
+T41	disorder 2519 2542	présence de nombreux BK
+T42	drugs 2616 2625	 Rifater®
+T43	drugs 2675 2683	Rifinah®
+T44	disorder 2700 2718	La perte de poids 
+T45	disorder 2761 2780	 crépitants bulleux
+T46	anatomy 2784 2833	lobe supérieur gauche dans la région parasternale
+T47	disorder 2863 2886	une rétraction fibreuse
+T48	procedure 2892 2958	image sclérobulleuse du lobe supérieur gauche et ascension hilaire
+T49	procedure 2960 3060	L’EFR objective une diminution parallèle de la CV à 62% et du VEMS à 64% de leurs valeurs théoriques
+T50	procedure 3062 3199	La gazométrie artérielle montre une Pa O2 à 86,1 mmHg et une SaO2 à 96%. La patiente reprend son travail à plein temps au bout de 18 mois

@@ -1,0 +1,118 @@
+T1	disorder 56 79	cardiopathie valvulaire
+T2	disorder 81 109	insuffisance aortique sévère
+T3	disorder 114 158	 choc cardiogène sur endocardite infectieuse
+T4	procedure 161 172	hémoculture
+T5	labvalue 173 181	négative
+T6	disorder 190 213	hypertension artérielle
+T7	disorder 241 256	ictère indolore
+T8	procedure 271 277	selles
+T9	procedure 296 302	urines
+T10	risk 411 417	 vodka
+T11	procedure 421 429	anamnèse
+T12	risk 450 472	consommation éthylique
+T13	drugs 609 632	acide acétylsalicylique
+T14	drugs 634 642	losartan
+T15	drugs 644 656	pravastatine
+T16	disorder 665 676	endocardite
+T17	drugs 719 730	gentamicine
+T18	drugs 747 759	amoxicilline
+T19	drugs 760 771	clavulanate
+T20	disorder 914 947	ictère cutané et des conjonctives
+T21	disorder 962 975	hépatomégalie
+T22	procedure 1023 1033	leucocytes
+T23	labvalue 1034 1042	13,4 G/l
+T24	procedure 1044 1055	hémoglobine
+T25	labvalue 1056 1063	141 g/l
+T26	procedure 1065 1077	thrombocytes
+T27	labvalue 1078 1085	322 G/l
+T28	procedure 1087 1107	phosphatase alcaline
+T29	labvalue 1114 1122	712 U/l 
+T30	procedure 1139 1164	gamma-glutamyltransférase
+T31	labvalue 1171 1179	2603 U/l
+T32	procedure 1196 1213	bilirubine totale
+T33	labvalue 1214 1225	338 µmol/l 
+T34	labvalue 1253 1264	252 µmol/l 
+T35	procedure 1282 1306	alanine aminotransférase
+T36	labvalue 1313 1322	 224 U/l 
+T37	procedure 1338 1364	aspartate aminotransférase
+T38	labvalue 1372 1380	225 U/l 
+T39	procedure 1395 1416	 taux de prothrombine
+T40	labvalue 1422 1426	60% 
+T41	procedure 1440 1443	INR
+T42	labvalue 1459 1463	115%
+T43	irrelevant 1479 1545;1548 1573;1575 1598;1600 1626;1628 1660;1662 1696	Question 1: Quel diagnostic semble actuellement le moins probable?   a) Lithiase cholédocienne  b) Hépatite auto-immune  c) Hépatite médicamenteuse  d) Cholangite biliaire primitive  e) Cholangite primaire sclérosante
+T44	disorder 1724 1746	hépatite cholestatique
+T45	disorder 1819 1841	lithiase cholédocienne
+T46	disorder 1847 1866	cholangite biliaire
+T47	disorder 1884 1915	cholangite primaire sclérosante
+T48	irrelevant 1917 2165	Une hépatite médicamenteuse peut se manifester tant par une cytolyse, qu’une cholestase, qu’un trouble mixte. Au contraire, l’hépatite auto-immune se manifeste principalement par une cytolyse, et représente à ce stade l’étiologie la moins probable.
+T49	irrelevant 2167 2236;2239 2270;2272 2289;2291 2316;2318 2350;2352 2368	Question 2: A ce stade, lequel de ces examens est le moins pertinent?   a) Sérologies hépatites virales  b) Céruloplasmine  c) Echographie abdominale  d) Anticorps anti-mitochondriaux  e) Cholangio-IRM
+T50	irrelevant 2370 2826	La cholestase peut être classée en intra-hépatique (due à des troubles hépatocellulaires fonctionnels ou des lésions obstructives au niveau des canalicules biliaires) ou extra-hépatique, due à une obstruction mécanique des voies biliaires extra-hépatiques. Cette dernière se traduira par une dilatation des voies biliaires et la première étape diagnostique consiste donc à identifier une éventuelle atteinte des voies biliaires via l’échographie abdominale
+T51	irrelevant 2833 3069	Un dépistage des hépatites virales A, B, C, D (si B positive), E, de même que les virus de l’immunodéficience humaine (VIH), d’Epstein-Barr (EBV) et cytomégalovirus (CMV) est recommandé devant toute perturbation des tests hépatiques [3]
+T52	irrelevant 3072 3447	Le dosage de la céruloplasmine à la recherche d’une Maladie de Wilson n’est pas indiqué à ce stade, en l’absence d’autres éléments cliniques (âge <40 ans, anneau de Kayser-Fleischer, manifestations neurologiques telles que tremor, ataxie, dystonie, démence et psychiatriques telles qu’irritabilité, troubles bipolaires, psychose) et biologiques (cytolyse, anémie hémolytique)
+T53	irrelevant 3450 3659	En fonction de la suspicion clinique et d’éventuelles minimes anomalies suspectées à l’échographie, le bilan peut être complété dans un second temps par une cholangio-pancréatographie par résonance magnétique 
+T54	irrelevant 3681 3997	Si le bilan ne met pas en évidence d’obstruction mécanique des voies biliaires, le diagnostic de cholestase intra-hépatique est retenu. L’étape suivante est de rechercher les anticorps anti-mitochondriaux, présents chez plus de 90% des patients atteints de cholangite biliaire primitive, avec une spécificité de 95% 
+T55	irrelevant 4008 4123;4124 4696	Figure 1: Marche à suivre devant des tests hépatiques perturbés et la suspicion d’une origine médicamenteuse [1–3]. AAM: anti­corps anti-mitochondries; AML: anticorps anti-muscle lisse; ANA: anticorps anti-nucléaires; CBP: cholangite biliairs primitive; CMV: cytomégalovirus; CSP: cholangite sclérosante primitive; EBV: virus d’Epstein-Barr; ERCP: cholangio-pancréatographie rétrograde; HAI: hépatite auto-immune; HAV/HBV/HCV/HEV: virus de l’hépatite A/B/C/E; IRM: imagerie par résonance magnétique; R: ratio = (ASAT/LSN)/(PAL/LSN), ASAT: aspartate aminotransférase, LSN: limite supérieure de la norme, PAL: phosphatase alcaline; US: échographie; VIH: virus de l’immunodéficience humaine.
+T56	procedure 4720 4742	échographie abdominale
+T57	disorder 4799 4823	sludge intra-vésiculaire
+T58	procedure 4829 4847	sérologies virales
+T59	labvalue 4860 4869	négatives
+T60	procedure 4887 4916	anticorps anti-mitochondriaux
+T61	procedure 4947 4961	 cholangio-IRM
+T62	disorder 5075 5083	cytolyse
+T63	disorder 5086 5108	 cholestase hépatiques
+T64	procedure 5110 5113	PAL
+T65	labvalue 5113 5122	 909 U/l,
+T66	procedure 5123 5126	GGT
+T67	labvalue 5127 5135	2730 U/l
+T68	procedure 5137 5154	bilirubine totale
+T69	labvalue 5155 5165	523 µmol/l
+T70	procedure 5167 5171	ALAT
+T71	labvalue 5172 5179	295 U/l
+T72	procedure 5183 5187	ASAT
+T73	labvalue 5188 5195	336 U/l
+T74	irrelevant 5199 5302;5305 5325;5327 5374;5376 5415;5417 5458;5460 5518	Question 3: A ce stade, lequel des examens suivant ne fait pas partie de la suite du bilan étiologique?   a) Biopsie hépatique  b) Cholangio-pancréatographie rétrograde (ERCP)  c) Dosage des anticorps anti-nucléaires  d) Dosage des anticorps anti-muscle lisse  e) Dosage des immunoglobulines et typisation des fractions
+T75	irrelevant 5520 5847	Il existe des syndromes de chevauchement entre cholangite biliaire primitive / primaire sclérosante et hépatite auto-immune, regroupant des caractéristiques immunologiques et histologiques des deux ­entités (tab. 1). Le dosage des IgG, des anticorps anti-­nucléaires et des anticorps anti-muscle lisse font donc partie du bilan
+T76	irrelevant 5850 5990;5991 6050;6051 6164;6165 6218;6219 6266;6267 6305;6306 6327;6328 6549;6550 6601;6602 6640;6641 6682;6683 6940;6941 6979;6980 7029;7030 7262;7263 7350;7351 7379;7380 7391;7392 7431;7432 7446;7447 7466;7467 7532;7533 7931	Tableau 1: Diagnostic différentiel des atteintes hépatiques avec leurs caractéristiques biologiques, radiologiques et ­histologiques [1, 5]. Atteinte hépatique	Biologie	Imagerie	Histologie	Association Hépatite auto-immune (HAI)	– ASAT/ALAT >3–10× LSN	Normale ou cirrhose	– Hépatite d’interface floride	– Tyhroïdite – PAL peut être élevée	– Rosette	– Maladie ­coeliaque – IgG élevés	– Empéeripolèse	– Colite ulcéreuse – ANA >1/40	– Polyarthrite ­rhumatoïde – AML anti-LKM1 >1/80 Cholangite biliaire primitive (CBP)	– PAL > 3× LSN	Normale ou cirrhose	Destruction canalaire floride: infiltrat ­inflammatoire intra- et péri-canalaire ­important et destruction de l’épithélium du canal biliaire	– Sjögren – ASAT/ALAT N ou ­discrètement élevées	– Thyroïdite – AAM >1/40	– Polyarthrite ­rhumatoïde – ANA spécifiques: anti-gp210, anti-sp100 Cholangite sclérosante primaire(CSP)	– PAL >3× LSN	Sténoses multi-­focales et dilatations ­segmentaires du ­canal cholédoque	Fibrose en «bulbe ­d’oignon» au niveau des canaux biliaires intra-hépatiques.	Maladie ­inflammatoire chronique de ­l’intestin (MICI) – ASAT/ALAT N ou ­discrètement élevées – pANCA atypiques, ANA, AML peuvent être présents Cholangite IgG4	IgG4 élevés	Sténoses multi-­focales et dilatations ­segmentaires du ­canal cholédoque	Infiltration inflam­matoire à plasmocytes IgG4 positifs dans les canaux biliaires et les espaces portes.	Pancréatite ­auto-­immune Chevauchement CBP et HAI	CBP:	Normale ou cirrhose	CBP: destruction ­canalaire floride	  – PAL >2× LSN ou GGT >5× LSN – AAM >1/40 HAI:	HAI: hépatite ­d’interface floride – ALAT >5× LSN – IgG >2× LSN ou AM Chevauchement CSP et HAI	Idem que HAI	Idem que CSP	Idem que HAI	  AAM: anticorps anti-mitochondrie; ALAT: alanine aminotransférase; AML: anticorps anti-muscle lisse; ANA: anticorps anti-nucléaires; ASAT: aspartate aminotransférase; GGT: gamma-glutamyltransférase; anti-LKM1: «liver kidney microsomal type 1 antibody»; LSN: limite supérieure de la norme; N: normal; PAL: phosphatase alcaline; pANCA: anticorps anticytoplasme des polynucléaires de type périnucléaire
+T77	irrelevant 7934 8138	Si les profils biologique et immunologique, de même que la cholangio-IRM ne permettent pas de poser un diagnostic, la biopsie hépatique est indiquée, surtout en cas de progression de l’atteinte hépatique 
+T78	irrelevant 8147 8373	Bien que la cholangio-pancréatographie rétrograde (ERCP) permette de bien visualiser d’éventuelles anomalies des voies biliaires, elle n’est pas indiquée chez notre patient dont la cholangio-IRM n’est pas suggestive d’anomalie
+T79	procedure 8400 8425	anticorps anti-nucléaires
+T80	labvalue 8431 8439	positifs
+T81	labvalue 8442 8446	1/80
+T82	procedure 8472 8494	anticorps anti-muscle 
+T83	labvalue 8505 8513	négatifs
+T84	procedure 8518 8523	 IgG 
+T85	labvalue 8530 8538	11,3 g/l
+T86	procedure 8562 8566	IgG4
+T87	labvalue 8569 8577	1,46 g/l
+T88	procedure 8603 8610	biopsie
+T89	disorder 8659 8687	hépatite aiguë cholestatique
+T90	disorder 8693 8735	lésions dystrophiques des canaux biliaires
+T91	disorder 8800 8841	dystrophique du canal biliaire principal 
+T92	disorder 8846 8873	vacuolisation cytoplasmique
+T93	disorder 8877 8885	apoptose
+T94	disorder 8888 8938	inflammation portale et réaction ductulaire active
+T95	disorder 8965 9037	Inflammation lobulaire et bilirubinostase canaliculaire et hépatocytaire
+T96	irrelevant 9062 9128;9131 9162;9164 9186;9188 9277;9279 9334	Question 4: Au vu de ces résultats, quel diagnostic ­retenez-vous?   a) Cholangite associée aux IgG4  b) Hépatite alcoolique  c) Syndrome de chevauchement entre cholangite biliaire ­primitive et hépatite auto-immune  d) Hépatite médicamenteuse sur amoxicilline/clavulanate
+T97	irrelevant 9336 9375	e) Hépatite médicamenteuse sur losartan
+T98	irrelevant 9377 9864	La cholangite associée aux IgG4 présente les mêmes caractéristiques que la cholangite primaire sclérosante. Elle doit être évoquée lors d’une hépatite cholestatique avec atteinte des voies biliaires à l’imagerie, surtout si associée à une pancréatite auto-immune [3]. Dans notre cas, les IgG4 sériques sont légèrement élevés mais la biopsie ne montre pas d’infiltration des espaces portes par des plasmocytes IgG4 positifs: une cholangite associée aux IgG4 ne peut donc pas être ­retenue
+T99	irrelevant 9867 10066	Les anticorps anti-nucléaires ne sont pas significativement positifs, les anticorps anti-muscle lisse et anti-mitochondriaux sont négatifs et les IgG non élevés, écartant un syndrome de chevauchement
+T100	irrelevant 10069 10323	Les lésions histologiques objectivées dans la biopsie, et tout particulièrement l’association d’un aspect d’hépatite cholestatique avec une atteinte des canaux biliaires, est très caractéristique d’une toxicité médicamenteuse à l’amoxicilline/clavulanate
+T101	irrelevant 10330 10525	Une hépatite alcoolique peut montrer des aspects histologiques de cholestase, mais ne cause pas de telles atteintes des canaux biliaires et se manifesterait plutôt par un aspect de stéatohépatite
+T102	irrelevant 10528 10760	Le losartan peut également induire une atteinte toxique du foie, mais en général celle-ci se manifeste plutôt par une cytolyse que par une cholestase (tab. 2) et n’est pas non plus associée à de telles atteintes des canaux biliaires
+T103	irrelevant 10801 10874;10875 10909;10910 10975;10976 11021;11022 11094;11095 11165;11166 11227;11228 11288;11289 11348;11349 11404;11405 11467;11468 11528;11529 11607;11608 11660;11661 11697;11698 11728;11729 11738	Tableau 2: Différents types de lésions hépatiques médicamenteuses [1, 2]. Lésions hépatiques médicamenteuses Hépato-cellulaires (R >5)	Cholestatiques (R <2 )	Mixtes (2 <R <5) AINS	Paracétamol	Amiodarone	IEC	Amitriptyline Allopurinol	Paroxétine	Amoxicilline/­clavulanate	Irbésartan	Azathioprime Acide acétylsalicylique	Phénytoïne	Azathioprine	Kétoconazole	Captopril Buproprion	Pyrazinamide	Azithromycine	Naproxène	Carbamazépine Diclofénac	Rifampicine	Carbamazépine	Névirapine	Clindamycine Ethanol	Rispéridone	Chlorpromazine	Phénothiazines	Enalapril Fluoxétine	Ritonavir	Clopidogrel	Rifampicine	Ibuprofène Isoniazide	Sertraline	Diclofénac	Sulfonylurées	Nitrofurantoïne Kétoconazole	Statine	Erythromycine	Terbinafine	Phénobarbital Lisinopril	Tétracycline	Ethanol	Triméthoprime/­sulfaméthoxazole	Phénothiazines Losartan	Trazodone	Ezétimibe	Tricycliques	Phénytoïne Méthyldopa	Valacyclovir	Sulfonamides Névirapine	Valproate	Trazodone Vérapamil
+T104	irrelevant 11739 11944	R = (ALAT/LSN)/(PAL/LSN)AINS: anti-inflammatoires non stéroïdiens; ALAT: alanine aminotransférase; IEC: inhibiteurs de l’enzyme de conversion; LSN = limite supérieure de la norme; PAL: phosphatase alcaline
+T105	irrelevant 11946 12001;12004 12051;12053 12128;12130 12218;12220 12322;12324 12432	Question 5: Quelle attitude adopter pour notre patient?   a) L’amoxicilline/calvulanate doit être évitée.  b) L’amoxicilline/calvulanate et l’amoxicilline seule doivent être évitées.  c) L’amoxicilline/calvulanate doit être évitée et une corticothérapie doit être débutée.  d) L’amoxicilline/calvulanate doit être évitée et un traitement par N-acétylcystéine doit être débuté.  e) L’amoxicilline/calvulanate doit être évitée et un traitement d’acide ursodésoxycholique doit être débuté.
+T106	procedure 12436 12447	 traitement
+T107	disorder 12454 12472	atteinte hépatique
+T108	drugs 12552 12564	amoxicilline
+T109	drugs 12565 12576	calvulanate
+T110	procedure 12517 12536	arrêt du médicament
+T111	drugs 12632 12644	amoxicilline
+T112	irrelevant 12601 12865	Par contre, l’utilisation de l’amoxicilline seule pourra être discutée. En effet, celle-ci est une cause rare de ­lésion hépatique et plusieurs études rapportent que des patients ayant développé une atteinte sur amoxicilline/calvulanate ont toléré son utilisation 
+T113	irrelevant 13201 13381	En cas d’une hépatite toxique sur paracétamol, le patient recevra de la N-acétylcystéine, mais ce traitement n’a pas été prouvé efficace lors d’atteinte due à d’autres médicaments 
+T114	irrelevant 13390 13586	L’acide ursodésoxycholique a été utilisé en cas de cholestase importante due à une atteinte hépatique médicamenteuse, mais les données montrant l’efficacité de cette pratique restent très limitées
+T115	irrelevant 13605 14549	Les lésions hépatiques d’origine médicamenteuse sont fréquentes: des études ont montré que les médicaments sont la cause la plus fréquente d’insuffisance hépatique aiguë aux Etats-Unis, en Europe et au Japon [4].Leur diagnostic est difficile, en raison de la multitude de tableaux cliniques et biologiques que les médicaments peuvent induire (allant d’une perturbation asymptomatique des tests hépatiques jusqu’à une insuffisance hépatique aiguë), de l’absence de marqueur biologique spécifique et d’une période de latence variable d’un médicament à l’autre. Le type de réaction médicamenteuse peut être intrinsèque (prédictible et dose-dépendant, comme pour le paracétamol) ou idiosyncratique. Ce deuxième type de réaction se rencontre le plus fréquemment avec l’utilisation d’antibiotiques et particulièrement avec l’amoxicilline/clavulanate. Les autres médicaments incriminés et leur type d’atteinte hépatique sont résumés dans le ­tableau 2
+T116	irrelevant 14552 14753	Le pronostic est en général bon après l’arrêt du médicament incriminé, avec seulement 10% d’évolution vers une insuffisance hépatique aiguë [1]. Le pronostic est meilleur en cas de lésion cholestatique
+T117	irrelevant 14756 15660	Le diagnostic de lésion d’origine médicamenteuse reste un diagnostic d’exclusion et requiert une anamnèse médicamenteuse rigoureuse, comprenant même des médicaments arrêtés depuis plusieurs semaines voire mois. Les atteintes d’origine médicamenteuse partagent la présentation clinique et biologique d’autres pathologies hépatiques. La biopsie est rarement spécifique d’une atteinte médicamenteuse mais reste parfois nécessaire pour écarter ou confirmer un diagnostic alternatif. La biopsie est aussi indiquée si le diagnostic d’hépatite auto-immune reste dans le diagnostic différentiel et nécessite une corticothérapie, si l’atteinte hépatique persiste ou progresse malgré l’arrêt du médicament incriminé, et si le médicament possiblement incriminé doit être poursuivi [3]. Un résumé de la prise en charge en cas d’atteinte hépatique et suspicion d’une origine médicamenteuse est résumé dans la figure 1
+T118	irrelevant 15663 15672;15675 15748	Réponses:   Question 1: b. Question 2: b. Question 3: b. Question 4: d. Question 5: a

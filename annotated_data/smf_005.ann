@@ -1,0 +1,66 @@
+T1	disorder 109 149	 cyanose douloureuse des doigts II et V 
+T2	disorder 319 327	asthénie
+T3	disorder 331 347	 perte pondérale
+T4	disorder 353 365	état fébrile
+T5	disorder 422 433	arthralgies
+T6	disorder 438 446	myalgies
+T7	disorder 475 482	dyspnée
+T8	disorder 514 526	palpitations
+T9	disorder 487 506	douleurs thoracique
+T10	disorder 571 594	hypertension artérielle
+T11	risk 607 641	tabagisme chronique actif à 40 UPA
+T12	disorder 648 656	surpoids
+T13	drugs 722 732	amlodipine
+T14	drugs 769 786	acétylsalicylique
+T15	disorder 878 888	hypertendu
+T16	disorder 950 957	cyanose
+T17	disorder 976 987	hypothermie
+T18	procedure 1051 1063	test d’Allen
+T19	procedure 1158 1176	test du chandelier
+T20	disorder 1335 1349	sclérodactylie
+T21	disorder 1513 1528	masse pulsatile
+T22	irrelevant 1648 1716;1719 1802;1804 1845;1847 1969;1971 2044;2046 2128	Question 1: A ce stade, quels examens supplémentaires proposez-vous?   a) Continuer le même traitement médicamenteux et revoir le patient dans une semaine  b) Introduire un traitement anticoagulant  c) Adresser le patient à un angiologue pour un examen vasculaire par échographie-doppler et mesure des pressions digitales  d) Adresser le patient à un angiologue pour un examen par capillaroscopie  e) Adresser le patient en radiologie pour un examen par CT natif thoraco-abdominal
+T23	irrelevant 2130 2545;2547 2832	A ce stade, l’anamnèse et l’examen clinique ne suffisent pas à poser un diagnostic définitif et d’autres ­investigations sont nécessaires. Une attitude expectative avec nouveau contrôle à une semaine n’est donc pas suffisante et fait courir un risque d’aggravation intercurrente au patient. De même, l’introduction d’une anticoagulation avant d’avoir procédé à d’autres investigations n’est pas indiquée à ce stade.  La capillaroscopie est un examen non invasif qui permet d’évaluer la microcirculation au niveau des doigts avec l’aide d’un microscope et qui s’avère utile dans certaines maladies immunologiques comme la sclérodermie. Cependant, nous n’avons pas d’argument pour une maladie de ce type.
+T24	irrelevant 2834 3116	Le CT natif thoraco-abdominal ne fournit que peu d’information sur l’anatomie artérielle et n’est donc pas ­indiqué. Un angio-CT ne permettrait pas de confirmer le diagnostic d’ischémie, raison pour laquelle il n’est pas indiqué avant la réalisation d’un bilan angiologique complet.
+T25	procedure 3186 3205	 examen vasculaire 
+T26	procedure 3245 3276	pressions artérielles digitales
+T27	disorder 3489 3506	ischémie digitale
+T28	procedure 3559 3594	écho-doppler des membres supérieurs
+T29	disorder 3787 3854	occlusion des artères ­digitales propres des doigts II et IV droits
+T30	irrelevant 3897 3982;3985 4007;4009 4046;4048 4076;4078 4090;4092 4117	Question 2: Quel est votre diagnostic différentiel par rapport à l’atteinte digitale?   a) Syndrome de Raynaud  b) Ischémie aiguë digitale bilatérale  c) Hématome digital spontané  d) Engelures  e) Acrocyanose essentiell
+T31	disorder 4304 4329	’ischémie aiguë digitale.
+T32	irrelevant 4331 5297;5299 5396;5399 5446;5448 5469;5471 5486;5488 5516;5518 5539	Le syndrome de Raynaud correspond à un vasospasme localisé au ­niveau des extrémités, plutôt paroxystique, souvent ­déclenché par l’exposition au froid, entraînant une gêne réversible et des modifications de couleur des téguments (pâleur, cyanose, érythème). Il peut être idiopathique ou secondaire (sclérodermie, maladies hématologiques, médicamenteux). L’hématome digital spontané est une entité bénigne qui se présente comme une ­ecchymose digitale secondaire à la rupture spontanée d’une veine digitale sous-cutanée, qui peut initialement être douloureuse mais qui évolue favorablement. L’engelure est une lésion inflammatoire caractérisée par une rougeur qui apparaît sur la peau des extrémités à la suite d’une exposition prolongée au froid. L’acrocyanose primaire est un trouble non douloureux, bénin, qui touche le plus souvent les jeunes femmes de moins de 30 ans, caractérisé le plus souvent par l’apparition de mains violacées, froides et moites [1–3; 6].  Question 3: Quelle est la cause la plus probable de l’ischémie aiguë digitale chez notre patient?   a) Occlusion thrombotique des artères digitales  b) Embolie artérielle  c) Connectivite  d) Phénomène paranéoplasique  e) Maladie de Buerger
+T33	disorder 5593 5616	ischémie aiguë digitale
+T34	disorder 5774 5819	 occlusion thrombotique des artères digitales
+T35	irrelevant 5872 6799	Les connectivites sont caractérisées par la formation d’auto-anticorps dirigés contre un ou plusieurs organes. Dans le cas de la sclérodemie par exemple, l’inflammation aboutit à un dépôt excessif de collagène dans les tissus et occasionne des troubles de la circulation sanguine. Dans le cas de notre patient, l’absence d’autres symptômes suggestifs d’une connectivite, comme une altération de l’état général, perte de poids ou état fébrile rend cette étiologie moins probable. La même réflexion s’applique à l’hypothèse d’un état ­hypercoagulable dans un contexte paranéoplasique. En effet, l’anamnèse et le status ne révèlent pas d’éléments suggestifs d’une néoplasie active. Le diagnostic de maladie de Buerger peut être évoqué puisque notre patient est tabagique et de sexe masculin. Néanmoins, cette maladie commence généralement à un plus jeune âge (<45 ans) et correspond dans tous les cas à un ­diagnostic d’exclusion.
+T36	procedure 6834 6883	échodoppler de l’aorte et des membres inférieurs 
+T37	disorder 6919 6950	anévrisme de l’aorte abdominale
+T38	disorder 6952 6955	AAA
+T39	irrelevant 7139 7253;7255 7315;7318 7362;7364 7388;7390 7436;7438 7469;7471 7515	Au vu de l’examen angiologique et de l’hypothèse diagnostique, un bilan étiologique complémentaire est nécessaire.  Question 4: Dans ce contexte, quel examen n’est pas indiqué?   a) Un angio-CT de l’aorte thoraco-abdominale  b) Une échocardiographie  c) Un enregistrement ECG de 24 heures (Holter)  d) Un bilan biologique extensif  e) Une artériographie des membres supérieurs
+T40	procedure 7520 7558	angio-CT de l’aorte thoraco-abdominale
+T41	disorder 7676 7691	AAA infrarénal 
+T42	disorder 7742 7751	anévrisme
+T43	disorder 7756 7766	dissection
+T44	disorder 7773 7792	plaques emboligènes
+T45	procedure 7928 7934	Holter
+T46	procedure 7938 7955	échocardiographie
+T47	disorder 7979 8004	 fibrillation auriculaire
+T48	disorder 8006 8008	FA
+T49	disorder 8208 8225	ischémie digitale
+T50	disorder 8332 8350	hémopathie maligne
+T51	procedure 8359 8366	blastes
+T52	disorder 8371 8384	thrombocytose
+T53	disorder 8391 8403	polyglobulie
+T54	drugs 8454 8465	rivaroxaban
+T55	procedure 8490 8529	’artériographie des membres supérieurs 
+T56	procedure 8636 8654	bilan angiologique
+T57	procedure 8660 8671	l’angio-CT 
+T58	procedure 8679 8706	 geste de revascularisation
+T59	procedure 8832 8889	une cure endovasculaire par endoprothèse aorto-bi-iliaque
+T60	disorder 9208 9222	FA permanente 
+T61	procedure 9245 9274	anticoagulation au long cours
+T62	procedure 9343 9371	anti-agrégation plaquettaire
+T63	irrelevant 9396 9406;9408 9746;9748 9799;9800 9827;9828 9858;9859 9939;9940 10021;10022 10045;10046 10065;10066 10109;10110 10136;10137 10164;10165 10192;10193 10243;10244 10298;10299 10328;10329 10478;10479 10562;10563 10606;10607 10678;10679 10761;10762 10807	Discussion  L’ischémie aiguë digitale est une pathologie rare, mais grevée d’une morbidité très importante si elle n’est pas diagnostiquée rapidement et traitée de façon adéquate, pouvant aller jusqu’à l’amputation. Au vu du très large spectre étiologique (tab. 1), cette pathologie concerne la médecine interne de même que de nombreuses spécialités.  Tableau 1: Etiologie des ischémies digitales [1–5]. Connectivites	Sclérodermie Lupus érythémateux disséminé Connectivite mixte («mixed connective tissu disorder» [MCTD], Syndrome de Sharp) Connectivite indifférenciée («undifferentiated connective tissue disease» [UCTD]) Polyarthrite rhumatoïde Syndrome de Sjögren Vasculites	Vasculites des petits vaisseaux: – Granulomatose de Wegener – Syndrome de Churg-Strauss – Polyangéite microscopique – Vasculite leucocytoclasique nécrosante cutanée – Vasculite cryoblobulinémique: VIH, hépatite B et C – Purpura de Henoch-Schönlein Causes emboliques	Cardiopathies emboligènes: fibrillation auriculaire, thrombus intracavitaire, valvulopathie, myxome de l’oreillette ou endocardite Sténose ou anévrisme de l’artère sous-clavière: athéromateuse, post-traumatique Syndrome du défilé cervico-thoraco-brachial Causes hématologiques	Syndrome des anticorps antiphospholipides (SAPL) Néoplasies myéloprolifératives (thrombocytémie essentielle et polycythemia vera) Coagulation intravasculaire disséminée (CIVD)
+T64	irrelevant 10808 10887;10888 11023;11024 11088;11089 11186;11187 11193;11194 11298;11299 11307;11308 11316;11317 11367;11368 11415;11416 11511;11512 11543;11544 11581;11582 11634;11635 11690;11692 11941;11943 12321	Causes néoplasiques	Cancers du sein, de l’ovaire, de l’estomac, du poumon, ORL Causes médicamenteuses et toxiques	Tartrate d’ergotamine (ergotisme), bétabloquants, contraception orale en association avec le tabac Chimiothérapie ou traitement immunosuppresseur par méthotrexate Vasoconstricteurs locaux: abus de sympathomimétiques par voie nasale (prednazoline, fénoxazoline) Amines Nicotine, chlorure de vinyle, chrome, arsenic, résine époxy, trichloroéthylène, benzène et silicone Cocaïne Cannabis Autres causes	Vasculites associées au COVID-19 [7] Maladie de Buerger (thromboangéite oblitérante) Maladie des vibrations: utilisation de tronçonneuses, marteauxpiqueur , fraiseuses, polisseuses Syndrome du marteau hypothénar Artériopathie digitale sur athérome Hémodétournement: fistule artérioveineuse de dialyse Iatrogène: ponction ou cathétérisme de l’artère radiale  La prise en charge initiale doit toujours comporter une évaluation angiologique afin de déterminer l’atteinte artérielle et le niveau d’ischémie, qui permettront d’orienter les investigations nécessaires et l’introduction d’un traitement en urgence.  Une anamnèse détaillée est très importante pour l’orientation diagnostique. En plus de l’âge et du sexe du patient, de sa profession et de ses hobbies, il est important de préciser ses facteurs de risque cardio-vasculaires notamment le tabagisme, ses antécédents et les traitements en cours, ainsi que la présence d’un syndrome de Raynaud, uni- ou bilatéral et l’âge d’apparitio
+T65	irrelevant 12325 12661;12663 12848;12850 13194;13196 13983;13985 14126;14128 14167;14169 14287;14289 14411;14413 14525	A l’examen clinique cardio-vasculaire, les pouls périphériques sont palpés et des souffles vasculaires ou cardiaques recherchés. La pression artérielle doit être mesurée aux deux bras et un test d’Allen réalisé. L’épreuve du chandelier et la manœuvre de Wright sont effectuées à la recherche d’un syndrome du cervico- thoraco-brachial.  La prise de pressions artérielles digitales sert à confirmer le diagnostic d’ischémie digitale. Une occlusion ou une sténose artérielle sera ensuite recherchée par échographie-doppler.  Après le bilan angiologique initial qui permet de poser le diagnostic, mais également de s’assurer de l’absence de source embolique au niveau du membre supérieur, la réalisation d’un bilan extensif étiologique est ­requise. Celui-ci sera guidé par l’appréciation clinique, en éliminant en priorité les causes les plus fréquentes (tab. 1) [1–5].  La prise en charge thérapeutique dépend de l’étiologie. Dans tous les cas, des mesures préventives devraient être instaurées d’emblée (protection contre le froid, éviction des médicaments vasoconstricteurs ainsi que sevrage du tabac) et un traitement médicamenteux améliorant la perfusion artérielle doit être débuté (anticoagulation, parfois en association avec un vasodilatateur artériel tel que l’ilomédine®). Des antalgiques peuvent être nécessaires en phase aiguë pour les cas les plus sévères. En cas d’ulcération, les soins locaux doivent être prodigués afin d’éviter une surinfection. Par la suite, l’adaptation du traitement de fond se fait en fonction de l’étiologie retenue (traitement anticoagulant ou antiplaquettaire, traitement de fond d’une connectivite, chimiothérapie).  Dans la majorité des cas, une prise en charge chirurgicale n’est pas requise. L’amputation est réservée aux cas qui évoluent défavorablement.  Messages clés pour le médecin praticien  – Bien que l’ischémie aiguë digitale soit une pathologie rare, il est important de la reconnaitre et de l’investiguer.  – Un bilan angiologique initial est nécessaire pour ­déterminer la sévérité de l’ischémie et guider le ­bilan étiologique.  – La survenue d’une ischémie aiguë digitale impose la mise en route d’un traitement symptomatique et étiologique
+T66	irrelevant 14528 14537;14540 14598	Réponses:   Question 1: c. Question 2: b. Question 3: b, Question 4: e

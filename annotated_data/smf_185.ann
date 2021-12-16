@@ -1,0 +1,72 @@
+T1	irrelevant 0 8;10 460;462 481;482 500	Contexte  Les thrombi de l’aorte descendante sont une cause rare mais dangereuse à la fois d’embolies viscérales et d’embolies périphériques. Machleder et al. [1] ont décrit une incidence de 0,45% (48 cas) sur 10 671 autopsies. Les thrombi de l’aorte descendante sont souvent découverts fortuitement ou dans le cadre d’occlusions vasculaires emboliques. Le traitement optimal reste sujet à controverse [2–5]. Des lignes directrices correspondantes font défaut.  Présentation du cas Statut et anamnèse
+T2	disorder 528 548	syndrome métabolique
+T3	disorder 556 579	diabète sucré de type 2
+T4	disorder 580 604	 hypertension artérielle
+T5	disorder 606 618	dyslipidémie
+T6	disorder 620 665	anamnèse familiale positive d’athéro­sclérose
+T7	disorder 691 737	ischémie critique chronique de la jambe droite
+T8	disorder 766 787	occlusions emboliques
+T9	irrelevant 861 870	Résultats
+T10	disorder 879 903	fibrillation auriculaire
+T11	procedure 933 952	électrocardiogramme
+T12	procedure 954 957	ECG
+T13	procedure 959 965	Holter
+T14	procedure 1007 1024	tomodensitométrie
+T15	procedure 1026 1029	TDM
+T16	disorder 1035 1068	thrombus dans l’aorte descendante
+T17	labvalue 1078 1091	21 × 7 × 7 mm
+T18	procedure 1162 1197	échocardiographie transœsophagienne
+T19	procedure 1199 1202	ETO
+T20	disorder 1232 1247	thrombus mobile
+T21	disorder 1288 1310	embolies périphériques
+T22	disorder 1315 1337	foramen ovale perméabl
+T23	disorder 1345 1363	myxome auriculaire
+T24	irrelevant 1400 1656;1658 1668	Figure 1: Angio-TDM thoracique initiale avec mise en évidence d’un thrombus intra-aortique de 21 x 7 x 7 mm. Le thrombus est situé 7 cm distalement par rapport à la naissance de l’artère subclavière gauche.A ) Vue axiale,B ) Vue sagittale,C ) Vue coronale.  Traitement
+T25	disorder 1684 1719	embolies périphériques récidivantes
+T26	procedure 1756 1803	réparation endovasculaire de l’aorte thoracique
+T27	procedure 1805 1810	TEVAR
+T28	disorder 1830 1838	thrombus
+T29	procedure 1862 1885	endoprothèse vasculaire
+T30	procedure 1889 1901	endoprothèse
+T31	procedure 2120 2123	TDM
+T32	disorder 2158 2178	thrombus intra-mural
+T33	procedure 2184 2205	anticoagulation orale
+T34	procedure 2207 2210	ACO
+T35	drugs 2216 2225	Marcoumar
+T36	procedure 2250 2277	antiagrégation plaquettaire
+T37	drugs 2293 2301	Aspirine
+T38	procedure 2355 2381	analyses de la coagulation
+T39	procedure 2433 2438	TEVAR
+T40	procedure 2454 2473	coagulation activée
+T41	procedure 2498 2507	D-dimères
+T42	labvalue 2508 2514	élevés
+T43	procedure 2530 2553	thrombine-antithrombine
+T44	procedure 2555 2558	TAT
+T45	labvalue 2560 2565	élevé
+T46	disorder 2656 2684	évènements thromboemboliques
+T47	procedure 2732 2745	thrombophilie
+T48	procedure 2755 2766	vascularite
+T49	disorder 2788 2813	processus paranéoplasique
+T50	procedure 2847 2878	antigène prostatique spécifique
+T51	procedure 2880 2883	PSA
+T52	procedure 2897 2913	marqueur tumoral
+T53	procedure 2917 2920	TDM
+T54	disorder 2936 2942	thromb
+T55	procedure 2957 2969	endoprothèse
+T56	procedure 2984 2987	TDM
+T57	procedure 2996 3039	activation non spécifique de la coagulation
+T58	procedure 3043 3046	ACO
+T59	drugs 3051 3060	Marcoumar
+T60	drugs 3102 3110	Aspirine
+T61	procedure 3133 3163	international normalized ratio
+T62	procedure 3166 3169	INR
+T63	labvalue 3174 3177	2,5
+T64	irrelevant 3212 3272;3273 3383;3384 3439;3440 3577;3578 3719;3720 3755;3756 3882;3883 3914;3915 3995;3996 4097	Tableau 1: Analyses d’hématologie-hémostaséologie réalisées. Bilan de thrombophilie	Mutation G20210A du facteur II, facteur V Leiden, D-dimères, complexe TAT, facteur VIII Analyse Von Willebrand	Antigène du FVW, activité du FVW Coagulation basale	Quick/INR, TCA, temps de thrombine, fibrinogène, facteurs II, V, VII et X (afin d’exclure un INR pseudo-thérapeutique) Syndrome des antiphospholipides	Anticorps anti-cardiolipine et anticorps anti-bêta-2-glycoprotéine-I de types IgG et IgM, lupus anticoagulant Homocystéinémie	Homocystéine à jeun Hémogramme	Hémoglobine, hématocrite, érythrocytes, indices, réticulocytes, leucocytes, numération différentielle, thrombocytes Maladie de Vaquez	Mutation JAK2 Dépistage de la thrombopénie induite par l’héparine	ELISA GTI PF4, ID-HPF4 PaGIA TAT: complexe thrombine-antithrombine; FVW: facteur Von Willebrand; TCA: temps de céphaline ­activée.
+T65	irrelevant 6496 6506;6508 6980;6981 8358;8360 9089;9091 9575;9577 9605;9607 9822;9824 9966;9967 9975;9977 10219	Discussion  Les embolies causées par des thrombi dans l’aorte descendante peuvent être potentiellement fatales. Il y a un risque d’ischémie réno-viscérale ou périphérique. La prise en charge thérapeutique optimale des thrombi de l’aorte descendante n’est pas clairement déterminée. En cas de thrombus découvert fortuitement ou après une première embolie, il est tout à fait justifié d’adopter une attitude attentiste et d’instaurer une ACO optimale. Un contrôle radiologique est recom mandé après trois mois (de préférence par angio-TDM). Etant donné que notre patient avait déjà présenté plusieurs embolies périphériques et qu’il était en outre symptomatique, nous avons opté pour un traitement endovasculaire par TEVAR. La manœuvre en elle-même peut également provoquer une embolie. Au vu de la situation à risque du patient avec syndrome métabolique et embolies récidivantes, nous estimons rétrospectivement que notre décision thérapeutique était la bonne, bien qu’un traitement purement médicamenteux soit également mentionné par certains experts. Ainsi, des cas dans lesquels les thrombi se sont dissous sous ACO grâce à la fibrinolyse endogène ont été décrits [2, 6]. En cas d’embolies récidivantes, une prise en charge plus agressive doit être envisagée, faisant appel soit à la TEVAR [7, 8] soit à la thrombectomie ouverte [9]. Des procédés mini-invasifs ne sont actuellement pas disponibles. Dans deux exemples de cas [10, 11], le système mini-invasif AngioVAC a été utilisé en «off-label». Ce dispositif est pour l’instant uniquement autorisé pour le système vasculaire veineux. Avec ce dispositif, il est nécessaire de disposer d’une artère d’accès ayant un diamètre interne d’au minimum 8 mm; ainsi, dans un cas rapporté dans la littérature [10], l’artère subclavière gauche s’est disséquée et rompue, si bien qu’un «stent» couvert a dû être utilisé.  Comme le montre notre exemple, après TEVAR également, des thrombi de volume croissant peuvent se former au sein de l’endoprothèse. Le traitement de cette complication reste toujours discuté de manière controversée dans la littérature. Les lignes directrices actuelles [3] préconisent de rechercher rapidement la source d’embolie y compris au moyen de l’ETO comme modalité d’imagerie de premier choix; la TDM et l’IRM fournissent des informations complémentaires. Dans le cadre de la recherche de la cause, il convient d’exclure des causes paranéoplasiques, cardiologiques, rhumatologiques, ainsi qu’hématologiques-hémostaséologiques. Le choix du traitement devrait si possible faire l’objet d’une concertation interdisciplinaire.  Si la décision se porte sur une ACO, une réduction du thrombus devrait être documentée par un examen d’imagerie de contrôle. En cas de thrombi mobiles et de progression des thrombi, il convient d’opter pour une prise en charge plus agressive. Avec la TEVAR, il est possible de tenter de fixer le thrombus à la paroi aortique afin de prévenir une embolie supplémentaire. Seuls des examens d’imagerie de contrôle réguliers peuvent indiquer si cette méthode thérapeutique est fructueuse.  L’essentiel pour la pratique  • L’aorte thoracique doit être envisagée comme source d’embolie lorsque d’autres causes d’embolies périphériques et viscérales ont été exclues. L’angio-TDM et l’angio-IRM sont les modalités d’imagerie à privilégier.  • Le type de traitement devrait faire l’objet d’une concertation interdisciplinaire et le traitement devrait être mis en œuvre dans un hôpital central.  • Parmi les options thérapeutiques disponibles figurent l’anticoagulation orale, la thrombectomie ouverte et la fixation endovasculaire par endoprothèse (TEVAR). Des cas d’aspiration du thrombus ont été décrits chez des patients sélectionnés.
+T66	irrelevant 4099 5740;5742 5913;5915 6181;6183 6192	17 mois après la TEVAR, le patient s’est présenté avec une ischémie aiguë des deux jambes d’origine embolique, suite à quoi une embolectomie ouverte bilatérale a été réalisée. Un thrombus de 10 × 10 × 10 mm dans l’aorte descendante, au sein de l’endoprothèse, a été identifié comme cause, et ce malgré une ACO et une ­antiagrégation plaquettaire adéquates (fig. 2). Lors de l’examen de contrôle réalisé 19 mois après la TEVAR, le thrombus intra-aortique avait augmenté de volume (51 × 16 × 10 mm) malgré l’INR cible augmenté de 3,0–4,0 (fig. 3A–C), de sorte que l’indication d’une chirurgie ouverte a été posée. Lors de l’admission à l’hôpital, le patient a à nouveau présenté une embolie avec occlusion oligosymptomatique de la bifurcation aortique. En utilisant la machine cœur-poumons comme dérivation cardiaque gauche, l’aorte a été remplacée par une ­prothèse synthétique à partir de l’artère subclavière gauche jusqu’au milieu de l’aorte descendante via une thoracotomie gauche. L’anticoagulation s’est faite au moyen d’héparine non fractionnée. L’intensité de l’anticoagulation en intra-opératoire a été surveillée sur la base de l’ACT («activated clotting time»). Dès l’arrêt de l’utilisation de la machine cœur-poumons, l’héparine non fractionnée a été antagonisée par protamine. Par ailleurs, le fibrinogène a été corrigé par administration de plasma frais congelé et/ou de concentré de fibrinogène au besoin. Le lendemain, en l’absence de pouls pédieux, une thrombectomie bilatérale de la bifurcation aortique via abords fémoraux a été réalisée en raison de thrombi résiduels. Une thrombopénie induite par l’héparine a été exclue.  Figure 2: Ordre chronologique des opérations (ovales rouges), avec valeurs d’INR respectives (valeur moyenne mensuelle: barres bleues). La TEVAR a été réalisée au temps T.  Figure 3: Angio-TDM thoracique 19 mois après le recouvrement du thrombus avec une endoprothèse thoracique de 24 mm de diamètre et de 15 cm de longueur. Thrombose croissante au sein de l’endoprothèse thoracique.A ) Coupe axiale,B ) Coupe sagittale,C ) Coupe coronale.  Evolution
+T67	procedure 6258 6261	TDM
+T68	procedure 6310 6331	remplacement aortique
+T69	procedure 6385 6388	ACO
+T70	drugs 6393 6402	Marcoumar
+T71	procedure 6429 6456	antiagrégation plaquettaire
+T72	drugs 6461 6469	Aspirine

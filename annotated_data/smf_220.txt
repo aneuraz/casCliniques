@@ -1,0 +1,109 @@
+Description de cas
+
+Une patiente âgée de 74 ans a été retrouvée inconsciente dans son lit par son mari alors que cela faisait déjà quelques jours qu’elle se plaignait de malaise accompagné par des nausées et des vomissements. Les services de secours ont trouvé la patiente dans un état de déshydratation, avec une circulation sanguine centralisée et une respiration agonique. Le rythme initial documenté était une asystolie. La réanimation mécanique et médicamenteuse ont été initiées. Après 40 minutes, un rétablissement de la circulation sanguine a été atteint.
+
+Les antécédents médicaux indiquaient un syndrome métabolique avec diabète sucré de type 2, une hypertension artérielle, une dyslipidémie et une obésité. La patiente recevait un biguanide (metformine), un inhibiteur de la DPP-4 (Januvia®) et une insuline «bed-time» (Levemir®) pour le traitement du diabète. La gestion du diabète par la patiente a toutefois été décrite comme étant minimaliste par ses proches ainsi que son médecin de famille. La patiente prenait également régulièrement un inhibiteur de l’ACE ainsi qu’un diurétique de l’anse.
+
+Dans la salle de réanimation, la patiente, intubée et nécessitant des catécholamines, présentait un score de Glasgow de 3 et un rythme d’échappement jonctionnel lent ainsi qu’une hypothermie prononcée avec température de 31,7 °C. En raison d’une hypoglycémie initiale (glycémie à 3,7 mmol), les services de secours avaient déjà administré 12 g de glucose.
+
+La gazométrie artérielle a permis de documenter une acidose métabolique sévère. La valeur de pH était de 6,6 et le taux de lactate de 14,4 mmol/l. Les analyses de laboratoire ont en outre révélé une insuffisance rénale aiguë avec une créatinine à 927 mmol/l ainsi qu’une dysélectrolytémie prononcée (Na 127 mmol/l, K 6,2 mmol/l, Mg 1,37 mmol/l, HCO3- <5 mmol/l, phosphate 5,17 mmol/l). Il n’y avait pas d’indice évocateur d’une anémie; la valeur d’HbA1c, qui s’élevait à 9,2%, a montré un contrôle insuffisant de la glycémie à long terme.
+
+1. Quelle est la cause la plus probable de l’acidose ­métabolique de la patiente?
+
+
+a) Acidocétose
+
+b) Acidose lactique associée à la metformine
+
+c) Intoxication médicamenteuse
+
+d) Hémorragie gastro-intestinale aiguë
+
+e) Choc cardiogénique
+
+Les analyses de laboratoire ont mis en évidence une acidose lactique, avec un taux plasmatique normal de chlorure et un trou anionique augmenté. Des examens supplémentaires ont été réalisés afin de faire la distinction étiologique entre une accumulation de lactate due à une dégradation insuffisante du lactate avec hypoxie liée à une hypoperfusion tissulaire dans le cadre de la respiration cellulaire (acidose lactique de type A) et une accumulation de lactate due à une production accrue de lactate sans hypoxie dans le cadre d’une acidose lactique de type B [12], qui survient par ex. en cas d’insuffisance hépatique aiguë, de syndrome de l’intestin court ou d’affections tumorales. L’absence de mise en évidence de corps cétoniques dans l’urine résiduelle a permis d’exclure une acidocétose en tant que cause de l’état de choc de la patiente. En raison de l’alcooltest négatif et du dépistage toxicologique ne présentant pas d’anomalies, rien n’indiquait la présence d’une acidose lactique de type B induite par une potentielle intoxication éthyli­que dans une intention suicidaire. L’examen clinique, les analyses de laboratoire ainsi que l’anamnèse indirecte n’ont pas révélé d’indices suggérant une acidose lactique de type B aiguë. A la tomodensitométrie, une hémorragie intracrânienne ou une embolie pulmonaire ont été exclues. A l’ECG, des modifications diffuses du segment ST indiquaient une implication cardiaque. Toutefois, l’échocardiographie n’a pas montré d’anomalies des mouvements cardiaques ou de signes d’une surcharge ventriculaire droite. La cause cardiaque était donc peu probable malgré des marqueurs cardiaques élevés. L’examen clinique ainsi que les ­valeurs d’hémoglobine stables n’indiquaient pas d’hémorragie gastro-intestinale aiguë.
+
+Pour mettre en évidence une possible intoxication, l’osmolalité sérique a été mesurée et calculée (2× so­dium + glucose + urée). La différence entre l’osmolalité mesurée et calculée, qui correspond au trou osmotique, était considérablement supérieure à la valeur limite de 15 mosmol/kg, indiquant une intoxication par des substances à action osmotique. En raison du diabète, de l’acidose sévère, de l’hypothermie et de l’insuffisance rénale aiguë ainsi que des nausées et vomissements à l’anamnèse, le taux de metformine a été déterminé. Il était presque 70× ­supérieur à la norme (68,8 mg/l, norme: ­0,1–1,0 mg/l). Ainsi, le diagnostic d’acidose lactique associée à la metformine (ALAM) avec insuffisance cardio-circulatoire aiguë et état de choc a été posé. Une acidose lactique secondaire de type A est en outre certainement survenue dans le cadre de l’hypoxie induite par l’état de choc et de l’hypoperfusion.
+
+2. Quel est le traitement de choix en cas d’ALAM sévère?
+
+
+a) Charbon actif
+
+b) Hémofiltration/dialyse
+
+c) Hydratation
+
+d) Diurétiques
+
+e) Antidote
+
+Il n’existe pas d’antidote spécifique pour la metformine. Le traitement consiste en la stabilisation hémodynamique ainsi que le maintien de l’oxygénation. En raison de l’absorption intestinale retardée, le charbon actif peut également être employé après plusieurs heures pour la décontamination. En cas d’acidose métabolique sévère, un traitement de substitution rénale est indiqué [1, 10, 12] (tab. 1).
+
+Tableau 1: Aperçu du traitement en cas d’acidose lactique associée à la metformine.
+1) Stabilisation hémo­dynamique	Catécholamines, gestion de la volémie, intubation
+2) Charbon actif	Peut être employé pour induire une adsorption plusieurs heures après l’intoxication
+3) Bicarbonate	Tamponnage en cas de valeurs de pH <7,1 Inconvénients:
+ 	déviation vers la gauche de la courbe de dissociation de l’hémoglobine
+ 	production de CO2 accrue
+ 	aggravation de l’acidose intracellulaire
+ 	vasodilatation après l’administration de bolus
+ 	surcharge en sodium
+4) Traitement de ­substitution ­rénale	Utilisation en cas d’acidose métabolique prononcée
+ 	hémodialyse pour compenser efficacement la ­dysélectrolytémie
+ 	en cas d’instabilité circulatoire, traitement en continu («continuous veno-venous hemofiltration» [CVVH])
+ 	correction de l’acidose ET élimination de la metformine
+5) Hypothermie	Neuroprotectrice; compenser seulement lentement
+
+Après l’admission en unité de soins intensifs, l’hémofiltration avec réchauffement contrôlé de la patiente à la température de 35 °C a été initiée. L’hémofiltration a permis de compenser les troubles électrolytiques. La patiente s’est rétablie lentement et a pu être extubée. Le traitement de substitution rénale a été arrêté après 2 semaines. Après 10 jours dans un état d’«aware wakefulness» sans interaction avec l’environnement, mais avec une fonction conservée à l’électroencéphalographie, la patiente a progressivement retrouvé un état de conscience normal. Elle fût finalement capable de se mobiliser et de communiquer. Au cours de l’évolution, les reins sont également redevenus fonctionnels, avec un taux de filtration glomérulaire (TFG) encore nettement réduit de 30 ml/min/m2.
+
+Rétrospectivement, la cause du choc doit être considérée comme étant multifactorielle. On suppose une déshydratation induite par absorption réduite de liquide dans le cadre des troubles gastro-intestinaux avec insuffisance rénale d’origine pré-rénale consécutive en outre renforcée par la prise de diurétiques et d’inhibiteurs de l’ACE. Cela a probablement conduit à une accumulation de metformine avec une acidose métabolique sévère qui a causé l’arrêt cardio-circulatoire. L’hypothermie était neuroprotectrice et a permis de limiter les dommages cérébraux induits par l’hypoxie en réduisant les processus métaboliques cérébraux. Le taux de metformine élevé et l’évolution retardée avec persistance de l’acidose lactique malgré une correction appropriée de la volémie et l’hémofiltration viennent corroborer le diagnostic d’une ALAM.
+
+Discussion
+
+Selon les lignes directrices actuelles des sociétés internationales de diabétologie, la metformine est et reste le médicament optimal pour la monothérapie du diabète de type 2 [3, 5]. Elle réduit la valeur d’Hba1C d’env. 1% en améliorant l’effet de l’insuline sur le foie et les muscles, et exerce en outre un effet positif sur le poids et le métabolisme. La metformine n’induit pas d’hypo­glycémies. Elle est économique et bien tolérée, à l’exception d’effets indésirables gastro-intestinaux qui peuvent être réduits en augmentant lentement la dose. Les concentrations plasmatiques maximales des préparations non retardées sont atteintes après 1–3 heures, celles des préparations retardées après 4–8 heures [13]. En raison du risque accru d’acidose lactique, les sociétés de discipline médicale indiquent l’insuffisance rénale avec un TFG <30 ml/min, l’insuffisance cardiaque NYHA III–IV, l’insuffisance hépatique aiguë ou progressive ainsi que l’insuffisance respiratoire partielle ou globale en tant que contre-indications au traitement par metformine [5, 11, 12]. Le risque d’acidose lactique est aussi accru par l’alcoolisme chronique et l’hypoperfusion tissulaire ­locale (accident ischémique cérébral aigu) ou systémique dans le cadre d’une instabilité hémodynamique et d’un état de choc quel qu’en soit la cause [9, 11, 12]. La metformine ne doit en conséquence pas être administrée dans les 2 jours avant ou après une asthénie générale ou l’administration de produit de contraste [11, 12].
+
+La pathogenèse de l’ALAM s’avère complexe. La metformine conduit à une absorption de glucose accrue dans les tissus périphériques tels que les muscles et le foie et inhibe la gluconéogenèse dans le foie. Cela conduit à une accumulation de NADH au sein du cycle de Krebs, ce qui à son tour inhibe la conversion du ­lactate en pyruvate. En conséquence, le taux de lactate dans le plasma sanguin augmente [7, 8]. Toutefois, le taux de lactate des patients traités par metformine reste normalement <2 mmol/l [10, 12]. L’ALAM sévère n’apparaît que lorsqu’une accumulation survient dans le cadre d’une insuffisance rénale aiguë, du fait de l’élimination purement rénale du produit [6, 11].
+
+3. Quelle est la prévalence de l’ALAM?
+
+
+a) <10 : 100 000 patients traités par metformine
+
+b) Env. 100 : 100 000 patients traités par metformine
+
+c) Env. 250 : 100 000 patients traités par metformine
+
+d) Env. 1000 : 100 000 patients traités par metformine
+
+Les symptômes de l’ALAM sont des douleurs abdominales, des nausées, des vomissements, une tachypnée et une hypothermie. Des troubles du rythme cardiaque, une hypotension ou des déficits cognitifs pouvant aller d’un état de confusion jusqu’au coma peuvent survenir [2, 4, 12]. L’incidence d’ALAM, de <10 pour 100 000 patients traités par metformine, est très faible [10]. La question de savoir si la metformine est réellement le principal déclencheur de l’acidose lactique dans ces cas-ci reste discutée. Bodmer et al. ont décrit que seuls 5 des 50 048 cas de patients atteints de diabète de type 2 analysés ont développé une acidose lactique; parmi eux, seul 1 était sous monothérapie par metformine, 4 étaient traités avec des thérapies combinées [6]. 1 patient a développé une acidose lactique sous traitement par sulfonyl­urées. Crowley et al. sont également parvenus à des résultats similaires [11]. Tous les patients concernés présentaient une maladie prédisposant à l’acidose lactique, telle qu’une cirrhose hépatique ou une maladie cardiaque hypertensive. Il convient de se demander si ce n’est pas le diabète de type 2 associé à d’autres maladies prédisposantes qui conduit au développement de l’acidose lactique, et non pas la metformine. Le fait est que l’acidose lactique ne survient pas significativement plus fréquemment sous metformine que sous autres médicaments antidiabétiques et qu’elle est souvent associée à une détérioration clinique (infection, gastro-entérite, abus d’alcool) [6 ,11].
+
+4. A partir de quel moment convient-il d’arrêter le traitement par metformine? (Plusieurs réponses possibles)
+
+
+a) En cas de survenue de nausées
+
+b) En cas de TFG <50 ml/min/1,73 m2
+
+c) En cas de survenue d’une ischémie critique, par ex. dans le cadre d’une AOMI
+
+d) A partir d’un TFG <30 ml/min/1,73 m2
+
+Les lignes directrices relatives au diabète recommandent d’interrompre la metformine à partir d’un TFG <30 ml/min. En cas de TFG entre 30 et 45 ml/min, une adaptation de la dose en fonction de la situation rénale doit avoir lieu; en cas de TFG légèrement réduit, de l’ordre de 56–60ml/min, elle peut parfaitement être utilisée [3, 12]. Des contrôles réguliers de la créatinine devraient être conduits chez tous les patients traités par metformine (tab. 2).
+
+Tableau 2: Recommandations pour le traitement par metformine (adapté d’après les recommandations actuelles de la société américaine de diabétologie [2]).
+TFGe* (ml/min/1,73 m2)
+≥60	Pas de contre-indication pour un traitement par metformine
+45–59	Traitement par metformine avec contrôle de la fonction rénale tous les 3–6 mois
+30–44	Réduction de la dose de metformine, contrôle de la fonction rénale tous les 3 mois
+<30	Pas de traitement par metformine
+* Taux de filtration glomérulaire estimé
+
+En outre, il est judicieux d’instruire les patients et leurs proches quant à la nécessité d’arrêter la metformine en cas d’infections aiguës, en l’absence de prise alimentaire ou en cas d’hypoxie tissulaire (comme par ex. en cas d’artériopathie oblitérante des membres inférieur [AOMI]). Dans ce cas, les patients devraient consulter un médecin.
+
+Ce cas a pour objectif d’attirer une nouvelle fois l’attention sur l’acidose lactique associée à la metformine et sur les controverses existantes, et de montrer les possibilités pour la détection précoce et la prévention.
+
+Réponses:
+
+
+Question1: b; question 2: b; question 3: a; question 4: c et d.

@@ -1,0 +1,120 @@
+Présentation du cas
+
+Il s’agit d’un patient âgé de 65 ans, d’origine asiatique, connu pour une fibrillation auriculaire normocarde anti-coagulée après un accident vasculaire cérébral (AVC) thrombo-embolique en 2016 ayant laissé des ­séquelles sous forme d’une hémiparésie et une pa­ralysie faciale minime droite, ainsi qu’une aphasie modérée et une épilepsie secondaire. Quatre jours avant sa consultation, il a présenté une claudication douloureuse de la mâchoire qui s’est résolue de façon spontanée au bout de 40 minutes. Il décrit l’installation de céphalées hémi-crâniennes droites persistantes depuis, une asthénie inhabituelle, une hyperesthésie du cuir chevelu fluctuante. Il se souvient, à l’anamnèse systématique d’une douleur thoracique antérieure, oppressante, non irradiante, de durée de 10 minutes, et de résolution spontanée. L’examen retrouve des constantes vitales dans la norme, avec notamment une tension artérielle symétrique aux deux bras et des pouls palpables sur tous les sites, ainsi qu’un examen neurologique superposable à la dernière consultation de neurologie. L’effleurement du scalpe est sensible, de-même que la palpation de l’artère temporale droite. Au laboratoire, nous objectivons une vitesse de sédimentation à 35 mm/h1, une CRP à 118 mg/l et une hyperleucocytose à 12 500 éléments/mm3. La radiographie du thorax montre une redistribution sanguine vers les sommets, un élargissement du système veineux et une cardiomégalie à prédominance gauche.
+
+Question 1: Quel examen d’imagerie demandez-vous en premier?
+
+
+a) IRM cérébrale
+
+b) CT cérébral natif
+
+c) PET-CT
+
+d) CT cérébral injecté avec exploration des axes
+
+e) CT thoracique
+
+L’IRM est un examen sensible du parenchyme cérébral et permet d’explorer les axes vasculaire, mais n’est pas disponible en tout temps dans la majorité des centres. Le CT injecté est donc le premier choix dans la majorité des centres, qui ne disposent pas d’un accès rapide à l’IRM. Un examen CT natif n’apporte que peu d’élément à l’hypothèse diagnostique. La tomographie par émission de positron, couplée au CT PET-CT pourrait orienter dans le cadre d’une maladie inflammatoire ou infectieuse, cependant il ne présente pas d’indication en ­urgence.
+
+Les éléments cités dans l’histoire de la maladie n’orientent pas vers la réalisation d’un CT thoracique au premier plan. Nous demandons un CT cérébral (injecté) qui ne trouve pas de lésion ischémique ou hémorragique récente.
+
+Question 2: D’après ces éléments anamnestiques et paracliniques, quel est votre diagnostic le plus probable?
+
+
+a) Méningite virale
+
+b) Migraine avec aura
+
+c) Maladie de Takayasu
+
+d) Céphalées de tension
+
+e) Artérite giganto-cellulaire
+
+Bien que la triade clinique de méningite (raideur de nuque, fièvre et altération de l’état de conscience) n’aient qu’une sensibilité inférieure à 50%, l’absence de fièvre et de trouble de la conscience rendent le diagnostic peu probable. De même, la douleur ne correspond pas au critère classique de migraine (tab. 1) et l’absence de symptomatologie identique auparavant n’est pas en faveur. Les céphalées de tension ne limitent pas l’activité quotidienne, et les symptômes associés orientent vers un diagnostic alternatif. Pour le diagnostic de la maladie de Takayasu, elle touche plus les femmes jeunes moins de 40 ans. Les signes cliniques évoqués de la présentation ne correspondent pas aux critères diagnostiques de l’«American College of Rheumatology» (ACR) ou d’Ishikawa modifiés (notamment: claudication vasculaire périphérique, absence de pouls ou présence d’un souffle vasculaire, différence de pression entre les deux bras). Nous suspectons donc une artérite giganto-cellulaire (AGC).
+
+Tableau 1: Critères diagnostiques des céphalées de type migraine et céphalée de ­tension selon «The International Headache Classification» (ICHD-2).
+Migraine avec aura	A Au moins 2 crises remplissant les critères B et C
+B Symptômes visuels, sensitifs, parole et/ou langage, ­moteurs, tronc cérébral, rétiniens
+C ≥2 symptômes suivants:
+– ≥1 symptôme se développe en 5 minutes ou différents symptômes se succèdent – chaque symptôme dure 5–60 minutes – ≥1 symptôme de l’aura est unilatéral – l’aura est accompagnée ou suivie d’une céphalée dans les 60 minutes
+D Non attribuable à une autre affection (notamment accident ischémique transitoire [AIT]exclus)
+Migraine sans aura	A Au moins 5 crises remplissant les critères de B à E
+B Durée 4–72 heures (sans traitement)
+C ≥2 caractéristiques suivantes:
+– localisation unilatérale – caractère pulsatile – intensité modérée ou sévère – aggravation par les activités physiques simples (p.ex. monter les escaliers)
+D Durant les céphalées, ≥1 caractère suivant: – nausées et/ou vomissements – photophobie et phonophobie
+E Non attribuable à une autre affection
+Céphalée de tension	A Type – «peu fréquent»: au moins 10 épisodes de céphalées survenant en moyenne <1 jour/mois (soit <12 jours/an), remplissant les critères B à E – «fréquent»: 1 à 14 épisodes par mois, remplissant les critères B à E – «chronique»: >15 épisodes par mois, remplissant les ­critères B à E
+B Durée des céphalées: 30 minutes – 7 jours
+C ≥2 caractéristiques suivantes: – localisation bilatérale – constrictives, pesantes, non pulsatiles – intensité légère à modérée – pas d’aggravation par l’activité physique simple ­(marcher, monter les escaliers, …)
+D Présence des 2 caractéristiques suivantes: – pas de nausées, pas de vomissements (anorexie possible) – pas de photo-/phonophobie (ou seulement 1 des 2)
+E Non attribuable à une autre affection
+N.B. Une céphalée de tension épisodique peut être évoquée (avec moins de certitude) si <10 épisodes.
+Question 3: Quelle attitude adoptez-vous en premier lieu?
+
+
+a) Mise en place d’un traitement par stéroïde
+
+b) Organiser une biopsie de l’artère temporale avant tout traitement
+
+c) Compléter les investigations par une IRM cérébrale
+
+d) Réaliser une ponction lombaire
+
+e) Adapter l’antalgie en fonction de l’intensité des céphalées
+
+Le diagnostic de méningite étant peu probable, nous renonçons à la réalisation d’une ponction lombaire. L’exploration suffisante du parenchyme cérébral sus-décrit ne nécessite pas un complément d’investigation par IRM cérébrale dans un premier temps. Nous mettons en route une corticothérapie à forte dose dans l’attente de la réalisation d’une biopsie de l’artère temporale. Le rendement de la biopsie de l’artère temporale dépend du temps entre le début du traitement et sa réalisation. Il est admit qu’elle doit être réalisée dans les 1–2 semaines du début des traitements, mais des biopsies positives sont décrites après 4 semaines de traitement stéroïde. L’adaptation des traitements antalgiques se fait évidemment en parallèle à l’ensemble de la prise en charge.
+
+A 36 h, le complément CT avec exploration des axes vasculaires pré-cérébraux objective une dissection carotidienne droite, il est donc suivi d’un examen thoraco-abdomino-pelvien (fig. 1). Nous trouvons une dissection aortique Standford A s’étendant aux carotides communes en haut et à l’artère iliaque commune droite en bas.
+
+Figure 1: CT scanner thoraco-abdomino-pelvien (protocole aorte). Sur cette coupe coronale, une dissection aortique est visible. Le flap intimal, qui sépare la vraie lumière et la fausse lumière, est visible au niveau de la crosse aortique (flèche bleue), ainsi qu’au niveau de l’aorte abdominale et de l’artère iliaque commune droite (flèches noires).
+
+Le patient est adressé dans un centre universitaire pour une prise en charge chirurgicale immédiate. Il bénéficie d’un remplacement de l’aorte ascendante dans un premier temps. Les suites post-opératoires sont marquées par la survenue d’une paraplégie sur ischémie médullaire per-opératoire avec récupération lente, et une péjoration de l’hémi-syndrome moteur droit. La pièce opératoire ne retrouve pas d’éléments histologiques en faveur d’une AGC. Le diagnostic retenu est donc une dissection aortique aiguë (DAA). Le syndrome inflammatoire initial, aspécifique, n’a pas été plus exploré.
+
+Discussion
+
+L’ACG, anciennement appelée maladie de Horton, est une maladie inflammatoire aiguë à subaiguë qui touche les artères de grands et de moyens calibre. Elle a une ­prédilection pour la crosse aortique et les vaisseaux supra-aortiques. Sa physiopathogénie comprend l’infiltration des parois vasculaires par des lymphocytes, des macrophages et des cellules géantes multi-nuclées générant une friabilité des parois. Elle survient chez 1% des personnes de plus de 50 ans avec une prédominance féminine, et une possible association à l’allèle HLA-DRB1*04. A l’anamnèse, prédominent des céphalées temporales, des myalgies et une fièvre. Les signes cliniques les plus constants sont des claudications de la mâchoire, une diplopie, une anomalie à la palpation des artères temporales et une sensibilité du scalp au toucher. Sur le plan biologique, il y a fréquemment une élévation des paramètres inflammatoires (vitesse de sédimentation ou protéine C-réactive). Cependant, les signes cliniques manquent de spécificité et les marqueurs biologiques sont inconstants. La biopsie de l’artère temporale reste le gold standard pour le diagnostic, mais peut être négative surtout si l’échantillon est trop court ou le choix du site de biopsie inapproprié, l’ACG étant une maladie segmentaire. Le traitement est commencé avant la confirmation diagnostique, la complication la plus redoutée, ophtalmologique, pouvant se solder par une cécité définitive. Cependant, les remaniements tissulaires aortiques peuvent également générer des situations foudroyantes. Nous proposons ici une présentation typique au dénouement inattendu.
+
+Bien que l’anamnèse, l’examen clinique et dans une plus petite mesure le syndrome inflammatoire étaient fortement suggestifs d’une AGC, l’imagerie nous a révélé une importante DAA, insoupçonnée initialement. Dans le cas présent, une présentation atypique avec un tableau peu symptomatique pour une DAA, l’aphasie et la dysarthrie du patient séquellaires, rendant la communication plus difficile, et le choix initial d’un CT injecté, mais n’explorant pas les axes vasculaires, ont tous participé à l’errance diagnostic. Cependant, ce cas mérite deux commentaires supplémentaires: le tableau clinique d’une DAA et l’association entre AGC et DAA.
+
+4. Quel élément clinique de ce patient exclut une dissection aortique aiguë?
+
+
+a) Un pouls présent aux quatre membres
+
+b) Des douleurs dorsales et non thoracique
+
+c) Des céphalées intenses au premier plan
+
+d) Une douleur thoracique peu intense et transitoire
+
+e) Aucun de ces éléments sans une imagerie dédiée
+
+Le premier commentaire porte donc sur la présentation parfois atypique de la DAA. La dissection de l’aorte sur le plan physiopathologique est une rupture de l’intima qui permet au sang de pénétrer la media et créer ainsi une fausse lumière ou un hématome, qui peut s’étendre ensuite en amont ou en aval. Les tableaux cliniques sont très variables. 60–85% des patients présentent des douleurs d’installation aiguë, 15–20% n’ont pas de douleurs [1]. La localisation des douleurs est inconstante (thoracique, cervicale, dorsale, abdominale). L’examen des pouls reste essentiel mais non décisif, le tableau d’abolition des pouls étant inconstant. Le diagnostic clinique est donc difficile, même avec l’aide de score ou de marqueurs biologiques (D-dimères) et passe par une imagerie. Comme elle peut intéresser les vaisseaux du cou et de la tête, des céphalées sont évidemment possibles. Des rapports de cas font d’ailleurs état de présentation principalement sous forme de céphalées intenses [2]. Par ailleurs, aucun signe ne permet d’exclure le diagnostic de DAA.
+
+5. Quel est l’association la moins fréquente lors de la ­survenue de l’AGC?
+
+
+a) Un anévrysme de l’aorte
+
+b) Un accident vasculaire cérébral
+
+c) Une dissection aortique
+
+d) Une artérite oblitérante de l’artère ophtalmique
+
+e) Un pouls périphérique non palpable
+
+Le deuxième commentaire porte sur la survenue d’une DAA lors d’AGC. De par son mécanisme impliquant une fragilité de la paroi vasculaire, l’AGC favorise les dissections aortiques. Cette complication augmente la mortalité de façon importante [3]. Lors d’un diagnostic d’AGC, une imagerie montre une aortopathie chez 45% des patients, majoritairement un anévrisme de l’aorte (69%) [4]. Dans la population avec aortopathie identifiée, on retrouve 6% de dissection aortique [4]. Une ischémie de membre est à rechercher (17%). L’association la moins fréquente étant la survenue concomitante d’un accident vasculaire cérébral (5%). La place de l’imagerie dans le bilan initial et le suivi de l’AGC est encore à définir, mais semble importante. Dans une étude de cohorte prospective, le bilan initial par IRM/CT montrait une atteinte des gros vaisseaux chez ⅔ des patients (principalement au niveau des artères axillaires et sous-clavières) [5]. Lors du suivi par imagerie, ces patients (avec atteinte initiale des gros vaisseaux) étaient à risque de nouvelles lésions vasculaires, apparaissant fréquemment sans symptôme ou critère clinique d’activité de l’AGC [5]. Par ailleurs, la PET-CT est un atout intéressant dans le diagnostic [6] et la mesure de l’activité de l’AGC [7].
+
+Enfin, bien que la survenue d’une AGC soit 20 fois moins fréquente chez les patients d’origine asiatique que chez les personnes caucasiennes [8], il s’agit de ne pas l’écarter du diagnostic différentiel dans cette population. Dans l’attente du diagnostic et devant une suspicion d’AGC, le traitement stéroïde est débuté rapidement afin d’éviter des complications dramatiques (ophtalmologiques [25%], atteinte des gros vaisseaux). Puisque l’AGC est une pathologie vasculaire avec un risque d’AVC, il est recommandé de faire une imagerie adéquate des artères intracérébrales et cervicales avec l’arc aortique pour chercher une complication de sténose ou occlusion mais également pour connaitre les collatérales avant une biopsie de l’artère temporale superficielle.
+
+Devant un tableau d’AGC, il est impératif de penser aux urgences ophtalmologiques mais aussi de garder à l’esprit que les autres complications vasculaires avec atteintes des gros vaisseaux restent possibles et redoutables. La DAA est un diagnostic difficile, nécessitant un seuil bas de suspicion et une imagerie pour le confirmer ou l’infirmer.
+
+Réponses:
+
+
+Question 1: d. Question 2: e. Question 3: a. Question 4: e.
+Question 5: b.

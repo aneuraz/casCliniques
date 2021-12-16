@@ -1,0 +1,38 @@
+T1	disorder 116 131	infections ORL 
+T2	disorder 167 180	otite séreuse
+T3	disorder 187 206	syndrome adénoïdien
+T4	procedure 299 323	exérèse des végétations 
+T5	procedure 328 339	paracentèse
+T6	procedure 361 373	consultation
+T7	procedure 462 474	intervention
+T8	procedure 573 585	consultation
+T9	drugs 738 748	anesthésie
+T10	procedure 766 776	inhalation
+T11	drugs 812 819	oxygène
+T12	drugs 826 843	protoxyde d’azote
+T13	drugs 912 920	Sevorane
+T14	procedure 1005 1018	paracentèses 
+T15	procedure 1064 1071	exérèse
+T16	irrelevant 1232 1325	infirmière panseuse (ayant un diplôme d’IADE mais n’exerçant pas cette fonction à la clinique
+T17	irrelevant 1406 1481	par une IDE, à ce poste depuis 12 ans, et assistée par une élève-infirmière
+T18	irrelevant 1483 1834	Ultérieurement, la clinique était dans l’incapacité d’apporter la preuve d’une formation spécifique suivie par l’IDE en rapport avec le poste qu’elle occupait. Par ailleurs, la SSPI comportait 6 lits sans zone individualisée pour l’accueil des enfants et 350 à 400 amygdalectomies et/ou adénoïdectomies étaient effectuées chaque année dans la clinique
+T19	disorder 2038 2048	saturation
+T20	labvalue 2051 2057	95-96%
+T21	disorder 2192 2202	saturation
+T22	labvalue 2223 2226	86%
+T23	labvalue 2260 2267	132/min
+T24	procedure 2303 2310	oxygène
+T25	procedure 2414 2422	ventiler
+T26	irrelevant 2473 2686	 elle alertait la panseuse qui sortait du bloc C pour s’occuper de la décontamination des derniers instruments et se trouvait dans le couloir face à la SSPI afin qu’elle prévienne l’anesthésiste présent au bloc D.
+T27	labvalue 2446 2458	inefficacité
+T28	disorder 2775 2783	cyanosée
+T29	disorder 2785 2803	sans pouls fémoral
+T30	procedure 2822 2832	intubation
+T31	procedure 2855 2868	voie veineuse
+T32	procedure 2907 2918	réanimation
+T33	irrelevant 2959 3049	Celle-ci était poursuivie sur place par l’équipe envoyée par le SAMU, immédiatement alerté
+T34	labvalue 3074 3080	stable
+T35	procedure 3149 3160	réanimation
+T36	disorder 3325 3345	 végétatif chronique
+T37	procedure 3431 3443	hospitalisée
+T38	irrelevant 3530 4203	A noter qu’au moment de l’appel de l’IDE (10h05), l’anesthésiste avait en charge trois blocs opératoires (une salle de chirurgie plastique (AG), une salle d’ophtalmologie (AG) et la salle où venait de se terminer une adénoïdectomie chez une enfant de 6 ans) ainsi que la SSPI. Un second anesthésiste était présent dans la clinique où il effectuait des consultations. Par ailleurs, le matin du 2 mai, étaient programmées, dans le bloc opératoire, 7 interventions de chirurgie ORL dont 5 adénoïdectomies avec paracentèses, 2 interventions de liposuccion des cuisses et 4 interventions de chirurgie ophtalmologique dont une sous anesthésie générale et 3 sous anesthésie locale

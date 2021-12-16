@@ -1,0 +1,91 @@
+T1	labvalue 191 212	protéinurie à 1,14g/l
+T2	labvalue 221 232	 TA normale
+T3	procedure 238 258	bilans hématologique
+T4	labvalue 260 291	hépatique et rénal sont normaux
+T5	disorder 325 357	col favorable au toucher vaginal
+T6	procedure 362 375	déclenchement
+T7	drugs 379 389	SYNTOCINON
+T8	disorder 395 411	anomalies du RCF
+T9	procedure 429 457	rupture de la poche des eaux
+T10	disorder 477 502	liquide amniotique teinté
+T11	procedure 573 582	perfusion
+T12	drugs 586 596	SYNTOCINON
+T13	disorder 670 694	bradycardie fœtale à 80 
+T14	disorder 697 730	tachycardie maternelle à 140 bpm 
+T15	procedure 749 759	césarienne
+T16	profession 866 879	anesthésistes
+T17	disorder 916 923	confuse
+T18	disorder 927 938	désorientée
+T19	procedure 1011 1033	oxygénation au masque 
+T20	disorder 1175 1185	agitation 
+T21	disorder 1191 1217	 troubles de la conscience
+T22	disorder 1236 1267	pic hypertensif à 208/105 mmHg.
+T23	disorder 1365 1402	’Apgar 2 à 1mn, 6 à 5 mn et 9 à 10 mn
+T24	disorder 1455 1497	état neurologique de la patiente s’aggrave
+T25	disorder 1522 1593	anomalies hémodynamiques qui alternent hypotension et pics hypertensifs
+T26	disorder 1602 1612	achycardie
+T27	disorder 1616 1639	anomalies respiratoires
+T28	disorder 1649 1663	atonie utérine
+T29	drugs 1673 1682	Ocytocine
+T30	disorder 1691 1717	saignement vaginal anormal
+T31	profession 1737 1749	anesthésiste
+T32	drugs 1815 1824	 Nalador 
+T33	procedure 1846 1869	capitonnage par B Lynch
+T34	labvalue 1886 1907	hémocue est à 8,4g/dl
+T35	disorder 1916 1936	saignement persiste 
+T36	disorder 1972 1995	hystérectomie subtotale
+T37	disorder 2019 2044	défaillance hémodynamique
+T38	disorder 2050 2064	chute de la TA
+T39	disorder 2068 2079	bradycardie
+T40	drugs 2105 2114	EPHEDRINE
+T41	drugs 2124 2134	ADRENALINE
+T42	drugs 2165 2173	VOLUVEN 
+T43	drugs 2176 2182	RINGER
+T44	drugs 2205 2229	rrêt cardio-respiratoire
+T45	procedure 2234 2259	massage cardiaque externe
+T46	labvalue 2346 2368	hémoglobine est à 9,4 
+T47	labvalue 2374 2394	 plaquettes à 166000
+T48	procedure 2398 2416	échocardiographie 
+T49	disorder 2436 2465	insuffisance cardiaque droite
+T50	disorder 2474 2597	présence de matériel hyperéchogène (cruorique ou amniotique) dans les cavités droites et une voie centrale jugulaire droite
+T51	procedure 2613 2622	perfusion
+T52	drugs 2624 2635	’ADRENALINE
+T53	drugs 2642 2655	NORADRENALINE
+T54	profession 2829 2841	réanimateurs
+T55	profession 2854 2867	 anesthésiste
+T56	labvalue 2889 2906	hémocue à 6,4g/dl
+T57	drugs 2912 2932	transfusion sanguine
+T58	labvalue 2947 2967	’hémoglobine est à 7
+T59	labvalue 2973 2991	plaquettes à 73000
+T60	labvalue 2996 3002	TP<10%
+T61	labvalue 3009 3026	fibrinogène < 0,1
+T62	procedure 3041 3067	’intervention chirurgicale
+T63	disorder 3073 3084	saignements
+T64	disorder 3109 3127	choc cardiogénique
+T65	disorder 3134 3154	cœur pulmonaire aigu
+T66	procedure 3160 3192	assistance circulatoire par ECMO
+T67	drugs 3273 3277	5 CG
+T68	drugs 3279 3283	3PFC
+T69	drugs 3287 3303	3g de CLOTTAFACT
+T70	drugs 3352 3361	NOVOSEVEN
+T71	labvalue 3386 3407	hémoglobine est à 10g
+T72	labvalue 3413 3431	plaquettes à 66000
+T73	labvalue 3433 3442	le TP<10%
+T74	labvalue 3449 3466	fibrinogène < 0,1
+T75	procedure 3523 3533	aspiration
+T76	procedure 3649 3677	circulation extra-corporelle
+T77	disorder 3860 3878	embolie amniotique
+T78	drugs 3909 3914	19 CG
+T79	drugs 3916 3922	14 PFC
+T80	drugs 3926 3931	3 CUP
+T81	drugs 3952 3958	RINGER
+T82	drugs 3970 3978	PLASMION
+T83	drugs 3992 3999	VOLUVEN
+T84	procedure 4030 4041	échographie
+T85	disorder 4070 4103	hypokinésie ventriculaire globale
+T86	disorder 4111 4201	images ventriculaires droites compatibles avec une embolie fibrino-cruorique ou amniotique
+T87	drugs 4224 4235	ADRENALINE 
+T88	drugs 4241 4254	NORADRENALINE
+T89	disorder 4259 4290	débit cardiaque est insuffisant
+T90	disorder 4310 4339	syndrome de fuite capillaire.
+T91	irrelevant 4340 4515	Le 10/05/2011 à 2h00 la patiente décède. Le nouveau-né transféré en réanimation néonatale sortira en famille d’accueil au bout de 7 semaines après une évolution satisfaisante.

@@ -1,0 +1,68 @@
+T1	irrelevant 8711 9208;9210 9238;9240 9436;9438 9648;9650 9762;9764 9944	n règle générale, l’histoplasmose aiguë ne nécessite pas de traitement antifongique, à l’exception des formes dont l’évolution clinique est grave, en particulier chez les patients immunosupprimés. L’itraconazole constitue le traitement de choix en présence d’histoplasmose disséminée; selon le degré de sévérité, un traitement intraveineux par amphotéricine B est également nécessaire pendant les deux premières semaines. Dans ces cas, le traitement doit être poursuivi pendant au moins un an [2].  L’essentiel pour la pratique  • Il convient d’envisager une histoplasmose aiguë chez les personnes rentrant de voyage et présentant une exposition classique dans des zones endémiques ainsi qu’un tableau clinique correspondant.  • Sur le plan diagnostique, un test d’antigène urinaire non invasif, dont la sensibilité et la spécificité sont bonnes, est disponible depuis peu à l’Institut des maladies infectieuses de l’Université de Berne.  • Des formes disséminées avec diverses manifestations cliniques surviennent chez les personnes immunosupprimées.  • En règle générale, une histoplasmose aiguë ne nécessite pas de traitement antifongique; une histoplasmose disséminée est généralement traitée sur plusieurs mois par itraconazole.
+T2	irrelevant 5387 5397;5399 7320;7322 8404	Discussion  L’histoplasmose (également appelée maladie de Darling) est une mycose endémique principalement répandue en Amérique du Nord et dans les régions (sub)tropicales (y compris l’Afrique du Sud), qui a été décrite pour la première fois à Panama en 1906 [1]. L’agent pathogène à l’origine de la maladie est le champignon dimorphique Histoplasma capsulatum qui se retrouve surtout dans les sols contaminés par des excréments d’oiseaux ou de chauves-souris [2]. En Europe, la maladie se présente principalement sous sa forme aiguë lors de retours de voyage [3], souvent avec exposition préalable typique (notamment visite de grotte ou séjour sur des chantiers de maçonnerie ancienne), comme dans le cas de notre patiente [4]. L’histoplasmose aiguë est généralement asymptomatique, mais peut parfois se manifester comme une infection pulmonaire aiguë. L’examen radiologique met souvent en évidence des nodules pulmonaires ainsi qu’une lymphadénopathie bihilaire, raison pour laquelle la sarcoïdose et la tuberculose font partie des principaux diagnostics différentiels. Une forme disséminée s’observe aussi en particulier chez les patientes et patients immunosupprimés (notamment VIH ou sous traitement par inhibiteurs du facteur de nécrose tumorale [TNF] α). Celle-ci peut également survenir des années après l’exposition initiale sous forme d’une réactivation, comme pour la tuberculose. Dans de rares cas, l’histoplasmose disséminée touche aussi des patientes et patients sans immunosuppression classique [5]. Le tableau clinique de l’histoplasmose disséminée est très varié. Souvent, les personnes concernées rapportent des symptômes constitutionnels, des ulcérations cutanées ou oropharyngées et présentent une hépatomégalie/splénomégalie ainsi qu’une hypertrophie des glandes surrénales. Des formes pulmonaires chroniques, des endocardites ou des manifestations au niveau du système nerveux central surviennent également [6].  La mise en évidence histopathologique et culturelle de l’agent pathogène à partir d’échantillons cliniques (expectoration, LBA, sang, moelle épinière) sert de référence dans le diagnostic médical de laboratoire de l’histoplasmose. La culture de ce champignon dimorphique dure 2–8 semaines et nécessite des conditions spéciales. Une PCR spécifique de l’histoplasmose ou une PCR panfongique peuvent accélérer la mise en évidence de l’agent pathogène. Sur le plan sérologique, des anticorps spécifiques peuvent être détectés en cas d’infection symptomatique généralement 4–8 semaines après le début des symptômes. En présence d’infections localisées ou d’infections disséminées chez des patientes et patients immunosupprimés, la mise en évidence d’anticorps peut se révéler négative, comme dans notre cas (sensibilité du test d’immunodiffusion 80%). L’antigène d’Histoplasma peut être mis en évidence au moyen d’un test immuno-enzymatique, en particulier dans des échantillons d’urine en cas d’infections disséminées de patients immunosupprimés (p. ex. VIH) qui ne produisent souvent p
+T3	irrelevant 0 8;10 327;329 343	Contexte  Les découvertes radiologiques fortuites dans le cadre d’examens diagnostiques inquiètent non seulement les patientes et patients concernés, mais également les médecins qui les accompagnent. Des indices anamnestiques peuvent parfois relativiser de telles découvertes et éviter ainsi des mesures diagnostiques inutiles.  Rapport de cas
+T4	procedure 487 519	isolation des veines pulmonaires
+T5	procedure 520 524	(IVP
+T6	disorder 550 589	 fibrillation auriculaire paroxystique 
+T7	disorder 624 628	toux
+T8	disorder 637 642	rhume
+T9	drugs 1003 1014	rivaroxaban
+T10	drugs 1021 1031	bisoprolol
+T11	disorder 1048 1072	fibrillation auriculaire
+T12	disorder 1473 1483	toux sèche
+T13	disorder 1487 1497	rhinolalie
+T14	procedure 1609 1653	imagerie par résonance magnétique cardiaque 
+T15	disorder 1770 1827	nodules multiples dans le segment apical des deux poumons
+T16	procedure 1868 1885	tomodensitométrie
+T17	disorder 1930 1958	 lymphadénopathie bihilaire 
+T18	disorder 1963 2010	ganglions lymphatiques partiellement calcifiés 
+T19	irrelevant 2049 2216;2218 2423	Figure 1: Tomodensitométrie thoracique (fenêtre pulmonaire, coupe axiale) avec représentation des modifications nodulaires au niveau intra-pulmonaire (flèches rouges).  Figure 2: Tomodensitométrie thoracique (fenêtre des parties molles, coupe axiale) avec représentation de la calcification des ganglions lymphatiques (flèche bleue) et de la lymphadénopathie (flèche rouge).
+T20	procedure 2427 2446	électrocardiogramme
+T21	procedure 2454 2476	analyses biochimiques 
+T22	labvalue 2489 2504	aucune anomalie
+T23	labvalue 2610 2617	négatif
+T24	labvalue 2571 2587	valeurs normales
+T25	procedure 2526 2555	paramètres de l’inflammation 
+T26	procedure 2592 2603	test du VIH
+T27	disorder 2675 2685	sarcoïdose
+T28	disorder 2739 2745	tumeur
+T29	disorder 2752 2779	 infection mycobactérienne 
+T30	procedure 2855 2868	bronchoscopie
+T31	procedure 2874 2899	lavage broncho-alvéolaire
+T32	procedure 2901 2904	LBA
+T33	procedure 2930 2964	biopsie des ganglions lymphatiques
+T34	procedure 2980 3001	anticoagulation orale
+T35	drugs 3006 3017	rivaroxaban
+T36	procedure 3022 3025	LBA
+T37	disorder 3113 3129	trachéobronchite
+T38	disorder 3260 3270	sarcoïdose
+T39	procedure 3278 3293	rapport CD4/CD8
+T40	procedure 3350 3388	 test PCR de Mycobacterium tuberculosi
+T41	procedure 3401 3423	 culture de bactéries 
+T42	labvalue 3452 3460	négatifs
+T43	procedure 3469 3486	culture fongique 
+T44	procedure 3508 3529	PCR multiplexe virale
+T45	labvalue 3563 3575	 coronavirus
+T46	labvalue 3577 3581	OC43
+T47	disorder 3622 3652	refroidissement de la patiente
+T48	disorder 3667 3686	nodules pulmonaires
+T49	disorder 3693 3709	lymphadénopathie
+T50	risk 3771 3798	 voyages intercontinentaux 
+T51	risk 3887 3912	voyage en Afrique du Sud 
+T52	disorder 3992 4005	histoplasmose
+T53	labvalue 4042 4050	négative
+T54	procedure 4009 4028	analyse sérologique
+T55	procedure 4059 4084	 test d’antigène urinaire
+T56	labvalue 4176 4212	 positif pour Histoplasma capsulatum
+T57	disorder 4241 4271	histoplasmose pulmonaire aiguë
+T58	disorder 4611 4631	histoplasmose aiguë.
+T59	disorder 4453 4476	ganglions lymphatiques 
+T60	disorder 4414 4428	calcifications
+T61	disorder 4671 4695	histoplasmose pulmonaire
+T62	disorder 4990 5003	histoplasmose
+T63	procedure 5053 5089	anti-­inflammatoires non stéroïdiens
+T64	procedure 5091 5095	AINS
+T65	drugs 5112 5122	colchicine
+T66	disorder 5192 5217	 épanchement péricardique
+T67	procedure 5298 5367	Le test sérologique de suivi à la recherche de Histoplasma capsulatum
+T68	labvalue 5377 5384	négatif

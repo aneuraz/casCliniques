@@ -1,0 +1,38 @@
+T1	irrelevant 0 8;10 690;692 1493;1495 1708	Contexte  La dégénérescence kystique de l’adventice est une affection non-artériosclérotique rare, qui déclenche une claudication intermittente. Elle touche souvent les hommes jeunes et d’âge moyen sans facteurs de risque cardiovasculaire. Les kystes sont uniloculaires ou multiloculaires et ils contiennent des mucoprotéines et de l’acide hyaluronique. Ils sont localisés dans l’adventice et provoquent un rétrécissement voire une obstruction de la lumière vasculaire par compression excentrique. Dans 85% des cas, l’artère poplitée est touchée. En règle générale, les kystes ont une localisation unilatérale, mais des cas de kystes adventitiels bilatéraux ont également été publiés [1–3].  La pathogenèse de la dégénérescence kystique de l’adventice est indéterminée. Diverses théories sont discutées dans la littérature. D’une part, des traumatismes répétitifs sont évoqués comme étant responsables d’une dégénérescence chronique de l’adventice, qui conduit ­finalement à la formation de kystes [4]. D’autre part, une origine synoviale est postulée, car les kystes ressemblent à un ganglion sur le plan biochimique et histologique [5]. La troisième théorie estime que les kystes sont l’expression d’une dégénérescence systémique myxomateuse dans le cadre d’une maladie du tissu conjonctif généralisée, tandis qu’une autre théorie postule que la cause réside dans l’incorporation de cellules mésenchymateuses dans les vaisseaux en formation durant la phase de développement embryonnaire [4].  L’échographie permet de poser le diagnostic et de quantifier le degré de sténose de l’artère. La tomodensitométrie et l’imagerie par résonance magnétique peuvent également être utilisées comme modalités d’imagerie
+T2	disorder 1786 1824	claudication d’effort du mollet gauche
+T3	disorder 1939 1958	douleurs au mollet,
+T4	disorder 1939 1958	douleurs au mollet,
+T5	disorder 2357 2371	coronaropathie
+T6	disorder 2357 2371	coronaropathie
+T7	disorder 2379 2434	artériopathie oblitérante des membres inférieurs (AOMI)
+T8	procedure 2464 2532	stent avait déjà été posé dans l’artère fémorale superficielle gauch
+T9	disorder 2575 2598	hypertension artérielle
+T10	disorder 2605 2627	 hypercholestérolémie 
+T11	procedure 2714 2729	examen clinique
+T12	procedure 3039 3054	 oscillogrammes
+T13	labvalue 3211 3227	diminué à gauche
+T14	labvalue 3227 3234	 (0,58)
+T15	labvalue 3227 3234	 (0,58)
+T16	labvalue 3237 3253	 normal à droite
+T17	labvalue 3237 3253	 normal à droite
+T18	labvalue 3253 3260	 (1,12)
+T19	procedure 3153 3204	indice tibio-brachial («ankle-brachial index», ABI)
+T20	procedure 3277 3291	Oscillogrammes
+T21	procedure 3323 3337	Oscillogrammes
+T22	anatomy 3379 3385	cuisse
+T23	anatomy 3390 3396	mollet
+T24	anatomy 3401 3402	 
+T25	procedure 3420 3431	échographie
+T26	labvalue 3447 3622	structure ovalaire anéchogène mesurant 1,2 cm × 1,7 cm × 0,9 cm a pu être mise en évidence dans la paroi de l’artère poplitée gauche, avec une sténose de la lumière vasculaire
+T27	procedure 3895 3956	mesure de la vitesse du flux systolique dans la zone sténosée
+T28	labvalue 3983 4024	sténose de haut grade (>90% selon Ranke) 
+T29	procedure 4049 4068	 Echographie duplex
+T30	labvalue 4097 4138	sténose de haut grade (>90% selon Ranke) 
+T31	irrelevant 5894 6744;6746 7393;7395 7545;7547 7575;7577 7785;7787 7869;7871 7997;7999 8126	Depuis la première description de la dégénérescence kystique de l’adventice par Atkins et Key en 1947 [1], ­environ 700 cas ont été rapportés dans la littérature [6]. Il s’agit de rapports de cas isolés ou de petites séries de cas. En raison de la rareté de la maladie, il est impossible de réaliser des études contrôlées et donc de définir un traitement de référence standard. En général, l’excision chirurgicale du kyste ou la résection du segment vasculaire touché avec remplacement par interposition d’un greffon veineux sont privilégiées. Les approches thérapeutiques faisant appel à l’angioplastie transluminale percutanée ont échoué en raison de la morphologie de l’occlusion. Les artères non-athérosclérotiques chez les patients avec affection kystique ­adventitielle présentent un recoil en raison de leur compliance après la dilatation [7].  En raison du manque de données concernant les résultats à long terme des interventions chirurgicales, nous estimons qu’il est justifié de réaliser en premier lieu une intervention mini-invasive, telle que la ponction percutanée guidée par échographie, en tant que traitement primaire. La méthode est sûre, rapide et réalisable en ambulatoire, comme l’avait déjà montré l’étude de Do et al. en 1997 [8]. Une étude de suivi a montré une absence de symptômes durant 11 ans chez une patiente après ponction de kyste guidée par échographie [9]. Si une récidive survient malgré tout, il reste toujours possible de réaliser une intervention chirurgicale.  Dans de rares cas, une guérison spontanée consécutive à une résorption, un déplacement ou une extravasation du contenu du kyste est possible [10, 11].  L’essentiel pour la pratique  • Chez les individus sains sans facteurs de risque d’artériopathie oblitérante des membres inférieurs, il convient de songer à une dégénérescence kystique de l’adventice en cas de survenue d’une claudication.  • La dégénérescence kystique de l’adventice touche généralement l’artère poplitée.  • L’échographie duplex, la tomodensitométrie et l’imagerie par résonance magnétique peuvent être utilisées pour le diagnostic.  • Outre la résection chirurgicale du kyste, l’aspiration percutanée guidée par échographie représente une option thérapeutique.
+T32	procedure 4175 4194	Echographie duplex 
+T33	procedure 4260 4290	aspiration du contenu du kyste
+T34	disorder 4305 4370	Dégénérescence kystique de l’adventice de l’aorte poplitée gauche
+T35	drugs 4628 4638	 lidocaïne
+T36	procedure 4502 4534	dés­infection de la jambe gauche
+T37	procedure 5566 5577	échographie
+T38	procedure 5622 5630	ponction

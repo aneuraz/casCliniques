@@ -1,0 +1,52 @@
+T1	irrelevant 10 1313	En Europe, les infections à schistosomes sont rares. En revanche, en Amérique du Sud, en Afrique, au Moyen-Orient, en Asie du Sud-Est et aux Caraïbes, la prévalence estimée est de 200 à 300 millions de personnes infectées [1]. Les parasites atteignent le corps humain dans les eaux douces par contact cutané et ils se répandent le long des veines et des vaisseaux lymphatiques pour arriver jusqu’à l’organe cible (tractus gastro-intestinal: Schistosoma [S.] mansoni, S. japonicum, S. mekongi, S. intercalatum; tractus uro-génital: S. haematobium). A ce niveau, des œufs sont pondus dans les veines de petits calibres. Après pénétration à travers la paroi vasculaire, les œufs sont ensuite à nouveau excrétés avec les selles ou les urines [2]. L’hépatosplénomégalie est la conséquence d’une inflammation non granulomateuse et du dépôt de collagène autour des œufs pondus dans les zones périportales pré-sinusoïdales. Cela entraîne une fibrose périportale («symmer’s pipestem fibrosis») avec occlusion consécutive des veines portales. La fonction hépatique en elle-même n’est pas réduite. Dans les analyses de laboratoire, cela se reflète par des taux de transaminases dans la norme. Le développement d’une cirrhose hépatique ne survient que dans le cas d’une hépatopathie chronique déjà sous-jacente [3].
+T2	disorder 1446 1465	état général réduit
+T3	procedure 1471 1479	anamnèse
+T4	disorder 1507 1514	fatigue
+T5	disorder 1533 1555	ballonnement abdominal
+T6	disorder 1568 1585	prurit généralisé
+T7	procedure 1597 1612	examen clinique
+T8	disorder 1618 1631	splénomégalie
+T9	anatomy 1670 1713	 bord supérieur de l’aile iliaque du bassin
+T10	procedure 1731 1754	analyses de laboratoire
+T11	labvalue 1770 1782	pancytopénie
+T12	labvalue 1863 1871	normales
+T13	procedure 1844 1862	valeurs hépatiques
+T14	procedure 1875 1886	échographie
+T15	disorder 1919 1953	transformation cirrhotique du foie
+T16	disorder 1986 2006	hypertension portale
+T17	procedure 2345 2368	dépistage de l’hépatite
+T18	procedure 2410 2432	hépatopathie chronique
+T19	procedure 2465 2520	 infection antérieure par le virus de l’hépatite A et B
+T20	labvalue 2547 2554	positif
+T21	procedure 2575 2608	infection à cytomégalovirus (CMV)
+T22	procedure 2613 2648	 taux des immunoglobulines M (IgM) 
+T23	procedure 2651 2675	immunoglobulines G (IgG)
+T24	labvalue 2684 2747	positifs en l’absence de mise en évidence quantitative du virus
+T25	disorder 2753 2798	infections par les virus de l’hépatite C et D
+T26	disorder 2800 2820	d’Epstein Barr (EBV)
+T27	disorder 2826 2857	’immunodéficience humaine (VIH)
+T28	disorder 2865 2872	malaria
+T29	disorder 2879 2891	 tuberculose
+T30	procedure 2893 2933	analyse de la moelle osseuse et du sérum
+T31	disorder 2948 2992	infestation par le parasite de la Leishmania
+T32	labvalue 3025 3038	éosinophilie 
+T33	procedure 3053 3076	hémogramme différentiel
+T34	procedure 3108 3146	dosage des anticorps anti-schistosomes
+T35	disorder 3316 3346	schistosomiase hépatosplénique
+T36	drugs 3366 3378	praziquantel
+T37	procedure 3443 3473	analyses d’urine et des selles
+T38	procedure 3522 3547	recherche de schistosomes
+T39	labvalue 3572 3580	négatifs
+T40	procedure 3596 3663	recherche de varices œsophagiennes et de lésions hépatiques focales
+T41	procedure 3667 3686	examen histologique
+T42	procedure 3802 3818	examen Fibroscan
+T43	labvalue 3820 3828	21,3 kPa
+T44	disorder 3854 3872	cirrhose hépatique
+T45	labvalue 3888 3942	absence totale de signes de fibrose (score METAVIR F0)
+T46	procedure 3925 3941	score METAVIR F0
+T47	procedure 3947 4011	mesure par voie transjugulaire de la pression veineuse hépatique
+T48	labvalue 4024 4067	gradient de pression pathologique de 9 mmHg
+T49	disorder 4113 4133	hypertension portale
+T50	disorder 4177 4200	 infestation pulmonaire
+T51	procedure 4312 4329	échocardiographie
+T52	irrelevant 4332 4342;4344 5354;5356 6092;6094 8010;8012 8040;8042 8397;8399 8942;8944 9100;9102 9295	Discussion  Le résultat caractéristique de l’échographie (fig. 3), aux côtés de la fonction hépatique conservée et la provenance du patient d’une zone d’endémie, étaient la base du diagnostic de suspicion. Le titre accru d’anticorps, l’hypertension portale et la pression veineuse hépatique, mesurée par voie transjugulaire pathologique ont corroboré ce dernier. Afin de confirmer définitivement le diagnostic, une mise en évidence de l’agent pathogène aurait été nécessaire. Toutefois, des quantités de tissu plus importantes sont nécessaires à cet effet, si bien que la biopsie hépatique n’est pas concluante jusque dans un tiers des cas [4]. Dans notre cas, il convient en outre de considérer que le moment auquel la biopsie a été réalisée (durée du traitement par praziquantel >1 mois avec une élimination parasitaire à escompter de 85% et une réduction de l’excrétion des œufs de 90%) a faussé son résultat, d’autant plus que l’éosinophilie initialement présente n’a plus été mise en évidence au moment de la biopsie.  Si une infection par schistosomes est suspectée sur la base de l’anamnèse (région endémique), des résultats de l’examen clinique (splénomégalie) et des analyses de laboratoire de base (éosinophilie), alors des procédés d’imagerie, de préférence une échographie abdominale, doivent être employés et complétés par la ­recherche des anticorps dans le sérum ainsi qu’une analyse des selles avec recherche d’œufs de schistosomes [4]. Etant donné que les co-infections, en particulier avec les virus de l’hépatite B et l’hépatite C, peuvent conduire à une cirrhose hépatique, il était d’un intérêt crucial de savoir si l’hépatite B mise en ­évidence était encore active. Le dosage du taux d’ADN du virus de l’hépatite B réalisé était négatif.  La place de l’élastographie hépatique dans la pose de diagnostic de la schistosomiase hépatosplénique n’est actuellement pas encore déterminée de façon concluante. Jusqu’à présent, il n’existe qu’un seul autre rapport de cas de schistosomiase hépatosplénique dans le cadre duquel une élastographie hépatique a été réalisée [5]. La valeur fortement pathologique de 69,1 kPa trouvée dans ce cas a été expliquée par la ­présence d’une co-infection chronique par le virus de l’hépatite B. La raison pour laquelle notre patient a présenté une valeur accrue à l’examen par Fibroscan, à savoir de 21,3 kPa, malgré un foie sans fibrose à l’examen histologique, reste incertaine. L’explication la plus probable est que le résultat du Fibroscan était «faussement élevé» en raison de l’inflammation granulomateuse. Nous avons expliqué la divergence entre la splénomégalie prononcée et la pression veineuse portale seulement légèrement accrue par les circulations collatérales. De ce fait, le résultat de la mesure de la pression veineuse hépatique par voie transjugulaire ne reflète pas le degré de sévérité de l’hypertension portale. Supposant une hépatosplénomégalie causée par Schistosoma mansoni (agent pathogène le plus fréquent, trouvé en Erythrée), nous nous sommes décidés pour un traitement par praziquantel à haute dose (60 mg/kg de poids corporel répartis en deux doses uniques). La Société Suisse de Médecine Tropicale recommande de conduire deux à trois contrôles des selles et des urines trois à quatre semaines après la fin du traitement, ainsi que des contrôles de suivi sérologiques après 12 et 24 mois. Etant donné que des schistosomes n’ont pas pu être mis en évidence ni dans les selles ni dans les urines chez notre patient, nous avons décidé de modifier ces recommandations et de renoncer à de futurs contrôles des urines et des selles mais de conduire le prochain contrôle de suivi déjà après trois mois.  L’essentiel pour la pratique  • Malgré une survenue rare en Suisse, en cas d’infection par schistosomes chez les patients ayant séjourné dans une région endémique, il convient de penser à une schistosomiase hépatosplénique. Cela s’applique notamment en cas de non-concordance entre des lésions avancées du ­parenchyme hépatique et des paramètres de la fonction hépatique dans la norme.  • Etant donné que la pose de diagnostic sur la base de la mise en évidence de l’agent pathogène par biopsie échoue dans jusqu’à un tiers des cas, en cas de suspicion, le diagnostic de base doit être complété par une échographie abdominale et des analyses de laboratoire approfondies. Une primo-infection peut au plus tôt être détectée par mise en évidence des anticorps dans le sérum après un temps de latence de six à douze semaines. Un résultat positif ne permet pas de faire la différence entre une infection active et une infection passée.  • Dans le cas d’une schistosomiase hépatosplénique, il convient de rechercher de façon ciblée les co-infections exerçant un effet sur la fonction hépatique.  • Les administrations de praziquantel (40 mg/kg à 60 mg/kg de poids corporel) sont réparties en deux à trois doses administrées le jour 0 ainsi qu’une autre fois entre le jour 21 et le jour 30.

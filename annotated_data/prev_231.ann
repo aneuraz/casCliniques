@@ -1,0 +1,120 @@
+T1	profession 60 72	obstétricien
+T2	procedure 87 98	échographie
+T3	procedure 102 115	bilan sanguin
+T4	procedure 120 141	suivi de la grossesse
+T5	disorder 214 237	hyperglycémie provoquée
+T6	labvalue 239 247	1,84 g/l
+T7	procedure 275 304	consultation d’endocrinologie
+T8	procedure 316 335	surveillance simple
+T9	procedure 388 402	groupe sanguin
+T10	procedure 410 434	recherche d’agglutinines
+T11	procedure 481 492	échographie
+T12	profession 508 520	obstétricien
+T13	disorder 549 578	présentation en siège complet
+T14	procedure 580 592	prescription
+T15	procedure 598 610	pelviscanner
+T16	procedure 617 624	Doppler
+T17	procedure 662 698	présentation étant toujours en siège
+T18	procedure 704 729	césarienne prophylactique
+T19	procedure 788 814	 consultation d’anesthésie
+T20	procedure 821 847	contrôle du groupe sanguin
+T21	disorder 980 1005	douleurs péri-ombilicales
+T22	procedure 1009 1024	examen clinique
+T23	disorder 1039 1063	col perméable à un doigt
+T24	disorder 1065 1072	tonique
+T25	procedure 1080 1098	présentation basse
+T26	procedure 1115 1129	enregistrement
+T27	profession 1164 1176	obstétricien
+T28	profession 1191 1201	sage-femme
+T29	procedure 1207 1228	confirmer les données
+T30	procedure 1269 1290	regagner son domicile
+T31	procedure 1336 1343	Doppler
+T32	procedure 1350 1359	pelviscan
+T33	procedure 1366 1385	contrôler le groupe
+T34	disorder 1419 1438	attention car siège
+T35	procedure 1470 1503	césarienne car utérus cicatriciel
+T36	profession 1526 1538	obstétricien
+T37	procedure 1570 1581	pelvimétrie
+T38	disorder 1598 1612	bassin rétréci
+T39	disorder 1696 1734	rupture spontanée de la poche des eaux
+T40	disorder 1767 1785	rares contractions
+T41	profession 1839 1852	sages-femmes 
+T42	disorder 1879 1900	rupture des membranes
+T43	procedure 1905 1935	liquide amniotique était clair
+T44	procedure 1949 1970	contractions utérines
+T45	procedure 1990 2012	rythme cardiaque fœtal
+T46	procedure 2014 2017	RCF
+T47	labvalue 2019 2025	normal
+T48	disorder 2030 2051	présentation de siège
+T49	procedure 2071 2082	échographie
+T50	procedure 2108 2116	perfusée
+T51	procedure 2124 2147	examens complémentaires
+T52	procedure 2193 2224	détermination de groupe sanguin
+T53	profession 2366 2376	sage-femme
+T54	profession 2392 2404	obstétricien
+T55	profession 2467 2479	anesthésiste
+T56	procedure 2565 2575	césarienne
+T57	procedure 2609 2618	césariser
+T58	procedure 2636 2649	bilan sanguin
+T59	procedure 2703 2712	 examiner
+T60	procedure 2728 2759	remplir un dossier d’anesthésie
+T61	procedure 2818 2853	acheminer les prélèvements sanguins
+T62	profession 3021 3033	obstétricien
+T63	profession 2998 3008	sage-femme
+T64	profession 3107 3119	obstétricien
+T65	profession 3154 3166	obstétricien
+T66	procedure 3237 3247	césarienne
+T67	procedure 3359 3402	prélèvements étaient en cours de traitement
+T68	profession 3424 3436	anesthésiste
+T69	profession 3539 3551	obstétricien
+T70	profession 3573 3581	pédiatre
+T71	profession 3623 3633	sage-femme
+T72	disorder 3667 3706	contractions douloureuses et régulières
+T73	procedure 3733 3749	col était dilaté
+T74	labvalue 3752 3756	4 cm
+T75	procedure 3792 3795	RCF
+T76	labvalue 3796 3802	normal
+T77	procedure 3761 3780	liquide amniotique 
+T78	labvalue 3780 3785	clair
+T79	profession 3821 3833	anesthésiste
+T80	procedure 3858 3868	intervenir
+T81	procedure 3874 3887	bilan sanguin
+T82	profession 3908 3918	sage-femme
+T83	procedure 4032 4042	numération
+T84	procedure 4050 4059	plaquette
+T85	procedure 4099 4113	groupe sanguin
+T86	procedure 4120 4134	temps de Quick
+T87	procedure 4200 4226	réception des prélèvements
+T88	disorder 4251 4281	ralentissement du RCF variable
+T89	labvalue 4337 4345	70 b/min
+T90	profession 4350 4360	sage-femme
+T91	disorder 4378 4404	latéro-incidence du cordon
+T92	profession 4449 4459	sage-femme
+T93	disorder 4469 4507	contractions utérines s’intensifiaient
+T94	procedure 4550 4566	col était dilaté
+T95	labvalue 4569 4573	8 cm
+T96	procedure 4623 4634	bradycardie
+T97	labvalue 4637 4645	58 b/min
+T98	disorder 4665 4685	procidence du cordon
+T99	profession 4690 4700	sage-femme
+T100	procedure 4726 4750	refouler la présentation
+T101	disorder 4768 4789	compression du cordon
+T102	profession 4830 4842	anesthésiste
+T103	profession 4875 4885	sage-femme
+T104	profession 4938 4950	obstétricien
+T105	profession 5041 5051	sage-femme
+T106	procedure 5101 5116	bloc opératoire
+T107	procedure 5064 5074	transférer
+T108	procedure 5459 5475	 bloc opératoire
+T109	profession 5500 5510	sage-femme
+T110	profession 5691 5703	obstétricien
+T111	profession 5725 5733	pédiatre
+T112	profession 5753 5768	aide opératoire
+T113	profession 5787 5799	obstétricien
+T114	profession 5803 5815	anesthésiste
+T115	procedure 5816 5839	procédait à l’induction
+T116	procedure 5846 5865	anesthésie générale
+T117	procedure 5936 5946	extraction
+T118	labvalue 5967 5976	difficile
+T119	disorder 6028 6042	mort apparente
+T120	procedure 6087 6112	tentatives de réanimation

@@ -1,0 +1,22 @@
+T1	disorder 94 126	 douleurs invalidantes des mains
+T2	disorder 95 156	douleurs invalidantes des mains, des poignets et des cheville
+T3	procedure 197 249	 palpation des articulations métacarpo-phalangiennes
+T4	labvalue 425 440	CRP) à 30 mg/l 
+T5	labvalue 490 504	(VS) à 80 mm/h
+T6	labvalue 526 581	 facteur rhumatoïde et les anti-CCP reviennent positifs
+T7	disorder 599 623	 polyarthrite rhumatoïde
+T8	labvalue 636 733	 T-SPOT®.TB est effectué avant l’instauration d’un traitement immunomodulateur et revient positif
+T9	labvalue 1532 1575	bacille de Mycobacterium tuberculosis (MTB)
+T10	procedure 2039 2093	 test de sensibilité à la tuberculine ou Mantoux (TST)
+T11	procedure 2101 2215	 tests sanguins de détection de production de l’interféron gamma (IFN-γ; «Interferon Gamma Release Assays» [IGRA])
+T12	procedure 2544 2549	IGRA 
+T13	procedure 2844 2903	T-SPOT®.TB (tarif facturable CHF 129) et le QuantiFERON®-TB
+T14	labvalue 3507 3548	positifs, négatifs, ou non interprétables
+T15	labvalue 4785 4799	faux positifs,
+T16	disorder 6897 6944	Exposition récente à un cas de TB ­contagieuse 
+T17	disorder 6945 6973	Patients infectés par le VIH
+T18	risk 6945 6973;6974 7019;7020 7058;7059 7067;7068 7108;7109 7135;7136 7232;7233 7313;7314 7361;7362 7415;7416 7441;7442 7449;7450 7461;7462 7477;7478 7501	 Patients infectés par le VIH Transplantation d’organe ou de moelle osseuse Insuffisance rénale terminale dialysée Silicose Traitement immunosuppresseur (anti-TNFα) Risque modéré	À considérer Populations à risque de co-infection avec VIH: prisonniers, sans-abri, toxicomanes ­intraveineux Séquelles radiologiques d’antécédent de TB non traitée ou insuffisamment traitée Risque d’exposition dans le cadre professionnel Migrants provenant d’un pays à haute prévalence de TB Bas risque	Non recommandé Diabète Dénutrition Tabagisme actif Consommation d’alcool à
+T19	risk 6874 6896;6897 6944	Haut risque	Recommandé Exposition récente à un cas de TB ­contagieuse 
+T20	risk 9006 9108	 greffe d’organe ou de moelle osseuse, l’insuffisance rénale terminale dialysée, ainsi que la silicose
+T21	risk 9166 9197	traitements immunosuppresseurs,
+T22	risk 10602 10820	les néoplasies pulmonaires, cérébrales et ORL; les hémopathies malignes; un antécédent de gastrectomie ou bypass iléo-jéjunal; la corticothérapie avec dosage journalier équivalent ou plus élevé que 15 mg de prednisone 

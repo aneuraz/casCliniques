@@ -1,0 +1,145 @@
+T1	irrelevant 0 8;10 578	Contexte  Dans la pratique quotidienne, le patient atteint de nouvelles céphalées aiguës sévères représente un défi diag­nostique et thérapeutique, car le spectre des causes possibles s’étend de troubles bénins à des maladies dont l’évolution est potentiellement fatale. Dans la mesure où le tableau clinique du syndrome de vasoconstriction cérébrale réversible (SVCR) est retrouvé sous de nombreux synonymes dans la littérature, il existe de nombreux malentendus et concepts erronés de la maladie. Cet article vise à les dissiper et à présenter le concept de la maladie actuel.
+T2	procedure 600 608	Anamnèse
+T3	disorder 748 773	céphalées sévères ­aiguës
+T4	procedure 837 852	examen clinique
+T5	drugs 899 910	antalgiques
+T6	drugs 912 923	paracétamol
+T7	drugs 924 935	 métamizole
+T8	drugs 946 956	tizanidine
+T9	disorder 1572 1618	hémorragie sous-arachnoïdienne (HSA) corticale
+T10	procedure 1696 1713	tomodensitométrie
+T11	procedure 1715 1718	TDM
+T12	procedure 1758 1775	Tomodensitométrie
+T13	disorder 1826 1905	hémorragie sous-arachnoïdienne corticale dans la région frontale du côté gauche
+T14	procedure 1933 1954	examens diagnostiques
+T15	procedure 2015 2054	angio-imagerie par résonance magnétique
+T16	procedure 2056 2059	IRM
+T17	procedure 1998 2007	angio-TDM
+T18	procedure 2123 2127	 IRM
+T19	procedure 2207 2217	traitement
+T20	drugs 2236 2247	antalgiques
+T21	disorder 2253 2262	céphalées
+T22	procedure 2352 2369	 antihypertenseur
+T23	drugs 2374 2384	lisinopril
+T24	disorder 2484 2494	céphalées 
+T25	disorder 2554 2568	vision trouble
+T26	disorder 2593 2637	engourdissement de la moitié droite du corps
+T27	disorder 2643 2654	 abattement
+T28	procedure 2765 2784	pression artérielle
+T29	procedure 2795 2814	valeurs systoliques
+T30	labvalue 2825 2835	 200 mg Hg
+T31	procedure 2948 2967	traitement intensif
+T32	disorder 2973 2996	hypertension artérielle
+T33	procedure 3006 3016	traitement
+T34	drugs 3058 3068	lisinopril
+T35	drugs 3070 3089	hydrochlorothiazide
+T36	drugs 3091 3106	spiro­nolactone
+T37	drugs 3108 3118	doxazosine
+T38	drugs 3119 3133	 dihydralazine
+T39	drugs 3134 3143	 urapidil
+T40	procedure 3307 3311	 IRM
+T41	disorder 3370 3404	altération de la substance blanche
+T42	disorder 3532 3581	syndrome d’encéphalopathie postérieure réversible
+T43	disorder 3583 3587	SEPR
+T44	disorder 3640 3667	ralentissement psychomoteur
+T45	disorder 3675 3701	exacerbation des céphalées
+T46	disorder 3706 3733	troubles visuels bilatéraux
+T47	disorder 3741 3786	ontractions toniques de toutes les extrémités
+T48	procedure 3876 3924	 Imagerie par résonance magnétique du neurocrâne
+T49	disorder 3965 4044	altération de la ­substance blanche en hypersignal T2 au niveau pariétal gauche
+T50	procedure 4047 4067	Examens et résultats
+T51	disorder 4134 4140	agitée
+T52	disorder 4144 4178	ralentie sur le plan psychomoteur 
+T53	disorder 4377 4418	déviation tonique du regard vers le haut 
+T54	disorder 4425 4476	mouvements dystoniques de la bouche et de la langue
+T55	disorder 4503 4532	 une flexion tonique des bras
+T56	disorder 4540 4569	extension tonique des jambes 
+T57	disorder 4615 4657	 réponse non ciblée aux stimuli douloureux
+T58	disorder 4779 4813	 forte activité musculaire tonique
+T59	procedure 4954 4962	 intubée
+T60	procedure 5004 5017	TDM cérébrale
+T61	disorder 5121 5154	œdème cérébral pariéto-occipital 
+T62	procedure 5184 5193	angio-TDM
+T63	disorder 5207 5272	irrégularités généralisées du calibre des artères intracrâniennes
+T64	procedure 5380 5398	 TDM de per­fusion
+T65	disorder 5448 5584	irrigation sanguine réduite/retardée de la région pariéto-occipitale ainsi que le long de toute la convexité de la fissure longitudinale
+T66	procedure 5686 5695	Angio-TDM
+T67	disorder 5833 5857	vasoconstriction diffuse
+T68	procedure 5862 5878	TDM de perfusion
+T69	procedure 5749 5758	angio-TDM
+T70	disorder 6255 6322	pupilles étaient moyennement dilatées et non réactives à la lumière
+T71	disorder 6328 6397	déviation conjuguée de la tête et du regard vers le haut et la gauche
+T72	procedure 6418 6433	réflexe cornéen
+T73	procedure 6470 6494	réflexe oculo-céphalique
+T74	disorder 6613 6629	flexion des bras
+T75	disorder 6637 6657	extension des jambes
+T76	procedure 6754 6767	TDM cérébrale
+T77	disorder 6780 6821	œdème cérébral supra-tentoriel progressif
+T78	disorder 6826 6958	calibre des artères intra­crâniennes, notamment des artères cérébrales antérieure et moyenne, était toujours considérablement réduit
+T79	disorder 7018 7040	 zones d’hypoperfusion
+T80	disorder 7212 7246	posture de décérébration corticale
+T81	procedure 7423 7433	Traitement
+T82	irrelevant 20417 20445;20447 20530;20532 20674;20676 20753;20755 20892;20894 21038;21040 21105;21107 21202	L’essentiel pour la pratique  Quand faut-il penser à un syndrome de vasoconstriction cérébrale réversible (SVCR)?  • Toute céphalée inhabituelle de survenue récente, surtout en cas de céphalées en coup de tonnerre («thunderclap headache», TCH) récidivantes.  • En cas d’hémorragie sous-arachnoïdienne, surtout au niveau de la convexité.  • Tout accident vasculaire cérébral ischémique ou hémorragique, même sans céphalées, pour lequel aucune explication ne peut être trouvée.  • Dans le contexte d’un syndrome d’encéphalopathie postérieure réversible (SEPR) ou d’une dissection cervicale des artères à destinée cérébrale.  • Les facteurs déclencheurs typiques doivent être pris en compte.  L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2019.03195.
+T83	irrelevant 19648 20414	Le SVCR peut être différencié d’une angéite primaire du système nerveux central (APSNC) comme suit: l’APSNC s’accompagne certes également de céphalées dans environ la moitié des cas, mais ces dernières n’ont en règle générale pas les mêmes caractéristiques que celles d’un TCH. L’évolution clinique est en règle générale plus ­sévère (accident vasculaire cérébral, crises épileptiques, encéphalopathie ...), l’IRM est presque toujours anormale, et la lésion ischémique est observée bien plus fréquemment que l’hémorragie. Le liquide céphalo-rachidien est anormal dans environ les trois quarts des cas. La vaconstriction est plutôt périphérique et excentrée. La pathologie vasculaire inflammatoire peut être visualisée à l’IRM au moyen de séquences dites «dark blood»
+T84	irrelevant 18901 19645	Une question récurrente est celle de savoir si la vaso­constriction observée dans le contexte d’une HSA constitue plutôt la cause ou la conséquence de l’hémorragie. Les éléments suggérant un SVCR sont le profil de patient différent et les causes différentes de l’hémorragie, sa ­localisation au niveau de la convexité, les dilations et constrictions prolongées, multifocales, bilatérales et segmentaires («strings and beads»), ainsi que l’hémorragie intracérébrale souvent concomitante et/ou un syndrome d’encéphalopathie postérieure réversible (SEPR), la survenue plus fréquente d’infarctus jonctionnels par rapport aux infarctus territoriaux, ainsi que l’absence de mise en évidence d’un anévrisme rompu ou d’une malformation artério-veineuse
+T85	irrelevant 17961 18898	Il n’existe pas de recommandations basées sur l’évidence pour le traitement du SVCR. Ce dernier est en règle générale symptomatique avec analgésie, désensibilisation aux stimuli, anxiolyse, contraception si nécessaire et traitement antihypertenseur adapté. Les substances déclenchantes potentielles et les facteurs déclencheurs doivent dans la mesure du possible être arrêtés/éliminés. La nimodipine peut être utilisée par voie orale/entérale pour le traitement symptomatique des céphalées, mais elle ne prévient pas les événements ischémiques et n’améliore pas le pronostic. L’emploi des stéroïdes doit être évité car ces derniers peuvent dégrader le résultat du traitement [4]. Le traitement intra-­artériel par papavérine et/ou l’angioplastie transluminale percutanée (ATP) sont réservés aux cas individuels graves avec ischémies cérébrales. Les complications ­cérébro-vasculaires sont traitées selon les schémas thérapeutiques usuels
+T86	procedure 7466 7471	sonde
+T87	disorder 7702 7720	sédation-analgésie
+T88	disorder 7910 7950	hypertension intracrânienne conservateur
+T89	procedure 7893 7904	 traitement
+T90	disorder 7793 7807	PIC est montée
+T91	disorder 8015 8032	sédation profonde
+T92	disorder 8034 8057	surélévation de la tête
+T93	disorder 8068 8097	tête dans une position neutre
+T94	procedure 8145 8155	traitement
+T95	drugs 8173 8184	 nimodipine
+T96	drugs 8188 8208	sulfate de magnésium
+T97	disorder 8213 8248	PIC était difficilement contrôlable
+T98	procedure 8259 8269	traitement
+T99	disorder 8283 8302	ondes A de Lundberg
+T100	disorder 8354 8365	hypothermie
+T101	procedure 8418 8448	drainage ventriculaire externe
+T102	disorder 8491 8519	hypertension intra­crânienne
+T103	procedure 8593 8597	 IRM
+T104	disorder 8671 8720	ischémie du parenchyme cérébral supra-tentorielle
+T105	disorder 8726 8919	œdème cytotoxique et vaso­génique le long de la convexité à proximité de la ligne médiane des deux côtés, dans la zone pariétale des deux côtés, et dans une grande partie de la zone occipitale 
+T106	disorder 8950 8961	vasospasmes
+T107	procedure 8982 8993	échographie
+T108	procedure 9006 9009	EEG
+T109	disorder 9024 9044	ltération ­générale 
+T110	procedure 9064 9101	analyse du liquide céphalo-rachidien 
+T111	procedure 9139 9142	IRM
+T112	disorder 9382 9404	ischémie du parenchyme
+T113	disorder 9437 9628	œdème cytotoxique et vasogénique le long de la convexité à proximité de la ligne médiane des deux côtés, dans la zone pariétale des deux côtés, et dans une grande partie de la zone occipitale
+T114	irrelevant 9630 9933	Distinction entre œdème vasogénique et cytotoxique au moyen des séquences pondérées en diffusion. En DWI b1000, aussi bien l’œdème vasogénique et l’œdème cytotoxique sont clairs par rapport au parenchyme cérébral. La distinction est réalisée au moyen de l’ADC: cytotoxique = sombre, vasogénique = clair.
+T115	irrelevant 9935 10124	Figure 5: Echographie Doppler/duplex transcrânienne avec amplification de contraste de l’artère cérébrale moyenne gauche. Vitesses (maximales) du flux systolique et moyen fortement accrues.
+T116	disorder 10165 10178	complications
+T117	disorder 10194 10203	pneumonie
+T118	disorder 10243 10297	thrombose étendue des veines pelviennes des deux côtés
+T119	drugs 10338 10352	antibiotiques 
+T120	procedure 10370 10385	anticoagulation
+T121	disorder 10647 10654	mutisme
+T122	disorder 10660 10686	atteinte visuelle centrale
+T123	disorder 10736 10746	infarctus 
+T124	disorder 10844 10851	apathie
+T125	disorder 10892 10901	dysphagie
+T126	procedure 10914 10937	gastrostomie percutanée
+T127	disorder 11155 11173	syndrome pyramidal
+T128	procedure 11348 11358	traitement
+T129	disorder 11496 11512	cécité corticale
+T130	disorder 11526 11549	­tétraparésie spastique
+T131	disorder 11566 11599	contrôle limité de la main droite
+T132	disorder 11656 11681	troubles de la perception
+T133	procedure 11684 11694	Diagnostic
+T134	procedure 11713 11721	anamnèse
+T135	procedure 11768 11789	examens paracliniques
+T136	procedure 11794 11805	diagnostic 
+T137	disorder 11808 11857	syndrome de vasoconstriction cérébrale réversible
+T138	disorder 11859 11863	SVCR
+T139	irrelevant 11890 12692	Ce rapport de cas illustre de nombreux éléments typiques du SVCR, dénomination aujourd’hui utilisée en tant que terme standard pour désigner un groupe d’affections qui partagent des caractéristiques angiographiques et cliniques typiques (vasoconstriction segmentaire et multifocale réversible des artères intracérébrales; céphalées sévères aiguës avec ou sans signes neurologiques focaux) et qui étaient auparavant retrouvées sous différentes dénominations dans la littérature (voir tab. S1 de l’annexe en ligne). Le principal élément est la céphalée aiguë et intense, qui remplit souvent les critères d’une céphalée en coup de tonnerre («thunderclap headache» [TCH]). Une définition du TCH est disponible dans la classification des céphalées de la société internationale des céphalées (ichd-3.org [1])
+T140	irrelevant 12695 13283	Les causes du SVCR sont multiples et peuvent être classées en formes primaires/spontanées et secondaires [2]. En Europe et en Amérique, ce sont les formes secondaires qui prédominent, les formes associées aux drogues et aux médicaments occupant les deux premières places et la période du post-partum la troisième. En outre, plusieurs déclencheurs peuvent être présents ­simultanément ([3–6], données présentées par Ducros lors du congrès de l’«European Academy of Neurology» [EAN] 2017 à Amsterdam [non publié]). La liste des causes décrites est longue (voir tab. S2 de l’annexe en ligne)
+T141	irrelevant 13286 13916	Sur le plan physiopathologique, différents mécanismes sont discutés, tels qu’une hyperactivité sympathique, une dysfonction endothéliale, un stress oxydatif et une susceptibilité individuelle. La fréquence exacte au sein de la population n’est pas connue. Les données disponibles proviennent uniquement de six séries de cas publiées à travers le monde. Les femmes seraient environ quatre fois plus touchées que les hommes. Concernant la période du postpartum, une fréquence de 1 naissance sur 900 a été décrite. La maladie atteint son pic entre l’âge de 40 et 45 ans. Le plus souvent, l’anamnèse des céphalées est vierge (55–75%).
+T142	irrelevant 13918 15354	L’évolution clinique du SVCR est purement céphalalgique (60–92%) dans la plupart des cas. Le plus souvent, une céphalée en coup de tonnerre récidivante survient pour une durée de 1 à 4 semaines (75–94%) et cette ­dernière présente des déclencheurs typiques (70–80%; effort physique, émotions, manœuvre de Valsalva, douches et bains). Des crises hypertensives surviennent fréquemment (34–46%). Des signes neurologiques focaux sont décrits dans 8–43% des cas et des crises épileptiques dans 1–17% des cas [4–12]. L’évolution est la plupart du temps favorable (mRS 0–1 86%), mais dans de rares cas, elle est grave voire fatale (mRS 6, 2,5%, particulièrement chez les femmes) [4, 13]. Un accident vasculaire cérébral est responsable de l’évolution grave dans la plupart des cas. Le SVCR peut entraîner toutes formes d’hémorragies intracrâniennes, l’HSA corticale étant la plus fréquente. Notamment chez les patientes de moins de 60 ans, le SVCR est la cause la plus fréquente d’HSA corticale (60%; dans l’ensemble 0–38%). L’accident vasculaire cérébral ischémique survient plus rarement (4–33%) et d’après les données de registres, il fait suite à un SVCR dans 1–13% des cas chez les patients jeunes. Durant la période du post-partum, le SVCR est la cause la plus fréquente d’accident vasculaire cérébral ­ischémique (24%). Des récidives du SVCR sont décrites dans environ 5% des cas en l’espace de 3 ± 2 ans après le premier événement [8].
+T143	irrelevant 15356 16085	L’évolution clinique après la survenue d’un TCH typique suit un schéma caractéristique. Les premières semaines, des hémorragies et des ischémies cérébrales surviennent aux alentours du 12e jour. Les céphalées cessent en règle générale après une semaine. L’évolution de la maladie est par définition monophasique, sans nouveaux signes cliniques après un mois. Dans la littérature, au moins 104 cas de patients sans TCH ont été décrits. Au cours de l’évolution ultérieure, des céphalées progressives uniquement légères à modérées peuvent survenir. Une absence de céphalées est également possible au moment du diagnostic. Au service des urgences, le SVCR est au moins aussi fréquent que l’HSA anévrismale chez les patients avec TCH.
+T144	irrelevant 16087 17157	Des critères diagnostiques [6] ont été publiés pour le SVCR (tab. 1). Dans la plupart des cas, l’anamnèse est évocatrice de l’affection. La mise en évidence angiographique de la survenue et de la disparation d’une vasoconstriction avec un schéma typique est essentielle (constriction et dilation prolongées, multifocales, bilatérales, segmentaires [«strings and beads»]). Dans ce cadre, l’angio-IRM est à privilégier. Etant donné qu’une vasoconstriction peut faire défaut lors de l’examen initial (normal dans jusqu’à 77% des cas), un examen de suivi après une semaine est recommandé. Une ponction lombaire devrait être réalisée dans le cadre des investigations relatives au diagnostic différentiel. Typiquement, le liquide céphalo-rachidien ne présente pas d’anomalies. Une ponction lombaire devrait toujours être réalisée en cas de céphalées typiques et d’examen d’imagerie initialement normal. Il est conseillé de rechercher des causes rares de SVCR traitées par des options thérapeutiques spécifiques (par example phéochromocytome, tumeur carcinoïde, paragangliome).
+T145	irrelevant 17159 17307;17308 17429;17430 17493;17494 17692;17693 17761;17762 17858;17859 17959	Tableau 1: Critères diagnostiques du syndrome devaso­constriction cérébrale réversible (SVCR) (d’après [6]). Tous les critères doivent être remplis. Céphalées aiguës violentes (souvent «thunderclap headache») avec/sans signes neurologiques focaux ou crises ­épileptiques Evolution monophasique sans nouveau signe clinique après 1 mois Mise en évidence d’une vasoconstriction segmentaire des artères intracérébrales au moyen de la tomodensitométrie, de l’imagerie par résonance magnétique ou de l’angiographie de soustraction digitale Pas de mise en évidence d’hémorragie sous-arachnoïdienne anévrismale Liquide céphalo-rachidien normal ou proche de la normale (<15 cellules/μl, protéines <100 mg/dl) Régression complète ou significative de la vasoconstriction 12 semaines après le début des symptômes

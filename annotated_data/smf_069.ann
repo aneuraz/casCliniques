@@ -1,0 +1,90 @@
+T1	disorder 251 287	lymphome B diffus à grandes cellules
+T2	irrelevant 442 527;528 585	Tableau 1: Diagnostics différentiels d’un ulcère de jambe (tableau modifié) [1–3, 5]. Causes vasculaires	Artériopathie périphérique oblitérante
+T2	irrelevant 586 617;618 629	Insuffisance veineuse chronique Vascularite
+T2	irrelevant 630 692;693 778	Microangiopathie avec/sans neuropathie en cas de diabète sucré Causes hémato­logiques	Maladies hématologiques (notamment drépanocytose, thalassémie)
+T2	irrelevant 779 863;864 898	Troubles de la coagulation (notamment carence en protéine C, S ou antithrombine III) Infections	Infections bactériennes
+T2	irrelevant 899 917;918 925	Infections virales Mycoses
+T2	irrelevant 926 951;952 987	Infections à protozoaires Malignomes	Carcinome basocellulaire
+T2	irrelevant 988 1009;1010 1024	Carcinome épidermoïde Mélanome malin
+T2	irrelevant 1025 1033;1034 1115	Lymphome Causesmétaboliques	Médicaments (p. ex. hydroxyurée, méthotrexate, phénprocoumone)
+T2	irrelevant 1116 1122;1123 1162	Goutte Traumatismes/causes physiques	Décubitus
+T2	irrelevant 1163 1170;1171 1177	Brûlure Gelure
+T2	irrelevant 1178 1194;1195 1209	Brûlure chimique Rapport de cas
+T2	irrelevant 1210 1218	Anamnèse
+T3	disorder 1325 1353	ulcères de jambe bilatéraux 
+T4	disorder 1403 1420	sudation nocturne
+T5	procedure 1434 1443	anamnèse 
+T6	disorder 1578 1599	gonflement douloureux
+T7	disorder 1723 1753	œdèmes marqués par la pression
+T8	disorder 1760 1802	anglions lymphatiques mobiles et indolores
+T9	disorder 1868 1899	hyperpigmentation superficielle
+T10	disorder 2017 2051	 indurations cutanées douloureuses
+T11	disorder 2076 2092	lésions ouvertes
+T12	disorder 2119 2137	lésion prétibiale 
+T13	disorder 2222 2236	ulcère floride
+T14	disorder 2264 2279	 bords nécrosés
+T15	procedure 2295 2315	’échographie Doppler
+T16	disorder 2342 2357	phlébothrombose
+T17	disorder 2409 2425	macroangiopathie
+T18	procedure 2440 2463	(indice tibio-­brachial
+T19	labvalue 2474 2478	1,21
+T20	labvalue 2489 2493	1,33
+T21	procedure 2501 2523	analyses biochimiques 
+T22	procedure 2549 2569	protéine C-réactive 
+T23	procedure 2570 2573	CRP
+T24	labvalue 2575 2584	21,9 mg/l
+T25	procedure 2638 2662	anticorps antinucléaires
+T26	procedure 2664 2677	AC anti-dsDNA
+T27	labvalue 2679 2687	32 IU/ml
+T28	drugs 2743 2756	 prednisolone
+T29	disorder 2826 2838	vascularite 
+T30	disorder 2997 3005	ulcères 
+T31	disorder 3327 3359	 anémie normochrome normocytaire
+T32	procedure 3368 3387	taux d’hémoglobine 
+T33	labvalue 3391 3398	09 g/l 
+T34	labvalue 3461 3469	64 mm/h 
+T35	procedure 3510 3513	CRP
+T36	labvalue 3517 3527	33,9 mg/l 
+T37	procedure 3582 3605	 lactate déshydrogénase
+T38	labvalue 3631 3639	322 U/l 
+T39	procedure 3673 3701	taux d’anticorps anti-dsDNA 
+T40	labvalue 3721 3731	 32 IU/ml 
+T41	procedure 3764 3778	 complément C3
+T42	labvalue 3802 3811	 0,85 g/l
+T43	procedure 3848 3877	électrophorèse des protéines 
+T44	labvalue 4050 4058	absence 
+T45	procedure 3999 4018	dépistage de l’EBV 
+T46	procedure 4104 4112	biopsie 
+T47	disorder 4159 4169	infiltrats
+T48	labvalue 4382 4393	positivité 
+T49	procedure 4456 4460	EBV 
+T50	procedure 4401 4405	CD20
+T51	procedure 4326 4357	analyses immuno­histochimiques 
+T52	disorder 4208 4238	cellules lymphoïdes atypiques 
+T53	disorder 4286 4320	destruction des parois vasculaires
+T54	disorder 4611 4648	infiltration dermique et sous-cutanée
+T55	disorder 4724 4736	 ulcération 
+T56	procedure 4752 4773	analyse cytogénétique
+T57	procedure 4790 4824	fluorescence in situ hybridization
+T58	disorder 5339 5363	modifications génétiques
+T59	procedure 5449 5507	tomographie par émission de positons au fluorodéoxyglucose
+T60	disorder 5711 5730	atteinte pulmonaire
+T61	disorder 5764 5796	DLBCL EBV-positif de stade IV-B 
+T62	disorder 5801 5825	manifestation pulmonaire
+T63	drugs 5943 5959	cyclophosphamide
+T64	drugs 5961 5981	hydroxydaunorubicine
+T65	drugs 5983 5994	vincristine
+T66	drugs 5996 6006	prednisone
+T67	drugs 6036 6045	rituximab
+T68	disorder 6076 6089	 ulcérations 
+T69	disorder 6137 6189	Lésions dans la partie inférieure de la jambe droite
+T70	procedure 6322 6329	FDG-PET
+T71	disorder 6407 6437	manifestations lymphomateuses 
+T72	disorder 6502 6538	diminution de l’activité métabolique
+T73	disorder 6603 6659	DLBCL EBV-positif de stade IV-B avec atteinte pulmonaire
+T74	procedure 6702 6710	biopsie 
+T75	procedure 6747 6768	néoplasie secondaire 
+T76	disorder 6847 6863	atteinte cutanée
+T77	disorder 6868 6885	 ulcères de jambe
+T78	irrelevant 7396 7774;7776 8605;8607 9268;9270 9392;9394 9632;9634 9662;9664 9894;9896 10024;10026 10232	Une anamnèse précise prenant en compte l’évolution temporelle et la réponse aux mesures thérapeutiques est essentielle pour le diagnostic différentiel, tout comme la question de la douleur et l’examen clinique portant une attention particulière à la localisation, la délimitation de la lésion, la peau environnante, les signes d’atrophie ainsi que le statut veineux et le pouls.  En ce qui concerne les appareils diagnostiques, l’échographie Doppler du système veineux ainsi que la mesure de l’indice tibio-brachial occupent le premier plan. En présence d’ulcères atypiques qui ne montrent aucune tendance à la résorption au bout de trois mois de traitement, augmentent rapidement en taille ou s’accompagnent de symptômes secondaires tels qu’un livedo réticulaire ou un purpura palpable, il convient d’adresser le patient à un dermatologue et, en présence d’ulcères vasculaires, de faire appel précocement aux consœurs et confrères spécialisés en angiologie et chirurgie vasculaire. Les anomalies inexpliquées doivent, particulièrement en présence d’une suspicion de maladie systémique, faire l’objet d’une biopsie de la zone marginale et être évaluées sur le plan pathologique ou dermato-pathologique [1, 2].  Le DLBCL représente une maladie très hétérogène au sein de laquelle divers sous-types peuvent être différenciés selon la technique histologique, immunohistochimique et génétique [4]. Le DLBCL/NOS (NOS: «not otherwise specified») EBV-positif diagnostiqué chez notre patiente constitue l’un des sous-types et peut survenir à tout âge et présenter des caractéristiques communes avec une granulomatose lymphomatoïde [4]. Une manifestation extranodale semble souvent survenir chez ce sous-type, les manifestations cutanées se présentant sous forme de plaques ou nodules érythémateux, typiquement non ulcéreux, en particulier au niveau des extrémités inférieures [4].  En fonction du stade de la maladie, une chimio-immunothérapie est pratiquée avec ou sans radiothérapie complémentaire [4].  L’évaluation du pronostic de cette maladie hétérogène dépend fortement de divers paramètres cliniques et biochimiques ainsi que de la classification génétique moléculaire, qui sont résumés dans l’index pronostique international (IPI) [4].  L’essentiel pour la pratique  • En présence d’ulcères de jambe, il convient d’envisager également les maladies néoplasiques en tant que diagnostics différentiels. Une biopsie précoce avec prélèvements multiples doit être considérée en cas d’évolution atypique.  • Le lymphome B diffus à grandes cellules (DLBCL) positif au virus d’Epstein Barr (EBV) est un lymphome non hodgkinien agressif.  • La confirmation histologique du diagnostic avec réalisation d’une analyse immunohistochimique et cytogénétique représente la condition nécessaire pour une évaluation du pronostic et un traitement optimal.
+T79	irrelevant 6960 7394	La manifestation cutanée d’un lymphome fait partie des diagnostics différentiels rares d’un ulcère de jambe, le plus souvent dû à une problématique d’ordre vasculaire [1]. Les causes fréquentes sont également des troubles de la microcirculation en cas de diabète sucré, généralement combinés à une neuropathie – des traumatismes physiques, infections et inflammations vasculaires d’origine auto-immune étant plus rares (tab. 1) [1–3].

@@ -1,0 +1,90 @@
+T1	profession 74 93	chirurgien-dentiste
+T2	disorder 133 154	 douleurs abdominales
+T3	disorder 184 201	appendicite aiguë
+T4	disorder 345 355	prédiabète
+T5	procedure 416 424	glycémie
+T6	labvalue 427 435	1,35 g/l
+T7	procedure 507 515	glycémie
+T8	procedure 658 669	leucocytose
+T9	labvalue 671 684	 12 400 /mm 3
+T10	disorder 769 779	péritonite
+T11	disorder 790 801	bactériémie
+T12	disorder 906 932	 Appendicite aiguë ulcérée
+T13	disorder 937 961	 phlegmon appendiculaire
+T14	procedure 1055 1080	Libération de l’appendice
+T15	procedure 1082 1118	Electrocoagulation du méso-appendice
+T16	procedure 1189 1197	ligature
+T17	disorder 1357 1382	appendicite aiguë ulcérée
+T18	disorder 1388 1418	péritonite péri-appendiculaire
+T19	drugs 1481 1490	Augmentin
+T20	procedure 1456 1471	antibiothérapie
+T21	drugs 1537 1544	Lovenox
+T22	procedure 1519 1532	anticoagulant
+T23	procedure 1492 1515	, traitement antalgique
+T24	disorder 1627 1662	 reprend pas son transit intestinal
+T25	disorder 1704 1711	nausées
+T26	disorder 1719 1731	vomissements
+T27	procedure 1801 1830	 place d’une sonde digestive 
+T28	disorder 1841 1869	3 litres de liquide noirâtre
+T29	procedure 1871 1897	Une radiographie d’abdomen
+T30	disorder 1929 1980	Aéro-colie diffuse avec présence d’air intra-rectal
+T31	disorder 1992 2012	niveau hydro-aérique
+T32	procedure 2064 2098	 L’échographie abdomino-pelvienne 
+T33	disorder 2134 2162	épanchement dans le Morisson
+T34	disorder 2178 2199	distension des anses 
+T35	drugs 2419 2430	Prostigmine
+T36	drugs 2432 2440	Débridat
+T37	drugs 2443 2452	Primperan
+T38	procedure 2595 2608	antibiotiques
+T39	disorder 2822 2858	l’état général du patient se dégrade
+T40	disorder 2901 2931	déshydratation intracellulaire
+T41	procedure 2984 3034	hydro-électrolytique quotidien de 2,5 à 3,5 litres
+T42	drugs 3036 3045	Bionolyte
+T43	disorder 2933 2945	soif intense
+T44	disorder 2947 2955	asthénie
+T45	procedure 3229 3257	 sonde digestive est retirée
+T46	disorder 3397 3403	confus
+T47	procedure 3469 3480	créatinémie
+T48	labvalue 3483 3494	178 µmol/l 
+T49	labvalue 3543 3553	160 mmol/l
+T50	disorder 3526 3540	hyper natrémie
+T51	disorder 3907 3920	hypernatrémie
+T52	disorder 3944 3957	hyperglycémie
+T53	labvalue 3960 3968	5,78 g/l
+T54	disorder 3989 4022	trouble hyperosmolaire diabétique
+T55	disorder 4244 4252	oligurie
+T56	disorder 4272 4292	déshydratation intra
+T57	disorder 4297 4312	extracellulaire
+T58	procedure 4392 4411	insulinothérapie IV
+T59	procedure 4328 4378	 perfusé avec des solutés iso- et hypo-osmolaires 
+T60	disorder 4476 4484	obnubilé
+T61	procedure 4489 4497	glycémie
+T62	procedure 4521 4529	natrémie
+T63	disorder 4549 4591	 ischémie aiguë du membre inférieur gauche
+T64	procedure 4616 4630	artériographie
+T65	disorder 4642 4669	occlusion des axes iliaques
+T66	procedure 4736 4762	embolectomie chirurgicale 
+T67	drugs 4987 4994	Lasilix
+T68	disorder 5036 5044	oligurie
+T69	disorder 5083 5105	hypotension artérielle
+T70	drugs 5122 5130	Levophed
+T71	procedure 5136 5159	radiographie pulmonaire
+T72	disorder 5170 5197	œdème pulmonaire lésionnel 
+T73	labvalue 5202 5210	présence
+T74	labvalue 5214 5225	colibacille
+T75	labvalue 5230 5237	proteus
+T76	labvalue 5244 5260	candida albicans
+T77	procedure 5268 5289	 liquide d’aspiration
+T78	drugs 5362 5369	Lasilix
+T79	procedure 5376 5414	augmentation du remplissage vasculaire
+T80	procedure 5440 5448	glycémie
+T81	procedure 5455 5463	natrémie
+T82	disorder 5524 5543	insuffisance rénale
+T83	disorder 5565 5578	hyperkaliémie
+T84	labvalue 5581 5592	6,4 mmol /l
+T85	disorder 5607 5637	rhabdomyolyse postembolectomie
+T86	drugs 5652 5662	Kayexalate
+T87	disorder 5669 5697	troubles du rythme cardiaque
+T88	disorder 5733 5759	 arrêt cardio respiratoire
+T89	disorder 5774 5779	décès
+T90	procedure 5801 5827	 manœuvres de réanimation 

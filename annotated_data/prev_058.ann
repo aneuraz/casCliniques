@@ -1,0 +1,38 @@
+T1	disorder 45 83	prolapsus hémorroïdaire avec thrombose
+T2	procedure 129 135	opérée
+T3	procedure 312 345	compte-rendu anatomo-pathologique
+T4	disorder 383 424	Néoplasie intra-épithéliale de haut grade
+T5	disorder 1884 1902	 tumeur anorectale
+T6	procedure 1906 1915	 biopsie 
+T7	disorder 2023 2044	cancer du canal anal 
+T8	procedure 2160 2170	classée T3
+T9	procedure 2348 2356	TEP Scan
+T10	procedure 2512 2565	 radiothérapie « transcutanée fractionnée classique »
+T11	procedure 2650 2682	première cure de chimiothérapie 
+T12	drugs 2692 2696	5-FU
+T13	drugs 2698 2707	Cisplatyl
+T14	drugs 2712 2721	Navelbine
+T15	procedure 2729 2759	seconde cure de chimiothérapie
+T16	procedure 2803 2817	 radiothérapie
+T17	disorder 2836 2889	une radio-épithélite et une radio-mucite de grade III
+T18	procedure 3007 3026	endo-curiethérapie 
+T19	procedure 3129 3155	curiethérapie de surdosage
+T20	procedure 3179 3208	« chimio-sensibilisation par 
+T21	drugs 3207 3212	 5-FU
+T22	procedure 3273 3304	nouvelle cure de chimiothérapie
+T23	drugs 3306 3311	5-FU,
+T24	drugs 3312 3323	Mitomycine®
+T25	disorder 3398 3426	écrose périnéale surinfectée
+T26	labvalue 3471 3481	3g /100ml 
+T27	disorder 3462 3468	anémie
+T28	procedure 3483 3494	hémoglobine
+T29	procedure 3544 3566	transfusions sanguines
+T30	procedure 3570 3585	antibiothérapie
+T31	disorder 3623 3644	sténose du canal anal
+T32	disorder 3660 3672	radionécrose
+T33	procedure 3686 3717	40 séances de caisson hyperbare
+T34	procedure 3855 3863	recours 
+T35	drugs 3867 3876	 morphine
+T36	drugs 3885 3901	xylocaïne locale
+T37	procedure 3957 3982	colostomie iliaque gauche
+T38	procedure 4073 4112	scanner Thoraco-Abdomino Pelvien normal

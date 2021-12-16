@@ -1,0 +1,18 @@
+T1	disorder 97 129	rupture prématurée des membranes
+T2	drugs 153 160	Adalate
+T3	drugs 164 179	corticothérapie
+T4	disorder 402 423	rupture des membranes
+T5	drugs 440 453	bilan sanguin
+T6	drugs 501 516	antibiothérapie
+T7	drugs 574 587	antibiotiques
+T8	drugs 740 749	Zythromax
+T9	drugs 753 762	Augmentin
+T10	procedure 967 978	échographie
+T11	drugs 1034 1047	antibiotiques
+T12	drugs 1088 1097	Zythromax
+T13	drugs 1104 1112	Célebrex
+T14	drugs 1257 1265	Celebrex
+T15	drugs 1528 1537	Celecoxib
+T16	drugs 1903 1917	charbon activé
+T17	drugs 2416 2449	anti-inflammatoire non stéroïdien
+T18	drugs 2451 2459	Celebrex

@@ -1,0 +1,95 @@
+T1	disorder 67 88	 syndrome métabolique
+T2	procedure 110 131	 radio-chimiothérapie
+T3	drugs 133 142	cétuximab
+T4	disorder 152 197	carcinome épidermoïde de la base de la langue
+T5	procedure 253 271	nutrition entérale
+T6	procedure 283 297	 bilan sanguin
+T7	procedure 326 353	­protéines sériques totales
+T8	labvalue 390 396	79 g/l
+T9	disorder 403 409	anémie
+T10	procedure 411 423	hémoglobine 
+T11	labvalue 423 429	94 g/l
+T12	disorder 482 493	anisocytose
+T13	disorder 496 523	red cell distribution width
+T14	disorder 550 561	lymphopénie
+T15	labvalue 563 572	0,79 G/l 
+T16	labvalue 577 580	16%
+T17	procedure 585 595	leucocytes
+T18	procedure 602 622	tests de cholestase 
+T19	procedure 633 641	gamma-GT
+T20	labvalue 642 649	179 U/l
+T21	procedure 651 671	phosphatase alcaline
+T22	labvalue 672 679	124 U/l
+T23	procedure 694 716	lactate déshydrogénase
+T24	labvalue 734 741	277 U/l
+T25	procedure 744 754	créatinine
+T26	labvalue 755 765	48 μmol/l 
+T27	procedure 766 770	eGFR
+T28	labvalue 771 781	116 ml/min
+T29	procedure 811 825	électrophorèse
+T30	procedure 833 852	immunosoustraction 
+T31	procedure 958 962	IgG 
+T32	labvalue 962 970	24,1 g/l
+T33	procedure 985 988	IgA
+T34	labvalue 989 998	1,85 g/l 
+T35	procedure 1011 1014	IgM
+T36	labvalue 1015 1023	0,89 g/l
+T37	procedure 1037 1052	Ig-Kappa libre 
+T38	labvalue 1052 1060	157 mg/l
+T39	procedure 1075 1084	Ig-Lambda
+T40	labvalue 1091 1100	46,2 mg/l
+T41	procedure 1115 1141	rapport Kappa/Lambda libre
+T42	labvalue 1142 1146	3,40
+T43	irrelevant 1161 1198;1201 1324;1326 1396;1398 1538;1540 1577;1579 1587;1590 1616	Comment interprétez-vous ce résultat?   a) Gammapathie polyclonale d’origine infectieuse (sérologie pour HSV IgM limite, sérologies EBV positives en IgG et en IgM)  b) Triple gammapathie monoclonale: double IgG Kappa et mono IgG Lambda  c) Gammapathie polyclonale avec des chaînes lourdes (IgG) et des chaînes légères (Kappa et Lambda) dans un contexte oncologique métastatique  d) Myélome multiple de type IgG Kappa  Réponse:   La réponse correcte est b.
+T44	disorder 1655 1740	 présence inhabituelle d’une triple gammapathie monoclonale à IgG Kappa et IgG Lambda
+T45	irrelevant 2087 2616	Figure 1: Analyse des protéines sériques:A ) électrophorèse normale avec 6 pics de protéines;B ) électrophorèse d’un patient avec myélome multiple;C ) profil de notre patient avec tracé d’immunosoustraction pour la fraction IgG etD ) pour la fraction kappa. La ligne jaune indique l’électrophorèse sans immunosoustraction, la ligne bleu turquoise l’électrophorèse avec immunosoustraction. Meilleure visualisation de la double gammapathie monoclonale IgG kappa et de la gammapathie monoclonale IgG lambda sur l’immunofixation (E )
+T46	irrelevant 2619 4150	Les résultats de l’électrophorèse des protéines sériques (prix: CHF 31.–, selon la Liste des Spécialités de l’Office fédéral de la santé publique) sont transmis sous forme quantitative (calcul de l’aire sous la courbe). En cas d’anomalie de la zone des gammaglobulines, une immunosoustraction (CHF 53.–) est réalisée. Cette dernière permet de précipiter, et donc soustraire, la fraction d’immunoglobuline souhaitée (IgG, IgM, IgA, kappa κ, lambda λ) et de réaliser à nouveau l’électrophorèse afin de préciser l’origine du pic monoclonal (ou bi-tri-/polyclonal). En cas de doute à l’immunosoustraction, une immunofixation (CHF 53.–) est réalisée où les classes d’immunoglobulines sont révélées par des anticorps spécifiques, augmentant la sensibilité. L’interprétation du résultat est donnée sous forme d’une remarque précisant le type de gammapathie, en prenant en considération les deux techniques utilisées. Enfin, un dosage des chaînes légères libres sériques (FLC [«free light chain assay»], CHF 37.– ×2) permet de calculer le rapport κ:λ. Un rapport (ratio) anormal suggère un excès ou une diminution de l’une des deux chaines légères libre qui, en principe, traduit une expansion clonale. Il permet également de diagnostiquer une maladie des chaines légères libres (en général kappa) ou une amyloïdose primaire (en général lambda). En cas d’insuffisance rénale chronique, il convient d’utiliser des normes de références adaptées. En effet, on observe une augmentation des chaines ­légères libres polyclonales dans ce contexte
+T47	irrelevant 4157 4336	L’électrophorèse des protéines sériques est composée de 6 pics principaux détaillés dans la figure 1 A [2] et dont les caractéristiques principales sont résumées dans le tableau 1
+T48	irrelevant 4339 4527;4528 4671;4672 4891;4892 5168;5169 5364;5365 5379;5380 5542;5543 5863;5864 6386;6387 6449;6450 6476;6477 6488;6489 6522;6523 6747	Tableau 1: Caractéristiques, composition et conditions physiologiques et pathologiques modifiant les différents pics observés sur une électrophorèse des protéines sériques (c.f. figure 1).  	1erpic:Albumine	2èmepic:Protéines alpha-1	3èmepic:Protéines alpha-2	4èmepic:Protéines bêta-1	5èmepic:Protéines bêta-2	6èmepic:Protéines gamma Caractéristiques	Pic majeur (55–65%)Rare bisalbuminémie héréditaire ou acquise (bêta-lactames ou pancréatite chronique)	Pic mineur (1–4%)	Pic mineur (6–10%)	Pic mineur (4–7%)	Pic mineur (4–7%)	Pic intermédiaire (12–20%) Protéines	Albumine	Alpha-1-antitrypsine, prothrombine, HDL,thyroglobuline	Antithrombine, haptoglobine, plasminogène, céruloplasmine, A2M	Transferrine, fibrinogène, hémopexine, LDL	Complément C3–C4, IgA	Immunoglobulines IgA, IgG, IgM, IgD, IgE; chaines ­légères kappa et lambda Facteurs augmentant	Toujours fausse ­(hémoconcentration ou perfusion d’albumine)	Maladies inflammatoires aigües ou chroniques, syndrome néphrotique	Hémolyse intravasculaire (complexe hémoglobine- haptoglobine), syndrome néphrotique, maladie inflammatoire	Infection, inflammation, anémie ferriprive, paraprotéinémie dans la zone des bêta-globulines, grossesse, contraception hormonale	Hypercomplémentémie d’origine inflammatoire, cholestase intra- ou extrahépatique, gammapathie monoclonale à IgA, cirrhose éthylique/hépatite virale chronique (fusion des zones bêta-2 et gamma par augmentation des IgA polyclonales connue sous le terme de «bloc bêta-gamma»)	c.f. tableau 2, anticorps monoclonaux Facteurs diminuant	Dénutrition, néphropathies (syndrome néphrotique), hépatopathies (cirrhose, carcinome hépatocellulaire), pertes digestives (malabsorption) ou cutanées (brûlures étendues)	Hyperthyroïdie, hépatopathies, déficit congénital en alpha-1-anti­trypsine, insuffisance hépatocellulaire, dénutrition	Insuffisance hépatocellulaire, dénutrition	Insuffisance hépatique, dénutrition, surcharge martiale, pertes digestives ou rénales	Hypocomplémentémie par consommation ou déficit congénital	Déficit immunitaire commun variable (CVID), immunodéficience primaire (PID), ­médicaments (immunosuppresseurs, AINS, phénytoïne, sulfasalazine ou D-pénicillamine) Abréviations: AINS: anti-inflammatoire non stéroïdien; A2M: alpha-2 microglobuline; CVID: «common variable immune deficiency»; HDL: «high-density lipoprotein»; LDL: «low-density lipoprotein»; PID: «primary immuno-deficiency»
+T49	irrelevant 6749 7814	La sensibilité de la combinaison 1) électrophorèse des protéines sériques avec 2) immunofixation des protéines sériques et 3) dosage des chaînes légères libres est de 97,4% pour toutes les gammapathies monoclonales, 100% pour les myélomes multiples (symptomatiques ou non) et 97,1% pour les gammapathie monoclonale de signification indéterminée (MGUS). Elle est donc ­similaire voire supérieure à l’utilisation de l’immunofixation des protéines urinaires (sensibilités de 97%, 98,7%, et 100%, respectivement) [3]. Cette dernière technique n’est en principe plus à utiliser. En effet, elle ne permet de détecter des chaines légères qu’en présence d’un dépassement de la capacité tubulaire de réabsorption de celles-ci (environ 30 mg/l). Notons encore que la prévalence d’une paraprotéinémie retrouvée dans la population générale augmente avec l’âge. Elle est globalement de 1% dans la population générale, de 5% chez les personnes de >70 ans et jusque 10% chez les personnes de >80 ans. Cet examen ne sera donc réalisé qu’en cas d’indication claire (cf. ci-dessous).
+T50	irrelevant 7816 7972	Les indications médicales fréquemment rencontrées motivant la réalisation d’une électrophorèse des protéines sériques sont [3] (abréviations dans le tab. 2)
+T51	irrelevant 7975 8304;8305 8456;8457 8668;8669 8997;8998 9177;9178 9366;9367 9599;9600 10028	Tableau 2: Etiologies (par ordre croissant de prévalence de bas en haut) cancéreuses et non cancéreuses retrouvées le plus fréquemment lors d’électrophorèses des protéines sériques anormales. Les pathologies cancéreuses sont divisées selon les immunoglobulines produites, les pathologies non cancéreuses par catégories cliniques. Type d’immunoglobuline	Immunoglobuline monoclonale(pathologies hémato-oncologiques)	Immunoglobuline polyclonale(pathologies non cancéreuses)	Catégories IgG	– MGUS (très fréquent)– Myélome multiple (MM) (fréquent)–Plasmocytome–Syndrome de POEMS/Castelman (rare)	–Arthrite rhumatoïde–Lupus érythémateux systémique–Sclérodermie–Hypothyroïdie de Hashimoto	Auto-immune IgM	– MM ou MGUS (très fréquent)– Macroglubulinémie de Waldenström (lymphome lymphoplasmocytaire)– Leucémie lymphoïde chronique (LLC)–Lymphome de bas grade–Plasmocytome	–HIV (lymphome, MM ou amyloidose sous HIV)–HBV/HCV (lymphome, MM ou amyloidose sous HBV/HCV)–Endocardite bactérienne–Mycobacterium tuberculosis–EBV	Infectieuse IgA	– MM ou MGUS (très fréquent)–Plasmocytome–Syndrome de POEMS/Castelman (rare)	–Cirrhose (alcoolique, virale, toxique, NASH)–Hépatite–Syndrome de dépendance à l’alcool	Hépatique Autres	– Pathologies lymphoprolifératives→LNH et LH–Maladie des chaînes lourdes (IgG, IgM, IgA, pas de dépôt amyloïde)(rare)	–Pyoderma gangrenosum–Xanthogranulomatose nécrobiotique	Cutanée Chaînes légères	– Maladie des chaînes légères (en général kappa, pas de dépôt amyloïde)–Amyloïdose primaire AL (en général lambda, dépôt amyloïde)	–Reconstitution immune après greffe de moelle autologue/allogreffe–CVID ou PID	Autres Abréviations: CVID: «common variable immune deficiency»; EBV: Epstein-Barr virus; HIV: «human immunodeficiency virus»; HBV/HCV: hepatitis B/C virus; LH: lymphome de ­Hodgkin; LNH: lymphome non-Hodgkinien; MGUS: «monoclonal gammopathy of unknown significance»; MM: myélome multiple; PID: «primary immuno-deficiency»; POEMS: «polyneuropathy, organomegaly, endocrinopathy, monoclonal protein and skin changes»; PP: paraprotéinémie.
+T52	irrelevant 10030 10183;10185 10363;10365 10444;10446 10617;10619 10690;10692 10927;10929 11157;11159 11226	– Suspicion et suivi thérapeutique d’un myélome multiple (atteinte de type CRAB – i.e. hypercalcémie, insuffisance rénale, anémie, atteinte osseuse) [4].  – Bilan d’adénopathie/cytopénie avec suspicion d’hémopathie maligne lymphomateuse (leucémie lymphoïde chronique [LLC], lymphome de Hodgkin [LH], lymphomes non-Hodgkiniens [LNH]).  – Bilan d’une néphropathie d’origine indéterminée ou d’un syndrome néphrotique.  – Bilan d’une neuropathie périphérique chronique d’origine indéterminée et/ou d’un syndrome du tunnel carpien (10% de gammapathie monoclonale lors des investigations) [5].  – Bilan d’une insuffisance cardiaque réfractaire (amyloïdose primaire).  – Infections récurrentes suspectes d’un déficit immunitaire humoral de type «common variable immune deficiency» (CVID) ou «primary immuno-­deficiency» (PID) se manifestant par un «trou d’immunoglobulines» ou thrombopénie immune (CVID).  – Lors d’infection de type HIV (aspect oligoclonal en «dents de scie» par synthèse inefficace d’immunoglobulines, myélome ou lymphome induit par le HIV), ou HBV/HCV (aspect polyclonal, myélome ou lymphome induit par le HBV/HCV).  – Bilan post-greffe (reconstitution immune avec aspect oligoclonal)
+T53	disorder 11422 11433	dénutrition
+T54	disorder 11435 11450	hypoalbuminémie
+T55	labvalue 11453 11459	27 g/l
+T56	procedure 11461 11478	protéines totales
+T57	labvalue 11481 11487	79 g/l
+T58	disorder 11508 11531	gammapathie monoclonale
+T59	disorder 11533 11568	hypoprotéinémie alpha-1/2 et bêta-1
+T60	disorder 11577 11593	carence martiale
+T61	disorder 11595 11618	hyperprotéinémie bêta-1
+T62	procedure 11624 11636	transferrine
+T63	labvalue 11647 11656	15 mmol/l
+T64	disorder 11665 11687	contexte inflammatoire
+T65	procedure 11697 11706	ferritine
+T66	labvalue 11728 11738	 1115 mg/l
+T67	disorder 11746 11767	carcinome épidermoïde
+T68	drugs 11779 11815	anticorps monoclonal chimérique IgG1
+T69	disorder 11919 11924	 LDH 
+T70	labvalue 11936 11943	277 U/l
+T71	disorder 11945 11953	lymphome
+T72	disorder 11954 11962	 ­tumeur
+T73	disorder 11964 11972	hémolyse
+T74	disorder 11974 11998	hyperprotéinémie alpha-2
+T75	disorder 12000 12009	pic gamma
+T76	disorder 12016 12048	atteinte hépatique cholestatique
+T77	disorder 12050 12073	gammapathie polyclonale
+T78	disorder 12075 12110	hypoprotéinémie alpha-1/2 et bêta-1
+T79	disorder 12119 12136	infection par EBV
+T80	disorder 12138 12161	gammapathie polyclonale
+T81	disorder 12163 12178	hypoalbuminémie
+T82	labvalue 12180 12187	 27 g/l
+T83	disorder 12189 12224	hyperpotéinémie alpha-1/2 et bêta-1
+T84	disorder 12250 12271	métastases hépatiques
+T85	procedure 12295 12301	PET-CT
+T86	disorder 12329 12363	zones hépatiques hypermétaboliques
+T87	procedure 12382 12390	biopsies
+T88	procedure 12394 12404	histologie
+T89	disorder 12440 12475	lymphome diffus à grandes cellules 
+T90	procedure 12477 12487	IgM-kappa 
+T91	labvalue 12492 12499	négatif
+T92	procedure 12501 12513	Myc et Bcl-2
+T93	labvalue 12514 12522	positifs
+T94	irrelevant 12525 12943	Cette situation permet d’illustrer les limites de l’électrophorèse avec immunosoustraction ou immunofixation. Quoique très sensible, elle ne permet pas à elle seule de différencier, par exemple, entre un myélome multiple ou un syndrome lymphoprolifératif. Le Tableau 2 illustre les étiologies les plus fréquentes triées par clonalité (mono- ou polyclonal), prévalence, catégories étiologiques et type d’immunoglobuline
+T95	irrelevant 12946 12965;12967 13104;13106 13309;13311 13582	Messages principaux  • L’électrophorèse des protéines sériques, couplée à l’immunosoustraction, est l’examen de choix pour le diagnostic des paraprotéinémies.  • L’électrophorèse des protéines sériques devrait également être demandée devant un tableau de neuropathie périphérique ou de néphropathie d’origine indéterminée, ainsi que lors d’infections récurrentes.  • L’électrophorèse des protéines sériques est susceptible d’être modifiée par de nombreuses conditions physiopathologiques, il est dès lors important d’en mentionner l’indication retenue lors de chaque demande afin d’obtenir une interprétation optimale par le laboratoire

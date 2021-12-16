@@ -1,0 +1,136 @@
+T1	procedure 9981 9998	Le dosage des ANA
+T2	procedure 9887 9891	ANA 
+T3	labvalue 9895 9900	élevé
+T4	procedure 9786 9791	 ANA 
+T5	labvalue 9804 9810	≤1/80)
+T6	disorder 77 101	baisse de l’état général
+T7	disorder 124 169	­saignements spontanés de la muqueuse buccale
+T8	disorder 105 118	 symptômes B 
+T9	disorder 205 314	leucémie myélo-monocytaire chronique en progression en leucémie myéloïde aigue avec syndrome de lyse tumorale
+T10	drugs 356 372	hydroxycarbamide
+T11	drugs 374 382	Litalir®
+T12	drugs 404 420	hydroxycarbamide
+T13	disorder 484 524	 insuffisance rénale aiguë stade AKIN 2.
+T14	disorder 553 568	une protéinurie
+T15	disorder 571 621	 une hématurie microscopique de type glomérulaire.
+T16	disorder 621 684	 Une glomérulonéphrite aiguë secondaire au contexte néoplasique
+T17	procedure 760 791	anticorps anti-nucléaires (ANA)
+T18	labvalue 792 808	1/80 nucléolaire
+T19	procedure 813 861	nticorps anti-cytoplasme des neutrophiles (ANCA)
+T20	labvalue 862 870	négatifs
+T21	procedure 874 942	anticorps dirigés contre la membrane basale glomérulaire (anti-GBM) 
+T22	labvalue 942 950	négatifs
+T23	irrelevant 952 1030	Question: Comment interprétez-vous ces résultats et qu’effectuez-vous ensuite?
+T24	procedure 1075 1099	ponction-biopsie rénale.
+T25	procedure 1135 1154	suivi de créatinine
+T26	procedure 1158 1191	un sédiment urinaire de contrôle.
+T27	procedure 1235 1273	 un complément de bilan immunologique.
+T28	procedure 1344 1350	ELISA.
+T29	procedure 1321 1337	 dosage des ANA 
+T30	irrelevant 1352 1359	Réponse
+T31	irrelevant 1362 1388	La réponse correcte est b.
+T32	irrelevant 1390 1400	Discussion
+T33	irrelevant 1401 1413	Introduction
+T34	procedure 1415 1450	Les anticorps anti-nucléaires (ANA)
+T35	procedure 1466 1495	facteurs antinucléaires (FAN)
+T36	procedure 1534 1584	anticorps anti-cytoplasme des neutrophiles (ANCA) 
+T37	procedure 1592 1611	bilan immunologique
+T38	procedure 1649 1654	 ANCA
+T39	labvalue 1654 1663	 positifs
+T40	disorder 1697 1708	vasculites,
+T41	procedure 1722 1726	 ANA
+T42	labvalue 1726 1735	 positifs
+T43	disorder 1768 1783	 connec­tivites
+T44	procedure 1845 1848	ANA
+T45	procedure 1935 1949	dosage des ANA
+T46	procedure 2189 2227	 l’immunofluorescence indirecte (IFI) 
+T47	procedure 2240 2268	 immuno-enzymatique (ELISA).
+T48	procedure 2268 2275	 L’IFI 
+T49	procedure 2298 2303	ELISA
+T50	irrelevant 2321 2449	le premier test est par conséquent préférentiellement utilisé pour le dépistage, et le second pour la confirmation du diagnostic
+T51	procedure 2462 2468	’ELISA
+T52	irrelevant 2472 2732	 sérum du patient est appliqué sur une surface portant les antigènes contre lesquels les anticorps recherchés sont dirigés. Un anticorps marqué et dirigé contre les anticorps humains est ensuite ajouté, avec révélation du marquage par une réaction enzymatique.
+T53	irrelevant 2745 2982	 le sérum du patient est incubé à des dilutions croissantes avec des cellules HEp-2 («human epithelial cell line type 2»). Les anticorps fixés sur ces cellules sont révélés grâce à un conjugué anti-IgG humain ­marqué par un fluorochrome.
+T54	irrelevant 2983 3098	Ce dernier permet ainsi de mettre en évidence les anticorps du patient liés aux antigènes présents dans la cellule.
+T55	irrelevant 3098 3302	 L’aspect de la fluorescence dépend de la localisation de l’antigène ­auquel se lie l’anticorps, et est ainsi un indicateur du type de connectivite sous-jacente. Cet aspect sera décrit comme nucléolaire, 
+T56	irrelevant 3302 3542	nucléoplasmique (homogène, moucheté, centromère) ou cytoplasmique (à ne pas confondre avec les anticorps anti-cytoplasme des neu­trophiles mieux connus par leur abréviation ANCA, trouvés par IFI sur neutrophiles et non sur cellules HEp-2). 
+T57	irrelevant 3541 3666	 Le tableau (tab. 1) donne les principaux exemples d’anticorps et connectivites associés à l’aspect décrit à la fluorescence.
+T58	procedure 2741 2744	IFI
+T59	irrelevant 3668 3773	Tableau 1: Principaux exemples d’anticorps et connectivites associés à l’aspect décrit à la fluorescence.
+T60	irrelevant 3774 3828	Aspect de la fluorescence	Ex. de type d’anticorps (AC)
+T61	disorder 3832 3844	connectivite
+T62	disorder 3832 3853;3854 3870	connectivite associée Nucléoplasmique	
+T63	irrelevant 3876 3928;3929 3990;3991 4028;4029 4046;4047 4098;4099 4191;4192 4244	Homogène	AC anti-dsDNA	Lupus érythémateux ­disséminé  	Moucheté	AC anti-SSA, SSBAC anti-Scl-70	SjögrenScléordermie  	Centromère	AC anti-centromère	CREST Cytoplasmique	 	   	Moucheté	AC anti-Jo1	Polymyosite, dermato­myosite  	Filamenteux	AC anti mitochondrie, actine	Cirrhose biliaire primitive, hépatite auto-immune Nucléolaire	AC anti-ribonucléoprotéines	Sclérodermie
+T64	irrelevant 4246 4520;4522 4537	A noter qu’un consensus d’expert international a récemment mis au point une nomenclature standardisée des ANA afin d’uniformiser la description de leur aspect morphologique par IFI [3]. Elle peut être retrouvée sur le site web suivant: https://www.anapatterns.org/index.php.  Utilité du test
+T65	procedure 4551 4555	 ANA
+T66	irrelevant 5003 5202	Un titre d’ANA élevé a une meilleure valeur prédictive positive pour les connectivites. En effet, lors d’un titre supérieur à 1/1280, une maladie auto-immune est quasi-systématiquement retrouvée [2].
+T67	irrelevant 4718 4986	 Une fluorescence importante correspond à une avidité importante de l’anticorps pour l’antigène et/ou une quantité d’anticorps élevée. Plus la fluorescence est forte, plus il faut de dilutions pour la faire disparaitre, et plus le titre des ANA est élevé (par exemple 
+T68	irrelevant 4555 4718	 correspond à la dilution du sérum permettant d’obtenir un résultat négatif (disparition de la fluorescence), celui-ci est exprimé en «1 / le nombre de dilutions».
+T69	procedure 5217 5222	d’ANA
+T70	labvalue 5224 5234	 bas titre
+T71	labvalue 5236 5241	≤1/80
+T72	irrelevant 5243 5396	sans manifestation clinique est retrouvée chez 25 à 30% d’adultes en bonne santé [4]. Elle est plus importante chez les femmes et augmente avec l’âge [5]
+T73	procedure 5398 5413	Le titre d’ANA 
+T74	irrelevant 5456 5615	Un groupe d’experts a ainsi proposé en 2014 que le seuil soit défini dans chaque laboratoire après analyse d’un certain nombre de sérums de patients sains [1].
+T75	irrelevant 5616 5671	Dans le laboratoire du CHUV par exemple, à partir d’un 
+T76	procedure 5679 5682	ANA
+T77	labvalue 5687 5692	1/80 
+T78	procedure 5718 5725	r ELISA
+T79	procedure 5743 5819	 dosage des anticorps anti-nucléosomes et des anticorps anti-nucléoprotéines
+T80	procedure 5833 5884	 La détermination des anticorps anti-nucléoprotéine
+T81	procedure 5902 5908	ELISA 
+T82	procedure 5970 5978	 anti-Sm
+T83	procedure 5980 5987	-RNP, -
+T84	procedure 5987 5991	SSA,
+T85	procedure 5992 5997	-SSB,
+T86	procedure 5999 6005	Scl70 
+T87	procedure 6008 6013	-Jo-1
+T88	irrelevant 6014 6461	 dont la sensibilité et la spécificité sont excellentes (respectivement de 97,7% et de 100%). En cas de positivité, un test de confirmation – de moindre sensibilité (11 à 70% ­selon le type de nucléoprotéine) mais de très bonne spécificité (95 à 100%) – permet ensuite de déterminer le type d’anticorps anti-nucléoprotéine (anti-Sm, -RNP, -SSA, -SSB, -Scl70 ou -Jo-1) et ainsi d’orienter le diagnostic vers la connectivite dont souffre le patient.
+T89	irrelevant 9760 9779	Messages principaux
+T90	procedure 9639 9644	s ANA
+T91	disorder 9239 9255	e connectivite e
+T92	disorder 9274 9309	 maladie lymphoproliférative active
+T93	procedure 9414 9418	’ANA
+T94	procedure 9414 9427	’ANA par IFI,
+T95	procedure 9441 9446	’ANA 
+T96	labvalue 9460 9465	1/80 
+T97	procedure 9573 9581	r ELISA.
+T98	procedure 8223 8242	bilan immunologique
+T99	disorder 8336 8357	e insuffisance rénale
+T100	disorder 8502 8535	glomérulonéphrites pauci-immunes 
+T101	disorder 8569 8624	, les glomérulonéphrites liées à des anticorps anti-GBM
+T102	disorder 8687 8744	 les maladies associées à des dépôts de complexes immunes
+T103	disorder 8826 8835	les ANCA 
+T104	procedure 8837 8861	 les anticorps anti-GBM 
+T105	labvalue 8866 8875	négatifs.
+T106	procedure 8993 9010	sédiment urinaire
+T107	disorder 9045 9066	l’insuffisance rénale
+T108	procedure 9172 9181	injection
+T109	irrelevant 8170 8207	Bénéfice du dosage pour notre patient
+T110	irrelevant 8069 8168	Le tarif, selon la liste des analyses de l’OFSP, est de 37 CHF pour l’IFI et de 87 CHF pour l’ELISA
+T111	disorder 8029 8047	Connectivite mixte
+T112	disorder 7997 8020	Sclérodermie systémique
+T113	disorder 7960 7988	Lupus érythémateux disséminé
+T114	disorder 7923 7935	Connectivite
+T115	irrelevant 7831 7921	Tableau 2: Sensibilités et spécificités des ANA pour les connectivites les plus fréquentes
+T116	irrelevant 7716 7829	Le tableau 2 illustre les sensibilités et spécificités des ANA pour les connectivites les plus fréquentes [5, 6]:
+T117	procedure 6494 6498	’ANA
+T118	labvalue 6503 6507	1/80
+T119	procedure 6535 6541	 ELISA
+T120	procedure 6511 6541	test de confirmation par ELISA
+T121	procedure 6559 6636	 dosage des anticorps anti-nucléosomes et des anticorps anti-nucléoprotéines.
+T122	procedure 6638 6641	IFI
+T123	procedure 6643 6671	Immunofluorescence indirecte
+T124	procedure 6673 6677	CLIA
+T125	procedure 6678 6710	 Chemiluminescence Immuno Assay.
+T126	procedure 6767 6771	ANA 
+T127	irrelevant 6856 6900	sensibilité varie également selon le type de
+T128	disorder 6900 6913	 connectivite
+T129	procedure 7180 7201	épistage ANA par IFI 
+T130	labvalue 7201 7219	faussement positif
+T131	disorder 7342 7377	 infection active, notamment virale
+T132	disorder 7384 7407	 pneumonie à Mycoplasme
+T133	disorder 7423 7450	maladie oncologique active,
+T134	disorder 7471 7499	 maladie lymphoproliférative
+T135	procedure 7577 7580	ANA
+T136	labvalue 7564 7572	positive

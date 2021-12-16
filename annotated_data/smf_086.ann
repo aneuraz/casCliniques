@@ -1,0 +1,36 @@
+T1	irrelevant 0 8;10 322;324 487;489 508;509 527	Contexte  En Europe, il est rare de devoir traiter des patients victimes de blessures par balles chez lesquels il y a une atteinte de l’aorte. Les blessures pénétrantes de l’aorte sont toutefois associées à une mortalité élevée, car la perte de sang massive peut très rapidement donner lieu à un état de choc hémorragique.  Nous décrivons le cas exceptionnel d’un patient chez lequel une plaie par balle de l’aorte a uniquement été diagnostiquée dix jours après une tentative de suicide.  Présentation du cas Anamnèse et statut
+T2	disorder 821 832	tachycardie
+T3	procedure 834 853	fréquence cardiaque
+T4	labvalue 854 861	125/min
+T5	disorder 866 880	sueurs froides
+T6	drugs 929 951	 solution cristalloïde
+T7	disorder 1254 1264	tachycarde
+T8	procedure 1266 1285	fréquence cardiaque
+T9	labvalue 1286 1293	124/min
+T10	procedure 1327 1346	pression artérielle
+T11	labvalue 1347 1359	109/73 mm Hg
+T12	disorder 1649 1677	hémopneumothorax bilatéraux 
+T13	procedure 1906 1929	tomodensitométrie (TDM)
+T14	drugs 1935 1955	produit de contraste
+T15	disorder 2032 2045	hémopéricarde
+T16	disorder 2066 2085	lésion péricardique
+T17	disorder 2094 2113	 lésion myocardique
+T18	disorder 2129 2165	lésions diaphragmatiques bilatérales
+T19	disorder 2171 2193	lacérations hépatiques
+T20	disorder 2245 2269	hématome rétropéritonéal
+T21	irrelevant 2838 3015	Figure 1: Angio-TDM initiale, coupe axiale (A ) et sagittale (B ): paroi aortique intacte et absence de signes d’hémorragie, ­projectile de localisation pré-vertébrale (flèche).
+T22	procedure 3033 3052	laparotomie médiane
+T23	procedure 3591 3619	pose d’un drain péricardique
+T24	disorder 3635 3642	lésions
+T25	disorder 3713 3750	hématome rétropéritonéal non expansif
+T26	procedure 3815 3826	échographie
+T27	disorder 3909 3918	thrombose
+T28	procedure 4227 4260	échocardiographie transthoracique
+T29	procedure 4344 4384	fraction d’éjection ventriculaire gauche
+T30	labvalue 4385 4388	55%
+T31	irrelevant 5219 5439	Figure 2: Angio-TDM postopératoire après 10 jours: faux anévrisme (flèches blanches) de l’aorte au niveau de la naissance de l’artère mésentérique supérieure (*), projectile de localisation pré-vertébrale (flèche noire).
+T32	procedure 5452 5465	relaparotomie
+T33	procedure 5722 5735	relaparotomie
+T34	disorder 6092 6119	thrombose de la veine porte
+T35	drugs 6125 6140	anticoagulation
+T36	irrelevant 6552 6562;6564 6767;6769 7362;7364 7612;7614 8250;8252 9198;9200 10120;10122 10150;10152 10244;10246 10586;10588 10723;10725 10842;10844 11072	Discussion  Ce cas montre que les lésions pénétrantes de l’aorte peuvent passer inaperçues durant plusieurs jours et qu’il est possible d’y survivre. Peu de cas similaires ont été décrits dans la littérature [1, 2].  La sévérité d’un traumatisme causé par des blessures par balles dépend de différents facteurs. Le calibre et la vitesse à la bouche des armes et projectiles utilisés jouent notamment un rôle. Il convient de faire la distinction entre les armes ayant une vitesse à la bouche élevée de 750–950 m/s, comme par exemple celles utilisées dans le domaine militaire, et les armes ayant une vitesse à la bouche faible (250–400 m/s), comme l’arme de petit calibre utilisée par notre patient. Il en résulte des lésions tissulaires plus ou moins prononcées, dépendant de l’énergie cinétique du projectile.  La localisation du point d’entrée et la trajectoire de la balle dans le corps avant d’arriver à l’aorte jouent également un rôle. En principe, le projectile peut auparavant être freiné et dévié par des structures osseuses et d’autres tissus [1, 2].  Nous partons du principe que l’utilisation d’une arme de petit calibre avec une faible vitesse à la bouche et l’âge du patient ont été déterminants pour la survie de notre patient. La paroi aortique saine d’un jeune patient sans altérations artériosclérotiques présente une élasticité élevée. De ce fait et en raison du petit calibre utilisé, la paroi aortique a pu se refermer spontanément au niveau du point d’entrée et de sortie du projectile. La blessure n’a par conséquent pas provoqué d’hémorragie aiguë. Ce n’est que par la suite que des faux anévrismes se sont formés en raison de l’endommagement des couches de la paroi [1, 2].  Une question qui se pose est de savoir si face à une trajectoire transaortique évocatrice du projectile, il n’aurait pas fallu en premier lieu procéder à une exploration du rétropéritoine et de l’aorte viscérale. En particulier les hématomes rétropéritonéaux liés à une blessure pénétrante devraient, d’après divers algorithmes et lignes directrices, faire l’objet d’une exploration chirurgicale de façon routinière [4, 5]. Il convient cependant de garder à l’esprit que l’ouverture d’hématomes rétropéritonéaux à des fins d’exploration peut conduire à des hémorragies potentiellement fatales et difficilement contrôlables [3]. Une expertise correspondante est dès lors absolument indispensable. Dans le doute, en cas de circulation stabilisée et d’hématome rétropéritonéal non expansif, un traitement initialement conservateur avec tamponnement («packing») et un transfert du patient vers un hôpital central sont ­associés à un meilleur devenir.  Dans le cas présenté, la TDM a uniquement révélé un hématome rétropéritonéal minime, sans hémorragie rétropéritonéale active. En intra-opératoire également, seul un hématome rétropéritonéal minime et non ­expansif était perceptible. Compte tenu des blessures concomitantes, la prise en charge en premier lieu conservatrice était la bonne décision, y compris rétrospectivement. Une exploration rétropéritonéale réalisée dans le cadre de la première opération aurait peut-être davantage mis en danger le patient, car la lésion initialement bien couverte de la paroi aortique aurait pu évoluer vers une hémorragie incontrôlable. Dans notre cas, la prise en charge secondaire apparaît être la variante la plus sûre, y compris rétrospectivement. Après une telle décision, il est essentiel de rester très vigilant et de réaliser un nouvel examen d’imagerie de contrôle par la suite, comme cela a été le cas chez notre patient.  L’essentiel pour la pratique  • Les plaies par balle de l’aorte peuvent passer inaperçues et il est possible d’y survivre.  • Chez les patients avec blessures par balles et mise en évidence d’un projectile à proximité de l’aorte ou des gros vaisseaux, une atteinte vasculaire doit toujours être suspectée, même si l’examen d’imagerie initial ne livre aucun indice allant dans ce sens. Il est absolument indispensable de réaliser des examens d’imagerie de contrôle.  • En principe, les lésions pénétrantes thoraciques, thoraco-abdominales et abdominales devraient être traitées dans un hôpital central.  • Un hématome rétropéritonéal consécutif à une plaie pénétrante devrait faire l’objet d’une exploration chirurgicale.  • En cas d’instabilité hémodynamique ou d’hématome rétropéritonéal expansif et/ou pulsatile décelé en intra-opératoire, une «damage control surgery» est indiquée, avec le cas échéant un transfert dans un centre de traumatologie.

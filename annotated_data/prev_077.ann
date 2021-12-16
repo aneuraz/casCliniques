@@ -1,0 +1,38 @@
+T1	procedure 86 98	hospitalisée
+T2	disorder 124 147	syndrome abdominal aigu
+T3	procedure 169 181	coelioscopie
+T4	procedure 189 197	évidence
+T5	disorder 202 219	appendicite aiguë
+T6	disorder 239 260	diverticule de Meckel
+T7	profession 266 276	chirurgien
+T8	procedure 286 294	décision
+T9	procedure 301 312	laparotomie
+T10	procedure 347 388	Exérèse d’un appendice très inflammatoire
+T11	procedure 391 400	évacuatio
+T12	disorder 407 440	kyste hématique de l’ovaire droit
+T13	procedure 451 476	cahier du bloc opératoire
+T14	procedure 528 540	intervention
+T15	procedure 542 581	utilisation de compresses radio-opaques
+T16	procedure 600 609	la sortie
+T17	procedure 674 686	consultation
+T18	disorder 709 728	douleurs pelviennes
+T19	procedure 733 744	échographie
+T20	labvalue 778 785	normale
+T21	procedure 798 819	nouvelle consultation
+T22	disorder 829 864	douleurs de la fosse iliaque gauche
+T23	procedure 869 890	échographie pelvienne
+T24	labvalue 922 929	normale
+T25	procedure 962 976	réhospitalisée
+T26	disorder 993 1029	douleurs de la fosse iliaque droite 
+T27	disorder 1073 1085	vomissements
+T28	procedure 1090 1130	radiographie d’ abdomen sans préparation
+T29	procedure 1131 1146	met en évidence
+T30	disorder 1174 1195	occlusion intestinale
+T31	disorder 1215 1259	 fil radio-opaque dans la cavité péritonéale
+T32	procedure 1264 1287	scanographie abdominale
+T33	disorder 1315 1324	textilome
+T34	procedure 1358 1370	intervention
+T35	disorder 1382 1387	masse
+T36	disorder 1447 1464	liquide puriforme
+T37	procedure 1486 1515	complications postopératoires
+T38	disorder 1647 1670	blessures involontaires

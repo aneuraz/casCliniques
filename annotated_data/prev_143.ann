@@ -1,0 +1,23 @@
+T1	irrelevant 1558 1735;1737 1776;1777 1841;1842 1882	Ce matériel est réservé à un usage privé ou d’enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l’objet d’une transaction commerciale.  Télecharger l'exercice (pdf - 28.46 Ko) Retrouver l'analyse des barrières de prévention (pdf - 64.46 Ko) Téléchargez le jugement (pdf - 48.71 Ko)
+T2	irrelevant 0 12	Cas clinique
+T3	procedure 105 119	anticoagulants
+T4	disorder 149 178	embolie pulmonaire bilatérale
+T5	profession 254 273	médecin généraliste
+T6	drugs 314 329	antivitamines K
+T7	disorder 445 457	gêne buccale
+T8	disorder 475 481	mycose
+T9	drugs 585 593	Daktarin
+T10	procedure 609 633	traitement anticoagulant
+T11	procedure 688 691	INR
+T12	labvalue 698 702	6,22
+T13	profession 847 862	ophtalmologiste
+T14	disorder 876 901	hémorragie de l’œil droit
+T15	disorder 921 958	hématome choroïdien temporo-maculaire
+T16	disorder 977 1014	baisse de l’acuité visuelle à 5/10ème
+T17	disorder 1019 1029	hémorragie
+T18	procedure 1155 1167	angiographie
+T19	disorder 1198 1206	hématome
+T20	procedure 1258 1285	photocoagulation rétinienne
+T21	disorder 1405 1414	hémostase
+T22	disorder 1431 1446	baisse d’acuité
+T23	disorder 1518 1542	dégénérescence maculaire

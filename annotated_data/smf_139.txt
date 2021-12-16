@@ -1,0 +1,76 @@
+Contexte
+
+Nous décrivons le cas d’une patiente atteinte d’un choc non maîtrisable de cause inattendue. La patiente nous a été adressée avec un diagnostic de suspicion d’infection, avec une insuffisance rénale aiguë, une ascite étendue et une anémie sévère.
+
+L’hypothèse de travail initiale de choc septique a dû être revue ultérieurement, suite au diagnostic d’un carcinome séreux de haut grade de l’ovaire très avancé et métastatique, avec carcinomatose péritonéale étendue et ascite maligne.
+
+Présentation du cas
+Anamnèse
+
+Une patiente âgée de 64 ans nous a été adressée par son médecin de famille avec une suspicion d’infection et une insuffisance rénale aiguë nouvellement survenue. Elle souffrait de dyspnée progressive sans toux ni fièvre depuis une semaine, ainsi que de nausées et de vomissements répétés. Une paraparésie spastique et une paraplégie d’étiologie indéterminée ainsi qu’une légère déficience intellectuelle étaient connues comme antécédents. La patiente en fauteuil roulant vivait dans un établissement médico-social.
+
+Statut
+
+La patiente s’est présentée dans un état général réduit et un état d’obésité, avec une température corporelle subfébrile et une stabilité hémodynamique limite (pression artérielle de 93/42 mm Hg, rythme sinusal de 100/min). L’examen clinique a montré un abdomen distendu. A l’exception de la paraparésie connue des jambes, l’examen physique était au demeurant normal.
+
+Résultats
+
+Les analyses de laboratoire ont révélé une protéine C réactive (CRP) augmentée de 540 mg/l, une créatinine de 371 µmol/l, une urée de 34,2 mmol/l, ainsi qu’une ­hyperkaliémie de 6,1 mmol/l; les autres électrolytes, notamment le calcium sérique corrigé, étaient dans la norme pendant toute la durée de l’hospitalisation. Un taux de lactate déshydrogénase (LDH) augmenté de 623 U/l, un taux de gamma-GT augmenté de 80 U/l, une hypoalbuminémie de 29 g/l avec une concentration de protéines totales normale, ainsi qu’une anémie normochrome normocytaire (hémoglobine de 94 g/l) ont en outre été trouvés. Les autres paramètres de laboratoire étaient sans particularités.
+
+La radiographie conventionnelle du thorax a montré un petit épanchement pleural du côté gauche, sans signe manifeste de décompensation cardiaque. L’échographie de l’abdomen a montré un foie non homogène avec une surface irrégulière ainsi qu’une ascite étendue. Le canal cholédoque était dilaté jusqu’à 0,9 cm, avec des voies biliaires intrahépatiques non dilatées. Les reins ne présentaient pas d’anomalie.
+
+Diagnostic
+
+Trois litres d’ascite hémorragique trouble ont été ponctionnés directement après l’admission. Le gradient ­albumine sérum-ascite (GASA, voir l’explication dans la discussion) était de 7 g/l, avec une concentration de protéines totales dans l’ascite de 42 g/l. De plus, des quantités massives de leucocytes (9000/μl) et d’érythrocytes (28 000/μL) et un taux de LDH considérablement accru (1700 U/l) ont été objectivés.
+
+Traitement
+
+Malgré le faible GASA mais au vu des autres résultats, nous avons initialement posé le diagnostic de péritonite bactérienne spontanée dans le cadre d’une hépa­topathie d’étiologie indéterminée avec insuffisance rénale prérénale consécutive. Un traitement antibiotique par ceftriaxone a été initié et l’albumine a été substituée. L’hyperkaliémie a été traitée par un échangeur de cations par voie entérale et la patiente a été réhydratée avec des cristalloïdes.
+
+Evolution
+
+Peu après, une insuffisance respiratoire aiguë est survenue et la patiente a donc été transférée en unité de soins intensifs. Sur le plan clinique, une infiltration croissante d’eau dans les poumons avec dyspnée et ­tachypnée progressives a été observée. Une ventilation non invasive alternant avec une oxygénothérapie nasale à haut débit a en conséquence été mise en place. Sous traitement diurétique prudent, la situation pulmonaire s’est temporairement stabilisée. Le reste du traitement a été poursuivi. Une paracentèse répétée a en outre été nécessaire.
+
+La patiente a toutefois développé une instabilité hémodynamique peu après et a nécessité des catécholamines. Les apports volémiques n’ont pas entraîné d’amélioration, mais un développement de plus en plus rapide de l’ascite. Le monitoring hémodynamique avancé (PiCCO®) a confirmé le déficit volémique intravasculaire.
+
+Malgré l’apport volémique prudent associé aux catécholamines, une insuffisance rénale anurique avec acidose métabolique sévère est survenue et a nécessité une hémodialyse en urgence.
+
+Sur le plan cytopathologique, des cellules malignes ont entre-temps été mises en évidence dans l’ascite. Une localisation primaire dans l’ovaire a été suspectée sur la base du profil des marqueurs immunohistochimiques. La tomodensitométrie abdominale ensuite réalisée a montré l’ascite connue, une carcinomatose péritonéale potentielle, ainsi qu’une tumeur dans le petit bassin, émanant le plus probablement de l’ovaire droit. Il n’a pas été possible de réaliser une biopsie transcutanée guidée par radiologie pour collecter des tissus en raison de la localisation. L’antigène tumoral 125 (CA 125) s’élevait à 67 U/ml (norme <35 U/ml).
+
+Au regard de l’ensemble des résultats, le diagnostic de suspicion initial de choc septique dans le cadre d’une péritonite bactérienne spontanée a été rejeté et l’hypothèse d’une fuite capillaire sévère dans le contexte d’un cancer de l’ovaire métastasique avec carcinose ­péritonéale et ascite maligne étendue a été postulée. En raison de l’instabilité hémodynamique persistante et de l’insuffisance rénale nécessitant une dialyse mal tolérée sur le plan hémodynamique, une chimiothérapie palliative n’a pas pu être initiée rapidement. Il a également dû être renoncé à un éventuel traitement par l’inhibiteur de l’angiogenèse bévacizumab, pour ­lequel de bonnes données sont disponibles concernant la réduction des épanchements malins, en raison de l’instabilité hémodynamique avec défaillance multiviscérale progressive. Le bévacizumab aurait également pu être administré sans chimiothérapie. Parmi les effets indésirables graves qui ont été décrits figu­rent entre autres les perforations gastro-intestinales et les thromboembolies artérielles.
+
+Compte-tenu du mauvais pronostic du cancer métastatique très avancé non traité et du choc non contrôlable, il n’y a pas eu d’escalade thérapeutique supplémentaire. La patiente est décédée alors qu’elle était encore sous assistance circulatoire.
+
+L’autopsie a montré un carcinome séreux de haut grade de l’ovaire droit, avancé, métastastique et fortement nécrotique, avec une transition vers un carcinome neuroendocrine à petites cellules avec carcinose péritonéale étendue avec une ascite maligne, une infil­tration et une perforation du diaphragme jusqu’à la plèvre, ainsi que des métastases dans la glande surrénale droite et les ganglions lymphatiques au-delà de la région touchée (fig. 1, 2).
+
+Des embolies pulmonaires paracentrales bilatérales étendues étaient la cause immédiate du décès.
+
+Figure 1: Aperçu du péritoine avec carcinose péritonéale.
+
+Figure 2: Omentum avec carcinose péritonéale.
+
+Discussion
+
+Une ascite associée à un cancer peut survenir dans le cadre de diverses tumeurs et avoir différentes causes. D’une part, une ascite peut survenir du fait d’une carcinose péritonéale, suite à une perméabilité vasculaire accrue et une obstruction des canaux lymphatiques. Cela se produit notamment en cas de cancer de l’ovaire ou de la vessie ou de mésothéliome péritonéal.
+
+Une ascite est aussi fréquemment observée en cas de cancer des bronches, du pancréas, du sein, de l’estomac et du côlon, particulièrement en cas de carcinose péritonéale supplémentaire ou de métastases hépatiques étendues. Sur le plan de l’étiologie, des cellules tumorales productrices de liquide, une obstruction des veines portes avec hypertension portale consécutive et une insuffisance hépatique sont discutées.
+
+Les lymphomes peuvent eux aussi conduire à une ­ascite chyleuse en obstruant les ganglions lymphatiques [1].
+
+Le GASA aide à identifier une hypertension portale en tant que cause d’ascite. Une hypertension portale est très probable en cas de gradient >11 g/l. Parmi les causes de l’hypertension portale figurent notamment la cirrhose hépatique, l’hépatite alcoolique, l’insuffisance cardiaque, des métastases hépatiques massives, le syndrome de Budd-Chiari et la fibrose portale idiopathique. En cas de faible gradient, une carcinomatose péritonéale, une pancréatite, une sérosite, un syndrome néphrotique ou une tuberculose péritonéale sont des étiologies possibles [2].
+
+Chez notre patiente, un GASA de 7 g/l a été trouvé, ce qui est compatible avec une carcinomatose péritonéale. Le choc sévère et résistant au traitement avec défaillance multiviscérale progressive était donc le plus vraisemblablement la conséquence d’un blocage des canaux lymphatiques drainants et d’une augmentation de la perméabilité vasculaire. L’endothélium vasculaire, en tant que barrière semi-perméable, contrôle le transport du liquide et des molécules depuis l’espace intravasculaire et interstitiel. Une dysfonction de cette barrière entraîne une fuite avec une perte de liquide et de molécules dans l’espace interstitiel. Une perte persistante avec fuite capillaire sévère entraîne une hypotension ainsi qu’une hypoxie tissulaire et peut aller jusqu’au choc réfractaire au traitement [3, 4]. L’hypothèse du sepsis, en tant que cause la plus fréquente du choc distributif, a ainsi définitivement été rejetée suite au diagnostic de cancer de l’ovaire avec métastases ­péritonéales, d’autant plus qu’une infection n’a pas pu être démontrée que ce soit sur le plan clinique, biologique ou microbiologique.
+
+Une expression du «vascular endothelial growth factor» (VEGF) a à plusieurs reprises été mise en évidence dans le tissu tumoral épithélial dans le cadre du cancer de l’ovaire. L’angiogenèse stimulée par ce biais est probablement essentielle à la croissance de la tumeur, et de façon consécutive, à la formation de l’ascite. Dans un modèle animal, il a été montré que la production du VEGF par les cellules cancéreuses était directement corrélée avec la production d’ascite. Cette dernière s’explique d’une part par la production accrue de liquide péritonéal par les cellules cancéreuses et d’autre part par la perméabilité microvasculaire accrue.
+
+Cette dépendance laisse supposer que les inhibiteurs du VEGF sont efficaces dans le traitement de l’ascite associée au cancer de l’ovaire. Dans différents rapports de cas, une réduction considérable de l’ascite a été montrée pour l’administration de bévacizumab toutes les trois à quatre semaines (15 mg/kg par voie intra­veineuse ou 5 mg/kg par voie intrapéritonéale) [5]. De façon notable, l’ascite maligne était complètement ­régressive chez tous les patients traités suite à l’administration d’une dose unique et ne s’est pas ré-accumulée au cours de la période d’observation médiane de plus de deux mois. Une amélioration de la survie globale n’a toutefois pas pu être démontrée dans d’autres études [6].
+
+Chez notre patiente qui présentait un choc fulminant, le bévacizumab aurait éventuellement pu être une ­option pour le traitement de l’ascite mais il n’a pas été envisagé, à plus forte raison qu’il s’agit d’une utilisation «off-label».
+
+L’essentiel pour la pratique
+
+• Le choc distributif est souvent causé par un sepsis, mais des néoplasies, en particulier avec carcinomatoses péritonéales et ascite maligne, peuvent également le déclencher.
+
+• Toutes les ascites hémorragiques doivent faire suspecter une néoplasie, surtout en cas d’élévation concomitante des taux de LDH et de protéines.
+
+• Toutes les ascites nouvellement survenues doivent être évaluées rapidement.

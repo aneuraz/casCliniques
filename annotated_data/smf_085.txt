@@ -1,0 +1,136 @@
+Présentation du cas
+Anamnèse
+
+Un Somalien de 28 ans s’est présenté dans notre service des urgences avec une toux intermittente. Il a ­signalé des quintes de toux lors de la déglutition d’aliments solides et liquides, qui ne survenaient guère entre les repas. Par la suite, il a également remarqué une légère présence de sang dans les crachats. Par ailleurs, il était en proie à des douleurs lors de la déglutition d’aliments solides anguleux (odynophagie), si bien qu’il évitait de s’alimenter. En l’espace de quelques semaines, il avait perdu environ 10 kilogrammes. ­Depuis quelques jours, il présentait en plus de la fièvre et des sueurs nocturnes.
+
+Question 1: Quel diagnostic de suspicion doit être envisagé au vu des premiers symptômes décrits par le patient (toux lors de la déglutition, odynophagie)?
+
+
+a) Trachéobronchite virale aiguë
+
+b) Carcinome bronchique
+
+c) Tuberculose pulmonaire ouverte
+
+d) Fistule œso-respiratoire
+
+e) Corps étranger dans les voies respiratoires supérieures
+
+Le patient savait qu’une de ses proches avait contracté la tuberculose. Lors de son arrivée en Suisse il y a un peu plus de deux ans, le patient avait séjourné dans un foyer où des cas de tuberculose (tuberculose pulmonaire ouverte) étaient également survenus. Lors d’une radiographie préalablement réalisée dans le cadre de la consultation chez le médecin de famille, il n’y avait pas de cavernes ni d’infiltrats, les hiles étaient proéminents des deux côtés et l’élargissement médiastinal classique faisait défaut. Une antibiothérapie par amoxicilline/acide clavulanique, qui avait été initiée en raison d’une suspicion d’infection pulmonaire, n’a pas entraîné d’amélioration.
+
+Un léger gonflement indolore des ganglions lymphatiques cervicaux des deux côtés a été observé à l’examen clinique et des bruits respiratoires atténués au niveau des deux bases pulmonaires ont été constatés à l’auscultation pulmonaire. Le patient était afébrile (37,0 °C) et stable sur le plan cardiopulmonaire.
+
+Les analyses de laboratoire ont uniquement révélé une élévation de la protéine C réactive (CRP: 49 mg/l, norme: <5 mg/l) et une légère lymphopénie (1,29 G/l).
+
+En vue d’une évaluation plus précise des symptômes principaux «toux et odynophagie», une tomodensitométrie (TDM) de la région du cou et du thorax a été réalisée. Elle a révélé des infiltrats tachetés au niveau des deux bases pulmonaires, des ganglions lymphatiques hilaires légèrement hypertrophiés et des ganglions lymphatiques médiastinaux significativement hypertrophiés (le plus grand, de localisation infracarinaire, mesurait 11 mm). Les ganglions lymphatiques cervicaux gonflés constatés à l’examen clinique n’ont pas été jugés comme étant significativement hypertrophiés (<5 mm) à l’imagerie. Une petite bulle d’air était en outre visible entre la trachée et l’œsophage (fig. 1).
+
+Figure 1: Tomodensitométrie du thorax avec produit de contraste intraveineux. L’examen révèle des ganglions lymphatiques hypertrophiés à hauteur de la carène (cercle) et une suspicion d’air (flèche) en dehors de l’œsophage.
+
+Question 2: Laquelle des anomalies mentionnées ci-dessus n’est pas classique d’une infection tuberculeuse?
+
+
+a) Elévation de la CRP
+
+b) Légère lymphopénie
+
+c) Lymphadénopathie hilaire/médiastinale
+
+d) Auscultation pulmonaire anormale
+
+e) Air libre entre la trachée et l’œsophage
+
+A la radiocinématographie de la déglutition avec Gastrografine, une anomalie inhabituelle a été visualisée, à savoir une fistule entre l’œsophage et la bronche principale gauche (fig. 2A).
+
+Figure 2: Radiocinématographie de la déglutition avec Gastrografine avant le traitement (A ) et après 10 jours de traitement antituberculeux adéquat (B ). La fuite encore bien visible initialement (flèche,A ) n’est plus visualisée après 10 jours de traitement (flèche,B ).
+
+En tant que corrélat endoscopique, la gastroscopie a ­révélé une petite ouverture légèrement enfoncée au ­niveau du tiers proximal de l’œsophage avec une ­muqueuse œsophagienne non inflammatoire (fig. 3).
+
+Figure 3: Petite fistule non inflammatoire (flèches) en direction de la bronche principale gauche.
+
+Aucun agent pathogène correspondant n’a pu être identifié à la microscopie directe de trois échantillons différents de crachats et à l’examen PCR1 de ces échantillons (complexe Mycobacterium tuberculosis, GeneXpert® MTB/RIF).
+
+De même, l’échantillon prélevé au niveau d’un ganglion lymphatique médiastinal par ponction à l’aiguille fine ciblée sous échoendoscopie a uniquement montré des altérations réactives sans mise en évidence de bacilles acido-résistants, et la PCR de cet échantillon s’est aussi révélée négative.
+
+Question 3: Quel examen est considéré comme l’examen de référence pour le diagnostic de la tuberculose?
+
+
+a) Culture
+
+b) Analyse PCR (GeneXpert® MTB/RIF)
+
+c) Test cutané à la tuberculine
+
+d) Examen microscopique direct
+
+e) Test de détection de l’interféron gamma
+
+Dans la culture (examen de référence) d’un échantillon de crachats obtenu par expectoration induite ainsi que dans la culture de l’échantillon de ganglion lymphatique obtenu par ponction, Mycobacterium africanum a pu être isolé ultérieurement. Le test de dépistage du VIH qui a été réalisé en plus s’est révélé négatif.
+
+Au vu de ces résultats, nous avons posé le diagnostic de fistule œso-bronchique tuberculeuse résultant d’une tuberculose ganglionnaire des ganglions lymphatiques médiastinaux causée par l’agent pathogène ­Mycobacterium africanum. En raison de la fistule associée au ganglion lymphatique colliquatif, les agents ­pathogènes pouvaient être évacués via les voies respiratoires lors de la toux. En outre, des aspirations répétées survenaient en raison de la communication entre le tube digestif et les voies respiratoires.
+
+Question 4: Quel traitement devrait à présent être initié?
+
+
+a) Rifampicine/moxifloxacine
+
+b) Rifampicine/isoniazide/streptomycine
+
+c) Rifampicine/isoniazide/éthambutol/pyrazinamide + vitamine B6
+
+d) Doxycycline monohydrate
+
+e) «Watchful waiting»
+
+En raison des aspirations récidivantes et par crainte d’une possible médiastinite, l’antibiothérapie par amoxicilline/acide clavulanique a été poursuivie par voie intraveineuse et une sonde naso-gastrique a été posée pour assurer l’alimentation. Déjà sous ce traitement, la toux a nettement diminué. Après avoir réalisé un test génétique de résistance à la rifampicine de l’agent pathogène de la tuberculose, une quadrithérapie antituberculeuse par rifampicine, isoniazide, éthambutol et pyrazinamide a été initiée. Une supplémentation en vitamine B6 a en outre été administrée. Après une évolution favorable avec une régression spontanée de la fistule (fig. 2B), la sonde gastrique a pu être retirée et une reprise rapide de l’alimentation a pu avoir lieu.
+
+Question 5: Quelle affirmation relative au traitement de la tuberculose est fausse?
+
+
+a) Pour garantir l’adhérence thérapeutique, il convient de contrôler régulièrement la prise des comprimés par «directly observed therapy» (DOT).
+
+b) En cas d’évolution favorable, il est possible de délaisser la quadrithérapie classique au profit d’une bithérapie par isoniazide et rifampicine après 2 mois.
+
+c) Au cours du traitement, de nouveaux échantillons doivent être mis en culture.
+
+d) Une évaluation de l’entourage n’est typiquement pas nécessaire.
+
+e) Pour la surveillance des éventuels effets indésirables médicamenteux, il est recommandé de contrôler les paramètres de la fonction hépatique (transaminases).
+
+Le traitement contrôlé («directly observed therapy» [DOT]) ultérieur s’est déroulé en ambulatoire avec des contrôles de suivi étroits par l’infectiologie et le médecin de famille. Lors des analyses de laboratoire initiales recommandées, les paramètres de la fonction hépatique se sont révélés normaux à deux reprises [1]. Deux mois après le début du traitement, une nouvelle culture n’a plus montré d’agents pathogènes, si bien que l’éthambutol et la pyrazinamide ont pu être arrêtés. Le traitement tuberculostatique par rifampicine et isoniazide, qui a été poursuivi, a été interrompu après une durée totale de six mois. Les évaluations de l’­entourage ont été réalisées par la Ligue pulmonaire suisse.
+
+Discussion
+Tuberculose: formes
+
+La tuberculose est causée par un agent pathogène du complexe Mycobacterium tuberculosis (Mycobacterium tuberculosis, africanum, bovis, microti, caprae, canettii, pinnipedii). La forme la plus fréquente de tuberculose primaire est la tuberculose pulmonaire avec des symptômes pulmonaires (toux, expectorations, éventuellement hémoptysies) accompagnés de symptômes B classiques (fièvre, sueurs nocturnes, perte de poids) [1, 2]. Notre patient présentait également des symptômes pulmonaires, mais une tuberculose pulmonaire classique n’a pas pu être mise en évidence. La dissémination des mycobactéries dans les crachats s’est produite dans un deuxième temps, après la formation d’une fistule entre le ganglion lymphatique infecté et les voies respiratoires. Il est important de garder à l’esprit que dans jusqu’à 14% des cas de tuberculose, il peut y avoir une présentation exclusivement extra-pulmonaire (y compris en tant que tuberculose primaire), ce qui complique la pose du diagnostic [2].
+
+Parmi les manifestations possibles de la tuberculose extra-pulmonaire figurent entre autres la tuberculose ganglionnaire (typiquement hilaire ou médiastinale), la pleurésie tuberculeuse qui, sur le plan clinique, s’accompagne souvent d’épanchements pleuraux récidivants, la tuberculose osseuse et la tuberculose articulaire. D’autres formes potentielles sont la tuberculose miliaire, avec une dissémination théorique potentielle des bactéries dans n’importe quel organe, et même la septicémie tuberculeuse (typhobacillose de Landouzy), ces deux dernières formes survenant avant tout chez les personnes immunodéprimées [1, 2]. La formation d’une fistule avec une communication entre les voies respiratoires et le tube digestif est une complication rare de la tuberculose (dans notre cas, qui a émané d’une tuberculose ganglionnaire) et sur le plan du diagnostic différentiel, elle est avant tout à distinguer des maladies inflammatoires chroniques de l’intestin (en particulier de la maladie de Crohn) [3].
+
+Mycobacterium africanum
+
+Mycobacterium africanum est un bacille acido-résistant à Gram positif et il appartient au complexe Mycobacterium tuberculosis, au même titre que les autres espèces pathogènes pour l’être humain, à savoir Mycobacteriumtuberculosis au sens strict, Mycobacterium bovis et Mycobacterium canettii,ainsi que d’autres espèces qui sont pathogènes pour l’animal (Mycobacterium caprae, Mycobacterium microti et Mycobacterium pinnipedii) [4, 5]. Tandis que Mycobacterium africanum est rarement mis en évidence chez les patients tuberculeux en ­Europe et aux Etats-Unis, sa fréquence est comprise entre 18 et 66% en Afrique de l’Ouest [6]. Le tableau clinique de la tuberculose à Mycobacterium africanum ne diffère pas fondamentalement de celui de la tuberculose à Mycobacteriumtuberculosis et tout comme cette dernière, la tuberculose à Mycobacterium africanum est également traitée, en l’absence de résistances acquises, par une quadrithérapie (isoniazide, rifampicine, éthambutol, pyrazinamide) durant la phase intensive, puis par une bithérapie (isoniazide, rifampicine) durant la phase de consolidation.
+
+Fistules infectieuses des voies respiratoires et du tube digestif
+
+Il n’existe pour l’instant pas de consensus quant à l’approche appropriée à adopter face aux fistules œso-bronchiques ou aux fistules pulmo-gastro-intestinales en général. Une étape décisive dans la détermination du traitement approprié réside certainement dans l’élucidation de la maladie sous-jacente. Ainsi, les fistules gastro-intestinales associées à la maladie de Crohn et les autres fistules gastro-intestinales chroniques requièrent par exemple plutôt un traitement chirurgical [7]. En revanche, la fermeture endoscopique directe des fistules traumatiques, post-interventionnelles et chirurgicales aiguës et subaiguës au ­niveau du tube digestif est une approche établie depuis longtemps, pour autant qu’un drainage extraluminal suffisant soit assuré [8, 9]. Par contre, l’approche à adopter en cas de fistules spontanées d’origine infectieuse, notamment avec une communication entre les voies respiratoires et le tube digestif, est totalement incertaine. Il n’est donc pas étonnant que des exemples de cas d’issue favorable aient été rapportés dans la littérature pour des approches extrêmement variées allant de la fermeture endoscopique par système «over-­the-scope clip» (OTSC) jusqu’à l’attitude attentiste avec ­initiation d’un traitement médicamenteux [10–14]. Que faut-il dès lors faire en l’absence de preuves? Recourir aux possibilités techniques-endoscopiques de plus en plus nombreuses ou adopter une attitude ­attentiste? L’expérience chirurgicale pratique montre néanmoins que les plaies infectées et possiblement aussi les fistules d’origine infectieuse profitent d’une cicatrisation ouverte secondaire. Nous ne voulions pas ignorer cette connaissance générale de chirurgie et avons dès lors opté pour un traitement conservateur. L’évolution réjouissante chez notre patient nous a donné raison.
+
+Résumé
+
+La présentation clinique typique de la tuberculose est la tuberculose pulmonaire et elle englobe essentiellement des symptômes pulmonaires et des symptômes B. D’autres manifestations sont plus rares, mais en cas de constellation de risques correspondante (origine géographique, exposition), il convient toujours de ­rechercher une tuberculose s’il existe une suspicion.
+
+Il n’existe pas de consensus quant au traitement des fistules spontanées d’origine infectieuse (ou concrètement, d’origine tuberculeuse) des voies respiratoires et du tube digestif. Les décisions thérapeutiques doivent être prises individuellement. Il est probablement judicieux de se conformer aux principes thérapeutiques chirurgicaux familiers, selon lesquels une cicatrisation ouverte secondaire a fait ses preuves pour les plaies infectées.
+
+Réponses:
+
+
+Question 1: d. Question 2: e. Question 3: a. Question 4: c. ­Question 5: d.
+
+Résumé
+
+La présentation clinique typique de la tuberculose est la tuberculose pulmonaire et elle englobe essentiellement des symptômes pulmonaires et des symptômes B. D’autres manifestations sont plus rares, mais en cas de constellation de risques correspondante (origine géographique, exposition), il convient toujours de ­rechercher une tuberculose s’il existe une suspicion.
+
+Il n’existe pas de consensus quant au traitement des fistules spontanées d’origine infectieuse (ou concrètement, d’origine tuberculeuse) des voies respiratoires et du tube digestif. Les décisions thérapeutiques doivent être prises individuellement. Il est probablement judicieux de se conformer aux principes thérapeutiques chirurgicaux familiers, selon lesquels une cicatrisation ouverte secondaire a fait ses preuves pour les plaies infectées.
+
+Réponses:
+
+
+Question 1: d. Question 2: e. Question 3: a. Question 4: c. ­Question 5: d.

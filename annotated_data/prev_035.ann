@@ -1,0 +1,48 @@
+T1	disorder 90 110	douleurs abdominales
+T2	disorder 127 139	vomissements
+T3	disorder 365 383	troubles digestifs
+T4	disorder 393 412	épisode diarrhéique
+T5	disorder 439 447	asthénie
+T6	disorder 579 588	Allergie 
+T7	disorder 676 690	gastroentérite
+T8	drugs 736 744	Tiofanor
+T9	drugs 747 762	antidiarrhéique
+T10	drugs 764 774	 Bipéridys
+T11	drugs 777 790	anti-émétique
+T12	drugs 795 804	Meteoxane
+T13	drugs 807 822	antispasmodique
+T14	procedure 844 856	consultation
+T15	procedure 900 912	médicaments 
+T16	disorder 1083 1103	abdomen était souple
+T17	disorder 1130 1156	ni défense, ni contracture
+T18	procedure 1225 1248	auscultation cardiaque 
+T19	labvalue 1254 1262	normale 
+T20	procedure 1291 1310	pression artérielle
+T21	drugs 1350 1361	médicaments
+T22	disorder 1436 1457	 douleurs abdominales
+T23	disorder 1503 1522	 ne pas s’alimenter
+T24	disorder 1780 1798	troubles digestifs
+T25	disorder 1810 1822	vomissements
+T26	disorder 2189 2208	vomit en permanence
+T27	disorder 2210 2230	vomissements bilieux
+T28	disorder 2453 2474	 douleurs abdominales
+T29	disorder 2558 2570	vomissements
+T30	disorder 2606 2619	ventre souple
+T31	disorder 2622 2634	non distendu
+T32	disorder 2637 2648	ans défense
+T33	disorder 2650 2664	ni contracture
+T34	disorder 2796 2810	gastroentérite
+T35	drugs 2831 2844	Bactrim Forte
+T36	drugs 2851 2863	 Metéospamyl
+T37	procedure 2961 2967	examen
+T38	drugs 3168 3179	médicaments
+T39	irrelevant 3206 3435	Elle serait revenue à l’appartement vers 18 heures mais n’avait pas vu la patiente qui était dans la salle de bains. Puis elle avait quitté l’appartement pour aller chez son ami. Elle reçoit un SMS de la patiente vers 19 heures. 
+T40	irrelevant 3436 3793	Le mercredi 19 mai, la mère de la patiente alerte la colocataire car elle se trouve devant l’appartement et personne ne répond à ses appels. L’ami de la colocataire, muni de ses clés, entre et découvre la patiente, morte, allongée sur le dos dans le couloir situé entre sa chambre et la salle de bains (heure du décès estimée à 10h00 par le médecin légiste)
+T41	disorder 3833 3869	abondant épanchement intra-abdominal
+T42	disorder 3898 3932	péritonite suppurative généralisée
+T43	disorder 3871 3879	purulent
+T44	disorder 3945 4092	agglomérat complet des anses grêles iléales très fortement agglutinées à la région caecale et présentant après leur séparation un aspect nécrotique
+T45	disorder 4136 4194	congestion polyviscérale prédominant au niveau des poumons
+T46	drugs 4196 4237	des deux reins, du foie et de l’encéphale
+T47	disorder 4321 4383	péritonite suppurée d’origine vraisemblablement appendiculaire
+T48	irrelevant 4391 4481	Plainte pénale pour homicide involontaire déposée par la mère de la victime (juillet 2010)

@@ -1,0 +1,97 @@
+T1	disorder 106 148	douleurs proximales des membres inférieurs
+T2	disorder 166 194	urines couleur «rouge-porto»
+T3	risk 212 247	voyage à vélo de 450 km sur 5 jours
+T4	risk 372 391	’origine africaine 
+T5	disorder 438 469	premier épisode d’urines foncée
+T6	disorder 1068 1095	rhabdomyolyse d’effort (RME
+T7	procedure 1213 1244	aux plasmatiques de myoglobine 
+T8	labvalue 1244 1254	augmentent
+T9	procedure 1367 1399	créatine kinase (CK) plasmatique
+T10	labvalue 1401 1412	augmentent 
+T11	disorder 1964 1984	myo-œdème douloureux
+T12	procedure 2183 2194	 bandelette
+T13	labvalue 2195 2203	positive
+T14	procedure 2101 2121	bandelette urinaire 
+T15	procedure 2287 2320	aspartate aminotransférase (ASAT)
+T16	procedure 2405 2436	alanine aminotransférase (ALAT)
+T17	procedure 2626 2629	CK 
+T18	labvalue 2631 2638	72 000 
+T19	labvalue 2641 2654	100 000 UI/l 
+T20	disorder 3012 3016	RME 
+T21	irrelevant 13577 13587;13589 14498	Discussion  La prise en charge de la RME comporte deux temps. Un premier temps où il s’agit d’évaluer l’indication à une prise en charge hospitalière, d’écarter une cause acquise et de prévenir les complications que sont les troubles électrolytiques et l’IRA. Un deuxième temps où il s’agit de déterminer si une cause génétique doit être recherchée. L’anamnèse se focalisant sur le moment de survenue de l’épisode, la recherche d’épisodes multiples, d’antécédents familiaux et d’autres symptômes d’affections musculaire. En l’absence de signes évocateur immédiat, un suivi clinique et biologique à 2–3 mois devra être organisé. L’acronyme RHABDO ­aidera à évaluer l’indication à une consultation spécialisée. La RME peut en effet parfois être révélatrice d’une myopathie métabolique innée pour laquelle il existe une prise en charge spécifique et des mesures de prévention avec impact favorable sur le devenir du patient.
+T21	irrelevant 14500 14509;14512 14586	Réponses:   Question 1: a. Question 2: e. Question 3: b. Question 4: d. Question 5: b.
+T21	irrelevant 14588 14682	L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2021.08640
+T22	risk 3197 3218	consommation d’alcool
+T23	risk 3223 3247	consommation de drogues 
+T24	disorder 3453 3485	’insuffisance rénale aiguë (IRA)
+T25	disorder 3718 3722	IRA 
+T26	disorder 4547 4571	troubles électrolytiques
+T27	disorder 4738 4752	 hyperkaliémie
+T28	disorder 4758 4775	hyperphosphatémie
+T29	procedure 4697 4716	électrocardiogramme
+T30	disorder 4781 4794	hyperuricémie
+T31	disorder 4802 4819	hypermagniésiémie
+T32	disorder 4849 4862	hypocalcémie 
+T33	disorder 4973 4986	hypocalcémie 
+T34	disorder 5046 5059	hypercalcémie
+T35	disorder 5144 5146	RM
+T36	disorder 5155 5193	coagulation intravasculaire disséminée
+T37	disorder 5821 5825	 RM 
+T38	procedure 5907 5937	’hydratation abondante précoce
+T39	drugs 5965 5982	NaCl 0,9 ou 0,45%
+T40	procedure 6079 6092	 hydratation 
+T41	disorder 6126 6162	acidose métabolique hyperchlorémique
+T42	procedure 6253 6277	perfusion intermittente 
+T43	drugs 6279 6292	 bicarbonates
+T44	procedure 6348 6371	alternera la perfusion 
+T45	drugs 6435 6445	glucose 5%
+T46	drugs 6389 6406	 solution saline 
+T47	drugs 6519 6527	mannitol
+T48	procedure 6839 6861	 hydratation agressive
+T49	drugs 6925 6946	diurétiques de l’anse
+T50	procedure 7083 7100	 dialyse précoce 
+T51	disorder 7246 7249	IRA
+T52	disorder 7256 7281	 troubles électrolytiques
+T53	procedure 7327 7339	 hydratation
+T54	drugs 7343 7353	 NaCl 0,9%
+T55	drugs 7376 7401	 solution de bicarbonates
+T56	disorder 7756 7758	RM
+T57	disorder 10735 10738	RM 
+T58	irrelevant 737 811;814 832	Question 1: Quel-s examen-s paraclinique-s diagnostique-s ­effectuez-vous?   a) Créatine kinase
+T58	irrelevant 834 880;882 932	b) Créatinine kinase et myoglobine plasmatique  c) Créatinine kinase et aspartate aminotransférase
+T58	irrelevant 934 970;972 1014	d) Bandelette urinaire avec sédiment  e) Aucun; ces patients ont des courbatures
+T59	irrelevant 2720 2789;2792 2825	Question 2: Quels examens paracliniques supplémentaires ­faites-vous?   a) Créatinine, urée, acide urique
+T59	irrelevant 2827 2888;2890 2964	b) Sodium, potassium, phosphate, calcium, albumine, magnésium  c) TSH, formule sanguine, TP/INR, status acide base et électrocardiogramme
+T59	irrelevant 2966 2975;2977 2984	d) a et c  e) Tous
+T60	irrelevant 5406 5486;5489 5530	Question 3: Quelle surveillance et prise en charge ­thérapeutique proposez-vous?   a) Retour à domicile et suivi à 48 heures
+T60	irrelevant 5532 5640;5642 5677	b) Hospitalisation à l’étage, hydratation pour cible de diurèse de 3 ml/kg/h, bicarbonates selon pH urinaire  c) Idem que b + mannitol 200 g/jour
+T60	irrelevant 5679 5738;5740 5775	d) Idem que b mais hospitalisation aux soins intermédiaires  e) Idem que d + mannitol 200 g/jour
+T61	irrelevant 7496 7574;7577 7609	Question 4: Chez quel patient un bilan étiologique plus poussé est-il indiqué?   a) Le premier mais pas le second
+T61	irrelevant 7611 7643;7646 7663	b) Le second mais pas le premier   c) Aucun des deux
+T61	irrelevant 7665 7681;7683 7726	d) Tous les deux  e) Il manque des informations pour trancher
+T62	irrelevant 8929 9018;9019 9116	Tableau S1: Exemples de myopathies métaboliques (liste non exhaustive), adapté de [7, 8]. Nom	Symptomes aigus	Facteur déclancheur	Symptomes hors épisode	CK basales	Exemples	Particularités
+T62	irrelevant 9117 9629;9630 9971	Métabolisme du glucose et du glycogène	Début précoce des symptômes après un exercice intense	Effort intense, contraction musculaire isométrique	• Souvent asymptomatique • Parfois faiblesse musculaire et intolérance à l’effort	Elévées	1) Maladie de McArdle (déficit en myophosphorylase) 2) Maladie de Tarui ­(déficit en phosphofructokinase)3) Autres	1) Myalgies améliorées à la reprise de l’exercice ­après quelques minutes de repos (phénomène de second souffle)2) Exacerbée par la prise de glucose avant l’effort Métabolisme des lipides	Début tardif lorsque l’effort se prolonge ou à distance de l’effort	Effort prolongé, triggers cataboliques (ex.: fièvre, stress, jeune prolongé)	Faiblesse musculaire rare	Normales ou élevées	1) Déficit en Carnitine Palymitoyltransferase II (CPT2)2) Autres	Douleur musculaire persistante plusieurs jours après l’effort
+T62	irrelevant 9972 10469;10470 10643	Maladie mitochondriale	Début précoce après un exercice	• Effort d’intensité variable. • Triggers cataboliques, médicaments interagissant avec la fonction mitochondriale.	• L’intolérance à l’effort est au premier plan•Faiblesse musculaire possible	Normales ou élevées	1) Mutations de l’ADN mitochondrial (MERRF, MELAS)2) Mutations dans le Cytochrome b/c3) Autres	Atteintes extramusculaires, notammnent organes à consommation d’énergie élevée (cardiopathie, ­endocrinopathie, ­encephalopathie, etc). Abréviations: ADN; acide désoxyribonucléique, MELAS; mitochondrial encephalopathy, lactic acidosis and stroke-like episodes, MERRF; myoclonic epilepsy with ragged red fibers
+T63	irrelevant 8273 8414;8415 8440	Tableau 1: Paramètres devant individuellement faire rechercher une cause génétique/métabolique sous-jacente; acronyme RHABDO (adapté de [6]). R	Récurrence des épisodes
+T63	irrelevant 8441 8494;8495 8579	H	HyperCkémie persistante à 8 semaines de l’événement A	Exercice causal d’intensité habituelle («Accustomed physical exercise» en anglais)
+T63	irrelevant 8580 8677;8678 8789	B	Créatine kinase sanguines («Blood») >10 000 UI/l chez la femme d’origine caucasienne ou >50 ULN D	Drogues/médicaments et autres facteurs endogènes ou exogènes n’expliquent pas la sévérité de la rhabdomyolyse
+T63	irrelevant 8790 8893;8894 8928	O	D’autres («Other») membres de la famille ont présenté une rhabdomyolyse ou souffrent d’une myopathie. ULN: limite supérieure de la norme
+T64	irrelevant 11263 11341;11344 11368	Question 5: Quel type de pathologie vous évoque l’histoire du premier patient?   a) Une RME physiologique
+T64	irrelevant 11370 11440;11442 11469	b) Un déficit enzymatique du métabolisme de la β-oxydation des lipides  c) Une RM sur drépanocytose
+T64	irrelevant 11471 11538;11540 11569	d) Un déficit enzymatique du métabolisme du glucose ou du glycogène  e) Une maladie mitochondriale
+T65	disorder 11575 11599	myopathies métaboliques 
+T66	disorder 11668 11672	 RME
+T67	disorder 11927 11948	déficits enzymatiques
+T68	disorder 12348 12351	 RM
+T69	disorder 12632 12655	myopathies métaboliques
+T70	procedure 12727 12759	dosages métaboliques spécifiques
+T71	procedure 12761 12779	tests fonctionnels
+T72	procedure 12882 12885	 CK
+T73	labvalue 12868 12879	’élévation 
+T74	disorder 12949 12952	RM 
+T75	procedure 13001 13018	bilan métabolique
+T76	procedure 13024 13044	profil acylcarnitine
+T77	procedure 13270 13272	CK
+T78	procedure 13298 13315	bilan métabolique
+T79	procedure 13328 13347	 analyse génétique 
+T80	disorder 13418 13436	RME physiologique 

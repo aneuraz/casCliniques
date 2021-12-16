@@ -1,0 +1,174 @@
+T1	drugs 10 78	Les inhibiteurs du co-transporteur sodium-glucose de type 2 (SGLT-2)
+T2	drugs 106 127	antidiabétiques oraux
+T3	disorder 158 176	 diabète de type 2
+T4	drugs 234 243	’insuline
+T5	procedure 205 214	 glycémie
+T6	disorder 495 507	acidocétose 
+T7	procedure 649 657	glycémie
+T8	disorder 1289 1341	acidose métabolique sévère à trou anionique augmenté
+T9	procedure 1258 1277	Le bilan biologique
+T10	procedure 1343 1345	pH
+T11	labvalue 1346 1351	 7,11
+T12	procedure 1353 1356	pO2
+T13	labvalue 1358 1366	102 mmHg
+T14	procedure 1368 1372	pCO2
+T15	labvalue 1374 1381	20 mmHg
+T16	procedure 1383 1387	HC03
+T17	labvalue 1389 1399	9,0 mmol/l
+T18	procedure 1401 1415	trou anionique
+T19	labvalue 1417 1426	26 mmol/l
+T20	procedure 1428 1437	lactates:
+T21	labvalue 1438 1448	1,8 mmol/l
+T22	procedure 1451 1462	La glycémie
+T23	labvalue 1468 1481	 13,7 mmol/l 
+T24	procedure 1485 1506	’hémoglobine glyquée 
+T25	labvalue 1508 1514	10,5%.
+T26	procedure 1518 1535	 corps cétoniques
+T27	labvalue 1626 1640	14 090 μmol/l 
+T28	procedure 1599 1624	β-hydroxybutyrate sanguin
+T29	procedure 1641 1642	N
+T30	labvalue 1644 1657	68–170 μmol/l
+T31	procedure 1674 1684	C-peptide 
+T32	labvalue 1703 1715	0,03 nmol/l 
+T33	labvalue 1716 1735	N: 0,27–1,27 nmol/l
+T34	drugs 1117 1124	Toujeo®
+T35	drugs 1067 1077	Jardiance®
+T36	drugs 1092 1102	Diamicron®
+T37	drugs 1080 1090	gliclazide
+T38	drugs 1051 1065	empagliflozine
+T39	drugs 1107 1115	insuline
+T40	disorder 1815 1853	 acidocétose diabétique euglycémique, 
+T41	procedure 1916 1939	perfusion intraveineuse
+T42	drugs 1942 1950	 glucose
+T43	drugs 1956 1964	insuline
+T44	drugs 1997 2013	’empagliflozine 
+T45	drugs 2016 2026	gliclazide
+T46	disorder 2107 2116	’acidose 
+T47	drugs 2154 2178	insuline basale et bolus
+T48	drugs 2289 2314	Les inhibiteurs du SGLT-2
+T49	drugs 2308 2314	SGLT-2
+T50	drugs 2332 2353	antidiabétiques oraux
+T51	procedure 2374 2405	co-transporteur sodium-glucose 
+T52	anatomy 2427 2451	 tubule proximal du rein
+T53	procedure 2485 2492	glucose
+T54	procedure 2510 2547	glycémie indépendamment de l’insuline
+T55	procedure 2645 2663	tension artérielle
+T56	drugs 2690 2705	canagliflozine,
+T57	drugs 2706 2721	dapagliflozine 
+T58	drugs 2724 2738	empagliflozine
+T59	irrelevant 2741 2924	ont été validées comme traitement de seconde ligne chez des patients diabétiques de type 2 uniquement, avec peu d’effets secondaires, parmi lesquels nous citerons le risque augmenté d
+T60	disorder 2925 2950	infections uro-génitales.
+T61	disorder 3071 3094	’acidocétose imputables
+T62	drugs 3099 3120	inhibiteurs du SGLT-2
+T63	procedure 3178 3187	glycémie 
+T64	disorder 3255 3279	acidocétoses diabétiques
+T65	disorder 3341 3354	La glycosurie
+T66	drugs 3369 3394	les inhibiteurs du SGLT-2
+T67	procedure 3425 3434	glycémie 
+T68	drugs 3479 3488	’insuline
+T69	procedure 3557 3587	 hormones contre-régulatrices 
+T70	procedure 3600 3609	 glucagon
+T71	disorder 3625 3657	 la lipolyse au niveau hépatique
+T72	disorder 3660 3674	 la cétogenèse
+T73	drugs 3779 3805	les inhibiteurs du SGLT-2 
+T74	drugs 3902 3926	 inhibiteurs du SGLT-2 i
+T75	disorder 3950 3992	 réabsorption rénale des corps cétoniques,
+T76	disorder 4021 4048	 La glycosurie persistante 
+T77	procedure 4125 4133	glycémie
+T78	risk 4181 4188	alcool,
+T79	drugs 4227 4243	insuline exogène
+T80	procedure 4248 4257	chirurgie
+T81	disorder 4259 4273	les infections
+T82	disorder 4273 4313	, la diète pauvre en hydrates de carbone
+T83	disorder 4313 4345	, le jeûne et la déshydratation,
+T84	disorder 4414 4427	 acidocétose 
+T85	drugs 4463 4484	inhibiteurs du SGLT-2
+T86	labvalue 4539 4556	élévation modérée
+T87	procedure 4563 4571	glycémie
+T88	labvalue 4578 4586	présence
+T89	procedure 4615 4632	 corps cétoniques
+T90	disorder 4673 4695	acidocétose diabétique
+T91	disorder 4713 4736	. Douleurs abdominales,
+T92	disorder 4736 4744	 nausées
+T93	disorder 4746 4758	vomissements
+T94	disorder 4760 4771	tachycardie
+T95	disorder 4773 4828	tachypnée associée ou non à une respiration de Kussmaul
+T96	disorder 4831 4864	 troubles de l’état de conscience
+T97	drugs 4892 4913	inhibiteurs du SGLT-2
+T98	irrelevant 4961 5093	 Les critères diagnostiques émis par l’«American College of Endocrinology» et l’«American Association of Clinical Endocrinologists» 
+T99	disorder 5102 5121	acidose métabolique
+T100	procedure 5130 5132	pH
+T101	labvalue 5145 5148	7,3
+T102	procedure 5152 5186	 taux sanguin de β-hydroxybutyrate
+T103	labvalue 5198 5209	 3,8 mmol/l
+T104	procedure 5214 5223	anion gap
+T105	labvalue 5236 5239	10 
+T106	labvalue 5224 5235	supérieur à
+T107	labvalue 5133 5144	inférieur à
+T108	labvalue 5186 5197	 supérieur 
+T109	disorder 5244 5276	 trouble de l’état de conscience
+T110	disorder 5245 5307	trouble de l’état de conscience allant de la confusion au coma
+T111	procedure 5329 5345	corps cétoniques
+T112	procedure 5348 5370	la bandelette urinaire
+T113	drugs 5490 5515	 les inhibiteurs SGLT-2. 
+T114	irrelevant 5371 5486	ne fait pas partie des critères diagnostiques en raison de la diminution de l’excrétion rénale des corps cétoniques
+T115	irrelevant 5526 5681	 bandelette urinaire ne détecte que l’acétoacétate alors que le corps cétonique principal responsable de l’acidocétose diabétique est le β-hydroxybutyrate 
+T116	drugs 5880 5901	inhibiteurs du SGLT-2
+T117	disorder 5940 5958	diabète de type 1,
+T118	disorder 5996 6008	acidocétoses
+T119	disorder 6055 6075	Le diabète de type 1
+T120	disorder 6195 6242	un diabète auto-immun latent de l’adulte (LADA)
+T121	disorder 6237 6241	LADA
+T122	disorder 6331 6349	diabète de type 2 
+T123	disorder 6497 6501	LADA
+T124	procedure 6515 6518	BMI
+T125	labvalue 6531 6540	25 kg/m2,
+T126	labvalue 6519 6530	inférieur à
+T127	disorder 6541 6548	diabète
+T128	disorder 6666 6686	nhibiteur du SGLT-2.
+T129	disorder 6724 6742	diabète de type 2 
+T130	drugs 6779 6788	’insuline
+T131	disorder 6812 6857	 dysfonction de la fonction des cellules béta
+T132	disorder 6925 6952	 une acidocétose diabétique
+T133	procedure 7003 7013	C-peptide 
+T134	disorder 7048 7092	 production endogène d’insuline déficitaire.
+T135	drugs 7182 7190	insuline
+T136	drugs 7306 7327	 inhibiteur du SGLT-2
+T137	disorder 7437 7450	’acidocétose 
+T138	disorder 7614 7636	 inhibiteur du SGLT-2.
+T139	irrelevant 7552 7614	Tableau 1:Recommandations au patient avant l’introduction d’un
+T140	irrelevant 7637 7673;7674 7689;7690 7725;7726 7784;7785 7852;7853 8003;8004 8014	Maintenir une bonne hygiène génitale Bien s’hydrater Éviter une alcoolisation importante Éviter une diète pauvre en hydrates de carbone ou un jeûne En cas de jeûne, interrompre le médicament au moins 24 heures avant En cas de nausées, vomissements, douleurs abdominales, fatigue inhabituelle, difficultés respiratoires, arrêter le ­médicament et consulter rapidement Conclusion
+T141	disorder 8031 8055	 acidocétose diabétique 
+T142	drugs 8070 8091	inhibiteurs du SGLT-2
+T143	disorder 8031 8065	 acidocétose diabétique secondaire
+T144	disorder 8136 8183	 production endogène d’insuline est déficitaire
+T145	disorder 8211 8230	n diabète de type 1
+T146	disorder 8231 8239	 un LADA
+T147	disorder 8245 8279	 diabète de type 2 de longue durée
+T148	irrelevant 8281 8404	L’introduction d’un tel traitement chez cette population peut nécessiter un avis de spécialiste et d’autres investigations.
+T149	disorder 8421 8444	’acidocétose diabétique
+T150	drugs 8474 8495	 inhibiteur du SGLT-2
+T151	disorder 8527 8548	 symptômes évocateurs
+T152	procedure 8580 8589	 glycémie
+T153	labvalue 8601 8623	 modérément augmentée.
+T154	irrelevant 8624 8837	Sa détection précoce permet une diminution de la mortalité. Le traitement incriminé doit être stoppé et une prise en charge rapide par insuline, hydratation et apport en glucide doit être mise en place rapidement.
+T155	disorder 8929 8946	 une acidocétose 
+T156	drugs 8997 9021	d’inhibiteur des SGLT-2 
+T157	disorder 9071 9079	 nausées
+T158	disorder 9080 9094	 vomissements,
+T159	disorder 9095 9117	douleurs abdominales, 
+T160	disorder 9117 9149	trouble de l’état de conscience,
+T161	disorder 9150 9158	dyspnée.
+T162	disorder 9177 9200	’acidocétose diabétique
+T163	procedure 9243 9255	 la glycémie
+T164	disorder 9316 9349	acidocétose diabétique secondaire
+T165	drugs 9354 9376	inhibiteurs des SGLT-2
+T166	disorder 9400 9420	acidose métabolique 
+T167	procedure 9428 9430	pH
+T168	labvalue 9430 9447	 inférieur à 7,3,
+T169	procedure 9452 9467	 trou anionique
+T170	labvalue 9486 9495	présence 
+T171	procedure 9498 9514	corps cétoniques
+T172	labvalue 9518 9537	quantité augmentée 
+T173	disorder 9601 9614	’acidocétose 
+T174	drugs 9693 9713	nhibiteur du SGLT-2.

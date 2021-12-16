@@ -1,0 +1,37 @@
+T1	drugs 50 68	citrate de betaïne
+T2	disorder 214 222	malaise 
+T3	disorder 226 248	 perte de connaissance
+T4	disorder 568 588	trouble neurologique
+T5	procedure 593 595	TA
+T6	labvalue 604 609	11/7 
+T7	procedure 617 622	pouls
+T8	labvalue 634 636	72
+T9	disorder 670 684	déshydratation
+T10	disorder 838 853	gastro-entérite
+T11	drugs 895 902	Motilyo
+T12	drugs 904 911	Arestal
+T13	drugs 913 919	Smecta
+T14	drugs 921 930	Ercéfuryl
+T15	drugs 1140 1159	citrate de bétaïne 
+T16	disorder 1381 1395	diarrhée noire
+T17	disorder 1925 1933	fatigué 
+T18	disorder 1941 1945	pâle
+T19	procedure 2183 2196	bilan sanguin
+T20	disorder 2254 2279	émission de selles noires
+T21	disorder 2455 2468	vomit du sang
+T22	disorder 2764 2775	hématémèse 
+T23	disorder 3209 3219	hématémèse
+T24	disorder 3253 3265	 tachycardie
+T25	disorder 4541 4556	arrêt cardiaque
+T26	disorder 4574 4598	hématémèse cataclysmique
+T27	procedure 4617 4649	réanimation cardio-respiratoires
+T28	procedure 4655 4666	transfusion
+T29	disorder 4895 4901	 décès
+T30	disorder 5092 5110	hémorragie massive
+T31	disorder 5129 5157	collapsus cardio-vasculaire 
+T32	disorder 5164 5191	détresse respiratoire aiguë
+T33	procedure 5239 5266	examen anatomo-pathologique
+T34	procedure 4906 4914	autopsie
+T35	disorder 5293 5343	ulcération simple de Dieulafoy de siège gastrique 
+T36	disorder 5348 5374	rupture d'une seule artère
+T37	disorder 5463 5483	hémorragie digestive

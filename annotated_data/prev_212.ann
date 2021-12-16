@@ -1,0 +1,69 @@
+T1	procedure 121 132	échographie
+T2	profession 336 346	sage-femme
+T3	disorder 458 474	syndrome méningé
+T4	labvalue 488 494	110/47
+T5	procedure 479 481	TA
+T6	procedure 496 504	le pouls
+T7	labvalue 507 510	150
+T8	procedure 516 528	a saturation
+T9	labvalue 530 535	 96 %
+T10	disorder 644 654	saignement
+T11	disorder 616 636	ontractions utérines
+T12	procedure 677 688	échographie
+T13	labvalue 691 910	aucune activité cardiaque fœtale n’est retrouvée et la biométrie est en rapport avec un fœtus de 22 SA, le placenta est post non bas inséré. Il n’existe pas de signes en faveur d’une mort fœtale in utéro (MFIU) ancienne
+T14	procedure 924 945	bilan bactériologique
+T15	procedure 1012 1032	bilan vasculo-rénal.
+T16	drugs 1124 1139	antibiothérapie
+T17	drugs 1159 1168	AUGMENTIN
+T18	drugs 1172 1183	GENTAMICINE
+T19	drugs 1238 1247	PERFALGAN
+T20	procedure 1394 1404	leucocytes
+T21	procedure 1360 1371	hémoglobine
+T22	labvalue 1378 1385	9,1 g/l
+T23	labvalue 1407 1411	5130
+T24	disorder 1517 1540	sepsis sévère avec MFIU
+T25	disorder 1546 1574	infection à Escherichia coli
+T26	drugs 1590 1605	antibiothérapie
+T27	drugs 1628 1637	AUGMENTIN
+T28	drugs 1660 1668	CLAFORAN
+T29	labvalue 1682 1687	90/60
+T30	labvalue 1700 1703	144
+T31	labvalue 1722 1728	37,9°C
+T32	procedure 1708 1719	température
+T33	procedure 1692 1698	pouls 
+T34	procedure 1673 1675	TA
+T35	procedure 1673 1675	TA
+T36	procedure 1735 1745	saturation
+T37	labvalue 1748 1753	100 %
+T38	labvalue 1918 1923	élevé
+T39	labvalue 1898 1905	normale
+T40	labvalue 2089 2094	80/40
+T41	disorder 2171 2184	choc septique
+T42	disorder 2393 2411	douleur thoracique
+T43	disorder 2445 2459	des crépitants
+T44	disorder 2477 2498	œdème aigu du poumon 
+T45	profession 2550 2562	anesthésiste
+T46	profession 2513 2526	chef de garde
+T47	procedure 2416 2428	auscultation
+T48	procedure 2628 2630	AG
+T49	anatomy 2667 2675	placenta
+T50	procedure 2738 2751	 réanimation 
+T51	profession 2848 2860	anesthésiste
+T52	profession 2867 2878	réanimateur
+T53	disorder 2890 2903	choc septique
+T54	disorder 3059 3085	défaillance hémodynamique 
+T55	drugs 3107 3120	NORADRENALINE
+T56	disorder 3130 3182	détresse respiratoire par œdème aigu du poumon (OAP)
+T57	labvalue 3187 3194	E. Coli
+T58	procedure 3216 3228	hémocultures
+T59	procedure 3235 3254	prélèvement vaginal
+T60	procedure 1965 1968	PCA
+T61	procedure 1889 1891	TA
+T62	procedure 1912 1917	pouls
+T63	procedure 1054 1076	sous oxygène au masque
+T64	procedure 1084 1118	sonde vésicale à demeure est posée
+T65	procedure 964 998	recherche de listéria et paludisme
+T66	anatomy 565 571	utérus
+T67	disorder 444 452	frissons
+T68	disorder 419 426	fièvre 
+T69	profession 372 384	anesthésiste

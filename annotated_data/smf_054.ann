@@ -1,0 +1,44 @@
+T1	disorder 77 122	 bronchopneumopathies chroniques obstructives
+T2	disorder 124 128	BPCO
+T3	disorder 135 155	emphysème pulmonaire
+T4	disorder 561 590	 emphysème ­pulmonaire sévère
+T5	disorder 545 552	dyspnée
+T6	procedure 944 983	implantation d’une valve par endoscopie
+T7	procedure 988 1013	mplantation d’une spirale
+T8	procedure 1020 1094	réduction thermique du volume pulmonaire par instillation de vapeur d’eau 
+T9	irrelevant 597 927	Cependant, des méthodes moins invasives et associées à moins de complications se sont désormais si bien ­établies qu’elles sont préconisées dans les recommandations actuelles de la «Global Initiative for Chronic ­Obstructive Lung Disease» (GOLD) [3] et ont également été intégrées dans de nombreuses lignes directrices nationales.
+T10	procedure 1180 1231	réduction endoscopique du volume pulmonaire (ELVR) 
+T11	disorder 1550 1582	emphysème pulmonaire hétérogène 
+T12	disorder 1550 1617	emphysème pulmonaire hétérogène avec prédominance du lobe supérieur
+T13	disorder 2815 2828	 BPCO sévère 
+T14	disorder 2840 2863	un emphysème pulmonaire
+T15	procedure 3950 3978	pléthysmographie corporelle 
+T16	drugs 3990 4040	trouble sévère et non réversible de la ventilation
+T17	labvalue 4061 4105	hyper­inflation pulmonaire sévère (VR 367%) 
+T18	disorder 4188 4220	hyperinflation pulmonaire sévère
+T19	disorder 4308 4317	emphysème
+T20	procedure 5780 5804	densitométrie pulmonaire
+T21	procedure 5657 5688	 ­cathétérisme cardiaque droit 
+T22	procedure 5444 5459	oxygénothérapie
+T23	procedure 5308 5330	gazométrie artérielle 
+T24	procedure 5331 5333	GA
+T25	disorder 5349 5380	nsuffisance respiratoire sévère
+T26	disorder 5406 5417	hypercapnie
+T27	procedure 5247 5275	Tomodensitométrie du thorax 
+T28	labvalue 4908 4951	Cathétérisme cardiaque droit	PAPm 34 mm Hg	
+T29	labvalue 4853 4874	2–3 lpm O2 à l’effort
+T30	labvalue 4875 4907	1–2 lpm O2 uniquement à l’effort
+T31	labvalue 4797 4831	Besoin d’oxygène	1 lpm O2 au repos
+T32	procedure 4730 4769	St. Georges Respiratory ­Questionnaire	
+T33	labvalue 4653 4666	pO2: 7,44 kPa
+T34	labvalue 4667 4680	pO2: 10,2 kPa
+T35	labvalue 4631 4680	Gazométrie artérielle	pO2: 7,44 kPa	pO2: 10,2 kPa
+T36	labvalue 4483 4529	Indice de masse corporelle	17,8 kg/m2	22 kg/m2
+T37	labvalue 4465 4482	Poids	42 kg	52 kg
+T38	procedure 6974 7010	ablation thermique par vapeur d’eau 
+T39	procedure 7665 7669	ELVR
+T40	disorder 7772 7776	BPCO
+T41	procedure 10436 10478	ablation bronchoscopique par vapeur d’eau 
+T42	disorder 11061 11110	réduction de volume pulmonaire (LVR) endoscopique
+T43	disorder 11246 11271	hyperinflation pulmonaire
+T44	disorder 11293 11300	dyspnée

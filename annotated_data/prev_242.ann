@@ -1,0 +1,14 @@
+T1	disorder 129 150	tassements vertébraux
+T2	disorder 108 116	douleurs
+T3	disorder 155 190	 insuffisance respiratoire modérée 
+T4	disorder 196 211	cancer du sein 
+T5	procedure 390 397	 examen
+T6	disorder 762 771	douleurs 
+T7	disorder 776 800	incapacité fonctionnelle
+T8	disorder 952 991	fracture basi-cervicale du fémur gauche
+T9	procedure 1116 1133	prothèse cimentée
+T10	disorder 1467 1512	 douleurs modérées au niveau du moyen fessier
+T11	procedure 1538 1547	expertise
+T12	disorder 1553 1582	douleurs de la hanche gauche 
+T13	disorder 1702 1722	gêne au déshabillage
+T14	disorder 1911 1919	diminuée

@@ -1,0 +1,9 @@
+Description du cas
+
+Un patient âgé de 45 ans, sans antécédent, consulte aux urgences pour douleur thoracique irradiant dans la mâchoire. Son examen clinique est sans particularité et son électrocardiogramme met en évidence un sus décalage du segment ST dans le territoire antérieur. Un STEMI («ST elevation myocardial infarction») est évoqué mais l’intensité de la douleur interroge. L’urgentiste complète son status en réalisant une échographie ciblée de l’aorte. L’examen de l’aorte thoracique n’est pas contributif en raison de la faible échogénicité du patient, celui de l’aorte abdominale met en évidence un flap intimal (fig. 1). Le diagnostic de dissection aortique étendue aux coronaires est alors posé. Un angio-CT thoracoabdominal, réalisé en urgence, confirme le diagnostic et le patient est transféré sans délai dans un centre de chirurgie cardiovasculaire.
+
+Figure 1: Echographie ciblée de l’aorte abdominale révélant un flap intimal (flèche).
+
+Discussion
+
+Avec la miniaturisation des échographes, la réalisation d’examens échographiques au lit du patient devient accessible à tout praticien, même non radiologue. Les diagnostics cliniques, autrefois difficiles, deviennent évidents. L’échographie ciblée ou clinique au lit du ­patient est aujourd’hui un outil incontournable aux urgences. C’est un examen rapide dont l’objectif est de ­répondre à une question spécifique. Il ne doit pas retarder un traitement urgent ni ralentir l’accès à un examen spécialisé. Son intégration dans notre pratique clinique doit être pensée, sous couvert de formations validées [1–3].

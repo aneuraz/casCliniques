@@ -1,0 +1,23 @@
+T1	disorder 84 106	éruption cutanée aiguë
+T2	disorder 107 114	fébrile
+T3	disorder 157 181	infection rhinopharyngée
+T4	disorder 230 273	 macules purpuriques en cocardes des jambes
+T5	disorder 353 387	 placards érythémateux purpuriques
+T6	disorder 398 423	nécrotiques et oedémateux
+T7	disorder 447 453	fièvre
+T8	procedure 595 612	bilan biologique 
+T9	disorder 624 655	 syndrome inflammatoire modéré 
+T10	disorder 664 680	hyperleucocytose
+T11	labvalue 713 723	15 000/mm3
+T12	procedure 727 747	 bilan rénal sanguin
+T13	labvalue 764 770	normal
+T14	procedure 778 790	hémocultures
+T15	labvalue 796 805	négatives
+T16	procedure 809 826	 biopsie cutanée 
+T17	disorder 840 893	vascularite leucocytoclasique sans nécrose fibrinoïde
+T18	disorder 931 969	oedème aigu hémorragique du nourrisson
+T19	disorder 971 974	OAH
+T20	drugs 1002 1014	amoxicilline
+T21	drugs 1016 1027	gentamycine
+T22	procedure 1030 1044	 antipyrétique
+T23	irrelevant 1165 3725	 Discussion L’OAH du nourrisson a été décrit la première fois par Snow en 1913 (3), depuis, une centaine de cas ont été rapportés (4,6). Il s’agit d’une vascularite leucocytoclasique propre au nourrisson. L’OAH se manifeste cliniquement par une fièvre modérée, un oedème périphérique, des plaques purpuriques annulaires ou en cocardes et des lésions ecchymotiques plus ou moins symétriques, prédominant au visage, notamment sur les oreilles, les paupières et les joues, au scrotum et aux extrémités. Des érosions et des lésions pururiques des muqueuses labiales et buccales ont été rapportées (7). L’état hémodynamique est stable et l’état général est conservé malgré le caractère parfois impressionnant de l’éruption. Il n’y a habituellement pas d’atteinte rénale ou digestive, bien que des diarrhées, des mélénas ou des hématuries transitoires et minimes aient été décrites (1,7). Notre patiente ne présentait pas d’atteinte extra-cutanée. La biologie est normale, en dehors d’un syndrome inflammatoire. Le bilan auto-immun est négatif et il n’y a pas de protéinurie. L’histologie montre une vascularite leucocytoclasique et l’IFD un dépôt vasculaire de C1q, de C3, de fibrinogène et la présence d’immunoglobulines de façon variable : IgM dans 80 % des cas, IgA dans 30 %, IgG dans 20 % et IgE dans 30 %(3,8). Les diagnostics différentiels sont : • l’érythème polymorphe ou le syndrome de Sweet, dont l’histologie est différente ; • la méningococcémie, où l’état général est plus alarmant ; • la vascularite urticarienne ; elle est plus chronique et évolue par poussées. L’OAH du nourrisson est considéré par certains comme une variante du purpura rhumatoïde, dont il se distingue cependant par l’âge de survenue, la topographie des lésions, l’absence d’atteinte viscérale et la rareté des dépôts vasculaires d’IgA (1). L’étiologie de l’OAH est inconnue, mais il est souvent précédé par une infection respiratoire haute virale ou bactérienne, une prise de médicaments ou une vaccination. On pense qu’il s’agit d’une affection faisant intervenir des complexes immuns et déclenchée par des agents infectieux. Pronostic. C’est une affection bénigne, l’évolution est rapidement favorable et la guérison survient spontanément en une à 3 semaines (1). Mais d’autres poussées peuvent survenir (9). Notre patiente n’a présenté qu’une seule poussée, qui a régressé après une semaine. Aucun traitement n’est nécessaire, les antihistaminiques et les corticoïdes n’ont pas montré d’efficacité sur les lésions cutanées, mais un traitement symptomatique reste recommandé. 

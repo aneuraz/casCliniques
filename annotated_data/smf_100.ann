@@ -1,0 +1,56 @@
+T1	disorder 13 52	 corps étrangers intra-appendiculaires 
+T2	disorder 299 316	appendice perforé
+T3	procedure 402 418	 appendicectomie
+T4	disorder 484 495	appendicite
+T5	disorder 515 553	corps étranger accidentellement ingéré
+T6	disorder 616 640	 hypertension artérielle
+T7	disorder 647 715	 cardiopathie malformative avec une communication interventriculaire
+T8	disorder 790 800	lombalgies
+T9	disorder 897 912	fébrile à 40 °C
+T10	procedure 1126 1139	 radiographie
+T11	labvalue 1171 1210	corps étranger en fosse iliaque droite 
+T12	disorder 1355 1380	souffle au foyer aortique
+T13	disorder 1402 1513	 palpation sus-pubienne, ainsi qu’une douleur lombaire en regard de L4–L5. Le reste du status est dans la norme
+T14	labvalue 1553 1571	leucocytes à 9 G/l
+T15	labvalue 1578 1593	 CRP à 130 mg/l
+T16	drugs 1691 1722	 co-amoxicilline et gentamycine
+T17	procedure 1740 1752	hémocultures
+T18	labvalue 1739 1773	 hémocultures reviennent positives
+T19	drugs 1826 1837	ceftriaxone
+T20	procedure 1839 1878	L’échocardiographie trans-oesophagienne
+T21	labvalue 1890 1983	communication interventriculaire membraneuse sous-aortique avec un shunt gauche-droite modéré
+T22	labvalue 1998 2026	image suspecte de végétation
+T23	disorder 2099 2150	 douleur abdominale intermittente, sans péritonisme
+T24	procedure 2175 2189	CT-scan montre
+T25	labvalue 2358 2385	 Corps étranger métallique 
+T26	procedure 2448 2460	IRM lombaire
+T27	disorder 2489 2531	 suspicion de spondylodiscite concomitante
+T28	disorder 2715 2726	endocardite
+T29	disorder 2785 2832	spondylodiscite sur bactériémie à Streptococcus
+T30	drugs 2963 2971	laxatifs
+T31	disorder 3195 3206	lombalgies.
+T32	procedure 3212 3222	endoscopie
+T33	labvalue 3245 3291	 corps étranger est visualisé dans l’appendice
+T34	procedure 3345 3358	 laparoscopie
+T35	procedure 3503 3518	appendicectomie
+T36	procedure 3643 3655	L’histologie
+T37	labvalue 3666 3714	 appendicite aigüe focale au niveau de la pointe
+T38	labvalue 3745 3786	 évolution vers une appendicite clinique 
+T39	procedure 3860 3864	’IRM
+T40	labvalue 3895 3929	spondylodiscite au niveau de L3–L4
+T41	drugs 4032 4044	 ceftriaxone
+T42	labvalue 4175 4224	évolution sans complication de la spondylodiscite
+T43	labvalue 4289 4330	récidive d’endocardite six mois plus tard
+T44	procedure 4229 4250	suivi en cardiologie 
+T45	risk 4743 4774	consommation chronique d’alcool
+T46	risk 4779 4807	 comorbidités psychiatriques
+T47	risk 4812 4835	retard de développement
+T48	risk 4840 4889	milieu carcéral et le port de prothèses dentaires
+T49	disorder 6594 6673	 dysphagie, hypersalivation, douleur thoracique ou des symptômes respiratoires 
+T50	disorder 6750 6803	douleurs abdominales, les vomissements, et la fièvre 
+T51	disorder 6957 6988	sensibilité abdominale ­diffuse
+T52	procedure 7514 7525	endoscopie 
+T53	procedure 7567 7593	intervention chirurgicale 
+T54	procedure 7731 7738	CT-scan
+T55	disorder 7829 7863	 localisation intra-appendiculaire
+T56	procedure 8007 8033	 intervention endoscopique

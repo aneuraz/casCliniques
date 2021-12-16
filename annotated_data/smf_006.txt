@@ -1,0 +1,63 @@
+Contexte
+
+Le COVID-19 a une évolution variable et dans les cas ­sévères, il est associé à une mortalité élevée [1]. En règle générale, on part du principe d’une évolution biphasique [2]. Au cours des sept premiers jours, il y a une ­réplication virale élevée avec atteinte pulmonaire, suite à quoi une phase hyperinflammatoire est observée [3]. Des évolutions multiphasiques, comme dans le cas présenté dans cet article, sont également discutées dans la littérature [4]. L’insuffisance rénale aiguë est une complication fréquente du COVID-19. Au niveau ­rénal, des variantes allant d’anomalies urinaires subcliniques jusqu’à l’insuffisance rénale aiguë sont en principe possibles [5]. A cet égard, les facteurs prédictifs défavorables incluent les maladies rénales préexistantes, les évolutions avec insuffisance respiratoire et la nécessité d’une ventilation mécanique [6–9].
+
+Anamnèse
+
+Un patient obèse (indice de masse corporelle de 33 kg/m2) âgé de 63 ans s’est présenté avec de la fièvre, une sensation de faiblesse et des céphalées. Parmi ses antécédents médicaux connus figuraient une hypertension artérielle, une épilepsie et une mutation hétérozygote du gène de la prothrombine, qui avait par le passé été responsable d’une thrombose des sinus veineux avec hémorragie intracérébrale consécutive et était depuis lors traitée par phénprocoumone.
+
+Examen clinique, résultats et diagnostic
+
+La gazométrie artérielle a révélé une insuffisance respiratoire partielle. Les analyses de laboratoire ont montré une lymphopénie et une protéine C réactive (CRP) augmentée. Initialement, la diurèse était préservée. La RT-PCR pour le SARS-CoV-2 réalisée sur frottis nasopharyngé s’est révélée positive. La tomodensitométrie (TDM) thoracique a montré des infiltrats en verre ­dépoli (fig. 1), qui étaient compatibles avec une pneumopathie à COVID-19.
+
+Figure 1: Tomodensitométrie thoracique (coupe axiale) avec opacités (infiltrats) en verre dépoli (flèches) bilatérales typiques dans le cadre d’une pneumopathie à COVID-19.
+
+Traitement et évolution
+
+Le traitement initial a fait appel au remdésivir et à la dexaméthasone. Cette dernière pourrait avoir des effets indésirables considérables au sens d’une survenue ­accrue de co-infections et d’une persistance virale potentielle. Suite à une détérioration respiratoire et à une suspicion de surinfection bactérienne, le traitement a été complété par de l’amoxicilline/acide clavulanique et de la clarithromycine. En raison d’une détérioration subjective et objective (tachypnée de 40/min, tachycardie de 130/min, saturation partielle en oxygène de 7,6 kPa avec un apport d’oxygène de 12 litres), le patient a nécessité une ventilation invasive. L’évolution des paramètres inflammatoires est présentée dans la figure 2.
+
+Compte tenu de l’augmentation des paramètres inflammatoires, l’antibiothérapie a été complétée par de la pipéracilline/tazobactam et de la vancomycine. Suite à une augmentation supplémentaire des paramètres inflammatoires et au développement d’une hépatopathie toxique, la pipéracilline/tazobactam a été remplacée par du méropénème. Du fait de la mise en évidence de Candida albicans, tropicalis et glabratadans les sécrétions trachéales, ce qui est le plus vraisemblablement survenu dans le cadre de l’intubation sur fond d’immunosuppression et de traitement prolongé par antibiotiques à large spectre, un traitement par caspofungine a été initié.
+
+Deux semaines et demie après le diagnostic initial, la ­situation respiratoire s’est à nouveau détériorée, avec une augmentation de la ventilation minute d’environ 7 à 13 l/min, ce qui a été interprété comme s’inscrivant dans le cadre d’une nouvelle réaction hyperinflammatoire associée au COVID-19 (fig. 2). En raison d’un syndrome de détresse respiratoire aiguë (SDRA) consécutif, une glucocorticothérapie prolongée selon le protocole MEDURI [10] a été établie. Les intensivistes ont bénéficié du soutien d’une équipe multidisciplinaire composée de spécialistes en infectiologie, en médecine interne, en pneumologie, en néphrologie et en neurologie.
+
+Figure 2: Evolution des principaux paramètres de laboratoire à l’unité de soins intensifs.
+
+1) Première élévation des paramètres inflammatoires, 1 semaine après le diagnostic initial; 2) deuxième élévation des paramètres inflammatoires, 2 semaines après le diagnostic initial; 3) troisième élévation des paramètres inflammatoires; 4) élévation de la procalcitonine et de la ferritine dans le cadre d’une «troisième phase» prolongée ou d’une «quatrième phase». Les unités ont été adaptées en vue d’une meilleure lisibilité. CRP: protéine C réactive; PCT: procalcitonine.
+
+Quatre semaines après le diagnostic initial et l’évolution nécessitant des soins intensifs, le patient a à nouveau présenté des frissons et une fièvre très élevée. Les analyses de laboratoire ont révélé une élévation de la procalcitonine, qui s’observe dans le cadre d’infections bactériennes, d’infections fongiques, mais aussi d’un «orage cytokinique» [3]. En raison d’une élévation concomitante de la ferritine et des D-dimères avec en parallèle uniquement une légère augmentation de la CRP et sur la base de diverses sérologies, de frottis, d’un lavage broncho-alvéolaire (LBA) et d’autres examens sans mise en évidence d’un agent pathogène, une activité persistante du COVID-19 a été fortement suspectée. Elle se présentait sous la forme d’un nouveau pic de maladie dans le cadre d’une «troisième phase» prolongée ou d’une «quatrième phase» (fig. 2). La sévérité de l’évolution ayant nécessité des soins intensifs est présentée dans la figure 3.
+
+Figure 3: Evolution du score «Sequential Organ Failure Assessment» (SOFA) durant le séjour à l’unité de soins intensifs.
+
+Dans le cadre d’une «deuxième» hépatopathie induite par le méropénème, le patient a développé une encéphalopathie métabolique toxique avec somnolence croissante et myoclonies, qui étaient régressives sous administration de phénytoïne. En raison de la sévérité de la maladie et de la nécessité prolongée de soins ­intensifs et de ventilation, une polyneuropathie et neuromyopathie de réanimation s’est développée; elle était lentement régressive sous physiothérapie. A partir du deuxième jour d’hospitalisation, le patient a nécessité un traitement de substitution rénale (hémofiltration veino-veineuse continue [HVVC], hémodiafiltration [HDF]). Du fait d’un risque hémorragique persistant, une biopsie rénale n’a pas pu être réalisée.
+
+Après une durée totale de neuf semaines, le patient, qui était dans un meilleur état général, avait récupéré sur le plan pulmonaire et était sous dialyse intermittente, a été transféré dans une clinique de réadaptation.
+
+Discussion
+
+L’évolution présentée dans cet article diverge de l’évolution biphasique typique du COVID-19 sévère et concorde bien avec les évolutions alternatives décrites par Siddiqi HK et al. [4]. Ces évolutions étaient caractérisées par:
+
+– une première phase avec fièvre et toux sèche, ainsi que lymphopénie concomitante;
+
+– une deuxième phase avec virémie décroissante, dyspnée et réponse inflammatoire accrue avec ­hypoxie, ainsi qu’élévation des transaminases, infiltrats typiques du COVID-19 et procalcitonine basse;
+
+– une troisième phase avec insuffisance respiratoire aiguë (SDRA), choc septique, insuffisance cardiaque et élévation des marqueurs inflammatoires et cardiaques.
+
+Des divergences par rapport à l’évolution décrite sont possibles, notamment aussi parce qu’une troisième phase peut évoluer en vagues et peut potentiellement déboucher sur un syndrome post-COVID, également connu sous le nom de «COVID long» dans le langage médical populaire [11]. Le terme de COVID long n’est toutefois pas encore suffisamment défini dans la littérature médicale spécialisée.
+
+Les formes sévères de COVID-19 donnent souvent lieu à des atteintes multi-organiques, qui requièrent une ­approche thérapeutique interdisciplinaire [11]. Avant tout la phase hyperinflammatoire s’accompagne d’une élévation typique de la ferritine sérique [12], qui est associée à une progression de la maladie et peut donc être utilisée comme marqueur d’évolution. Grâce à une surveillance de laboratoire étroite, il est possible, en adaptant en conséquence les interventions requises, de réduire le nombre de complications et la mortalité [13].
+
+Notre cas montre qu’une troisième et une quatrième phase de l’infection peuvent se manifester, comme cela a été décrit dans la littérature [4]. Il montre en outre qu’une amélioration clinique et de laboratoire initiale ne protège pas contre les rechutes.
+
+L’insuffisance rénale aiguë est fréquente chez les patients atteints de COVID-19 sévère et elle augmente considérablement la mortalité et la morbidité. Il n’existe pas de traitement spécifique de l’insuffisance rénale aiguë dans le cadre du COVID-19 [14, 15], mais il est possible de recourir de façon symptomatique à des procédés de substitution rénale, comme dans notre exemple de cas. Les auteurs de cette étude décrivent ici principalement une atteinte tubulo-interstitielle sans glycosurie. Dans de plus grandes études, la proportion de patients avec insuffisance rénale aiguë nécessitant une dialyse s’élevait à 5–20% [16]. Une atteinte glomérulaire par le SARS-CoV-2 via une atteinte directe des capillaires glomérulaires au sens d’une ischémie est également possible [17]. La gestion volémique optimale dans le cadre de l’hémofiltration pour insuffisance rénale aiguë dans le contexte d’une insuffisance respiratoire aiguë associée au COVID-19 ou à un syndrome de sepsis est délicate et essentielle [18]. Parmi les mécanismes physiopathologiques potentiels de l’insuffisance rénale aiguë dans le cadre du COVID-19 figurent [5]: atteinte virale directe, ischémie, libération de cytokines associée au virus et activation du complément [19–21], hypercoagulabilité avec formation de micro-thrombi, ainsi que toxicité des médicaments qui sont employés dans le cadre de la maladie. Le SARS-CoV-2 n’infecte pas uniquement les voies respiratoires et les poumons, mais il peut également se propager dans les reins [22, 23], ce qui est bien concevable au vu du contact physiologique permanent du sang avec le tissu rénal. Des études tentent actuellement de déterminer si une cause primaire (due au COVID-19) ou secondaire (associée au ­COVID-19) entre en jeu dans l’insuffisance rénale aiguë [5]. Il n’existe actuellement pas d’anomalies histopathologiques spécifiques ou de procédés thérapeutiques spécifiques pour l’insuffisance rénale associée au ­COVID-19 [5]. L’anomalie histopathologique la plus fréquemment observée dans ce contexte correspond à une nécrose tubulaire aiguë au niveau du tubule proximal [15]. Fait intéressant, des signes de microangiopathie thrombotique ont pu être documentés dans certains cas [24, 25]. La reprise ultérieure de la diurèse a été interprétée en tant que rétablissement potentiel suite à une nécrose tubulaire aiguë dans le cadre du COVID-19 sévère. En fonction de l’évolution ultérieure, une biopsie rénale peut être nécessaire pour des raisons pronostiques, afin de diagnostiquer une glomérulopathie ou une néphropathie alternative. Une nécessité persistante de dialyse suite à une insuffisance rénale aiguë associée au COVID-19 est possible [26]. Les patients avec insuffisance rénale aiguë de stade 3 ou ceux qui nécessitent un traitement de substitution rénale ont un pronostic défavorable, avec une mortalité atteignant jusqu’à 75% [14]. Dans ce contexte, le traitement interdisciplinaire mis en œuvre peut être considéré comme un succès, avec une régression quasi-complète de l’insuffisance respiratoire malgré une nécessité persistante de dialyse.
+
+L’essentiel pour la pratique
+
+• Le COVID-19 a une évolution variable. Des divergences par rapport à l’évolution biphasique classique s’observent.
+
+• Les formes sévères de COVID-19 mobilisent beaucoup de ressources et requièrent une approche interdisciplinaire.
+
+• Les complications rénales sont fréquentes et un traitement de substitution rénale peut devenir nécessaire.
+
+• L’insuffisance respiratoire et la nécessité persistante de dialyse peuvent être des conséquences à long terme du COVID-19 sévère.
+
+• En cas de nécessité persistante de dialyse dans le cadre du COVID-19, des investigations supplémentaires de la maladie rénale, comme par exemple une biopsie rénale, sont nécessaires.

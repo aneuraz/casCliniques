@@ -1,0 +1,226 @@
+T1	procedure 15 23	Anamnèse
+T2	procedure 116 136	gonflement abdominal
+T3	procedure 142 171	œdèmes des membres inférieurs
+T4	procedure 178 191	essoufflement
+T5	risk 310 313	vin
+T6	disorder 351 371	mauvais état général
+T7	disorder 373 388	dénutri et pâle
+T8	disorder 402 408	œdèmes
+T9	disorder 409 431	des membres inférieurs
+T10	disorder 437 452	hypoventilation
+T11	disorder 460 488	matité aux bases pulmonaires
+T12	disorder 496 514	abdomen globuleux 
+T13	disorder 519 544	volumineuse splénomégalie
+T14	procedure 549 557	ultrason
+T15	disorder 603 611	d’ascite
+T16	procedure 632 643	ponctionnée
+T17	procedure 646 665	Examens biologiques
+T18	procedure 689 705	bilan biologique
+T19	labvalue 717 728	bicytopénie
+T20	labvalue 734 744	leucopénie
+T21	labvalue 747 754	3,3 G/l
+T22	labvalue 765 776	neutropénie
+T23	labvalue 779 787	1,16 G/l
+T24	labvalue 791 803	thrombopénie
+T25	labvalue 806 813	121 G/l
+T26	labvalue 819 831	éosinophilie
+T27	labvalue 834 842	0,92 G/l
+T28	labvalue 850 883	perturbation des tests hépatiques
+T29	procedure 885 905	phosphatase alcaline
+T30	labvalue 906 914	227 UI/l
+T31	procedure 916 924	gamma-GT
+T32	labvalue 925 933	190 UI/l
+T33	procedure 935 952	bilirubine totale
+T34	labvalue 953 964	24,1 μmol/l
+T35	procedure 966 986	bilirubine conjuguée
+T36	labvalue 987 998	11,5 μmol/l
+T37	procedure 1000 1013	transaminases
+T38	labvalue 1014 1022	normales
+T39	procedure 1025 1047	L’alpha-foetoproteine 
+T40	procedure 1048 1051	AFP
+T41	labvalue 1059 1067	3,2 µg/l
+T42	procedure 1071 1088	 bilan infectieux
+T43	labvalue 1096 1099	CMV
+T44	labvalue 1101 1104	EBV
+T45	labvalue 1106 1109	HIV
+T46	labvalue 1111 1119	syphilis
+T47	labvalue 1121 1131	hépatite C
+T48	labvalue 1133 1143	hépatite D
+T49	labvalue 1145 1154	parasites
+T50	labvalue 1164 1171	négatif
+T51	disorder 1186 1206	infections anciennes
+T52	disorder 1224 1246	syndrome inflammatoire
+T53	procedure 1258 1294	marqueurs pour une hépatite B active
+T54	labvalue 1306 1314	positifs
+T55	labvalue 1316 1328	antigène HBs
+T56	labvalue 1331 1355	nticorps anti-HBc totaux
+T57	labvalue 1357 1374	anticorps antiHBe
+T58	procedure 1380 1391	virémie HBV
+T59	labvalue 1398 1407	851 UI/ml
+T60	labvalue 1414 1428	4953 copies/ml
+T61	procedure 1434 1452	bilans thyroïdiens
+T62	procedure 1456 1467	auto-immuns
+T63	labvalue 1479 1487	négatifs
+T64	procedure 1494 1522	analyses du liquide d’ascite
+T65	labvalue 1535 1554	gradient d’albumine
+T66	labvalue 1558 1564	19 g/l
+T67	disorder 1583 1603	hypertension portale
+T68	disorder 1605 1608	HTP
+T69	procedure 1614 1635	numération cellulaire
+T70	procedure 1643 1668	analyses microbiologiques
+T71	procedure 1672 1690	cyto-pathologiques
+T72	disorder 1733 1764	péritonite bactérienne primaire
+T73	disorder 1774 1795	carcinose péritonéale
+T74	procedure 1808 1838	Radiographie de thorax de face
+T75	disorder 1912 1937	nodule para-hilaire droit
+T76	disorder 1976 2009	­Epanchements pleuraux bilatéraux
+T77	procedure 2015 2045	radiographie du thorax de face
+T78	disorder 2066 2098	épanchements pleuraux bilatéraux
+T79	disorder 2114 2134	nodule hilaire droit
+T80	procedure 2139 2167	CT thoraco-abdominal injecté
+T81	disorder 2213 2224	cirrhotique
+T82	disorder 2230 2243	lésion focale
+T83	disorder 2247 2273	thrombose veineuse portale
+T84	disorder 2277 2290	sus-hépatique
+T85	disorder 2296 2309	splénomégalie
+T86	disorder 2315 2336	varices œsophagiennes
+T87	disorder 2344 2379	adénopathies pré- et para-aortiques
+T88	disorder 2405 2422	nodule pulmonaire
+T89	disorder 2443 2468	foyer infectieux débutant
+T90	procedure 2490 2515	CT-scan thoraco-abdominal
+T91	disorder 2517 2549	Epanchements pleuraux bilatéraux
+T92	disorder 2555 2566	atélectasie
+T93	disorder 2588 2638	Foyer du segment antérieur du lobe supérieur droit
+T94	disorder 2701 2737	cirrhose hépatique d’origine toxique
+T95	risk 2739 2745	alcool
+T96	disorder 2785 2805	hépatite B chronique
+T97	procedure 2831 2854	surveillance biologique
+T98	disorder 2932 2954	inflammation hépatique
+T99	procedure 2960 2986	ponction biopsie hépatique
+T100	procedure 2988 2991	PBF
+T101	procedure 2993 3007	transjugulaire
+T102	procedure 3094 3111	ponction d’ascite
+T103	drugs 3150 3160	diurétique
+T104	procedure 3273 3276	PBF
+T105	procedure 3434 3437	PBF
+T106	procedure 3443 3493	mesures du gradient de pression veineuse hépatique
+T107	procedure 3496 3528	hepatic venous pressure gradient
+T108	procedure 3532 3536	HVPG
+T109	labvalue 3563 3570	8 mm Hg
+T110	disorder 3593 3613	hypertension portale
+T111	disorder 3632 3635	HTP
+T112	irrelevant 3636 4067	résulte en l’augmentation du gradient de pression entre la pression veineuse hépatique libre («free hepatic venous pressure», pression siégeant au niveau des veines sus-hépatiques) et la pression portale estimée par la mesure de la pression sinusoïdale bloquée («wedge hepatic venous pressure»). Ce gradient doit être inférieur à 5 mm Hg. Une HTP peut être classifiée en étiologies pré-sinusoïdale, sinusoïdale et post-sinusoïdale.
+T113	procedure 4071 4084	 prélèvements
+T114	procedure 4105 4108	PBF
+T115	disorder 4162 4177	hépatite active
+T116	disorder 4187 4196	chronique
+T117	disorder 4214 4221	fibrose
+T118	disorder 4228 4249	foyers inflammatoires
+T119	procedure 4361 4380	examen histologique
+T120	disorder 4414 4425	cirrhotique
+T121	procedure 4492 4517	coloration au rouge Congo
+T122	labvalue 4526 4534	négative
+T123	disorder 4458 4485	atteinte de type alcoolique
+T124	procedure 4600 4603	PBF
+T125	disorder 4653 4667	l’hépatopathie
+T126	procedure 4699 4712	transaminases
+T127	disorder 4803 4839	hypertension portale pré-sinusoïdale
+T128	disorder 4885 4891	ascite
+T129	disorder 4912 4933	splénomégalie massive
+T130	disorder 5016 5025	ascitique
+T131	disorder 5031 5040	anasarque
+T132	disorder 5044 5053	orthopnée
+T133	disorder 5058 5070	épanchements
+T134	disorder 5071 5079	pleuraux
+T135	disorder 5097 5105	d’ascite
+T136	procedure 5111 5122	ponctionnés
+T137	disorder 5219 5227	l’ascite
+T138	procedure 5268 5284	bilan biologique
+T139	procedure 5305 5334	 immunofixation des protéines
+T140	labvalue 5350 5371	hypogammaglobulinémie
+T141	labvalue 5372 5383	polyclonale
+T142	labvalue 5389 5407	diminution des IgG
+T143	labvalue 5410 5415	5 g/l
+T144	labvalue 5421 5424	IgA
+T145	labvalue 5427 5435	0,76 g/l
+T146	labvalue 5443 5446	IgM
+T147	labvalue 5449 5457	0,28 g/l
+T148	procedure 5472 5505	dosage des chaînes légères libres
+T149	labvalue 5524 5536	augmentation
+T150	labvalue 5541 5553	kappa libres
+T151	labvalue 5556 5565	40,5 mg/l
+T152	labvalue 5573 5594	 rapport kappa/lambda
+T153	labvalue 5613 5617	5,16
+T154	labvalue 5635 5672	monoclonalité kappa des lymphocytes B
+T155	procedure 5678 5698	CT thoraco-abdominal
+T156	disorder 5712 5733	épanchements pleuraux
+T157	disorder 5739 5745	ascite
+T158	disorder 5764 5778	splénomé­galie
+T159	procedure 5850 5875	CT-scan thoraco-abdominal
+T160	disorder 5877 5889	Dysmorphisme
+T161	disorder 5893 5917	hétérogénéité hépatiques
+T162	disorder 5931 5950	’hypertension porte
+T163	disorder 5963 5969	ascite
+T164	disorder 5971 5984	Splénomégalie
+T165	labvalue 6020 6027	27,5 cm
+T166	procedure 6034 6051	échocardiographie
+T167	procedure 6052 6068	trans-thoracique
+T168	procedure 6070 6073	ETT
+T169	disorder 6096 6120	péricardite constrictive
+T170	procedure 6126 6145	analyses du liquide
+T171	labvalue 6177 6189	tuberculeuse
+T172	procedure 6242 6268	analyse du liquide pleural
+T173	disorder 6306 6315	malignité
+T174	disorder 6438 6451	splénomégalie
+T175	disorder 6465 6471	ascite
+T176	disorder 6478 6486	cirrhose
+T177	disorder 6513 6537	splenic lymphoma ascitis
+T178	procedure 6797 6818	analyses cytologiques
+T179	labvalue 6863 6892	cellules lymphoïdes atypiques
+T180	disorder 6913 6936	lymphome B de bas grade
+T181	labvalue 6957 6976	50% des lymphocytes
+T182	labvalue 6985 6991	type B
+T183	labvalue 6992 6996	CD5-
+T184	labvalue 6998 7002	CD10
+T185	labvalue 7007 7012	CD23-
+T186	labvalue 7023 7036	monoclonalité
+T187	procedure 7049 7066	PCR-IgH multiplex
+T188	procedure 7099 7115	ponction-biopsie
+T189	procedure 7119 7133	moelle osseuse
+T190	labvalue 7148 7175	 infiltration lymphomateuse
+T191	labvalue 7179 7187	10 à 15%
+T192	labvalue 7218 7226	positifs
+T193	labvalue 7246 7250	CD20
+T194	labvalue 7209 7216	matures
+T195	labvalue 7254 7259	CD79a
+T196	labvalue 7261 7276	marqueurs Pan B
+T197	labvalue 7297 7301	CD25
+T198	labvalue 7305 7310	l’IgM
+T199	labvalue 7336 7339	CD5
+T200	labvalue 7341 7345	CD10
+T201	labvalue 7347 7351	CD23
+T202	procedure 7374 7397	L’immunophénotypisation
+T203	procedure 7402 7425	lymphocytes médullaires
+T204	labvalue 7463 7482	monoclonale B kappa
+T205	labvalue 7484 7489	CD20+
+T206	labvalue 7493 7497	IgM+
+T207	disorder 7516 7534	lymphome splénique
+T208	procedure 7578 7594	immuno-marquages
+T209	labvalue 7706 7719	lymphocytes B
+T210	disorder 7853 7861	lymphome
+T211	disorder 7923 7950	lymphome splénique primaire
+T212	disorder 7977 8013	infiltration hépatique et médullaire
+T213	disorder 8078 8121	hépatite B chronique active non cirrhotique
+T214	drugs 8182 8191	Tenofovir
+T215	labvalue 8211 8222	virémie HBV
+T216	risk 8231 8263	consommation éthylique chronique
+T217	irrelevant 8266 8276;8278 9241;9243 9877;9879 10167;10169 10179;10181 10451	Discussion  L’ascite comme manifestation initiale d’un lymphome splénique n’est pas décrite, mais la splénomégalie massive sur hémopathie est un diagnostic différentiel des hypertensions portales pré-sinusoïdales liée à une hypertension portale non cirrhotique, dont la cause principale est une thrombose porte ou splénique. Il est présumé que le flux et le volume sanguin splénique sont diminués en raison d’une compression sinusoïdale suite à l’expansion lymphomateuse dans les cordons de la pulpe blanche. A la différence d’une hypertension portale due à une cirrhose, la pression sinusoïdale bloquée ne montre pas d’anomalie au niveau des sinusoïdes. Le diagnostic est principalement clinique et posé après exclusion des autres causes d’hypertension portale et notamment après s’être assuré de la perméabilité des veines portales et hépatiques. Une biopsie hépatique doit être réalisée pour exclure la cirrhose et les autres causes d’hypertension portale sinusoïdale [2].  Le lymphome splénique de la zone marginale est une néoplasie du lymphocyte B composée de petits lymphocytes qui entourent et remplacent les centres germinatifs de la pulpe blanche splénique, effacent le manteau folliculaire et fusionnent avec la zone périphérique (marginale) de grandes cellules. Les petits et les plus grands lymphocytes infiltrent la pulpe rouge. Il représente moins de 2% des lymphomes. La plupart des patients sont âgés de plus de 50 ans avec une médiane de 67 ans. Le lymphome implique la rate, les ganglions hilaires spléniques, la moelle osseuse et souvent le sang périphérique. Le foie peut être infiltré [3].  Les patients présentent une splénomégalie, parfois associée à une thrombopénie ou à une anémie auto-immune et à la présence variable de lymphocytes villeux dans le sang. Un tiers des patients ont une gammapathie monoclonale. L’évolution est indolente avec une survie à 10 ans de 67 à 95%.  Traitement  La réponse aux chimiothérapies utilisées dans d’autres lymphomes B de bas degré de malignité est moyenne. Cependant, une réponse hématologique est généralement obtenue par la splénectomie et/ou une immunothérapie de Rituximab, avec d’excellente survie au long terme [4].
+T218	disorder 10468 10489	état général précaire
+T219	drugs 10538 10552	immunothérapie
+T220	drugs 10556 10565	Rituximab
+T221	disorder 10640 10648	d’ascite
+T222	disorder 10727 10740	splénomégalie
+T223	procedure 10747 10759	splénectomie
+T224	procedure 10792 10808	l’immunothérapie
+T225	procedure 10843 10861	lymphome splénique
+T226	irrelevant 10885 10895;10897 11396;11398 11426;11428 11621;11623 11887;11889 12002	Conclusion  Ce case report est intéressant pour le cheminement diagnostic emprunté. Le tableau clinique initial est classique et évoque des diagnostics courants (cirrhose éthylique avec possible composante d’hépatite B). Après une démarche diagnostique standard contredisant notre impression clinique de départ, nous devons reprendre un chemin peu fréquenté qui nous amène finalement à un diagnostic rare dont le traitement séquentiel (hépatite B puis lymphome) permet d’envisager un pronostic plutôt favorable.  L’essentiel pour la pratique  • Il existe de rares cas d’hypertension portale d’origine non cirrhotique et sans atteinte vasculaire veineuse qui doivent être évoqués lorsque le bilan de cirrhose initial n’est pas conclusif.  • En cas de splénomégalie massive, le lymphome splénique doit être recherché soit indirectement (ponction-biopsie médullaire, cytométrie de flux des lymphocytes du sang périphérique, cytologie de l’ascite avec immuno-marqueurs) soit directement (splénectomie) [5].  • Le traitement du lymphome B splénique de la zone marginale est multimodal et le pronostic est plutôt favorable.

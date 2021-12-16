@@ -1,0 +1,56 @@
+Contexte
+
+Nous présentons le cas d’un patient de 54 ans souffrant d’une dyspnée dans le cadre d’un épanchement pleural unilatéral massif sans ascite en tant que primo-manifestation inhabituelle d’une cirrhose hépatique nouvellement diagnostiquée au cours de l’évolution.
+
+Présentation du cas
+Anamnèse
+
+Un patient de 54 ans nous a été adressé en raison d’une dyspnée et d’une orthopnée progressives présentes ­depuis 1 semaine, sans fièvre, douleurs ou toux. L’anamnèse a révélé une hypercholestérolémie, une ­hypertension artérielle, une humeur dépressive, ainsi qu’une consommation de nicotine et d’alcool (trois verres de bière par jour). Une spondylodèse des vertèbres cervicales (C) 6/7 et de la C7/Th1 avait été réalisée après une discectomie il y a des années de cela. Le traitement médicamenteux se composait de rosuvastatine, d’olmésartan, d’amlodipine, d’hydrochlorothiazide et de paroxétine.
+
+Statut
+
+Lors de l’examen clinique, le patient était afébrile et légèrement tachycarde (fréquence cardiaque 106/min), avec une saturation en oxygène réduite (86% en air ­ambiant). Le patient présentait des bruits respiratoires fortement diminués du côté droit, ainsi qu’une hyposonorité à la percussion sur l’ensemble du poumon. Les veines du cou n’étaient pas congestionnées, et un œdème de la jambe n’a pas été détecté.
+
+Résultats
+
+La radiographie thoracique a montré une opacité complète du poumon droit (blanc) due à un épanchement pleural marqué (fig. 1).
+
+Figure 1: Radiographie thoracique avec opacité complète du poumon droit dans le cadre d’un épanchement.
+
+Les paramètres inflammatoires des analyses de laboratoire étaient normaux. Les valeurs hépatiques, légèrement accrues (ALT 43 U/l, AST 59 U/l, AP 173 U/l et γ-GT 259 U/l), ont été évaluées en lien avec la consommation d’alcool. Les analyses de laboratoire n’ont pas fourni d’indices suggérant une hépatopathie avancée (albumine 37 g/l, bilirubine 12 μmol/l, INR 1,1 et thrombocytes 196 G/l).
+
+Une ponction pleurale diagnostique et thérapeutique de 3,6 litres de liquide jaune paille a alors été réalisée. Dans le cadre d’une première ponction, le liquide pleural était classé en tant qu’exsudat (⅓ des critères de Light positifs avec LDH à 185 U/l dans l’épanchement et à 333 U/l dans le sérum, et protéines à 45 g/l dans l’épanchement et à 70 g/l dans le sérum). Dans le cadre d’une deuxième ponction réalisée plus tard, l’épanchement correspondait à un transsudat (protéines dans l’épanchement toujours à 35 g/l, albumine à 21 g/l). Le nombre de cellules était de 694/μl, dont 28 cellules polynucléaires/μl. L’évaluation cytopathologique n’a pas mis en évidence de cellules malignes. La culture était sans croissance bactérienne.
+
+La tomodensitométrie (TDM) du thorax n’a pas révélé d’indices suggérant des altérations parenchymateuses ou une embolie pulmonaire. La sérologie relative aux causes immunologiques ou rhumatismales était négative. L’échocardiographie ne présentait pas d’anomalie, et surtout, elle ne présentait pas d’indices évocateurs d’une insuffisance cardiaque. L’échographie abdominale n’a pas montré d’ascite, mais elle a clairement indiqué des altérations du foie (notamment: parenchyme hépatique hétérogène, raréfaction des veines hépatiques, hypertrophie du lobe caudé, voir fig. 2 et 3). Une splénomégalie de 15 cm a également été observée. L’endoscopie a permis de confirmer une hypertension portale avec la mise en évidence de varices œsophagiennes de grade 2.
+
+Figure 2: Echographie du foie présentant une hypertrophie du lobe caudé.
+
+Figure 3: Echographie du foie avec épanchement pleural à droite.
+
+Diagnostic
+
+Compte tenu de la consommation accrue d’alcool (qui était encore plus marquée dans le passé), du coefficient de De Ritis (rapport AST/ALT) >1 et de la sérologie négative pour l’hépatite B et l’hépatite C, nous avons estimé que la cirrhose hépatique était d’origine éthylique. Malgré l’absence d’ascite, l’épanchement pleural renvoie donc à un hydrothorax hépatique en tant que primo-manifestation rare de la cirrhose hépatique. Aucun signe d’empyème spontané bactérien n’a été trouvé.
+
+Traitement et évolution
+
+Nous avons initié un traitement diurétique par spironolactone et torasémide. Du carvédilol a été employé pour la réduction médicamenteuse de la pression de la veine porte. Au cours de l’évolution, des ligatures ont été réalisées sur les varices œsophagiennes dans le cadre d’une prophylaxie primaire. L’urgence d’une abstinence alcoolique a été expliquée au patient. En appliquant ces mesures, l’épanchement pleural s’est par chance totalement résorbé et les diurétiques ont pu être réduits.
+
+Discussion
+
+L’hydrothorax hépatique est défini comme un épanchement pleural (>500 ml) chez les patients atteints de cirrhose hépatique avec hypertension portale sans signes de maladie cardio-pulmonaire sous-jacente [1]. Entre 5 et 10% des patients atteints de cirrhose hépatique développent un hydrothorax hépatique avec le temps [1], mais qui s’accompagne généralement d’une ascite. L’hydrothorax hépatique sans ascite est quant à lui extrêmement rare; seuls quelques cas ont été ­décrits [2]. La pose du diagnostic de cirrhose hépatique sur la base d’un hydrothorax hépatique sans ascite n’a encore ­jamais été décrite à notre connaissance.
+
+L’hydrothorax hépatique survient du côté droit dans 85% des cas, du côté gauche dans 13% des cas et des deux côtés dans 2% des cas [1]. Sa pathogenèse n’est pas entièrement élucidée. De petites brèches diaphragmatiques (la plupart du temps <1 cm, mais parfois uniquement microscopiques) congénitales ou acquises situées notamment dans la région du centre tendineux sont ­tenues pour responsables de la formation d’un hydrothorax hépatique. Suite à la pression inspiratoire négative, l’ascite pénètre dans la cavité pleurale via ces brèches [3]. Etant donné que la partie gauche du diaphragme est bien plus épaisse, ces défauts surviennent bien plus fréquemment du côté droit, ce qui explique pourquoi l’hydrothorax unilatéral survient généralement du côté droit. Sur le plan clinique, l’hydrothorax hépatique se manifeste typiquement par une dyspnée, une toux non productive, des douleurs pleurétiques, ainsi qu’une fatigue. Les patients présentent aussi fréquemment une distension abdominale en raison de l’ascite.
+
+La pose du diagnostic implique la mise en évidence ­radiologique de l’épanchement ainsi que l’exclusion d’une autre cause possible (en règle générale au moyen d’une échocardiographie et d’une TDM du thorax). La ponction pleurale avec analyse microbiologique et cytologique occupe une place centrale dans le diagnostic. Concernant l’épanchement, il s’agit typiquement d’un transsudat avec une faible concentration de protéines (<25 g/l) et un gradient albumine sérique albumine pleurale élevé (>11 g/l) [3], la concentration d’albumine et de protéines étant toutefois souvent un peu plus élevée dans le liquide pleural que dans l’ascite [4]. Des exsudats peuvent toutefois également être présents dans des situations non compliquées. De la même façon que pour une péritonite bactérienne spontanée, un empyème spontané bactérien peut également se former [4]. On parle d’empyème spontané bactérien en cas de mise en évidence de >500 granulocytes/μl ou en présence de cultures positives et de mise en évidence de >250 granulocytes/μl, une pneumonie faisant défaut dans les deux cas. Le traitement consiste en premier lieu en l’administration de diurétiques; comme pour l’ascite, les antagonistes de l’aldostérone sont employés en première ligne. Les grandes quantités de liquide d’épanchement persistantes nécessitent parfois des ponctions thérapeutiques répétées. En cas d’évolution réfractaire au traitement, la pose d’un shunt ­intrahépatique par voie transjugulaire (TIPS) ou une transplantation hépatique doivent être envisagées. Seulement si le patient n’est pas éligible à l’une de ces options, une pleurodèse au talc ou une thoracoscopie avec fermeture des brèches diaphragmatiques peuvent, dans des cas exceptionnels, être prises en considération [5]. La pose d’un drain thoracique est contre-indiquée, car cette approche favorise la production d’ascite et peut renforcer un trouble électrolytique.
+
+L’essentiel pour la pratique
+
+• Une cirrhose hépatique peut s’accompagner d’un épanchement pleural pertinent, un hydrothorax hépatique.
+
+• Dans de rares cas, un hydrothorax hépatique peut également survenir sans ascite.
+
+• L’hydrothorax hépatique survient typiquement du côté droit, et l’épanchement est le plus souvent un transsudat.
+
+• Comme pour l’ascite, le traitement consiste en premier lieu en l’administration d’antagonistes de l’aldostérone.
+
+• En cas de drainages répétés malgré le traitement par diurétiques, un shunt intrahépatique par voie transjugulaire (TIPS) ou une transplantation hépatique doivent être envisagés.

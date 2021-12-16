@@ -1,0 +1,133 @@
+T1	disorder 105 121	crises nocturnes
+T2	disorder 127 146	perte de conscience
+T3	disorder 194 216	 sensation de pression
+T4	disorder 222 244	 réplétion abdominales
+T5	disorder 293 299	 vomir
+T6	disorder 345 354	aréactive
+T7	disorder 520 525	crise
+T8	disorder 604 616	désorientée 
+T9	disorder 671 681	épuisement
+T10	disorder 712 735	courbatures musculaires
+T11	disorder 770 779	épilepsie
+T12	disorder 849 868	perte de conscience
+T13	disorder 875 895	 troubles abdominaux
+T14	disorder 1151 1166	perte de selles
+T15	disorder 1230 1244	fuites d’urine
+T16	disorder 1384 1394	épilepsie 
+T17	disorder 1454 1473	crises épileptiques
+T18	drugs 1536 1552	acide valproïque
+T19	drugs 1554 1562	Depakine
+T20	drugs 1748 1774	traitement antiépileptique
+T21	disorder 1888 1895	crises 
+T22	profession 1961 1972	 neurologue
+T23	procedure 1988 2011	électroencéphalogrammes
+T24	procedure 2013 2016	EEG
+T25	disorder 2138 2174	convulsions cloniques des extrémités
+T26	profession 2179 2189	neurologue
+T27	disorder 2228 2249	grand mal épileptique
+T28	drugs 2295 2308	lévétiracétam
+T29	drugs 2310 2316	Keppra
+T30	disorder 2471 2503	 sensation de pression gastrique
+T31	disorder 2523 2530	nausées
+T32	disorder 2548 2560	vomissements
+T33	disorder 2599 2609	encoprésie
+T34	disorder 2670 2676	pâleur
+T35	disorder 2677 2690	 hypotension 
+T36	procedure 2691 2734	pression artérielle au niveau du bras droit
+T37	labvalue 2736 2747	98/53 mm Hg
+T38	labvalue 2762 2773	89/48 mm Hg
+T39	procedure 2775 2780	pouls
+T40	labvalue 2781 2787	76/min
+T41	procedure 2790 2801	Température
+T42	labvalue 2805 2812	37,2 °C
+T43	disorder 2894 2914	morsure de la langue
+T44	procedure 2963 2983	électrocardiogramme 
+T45	procedure 2984 2988	ECG)
+T46	procedure 3099 3113	intervalle QTc
+T47	labvalue 3114 3120	normal
+T48	labvalue 3122 3128	437 ms
+T49	disorder 3157 3170	Hypokaliémie 
+T50	labvalue 3171 3181	3,2 mmol/l
+T51	disorder 3184 3197	neutrophilie 
+T52	labvalue 3198 3201	92%
+T53	labvalue 3246 3262	légère élévation
+T54	procedure 3269 3291	créatine kinase totale
+T55	procedure 3293 3299	CK-NAC
+T56	labvalue 3301 3308	233 U/l
+T57	procedure 3386 3398	surveillance
+T58	procedure 3400 3414	réhydratation 
+T59	drugs 3436 3445	potassium
+T60	drugs 3459 3486	 traitement antiépileptique
+T61	drugs 3491 3504	lévétiracétam
+T62	disorder 3906 3915	aréactive
+T63	procedure 3995 4012	paramètres vitaux
+T64	labvalue 4044 4051	normaux
+T65	procedure 4099 4125	 surveillance télémétrique
+T66	procedure 4127 4130	ECG
+T67	procedure 4132 4150	oxymétrie de pouls
+T68	procedure 4152 4171	pression artérielle
+T69	disorder 4248 4257	asystolie
+T70	disorder 4287 4300	inconsciente 
+T71	procedure 4418 4421	ECG
+T72	procedure 4489 4520	enregistrement ECG télémétrique
+T73	disorder 4564 4586	bradycardie croissante
+T74	disorder 4673 4684	 asystolie 
+T75	disorder 4600 4667	bloc AV de 2e et 3e degré sans rythme de substitution ventriculaire
+T76	procedure 4942 4967	vidéo-EEG de longue durée
+T77	procedure 5057 5070	IRM crânienne
+T78	procedure 5217 5242	vidéo-EEG de longue durée
+T79	disorder 5305 5320	anomalie focale
+T80	disorder 5284 5293	’épilepsi
+T81	drugs 5371 5385	 lévétiracétam
+T82	procedure 5454 5457	ECG
+T83	disorder 5495 5524	bradycardies asymptomatiques 
+T84	disorder 5551 5571	bloc AV de 1er degré
+T85	procedure 5580 5582	PQ
+T86	labvalue 5583 5589	210 ms
+T87	disorder 5649 5672	asystolie symptomatique
+T88	procedure 5717 5736	bilan cardiologique
+T89	procedure 5743 5761	échocardiographie 
+T90	procedure 5766 5770	IRM 
+T91	disorder 5786 5811	cardiopathie structurelle
+T92	procedure 5833 5841	examens 
+T93	disorder 5886 5906	sarcoïdose cardiaque
+T94	disorder 5913 5946	résidus d’une myocardite ancienne
+T95	procedure 5951 5960	sérologie
+T96	procedure 5970 5978	Borrelia
+T97	labvalue 5985 5993	négative
+T98	disorder 6007 6040	 bloc AV de 3e degré intermittent
+T99	disorder 6049 6058	asystolie
+T100	procedure 6094 6164	 stimulateur cardiaque implantable double chambre à fréquence asservie
+T101	disorder 6388 6411	palpitations cardiaques
+T102	disorder 6413 6433	perte de conscience 
+T103	disorder 6436 6466	convulsions des quatre membres
+T104	drugs 6613 6626	lévétiracétam
+T105	disorder 6777 6808	 état général légèrement réduit
+T106	disorder 6815 6824	tremblait
+T107	disorder 6843 6852	tachypnée
+T108	procedure 6858 6875	paramètres vitaux
+T109	labvalue 6884 6892	stables 
+T110	procedure 6978 7006	enregistrement ECG nocturne 
+T111	disorder 7041 7076	arrêt de l’activité du nœud sinusal
+T112	disorder 7161 7197	altération morphologique de l’onde P
+T113	disorder 7211 7238	bloc AV de plus haut degré 
+T114	disorder 7239 7267	perte d’un seul complexe QRS
+T115	irrelevant 7794 8411;8413 8920;8922 9314;9316 9739;9741 10027;10029 10684;10686 11711;11713 12184;12186 12410	Un lien intéressant entre les arythmies et l’épilepsie a été découvert dans des études, qui ont identifié un trouble des canaux ioniques comme étant une prédisposition génétique moléculaire singulière pour ces deux entités [1]. Ainsi, plusieurs gènes codant pour le syndrome du QT long montrent une double expression dans le cœur et le cerveau, et potentiellement aussi dans les cellules nerveuses autonomes. Les patients souffrant d’un syndrome du QT long présentent une incidence élevée de crises épileptiques. Ainsi, un seul mécanisme pourrait expliquer le lien entre l’épilepsie, l’arythmie et la mort subite [1].  En 1906, il a été décrit pour la première fois que les crises épileptiques pouvaient influencer la fonction cardiaque autonome [3]. Les arythmies les plus fréquemment associées aux crises épileptiques sont les tachycardies sinusales, qui surviennent dans plus de 90% des crises épileptiques et sont le plus souvent inoffensives. Les bradyarythmies potentiellement fatales associées aux crises d’épilepsie sont regroupées sous le terme «syndrome de bradycardie comitiale» ou «ictal bradycardia syndrome» [4].  Une recherche dans la littérature des cas de bradyarythmies induites par l’épilepsie pour la période de 1906 à 2013 a permis d’identifier 11 cas avec bloc AV, dont neuf avec bloc AV de 3e degré [5]. Dans cinq de ces cas, le bloc AV était suivi d’une asystolie. Chez tous les patients, une épilepsie focale en était à l’origine, et les blocs AV sont survenus durant des crises non convulsives.  Fergus et al. [11] ont conduit une étude chez 20 patients avec épilepsie connue et enregistreur d’évènement implanté, et ont ainsi pu enregistrer le rythme cardiaque sur une période d’observation de 220 000 heures durant au total 377 crises d’épilepsie. Ils ont trouvé des bradycardies inférieures à 40/min. chez sept de ces patients et dans 2,1% des crises, avec des asystolies potentiellement fatales chez trois patients.  Altenmüller et. al. [10] ont décrit un cas pratiquement analogue au nôtre avec bloc AV complet et asystolie, dans lequel le foyer épileptique a pu être localisé dans le lobe temporal à l’EEG et la bradyarythmie a pu être reproduite par stimulation externe de cette zone du cerveau [10].  Schule et al. ont comparé des patients avec asystolie ictale et des patients avec asystolie d’origine vasovagale et ne sont pas parvenus à détecter des différences rythmologiques entre les deux groupes [6]. Les auteurs partent du principe que les deux types d’asystolie sont la conséquence de la stimulation des centres réflexes médullaires, qui sont responsables d’une forte augmentation temporaire du tonus vagal. Ils considèrent dès lors que l’implantation d’un stimulateur cardiaque n’est pas indiquée en cas d’asystolies ictales, étant donné qu’il s’agit d’un mécanisme auto-limitant qui cesse spontanément, comme pour les asystolies vasovagales [6].  Même si cette hypothèse s’avérait exacte et même si l’asystolie passagère n’est pas directement responsable d’un risque de mortalité accrue, les syncopes qu’elle occasionne peuvent être à l’origine d’accidents, par ex., et ainsi représenter une mise en danger pour les patients concernés. C’est ce que suggère également une analyse rétrospective de Moseley et al., qui a montré une réduction significative du nombre de chutes et de la morbidité après l’implantation d’un stimulateur cardiaque chez sept patients avec syncopes ictales [7]. Cet aspect joue un rôle dans la mesure où l’implantation d’un ­stimulateur cardiaque est en soi associée à une morbidité à court et à long terme accrue [8], de sorte qu’une évaluation du rapport bénéfice-risque est avant tout essentielle chez les patients jeunes. Des observations à long terme montrent néanmoins qu’après l’implantation d’un stimulateur cardiaque, les patients sans comorbidités supplémentaires ont une espérance de vie comparable à celle de la population générale [9].  Lorsqu’une syncope est interprétée comme étant d’origine épileptique (comme dans notre cas, sur la base de la présentation et de l’anamnèse de la patiente), il convient de ne pas passer à côté d’autres causes, telles que des arythmies cardiogéniques primaires potentiellement fatales. D’un autre côté, une épilepsie peut aussi être diagnostiquée à tort comme une syncope cardiaque, lorsque des bradyarythmies graves surviennent en tant que conséquence de l’épilepsie [2].  Ce cas montre à quel point il peut être difficile de faire la distinction entre une syncope convulsive liée à une asystolie et une asystolie ictale. L’enregistrement EEG/ECG combiné durant une telle crise apporte la réponse.
+T116	irrelevant 7421 7431;7433 7792	Discussion  Les troubles du rythme cardiaque associés à l’épilepsie ne sont pas rares et ils sont soupçonnés être une cause majeure de morts subites inexpliquées chez les patients épileptiques («sudden unexpected death in epilepsy» [SUDEP]). Ces SUDEP concernent 0,5–1% des patients épileptiques par année et représentent la principale cause de décès de ces patients [1].
+T117	disorder 12516 12537	induction vagotonique
+T118	disorder 12746 12756	vagotonie 
+T119	disorder 12823 12848	enregistrement vidéo-EEG 
+T120	drugs 13002 13015	lévétiracétam
+T121	disorder 13032 13053	 pertes de conscience
+T122	irrelevant 14788 14816;14818 15027;15029 15308;15310 15458;15460 15711;15713 15986	L’essentiel pour la pratique  • En cas de crises épileptiques avec altération de la conscience, il convient aussi toujours de songer à un trouble du rythme cardiaque dans le cadre du diagnostic différentiel, même en cas d’épilepsie connue.  • Les patients doivent être activement interrogés quant à la présence de symptômes cardiaques entre les crises, et il faut tenter de faire la distinction entre les arythmies ictales et les arythmies cardiogéniques primaires, car à la fois le traitement et le pronostic divergent.  • La principale méthode diagnostique est l’enregistrement EEG-ECG de longue durée, même si cet examen ne permet pas toujours de déterminer la cause.  • En cas d’arythmies cardiogéniques, l’administration d’antiépileptiques sans traiter la maladie sous-jacente peut avoir des conséquences fatales. En cas d’arythmies ictales, le traitement antiépileptique représente la principale mesure thérapeutique.  • Il n’est pas clairement déterminé si un traitement par stimulateur cardiaque améliore le pronostic des patients avec bradyarythmies épileptogènes. Des études observationnelles ont montré que les stimulateurs cardiaques permettaient de réduire les blessures et les chutes.
+T123	irrelevant 13380 13805	Dans le doute, il convient de traiter à la fois le trouble du rythme cardiaque (ici avec un stimulateur cardiaque) et l’épilepsie avec un antiépileptique à une dose suffisante. Si de nouvelles crises devaient malgré tout encore survenir et si une intensification du traitement antiépileptique s’avérait inefficace, il faudrait évaluer si une chirurgie de l’épilepsie pourrait améliorer ces situations potentiellement fatales.
+T124	procedure 13840 13880	implantation d’un stimulateur cardiaque 
+T125	disorder 13907 13916	syncopes 
+T126	disorder 13929 13938	asystolie
+T127	drugs 14017 14043	traitement antiépileptique
+T128	disorder 14134 14153	perte de conscience
+T129	disorder 14157 14178	convulsions cloniques
+T130	procedure 14244 14283	implantation d’un stimulateur cardiaque
+T131	disorder 14317 14329	 bradycardie
+T132	drugs 14348 14361	lévétiracétam
+T133	procedure 14519 14525	genèse

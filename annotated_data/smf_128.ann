@@ -1,0 +1,138 @@
+T1	disorder 99 142	exacerbation aiguë de lombalgies chroniques
+T2	disorder 226 234	douleurs
+T3	disorder 551 573	déficits neurologiques
+T4	disorder 608 629	symptômes d’infection
+T5	disorder 644 650	fièvre
+T6	disorder 686 700	perte de poids
+T7	disorder 707 723	sueurs nocturnes
+T8	disorder 772 802	insuffisance rénale chronique 
+T9	disorder 827 865	­fibrillation auriculaire paroxystique
+T10	procedure 935 954	pression artérielle
+T11	labvalue 957 970	 178/88 mm Hg
+T12	procedure 987 1002	examen physique
+T13	disorder 1016 1068	douleur à la percussion au niveau du rachis lombaire
+T14	disorder 1092 1114	déficits neurologiques
+T15	procedure 1150 1173	analyses de laboratoire
+T16	disorder 1189 1220	anémie macrocytaire normochrome
+T17	procedure 1230 1241	hémoglobine
+T18	labvalue 1250 1257	89 g/l 
+T19	labvalue 1341 1348	324 g/l
+T20	procedure 1290 1340	concentration corpusculaire moyenne en hémoglobine
+T21	labvalue 1282 1288	101 fl
+T22	procedure 1258 1281	volume globulaire moyen
+T23	procedure 1355 1386	paramètres de rétention rénale 
+T24	labvalue 1396 1402	accrus
+T25	labvalue 1415 1425	355 μmol/l
+T26	labvalue 1432 1443	22,4 mmol/l
+T27	procedure 1427 1431	urée
+T28	procedure 1404 1414	créatinine
+T29	procedure 1452 1475	valeurs inflammatoires 
+T30	labvalue 1475 1485	augmentées
+T31	disorder 1507 1515	fracture
+T32	procedure 1520 1555	 radiographie conventionnelle du RL
+T33	disorder 1684 1725	discret décalage dans la région du sacrum
+T34	disorder 1829 1860	spondylarthrose prononcée du RL
+T35	disorder 1868 1878	ostéopénie
+T36	procedure 1908 1926	tomodensitométrie 
+T37	procedure 1927 1930	TDM
+T38	disorder 1972 1986	fracture aiguë
+T39	disorder 2042 2085	altérations érosives des plaques terminales
+T40	disorder 2093 2162	épaississements des tissus mous au niveau discal dans la région L5/S1
+T41	disorder 2191 2207	spondylodiscite 
+T42	disorder 2222 2278	fracture transversale subaiguë non consolidée du sacrum 
+T43	disorder 2419 2442	transition lombo-sacrée
+T44	procedure 2446 2449	TDM
+T45	disorder 2470 2514	altérations érosives des plaques terminales 
+T46	procedure 2566 2569	IRM
+T47	disorder 2730 2762	érosions des plaques terminales 
+T48	disorder 2794 2821	 altérations inflammatoires
+T49	disorder 2848 2865	 spondylodiscite,
+T50	procedure 2900 2933	imagerie par résonance magnétique
+T51	procedure 2935 2938	IRM
+T52	disorder 3062 3099	collection liquidienne paravertébrale
+T53	disorder 3195 3211	 spondylodiscite
+T54	disorder 3232 3247	 signes d’abcès
+T55	irrelevant 3250 3407;3410 3465;3467 3503;3505 3582;3584 3602;3604 3649	Question 1: Qu’est-ce qui ne fait pas partie de la prise en charge initiale correcte d’un patient cliniquement stable en cas de suspicion de spondylodiscite?   a) Anamnèse approfondie relative aux facteurs de risque  b) Prélèvement de 2 x 2 hémocultures  c) Initiation d’une antibiothérapie par amoxicilline/acide ­clavulanique i.v.  d) IRM rachidienne  e) Planification d’une biopsie guidée par TDM
+T56	procedure 3731 3743	hémocultures
+T57	procedure 3752 3769	 culture urinaire
+T58	disorder 3793 3818	 dissémination hématogène
+T59	procedure 3822 3830	anamnèse
+T60	disorder 4213 4221	afébrile
+T61	drugs 4292 4308	antibiothérapie 
+T62	procedure 4341 4349	biopsie 
+T63	procedure 4354 4417	culture des altérations inflammatoires dans la région lombaire 
+T64	procedure 4498 4521	ponction guidée par TDM
+T65	disorder 4572 4612	état clinique du patient s’est détérioré
+T66	disorder 4655 4680	maux de dos immobilisants
+T67	drugs 4717 4731	 hydromorphone
+T68	procedure 4849 4871	valeurs inflammatoires
+T69	labvalue 4822 4844	 augmentation continue
+T70	labvalue 4927 4936	376 mg/l 
+T71	procedure 4903 4906	CRP
+T72	procedure 4881 4902	 protéine C réactive 
+T73	procedure 4943 4954	leucocytose
+T74	labvalue 4958 4966	18,6 G/l
+T75	procedure 4981 4994	hémocultures 
+T76	disorder 5166 5181	spondylodiscite
+T77	procedure 5233 5255	biopsie guidée par TDM
+T78	procedure 5295 5323	biopsie chirurgicale ouverte
+T79	irrelevant 5326 5416;5419 5435;5437 5453;5455 5470;5472 5496;5498 5522	Question 2: Quel est l’agent pathogène le plus fréquent de la spondylodiscite infectieuse?   a) Streptocoques  b) Mycobactéries  c) Candida spp.  d) Staphylococcus aureus  e) Escherichia (E.) coli
+T80	procedure 5533 5540	biopsie
+T81	drugs 5576 5588	amoxicilline
+T82	drugs 5589 5608	acide clavulanique 
+T83	disorder 5687 5714	spondylodiscite infectieuse
+T84	disorder 5716 5737	Staphylococcus aureus
+T85	procedure 5902 5924	valeurs inflammatoires
+T86	labvalue 5927 5934	 baisse
+T87	procedure 6084 6089	 PCR 
+T88	labvalue 6163 6171	négative
+T89	disorder 6178 6186	douleurs
+T90	procedure 6243 6258	antibiothérapie
+T91	disorder 6294 6332	 gonflement douloureux du genou gauche
+T92	disorder 6336 6371	articulation était légèrement rouge
+T93	disorder 6423 6447	 ballottement patellaire
+T94	procedure 6479 6490	échographie
+T95	disorder 6533 6544	épanchement
+T96	irrelevant 6547 6618;6621 6721;6723 6749;6751 6776;6778 6791;6793 6866	Question 3: A quel diagnostic différentiel songez-vous en premier lieu?   a) Spondylodiscite causée par un agent pathogène résistant avec dissémination septique (gonarthrite)  b) Spondylite tuberculeuse  c) Ostéochondrite érosive  d) Brucellose  e) Arthrite à cristaux de pyrophosphate de calcium dihydraté (CPPD) du RL
+T97	disorder 6886 6915	inflammation du genou gauche 
+T98	disorder 6954 6972	arthrite septique 
+T99	disorder 7040 7049	 ponction
+T100	disorder 7190 7202	gonarthrite 
+T101	labvalue 7161 7173	très élevées
+T102	procedure 7138 7160	valeurs inflammatoires
+T103	procedure 7229 7246	cultures stériles
+T104	procedure 7303 7306	CRP
+T105	labvalue 7324 7336	très élevées
+T106	procedure 7312 7324	 leucocytes 
+T107	disorder 7404 7432	 spondylodiscite infectieuse
+T108	disorder 7464 7500	arthropathie cristalline rachidienne
+T109	disorder 7595 7606	gonarthrite
+T110	disorder 7671 7704	arthrite aiguë à cristaux de CPPD
+T111	procedure 7781 7795	biopsies du RL
+T112	procedure 7801 7855	examen microscopique des biopsies en lumière polarisée
+T113	disorder 7959 7992	arthrite aiguë à cristaux de CPPD
+T114	disorder 7998 8012	atteinte du RL
+T115	disorder 8016 8034	gonarthrite gauche
+T116	procedure 8046 8076	 Biopsie avec cristaux de CPPD
+T117	irrelevant 8088 8200;8203 8263;8265 8278;8280 8325;8327 8355;8357 8379	Question 4: Qu’est-ce qui ne fait pas partie des options thérapeutiques établies en cas d’arthrite aiguë à CPPD?   a) Injection intra-articulaire de corticoïde (triamcinolone)  b) Colchicine  c) Anti-inflammatoires non stéroïdiens (AINS)  d) Prednisone par voie orale  e) Gouttes de tramadol
+T118	drugs 8420 8424	AINS
+T119	drugs 8434 8445	colchicine 
+T120	disorder 8454 8480	insuffisance rénale sévère
+T121	procedure 8504 8519	corticothérapie
+T122	procedure 8672 8694	valeurs inflammatoires
+T123	labvalue 8645 8656	 diminution
+T124	procedure 8720 8729	imagerie 
+T125	procedure 8730 8733	IRM
+T126	disorder 8768 8796	 spondylodiscite infectieuse
+T127	disorder 8803 8825	ostéochondrite érosive
+T128	disorder 8833 8860	arthrite à cristaux de CPPD
+T129	disorder 9027 9042	arthrite à CPPD
+T130	disorder 9050 9076	goutte au niveau du rachis
+T131	disorder 9209 9241	arthropathie à cristaux de CPPD 
+T132	disorder 9329 9357	arthrite à cristaux de CPPD 
+T133	disorder 9405 9420	dépôts de CPPD 
+T134	disorder 9435 9444	arthroses
+T135	disorder 9507 9548	cristaux de CPPD dans le liquide synovial
+T136	irrelevant 9571 9970	Toutefois, la détection sur des coupes standard colorées à l’hémalun-éosine se ­révèle souvent difficile, dépendant de l’expérience de l’examinateur. Une meilleure sensibilité et spécificité peuvent être obtenues avec des colorations alternatives non aqueuses (NAES, «nonaqueous alcoholic eosin staining»). En outre, une lumière polarisée doit être utilisée pour voir les cristaux biréfringents [3].
+T137	irrelevant 9972 10264;10266 10358;10361 10405;10407 10448;10450 10458;10460 10487;10489 10519	L’arthrite aiguë à CPPD peut se manifester par des symptômes non spécifiques, tels que la fièvre, une sensation de malaise prononcée et un état inflammatoire, si bien qu’elle représente un diagnostic différentiel de la pseudopolyarthrite rhizomélique, en particulier chez les sujets âgés [2].  Question 5: Quel est le site de manifestation le plus fréquent d’une chondrocalcinose aiguë?   a) Rachis cervical («crowned dens syndrome»)  b) Articulation de la base du gros orteil  c) Genou  d) Articulation de l’épaule  e) Articulation de la mâchoire
+T138	irrelevant 10521 11017;11019 11028;11031 11105	Le site de manifestation le plus fréquent de l’arthrite ­aiguë à CPPD est le genou. Au niveau du rachis, l’articulation atlanto-axoïdienne est dans la plupart des cas touchée. Les dépôts de CPPD localisés à cet endroit se tradui­sent à la TDM par un tableau typique de «dent couronnée» («crowned dens syndrome»). Ils s’accompagnent de fortes douleurs cervicales, parfois de fièvre et de valeurs inflammatoires très élevées. Une manifestation au niveau du RL est également possible, mais rare [4].  Réponses:   Question 1: c. Question 2: d. Question 3: e. Question 4: e. Question 5: c.

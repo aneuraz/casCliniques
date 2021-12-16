@@ -1,0 +1,35 @@
+T1	disorder 20 31	 torticolis
+T2	disorder 148 155	 pâleur
+T3	disorder 187 227	hématome du pavillon de l’oreille gauche
+T4	disorder 353 372	 pharyngo-laryngite
+T5	drugs 389 404	corticothérapie
+T6	drugs 409 422	bétaméthasone
+T7	labvalue 764 782	 fébrile à 38,5 °C
+T8	disorder 822 829	cyanose
+T9	disorder 834 842	marbrure
+T10	procedure 1038 1049	examen ORL 
+T11	labvalue 1062 1099	angine érythémato-pultacée bilatérale
+T12	procedure 1172 1193	L’examen neurologique
+T13	disorder 1244 1265	syndrome cérébelleux 
+T14	disorder 1271 1306	signe d’hypertension intracrânienne
+T15	procedure 1507 1532	Clichés cervicaux de face
+T16	labvalue 1573 1613	ruptures de courbure du rachis cervical 
+T17	labvalue 1618 1651	épaississement des parties molles
+T18	labvalue 1815 1837	syndrome inflammatoire
+T19	drugs 2002 2017	Procalcitonine 
+T20	labvalue 2030 2052	Glycémie : 5,3 mmol/l 
+T21	labvalue 2337 2353	spondylodiscite 
+T22	procedure 2428 2459	 prélèvements bactériologiques 
+T23	drugs 2522 2551	 ceftriaxone + métronidazole 
+T24	drugs 2817 2844	 ceftriaxone + vancomycine 
+T25	procedure 2929 2950	scintigraphie osseuse
+T26	procedure 3143 3158	’IRM cervicale 
+T27	labvalue 3233 3311	spondylodiscite cervicale C1–C2, sans épidurite ni signe d’atteinte médullaire
+T28	procedure 3323 3346	Scintigraphie cervicale
+T29	labvalue 3414 3493	 hyperfixation non spécifique se projetant en regard de l’espace axo-atloïdien.
+T30	labvalue 4043 4068	ECBU reviennent négatives
+T31	procedure 4073 4093	prélèvement de gorge
+T32	disorder 5245 5286	 lyses osseuses aboutissant à une cyphose
+T33	disorder 5564 5633	douleur rachidienne avec recrudescence nocturne et raideur constante 
+T34	procedure 6065 6094	ponction discale radio-guidée
+T35	procedure 7301 7320	 cyphose définitive

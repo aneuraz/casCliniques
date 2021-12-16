@@ -1,0 +1,33 @@
+T1	disorder 84 90	blesse
+T2	disorder 192 245	plaies, à la face interne de la jambe et de la cuisse
+T3	procedure 256 275	pose d’un pansement
+T4	procedure 334 352	parage chirurgical
+T5	procedure 451 476	rapprochement de la plaie
+T6	procedure 497 503	parage
+T7	procedure 509 532	mise en place de drains
+T8	procedure 588 605	gouttière plâtrée
+T9	procedure 673 697	prévention antitétanique
+T10	drugs 717 728	Di-Antalvic
+T11	procedure 752 765	consultation 
+T12	disorder 886 914	douleurs du membre inférieur
+T13	disorder 1277 1282	plaie
+T14	disorder 1294 1311	odeur nauséabonde
+T15	disorder 1331 1354	écoulement séropurulent
+T16	disorder 1359 1365	oedème
+T17	disorder 1390 1414	phlyctènes hémorragiques
+T18	disorder 1440 1506	crépitation sous-cutanée localisée à la face interne de la cuisse 
+T19	labvalue 1569 1574	36,9°
+T20	disorder 1642 1659	gangrène gazeuse 
+T21	disorder 2000 2011	état sévère
+T22	disorder 2097 2113	gangrène gazeuse
+T23	procedure 2130 2142	hémocultures
+T24	procedure 2198 2210	intervention
+T25	procedure 2253 2265	intervention
+T26	disorder 2267 2294	défaillance multi viscérale
+T27	disorder 2300 2325	instabilité hémodynamique
+T28	disorder 2327 2333	anurie
+T29	disorder 2339 2346	acidose
+T30	procedure 2366 2388	épuration extra rénale
+T31	procedure 2411 2437	intervention chirurgicale 
+T32	procedure 2465 2489	extension de la gangrène
+T33	procedure 2523 2530	dialyse

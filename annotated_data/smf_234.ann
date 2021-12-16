@@ -1,0 +1,34 @@
+T1	disorder 14 49	lésions multiligamentaires du genou
+T2	disorder 154 190	 luxation de l’articulation du genou
+T3	disorder 196 248	atteintes supplémentaires des nerfs et des vaisseaux
+T4	disorder 382 454	lésions du point d’angle postéro-latéral («posterolateral corner» [PLC])
+T5	disorder 476 506	lésion du nerf péronier commun
+T6	procedure 557 618	prise en charge opératoire précoce des lésions ligamentaires 
+T7	disorder 672 690	parésie péronière 
+T8	disorder 734 744	paralysies
+T9	disorder 992 1027	traumatisme en hyperextension/varus
+T10	disorder 1076 1084	douleurs
+T11	disorder 1094 1117	sensation d’instabilité
+T12	disorder 1152 1234	 trouble de la sensibilité de la face antérolatérale de la jambe et du dos du pied
+T13	disorder 1249 1295	paralysie des releveurs du pied et des orteils
+T14	disorder 1582 1599	gonflement diffus
+T15	disorder 1640 1665	douloureuse à la pression
+T16	procedure 1732 1761	examen des ligaments latéraux
+T17	procedure 2003 2012	dial test
+T18	disorder 2028 2065	otation externe accrue du côté gauche
+T19	disorder 2096 2257	 déficit du nerf péronier avec paralysie des releveurs du pied et diminution de la sensibilité au niveau de la face antérolatérale de la jambe et du dos du pied 
+T20	procedure 2386 2432	radiographie de l’articulation du genou gauche
+T21	procedure 2509 2558	 examen d’imagerie par résonance magnétique (IRM)
+T22	disorder 2756 2843	upture du ligament croisé antérieur (LCA) et de la capsule articulaire postéro-latérale
+T23	disorder 2624 2740	avulsion de l’insertion péronière commune du tendon du muscle biceps fémoral et du ligament collatéral latéral (LCL)
+T24	disorder 3300 3340	Lésion multiligamentaire du genou gauche
+T25	disorder 3345 3371	avulsion partielle du PLC 
+T26	disorder 3423 3437	rupture du LCA
+T27	disorder 3442 3475	Paralysie du nerf péronier commun
+T28	disorder 3817 3923	insertion commune du LCL et du tendon du biceps était arrachée de la tête du péroné sur une large surface 
+T29	procedure 4018 4036	refixation directe
+T30	procedure 4133 4146	Mitek GIITMTM
+T31	procedure 4820 4850	plastie arthroscopique du LCA 
+T32	procedure 4951 5019;5020 5097	Radiographie conventionnelle après refixation du tendon du biceps et du ligament collatéral latéral et reconstruction du ligament croisé antérieur
+T33	disorder 5339 5365	paralysie du nerf péronier
+T34	procedure 5866 5890	traitement conservateur 

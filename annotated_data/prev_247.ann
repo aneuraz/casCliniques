@@ -1,0 +1,93 @@
+T1	procedure 69 90	clichés radiologiques
+T2	disorder 133 163	coxarthrose polaire supérieure
+T3	procedure 209 218	 prothèse
+T4	disorder 297 321	 hypertension artérielle
+T5	disorder 328 335	diabète
+T6	disorder 366 374	surpoids
+T7	procedure 456 464	Prothèse
+T8	procedure 585 603	antibioprophylaxie
+T9	procedure 622 634	consultation
+T10	drugs 692 700	Kefandol
+T11	procedure 725 737	intervention
+T12	procedure 783 795	intervention
+T13	drugs 811 820	 Kefandol
+T14	procedure 953 971	douches bétadinées
+T15	procedure 1009 1021	intervention
+T16	disorder 1089 1112	« problèmes » urinaires
+T17	procedure 1135 1143	sondages
+T18	procedure 1324 1338	réintervention
+T19	procedure 1424 1436	consultation
+T20	disorder 1446 1498	douleurs du grand trochanter irradiant vers la fesse
+T21	disorder 1239 1307	hernie musculaire douloureuse à la partie inférieure de la cicatrice
+T22	procedure 1517 1528	échographie
+T23	disorder 1536 1562	tendinite du moyen fessier
+T24	procedure 1585 1597	infiltration
+T25	drugs 1600 1605	Altim
+T26	procedure 1630 1635	repos
+T27	procedure 1641 1657	reprise de canne
+T28	disorder 1701 1709	douleurs
+T29	procedure 1729 1741	radiographie
+T30	disorder 1766 1791	géode du grand trochanter
+T31	procedure 1796 1809	scintigraphie
+T32	disorder 1828 1842	 hyperfixation
+T33	procedure 2005 2025	biopsie chirurgicale
+T34	disorder 2035 2040	géode
+T35	procedure 2055 2067	intervention
+T36	disorder 2100 2125	géode du grand trochanter
+T37	procedure 2073 2081	curetage
+T38	procedure 2145 2147	VS
+T39	labvalue 2149 2155	 41 mm
+T40	procedure 2157 2160	CRP
+T41	labvalue 2163 2169	7 mg/l
+T42	procedure 2180 2200	anatomo-pathologique
+T43	disorder 2215 2256	granulome inflammatoire aigu et chronique
+T44	procedure 2263 2270	culture
+T45	drugs 2384 2394	céfazoline
+T46	procedure 2398 2416	antibioprophylaxie
+T47	disorder 2435 2458	cicatrice inflammatoire
+T48	disorder 2464 2474	écoulement
+T49	procedure 2487 2489	VS
+T50	labvalue 2492 2498	122 mm
+T51	procedure 2502 2505	CRP
+T52	labvalue 2508 2515	17 mg/l
+T53	procedure 2532 2546	réintervention
+T54	procedure 2556 2563	Reprise
+T55	procedure 2597 2603	lavage
+T56	procedure 2646 2658	prélèvements
+T57	drugs 2775 2785	Pyostacine
+T58	drugs 2790 2799	 Rifadine
+T59	drugs 2832 2839	Oflocet
+T60	disorder 2857 2875	mauvaise tolérance
+T61	procedure 2958 2970	intervention
+T62	disorder 2975 2984	cicatrice
+T63	procedure 3014 3017	CRP
+T64	labvalue 3024 3029	2mg/l
+T65	disorder 3071 3099	douleurs de la hanche gauche
+T66	disorder 3122 3152	tuméfaction ferme sous-cutanée
+T67	procedure 3158 3169	échographie
+T68	disorder 3186 3195	Granulome
+T69	disorder 3210 3233	corps étranger résiduel
+T70	disorder 3332 3347	sepsis résiduel
+T71	procedure 3352 3362	examen TDM
+T72	disorder 3376 3458	Tuméfaction des parties molles développée dans la région du col prothétique gauche
+T73	disorder 3751 3762	tuméfaction
+T74	disorder 3764 3801	chaude et hyperalgique à la palpation
+T75	disorder 3821 3854	diminution du périmètre de marche
+T76	disorder 3864 3890	sensation d’enraidissement
+T77	disorder 3952 3959	sepsis 
+T78	procedure 4012 4025	scintigraphie
+T79	disorder 4079 4224	Aspects scintigraphiques leucocytaires compatibles avec un processus infectieux au niveau du cotyle gauche avec possibilité d’un trajet fistuleux
+T80	disorder 4265 4352	concentration leucocytaire dans les tissus mous au voisinage du grand trochanter gauche
+T81	procedure 4395 4415	reprise chirurgicale
+T82	procedure 4435 4447	explantation
+T83	procedure 4473 4527	prélèvements bactériologiques et anatomo-pathologiques
+T84	procedure 4529 4545	antibiothérapie 
+T85	procedure 4556 4570	réimplantation
+T86	procedure 4600 4608	ablation
+T87	procedure 4615 4623	prothèse
+T88	procedure 4679 4692	prélèvements 
+T89	procedure 4768 4783	antibiothérapie
+T90	drugs 4794 4803	Bristopen
+T91	drugs 4808 4815	Oflocet
+T92	procedure 4856 4870	réimplantation
+T93	procedure 4877 4885	prothèse

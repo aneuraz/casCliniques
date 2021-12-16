@@ -1,0 +1,140 @@
+Description du cas
+
+Lors d’une marche sans effort particulier, un patient de 72 ans, connu pour des lombalgies récentes, ressent de vives douleurs irradiant dans la jambe gauche puis la droite, le faisant chuter, avec réception sur la rotule gauche. Les douleurs sont rapidement maximale, ­partant de la hanche et descendant antérieurement jusqu’aux genoux, correspondant au dermatome L3–L4, constantes depuis la chute. Aux urgences, la force est limitée par la douleur. La radiographie des genoux et le scanner lombaire montrent des troubles dégénératifs sans fracture. Malgré le traitement antalgique, le patient est incapable de se lever et est hospitalisé.
+
+Lors de la réévaluation, la force est (gauche/droit): psoas M4+/M4+, quadriceps M1/M1, flexion et extension des pieds M5/M5, orteils M5/M5. Il n’y a pas d’atteinte sensitive ou sphinctérienne. Les réflexes rotuliens sont abolis des deux côtés, les réflexes achilléens sont vifs et symétriques, le réflexe cutané plantaire est indifférent des deux côtés. Les pouls sont tous palpés. Il n’y a pas de plaie, mais le genou gauche est tuméfié, avec un hématome en regard et des signes en faveur d’un épanchement articulaire.
+
+Question 1: Quelle lésion explique le moins une parésie bilatérale symétrique avec aréfléxie?
+
+
+a) Un accident vasculaire cérébral (AVC)
+
+b) Une compression radiculaire bilatérale
+
+c) Un syndrome de Guillain-Barré
+
+d) Une atteinte de la jonction neuro-musculaire
+
+e) Une lésion musculaire
+
+Un accident vasculaire cérébral (AVC) avec atteinte ­motrice bilatérale isolée (par ex. atteinte bi-frontale) sans autre déficit est très peu probable (tab. 1).
+
+Tableau 1: Présentation clinique en fonction de la localisation de la lésion (tableau inspiré de: [1]).
+Cerveau	Atteinte sensitive et/ou motrice le plus souvent unilatérale, faciale ou périphérique.
+Trouble du champ visuel (hémianopsie homonyme latérale).
+Anomalies du mouvement (tremor, chorée, ataxie).
+Aréflexie dans la phase aiguë puis hypervifs, signe de Babinski présent.
+Tronc cérébral	Atteinte isolée des nerfs crâniens (un ou plusieurs nerfs).
+Syndrome alterne: atteinte d’un nerf crânien ipsilatéral à la lésion et atteinte d’une voie longue (­sensitive ou motrice) controlatérale à la lésion.
+Moelle épinière	Douleur du rachis.
+Atteinte sensitive ou motrice avec épargne des nerfs crâniens. Présence d’un niveau sensitif.
+Dysfonction sphinctérienne.
+Plexus ou racine ­nerveuse	Douleur irradiante dans un dermatome.
+Atteinte sensitive et/ou motrice qui suit une racine nerveuse.
+Abolition des réflexes ostéo-tendineux.
+Dysfonction sphinctérienne.
+Nerf périphérique	Douleur d’un membre (proximal ou distal).
+Atteinte sensitive et/ou motrice qui suit un nerf.
+Atteinte sensitive en «gant ou chaussette».
+Abolition des réflexes ostéo-tendineux.
+Jonction ­neuro-musculaire	Faiblesse bilatérale faciale (ptose, diplopie, dysphagie) et partie proximale des membres.
+Fatigabilité (augmentation de la parésie après un effort).
+Sensibilité épargnée.
+Muscle	Faiblesse unilatérale ou bilatérale, proximale ou distale.
+Sensibilité épargnée.
+Réflexe ostéo-tendineux du muscle concerné aboli.
+
+Une parésie bilatérale associée à une douleur lombaire, évoque une possible compression médullaire ou radiculaire. Les autres diagnostics sont moins vraisemblables. Le syndrome de Guillain-Barré est progressif, avec une diminution des réflexes plus étendue. Dans la myasthénie gravis, la parésie est fluctuante et fatigable. Enfin, la lésion musculaire entraîne une parésie et aréflexie du muscle concerné, mais est rarement bilatérale.
+
+Question 2: Quel examen effectuez-vous en priorité?
+
+
+a) Une IRM dorso-lombaire
+
+b) Une IRM médullaire
+
+c) Des paramètres inflammatoires
+
+d) Une ponction lombaire (PL)
+
+e) Une électroneuromyographie (ENMG)
+
+La suspicion de compression radiculaire impose la réalisation d’une imagerie urgente (idéalement l’IRM) car le pronostic fonctionnel dépend de la rapidité du diagnostic et du traitement, mauvais après 48 heures de déficit [2]. L’IRM médullaire utilise une séquence différente de l’IRM «classique». Cependant, une myélite n’expliquerait pas une atteinte «suspendue», uniquement motrice. Le bilan biologique peut être altéré avant l’IRM en cas de spondylodiscite, mais devant une atteinte nerveuse, l’IRM reste l’examen de choix. La ponction lombaire (PL) et l’électroneuromyographie (ENMG) permettent respectivement d’explorer un syndrome très atypique de Guillain-Barré et de différencier une atteinte nerveuse d’une atteinte musculaire ainsi que sa distribution, mais sont accessoires à ce stade du bilan.
+
+Dans notre cas, l’IRM lombaire confirme les protrusions discales sans compression. Il n’y a pas de paramètres inflammatoires, de rhabdomyolyse, ou d’infection retrouvée (HIV, Syphilis, méningoencéphalite à tique [FSME], et borréliose) et la PL est strictement normale (notamment sans dissociation albumino-cytologique).
+
+Devant une douleur en partie reproductible à la palpation des cuisses, un déficit de force localisé et une discrète voussure lors de la contraction du quadriceps (voir vidéo sur https://vimeo.com/483605546), nous évoquons le diagnostic de rupture bilatérale spontanée des tendons du quadriceps (RTQ). L’échographie complétée par une IRM confirment ce diagnostic (fig. 1).
+
+Figure 1: Séquences IRM T1 sagittales.A) Genou droit: Rupture totale du tendon quadricipital (RTQ), à environ 2,5 cm du bord supérieur de la patella (flèche).B) Genou gauche: RTQ, la partie distale du tendon étant mal visualisable. Hématome en regard (flèche) à la partie antéro-interne de la patella.
+
+Avec l’aimable soutien du Dr. Pierre Renard, médecin chef adjoint, Département d’imagerie médicale, HNE.
+
+Question 3: Devant une RTQ bilatérale, lequel de ces éléments est important?
+
+
+a) Anamnèse médicamenteuse
+
+b) Fonction rénale
+
+c) Hémoglobine glyquée
+
+d) Radiographie conventionnelle
+
+e) Toutes ces réponses sont justes
+
+La prise de médicaments à risque, une insuffisance ­rénale chronique et un diabète ont été écartés. L’hypothèse étiologique retenue est une chondrocalcinose et des éperons osseux, entraînant une inflammation ­répétée et l’usure des ligaments. La douleur brutale à bascule, évoque que le tendon gauche a cédé spontanément en premier, mettant en surcharge le tendon droit, déjà affaibli par l’usure chronique, et provoquant alors sa rupture secondaire.
+
+Le patient a bénéficié d’une réinsertion ostéo-tendineuse chirurgicale bilatérale des tendons quadriceps sur le pôle supérieur des rotules. Après un mois de réadaptation, le patient parvient à marcher plus de 300 mètres sans moyen auxiliaire. Il a une force M4 à la flexion et extension et ses amplitudes articulaires du genou en actif sont les suivantes: gauche: 80/10/0, droite: 100/10/0. Après une année, le patient a récupéré toute sa force et son amplitude de mouvement mais des douleurs et une légère rigidité persistent.
+
+Discussion
+
+Notre patient avait donc une RTQ bilatérale spontanée. Si la RTQ est rare (incidence de 1,37/100 000 par an [3]), la rupture bilatérale est exceptionnelle. De plus, une parésie au premier plan, une douleur des genoux expliquée en partie par la chute, ainsi qu’une histoire ­récente de lombalgies, ont participé à la difficulté diagnostique de ce cas.
+
+La RTQ touche l’appareil extenseur du genou (fig. 2) [4]. Elle survient le plus souvent après 40 ans avec un ratio homme: femme de 6: 1 [5]. La rupture unilatérale est fréquemment secondaire à un traumatisme (genou en flexion contrariée), à l’utilisation de médicaments ou à une intervention chirurgicale du genou [6]. La rupture bilatérale semble différer dans son mécanisme, avec une RTQ cinq fois plus fréquente que celle du tendon patellaire (fig. 2) et une rupture spontanée deux fois plus fréquente que lors de RTQ unilatérale [7]. Cependant, il est rare qu’un tendon intact se rupture spontanément.
+
+Figure 2: Anatomie de l’appareil extenseur du genou, vue de face, genou droit. Le muscle quadriceps, responsable de l’extension active du genou, est formé de 4 faisceaux: muscle droit fémoral(1) , vaste intermédiaire (sous le droit fémoral), vaste latéral(2) et le vaste médial(3) . Les quatre chefs se ­rassemblent sur le bord crânial de la patella pour former le tendon quadricipital(4) , qui lui, s’insère à la base de la patella. La force exercée par le quadriceps est transmise au ­genou par le tendon patellaire(5) , cordon fibreux qui s’étend de la pointe de la rotule à la tubérosité tibiale antérieure(6) .
+
+Dessin original de Z. Picciotto, avec l’autorisation aimable.
+
+Question 4: Dans quelle situation, l’utilisation de médicaments augmente le risque de RTQ?
+
+
+a) Hypercholestérolémie
+
+b) Hypertension artérielle
+
+c) Carcinome lobulaire invasif du sein
+
+d) Infection urinaire
+
+e) Hypothyroïdie
+
+Les médicaments suivants sont associés à un risque ­accru de rupture: fluoroquinolones, corticostéroïdes (articulaires et systémiques), et anabolisants [5]. Les statines, antihypertenseurs, hormones thyroïdiennes ou encore les chimiothérapies ne sont pas des médicaments à risque. L’insuffisance rénale chronique (IRC), l’hyperparathyroïdie, la polyarthrite rhumatoïde, le lupus, et le diabète prédisposent à une RTQ. Ces pathologies sont responsables d’une altération de la synthèse du collagène engendrant une sclérose du tendon favorisant sa rupture [5]. L’IRC est la comorbidité la plus fréquemment rencontrée, notamment au stade d’hémodialyse (entraînant malnutrition, urémie, ­ostéodystrophie et hyperparathyroïdisme) [7]. Une ­pathologie métabolique est donc à rechercher en cas de RTQ bilatérale.
+
+Question 5: Concernant la RTQ, quelle constatation est vraie?
+
+
+a) Les signes cliniques suffisent au diagnostic.
+
+b) La radiographie permet d’exclure d’autres diagnostics.
+
+c) L’échographie a une meilleure sensibilité que l’IRM.
+
+d) Si l’échographie confirme le diagnostic, il est inutile d’effectuer une IRM.
+
+e) L’IRM est le gold standard diagnostique.
+
+Les signes cliniques (tuméfaction et/ou dépression ­supra-patellaire, rotule basse et impossibilité à tendre la jambe), ont une sensibilité de 94% et une valeur prédictive positive (VVP) de 79% [8]. A noter qu’en cas de rupture incomplète, ne touchant que le plan superficiel (formé par la lame tendineuse du droit fémoral), l’extension active du genou peut être conservée. Si la lésion touche l’ensemble du tendon, l’extension active du genou est impossible. A la radiologie conventionnelle, les signes suggestifs sont l’effacement de l’ombre du quadriceps, un défaut des tissus mous supra-patellaire, un épanchement articulaire, une rotule bas-positionnée ou des fragments par avulsion [8]. La VVP de la radiologie conventionnelle est semblable à celle de l’examen clinique (82%). L’échographie est non invasive, bon marché et permet une évaluation dynamique du tendon. Sa sensibilité est de 100%, mais avec un nombre de faux positifs non négligeable (spécificité: 67%) [8]. L’IRM est plus onéreuse, mais a une sensibilité, spécificité et VPP de 100% [8]. Cet examen évite une chirurgie inutile en cas d’échographie positive. L’IRM évalue avec précision l’atteinte du tendon (rupture complète ou partielle), et aide l’anticipation du geste chirurgical. L’exploration chirurgicale reste le «gold standard» diagnostique.
+
+L’intervention chirurgicale est indiquée pour les ruptures complètes. Elle doit idéalement se faire dans les 72 heures, afin de diminuer les rétractions du tendon, rendant l’apposition des extrémités difficile et une mise sous tension des sutures [9]. Une prise en charge conservatrice avec immobilisation pendant 6 semaines, puis physiothérapie peut être envisagée pour les ruptures partielles.
+
+En résumé, le profil des patients ayant une lésion unilatérale ou bilatérale est différent. Bien qu’exceptionnelles, il s’agit d’évoquer le diagnostic de RTQ bilatérale devant une paralysie symétrique n’affectant que les quadriceps, une aréflexie et l’absence de trouble sensitif. Dans cette situation, une pathologie chronique sous-jacente doit être recherchée.
+
+Réponses:
+
+
+Question 1: a. Question 2: a. Question 3: e. Question 4: d. Question 5: b.
+
+La vidéo mentionnée est disponible sur Vimeo:
+
+https://vimeo.com/483605546

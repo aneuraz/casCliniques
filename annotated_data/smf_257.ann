@@ -1,0 +1,95 @@
+T1	disorder 69 109	mélanome de l’omoplate droit de type SSM
+T2	labvalue 159 163	pT4b
+T3	labvalue 164 168	pN2b
+T4	labvalue 169 172	cM0
+T5	labvalue 174 197	mutation B-RAF positive
+T6	drugs 239 251	vemurafemib 
+T7	drugs 239 298	vemurafemib (inhibiteur de la sérine-thréonine kinase BRAF)
+T8	drugs 305 316	ipilimumab 
+T9	drugs 306 329	pilimumab (anti-CTLA-4)
+T10	disorder 459 466	syncope
+T11	disorder 448 466	épisode de syncope
+T12	disorder 483 491	asthénie
+T13	disorder 482 503	 asthénie progressive
+T14	procedure 529 562	 mesure de la tension artérielle 
+T15	labvalue 583 595	 hypotension
+T16	labvalue 605 634	valeurs systoliques <95 mm Hg
+T17	procedure 918 942	bilan biologique initial
+T18	disorder 953 979	 insuffisance rénale aiguë
+T19	disorder 954 986	insuffisance rénale aiguë AKIN 1
+T20	labvalue 988 1012	créatininémie 150 μmol/l
+T21	labvalue 1019 1065	sodium et potassium dans la limite de la norme
+T22	labvalue 1126 1147	hémoglobine à 160 g/l
+T23	procedure 1151 1154	ECG
+T24	labvalue 1166 1236	rythme sinusal, sans troubles de la repolarisation ni de la conduction
+T25	disorder 1656 1663	dyspnée
+T26	disorder 1615 1623	 syncope
+T27	disorder 1640 1652	désaturation
+T28	disorder 1741 1759	embolie pulmonaire
+T29	disorder 1773 1781	mélanome
+T30	disorder 1808 1832	épanchement péricardique
+T31	disorder 1808 1848	épanchement péricardique avec tamponnade
+T32	disorder 1880 1887	dyspnée
+T33	disorder 1937 1949	 tachycardie
+T34	disorder 1957 1977	urgescence jugulaire
+T35	procedure 1981 1984	ECG
+T36	disorder 2021 2031	tamponnade
+T37	disorder 2055 2074	maladie oncologique
+T38	disorder 1955 1977	 turgescence jugulaire
+T39	disorder 2098 2123	hypotension symptomatique
+T40	disorder 2139 2173	métastases au ­niveau hypophysaire
+T41	disorder 2246 2281	insuffisance surrénalienne primaire
+T42	disorder 2175 2213	insuffisance surrénalienne ­secondaire
+T43	disorder 2324 2348	troubles électrolytiques
+T44	labvalue 2534 2556	hémoglobine à 160 g/l 
+T45	disorder 2386 2412	insuffisance surrénalienne
+T46	disorder 2476 2497	 hémorragie digestive
+T47	disorder 2822 2833	hypotension
+T48	disorder 2848 2854	sepsis
+T49	disorder 2860 2869	amponnade
+T50	disorder 2875 2893	embolie pulmonaire
+T51	disorder 2941 2981	nsuffisance de l’axe cortico-surrénalien
+T52	disorder 3066 3091	nsuffisance surrénalienne
+T53	procedure 2986 3006	cortisolémie basale 
+T54	procedure 3097 3115	test au Synacthen®
+T55	drugs 3105 3115	Synacthen®
+T56	disorder 3233 3268	insuffisance surrénalienne primaire
+T57	disorder 3294 3331	insuffisance surrénalienne secondaire
+T58	procedure 3368 3422	doser également l’ACTH (adrénocorticotrophine) basale.
+T59	labvalue 3467 3498	4 ng/l; norme: 10–60 ng/l à 8 h
+T60	procedure 3559 3571	CT abdominal
+T61	disorder 3651 3688	insuffisance surrénalienne secondaire
+T62	procedure 3719 3732	RM cérébrale 
+T63	disorder 3846 3899	hypophysite secondaire au traitement d’immunothérapie
+T64	disorder 3911 3932	atteinte métastasique
+T65	disorder 3976 3987	hypophysite
+T66	procedure 3937 3951	IRM cérébrale 
+T67	drugs 4040 4050	ipilimumab
+T68	procedure 4143 4171	dosage TSH [thyréostimuline]
+T69	procedure 4173 4181	T4 libre
+T70	procedure 4183 4217	FSH [hormone folliculo-stimulante]
+T71	procedure 4219 4244	LH [hormone lutéinisante]
+T72	procedure 4246 4258	testostérone
+T73	procedure 4260 4270	prolactine
+T74	procedure 4272 4277	IGF-1
+T75	procedure 4281 4308	nsulin-like growth factor-1
+T76	procedure 4142 4309	(dosage TSH [thyréostimuline], T4 libre, FSH [hormone folliculo-stimulante], LH [hormone lutéinisante], testostérone, prolactine, IGF-1) [insulin-like growth factor-1]
+T77	procedure 4323 4335	RM cérébrale
+T78	labvalue 4360 4380	signes d’hypophysite
+T79	labvalue 4382 4441	epaississement de l’extrémité distale de la tige pituitaire
+T80	labvalue 4443 4475	bombement du diaphragme sellaire
+T81	labvalue 4479 4522	augmentation de taille de l’adéno-hypophyse
+T82	drugs 4935 4945	ipilimumab
+T83	procedure 4962 4990	corticothérapie à haute dose
+T84	drugs 5185 5205	 minéralocorticoïdes
+T85	disorder 4525 4567;4570 4650;4652 4696;4698 4775;4777 4861;4863 4900	Question 3: Quel traitement proposez-vous?   a) Poursuite du traitement par ipilimumab et corticostéroïde à dose substitutive  b) Interruption du traitement par ipilimumab  c) Interruption du traitement par ipilimumab et corticostéroïdes à haute dose  d) Interruption du traitement par ipilimumab et corticostéroïdes à dose substitutive  e) Traitement par minéralocorticoïdes
+T86	disorder 7376 7502;7505 7524;7526 7533;7535 7544;7546 7553;7555 7591	Question 5: Quels organes peuvent être atteints par les effets secondaires immunologiques des traitements immuno­modulateurs ?   a) Système digestif  b) Rein  c) Poumon  d) Peau  e) Toutes les possibilités ci-dessus
+T87	disorder 8345 8349	irAE
+T88	disorder 8084 8090	irAEs 
+T89	drugs 6304 6320	corticostéroïdes
+T90	drugs 6273 6283	pilimumab 
+T91	disorder 5694 5728;5731 5739;5741 5823;5825 5899;5901 5945;5947 6038	Question 4: Quel est le pronostic?   a) Fatal  b) Possible corrélation entre les effets secondaires et l’efficacité du traitement  c) Mauvais pronostic oncologique vu l’arrêt du traitement immunomodulateur  d) Récupération de l’axe cortico-surrénalien  e) Récupération de l’axe gonadotrope moins probable que celle de l’axe cortico- surrénalien
+T92	disorder 2589 2656;2659 2674;2676 2701;2703 2730;2732 2771;2773 2789	Question 2: Quelle est l’approche diagnostique la moins pertinente?   a) CT abdominal  b) Dosage de l’ACTH basal  c) Dosage du cortisol basal  d) Dosage des autres axes hypophysaires  e) IRM cérébrale
+T93	disorder 1239 1308;1311 1327;1329 1350;1352 1375;1377 1406;1408 1431	Question 1: A ce stade, quel diagnostic vous paraît le plus probable?   a) Sepsis sévère  b) Embolie pulmonaire  c) Tamponnade cardiaque  d) Insuffisance surrénalienne  e) Hémorragie digestive
+T94	labvalue 757 785	fréquence cardiaque à 95/min
+T95	labvalue 793 825	saturation à 98% à l’air ambiant

@@ -1,0 +1,44 @@
+T1	disorder 99 119	syndrome métabolique
+T2	disorder 128 147	diabète de type II 
+T3	drugs 158 173	antidiabétiques
+T4	disorder 200 216	bypass gastrique
+T5	procedure 283 302	contrôle biologique
+T6	disorder 595 607	état grippal
+T7	disorder 648 656	asthénie
+T8	disorder 660 677	myalgies diffuses
+T9	risk 727 762	consommation d’alcool occasionnelle
+T10	risk 855 887	consommation de viande mal cuite
+T11	labvalue 1108 1115	négatif
+T12	labvalue 1456 1463	Négatif
+T13	labvalue 1480 1487	Négatif
+T14	labvalue 1501 1508	Négatif
+T15	labvalue 1525 1532	Négatif
+T16	labvalue 1546 1553	Positif
+T17	labvalue 1567 1574	Positif
+T18	procedure 1795 1814	ultrason abdominal 
+T19	disorder 1824 1858	 hépatomégalie sans lésion focale 
+T20	irrelevant 1915 2024;2027 2083;2085 2144;2146 2198;2200 2261;2263 2271;2274 2300	Question: Quel examen supplémentaire proposez-vous pour la confirmation du diagnostic d’une hépatite E aiguë?   a) Aucune investigation supplémentaire n’est nécessaire.  b) Dosage de la ferritine et saturation de la transferrine.  c) Dosage de l’ARN HEV par PCR dans le plasma/sérum.  d) Dosage des anticorps anti-nucléaires et anti-muscle lisse.  Réponse:   La réponse correcte est c.
+T21	disorder 2317 2331	hépatite aiguë
+T22	disorder 2367 2386	symptômes grippaux 
+T23	procedure 2478 2487	sérologie
+T24	procedure 2550 2611	dosage de l’ARN viral par l’amplification d’acides nucléiques
+T25	disorder 2707 2727	hépatite aiguë à VHE
+T26	procedure 2732 2789	 dosage de la ferritine et saturation de la transferrine 
+T27	disorder 2826 2840	hémochromatose
+T28	disorder 2880 2888	asthénie
+T29	disorder 2894 2905	arthralgies
+T30	disorder 2910 2929	 perte de la libido
+T31	disorder 2934 2941	diabète
+T32	disorder 2947 2970	pigmentation de la peau
+T33	disorder 2978 2996	atteinte hépatique
+T34	disorder 3017 3025	cirrhose
+T35	procedure 3064 3081	 tests hépatiques
+T36	procedure 3208 3229	hépatite aiguë sévère
+T37	disorder 3272 3304	atteinte inflammatoire chronique
+T38	disorder 3448 3511	hépatite sévère à la perturbation chronique du ­bilan hépatique
+T39	disorder 3546 3575	maladie au stade de cirrhose 
+T40	labvalue 7269 7278	positives
+T41	procedure 12771 12817	PCR («polymerase chain reaction») quantitative
+T42	disorder 12575 12586	hépatite E 
+T43	disorder 12697 12722	hépatopathie préexistante
+T44	disorder 12747 12763	immunosupprimées

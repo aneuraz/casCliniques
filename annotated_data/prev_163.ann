@@ -1,0 +1,48 @@
+T1	disorder 297 313	toux persistante
+T2	disorder 343 353	hémoptysie
+T3	drugs 485 509	fluidifiants bronchiques
+T4	procedure 514 530	bilan biologique
+T5	procedure 564 577	prolactinémie
+T6	procedure 716 729	prolactinémie
+T7	labvalue 792 803	24,20 ng/ml
+T8	procedure 879 908	NFS, VS, ALAT, ASAT, Gamma GT
+T9	disorder 965 996	expectoration reste hémoptoïque
+T10	disorder 1061 1083	tuberculose pulmonaire
+T11	procedure 1248 1271	radiographie pulmonaire
+T12	drugs 1374 1377	BCG
+T13	disorder 1565 1593	altération de l'état général
+T14	disorder 1595 1603	asthénie
+T15	disorder 1605 1618	essoufflement
+T16	drugs 1734 1758	fluidifiants bronchiques
+T17	procedure 1775 1815	exploration de la selle turcique par IRM
+T18	disorder 1900 1928	altération de l'état général
+T19	disorder 2227 2235	asthénie
+T20	disorder 2241 2254	essoufflement
+T21	disorder 2274 2294	douleurs abdominales
+T22	disorder 2298 2310	constipation
+T23	disorder 2665 2685	douleurs abdominales
+T24	disorder 2694 2707	 constipation
+T25	drugs 2735 2743	laxatifs
+T26	disorder 2790 2813	état d'asthénie extrême
+T27	disorder 2931 2939	asthénie
+T28	disorder 2951 2955	toux
+T29	disorder 2987 3007	douleurs abdominales
+T30	disorder 3042 3052	lombalgies
+T31	disorder 3056 3068	Gynécomastie
+T32	procedure 3132 3148	Radio pulmonaire
+T33	procedure 3100 3127	Examen testiculaire suspect
+T34	disorder 3201 3223	métastases pulmonaires
+T35	procedure 3388 3399	échographie
+T36	procedure 3432 3452	orchidectomie droite
+T37	disorder 3497 3573	tumeur germinale non séminomateuse comportant un tératome mature et immature
+T38	procedure 3601 3622	TDM thoraco-abdominal
+T39	disorder 3665 3687	métastases pulmonaires
+T40	drugs 3843 3857	chimiothérapie
+T41	drugs 4042 4056	chimiothérapie
+T42	disorder 4146 4152	anémie
+T43	drugs 4169 4181	transfusions
+T44	disorder 4183 4205	infections bronchiques
+T45	procedure 4362 4397	curage ganglionnaire lombo-aortique
+T46	procedure 4420 4455	thoracotomie droite avec lobectomie
+T47	procedure 4580 4599	thoracotomie gauche
+T48	procedure 5188 5206	β-hCG plasmatiques

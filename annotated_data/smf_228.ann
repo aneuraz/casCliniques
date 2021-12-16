@@ -1,0 +1,177 @@
+T1	irrelevant 0 8;10 436	Contexte  Les douleurs abdominales hautes sont un motif fréquent de consultation au cabinet de médecine de ­famille et au service des urgences. En particulier chez les patients jeunes, il est fréquent qu’aucune explication ne soit trouvée et que les symptômes régressent spontanément avec le temps. En cas de survenue d’anomalies cliniques concomitantes, il convient néanmoins d’initier des investigations diagnostiques complémentaires.
+T2	procedure 550 581	présentée au cabinet d’urgences
+T3	disorder 595 622	douleurs abdominales hautes
+T4	procedure 625 645	intensité croissante
+T5	disorder 695 738	augmentation de la circonférence abdominale
+T6	disorder 776 783	nausées
+T7	disorder 789 801	vomissements
+T8	disorder 807 822	perte d’appétit
+T9	risk 830 844	prise de poids
+T10	disorder 1010 1041	état général légèrement diminué
+T11	disorder 1045 1053	afébrile
+T12	procedure 1059 1076	paramètres vitaux
+T13	labvalue 1085 1092	normaux
+T14	procedure 1094 1113	pression artérielle
+T15	labvalue 1114 1126	111/76 mm Hg
+T16	procedure 1128 1133	pouls
+T17	labvalue 1134 1141	100/min
+T18	procedure 1143 1154	température
+T19	labvalue 1155 1162	37,1 °C
+T20	procedure 1164 1168	SpO2
+T21	labvalue 1169 1172	98%
+T22	procedure 1192 1207	examen clinique
+T23	disorder 1220 1246	abdomen fortement ballonné
+T24	disorder 1265 1294	douleur à la pression diffuse
+T25	procedure 1357 1372	signe de Murphy
+T26	labvalue 1373 1380	positif
+T27	procedure 1386 1393	sclères
+T28	labvalue 1413 1423	ictériques
+T29	procedure 1427 1442	examen clinique
+T30	procedure 1504 1528	analyses de laboratoire 
+T31	procedure 1549 1562	 polyglobulie
+T32	labvalue 1542 1549	 légère
+T33	disorder 1577 1588	leucocytose
+T34	disorder 1596 1609	thrombocytose
+T35	procedure 1651 1670	protéine C réactive
+T36	labvalue 1637 1647	non élevée
+T37	procedure 1672 1675	CRP
+T38	disorder 1691 1713	insuffisance hépatique
+T39	procedure 1730 1739	identifié
+T40	labvalue 1750 1759	élévation
+T41	procedure 1772 1785	transaminases
+T42	labvalue 1791 1800	élévation
+T43	procedure 1816 1819	INR
+T44	disorder 1827 1869	faible concentration de protéines totales 
+T45	procedure 1881 1903	échographie abdominale
+T46	disorder 1917 1923	ascite
+T47	disorder 1955 1968	splénomégalie
+T48	disorder 1975 2003	kyste ovarien du côté gauche
+T49	procedure 2017 2039	Valeurs de laboratoire
+T50	procedure 2098 2109	Hémoglobine
+T51	labvalue 2125 2129	16,2
+T52	procedure 2130 2141	Hématocrite
+T53	labvalue 2149 2151	51
+T54	procedure 2152 2164	Erythrocytes
+T55	labvalue 2177 2180	6,8
+T56	procedure 2181 2191	Leucocytes
+T57	labvalue 2204 2209	18,79
+T58	procedure 2210 2222	Thrombocytes
+T59	labvalue 2235 2238	733
+T60	procedure 2239 2250	Coagulation
+T61	procedure 2251 2273	Temps de ­prothrombine
+T62	labvalue 2282 2284	44
+T63	procedure 2285 2288	INR
+T64	labvalue 2291 2295	1,53
+T65	procedure 2296 2311	Chimie clinique
+T66	procedure 2312 2322	Créatinine
+T67	labvalue 2336 2338	55
+T68	procedure 2339 2349	Bilirubine
+T69	labvalue 2363 2365	25
+T70	procedure 2366 2376	ASAT (GOT)
+T71	procedure 2388 2398	ALAT (GPT)
+T72	labvalue 2385 2387	42
+T73	labvalue 2407 2409	47
+T74	procedure 2410 2424	Gamma-GT (GGT)
+T75	procedure 2436 2457	Phosphatase ­alcaline
+T76	procedure 2471 2479	Albumine
+T77	procedure 2493 2510	Protéines totales
+T78	procedure 2524 2527	CRP
+T79	labvalue 2536 2539	7,0
+T80	labvalue 2521 2523	57
+T81	labvalue 2490 2492	39
+T82	labvalue 2467 2470	126
+T83	labvalue 2433 2435	76
+T84	irrelevant 2540 2785	INR: «International Normalized Ratio»; ASAT: aspartate aminotransférase; GOT: glutamate oxalacétate transaminase; ALAT: alanine aminotrans­férase; GPT: glutamate pyruvate transaminase; GGT: gamma-glutamyltranspeptidase; CRP: protéine C réactive.
+T85	disorder 2814 2836	insuffisance hépatique
+T86	procedure 2847 2854	exclue 
+T87	procedure 2858 2882	analyses de laboratoire 
+T88	procedure 2883 2906	sérologie de l’hépatite
+T89	labvalue 2907 2915	négative
+T90	procedure 2920 2930	sérologies
+T91	labvalue 2931 2940	négatives
+T92	procedure 2949 2984	virus de l’immunodéficience humaine
+T93	procedure 2986 2989	VIH
+T94	procedure 2995 3015	virus d’Epstein-Barr
+T95	procedure 3017 3020	EBV
+T96	procedure 3026 3041	cytomégalovirus
+T97	procedure 3043 3046	CMV
+T98	procedure 3054 3074	virus Herpes simplex
+T99	risk 3098 3117	origine auto-immune
+T100	procedure 3123 3132	ponction 
+T101	disorder 3134 3140	ascite
+T102	disorder 3182 3204	péritonite bactérienne
+T103	disorder 3222 3239	cellules malignes
+T104	procedure 3245 3262	tomodensitométrie
+T105	disorder 3276 3300	obstruction thrombotique
+T106	disorder 3367 3387	hypertension portale
+T107	disorder 3389 3395	ascite
+T108	disorder 3397 3429	épanchements pleuraux bilatéraux
+T109	disorder 3431 3444	splénomégalie
+T110	procedure 3459 3470	diagnostic 
+T111	disorder 3473 3496	syndrome de Budd-Chiari
+T112	irrelevant 3519 3750	Figure 1: La tomodensitométrie coronaire montre une hépatomégalie avec accumulation non homogène du produit de contraste, sans veines hépatiques visibles lors de la phase veineuse portale. Ascite prononcée des quatre quadrants (x).
+T113	procedure 3805 3834	anticoagulation thérapeutique
+T114	drugs 3839 3850	énoxaparine
+T115	disorder 3880 3893	thrombophilie
+T116	irrelevant 6958 6968;6970 8008;8010 8059;8060 8077;8078 8142;8143 8164;8165 8186;8187 8218;8219 8246;8247 8268;8269 8325;8326 8362;8363 8394;8395 8411;8412 8421;8422 8441;8442 8505;8506 8518;8519 8537;8538 8605;8606 8617;8618 8684;8685 8699;8700 8717;8719 9060;9062 9555;9557 9605;9606 9684;9685 9836;9837 9964;9965 10199;10200 10420;10422 10844;10846 11923;11925 12285;12287 12315;12317 12477;12479 12555;12557 12692;12694 12809;12811 13041;13043 13198	Discussion  Il existe de nombreux diagnostics différentiels possibles face à des douleurs abdominales en lien avec une ascite, et une évaluation approfondie s’impose. Le syndrome de Budd-Chiari (SBC), comme dans le cas de la patiente décrite, en est une cause rare. Il s’agit d’une ­affection qui est causée par une obstruction du drainage au niveau des veinules hépatiques, des grandes veines hépatiques et de la veine cave inférieure post-hépatique, sans mise en évidence d’une cause cardiaque (insuffisance cardiaque droite) [1]. Dans nos contrées, la maladie touche plus fréquemment les femmes que les hommes et elle survient le plus souvent entre l’âge de 20 et 40 ans, sachant que les enfants et les personnes âgées peuvent également en être ­atteints. En Asie, le SBC affecte plus fréquemment les hommes et se manifeste à un âge plus tardif (à partir de 45 ans) [1, 2]. Dans env. 75% des cas, des facteurs prédisposants sont à l’origine du SBC; dans les pays occidentaux, il s’agit le plus souvent de maladies myéloprolifératives (tab. 2) [3].  Tableau 2: Causes du syndrome de Budd-Chiari [3]. Causes fréquentes  	Hypercoagulopathies ­congénitales	Déficit en antithrombine III Déficit en protéine C Déficit en protéine S Mutation du facteur V de Leiden Mutation de la prothrombine  	Hypercoagulopathies acquises	Maladies myéloprolifératives, mutation de JAK-2 Hémoglobinurie paroxystique nocturne Syndrome des antiphospholipides Tumeurs malignes Grossesse Contraceptifs oraux Causes plus rares	Invasion tumorale, carcinome hépatocellulaire Aspergillose Syndrome de Behcet Sténoses congénitales ou obstructions membraneuses intravasculaires Traumatisme Maladies inflammatoires chroniques de l’intestin, maladie cœliaque  	Idiopathique JAK: Janus kinase  En fonction de la localisation, il convient de faire la distinction entre la forme primaire du SBC, dans laquelle la cause émane de l’intérieur de la veine (thrombus, sténoses congénitales, obstructions membraneuses), et la forme secondaire du SBC, qui se caractérise par une compression des veines depuis l’extérieur (abcès, tumeur, kyste).  En outre, dépendant de l’évolution, on distingue une forme fulminante, une forme aiguë, une forme subaiguë et une forme chronique. L’évolution fulminante et l’évolution aiguë se caractérisent par la survenue rapide de symptômes d’hypertension portale, avec ascite, ­ictère et nécroses des cellules hépatiques. L’évolution subaiguë et l’évolution chronique donnent souvent lieu à des symptômes très discrets, et des évolutions totalement asymptomatiques ont également été décrites (tab. 3) [3].  Tableau 3: Symptômes du syndrome de Budd-Chiari. Symptômes généraux	Douleurs abdominales, hépatomégalie, nausées, ­vomissements Symptômes spécifiques	Forme fulminante (rare, en l’espace de quelques jours/­semaines): ictère, élévation des transaminases, encéphalopathie ­hépatique Forme aiguë (plusieurs semaines):ictère, élévation des transaminases, ascite tenace, absence de collatérales veineuses portales Forme subaiguë (développement insidieux, symptômes en l’espace de 3 mois):élévation des transaminases, ascite (il est possible que ces deux symptômes soient discrets), collatérales veineuses portales, évolution asymptomatique possible Forme chronique:Complications d’une cirrhose hépatique (ictère, ascite, œdèmes, hémorragie gastro-intestinale dans le cadre de ­collatérales veineuses portales, encéphalopathie hépatique)Evolution asymptomatique possible  L’échographie-doppler couleur possède une sensibilité et une spécificité d’au moins 85%, ce qui en fait l’examen de premier choix dans le cadre des investigations diagnostiques. L’angio-tomodensitométrie et l’angiographie par résonance magnétique représentent des alternatives, en particulier pour visualiser l’anatomie veineuse et le parenchyme hépatique, y compris en vue d’un éventuel traitement interventionnel [3, 4].  Le traitement vise d’une part l’hypertension portale et ses complications et d’autre part la genèse thrombotique et les affections sous-jacentes. La mise en place d’un TIPS constitue une bonne alternative thérapeutique, notamment chez les patients avec SBC et complications non maîtrisables de l’hypertension portale, et elle est en particulier bien tolérée par les patients avec fonction hépatique relativement bonne. La mise en place d’un TIPS devrait être envisagée précocement comme intervention de premier choix chez les ­patients avec réponse insuffisante à un traitement médicamenteux, car cette intervention permet d’améliorer considérablement la survie sans transplantation par rapport au traitement médicamenteux [5]. En raison de l’évènement thrombotique sous-jacent, les patients devraient faire l’objet d’une anticoagulation thérapeutique par antagonistes de la vitamine K (par example Marcoumar®) afin d’obtenir une valeur d’INR de 2–3. Si possible, toute affection sous-jacente diagnostiquée dans le cadre des examens devrait en plus être traitée spécifiquement.  En l’absence de traitement, le SBC symptomatique est associé à une mortalité élevée, de l’ordre d’environ 90% en l’espace de trois ans. Moyennant une mise en œuvre progressive de toutes les options thérapeutiques (traitement médicamenteux, thrombolyse et angioplasie, TIPS, transplantation hépatique), un taux de survie à cinq ans de 90% peut être atteint [1].  L’essentiel pour la pratique  • Le syndrome de Budd-Chiari (SBC) représente une cause rare de douleurs abdominales et d’ascite, et il devrait être envisagé dans le cadre des ­investigations.  • Les patients peuvent se présenter avec des symptômes très peu spécifiques.  • Le diagnostic est posé au moyen de l’imagerie, soit par échographie, soit par tomodensitométrie et imagerie par résonance magnétique.  • Dans nos contrées, le SBC est le plus souvent causé par une thrombophilie (surtout maladies myéloprolifératives).  • En raison des thromboses veineuses hépatiques, une anticoagulation thérapeutique doit être initiée. Par ailleurs, l’hypertension portale et toute maladie sous-jacente potentielle doivent faire l’objet d’un traitement spécifique.  • Le taux de mortalité élevé en l’absence de traitement peut être abaissé considérablement moyennant la mise en œuvre de toutes les options thérapeutiques.
+T117	procedure 3905 3923	statut mutationnel
+T118	labvalue 3924 3931	positif
+T119	disorder 4013 4041	néoplasie myéloproliférative
+T120	disorder 4050 4067	maladie de Vaquez
+T121	disorder 4144 4168	obstruction thrombotique
+T122	disorder 4202 4225	syndrome de Budd-Chiari
+T123	procedure 4231 4243	gastroscopie
+T124	disorder 4260 4285	duodénite érosive ­légère
+T125	disorder 4314 4334	hypertension portale
+T126	disorder 4346 4380	varices œsophagiennes ou fundiques
+T127	procedure 4392 4421	anticoagulation thérapeutique
+T128	procedure 4436 4457	traitement diurétique
+T129	disorder 4461 4507	obstruction thrombotique des veines hépatiques
+T130	procedure 4510 4519	persisté 
+T131	disorder 4583 4589	ascite
+T132	procedure 4606 4614	ponction
+T133	procedure 4673 4734	shunt porto-systémique intrahépatique par voie transjugulaire
+T134	procedure 4736 4740	TIPS
+T135	procedure 4760 4779	portographie au CO2
+T136	procedure 4798 4830	collatérales ont été visualisées
+T137	irrelevant 4871 5050	Figure 2: Portographie au CO2: injection de CO2après insertion d’un ballon d’occlusion par la veine hépatique droite obstruée. Visualisation du CO2dans les multiples collatérales.
+T138	procedure 5058 5074	ponction réussie
+T139	procedure 5157 5177	portographie directe
+T140	disorder 5212 5245	obstruction des veines hépatiques
+T141	disorder 5311 5317	ascite
+T142	procedure 5283 5295	intervention
+T143	labvalue 5331 5338	diminué
+T144	procedure 5356 5377	traitement diurétique
+T145	irrelevant 5407 5586	Figure 3: Injection de produit de contraste directement dans la veine porte (x) avec visualisation de la veine coronaire (flèche) et de petites varices œsophagiennes (astérisque).
+T146	procedure 5613 5632	sortie de l’hôpital
+T147	disorder 5709 5741	douleurs abdominales croissantes
+T148	disorder 5751 5765	prise de poids
+T149	disorder 5791 5817	augmentation de la diurèse
+T150	disorder 5823 5848	augmentation de l’ascite 
+T151	procedure 5868 5879	échographie
+T152	disorder 5903 5927	obstruction thrombotique
+T153	procedure 5931 5935	TIPS
+T154	procedure 5966 5991	traitement anticoagulant 
+T155	drugs 6009 6018	Marcoumar
+T156	procedure 6034 6038	TIPS
+T157	procedure 6039 6046	obstrué
+T158	procedure 6057 6067	recanalisé
+T159	procedure 6084 6106	voie interventionnelle
+T160	procedure 6121 6139	thrombolyse locale
+T161	procedure 6144 6148	TIPS
+T162	irrelevant 6231 6386	Figure 4: Shunt porto-systémique intrahépatique par voie transjugulaire (TIPS) bien fonctionnel avec flux uniquement encore minime dans la veine coronaire.
+T163	procedure 6405 6428	évènement thrombotique 
+T164	procedure 6447 6471	anticoagulation adéquate
+T165	procedure 6476 6486	traitement
+T166	drugs 6491 6500	Marcoumar
+T167	procedure 6525 6536	 traitement
+T168	drugs 6553 6564	rivaroxaban
+T169	procedure 6573 6610	traitement anti­agrégant plaquettaire
+T170	drugs 6615 6638	acide acétylsalicylique
+T171	procedure 6666 6690	évaluation hématologique
+T172	procedure 6734 6759	traitement cytoréducteur 
+T173	drugs 6763 6770	Litalir
+T174	procedure 6876 6895	fonction hépatique 
+T175	labvalue 6895 6902	normale
+T176	disorder 6919 6925	ascite
+T177	procedure 6951 6955	TIPS

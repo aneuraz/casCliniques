@@ -1,0 +1,161 @@
+T1	disorder 16 23	diabète
+T2	procedure 35 49	bien équilibré
+T3	disorder 131 160	insuffisance rénale chronique
+T4	procedure 161 169	dialysée
+T5	procedure 171 188	diurèse conservée
+T6	disorder 209 232	hypertension artérielle
+T7	procedure 233 243	stabilisée
+T8	procedure 251 280	triple traitement hypotenseur
+T9	disorder 288 311	cardiopathie ischémique
+T10	procedure 334 342	pontages
+T11	disorder 360 364	BPCO
+T12	risk 370 379	tabagique
+T13	disorder 394 418	hyperactivité bronchique
+T14	procedure 422 425	IMC
+T15	labvalue 432 434	34
+T16	labvalue 448 454	1,72 m
+T17	labvalue 436 442	102 kg
+T18	disorder 568 588	infection pulmonaire
+T19	drugs 601 611	Cefotaxime
+T20	procedure 623 638	hospitalisation
+T21	procedure 643 653	diagnostic
+T22	disorder 657 669	pneumopathie
+T23	drugs 675 684	Cordarone
+T24	disorder 709 737	troubles du rythme cardiaque
+T25	profession 755 766	pneumologue
+T26	procedure 786 794	prescrit
+T27	procedure 813 828	corticothérapie
+T28	drugs 833 841	Solupred
+T29	procedure 938 945	diabète
+T30	procedure 953 968	corticothérapie
+T31	profession 973 984	pneumologue
+T32	procedure 1001 1010	protocole
+T33	drugs 1013 1028	insuline rapide
+T34	procedure 1045 1066	adapter aux glycémies
+T35	disorder 1121 1145	rétention urinaire aiguë
+T36	procedure 1171 1186	sonde à demeure
+T37	profession 1226 1237	pneumologue
+T38	procedure 1249 1261	consultation
+T39	disorder 1281 1288	fébrile
+T40	procedure 1299 1302	CRP
+T41	labvalue 1303 1309	élevée
+T42	procedure 1314 1321	modifie
+T43	procedure 1335 1344	protocole
+T44	drugs 1347 1355	insuline
+T45	procedure 1358 1366	injecter
+T46	procedure 1420 1428	glycémie
+T47	labvalue 1431 1436	1,8 g
+T48	labvalue 1457 1464	1,8 g/l
+T49	labvalue 1477 1485	2,4 g/l 
+T50	drugs 1492 1503	Humalog SC 
+T51	labvalue 1505 1512	2,4 g/l
+T52	labvalue 1526 1531	4 g/l
+T53	procedure 1466 1474	glycémie
+T54	procedure 1515 1523	glycémie
+T55	drugs 1539 1549	Humalog SC
+T56	procedure 1584 1589	admis
+T57	disorder 1627 1639	hyperthermie
+T58	labvalue 1642 1648	38,4°C
+T59	disorder 1670 1694	défaillance respiratoire
+T60	procedure 1703 1707	SaO2
+T61	labvalue 1716 1720	90 %
+T62	disorder 1742 1768	pneumopathie basale droite
+T63	procedure 1775 1791	radio thoracique
+T64	labvalue 1793 1812	opacités bi-basales
+T65	disorder 1847 1865	épanchement pleura
+T66	procedure 1866 1882	Bilan biologique
+T67	procedure 1885 1896	créatinémie
+T68	labvalue 1899 1909	419 mmol/l
+T69	procedure 1912 1920	glycémie
+T70	labvalue 1923 1931	1,20 g/l
+T71	procedure 1934 1937	CRP
+T72	labvalue 1940 1947	82 mg/l
+T73	procedure 1951 1955	ECBU
+T74	disorder 1958 1976	infection urinaire
+T75	labvalue 1979 1999	Enterobacter cloacae
+T76	labvalue 2005 2021	Enterococcus spp
+T77	procedure 2022 2031	Transfert
+T78	procedure 2059 2069	traitement
+T79	drugs 2074 2083	Rocéphine
+T80	procedure 2152 2162	 aminoside
+T81	procedure 2183 2196	antibiogramme
+T82	procedure 2198 2207	injection
+T83	procedure 2221 2234	post- dialyse
+T84	drugs 2266 2274	Solupred
+T85	profession 2313 2324	pneumologue
+T86	procedure 2329 2354	traitement antidiabétique
+T87	procedure 2361 2378	nouveau protocole
+T88	drugs 2397 2412	insuline rapide
+T89	procedure 2435 2444	glycémie 
+T90	labvalue 2445 2452	2,5 g/l
+T91	procedure 2510 2518	glycémie
+T92	labvalue 2521 2527	1,69 g
+T93	procedure 2581 2589	glycémie
+T94	drugs 2598 2604	Lantus
+T95	drugs 2612 2619	Humalog
+T96	procedure 2663 2671	glycémie
+T97	labvalue 2674 2682	3,04 g/l
+T98	drugs 2685 2692	Humalog
+T99	procedure 2773 2781	glycémie
+T100	labvalue 2782 2790	1,30 g/l
+T101	disorder 2811 2820	somnolent
+T102	procedure 2860 2868	glycémie
+T103	labvalue 2870 2878	0,50 g/l
+T104	procedure 2983 2991	glycémie
+T105	labvalue 2994 3002	0,39 g/l
+T106	drugs 3060 3065	G 30%
+T107	procedure 3069 3071	IV
+T108	procedure 3169 3177	glycémie
+T109	labvalue 3180 3188	0,41 g/l
+T110	procedure 3238 3246	glycémie
+T111	labvalue 3249 3257	0,50 g/l
+T112	drugs 3274 3279	G 30%
+T113	procedure 3283 3285	IV
+T114	procedure 3073 3098	prescription téléphonique
+T115	procedure 3287 3312	prescription téléphonique
+T116	profession 2943 2953	infirmière
+T117	profession 2699 2709	infirmière
+T118	profession 2626 2636	infirmière
+T119	profession 3101 3123	infirmière intérimaire
+T120	profession 3315 3337	infirmière intérimaire
+T121	procedure 3388 3396	glycémie
+T122	labvalue 3399 3407	0,57 g/l
+T123	profession 3472 3496	infirmière intérimaire B
+T124	disorder 3518 3526	comateux
+T125	disorder 3528 3551	encombrement bronchique
+T126	procedure 3557 3560	HTA
+T127	labvalue 3563 3567	20/9
+T128	procedure 3570 3578	glycémie
+T129	labvalue 3581 3589	0,50 g/l
+T130	drugs 3696 3700	G 30
+T131	procedure 3653 3661	prescrit
+T132	procedure 3664 3679	administration 
+T133	procedure 3706 3710	IVD 
+T134	drugs 3734 3744	Furosémide
+T135	disorder 3765 3773	comateux
+T136	labvalue 3775 3793	faiblement réactif
+T137	procedure 3797 3805	glycémie
+T138	labvalue 3808 3816	1,30 g/l
+T139	profession 3826 3837	pneumologue
+T140	procedure 3885 3894	transfert
+T141	procedure 3872 3880	prescrit
+T142	procedure 3945 3960	hospitalisation
+T143	profession 4001 4010	infirmier
+T144	procedure 4043 4081	compte-rendu du service de réanimation
+T145	disorder 4085 4089	coma
+T146	procedure 4101 4104	HTA
+T147	labvalue 4106 4112	196/68
+T148	procedure 4114 4116	FC
+T149	labvalue 4118 4124	65/min
+T150	disorder 4137 4146	marbrures
+T151	procedure 4148 4156	glycémie
+T152	labvalue 4159 4164	2 g/l
+T153	procedure 4176 4196	ventilation assistée
+T154	procedure 4198 4212	Hémofiltration
+T155	disorder 4237 4261	fistule artério-veineuse
+T156	procedure 4262 4274	TDM cérébral
+T157	labvalue 4277 4284	absence
+T158	disorder 4287 4311	anomalie aiguë cérébrale
+T159	procedure 4313 4327	TDM thoracique
+T160	disorder 4340 4370	broncho-pneumopathie des bases
+T161	procedure 4404 4412	séjourne

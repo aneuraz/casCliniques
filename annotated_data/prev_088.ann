@@ -1,0 +1,116 @@
+T1	procedure 17 27	coloscopie
+T2	disorder 43 55	constipation
+T3	disorder 58 71	 rectorragies
+T4	disorder 87 161	lésion polypoïde de la charnière recto sigmoïdienne hémi circonférentielle
+T5	procedure 167 175	biopsie 
+T6	drugs 190 196	Plavix
+T7	disorder 211 233	adénome tubulo-villeux
+T8	disorder 255 264	dysplasie
+T9	labvalue 268 278	haut grade
+T10	procedure 284 308	échographie endoscopique
+T11	disorder 322 341	lésion hypoéchogène
+T12	disorder 428 440	adénopathies
+T13	procedure 503 506	TDM
+T14	procedure 659 668	résection
+T15	procedure 707 717	anastomose
+T16	disorder 845 851	cancer
+T17	drugs 941 947	Plavix
+T18	disorder 954 977	hypertension artérielle
+T19	procedure 999 1010	trithérapie
+T20	disorder 1017 1038	hypercholestérolémie 
+T21	drugs 1050 1059	 statines
+T22	procedure 1067 1079	consultation
+T23	procedure 1122 1143	indication opératoire
+T24	procedure 1148 1160	intervention
+T25	procedure 1240 1252	intervention
+T26	procedure 1265 1296	rétablissement de la continuité
+T27	procedure 1304 1313	ligature 
+T28	procedure 1395 1407	vérification
+T29	procedure 1474 1486	intervention
+T30	labvalue 1505 1517	170/90 mm Hg
+T31	drugs 1522 1532	 Droleptan
+T32	procedure 1563 1574	extubation 
+T33	procedure 1598 1603	gardé
+T34	disorder 1668 1697	syndrome douloureux abdominal
+T35	procedure 1719 1726	mesures
+T36	procedure 1759 1767	contrôle
+T37	disorder 1771 1793	 syndrome hyperalgique
+T38	disorder 1812 1839	retentissement respiratoire
+T39	disorder 1841 1849	polypnée
+T40	labvalue 1852 1862	20-30/min 
+T41	procedure 1865 1882	oxygénodépendance
+T42	procedure 1944 1956	radiographie
+T43	disorder 1980 1999	syndrome bronchique
+T44	disorder 2007 2031	atélectasies bilatérales
+T45	procedure 2038 2048	gazométrie
+T46	disorder 2071 2091	acidose respiratoire
+T47	drugs 2097 2115	apports hydrosodés
+T48	drugs 2147 2161	Ringer lactate
+T49	procedure 2253 2256	PCA
+T50	procedure 2326 2338	surveillance
+T51	procedure 2501 2521	aspiration gastrique
+T52	procedure 2547 2551	SpO2
+T53	drugs 2592 2600	Tramadol
+T54	procedure 2602 2605	PCA
+T55	drugs 2619 2627	Kétamine
+T56	drugs 2629 2645	apport liquidien
+T57	drugs 2853 2861	morphine
+T58	procedure 2880 2884	SpO2
+T59	procedure 2903 2907	 EVA
+T60	procedure 2940 2960	aspiration gastrique
+T61	procedure 2910 2913	 TA
+T62	disorder 3081 3092	hypotension
+T63	disorder 3149 3170	 insuffisance rénale 
+T64	labvalue 3094 3109	75 à 80 mm d’Hg
+T65	labvalue 3133 3141	110 /min
+T66	labvalue 3184 3195	197 mmol/l 
+T67	labvalue 3225 3232	normale
+T68	procedure 3339 3349	aspiration
+T69	labvalue 3358 3364	400 ml
+T70	procedure 3386 3396	hémogramme
+T71	labvalue 3401 3407	normal
+T72	procedure 3171 3181	créatinine
+T73	labvalue 3508 3514	 basse
+T74	disorder 3544 3554	tachycarde
+T75	disorder 3558 3567	hypoxique
+T76	disorder 3578 3587	hypoxémie
+T77	labvalue 3590 3595	89 % 
+T78	procedure 3754 3763	surveillé
+T79	procedure 3806 3817	réanimation
+T80	disorder 3823 3844	détresse respiratoire
+T81	disorder 3846 3872	troubles de la conscience 
+T82	disorder 3875 3888	choc septique
+T83	disorder 4013 4044	anastomose OK au toucher rectal
+T84	procedure 4061 4067	intubé
+T85	procedure 4069 4076	ventilé
+T86	procedure 4093 4104	réanimation
+T87	disorder 4156 4168	état de choc
+T88	disorder 4170 4198	acidose métabolique lactique
+T89	disorder 4200 4210	leucopénie
+T90	disorder 4214 4239	insuffisance rénale aigue
+T91	disorder 4245 4251	anurie
+T92	disorder 4278 4291	choc septique
+T93	disorder 4374 4390	ischémie colique
+T94	disorder 4395 4402	douleur
+T95	procedure 4440 4451	cœlioscopie
+T96	disorder 4457 4476	acidose métabolique
+T97	procedure 4495 4505	intervenir
+T98	disorder 4536 4557	péritonite stercorale
+T99	disorder 4589 4615	infarctus du colon abaissé
+T100	disorder 4620 4636	grêle ischémique
+T101	procedure 4638 4655	résection colique
+T102	procedure 4657 4678	colostomie transverse
+T103	drugs 4685 4698	antibiotiques
+T104	procedure 4710 4722	réanimation 
+T105	procedure 4743 4755	Hémocultures
+T106	disorder 4812 4824	défaillances
+T107	procedure 4841 4851	extubation
+T108	disorder 4962 4987	pneumopathie nosocomiale 
+T109	procedure 5006 5017	ventilation
+T110	procedure 5085 5101	ré intervention 
+T111	disorder 5106 5127	péritonite stercorale
+T112	procedure 5129 5142	perforations 
+T113	procedure 5164 5190	collection du flanc gauche
+T114	labvalue 5208 5221	 défavorable 
+T115	disorder 5225 5252	 fistules iléo péritonéales
+T116	procedure 5287 5308	intervention initiale

@@ -1,0 +1,85 @@
+T1	disorder 55 113	Douleur fosse lombaire irradiant vers les organes génitaux
+T2	disorder 117 125	EVA à 6.
+T3	disorder 128 138	apyrétique
+T4	disorder 142 149	dysurie
+T5	disorder 172 192	organes génitaux RAS
+T6	disorder 195 209	pas de torsion
+T7	disorder 211 239	pas d'augmentation de volume
+T8	disorder 243 257	Abdomen souple
+T9	disorder 259 276	pas de Mac Burney
+T10	procedure 287 307	 bandelette urinaire
+T11	labvalue 312 319	normale
+T12	labvalue 331 364	absence d'hématurie microscopique
+T13	labvalue 379 390	leucocytose
+T14	labvalue 394 398	 CPR
+T15	labvalue 405 416	créatinémie
+T16	procedure 421 443	échographie abdominale
+T17	drugs 588 598	Perfalgan®
+T18	drugs 600 609	Profenid®
+T19	drugs 611 618	Acupan®
+T20	drugs 630 639	morphine 
+T21	disorder 664 671	douleur
+T22	disorder 760 803	"petite" défense de la fosse iliaque droite
+T23	procedure 809 831	TDM abdomino-pelvienne
+T24	disorder 860 874	pas d’anomalie
+T25	disorder 886 936	pas de dilatation des cavités excrétrices droites 
+T26	drugs 1119 1131	Bi Profenid®
+T27	drugs 1133 1141	Inexium®
+T28	drugs 1143 1151	Spasfon®
+T29	procedure 1178 1220	consulter en cas de récidive de la douleur
+T30	disorder 1337 1345	douleurs
+T31	disorder 1642 1662	douleurs abdominales
+T32	profession 1863 1893	médecins généralistes libéraux
+T33	profession 1898 1917	médecin généraliste
+T34	disorder 1935 1963	Douleurs abdominales gauches
+T35	disorder 1965 1972	nausées
+T36	disorder 1976 1988	vomissements
+T37	disorder 1999 2014	selles ce matin
+T38	disorder 2016 2024	frissons
+T39	disorder 2026 2053	ventre souple mais sensible
+T40	disorder 2056 2092	douleurs testicules surtout à gauche
+T41	disorder 2110 2131	douleurs abdo droites
+T42	labvalue 2139 2146	Hb 14,5
+T43	labvalue 2148 2157	GB 12 500
+T44	labvalue 2158 2166	poly 78%
+T45	labvalue 2167 2178	 CRP 0,6 mg
+T46	labvalue 2179 2189	 creat 73;
+T47	labvalue 2190 2200	Ph alc 152
+T48	profession 2245 2256	généraliste
+T49	procedure 2269 2280	échographie
+T50	procedure 2370 2392	échographie abdominale
+T51	disorder 2407 2485	douleurs abdominales basses, paraombilicales gauches et verif Testicule gauche
+T52	profession 2522 2533	généraliste
+T53	disorder 2614 2630	Pas de lithiase 
+T54	disorder 2634 2651	 orchite probable
+T55	irrelevant 2654 2787	(A noter que cette conclusion ne figure pas dans le compte-rendu dactylographié remis à l'expert, par le service d'imagerie médicale)
+T56	profession 2791 2811	médecin généraliste 
+T57	drugs 3051 3059	Oflocet®
+T58	disorder 3111 3134	souffrir du côté gauche
+T59	procedure 3196 3207	échographie
+T60	disorder 3333 3376	testicule droit atrophique très hypoéchogèn
+T61	disorder 3398 3406	torsion 
+T62	disorder 3442 3493	orchite avec aspect très inflammatoire du testicule
+T63	disorder 3517 3529	hypoéchogène
+T64	disorder 3535 3586	augmenté de volume avec une charge hydrique marquée
+T65	procedure 3621 3640	flux en échodoppler
+T66	disorder 3687 3694	torsion
+T67	procedure 3841 3864	consultation urologique
+T68	disorder 3986 4007	Testicule gauche noir
+T69	disorder 4009 4081	augmenté de volume par l'infarctus dû à la torsion du cordon spermatique
+T70	disorder 4083 4137	Détorsion sans espoir de récupérer un testicule viable
+T71	procedure 4150 4170	orchidectomie gauche
+T72	procedure 4174 4193	Orchidotomie droite
+T73	disorder 4211 4236	testicule gris atrophique
+T74	disorder 4271 4300	torsion du cordon spermatique
+T75	procedure 4302 4323	Détorsion spermatique
+T76	disorder 4458 4505	infarcissement hémorragique du testicule gauche
+T77	procedure 4415 4442	examen anatomo-pathologique
+T78	profession 4546 4556	chirurgien
+T79	disorder 4681 4690	sensible 
+T80	disorder 4693 4703	atrophique
+T81	procedure 4753 4773	orchidectomie droite
+T82	profession 4910 4925	endocrinologue 
+T83	drugs 4934 4959	substitution androgénique
+T84	drugs 5018 5030	Androtardyl®
+T85	irrelevant 5059 5091;5093 5379;5380 5561;5562 6494;6495 6602;6603 6826;6828 6987	Lors de l’expertise en mars 2013  Dans le dossier manuscrit transmis, a posteriori, à l'expert par le médecin généraliste ayant reçu le patient, il apparaissait, une discordance entre les documents manuscrits, établis en urgence tels que décrits par le généraliste et les documents dactylographiés fournis par l’hôpital. En effet, dans le bon dactylographié de demande d'échographie, transmis par l'hôpital à l'expert n'étaient pas mentionnés les mots : " (...) verif Testicule gauche (douleur) (...) " Par ailleurs, contrairement au compte-rendu manuscrit que le généraliste disait avoir eu en main et qui n'était plus dans le dossier, le compte-rendu dactylographié de l'échographie ne mentionne pas d'examen du testicule gauche :" (...) Indication : Douleur paraombilicale. Patient apyrétique. Bandelette non disponible. Résultats : Echostructure normale du foie, des voies biliaires, de la rate et du pancréas. Les 2 reins sont de taille et d'échostructure normales sans image lithiasique décelée au sein des cavités pyélo-calicielles. Ces dernières n'apparaissent pas dilatées. La vessie est en très faible réplétion, de contenu trans sonore. Pas d'épanchement intrapéritonéal. On note une sensibilité au passage de la sonde en région paraombilicale gauche mais sans anomalie décelée en regard. Discrète réplétion liquidienne jéjunale avec péristaltisme conservé... Conclusion : échographie abdominale sans anomalie décelée (...)" Par ailleurs, le patient disait être suivi par un psychiatre mais ne pas prendre de traitement psychotrope.  Sur le plan sexuel, il déclarait avoir présenté de manière temporaire une dysfonction érectile mais qu'actuellement il avait des érections et des rapports pénétrants avec, toutefois, une diminution du volume de l’éjaculat.  Assignation du médecin généraliste devant le tribunal de grande instance par le patient pour obtenir réparation du préjudice qu’il avait subi (septembre 2011).

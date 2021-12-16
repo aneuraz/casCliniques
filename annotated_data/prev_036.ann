@@ -1,0 +1,56 @@
+T1	disorder 81 102	douleurs abdominales 
+T2	disorder 118 125	nausées
+T3	disorder 132 142	céphalées.
+T4	disorder 210 223	 tremblements
+T5	disorder 244 261	douleurs diffuses
+T6	drugs 301 313	Paracétamol®
+T7	drugs 528 541	Paracétamol® 
+T8	disorder 585 597	appendicite 
+T9	irrelevant 751 929	A 16h30, sa mère est alertée par les cris de sa fille qui était agitée et se plaignait de douleurs diffuses. Le médecin, alerté, promet de venir dès la fin de ses consultations. 
+T10	irrelevant 723 750	A 14h00, elle se recouche. 
+T11	irrelevant 668 722	A 12h30, celle-ci se lève mais refuse de s’alimenter. 
+T12	disorder 1020 1041	douleurs abdominales 
+T13	disorder 1046 1060	 vomissements.
+T14	disorder 1093 1117	La FID était douloureuse
+T15	disorder 1155 1170	une appendicite
+T16	irrelevant 1173 1267	 adresse la patiente avec une lettre aux urgences du centre hospitalier proche de son domicile
+T17	irrelevant 1382 1483	a patiente avait répondu à son téléphone et qu’elle pouvait mobiliser ses quatre membres et s’asseoir
+T18	profession 1519 1529	urgentiste
+T19	procedure 1562 1578	examen clinique,
+T20	disorder 1592 1604	 appendicite
+T21	procedure 1636 1669	La NFS montreune hyperleucocytose
+T22	labvalue 1672 1682	22 800/mm3
+T23	procedure 1696 1724	polynucléaires neutrophiles.
+T24	procedure 1725 1731	La CRP
+T25	labvalue 1738 1746	160 mg/l
+T26	disorder 1773 1792	 infection urinaire
+T27	procedure 1798 1816	 test de grossesse
+T28	labvalue 1821 1829	négatif.
+T29	disorder 1911 1935	syndrome abdominal aigu,
+T30	disorder 1948 1997	 une douleur de l’hypochondre droit et un psoïtis
+T31	disorder 2150 2165	signes méningés
+T32	irrelevant 2539 2565	Quittant l’hôpital à 21h20
+T33	irrelevant 2390 2537	L’urgentiste appelle le service de chirurgie mais, en raison de l’absence de place, il décide le transfert de la patiente dans la clinique voisine.
+T34	irrelevant 2567 2734	elle arrive à la clinique 25 minutes plus tard. Le médecin de garde note sur son observation qu’elle est couchée en chien de fusil et qu’elle se plaint de photophobie.
+T35	disorder 2822 2838	 signe de Kernig
+T36	disorder 2841 2861	 signe de Brudzinski
+T37	disorder 2797 2817	 raideur de la nuque
+T38	disorder 2873 2881	 purpura
+T39	procedure 2932 2955	 La pression artérielle
+T40	labvalue 2970 2981	120/70 mmHg
+T41	procedure 2985 3007	la fréquence cardiaque
+T42	labvalue 3009 3018	 105/ min
+T43	irrelevant 3021 3057	ers 22h00, l’état clinique s’aggrave
+T44	procedure 3208 3221	Une injection
+T45	drugs 3234 3245	Solumédrol®
+T46	irrelevant 3258 3372	Après appel du SAMU à 22h45, la patiente est retransférée au centre hospitalier où elle arrive une heure plus tard
+T47	procedure 3397 3440	intubée et mise sous ventilation assistée. 
+T48	procedure 3440 3459	Un scanner cérébral
+T49	procedure 3506 3528	Une antibiothérapie IV
+T50	drugs 3533 3543	Céfotaxime
+T51	labvalue 3638 3665	 2 500 globules blancs/mm3 
+T52	procedure 3707 3722	 protéinorachie
+T53	labvalue 3725 3734	4,07 g/l,
+T54	procedure 3735 3746	glycorachie
+T55	labvalue 3770 3789	cocci gram négatif 
+T56	labvalue 3809 3821	méningocoque

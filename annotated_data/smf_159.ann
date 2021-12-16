@@ -1,0 +1,252 @@
+T1	procedure 202 210	anamnèse
+T2	procedure 237 252	examen clinique
+T3	procedure 260 283	analyses de laboratoire
+T4	procedure 345 364	procédés d’imagerie
+T5	procedure 366 377	échographie
+T6	procedure 379 396	tomodensitométrie
+T7	procedure 399 431	magerie par résonance magnétique
+T8	procedure 467 482	biopsie du foie
+T9	procedure 591 599	Anamnèse
+T10	procedure 678 700	échographie abdominale
+T11	procedure 1020 1043	analyses de laboratoire
+T12	procedure 1079 1092	transaminases
+T13	procedure 1100 1124	paramètres de cholestase
+T14	procedure 1130 1147	bilirubine totale
+T15	labvalue 1148 1154	élevée
+T16	labvalue 1176 1185	élévation
+T17	procedure 1192 1195	CRP
+T18	procedure 1223 1233	leucocytes
+T19	labvalue 1211 1219	normales
+T20	drugs 1385 1396	pénicilline
+T21	drugs 1420 1431	pénicilline
+T22	procedure 1500 1511	Hémoglobine
+T23	labvalue 1513 1516	g/l
+T24	labvalue 1518 1525	135–175
+T25	labvalue 1526 1529	123
+T26	labvalue 1530 1533	148
+T27	labvalue 1534 1537	146
+T28	labvalue 1538 1541	162
+T29	labvalue 1542 1545	158
+T30	labvalue 1546 1549	153
+T31	labvalue 1599 1603	12,5
+T32	labvalue 1594 1598	11,4
+T33	labvalue 1590 1593	8,9
+T34	labvalue 1585 1589	10,5
+T35	labvalue 1580 1584	10,8
+T36	labvalue 1576 1579	8,8
+T37	labvalue 1567 1575	4,5–11,5
+T38	labvalue 1562 1565	G/l
+T39	procedure 1550 1560	Leucocytes
+T40	procedure 1604 1607	CRP
+T41	procedure 1638 1642	ASAT
+T42	procedure 1673 1677	ALAT
+T43	procedure 1708 1712	γ-GT
+T44	procedure 1749 1769	Phosphatase alcaline
+T45	procedure 1803 1820	Bilirubine totale
+T46	procedure 1854 1881	Titre de Treponema pallidum
+T47	procedure 1883 1887	TPHA
+T48	procedure 1933 1984	Titre au test Venereal disease ­research laboratory
+T49	procedure 1986 1990	VDRL
+T50	labvalue 1992 1999	Négatif
+T51	labvalue 2004 2006	32
+T52	labvalue 2007 2008	2
+T53	labvalue 2011 2013	<1
+T54	labvalue 1928 1932	2560
+T55	labvalue 1921 1925	1280
+T56	labvalue 1914 1920	20 480
+T57	labvalue 1890 1909	quantitatif	Négatif
+T58	labvalue 1852 1853	9
+T59	labvalue 1849 1851	10
+T60	labvalue 1846 1848	13
+T61	labvalue 1842 1845	139
+T62	labvalue 1839 1841	59
+T63	labvalue 1834 1838	42,3
+T64	labvalue 1830 1833	<21
+T65	labvalue 1822 1828	µmol/l
+T66	labvalue 1771 1775	U/l)
+T67	labvalue 1776 1780	<117
+T68	labvalue 1781 1784	436
+T69	labvalue 1785 1788	402
+T70	labvalue 1789 1792	317
+T71	labvalue 1793 1796	131
+T72	labvalue 1797 1799	80
+T73	labvalue 1800 1802	92
+T74	labvalue 1745 1748	372
+T75	labvalue 1741 1744	168
+T76	labvalue 1737 1740	240
+T77	labvalue 1733 1736	338
+T78	labvalue 1728 1732	1235
+T79	labvalue 1723 1727	1274
+T80	labvalue 1719 1722	<50
+T81	labvalue 1714 1717	U/l
+T82	labvalue 1679 1682	U/l
+T83	labvalue 1684 1687	<41
+T84	labvalue 1688 1691	410
+T85	labvalue 1692 1695	413
+T86	labvalue 1696 1698	92
+T87	labvalue 1699 1701	67
+T88	labvalue 1702 1704	33
+T89	labvalue 1705 1707	47
+T90	labvalue 1670 1672	29
+T91	labvalue 1667 1669	21
+T92	labvalue 1664 1666	31
+T93	labvalue 1661 1663	45
+T94	labvalue 1657 1660	112
+T95	labvalue 1653 1656	158
+T96	labvalue 1649 1652	<41
+T97	labvalue 1644 1647	U/l
+T98	labvalue 1609 1613	mg/l
+T99	labvalue 1615 1617	<5
+T100	labvalue 1618 1620	19
+T101	labvalue 1621 1623	26
+T102	labvalue 1624 1626	10
+T103	labvalue 1627 1629	13
+T104	labvalue 1630 1633	2,8
+T105	labvalue 1634 1637	2,9
+T106	risk 2231 2247	rapports sexuels
+T107	risk 2054 2073	séjour à l’étranger
+T108	risk 2261 2281	piqûres de moustique
+T109	risk 2288 2313	contacts avec des animaux
+T110	labvalue 2425 2429	3 kg
+T111	disorder 556 568	hépatopathie
+T112	disorder 722 740	cholécystite aiguë
+T113	disorder 754 776	douleurs épigastriques
+T114	disorder 871 902	troubles dyspeptiques passagers
+T115	drugs 954 985	inhibiteur de la pompe à proton
+T116	disorder 2360 2367	fatigue
+T117	disorder 2385 2401	sueurs nocturnes
+T118	disorder 2528 2536	vertiges
+T119	disorder 2538 2542	toux
+T120	disorder 2544 2551	dyspnée
+T121	disorder 2517 2526	céphalées
+T122	disorder 2509 2515	fièvre
+T123	disorder 2120 2146	 trouble gastro-intestinal
+T124	disorder 2605 2626	symptômes urogénitaux
+T125	disorder 2576 2584	douleurs
+T126	disorder 2553 2574	douleurs articulaires
+T127	risk 2688 2697	tabagisme
+T128	risk 2748 2756	cannabis
+T129	risk 2796 2801	bière
+T130	risk 2808 2820	verre de vin
+T131	drugs 2875 2886	médicaments
+T132	profession 2891 2921	préparations à base de plantes
+T133	drugs 2928 2952	suppléments vitaminiques
+T134	procedure 2975 2983	anamnèse
+T135	procedure 3031 3045	tonsillectomie
+T136	procedure 3067 3085	anamnèse familiale
+T137	drugs 3107 3120	hépa­topathie
+T138	procedure 3270 3287	paramètres vitaux
+T139	labvalue 3296 3303	normaux
+T140	procedure 3305 3324	pression artérielle
+T141	labvalue 3327 3339	110/76 mm Hg
+T142	procedure 3341 3346	pouls
+T143	labvalue 3349 3355	86/min
+T144	procedure 3359 3371	tempé­rature
+T145	labvalue 3374 3381	36,6 C°
+T146	disorder 3391 3400	exanthème
+T147	procedure 3475 3484	palpation
+T148	disorder 3492 3525	ganglion lymphatique hypertrophié
+T149	procedure 3545 3561	examen abdominal
+T150	disorder 3643 3654	douloureuse
+T151	disorder 3777 3789	douloureuses
+T152	procedure 3795 3805	percussion
+T153	procedure 3823 3846	analyses de laboratoire
+T154	procedure 3864 3877	transaminases
+T155	procedure 3885 3909	paramètres de cholestase
+T156	labvalue 3910 3916	élevés
+T157	disorder 3930 3948	hyperbilirubinémie
+T158	procedure 3961 3964	INR
+T159	procedure 3971 3994	numération plaquettaire
+T160	labvalue 4011 4016	norme
+T161	disorder 4025 4047	hypergammaglobulinémie
+T162	drugs 4086 4093	vacciné
+T163	procedure 4115 4126	Ac anti-VHA
+T164	labvalue 4157 4164	78 UI/l
+T165	procedure 4183 4194	Ac anti-HBs
+T166	labvalue 4196 4204	569 UI/l
+T167	procedure 4259 4268	ferritine
+T168	labvalue 4270 4278	327 μg/l
+T169	procedure 4284 4313	saturation de la transferrine
+T170	labvalue 4323 4326	21%
+T171	procedure 4331 4340	sérologie
+T172	disorder 4368 4378	hépatite C
+T173	disorder 4382 4383	E
+T174	disorder 4387 4439	infection par le virus de l’immunodéficience humaine
+T175	disorder 4441 4444	VIH
+T176	disorder 4452 4472	virus d’Epstein-Barr
+T177	disorder 4474 4477	EBV
+T178	disorder 4485 4498	échinococcose
+T179	procedure 4519 4542	analyses de laboratoire
+T180	disorder 4572 4592	hépatite auto-immune
+T181	procedure 4620 4644	anticorps antinucléaires
+T182	procedure 4646 4649	AAN
+T183	procedure 4654 4691	anticorps IgG dirigés contre l’actine
+T184	procedure 4695 4718	anticorps IgG anti-LKM1
+T185	procedure 4724 4746	anticorps IgG anti-SLA
+T186	procedure 4760 4819	dépistage sérologique pour la cholangite biliaire primitive
+T187	procedure 4821 4824	CBP
+T188	labvalue 5110 5120	<21 unités
+T189	disorder 5147 5162	symptômes aigus
+T190	procedure 5186 5203	test de dépistage
+T191	labvalue 5227 5235	6 unités
+T192	labvalue 5254 5260	normal
+T193	disorder 5267 5289	échographie abdominale
+T194	disorder 5344 5355	concrétions
+T195	disorder 5575 5586	hémangiomes
+T196	disorder 5710 5718	cirrhose
+T197	disorder 5727 5740	hépatomégalie
+T198	disorder 5751 5757	ascite
+T199	procedure 5780 5799	Evaluation initiale
+T200	procedure 5841 5851	l’anamnèse
+T201	disorder 5954 5968	l’hépatopathie
+T202	disorder 6024 6044	hépatite auto-immune
+T203	disorder 6049 6063	hémochromatose
+T204	disorder 6068 6097	cholangite biliaire primitive
+T205	disorder 6104 6121	cholangite à IgG4
+T206	disorder 6298 6317	maladie obstructive
+T207	disorder 6321 6332	parasitaire
+T208	disorder 6416 6448	cholangite sclérosante primitive
+T209	disorder 6450 6453	CSP
+T210	procedure 6460 6512	cholangio-­pancréatographie par résonance magnétique
+T211	procedure 6514 6518	CPRM
+T212	disorder 6567 6570	CSP
+T213	disorder 6576 6582	tumeur
+T214	disorder 6591 6604	cholélithiase
+T215	disorder 6701 6704	CSP
+T216	disorder 6709 6717	ectasies
+T217	disorder 6718 6746	ruptures des voies biliaires
+T218	procedure 6778 6788	sérologies
+T219	disorder 7090 7115	exanthème maculo-papuleux
+T220	risk 7268 7287	contact sexuel oral
+T221	irrelevant 7360 7563	Figure 1: Lésions cutanées typiques en cas de syphilis.A ) ­Syphilide palmaire: exanthème polymorphe de couleur rose.B ) et D ) Exanthème maculo-papuleux brun-rouge à la structure grossière sur le tronc.
+T222	disorder 7613 7621	syphilis
+T223	disorder 7647 7672	hépatopathie syphilitique
+T224	disorder 7765 7773	syphilis
+T225	procedure 7831 7867	Venereal Disease Research Laboratory
+T226	procedure 7870 7874	VDRL
+T227	labvalue 7796 7807	titre élevé
+T228	labvalue 7876 7886	titre 1:32
+T229	labvalue 7888 7896	norme <1
+T230	procedure 7901 7947	 testTreponema pallidum hemagglutination assay
+T231	labvalue 7947 7964	hautement positif
+T232	procedure 7966 7970	TPHA
+T233	labvalue 7972 7987	titre: 1:20 480
+T234	labvalue 7989 8000	norme <1:80
+T235	procedure 8008 8034	test des anticorps réactif
+T236	labvalue 8035 8081	(IgG et IgM contre Treponema pallidum positifs
+T237	procedure 8096 8120	test de dépistage du VIH
+T238	labvalue 8144 8151	négatif
+T239	procedure 8199 8227	biopsie hépatique percutanée
+T240	disorder 8289 8318	inflammation cellulaire mixte
+T241	disorder 8374 8411	foyers nécro-inflammatoires lobulaire
+T242	disorder 8418 8451	épithéliums biliaires irréguliers
+T243	disorder 8457 8483	cholestase intra-hépatique
+T244	disorder 8498 8520	faible fibrose portale
+T245	procedure 8524 8558	analyse de pa­thologie moléculaire
+T246	procedure 8650 8673	analyses de laboratoire
+T247	disorder 8717 8738	hépatite syphilitique
+T248	drugs 8883 8911	benzathine benzylpénicilline
+T249	procedure 8956 8979	paramètres sérologiques
+T250	procedure 8994 9007	transaminases
+T251	procedure 9015 9039	paramètres de cholestase
+T252	irrelevant 9081 9091;9093 9368;9370 10382;10384 10737;10739 11265;11267 11485;11487 11780;11782 12180;12182 12210;12212 12496	Discussion  Le cas décrit dans cet article porte sur une affection hépatique de la maladie systémique de la syphilis, qui est perceptible sur les plans clinique et sérologique. En raison de la diversité de sa présentation clinique, la maladie est souvent qualifiée de «maladie caméléon».  Une atteinte hépatique au stade secondaire de l’infection syphilitique a été décrite dans des cas isolés [1–4]. Dans env. 10% des cas, une augmentation de la phosphatase alcaline ou des transaminases peut survenir [2]. Il n’est pas rare que la valeur de la bilirubine sérique soit normale. L’hépatite syphilitique évolue souvent de façon cliniquement inapparente, et les évolutions fulminantes sont rares [5]. En règle générale, l’anamnèse et l’exanthème palmo-plantaire typique, qui survient dans env. 90% des cas, mènent au diagnostic [2]. Une lymphadénopathie peut survenir dans des cas isolés, mais cela n’était toutefois pas le cas chez notre patient. Les mécanismes physiopathologiques sous-jacents comprennent une lésion des hépatocytes directement induite par l’agent pathogène ou médiée par le système immunitaire. Le tableau histologique de l’hépatite syphi­litique n’est pas clairement défini, et la pathologie moléculaire ne permet pas toujours une mise en évidence à partir d’une préparation [1, 3].  Les caractéristiques décrites dans la littérature incluent par ex. des altérations inflammatoires initialement non spécifiques, une dysplasie des cellules de Kupffer, des nécroses focales, une stéatose macrovésiculaire ou des lésions cholestatiques [1–4]. Dans le cas présent, le résultat histopathologique est compatible avec une hépatite syphilitique.  En 2015, la Commission fédérale pour la santé sexuelle a publié des recommandations actualisées pour le diag­nostic et le traitement de la syphilis [6]. Sur la base de l’anamnèse, des observations cliniques et des résultats sérologiques, nous supposons une syphilis précoce ­secondaire chez ce patient. L’hépatite syphilitique est une manifestation de cette dernière. Après traitement par pénicilline G, les transaminases et les paramètres de cholestase diminuent en général fortement, comme cela a été observé dans notre cas.  En cas d’hépatopathie d’origine indéterminée, comme dans notre cas, le diagnostic de syphilis ne figure pas au premier plan. Il convient d’exclure en priorité une hépatopathie virale, auto-immune ou toxico-métabolique.  Dans le cas présent, aucun indice ne suggérait une hépatite vitale ou une hépatopathie auto-immune. Au moyen des tests des anticorps nommés plus haut, de l’imagerie par CPRM et du résultat histologique, une hépatopathie auto-immune a pu être exclue. Il n’y avait pas d’indice d’hémochromatose.  Dans le cadre du diagnostic différentiel, nous n’avons pas pu exclure l’alcool comme cause concomitante des altérations des valeurs de laboratoire et des anomalies histologiques décrites. La consommation régulière d’alcool qui a été indiquée et l’élévation isolée des valeurs de γ-GT, qui a également persisté suite à l’arrêt du traitement antibiotique, plaident en faveur d’une composante toxique.  L’essentiel pour la pratique  Lors de l’évaluation d’une hépatopathie d’origine indéterminée, il convient également de penser à une hépatite syphilitique en cas de constellation de risques correspondante. En plus des analyses de laboratoire, l’anamnèse et l’examen clinique répétés au fil du temps sont essentiels.

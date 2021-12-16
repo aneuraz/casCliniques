@@ -1,0 +1,135 @@
+T1	profession 56 72	médecin traitant
+T2	profession 78 101	chirurgien orthopédiste
+T3	procedure 40 47	adressé
+T4	disorder 131 159	douleurs de sa hanche gauche
+T5	drugs 205 209	AINS
+T6	disorder 242 261	insuffisance rénale
+T7	profession 326 337	chirurgien 
+T8	procedure 368 409	signe une feuille de consentement éclairé
+T9	procedure 266 305	 mise en place d’une prothèse de hanche
+T10	procedure 422 453	 consultation de pré-anesthésie
+T11	disorder 486 539	atteinte sévère d’une grande fonction sans incapacité
+T12	disorder 479 484	ASA 3
+T13	procedure 632 644	intervention
+T14	profession 544 556	anesthésiste
+T15	profession 649 660	néphrologue
+T16	disorder 695 736	 Aggravation insuffisance rénale stade IV
+T17	procedure 738 768	débit filtration glomérulaire 
+T18	labvalue 770 779	17 ml/min
+T19	procedure 809 820	créatinémie
+T20	labvalue 821 833	327 µmoles/l
+T21	disorder 859 893	aggravation de la fonction rénale 
+T22	procedure 1022 1029	dialyse
+T23	drugs 1125 1135	Cokenzen® 
+T24	irrelevant 893 1021	vraisemblablement de façon temporaire mais le pronostic rénal à 12-24 mois me parait de plus en plus compromis avec le risque de
+T25	irrelevant 1036 1124	Un feuillet de consentement éclairé était également signée pour l’anesthésie. L’arrêt du
+T26	profession 1135 1204	était prévu avant l’intervention ainsi qu’une antibioprophylaxie par 
+T27	drugs 1204 1216	Céphazoline®
+T28	procedure 1295 1307	anesthésique
+T29	drugs 1430 1440	antalgique
+T30	drugs 1498 1506	morphine
+T31	drugs 1562 1573	Actiskenan®
+T32	drugs 1580 1590	Perfalgan®
+T33	procedure 1596 1608	injection SC
+T34	drugs 1612 1621	morphine 
+T35	drugs 1719 1728	Cokenzen®
+T36	profession 1793 1816	chirurgien orthopédiste
+T37	irrelevant 1817 1975	assure, seul, la surveillance de l’opéré, se réservant la possibilité d’appeler un spécialiste, si nécessaire. Le même jour, l’alimentation orale est reprise.
+T38	procedure 1989 2000	créatinémie
+T39	labvalue 2003 2016	367 µ moles/l
+T40	disorder 2078 2096	troubles digestifs
+T41	disorder 2098 2109	gastralgies
+T42	drugs 2111 2122	Polysilane®
+T43	disorder 2129 2157	vomissement de sang noirâtre
+T44	profession 2181 2191	chirurgien
+T45	profession 2218 2235	gastroentérologue
+T46	disorder 2302 2309	Nausées
+T47	disorder 2311 2322	vomissement
+T48	disorder 2324 2337	ventre souple
+T49	disorder 2339 2380	présence de selles dans l’ampoule rectale
+T50	disorder 2418 2435	stase stercorale 
+T51	procedure 2463 2474	fibroscopie
+T52	disorder 2513 2557	érosions de la jonction cardio-oesophagienne
+T53	disorder 2568 2580	vomissements
+T54	disorder 2605 2630	syndrome de Mallory-Weiss
+T55	drugs 2663 2671	Inexium®
+T56	drugs 2673 2682	Debridat®
+T57	drugs 2684 2692	Colopeg®
+T58	disorder 2740 2747	Forlax®
+T59	profession 2796 2814	gastro-entérologue
+T60	procedure 2876 2887	coloscopie 
+T61	disorder 2895 2916	abdomen était souple 
+T62	disorder 2919 2931	non distendu
+T63	disorder 2982 2989	nausées
+T64	drugs 3039 3047	Colopeg®
+T65	profession 3072 3082	chirurgien
+T66	disorder 3104 3138	aggravation de la fonction rénale 
+T67	procedure 3139 3150	créatinémie
+T68	labvalue 3153 3163	424 µmoles
+T69	procedure 3187 3198	néphrologue
+T70	disorder 3238 3256	troubles digestifs
+T71	disorder 3262 3274	vomissements
+T72	disorder 3278 3285	nausées
+T73	disorder 3287 3304	abdomen météorisé
+T74	disorder 3306 3353	aggravation de l’insuffisance rénale en post-op
+T75	disorder 3380 3398	troubles digestifs
+T76	drugs 3408 3417	Cokenzen®
+T77	profession 3425 3436	néphrologue
+T78	profession 3507 3526	chirurgien viscéral
+T79	profession 3553 3577	chirurgien orthopédiste 
+T80	drugs 3735 3745	 Microlax®
+T81	disorder 3700 3704	 gaz
+T82	disorder 3708 3725	quelques matières
+T83	profession 3750 3766	kinésithérapeute
+T84	disorder 3832 3845	hyperalgique 
+T85	disorder 3885 3905	vomissement sanglant
+T86	procedure 3956 3967	créatinémie
+T87	labvalue 3972 3984	522 µmoles/l
+T88	procedure 3996 4008	consultation
+T89	profession 4009 4022	néphrologique
+T90	disorder 4088 4121	insuffisance rénale fonctionnelle
+T91	procedure 4166 4184	échographie rénale
+T92	labvalue 4197 4204	normale
+T93	procedure 4278 4308	ionogramme sanguin et urinaire
+T94	profession 4439 4450	 chirurgien
+T95	profession 4485 4497	anesthésiste
+T96	profession 4520 4538	gastro-entérologue
+T97	disorder 4579 4595	Malade fatigué +
+T98	disorder 4597 4611	n’a pas dormi.
+T99	disorder 4622 4629	gaz +/-
+T100	disorder 4630 4639	ballonné+
+T101	drugs 4647 4657	 Microlax®
+T102	disorder 4659 4669	constipé +
+T103	profession 4702 4718	kinésithérapeute
+T104	procedure 4679 4695	Mis au fauteuil 
+T105	procedure 4735 4742	examiné
+T106	profession 4767 4779	 infirmières
+T107	profession 4787 4799	anesthésiste
+T108	disorder 4841 4859	 Gêne respiratoire
+T109	disorder 4865 4888	encombrement bronchique
+T110	disorder 4903 4932	distension abdominale majeure
+T111	disorder 4934 4952	Ronchi aux 2 bases
+T112	disorder 4954 4962	Apyrexie
+T113	procedure 4964 4981	Normacol lavement
+T114	procedure 4983 5000	kiné respiratoire
+T115	profession 5020 5030	chirurgien
+T116	procedure 5090 5099	 lavement
+T117	profession 5122 5134	néphrologue 
+T118	procedure 5135 5147	créatinémie 
+T119	labvalue 5149 5164	565 µmicromoles
+T120	procedure 5166 5173	diurèse
+T121	labvalue 5176 5183	480 ml 
+T122	procedure 5216 5235	 ionogramme sanguin
+T123	disorder 5271 5293	troubles respiratoires
+T124	disorder 5299 5313	graillonnement
+T125	disorder 5317 5323	sueurs
+T126	disorder 5325 5333	SaO2 66%
+T127	profession 5347 5361	’anesthésiste 
+T128	procedure 5371 5416	mise en position assise avec O2 nasal 5l/ min
+T129	disorder 5427 5438	SaO2 à 74 %
+T130	disorder 5449 5470	détresse respiratoire
+T131	disorder 5495 5511	crise convulsive
+T132	disorder 5517 5540	vomissements fécaloïdes
+T133	procedure 5584 5594	éanimation
+T134	disorder 5624 5629	décès
+T135	irrelevant 5670 5798	Saisine de la CRCI le 22 novembre par les ayants-droit du patient pour obtenir l’indemnisation du préjudice qu’ils avaient subi.

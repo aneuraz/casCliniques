@@ -1,0 +1,18 @@
+T1	irrelevant 2519 2683;2685 2739;2740 2799	La patiente se plaint du « comportement négligent du chirurgien-dentiste à son égard » au conseil départemental de l’ordre. Aucun accord amiable n’a pu être trouvé.  Avis du conseil de l’ordre des chirurgiens-dentistes : Le chirurgien-dentiste n’a fait preuve d’aucune négligence.
+T2	irrelevant 0 12	Cas clinique
+T3	profession 119 138	chirurgien-dentiste
+T4	procedure 160 178	cliché panoramique
+T5	disorder 204 226	lichen plan verruqueux
+T6	profession 359 372	stomatologues
+T7	procedure 427 458	prélèvement anatomopathologique
+T8	procedure 688 695	biopsie
+T9	disorder 710 731	ULCERATION FISSURAIRE
+T10	disorder 760 795	HYPERPLASIE PSEUDO-EPITHELIOMATEUSE
+T11	disorder 1261 1268	douleur
+T12	profession 1401 1420	chirurgien-dentiste
+T13	drugs 254 265	corticoïdes
+T14	drugs 1310 1320	corticoïde
+T15	drugs 1441 1452	corticoïdes
+T16	disorder 1511 1517	lésion
+T17	profession 1549 1568	chirurgien-dentiste
+T18	irrelevant 1906 2176;2177 2517	Le 10 septembre 2016: la patiente sollicite un rdv en urgence du fait de l'aggravation des symptômes et la non prise en charge par le CH. Préconisée. la patiente est adressée en ville, à un O.R.L. qui l'adresse lui-même à un de ses correspondants oncologues à l’hôpital. Le 4 novembre 2016, la biopsie réalisée à l’hôpital retrouve une vaste lésion ulcérée et infiltrante de la totalité de la face interne de la joue gauche ainsi que des vestibules jusqu’à la commissure inter-maxillaire et de la tubérosité douloureuse. Pas d’adénopathie palpable. L’histologie décrit un carcinome épidermoïde bien différencié.

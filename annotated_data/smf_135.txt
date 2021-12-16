@@ -1,0 +1,64 @@
+Contexte
+
+Dans la traumatologie adulte, il est connu qu’en cas de fractures de la diaphyse tibiale, une lésion de la cheville est en plus présente dans 20–25% des cas [1, 2] ou même dans jusqu’à 49,3% des cas [3], dépendant de la littérature. Chez les enfants âgés de 5 à 17 ans, une fréquence des lésions de la cheville surajoutées de 4,3% est rapportée [4], mais nous n’avons pas connaissance de données se rapportant uniquement à l’adolescence. Des cas de fractures de la diaphyse tibiale combinées à des fractures transitionnelles ipsilatérales chez des adolescents ont été rapportés dans la littérature [5–9].
+
+Nous présentons le cas d’un adolescent avec une fracture distale de la jambe avec extension métaphysaire combinée à une fracture biplane non déplacée de la cheville, qui pourrait facilement passer inaperçue en cas d’analyse non minutieuse des clichés d’imagerie.
+
+Présentation du cas
+Anamnèse
+
+Un adolescent de 14 ans a été victime d’un traumatisme en rotation externe du pied droit alors qu’il jouait au football. Il a immédiatement ressenti des douleurs immobilisantes au niveau de la jambe droite. L’examen initial a été réalisé en externe: à la radiographie conventionnelle, une fracture en spirale déplacée de la diaphyse tibiale avec une fracture fibulaire distale non déplacée a été diagnostiquée (fig. 1). En raison de l’âge du patient, il a été transféré dans un hôpital pédiatrique pour évaluation complémentaire et traitement.
+
+Figure 1: Les radiographies de la jambe droiteA ) en incidence antéro-postérieure etB ) en incidence latérale montrent des fractures diaphyso-métaphysaires distales du tibia et de la fibula, ainsi qu’une ligne verticale au niveau de l’épiphyse tibiale distale, faisant évoquer une fracture biplane. La plaque de croissance tibiale distale est en train de se fermer au ­niveau médial et elle est encore ouverte au niveau latéral.
+
+Statut
+
+Jambe droite: gonflement de la jambe distale allant jusqu’à la fourchette malléolaire. Pas de malposition visible. Sur le plan clinique, pas de signes évocateurs d’un syndrome des loges aigu, manifeste ou menaçant, de la jambe. Sensibilité, motricité et circulation périphériques intactes.
+
+Imagerie et diagnostic
+
+L’interprétation des clichés de radiographie conventionnelle (fig. 1) et de tomodensitométrie (TDM) aboutit au diagnostic de fracture en spirale diaphyso-métaphysaire distale du tibia (fig. 2), multi-fragmentaire et déplacée avec fracture biplane non déplacée, ainsi que fracture en spirale non déplacée de la diaphyse fibulaire distale.
+
+Figure 2: Les clichés de TDMA ) en coupe coronale etB ) en coupe axiale montrent la fracture tibiale biplane avec, en coupe sagittale, extension de la fracture à l’épiphyse et léger élargissement de la plaque de croissance. La plaque de croissance tibiale médiale distale est en partie totalement ossifiée.C ) Les reconstructions tridimensionnelles ­illustrent en outre la fracture métaphyso-diaphysaire de la jambe.
+
+Classification
+
+Pour les fractures pédiatriques, il existe deux systèmes de classification fréquemment utilisés. D’après la classification LiLa des fractures des os longs durant la croissance [10, 11], la fracture de la jambe chez ce ­patient est classée en tant que 4.2.s.4.2. et la fracture biplane est classée en tant que 4.3.a.3.0. D’après la «Pediatric ­Comprehensive Classification of Long-Bone Fractures» (PCCF) de la AO [12], la fracture de la jambe chez ce patient est classée en tant que 42-D/5.2 et la fracture biplane est classée en tant que 43t-E/5.1.
+
+Traitement
+
+Pour le traitement de la fracture de la diaphyse tibiale, nous avons procédé à une réduction ouverte de la fracture, à une fixation par vis de traction intrafragmentaires (2× vis corticales de 3,5 mm) et à la mise en place d’une plaque de neutralisation (DePuy Synthes® 3,5 mm LCP «Low Bend Medial Distal Tibia»). Etant donné que la TDM avait révélé une extension dorsolatérale non déplacée de la fracture tibiale jusqu’à la plaque de croissance, nous avons opté pour une longueur de plaque allant jusqu’à proximalement de la plaque de croissance tibiale distale. En intra-opératoire, la stabilité de la syndesmose a été vérifiée sous amplificateur de brillance au moyen du test de rotation externe (selon Frick), et la syndesmose s’est sans surprise montrée stable. En postopératoire, l’immobilisation a initialement eu lieu par plâtre fendu de la jambe et, après dégonflement, au moyen de l’orthèse VACOped® avec mise en charge partielle de 15 kg pour six semaines.
+
+Evolution
+
+Après six semaines, le patient ne ressentait plus de douleurs, avec une absence de douleurs à la pression au niveau de la malléole latérale et de la syndesmose antérieure, et une absence de provocation de la douleur lors de la mise sous stress de la syndesmose par test de rotation externe (selon Frick). La fixation externe a été délaissée et, sur la base des symptômes, une mise en charge totale a été autorisée. En outre, une physiothérapie a été prescrite pour la rééducation à la marche, l’amélioration de la proprioception et l’amélioration de la mobilité de l’articulation supérieure et de l’articulation inférieure de la cheville, ainsi que pour initier le patient à un programme d’entraînement à domicile à réaliser quotidiennement. Trois mois après l’opération, le patient était toujours exempt de douleurs, avec une démarche fluide, des articulations supérieure et inférieure de la cheville librement mobiles, et uniquement une légère hypotrophie des muscles de la cuisse et de la jambe par rapport à l’autre côté. Cinq mois après l’opération, les radiographies ont montré des fractures parfaitement consolidées (fig. 3), et la reprise des sports de contact était à nouveau possible.
+
+Figure 3: RadiographiesA ) en incidence antéro-postérieure etB ) en incidence latérale cinq mois après le traitement chirurgical de la fracture de la jambe.
+
+Discussion
+
+La lésion associée de la cheville dans le cadre de fractures de la diaphyse tibiale est un phénomène connu chez l’adulte. Une fracture combinée devrait fortement être suspectée notamment en présence d’un traumatisme en rotation externe-pronation, d’une fracture en spirale du tiers distal, d’une fracture de la diaphyse ­tibiale avec fracture fibulaire haute ou d’une fracture tibiale avec fibula intacte [2]. Les enfants présentent une constellation de fractures différente de celle des adultes, et les fractures combinées de la jambe et de la cheville sont rares (4,3%) d’après la littérature [4]. Il est concevable qu’une fracture transitionnelle surajoutée dans le cadre d’une fracture de la diaphyse tibiale survienne plus fréquemment qu’on ne le pense durant l’adolescence. Une telle fracture peut passer inaperçue à la radiographie conventionnelle.
+
+Toutefois, il n’existe pas de données épidémiologiques relatives à la fréquence de ces fractures combinées se rapportant spécifiquement à l’adolescence. Par conséquent, lors de fractures de la diaphyse tibiale survenant à cet âge, l’articulation supérieure de la cheville devrait également faire l’objet d’une analyse minutieuse afin de ne pas passer à côté d’une fracture surajoutée nécessitant un traitement. En particulier en cas de plaque de croissance tibiale distale se refermant visiblement au niveau médial, une fracture transitionnelle devrait être recherchée. En général, elle survient uniquement durant la fermeture asymétrique de la plaque de croissance du tibia distal et est le plus souvent associée à une extension intra-articulaire de la fracture. Une fracture transitionnelle déplacée sur 2 mm au niveau articulaire peut être responsable de troubles fonctionnels en cas de traitement non adéquat [13].
+
+Dans le cas présenté, l’analyse minutieuse des radiographies conventionnelles, et notamment du cliché en incidence antéro-postérieure, a en outre permis de déceler la fracture verticale initialement omise au niveau de l’épiphyse tibiale latérale, au sens d’une fracture biplane, ce qui correspond à un arrachement osseux de la syndesmose antérieure du côté tibial.
+
+Il est connu qu’en cas de fracture transitionnelle du ­tibia distal non déplacée (moins de 2 mm) à la radiographie conventionnelle, un déplacement de plus de 2 mm est retrouvé à la TDM dans plus d’un tiers des cas [14]. Un bilan par TDM est dès lors recommandé. Dans notre cas, la fracture biplane a été confirmée, mais elle s’avérait toujours non déplacée et pouvait donc faire l’objet d’un traitement conservateur.
+
+Nous avons discuté des différentes options thérapeutiques avec le patient [15]: soit réduction fermée de la fracture tibiale et traitement conservateur par plâtre cruro-pédieux durant au minimum six semaines (dans 59% des cas, durant plus de trois mois [16]) soit traitement chirurgical avec ostéosynthèse de la fracture de la diaphyse tibiale et évaluation intra-opératoire de la stabilité de la syndesmose. Face à une fracture biplane non déplacée, nous sommes partis du principe que la fourchette malléolaire était stable.
+
+En raison de la plaque de croissance encore très légèrement ouverte au niveau du tibia proximal et de la constellation fracturaire avec extension de la fracture en direction distale, nous avons décidé de ne pas réaliser une ostéosynthèse avec enclouage centromédullaire, une intervention qui n’est d’ailleurs généralement pas réalisée chez les patients dont la croissance n’est pas totalement achevée.
+
+Notre patient présentait un diamètre du canal médullaire au niveau du tibia de plus de 10 mm et il pesait plus de 60 kilogrammes; la prise en charge par enclouage centromédullaire élastique aurait dès lors été associée à un risque accru de complications [17]. Pour ces raisons, nous avons décidé, conjointement avec le patient et ses parents, de réaliser une ostéosynthèse par plaque.
+
+Dans notre cas, en intra-opératoire, après l’ostéosynthèse de la fracture de la diaphyse tibiale, le test de rotation externe selon Frick n’a, sans surprise, pas révélé d’élargissement de la syndesmose ou de déplacement de la fracture biplane et de la fracture fibulaire distale. L’unique avantage d’une ostéosynthèse supplémentaire de la fracture biplane non déplacée et éventuellement de la fracture fibulaire est qu’elle aurait permis d’éviter une immobilisation postopératoire de la cheville. Etant donné que les adolescents tolèrent généralement bien l’immobilisation par plâtre et que la phase de réhabilitation est le plus souvent nettement plus courte que chez les adultes, cette intervention supplémentaire n’est clairement pas justifiée, d’après nous.
+
+L’évolution postopératoire s’est déroulée sans complications et le patient a pu reprendre toutes les activités sportives après quatre mois.
+
+L’essentiel pour la pratique
+
+• La combinaison d’une fracture de la diaphyse tibiale et d’une fracture de la cheville ipsilatérale est possible durant l’adolescence et il convient d’y prêter attention.
+
+• Une fracture surajoutée de la cheville non détectée et/ou non traitée correctement peut être à l’origine de limitations fonctionnelles considérables.
+
+• Il est recommandé de procéder à une analyse exacte par tomodensitométrie afin d’évaluer le déplacement intra-articulaire d’une fracture transitionnelle non déplacée à la radiographie conventionnelle.

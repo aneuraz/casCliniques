@@ -1,0 +1,84 @@
+T1	irrelevant 6963 7020;7022 7067;7069 7079;7081 7452;7454 7870;7872 7980;7982 8543;8545 9657;9659 10305;10307 11016;11018 11253;11255 11283;11285 11460;11462 11608;11610 11687	Figure 1: Aperçu du péritoine avec carcinose péritonéale.  Figure 2: Omentum avec carcinose péritonéale.  Discussion  Une ascite associée à un cancer peut survenir dans le cadre de diverses tumeurs et avoir différentes causes. D’une part, une ascite peut survenir du fait d’une carcinose péritonéale, suite à une perméabilité vasculaire accrue et une obstruction des canaux lymphatiques. Cela se produit notamment en cas de cancer de l’ovaire ou de la vessie ou de mésothéliome péritonéal.  Une ascite est aussi fréquemment observée en cas de cancer des bronches, du pancréas, du sein, de l’estomac et du côlon, particulièrement en cas de carcinose péritonéale supplémentaire ou de métastases hépatiques étendues. Sur le plan de l’étiologie, des cellules tumorales productrices de liquide, une obstruction des veines portes avec hypertension portale consécutive et une insuffisance hépatique sont discutées.  Les lymphomes peuvent eux aussi conduire à une ­ascite chyleuse en obstruant les ganglions lymphatiques [1].  Le GASA aide à identifier une hypertension portale en tant que cause d’ascite. Une hypertension portale est très probable en cas de gradient >11 g/l. Parmi les causes de l’hypertension portale figurent notamment la cirrhose hépatique, l’hépatite alcoolique, l’insuffisance cardiaque, des métastases hépatiques massives, le syndrome de Budd-Chiari et la fibrose portale idiopathique. En cas de faible gradient, une carcinomatose péritonéale, une pancréatite, une sérosite, un syndrome néphrotique ou une tuberculose péritonéale sont des étiologies possibles [2].  Chez notre patiente, un GASA de 7 g/l a été trouvé, ce qui est compatible avec une carcinomatose péritonéale. Le choc sévère et résistant au traitement avec défaillance multiviscérale progressive était donc le plus vraisemblablement la conséquence d’un blocage des canaux lymphatiques drainants et d’une augmentation de la perméabilité vasculaire. L’endothélium vasculaire, en tant que barrière semi-perméable, contrôle le transport du liquide et des molécules depuis l’espace intravasculaire et interstitiel. Une dysfonction de cette barrière entraîne une fuite avec une perte de liquide et de molécules dans l’espace interstitiel. Une perte persistante avec fuite capillaire sévère entraîne une hypotension ainsi qu’une hypoxie tissulaire et peut aller jusqu’au choc réfractaire au traitement [3, 4]. L’hypothèse du sepsis, en tant que cause la plus fréquente du choc distributif, a ainsi définitivement été rejetée suite au diagnostic de cancer de l’ovaire avec métastases ­péritonéales, d’autant plus qu’une infection n’a pas pu être démontrée que ce soit sur le plan clinique, biologique ou microbiologique.  Une expression du «vascular endothelial growth factor» (VEGF) a à plusieurs reprises été mise en évidence dans le tissu tumoral épithélial dans le cadre du cancer de l’ovaire. L’angiogenèse stimulée par ce biais est probablement essentielle à la croissance de la tumeur, et de façon consécutive, à la formation de l’ascite. Dans un modèle animal, il a été montré que la production du VEGF par les cellules cancéreuses était directement corrélée avec la production d’ascite. Cette dernière s’explique d’une part par la production accrue de liquide péritonéal par les cellules cancéreuses et d’autre part par la perméabilité microvasculaire accrue.  Cette dépendance laisse supposer que les inhibiteurs du VEGF sont efficaces dans le traitement de l’ascite associée au cancer de l’ovaire. Dans différents rapports de cas, une réduction considérable de l’ascite a été montrée pour l’administration de bévacizumab toutes les trois à quatre semaines (15 mg/kg par voie intra­veineuse ou 5 mg/kg par voie intrapéritonéale) [5]. De façon notable, l’ascite maligne était complètement ­régressive chez tous les patients traités suite à l’administration d’une dose unique et ne s’est pas ré-accumulée au cours de la période d’observation médiane de plus de deux mois. Une amélioration de la survie globale n’a toutefois pas pu être démontrée dans d’autres études [6].  Chez notre patiente qui présentait un choc fulminant, le bévacizumab aurait éventuellement pu être une ­option pour le traitement de l’ascite mais il n’a pas été envisagé, à plus forte raison qu’il s’agit d’une utilisation «off-label».  L’essentiel pour la pratique  • Le choc distributif est souvent causé par un sepsis, mais des néoplasies, en particulier avec carcinomatoses péritonéales et ascite maligne, peuvent également le déclencher.  • Toutes les ascites hémorragiques doivent faire suspecter une néoplasie, surtout en cas d’élévation concomitante des taux de LDH et de protéines.  • Toutes les ascites nouvellement survenues doivent être évaluées rapidement.
+T2	irrelevant 0 8;10 256;258 493;495 514;515 523	Contexte  Nous décrivons le cas d’une patiente atteinte d’un choc non maîtrisable de cause inattendue. La patiente nous a été adressée avec un diagnostic de suspicion d’infection, avec une insuffisance rénale aiguë, une ascite étendue et une anémie sévère.  L’hypothèse de travail initiale de choc septique a dû être revue ultérieurement, suite au diagnostic d’un carcinome séreux de haut grade de l’ovaire très avancé et métastatique, avec carcinomatose péritonéale étendue et ascite maligne.  Présentation du cas Anamnèse
+T3	disorder 609 630	suspicion d’infection
+T4	disorder 638 663	insuffisance rénale aiguë
+T5	disorder 705 712	dyspnée
+T6	disorder 778 785	nausées
+T7	disorder 792 804	vomissements
+T8	disorder 818 839	paraparésie spastique
+T9	disorder 847 857	paraplégie
+T10	disorder 897 928	égère déficience intellectuelle
+T11	disorder 1084 1104	 état général réduit
+T12	disorder 1136 1169	température corporelle subfébrile
+T13	procedure 1209 1228	pression artérielle
+T14	labvalue 1232 1243	93/42 mm Hg
+T15	procedure 1245 1259	rythme sinusal
+T16	labvalue 1263 1270	100/min
+T17	disorder 1341 1352	paraparésie
+T18	procedure 1433 1456	analyses de laboratoire
+T19	procedure 1472 1497	protéine C réactive (CRP)
+T20	labvalue 1511 1519	540 mg/l
+T21	procedure 1525 1535	créatinine
+T22	labvalue 1539 1549	371 µmol/l
+T23	procedure 1555 1559	urée
+T24	labvalue 1563 1574	34,2 mmol/l
+T25	labvalue 1607 1617	6,1 mmol/l
+T26	disorder 1589 1603	­hyperkaliémie
+T27	procedure 1760 1788	lactate déshydrogénase (LDH)
+T28	labvalue 1801 1808	623 U/l
+T29	procedure 1821 1830	gamma-GT 
+T30	labvalue 1842 1848	80 U/l
+T31	disorder 1854 1869	hypoalbuminémie
+T32	labvalue 1873 1879	29 g/l
+T33	disorder 1946 1978	anémie normochrome normocytaire 
+T34	procedure 1979 1990	hémoglobine
+T35	labvalue 1994 2000	94 g/l
+T36	procedure 2098 2136	radiographie conventionnelle du thorax
+T37	procedure 2243 2267	échographie de l’abdomen
+T38	disorder 2280 2297	foie non homogène
+T39	disorder 2530 2557	ascite hémorragique trouble
+T40	procedure 2612 2649	gradient ­albumine sérum-ascite (GASA
+T41	labvalue 2699 2704	7 g/l
+T42	procedure 2715 2763	concentration de protéines totales dans l’ascite
+T43	labvalue 2767 2773	42 g/l
+T44	procedure 2810 2820	leucocytes
+T45	labvalue 2822 2829	9000/μl
+T46	procedure 2836 2848	érythrocytes
+T47	labvalue 2850 2859	28 000/μL
+T48	procedure 2875 2878	LDH
+T49	labvalue 2903 2911	1700 U/l
+T50	disorder 3047 3069	péritonite bactérienne
+T51	disorder 3100 3138	hépa­topathie d’étiologie indéterminée
+T52	disorder 3144 3185	insuffisance rénale prérénale consécutive
+T53	drugs 3218 3229	ceftriaxone
+T54	drugs 3201 3213	antibiotique
+T55	disorder 3277 3290	hyperkaliémie
+T56	drugs 3312 3332	échangeur de cations
+T57	drugs 3392 3405	cristalloïdes
+T58	disorder 3434 3465	insuffisance respiratoire aiguë
+T59	disorder 3623 3630	dyspnée
+T60	disorder 3634 3644	­tachypnée
+T61	procedure 3678 3757	ventilation non invasive alternant avec une oxygénothérapie nasale à haut débit
+T62	drugs 3810 3820	diurétique
+T63	drugs 4072 4086	catécholamines
+T64	disorder 4196 4202	ascite
+T65	procedure 4207 4247	monitoring hémodynamique avancé (PiCCO®)
+T66	drugs 4344 4358	catécholamines
+T67	disorder 4364 4392	insuffisance rénale anurique
+T68	disorder 4398 4424	acidose métabolique sévère
+T69	procedure 4457 4479	hémodialyse en urgence
+T70	disorder 4579 4585	ascite
+T71	procedure 4704 4732	tomodensitométrie abdominale
+T72	disorder 4761 4767	ascite
+T73	disorder 4780 4817	carcinomatose péritonéale potentielle
+T74	disorder 4832 4838	tumeur
+T75	procedure 5050 5078	antigène tumoral 125 (CA 125
+T76	labvalue 5092 5099	67 U/ml
+T77	disorder 5297 5320	fuite capillaire sévère
+T78	disorder 5343 5428	cancer de l’ovaire métastasique avec carcinose ­péritonéale et ascite maligne étendue
+T79	disorder 5460 5486	instabilité hémodynamique 
+T80	disorder 5505 5525	’insuffisance rénale
+T81	procedure 5542 5549	dialyse
+T82	disorder 6203 6222	cancer métastatique
+T83	procedure 6387 6410	assistance circulatoire
+T84	disorder 6869 6924	embolies pulmonaires paracentrales bilatérales étendues

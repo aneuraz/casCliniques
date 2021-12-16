@@ -1,0 +1,134 @@
+T1	irrelevant 0 8;10 601	Contexte  La diverticulite de l’appendice iléo-cæcal est une forme rare d’appendicite qu’il convient de traiter comme une appendicite classique, c’est-à-dire au moyen d’une appendicectomie (par voie laparoscopique ou à ciel ouvert). Dans la littérature, une incidence d’environ 0,004–2,1% est rapportée. Les patients touchés présentent les symptômes de l’appendicite et subissent une appendicectomie sans que le diagnostic ait été correctement posé avant l’opération. Le pronostic est en règle générale bon, même si une survenue concomitante de maladies malignes de l’appendice iléo-cæcal est décrite.
+T2	profession 636 653	chauffeur de bus 
+T3	disorder 694 717	douleurs hypogastriques
+T4	procedure 742 749	­envoyé
+T5	profession 782 801	médecin de ­famille
+T6	procedure 808 845	intermédiaire des services de secours
+T7	procedure 860 867	déclaré
+T8	disorder 888 895	nausées
+T9	disorder 899 912	vomis­sements
+T10	disorder 928 944	selles, aqueuses
+T11	procedure 988 996	anamnèse
+T12	procedure 1108 1111	IRM
+T13	procedure 1062 1106	 examen d’imagerie par ­résonance magnétique
+T14	disorder 1160 1183	consti­pation chronique
+T15	disorder 1232 1255	intolérance alimentaire
+T16	procedure 1299 1324	colos­copie/gastro­scopie
+T17	procedure 1365 1391	échantillons histologiques
+T18	procedure 1392 1400	prélevés
+T19	disorder 1457 1480	diabète sucré de type I
+T20	procedure 1492 1501	 contrôlé
+T21	procedure 1510 1531	antidiabétiques oraux
+T22	drugs 1580 1588	tramadol
+T23	disorder 1615 1632	lumbago chronique
+T24	procedure 1654 1680	décompression chirurgicale
+T25	procedure 1682 1694	spondylodèse
+T26	procedure 1698 1719	vertébroplastie L4/L5
+T27	procedure 1759 1793	quadruple pontage aorto-coronarien
+T28	procedure 1833 1843	traitement
+T29	drugs 1848 1861	bétabloquants
+T30	drugs 1865 1888	acide acétylsalicylique
+T31	procedure 1925 1947	opérations abdominales
+T32	procedure 2016 2024	présenté
+T33	risk 2104 2109	obèse
+T34	procedure 2111 2137	indice de masse corporelle
+T35	labvalue 2141 2149	31 kg/m²
+T36	disorder 2166 2184	défense abdominale
+T37	disorder 2348 2372	bruits intestinaux rares
+T38	procedure 2376 2389	examen rectal
+T39	labvalue 2394 2397	pas
+T40	procedure 2433 2444	température
+T41	labvalue 2475 2482	38,8 °C
+T42	procedure 2490 2507	paramètres vitaux
+T43	labvalue 2530 2542	145/87 mm Hg
+T44	procedure 2544 2550	pouls 
+T45	labvalue 2552 2559	108/min
+T46	procedure 2563 2584	saturation en oxygène
+T47	labvalue 2587 2590	94%
+T48	procedure 2614 2625	laboratoire
+T49	procedure 2631 2642	leucocytose
+T50	labvalue 2645 2652	20 G/l 
+T51	labvalue 2677 2686	élévation
+T52	procedure 2693 2713	protéine réactive C 
+T53	procedure 2714 2717	CRP
+T54	labvalue 2722 2729	56 mg/l
+T55	procedure 2765 2782	tomodensitométrie
+T56	procedure 2784 2787	TDM
+T57	disorder 2794 2814	appendicite perforée
+T58	disorder 2836 2858	atteinte inflammatoire
+T59	disorder 2969 2979	abcédation
+T60	procedure 3050 3065	appendicectomie
+T61	procedure 3070 3089	voie laparoscopique
+T62	procedure 3093 3098	opéré
+T63	procedure 3130 3139	opération
+T64	disorder 3145 3165	péritonite purulente
+T65	disorder 3207 3244	perforation de l’appendice iléo-cæcal
+T66	procedure 3265 3273	observée
+T67	procedure 3278 3311	diagnostic d’appendicite perforée
+T68	procedure 3323 3328	 posé
+T69	procedure 3332 3372	appendice iléo-cæcal a pu être ligaturé 
+T70	procedure 3424 3445	drainage de l’abdomen
+T71	procedure 3459 3476	rincé abondamment
+T72	procedure 3498 3513	pose d’un drain
+T73	procedure 3515 3523	easyflow
+T74	procedure 3565 3582	accès suprapubien
+T75	irrelevant 3585 3664	Figure 1: Vue intra-opératoire d’une péritonite purulente des quatre quadrants.
+T76	irrelevant 3666 3721	Figure 2: Vue après la ligature de l’appendice perforé.
+T77	procedure 3738 3762	prophylaxie antibiotique
+T78	procedure 3800 3829	administration intraveineuse 
+T79	drugs 3840 3850	céfuroxime
+T80	procedure 3854 3883	administration postopératoire
+T81	drugs 3886 3917	amoxicilline/acide clavulanique
+T82	procedure 3922 3940	voie intraveineuse
+T83	procedure 3981 3995	postopératoire
+T84	procedure 3999 4009	analgésie 
+T85	procedure 4046 4067	anesthésie péridurale
+T86	procedure 4071 4092	activité intestinale 
+T87	procedure 4126 4158	premières selles postopératoires
+T88	procedure 4282 4287	drain
+T89	procedure 4254 4277	faible quantité drainée
+T90	procedure 4294 4300	retiré
+T91	procedure 4322 4331	opération
+T92	procedure 4336 4361	reprise de l’alimentation
+T93	procedure 4392 4417	paramètres inflammatoires
+T94	labvalue 4438 4446	régressé
+T95	procedure 4456 4459	CRP
+T96	labvalue 4483 4491	augmenté
+T97	procedure 4520 4529	opération
+T98	procedure 4531 4535	CRP 
+T99	labvalue 4546 4549	229
+T100	labvalue 4552 4560	281 mg/l
+T101	procedure 4568 4584	TDM de l’abdomen
+T102	disorder 4624 4676	collections liquidiennes intra-abdominales anormales
+T103	procedure 4683 4712	antibiothérapie intraveineuse
+T104	procedure 4729 4732	CRP
+T105	labvalue 4737 4745	régressé
+T106	procedure 4773 4782	opération
+T107	procedure 4784 4788	CRP 
+T108	labvalue 4790 4797	49 mg/l
+T109	procedure 4806 4820	 plan clinique
+T110	disorder 4885 4906	douleur à la pression
+T111	procedure 4953 4971	 quitter l’hôpital
+T112	procedure 4981 5002	antibiothérapie orale
+T113	procedure 5052 5071	examen histologique
+T114	procedure 5077 5094	appendice réséqué
+T115	disorder 5108 5147	diverticulite de l’appendice iléo-cæcal
+T116	disorder 5194 5203	néoplasie
+T117	disorder 5207 5233	oblitération intraluminale
+T118	disorder 5254 5295	diverti­culite de l’appendice iléo-­cæcal
+T119	procedure 5320 5332	perforation 
+T120	procedure 5349 5362	diagnostiquée
+T121	procedure 5407 5410	TDM
+T122	profession 5445 5471	collègues de la radiologie
+T123	procedure 5478 5514	obtention du diagnostic histologique
+T124	procedure 5578 5596	diagnostic correct
+T125	procedure 5569 5574	poser
+T126	procedure 5605 5614	opération
+T127	procedure 5633 5661	interprétation rétro­spectiv
+T128	procedure 5668 5682	IRM de Sellink
+T129	disorder 5751 5782	diverticules non inflammatoires
+T130	procedure 5861 5871	mentionnés
+T131	procedure 5883 5906	première interprétation
+T132	irrelevant 5909 5994	Figure 3: Imagerie par résonance magnétique de Sellink réalisée deux mois auparavant.
+T133	irrelevant 8714 8742;8744 8881;8883 9050;9052 9221	L’essentiel pour la pratique  • Macroscopiquement, il est fréquent que la diverticulite de l’appendice iléo-cæcal se présente seulement comme une appendicite perforée.  • L’appendicectomie reste le traitement de choix, que le diagnostic de diverti­culose ou diverticulite de l’appendice iléo-cæcal ait été posé avant l’opération ou non.  • Les diverticules de l’appendice iléo-cæcal non enflammé en tant que découverte intra-opératoire fortuite devraient être traités prophylactiquement par appendicectomie.
+T134	irrelevant 5996 6006;6008 6875;6877 8712	Discussion  La diverticulite de l’appendice iléo-cæcal a été décrite pour la première fois par Kelynack en 1893 et elle survient aussi bien sous forme congénitale que sous forme acquise [1]. La forme congénitale est très rare et touche toutes les couches de la paroi intestinale. Jusqu’à présent, moins de 50 descriptions de cas de diverticulite congénitale de l’appendice iléo-cæcal ont été publiées [1]. En règle générale, le diagnostic de cette forme rare est seulement posé par le pathologiste. Elle est la plupart du temps manquée aussi bien par le chirurgien pendant l’opération que par le radiologue à l’imagerie [1, 2]. L’échographie haute résolution, avec sa spécificité et sa sensitivité élevées de plus 90%, occupe une place de premier plan dans le diagnostic de l’appendicite, mais son rôle dans la détection d’une diverticulite appendiculaire reste incertain [1, 3].  La diverticulite acquise est certes globalement plus ­fréquente que la forme congénitale, mais avec une ­incidence de 0,004% à 2,1% parmi toutes les appendicectomies, elle reste rare [1, 2]. Cette forme est plus souvent responsable aussi bien de perforations que d’hémorragies [2]. La physiopathologie supposée comprend une obstruction de la lumière appendiculaire. Cette dernière provoque des altérations inflammatoires et favorise la formation de faux diverti­cules dans la paroi intestinale. Des hémorragies diverticulaires nécessitant une transfusion peuvent parfois se produire à partir de ces diverticules [2, 4]. Dans la littérature, une incidence concomitante allant jusqu’à 48% de néoplasies mucineuses ou de carcinoïdes, d’adénomes mucineux, d’adénomes tubulaires, d’adénocarcinomes et de pseudomyxomes péritonéaux est décrite [1, 2]. Le risque réel de malignité ne peut toutefois pas être décrit avec certitude en raison de la faible fréquence de cette affection. Dans le cadre d’une étude rétrospective, Yardimciet al. ont montré qu’en cas de diverticulite perforée de l’appendice mise en évidence à l’histologie, l’analyse rétrospective des examens TDM préopératoires retrouvait significativement plus souvent de la graisse péri-appendiculaire («fat stranding»), un plus grand diamètre de l’appendice et des collections liquidiennes localisées par rapport aux patients présentant une appendicite sans diverticulite [5]. Sur la base de leur étude rétrospective, Käser et al. ont conclu qu’il convient de réaliser une appendicectomie en cas de découverte accidentelle d’un diverticule non inflammatoire de l’appendice iléo-cæcal [4]. Nos recherches ne permettent pas de répondre de façon univoque à la question de savoir si les diverticules asymptomatiques diagnostiqués accidentellement à la radiologie doivent être opérés.

@@ -1,0 +1,73 @@
+T1	irrelevant 0 177	Ce matériel est réservé à un usage privé ou d’enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l’objet d’une transaction commerciale.
+T2	irrelevant 179 218;219 283;284 324;326 338	Télécharger l'exercice (pdf - 28.46 Ko) Retrouver l'analyse des barrières de prévention (pdf - 23.90 Ko) Télécharger le jugement (pdf - 15.83 Ko)  Cas clinique
+T3	disorder 371 378	Obésité
+T4	disorder 461 481	syndrome néphrotique
+T5	disorder 487 507	hypertension modérée
+T6	disorder 599 621	perte de poids de 7 kg
+T7	procedure 641 652	PA maximale
+T8	labvalue 655 662	14 mmHg
+T9	disorder 743 782	amaigrissement d’une trentaine de kilos
+T10	disorder 792 803	protéinurie
+T11	profession 953 972	médecin généraliste
+T12	profession 1023 1042	chirurgien digestif
+T13	procedure 1063 1076	gastroplastie
+T14	disorder 1107 1122	Obésité morbide
+T15	procedure 1131 1136	poids
+T16	labvalue 1139 1145	133 kg
+T17	labvalue 1151 1157	1,70 m
+T18	procedure 1159 1162	IMC
+T19	labvalue 1165 1167	46
+T20	procedure 1361 1387	anneau gastrique ajustable
+T21	profession 1453 1463	chirurgien
+T22	procedure 1502 1507	bilan
+T23	procedure 1636 1681	mise en place d’un anneau gastrique ajustable
+T24	procedure 1715 1743	transit oeso-gastro-duodénal
+T25	drugs 1846 1852	Mopral
+T26	disorder 1967 1990	Perte de poids de 14 kg
+T27	disorder 2346 2359	perte de 27kg
+T28	procedure 2561 2566	poids
+T29	labvalue 2567 2573	115 kg
+T30	procedure 2575 2577	PA
+T31	labvalue 2578 2582	14/8
+T32	procedure 2605 2610	poids
+T33	labvalue 2611 2617	113 kg
+T34	disorder 2688 2708	douleurs abdominales
+T35	disorder 2714 2721	nausées
+T36	disorder 2725 2733	malaises
+T37	disorder 2871 2886	gastro-entérite
+T38	disorder 2943 2952	dyspepsie
+T39	disorder 2954 2974	sensation de blocage
+T40	disorder 2989 3003	syndrome viral
+T41	procedure 3005 3007	PA
+T42	labvalue 3010 3015	9,5/6
+T43	procedure 3037 3046	injection
+T44	drugs 3050 3059	Primpéran
+T45	drugs 3080 3088	Motilium
+T46	disorder 3128 3141	malaise grave
+T47	disorder 3147 3172	troubles de la conscience
+T48	procedure 3176 3178	PA
+T49	procedure 3207 3214	intubée
+T50	procedure 3218 3226	ventilée
+T51	disorder 3331 3343	état de choc
+T52	procedure 3378 3394	examen abdominal
+T53	procedure 3408 3430	échographie abdominale
+T54	disorder 3476 3514	épanchement liquidien intra péritonéal
+T55	procedure 3518 3539	examen scanographique
+T56	disorder 3578 3593	pneumopéritoine
+T57	procedure 3605 3616	laparotomie
+T58	disorder 3664 3679	pneumopéritoine
+T59	procedure 3946 3955	résection
+T60	procedure 4111 4131	ventilation assistée
+T61	disorder 4293 4325	enraidissement des articulations
+T62	risk 4333 4357	immobilisation prolongée
+T63	procedure 4549 4567	cure d’éventration
+T64	procedure 4602 4608	opérée
+T65	disorder 4626 4655	calcifications du coude droit
+T66	disorder 4663 4696	ossifications de la hanche droite
+T67	disorder 4783 4804	douleurs articulaires
+T68	disorder 4808 4816	osseuses
+T69	disorder 4844 4874	gêne fonctionnelle à la marche
+T70	disorder 4927 4963	enraidissement de la cheville gauche
+T71	disorder 4973 4986	hanche droite
+T72	disorder 5001 5030	déficit partiel du SPE gauche
+T73	disorder 5113 5131	troubles digestifs

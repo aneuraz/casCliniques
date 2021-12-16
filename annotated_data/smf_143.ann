@@ -1,0 +1,207 @@
+T1	disorder 58 159	tumeur neuro­endocrine bien différenciée (TNE) bronchique mé­tastatique au niveau osseux et hépatique
+T2	disorder 168 185	 ­anxio-dépressif
+T3	disorder 191 233	 diabète de type 2 non insulino-­requérant
+T4	disorder 253 275	état confusionnel aigu
+T5	disorder 301 326	désorientation temporelle
+T6	disorder 379 384	 toux
+T7	disorder 423 459	aggravation de diarrhées chroniques.
+T8	drugs 499 508	prazépam 
+T9	drugs 523 535	sitagliptine
+T10	drugs 535 546	/metformine
+T11	procedure 569 579	 injection
+T12	drugs 582 592	octréotide
+T13	procedure 706 733	 radio­thérapie métabolique
+T14	irrelevant 737 762	Lors de l’examen clinique
+T15	irrelevant 765 783	e patient présente
+T16	disorder 784 800	une ­tachycardie
+T17	labvalue 802 810	 113 bpm
+T18	procedure 816 834	tension artérielle
+T19	labvalue 837 850	125/­82 mm Hg
+T20	procedure 852 895	une saturation de l’oxygène à l’air ambiant
+T21	labvalue 898 902	 96%
+T22	disorder 906 919	 état fébrile
+T23	labvalue 922 927	39,4°
+T24	disorder 934 949	érythème facial
+T25	disorder 982 1005	encombrement bronchique
+T26	disorder 1009 1061	des râles grossiers sur les deux plages pulmonaires.
+T27	procedure 1065 1085	’examen neurologique
+T28	disorder 1153 1176	déficit sensitivomoteur
+T29	anatomy 1178 1186	La nuque
+T30	procedure 1203 1220	s tests de Kernig
+T31	procedure 1223 1235	 Brudzinski 
+T32	labvalue 1240 1248	négatifs
+T33	anatomy 1259 1269	 abdominal
+T34	disorder 1275 1289	hépatomégalie 
+T35	disorder 1294 1307	splénomégalie
+T36	procedure 1331 1354	Les examens biologiques
+T37	disorder 1364 1379	une leucocytose
+T38	labvalue 1382 1391	16,5 G/l,
+T39	disorder 1392 1410	une thrombocytose 
+T40	labvalue 1411 1420	 544 G/l 
+T41	procedure 1426 1431	 CRP 
+T42	labvalue 1433 1441	71 mg/l.
+T43	procedure 1442 1460	La fonction rénale
+T44	procedure 1465 1473	natrémie
+T45	procedure 1486 1499	 créatinémie 
+T46	disorder 1523 1546	une hypokaliémie sévère
+T47	labvalue 1549 1560	1,8 mmol/l 
+T48	procedure 1575 1603	 L’électrocardiogramme (ECG)
+T49	disorder 1614 1636	 tachycardie régulière
+T50	labvalue 1647 1655	 100/min
+T51	procedure 1693 1695	QT
+T52	procedure 1702 1705	QTc
+T53	labvalue 1739 1745	500 ms
+T54	procedure 1747 1766	Le sédiment urinair
+T55	procedure 1791 1804	hémocultures 
+T56	procedure 1825 1848	 radiographie du thorax
+T57	disorder 1865 1910	un in­filtrat interstitiel de la base gauche.
+T58	procedure 1911 1972	La recherche de l’antigène urinaire de Legionella pneumophila
+T59	labvalue 1976 1986	 négative.
+T60	disorder 2033 2045	 toux grasse
+T61	disorder 2014 2027	état fébrile,
+T62	disorder 2071 2094	 infiltrat radiologique
+T63	disorder 2095 2117	 une pneumonie acquise
+T64	drugs 2195 2207	antibiotique
+T65	drugs 2212 2243	amoxicilline-acide clavulanique
+T66	disorder 2269 2291	l’hypokaliémie sévère 
+T67	procedure 2313 2318	 QTc,
+T68	procedure 2531 2547	 antibiothérapie
+T69	procedure 2482 2509	a correction de la kaliémie
+T70	disorder 2643 2665	syndrome inflammatoire
+T71	irrelevant 2668 2726	Question 1: A ce stade quel examen est le moins pertinent?
+T72	procedure 2745 2757	hémocultures
+T73	procedure 2762 2806	Une tomodensitométrie (CT) thoraco-abdominal
+T74	procedure 2810 2830	 Un scanner cérébral
+T75	procedure 2835 2856	Une ponction lombaire
+T76	procedure 2860 2895	 Un lavage broncho-alvéolaire (LBA)
+T77	procedure 2910 2922	hémocultures
+T78	procedure 2943 2973	 CT ­cérébro-thoraco-abdominal
+T79	disorder 3004 3064	 la lésion tumorale endobronchique lobaire inférieure gauche
+T80	disorder 3066 3095	un épanchement pleural gauche
+T81	labvalue 3099 3105	1,4 cm
+T82	procedure 3106 3126	d’épaisseur maximale
+T83	disorder 3137 3200	un infiltrat en verre dépoli du parenchyme pulmonaire adjacent.
+T84	anatomy 3211 3221	abdominal,
+T85	disorder 3246 3267	métastases hépatiques
+T86	procedure 3319 3331	CT cérébral 
+T87	procedure 3345 3367	une ponction lombaire 
+T88	disorder 3393 3453	un liquide céphalo-­rachidien (LCR) limpide sans leucorachie
+T89	procedure 3508 3595	Les analyses virologiques et bactériennes du LCR par «poly­merase chain reaction» (PCR)
+T90	labvalue 3632 3641	négatives
+T91	procedure 3643 3665	Des cultures de selles
+T92	procedure 3712 3741	 Un lavage broncho-alvéolaire
+T93	procedure 3831 3841	 ­scanner.
+T94	irrelevant 3843 3907	Question 2: A ce stade, quel est la diagnostic le plus probable?
+T95	disorder 3912 3937	 Une diarrhée bactérienne
+T96	disorder 3941 3967	 Une pneumonie bactérienne
+T97	disorder 3971 4007	 Une méningite virale ou bactérienne
+T98	disorder 4012 4041	Un syndrome carcinoïde sévère
+T99	disorder 4045 4065	 Une fièvre tumorale
+T100	disorder 4197 4210	de diarrhées 
+T101	disorder 4182 4195	 flush cutané
+T102	procedure 4135 4151	 bilan exhaustif
+T103	disorder 4245 4266	symptômes pulmonaires
+T104	disorder 4268 4290	un syndrome carcinoïde
+T105	disorder 4316 4335	Une fièvre tumorale
+T106	disorder 4436 4459	Le syndrome carcinoïde 
+T107	irrelevant 4496 4579	Quelle hormone est principalement responsable des symptômes du syndrome carcinoïde?
+T108	drugs 4585 4598	La sérotonine
+T109	drugs 4582 4598;4600 4613	a) La sérotonine  b) L’insuline
+T110	drugs 4617 4630	 L’adrénaline
+T111	drugs 4634 4644	 La rénine
+T112	drugs 4649 4662	L’aldostérone
+T113	drugs 4706 4720	 brady­kinines
+T114	drugs 4723 4738	es tachykinines
+T115	drugs 4740 4759	les prostaglandines
+T116	drugs 4763 4774	l’histamine
+T117	disorder 4807 4826	cellules tumorales,
+T118	drugs 4828 4841	a sérotonine 
+T119	disorder 4983 4998	Un flush facial
+T120	disorder 5003 5016	Des diarrhées
+T121	disorder 5021 5035	Des sibilances
+T122	disorder 5040 5055	Des arthralgies
+T123	disorder 5060 5093	Des œdèmes aux membres inférieurs
+T124	irrelevant 10441 10500;10501 10515	Question 1: e; Question 2: d; Question 3: a; Question 4: d; Question 5: a.
+T125	irrelevant 10429 10438	Réponses:
+T126	disorder 10083 10105	tumeur neuroendocrine 
+T127	disorder 10121 10133	métastatique
+T128	disorder 10154 10168	 flush facial,
+T129	disorder 10168 10182	 des diarrhées
+T130	disorder 10186 10214	des symptômes respiratoires.
+T131	drugs 10284 10313	’analogue de la somatostatine
+T132	disorder 10398 10423	complications cardiaques 
+T133	drugs 9420 9453	les analogues de la somatostatine
+T134	drugs 9455 9465	lanréotide
+T135	drugs 9469 9479	octréotide
+T136	disorder 9576 9593	 crise carcinoïde
+T137	procedure 9595 9622	l’introduction sous cutanée
+T138	procedure 9594 9640	 l’introduction sous cutanée ou intraveineuse 
+T139	drugs 9642 9652	octréotide
+T140	disorder 9773 9778	 SC i
+T141	drugs 9806 9834	analogue de la somatostatine
+T142	drugs 9838 9850	 télotristat
+T143	disorder 9976 9990	 des diarrhées
+T144	irrelevant 9852 9977	un inhibiteur de la tryptophane hydroxylase bloquant la synthèse de la sérotonine, a démontré une diminution de la fréquence 
+T145	drugs 8872 8901	’analogue de la somatostatine
+T146	procedure 8921 8940	anesthésie générale
+T147	disorder 9070 9092	 une crise carcinoïde 
+T148	disorder 9186 9199	 flush sévère
+T149	disorder 9199 9231	, une in­stabilité hémodynamique
+T150	disorder 9241 9270	une hypertension artérielle, 
+T151	disorder 9274 9295	arythmies cardiaques,
+T152	disorder 9296 9312	un bronchospasme
+T153	disorder 9314 9368	un état confusionnel et occasionnellement de la fièvre
+T154	irrelevant 8941 9068	 l’utilisation de médicaments inotropes ou des procédures invasives peuvent induire une libération massive de sérotonine menant
+T155	irrelevant 9092 9180	pouvant mettre en jeu le pronostic vital du patient. Ce tableau clinique se caractérise 
+T156	disorder 7939 7941	SC
+T157	disorder 7972 7993	syndromes sécrétoires
+T158	disorder 7972 8081	syndromes sécrétoires associés aux tumeurs neuroendocrines bien différenciées au même titre que le gastrinome
+T159	disorder 8082 8111	(syndrome de Zolliger Ellison
+T160	disorder 8210 8251	atteinte métastatique hépatique d’une TNE
+T161	anatomy 8308 8326	l’in­testin grêle.
+T162	irrelevant 8327 8483	Les cellules tumorales métastatiques sécrètent alors les différentes hormones directement dans la circulation systémique en évitant ainsi leur inactivation 
+T163	anatomy 8496 8500	foie
+T164	disorder 8506 8553	Les tumeurs neuroendocrines bien différenciées 
+T165	irrelevant 8553 8662	présentent une incidence annuelle de cinq à sept cas pour 100 000 personnes avec une origine le plus souvent 
+T166	disorder 8664 8690	 tractus gastro-intestinal
+T167	disorder 8700 8710	bronchique
+T168	irrelevant 8722 8805	Elles sont habituellement de croissance lente et souvent ­découvertes fortuitement 
+T169	procedure 8815 8838	 chirurgie abdo­minale.
+T170	irrelevant 7924 7934	Discussion
+T171	drugs 7683 7694	’octréotide
+T172	procedure 7918 7921	CRP
+T173	labvalue 7901 7911	diminution
+T174	irrelevant 7797 7894	L’évolution biologique se révèle également favorable avec la normalisation de la formule sanguine
+T175	irrelevant 7725 7796	. Dans les 12 heures suivantes on observe une résolution des symptômes.
+T176	disorder 7042 7069	Les tumeurs neuroendocrines
+T177	labvalue 7095 7108	une élévation
+T178	irrelevant 7111 7331	 la concentration plasmatique de la chromogranine A. Néanmoins, ce marqueur est peu spécifique et une augmentation de la chromogranine A peut également être observée lors de la prise d’in­hibiteurs de la pompe à protons,
+T179	drugs 7335 7351	corticostéroïdes
+T180	disorder 7361 7384	 l’insuffisance rénale.
+T181	procedure 7434 7454	’examen radiologique
+T182	irrelevant 5846 5937	Question 5: Quel examen effectuez-vous pour confirmer le diagnostic de syndrome carcinoïde?
+T183	disorder 5129 5137	un flush
+T184	disorder 5197 5222	des diarrhées sécrétoires
+T185	disorder 5229 5243	bronchospasme 
+T186	disorder 5478 5496	un cœur carcinoïde
+T187	disorder 5508 5527	­atteinte cardiaque
+T188	disorder 5547 5664	la formation d’une plaque fibreuse au niveau des feuillets valvulaires et de l’appareil sous valvulaire du cœur droit
+T189	disorder 5731 5755	 insuffisance tricuspide
+T190	disorder 5765 5772	sténose
+T191	disorder 5773 5796	insuffisance pulmonaire
+T192	disorder 5809 5840	 insuffisance cardiaque droite 
+T193	disorder 4956 4975	syndrome carcinoïde
+T194	irrelevant 4899 4955	Question 4: Lequel de ces symptômes n’est pas associé au
+T195	procedure 5943 5971	Dosage de la chromogranine A
+T196	procedure 5976 6080	Dosage de l’excrétion urinaire de l’acide 5-hydroxyindole­acétique (5-HIAA) dans les urines de 24 heures
+T197	procedure 6085 6120	Dosage de la sérotonine plasmatique
+T198	procedure 6125 6186	Un Ga-68 DOTATATE tomographie par émission de positrons (PET)
+T199	procedure 6191 6241	Dosage du NT-pro-BNP («brain natriuretic peptide»)
+T200	irrelevant 6243 6381	L’acide 5-hydroxyindoleacétique est un métabolite de la sérotonine sécrété dans l’urine et reflète sa sécrétion par les cellules de la TNE
+T201	procedure 6419 6463	le dosage de l’excrétion urinaire du 5-HIAA 
+T202	labvalue 6581 6589	positive
+T203	labvalue 6593 6601	négative
+T204	drugs 6727 6738	paracétamol
+T205	irrelevant 6740 7040	st impérative afin d’éviter les faux positifs [4]. La sensibilité et la spécificité du dosage de la sérotonine plasmatique n’étant pas bien établies, ce test n’est pas recommandé [3]. Le NT-pro-BNP a une valeur prédictive et pronostic d’une atteinte cardiaque chez les patients connus pour un SC [2].
+T206	irrelevant 6602 6720	de 60% et 92% respectivement [3]. L’éviction d’une alimentation riche en sérotonine (pamplemousse, banane, kiwi, noix)
+T207	irrelevant 6463 6580	dans les urines de 24 heures présente une sensibilité de 70% et une spécificité de 90% ainsi qu’une valeur prédictive

@@ -1,0 +1,63 @@
+Contexte
+
+La néphropathie chronique à oxalates est une complication connue d’une pancréatite chronique. A l’inverse, la néphropathie aiguë à oxalates est beaucoup trop rarement décrite en rapport avec une pancréatite chronique, mais peut toutefois entraîner une insuffisance rénale ­aiguë souvent irréversible. Etant donné que les facteurs de risque incluent, outre une atteinte rénale préexistante, des insuffisances prérénales aiguës, l’anamnèse suggestive présente le risque d’établir un diagnostic erroné conditionné par l’étiologie plus fréquente.
+
+Présentation du cas
+Anamnèse et statut
+
+Le patient âgé de 85 ans s’est présenté au service des urgences car il ne pouvait plus manger et ne pouvait boire que de petites quantités depuis environ quatre jours en raison de vomissements récidivants. Préalablement, une nette détérioration de l’état général, ­accompagnée de diarrhées et vomissements, était déjà survenue depuis environ un mois. Une détérioration insidieuse avait déjà été remarquée depuis près de six mois, en particulier en raison de la modification du goût.
+
+L’anamnèse a révélé une fréquence élevée de défécation (toutes les trois heures), les selles étant décrites comme molles et non sanglantes ni malodorantes. Il n’existait aucune dysurie ni pollakiurie, les quantités d’urine avaient toutefois nettement diminué au cours des 14 derniers jours. Depuis un an et demi, le patient avait connu une perte de poids involontaire d’environ 30 kg, mais une prise de poids de 2,5 kg au cours des deux derniers jours, accompagnée d’un léger œdème symétrique au niveau des jambes. Aucune symptomatique B n’a été rapportée. L’anamnèse du voyage a relevé des vacances en Sicile jusqu’à deux semaines avant la présentation au service des urgences. Le patient est non-fumeur, la consommation d’alcool et d’autres drogues a été exclue.
+
+Les maladies préliminaires connues sont un diabète sucré de type 2, une hypertension artérielle, une fibrillation auriculaire et une insuffisance rénale chronique CKD («chronic kidney disease») G3a. La médication régulière inclut aspirine®, bisoprolol, lisinopril, Janumet® et insuline Novomix 30. Le patient n’a pris aucun anti-inflammatoire non stéroïdien.
+
+Le patient âgé, toutefois vigoureux et afébrile (36,4°), présentant un indice de masse corporelle de 22,8 kg/m², s’est présenté dans un état général nettement réduit. Il existait une hypotension (100/47 mm Hg) avec pouls rythmique normal (67/min) et oxygénation correcte (SpO2 98% à l’air ambiant). A l’examen clinique, le patient présentait des indices de compensation cardio-pulmonaire et des résultats neurologiques normaux. Il existait des signes d’exsiccose avec muqueuse buccale sèche, veines jugulaires vides et turgescence cutanée réduite. Aucune pétéchie. La palpation de l’abdomen n’a révélé aucune résistance, mais une douleur à la pression au niveau de l’épigastre. De légers œdèmes étaient visibles sur le bas des deux jambes. Le toucher rectal était normal. La diminution de l’excrétion urinaire déjà décrite par le patient a été confirmée, la diurèse était de 25 ml en trois heures. L’échographie a exclu une congestion postrénale.
+
+Diagnostic
+
+Les analyses biochimiques initiales ont d’abord révélé des valeurs fortement accrues de créatinine (1253 µmol/l) et d’urée (48 mmol/l). De manière consistante, il existait en outre une acidose métabolique aiguë (pH 7,03, CO₂ 2,28 kPA, HCO3 4,3 mmol/l, lactate 1,0 mmol/l). La CRP (9 mg/l) et les taux d’électrolytes étaient normaux. Les valeurs d’ALT (57 U/l) et d’ALP (129 U/l) se trouvaient juste au-dessus de la limite de référence, celles de bilirubine, AST, GGT et α-amylase n’étaient pas accrues. L’hémogramme a révélé, en présence d’un taux normal de leucocytes (7,3 G/l), une anémie macrocytaire normochrome hyporégénérative (Hb 76 g/l, MCH 31 pg; MCHC 309 g/l, réticulocytes 2%) ainsi qu’une légère thrombopénie (133 G/l). Le statut urinaire n’a révélé ­aucune érythrocyturie significative, une leucocyturie de faible degré a été expliquée par contamination en présence de nombreuses cellules pavimenteuses. L’analyse urinaire a montré une urine concentrée (densité 1,018 kg/l, créatinine 12,4 mmol/l) avec des taux relativement faibles de sodium (38 mmol/l) et d’urée (141 mmol/l). Le quotient protéine/créatinine s’élevait à 222 mg/mmol.
+
+Première estimation et traitement
+
+Ces valeurs ont fourni une fraction excrétée d’urée de 30%, de sorte que la combinaison des résultats de l’anamnèse et de l’examen clinique a suggéré une origine prérénale de l’insuffisance rénale aiguë sur la base d’une néphropathie diabétique préexistante. En raison de la thrombopénie et de l’anémie ont eu lieu l’exclusion d’une microangiopathie thrombotique (haptoglobine et LDH normaux, fragmentocytes une fois 1,4%, puis rapidement <0,5%, activité ADAMS-TS-13 toutefois dans la norme) et d’une anémie hémolytique auto-immune (tests de Coombs négatifs). Le patient a d’abord été hydraté par voie intraveineuse et le traitement antihypertenseur par lisinopril a été interrompu.
+
+Du fait de la perte de poids de 30 kg, un bilan hémato-oncologique a parallèlement été initié.
+
+Evaluation et poursuite de la mise au point diagnostique
+
+Un myélome multiple a pu être exclu. La gastroscopie/coloscopie n’a montré aucun signe de tumeur maligne, la gastroscopie a toutefois mis en évidence un œsophage de Barett et quatre polypes sans dysplasie de degré élevé ont été réséqués à la coloscopie. Aucune indication de sprue, maladie de Whipple, giardiase ou colite microscopique n’a été détectée.
+
+L’échographie abdominale a révélé un «double-duct-sign» (dilatation ducanal hépatique communet canal pancréatiquede respectivement 9 mm) ainsi qu’une inhomogénéité du pancréas, entraînant ainsi une suspicion de lithiase pancréatique avec obstacle à l’écoulement. Une cholangio-pancréatographie par résonance magnétique (CPRM) avec stimulation de sécrétions a mis en évidence deux concrétions au niveau du canal pancréatique avec nette dilatation, l’écoulement de sécré­tions était toutefois non entravé et aucun symptôme n’est survenu sous stimulation des sécrétions. Une échographie endoscopique complémentaire a confirmé la suspicion d’une pancréatite calcifiante chronique. L’obstruction intermittente du canal pancréatique en a été considérée comme la cause. Il existait par ailleurs une insuffisance pancréatique exocrine (élastase pancréatique <50 µg/g, norme >200 µg/g). Lors de la répétition de l’anamnèse de défécation avec interrogation ciblée sur la couleur des selles, le patient a indiqué que ses selles avaient été très claires au cours des dernières semaines. Comme ce détail ne lui avait pas semblé pertinent, il ne l’avait pas mentionné lors du premier entretien d’anamnèse.
+
+Depuis l’entrée à l’hôpital, aucune diarrhée n’était plus survenue et le statut volumique du patient s’était normalisé. Une diurèse normale avait certes été constaté, mais une nouvelle hausse des paramètres de rétention était toutefois survenue de sorte qu’au troisième jour d’hospitalisation, une hémodialyse intermittente a dû être initiée et l’indication d’une biopsie rénale a été établie.
+
+En corrélation avec la néphropathie diabétique chronique déjà connue, une fibrose interstitielle avec atrophie tubulaire (environ 50%) a été détectée. Quatre des 22 glomérules étaient globalement sclérosés et nécrosés, les autres glomérules présentaient une sclérose de faible degré en partie segmentaire, de légères modifications du collapsus ainsi qu’une fibrose capsulaire. En outre se trouvaient néanmoins des signes avancés de lésions épithéliales tubulaires avec mise en évidence de nombreux dépôts cristalloïdes intratubulaires doublement réfringents, avec réaction péritubulaire granulomateuse au niveau focal et extravasation de cristaux (fig. 1).
+
+Figure 1: Néphropathie aiguë à oxalates. Les cristaux d’oxalate de calcium provoquent une destruction des tubules avec réaction granulomateuse.
+
+Diagnostic et traitement
+
+Il a ainsi été possible de définir l’existence des lésions combinées sous forme d’une néphropathie à cristaux du type d’une oxalose secondaire, associée à une néphropathie chronique préexistante.
+
+Pour résumer, une néphropathie aiguë à oxalates est survenue chez ce patient déjà atteint de CKD G3a dans le cadre d’une pancréatite chronique avec insuffisance pancréatique exocrine, avec pour conséquence une insuffisance rénale nécessitant une dialyse.
+
+Un traitement enzymatique substitutif par Creon®a été initié et du CaCO3 a été administré au patient pour lier l’oxalate. Bien qu’une diurèse suffisante ait par la suite été atteinte, la fonction rénale s’est, avec un débit de filtration glomérulaire (DFG) de 6 ml/min, ensuite avérée si faible que le patient a continué à avoir recours à l’hémodialyse.
+
+Discussion
+
+L’hyperoxalurie, définie comme une oxalurie >0,45 mmol/24 heures, est le trouble métabolique sous-jacent d’une néphropathie à oxalates. Normalement, seuls 10% de l’oxalate apporté par la nourriture sont absorbés au niveau de l’intestin, car la majeure partie est complexée avec du calcium et excrétée dans les selles. En cas d’insuffisance pancréatique exocrine, plusieurs facteurs défavorables sont réunis (fig. 2): Des acides gras non absorbés dans la lumière intestinale se lient au calcium et une quantité supérieure d’oxalate non lié peut ainsi être absorbée. Par ailleurs, les acides gras libres augmentent la perméabilité de la muqueuse du côlon pour l’oxalate de jusqu’à 40% [1]. L’absorption accrue entraîne une augmentation du taux plasmatique d’oxalate et ainsi une excrétion rénale accrue. Spécialement en cas de diarrhée concomitante et de la déshydratation associée avec production d’une urine plus concentrée, la solubilité de l’oxalate est dépassée et les cristaux d’oxalate précipitent au sein des tubules, détruisant ainsi leur structure histologique.
+
+Figure 2: Pathomécanismes de la néphropathie aiguë à ­oxalates en cas d’insuffisance pancréatique.
+
+Du point de vue thérapeutique, il est donc essentiel de prévenir une hypovolémie ainsi que de réduire la quantité d’oxalate absorbable dans la lumière intestinale; cette dernière mesure est obtenue par un traitement enzymatique substitutif de l’insuffisance pancréatique exocrine, un régime riche en calcium ainsi qu’éventuellement du carbonate de calcium pour lier l’oxalate.
+
+En termes de pronostic, les patients concernés peuvent être classés en deux groupes en fonction de l’étendue de l’atteinte rénale éventuellement préexistante et du statut de diurèse au moment de la présentation [2]: Les patients présentant une fonction rénale préalablement normale et une diurèse maintenue lors de la consultation ont de bonnes chances de retrouver par la suite une fonction rénale suffisante, même si une méthode de substitution rénale s’avère nécessaire par intermittence. Dans le cas d’une insuffisance rénale chronique préexistante ou en présence d’une anurie initiale, une nécessité de dialyse permanente est attendue dans plus de la moitié des cas.
+
+L’essentiel pour la pratique
+
+• La néphropathie aiguë à oxalates est une complication rare d’une pancréatite chronique et peut entraîner une insuffisance rénale aiguë
+irréversible. La détection précoce de la cause est décisive, car un traitement rapide est essentiel pour le pronostic à long terme.
+
+• En cas de pancréatite encore inconnue, il existe un risque de classer à tort l’insuffisance rénale comme d’origine prérénale.
+
+• Une anamnèse détaillée et une interrogation explicite relative à toutes les caractéristiques des selles peuvent mettre en évidence la cause rare et aiguiller ainsi le traitement dans la bonne direction.

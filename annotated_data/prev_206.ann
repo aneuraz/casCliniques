@@ -1,0 +1,103 @@
+T1	disorder 120 169	douleurs abdominales hypogastriques, spasmodiques
+T2	profession 311 320	tabagisme
+T3	procedure 367 378	température
+T4	labvalue 385 392	37,9 C°
+T5	procedure 442 445	CRP
+T6	labvalue 452 459	56 mg/l
+T7	procedure 529 532	ASP
+T8	procedure 647 669	échographie abdominale
+T9	disorder 683 700	 iléite terminale
+T10	procedure 705 724	rectosigmoïdoscopie
+T11	procedure 1216 1226	coloscopie
+T12	disorder 1253 1286	troubles fonctionnels intestinaux
+T13	disorder 1466 1486	douleurs abdominales
+T14	disorder 1492 1503	courbatures
+T15	disorder 1522 1530	asthénie
+T16	procedure 1589 1614	bilan gastroentérologique
+T17	drugs 1728 1733	Mag 2
+T18	procedure 1910 1926	bilan biologique
+T19	disorder 1861 1879	douleurs en barre,
+T20	disorder 2132 2196	douleurs abdominales récurrentes avec des phases de constipation
+T21	procedure 2231 2247	bilan biologique
+T22	disorder 2555 2579	colopathie fonctionnelle
+T23	disorder 2599 2606	anxiété
+T24	disorder 2612 2631	troubles du sommeil
+T25	procedure 2665 2668	IMC
+T26	labvalue 2671 2673	17
+T27	drugs 2818 2826	Séroplex
+T28	drugs 2831 2843	Météospasmyl
+T29	disorder 3035 3043	diarrhée
+T30	disorder 3050 3062	constipation
+T31	disorder 3074 3100	crise douloureuse suraiguë
+T32	disorder 3250 3258	asthénie
+T33	disorder 3288 3316	stress professionnel intense
+T34	procedure 3408 3426	 bilan biologique 
+T35	disorder 3690 3710	douleurs abdominales
+T36	disorder 3719 3747	altération de l’état général
+T37	disorder 3824 3843	anémie microcytaire
+T38	disorder 3849 3865	hyperleucocytose
+T39	disorder 3871 3883	polynucléose
+T40	disorder 3889 3903	thrombocytémie
+T41	procedure 3909 3911	VS
+T42	labvalue 3914 3919	37 mm
+T43	procedure 3964 3986	phosphatases alcalines
+T44	procedure 3996 4004	gamma-GT
+T45	disorder 4124 4144	Douleurs abdominales
+T46	disorder 4173 4193	syndrome diarrhéique
+T47	disorder 4195 4223	Altération de l’état général
+T48	disorder 4299 4332	Syndrome inflammatoire biologique
+T49	procedure 4356 4367	échographie
+T50	disorder 4385 4391	iléite
+T51	disorder 4464 4496	abcès intra- ou rétro-péritonéal
+T52	disorder 4504 4523	sténose intestinale
+T53	disorder 4541 4557	maladie de Crohn
+T54	drugs 4607 4615	Solupred
+T55	procedure 4644 4654	coloscopie
+T56	procedure 4701 4718	scanner abdominal
+T57	disorder 5313 5329	maladie de Crohn
+T58	procedure 5520 5536	bilan biologique
+T59	disorder 5606 5628	syndrome inflammatoire
+T60	drugs 5639 5654	corticothérapie
+T61	disorder 5835 5843	diarrhée
+T62	disorder 5856 5862	fièvre
+T63	drugs 5918 5929	paracétamol
+T64	disorder 5946 5954	douleurs
+T65	drugs 5984 5996	morphiniques
+T66	drugs 5999 6012	Skenan LP 30 
+T67	drugs 6026 6039	Actiskenan 10
+T68	drugs 6091 6102	morphinique
+T69	disorder 6177 6197	douleurs abdominales
+T70	procedure 6275 6285	coloscopie
+T71	procedure 6478 6489	hémoglobine
+T72	labvalue 6492 6503	8,8 g/100ml
+T73	procedure 6505 6515	leucocytes
+T74	labvalue 6518 6529	10 500 /mm3
+T75	procedure 6531 6541	plaquettes
+T76	labvalue 6543 6555	 706 000/mm3
+T77	procedure 6557 6560	CRP
+T78	labvalue 6563 6571	123 mg/l
+T79	procedure 6573 6588	protides totaux
+T80	labvalue 6591 6596	57g/l
+T81	procedure 6598 6609	créatinémie
+T82	labvalue 6612 6618	4 mg/l
+T83	drugs 6779 6787	morphine
+T84	disorder 6656 6698	violentes douleurs dans la région lombaire
+T85	drugs 6818 6830	morphiniques
+T86	disorder 7032 7048	Cachexie majeure
+T87	disorder 7050 7082	dilatation abdominale importante
+T88	procedure 7208 7211	CRP
+T89	labvalue 7220 7228	224 mg/l
+T90	procedure 7233 7257	scanner abdomino-pelvien
+T91	disorder 7275 7292	Dilatation iléale
+T92	disorder 7315 7342	zone inflammatoire sténosée
+T93	disorder 7387 7394	fistule
+T94	drugs 7502 7511	Rocéphine
+T95	drugs 7519 7525	Flagyl
+T96	disorder 7751 7763	état de choc
+T97	procedure 7845 7865	intubation trachéale
+T98	procedure 7872 7894	remplissage vasculaire
+T99	drugs 7918 7931	noradrénaline
+T100	disorder 8051 8065	abcès du psoas
+T101	procedure 8102 8122	drainage chirurgical
+T102	disorder 8366 8379	choc septique
+T103	disorder 8398 8424	défaillance multiviscérale

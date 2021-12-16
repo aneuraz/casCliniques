@@ -1,0 +1,106 @@
+T1	profession 72 83	gynécologue
+T2	procedure 113 134	première consultation
+T3	procedure 180 187	suivie 
+T4	risk 352 373	Tabac 20 cigarettes/j
+T5	procedure 375 383	Col sain
+T6	procedure 386 397	rottis fait
+T7	procedure 399 441	Proposition de mise en place d’un stérilet
+T8	drugs 442 448	NOVA T
+T9	procedure 451 470	visée contraceptive
+T10	procedure 488 513	mise en place du stérilet
+T11	disorder 569 592	troubles de l’ovulation
+T12	procedure 602 610	arrêt de
+T13	drugs 613 619	Adépal
+T14	procedure 640 660	résultats du frottis
+T15	profession 683 694	gynécologue
+T16	procedure 775 799	laboratoire de cytologie
+T17	procedure 823 832	résultats
+T18	labvalue 843 853	péjoratifs
+T19	procedure 872 885	consultation 
+T20	procedure 892 911	contrôle de routine
+T21	procedure 917 926	stérilet.
+T22	procedure 957 977	résultats du frottis
+T23	profession 1047 1058	gynécologue
+T24	procedure 1021 1043	résultats parviendront
+T25	procedure 1084 1104	Aspects cytologiques
+T26	disorder 1111 1114	CIN
+T27	disorder 1116 1150	Cervical Intraepithélial Neoplasia
+T28	labvalue 1155 1163	type II 
+T29	disorder 1182 1217	zone de transformation métaplasique
+T30	disorder 1230 1237	CIN III
+T31	labvalue 1219 1226	Absence
+T32	procedure 1255 1277	confirmation biopsique
+T33	procedure 1302 1321	joindre la patiente
+T34	profession 1493 1504	gynécologue
+T35	profession 1703 1714	gynécologue
+T36	profession 1832 1843	gynécologue
+T37	procedure 1820 1828	revoyait
+T38	procedure 1858 1874	nouveau stérilet
+T39	procedure 1891 1898	frottis
+T40	disorder 1952 1998	Importante hyperplasie des cellules de réserve
+T41	procedure 1999 2037	évoluant sur le mode d’une CIN II-III 
+T42	disorder 2038 2070	dysplasie modérée-sévère mucoïde
+T43	procedure 2085 2107	confirmation biopsique
+T44	procedure 2117 2141	complément thérapeutique
+T45	procedure 2148 2155	biopsie
+T46	disorder 2189 2220	Présence d’un carcinome in situ
+T47	procedure 2256 2292	processus lésionnel apparait évoluer
+T48	disorder 2300 2315	mode infiltrant
+T49	procedure 2338 2368	complément thérapeutique local
+T50	disorder 2387 2407	degré d’infiltration
+T51	disorder 2424 2444	processus lésionnel 
+T52	profession 2496 2507	gynécologue
+T53	profession 2567 2591	chirurgien gynécologique
+T54	procedure 2515 2535	remettre son dossier
+T55	procedure 2551 2561	se confier
+T56	procedure 2622 2648	nécessité d’une conisation
+T57	procedure 2675 2722	Conisation siège d’un foyer de dysplasie sévère
+T58	disorder 2749 2773	signes d’infection à HPV
+T59	disorder 2823 2830	CIN III
+T60	disorder 2841 2865	morphologie particulière
+T61	disorder 2873 2908	 aspect papillomateux du revêtement
+T62	disorder 2914 2966	colonisation massive des collets glandulaires cernés
+T63	disorder 2974 3003	infiltrat inflammatoire dense
+T64	disorder 3026 3053	invasion tumorale débutante
+T65	procedure 3059 3088	limites d’exérèse sont saines
+T66	procedure 3123 3135	prélèvements
+T67	procedure 3140 3169	limite d’exérèse périphérique
+T68	labvalue 3188 3192	1 mm
+T69	profession 3212 3222	chirurgien
+T70	procedure 3260 3265	subir
+T71	procedure 3270 3298	hystérectomie par voie basse
+T72	procedure 3328 3362	examen de la pièce d’hystérectomie
+T73	labvalue 3377 3384	absence
+T74	disorder 3388 3417	foyer de dysplasie résiduelle
+T75	procedure 3460 3490	compte-rendu d’hospitalisation
+T76	procedure 3496 3514	suites opératoires
+T77	procedure 3582 3595	hospitalisée,
+T78	disorder 3639 3659	douleurs abdominales
+T79	procedure 3667 3683	bilan biologique
+T80	procedure 3687 3700	échographique
+T81	procedure 3724 3735	cœlioscopie
+T82	disorder 3740 3771	Pelvis légèrement inflammatoire
+T83	procedure 3780 3798	collection abcédée
+T84	labvalue 3773 3776	Pas
+T85	procedure 3800 3820	Lavage de la cavité 
+T86	procedure 3823 3852	prélèvements bactériologiques
+T87	profession 4075 4086	gynécologue
+T88	procedure 4246 4261	hospitalisation
+T89	disorder 4303 4323	douleurs abdominales
+T90	disorder 4340 4346	fièvre
+T91	labvalue 4349 4356	39,3 °C
+T92	procedure 4367 4387	TDM abdomino-pelvien
+T93	disorder 4411 4416	abcès
+T94	labvalue 4426 4442	6 cm de diamètre
+T95	procedure 4478 4506	couvert ‘une antibiothérapie
+T96	procedure 4507 4509	IV
+T97	procedure 4534 4545	laparotomie
+T98	procedure 4551 4572	évacuation de l’abcès
+T99	procedure 4586 4607	toilette péritonéale 
+T100	procedure 4612 4666	installation d’une lame intra-abdominale pour drainage
+T101	procedure 4723 4753	retrait de la lame de drainage
+T102	disorder 4769 4793	écoulement par l’orifice
+T103	procedure 4849 4861	consultation
+T104	procedure 4899 4909	évacuation
+T105	disorder 4915 4920	abcès
+T106	procedure 4956 4978	Fermeture de l’orifice

@@ -1,0 +1,109 @@
+T1	irrelevant 0 8	Contexte
+T2	irrelevant 10 368;370 389;390 398	La fièvre d’origine indéterminée implique souvent de nombreux examens coûteux. Nous décrivons le cas d’une patiente atteinte de fièvre d’origine indéter­minée depuis plusieurs mois. Malgré de multiples examens diagnostiques, la cause n’a pas pu être identifiée. La clé pour résoudre ce problème résidait dans l’emploi d’une méthode de diagnostic moléculaire.  Présentation du cas Anamnèse
+T3	procedure 535 556	examens stationnaires
+T4	disorder 573 602	fièvre d’origine indéterminée
+T5	disorder 611 629	état inflammatoire
+T6	disorder 661 667	fièvre
+T7	labvalue 748 753	40 °C
+T8	disorder 778 786	frissons
+T9	disorder 830 853	 intolérance à l’effort
+T10	disorder 869 887	abattement général
+T11	disorder 895 911	sueurs nocturnes
+T12	disorder 923 933	perdu 6 kg
+T13	disorder 987 1002	érythème noueux
+T14	disorder 1103 1142	thrombose veineuse profonde de la jambe
+T15	procedure 1305 1319	chimiothérapie
+T16	drugs 1324 1333	rituximab
+T17	drugs 1359 1371	chlorambucil
+T18	procedure 1402 1416	chimiothérapie
+T19	procedure 1433 1455	maladie de Waldenström
+T20	procedure 1539 1556	immunoglobuline M
+T21	procedure 1558 1561	IgM
+T22	procedure 1569 1581	paraprotéine
+T23	risk 1689 1714	rapports sexuels à risque
+T24	risk 1730 1767	contacts avec des animaux domestiques
+T25	risk 1676 1683	voyages
+T26	risk 1822 1827	tique
+T27	procedure 1888 1908	examens ambulatoires
+T28	procedure 2009 2026	tomodensitométrie
+T29	procedure 2028 2031	TDM
+T30	procedure 2248 2301	tomographie par émission de positons couplée à la TDM
+T31	procedure 2307 2310	TDM
+T32	procedure 2303 2306	TEP
+T33	procedure 2315 2348	échocardiographie transthoracique
+T34	procedure 2381 2399	cultures sanguines
+T35	procedure 2497 2511	chimiothérapie
+T36	procedure 2602 2607	L’IgM
+T37	procedure 2615 2628	paraprotéines
+T38	procedure 2745 2748	CRP
+T39	labvalue 2757 2764	43 mg/l
+T40	procedure 2783 2807	vitesse de sédimentation
+T41	procedure 2809 2811	VS
+T42	labvalue 2838 2847	>100 mm/h
+T43	disorder 2858 2864	anémie
+T44	procedure 2870 2893	analyses de laboratoire
+T45	procedure 2950 2966	immuno-sérologie
+T46	procedure 2972 2996	anticorps antinucléaires
+T47	procedure 2998 3001	ANA
+T48	procedure 3009 3049	nticorps anticytoplasme des neutrophiles
+T49	procedure 3051 3055	ANCA
+T50	procedure 3062 3082	facteurs rhumatoïdes
+T51	procedure 3088 3106	anticorps anti-CCP
+T52	procedure 3113 3141	anticorps anti-streptolysine
+T53	procedure 3165 3167	C3
+T54	procedure 3168 3170	C4
+T55	labvalue 3193 3200	normaux
+T56	irrelevant 3203 3218	Examen clinique
+T57	disorder 3256 3286	état général légèrement réduit
+T58	disorder 3299 3309	tachycarde
+T59	disorder 3313 3320	fébrile
+T60	procedure 3342 3364	température corporelle
+T61	labvalue 3368 3375	39,0 °C
+T62	procedure 3379 3394	examen clinique
+T63	irrelevant 3495 3504	Résultats
+T64	procedure 3510 3533	analyses de laboratoire
+T65	procedure 3597 3622	paramètres inflammatoires
+T66	procedure 3639 3642	CRP
+T67	labvalue 3646 3653	25 mg/l
+T68	procedure 3661 3663	VS
+T69	labvalue 3667 3675	130 mm/h
+T70	irrelevant 5673 5924;5926 5936;5938 6447;6449 6701;6703 6902;6904 7217;7219 7946;7948 8514;8516 8880;8882 9051;9053 9233;9234 9271;9272 9297;9298 9314;9315 9333;9334 9374;9375 9384;9385 9399;9400 9420;9421 9441;9442 9492;9493 9552;9553 9628;9630 9938;9940 10327;10329 10763;10765 11295;11297 11513;11515 12777;12779 13390;13392 13751;13753 13781;13783 13999;14001 14072;14074 14207;14209 14367;14369 14630;14632 15053	Figure 1: Evolution de la fièvre et de la CRP chez notre patiente, avec une normalisation rapide après le début du traitement par doxycycline. Nous attribuons l’évolution fluctuante des deux paramètres au traitement par stéroïdes initié à l’admission.  Discussion  La fièvre d’origine indéterminée a initialement été définie par Petersdorf et Beeson en tant que température corporelle ≥38,3 °C mesurée plusieurs fois sur une période de 3 semaines, sans mise en évidence de la cause malgré des examens stationnaires approfondis. La définition a ensuite été modifiée, et le milieu d’examen ambulatoire a également été pris en compte. Les néoplasies, les infections et les maladies immunologiques représentent les causes les plus fréquentes de la fièvre d’origine indéterminée.  Les patients immunodéprimés sont exclus du cadre de la nouvelle définition de la fièvre d’origine indéterminée, car les causes sous-jacentes sont alors différentes, et un algorithme d’évaluation différent et accéléré devrait en conséquence être initié.  La neoehrlichiose, la cause identifiée de la «fièvre d’origine indéterminée» de notre cas, est une infection bactérienne chez l’être humain extrêmement rare, découverte il y a seulement peu de temps.  Depuis les premières descriptions de cas en 2010, tout juste 30 cas ont été publiés à travers le monde, dont un faible nombre de porteurs asymptomatiques. La majorité des descriptions de cas proviennent d’Europe de l’Est, d’Europe du Nord et d’Europe centrale. Certains cas isolés ont également rapportés en Asie.  En Suisse, trois cas ont été décrits. La totalité des patients suisses touchés vivaient dans l’agglomération de Zurich. Dans la région de Zurich-Winterthur, la population de tiques analysée (Ixodes ricinus) a montré une prévalence de Candidatus Neoehrlichia mikurensis de jusqu’à 8%. Des chiffres similaires ont été recensés dans le cadre d’analyses conduites dans toute l’Europe, notamment en Allemagne, en Autiche, en France et en Italie. En comparaison avec les maladies transmises par les tiques les plus fréquentes telles que la maladie de Lyme ou l’encéphalite à tique, pour lesquelles la prévalence d’agents pathogènes s’élève respectivement à 20–30% et 5% dans les populations de tiques, ce chiffre est étonnement haut.  Candidatus Neoehrlichia mikurensis est une bactérie coccoïde à Gram négatif obligatoirement intracellulaire qui, tout comme les Rickettsia, les Ehrlichia et d’autres, appartient à la famille des Anaplasmataceae. Cette bactérie a été mise en évidence pour la première fois en 2004 sur l’île japonaise de Mikura, chez des populations de tiques (vecteurs) et des rats (hôtes). Outre l’Asie, l’agent pathogène a également été trouvé en Europe et en Afrique chez des vecteurs (la plupart du temps de l’espèce Ixodes), des mammifères (surtout des rongeurs) et des oiseaux.  Jusqu’à présent, Candidatus Neoehrlichia mikurensisn’a pas pu être mise en culture. Ainsi, diverses incertitudes persistent quant à sa morphologie, son tropisme cellulaire et son cycle de vie. On suppose que les cellules cibles de la bactérie sont les cellules endothéliales et les leucocytes, et qu’elle présente une croissance impliquant une liaison membranaire.  Les descriptions de cas de patients avec une neoehr­lichiose symptomatique publiées jusqu’à présent montrent divers parallèles également présent dans notre cas (tab. 1):  Tableau 1: Anomalies cliniques et de laboratoire chez les patients atteints de neoehrlichiose. Les caractéristiques qui n’ont été décrites que de façon isolée sont nommées «rares». Caractéristiques de la neoehrlichiose Clinique	Fièvre, frissons Sueurs nocturnes Myalgie/arthralgie Evénements vasculaires/thromboemboliques Céphalées Perte de poids Altérations cutanées Rare: toux, diarrhée Analyses de laboratoire	Augmentation de la CRP, VS Anémie, thrombopénie, leucocytose /leucopénie, neutrophilie Rares: hyponatrémie, augmentation de la LDH, augmentation des transaminases  Les patients touchés étaient majoritairement immunodéprimés (par ex. rituximab), souffraient d’une maladie sous-jacente immunologique ou hématologique, et ils étaient souvent splénectomisés. Deux des patients malades décrits ne présentaient toutefois pas de maladie sous-jacente ou d’immunodéficience connue.  L’ensemble des patients touchés souffraient de fièvre, et souvent aussi de sueurs nocturnes et de perte de poids. Des événements thromboemboliques ont été décrits dans de nombreux cas (surtout des thromboses veineuses profondes de la jambe, ainsi que des accidents vasculaires cérébraux). Des rougeurs cutanées ainsi que la survenue d’un érythème noueux ont été observées plusieurs fois.  Les symptômes ont souvent persisté pendant des semaines ou des mois, et il n’est pas rare qu’ils aient initialement été faussement interprétés en tant que progression de la maladie sous-jacente. Les troubles ont uniquement disparu après l’initiation d’un traitement antibiotique adéquat. Dans un des cas publié, la maladie a eu une évolution fatale. Chez ce patient avec état septique, le diagnostic a uniquement été posé post mortem.  Il existe toutefois également quelques rares descriptions de cas de patients asymptomatiques. Ainsi, en Pologne, 316 forestiers sains et asymptomatiques ont été soumis à une PCR sanguine, et la bactérie Candidatus Neoehrlichia mikurensis a été mise en évidence chez 1,6% de cette population. Il est donc à supposer qu’une infection par cette bactérie ne conduit pas forcément à une maladie symptomatique, particulièrement chez les personnes immunocompétentes, et peut également présenter des évolutions légères et auto-limitantes.  On suppose que le temps de latence présente une grande variabilité. Aussi bien des cas de maladie symptomatique développée 2 jours après la piqûre de tique que des cas développés après plus de 6 mois ont été décrits.  Le diagnostic peut seulement être posé au moyen de méthodes de biologie moléculaire (tab. 1). Comme dans le cas décrit plus haut, la bactérie peut être mise en évidence au moyen d’une PCR bactérienne à large spectre. Depuis 5 ans, il existe également une PCR espèce-spé­cifique. Elle a été développée à l’institut de microbio­logie de l’Université de Zurich et elle est aujourd’hui proposée en tant qu’analyse de routine. Actuellement, il n’existe ni possibilité de mise en évidence sérologique ni possibilité de mise en évidence au moyen d’une culture. La PCR bactérienne à large spectre exploite le fait que pour la grande majorité des bactéries, une région génomiquement conservée peut être amplifiée, puis attribuée à une espèce au moyen du séquençage. Bien qu’elle soit hautement spécifique, la PCR bactérienne à large spectre est toutefois variable selon les agents pathogènes, et elle est moins sensible qu’une PCR espèce-spécifique. Etant donné qu’une culture de l’agent pathogène offre souvent une sensibilité plus élevée dans le cas des bactéries «cultivables», cette méthode reste la référence absolue. Toutefois, de nouvelles méthodes de séquençage encore plus complètes transformeront fortement le diagnostic microbiologique dans les années à venir.  Un antibiotique à action intracellulaire doit être employé pour le traitement. Les bêtalactamines, notamment, n’agissent pas. Dans les descriptions de cas, la doxycycline 100 mg deux fois par jour était le traitement le plus fréquemment employé. La durée de traitement généralement choisie était de 6 semaines. Dans des cas isolés, l’infection a été traitée avec succès en l’espace de seulement 2 à 3 semaines. La durée idéale n’est pas fixée. Alternativement, de la rifampicine à la dose de 450 mg deux fois par jour peut être prescrite, mais il n’existe néanmoins qu’une description de cas avec ce traitement.  Pendant le traitement par doxycycline, il convient de veiller à une protection solaire suffisante (réactions phototoxiques). Pour la doxycycline et la rifampicine, il faut être attentif aux éventuelles interactions mé­dicamenteuses (par ex. avec Marcoumar®, les contra­ceptifs oraux, et les préparations à base d’aluminium, de calcium ou encore de magnésium).  L’essentiel pour la pratique  • La neoehrlichiose est une infection bactérienne très rare, qui touche majoritairement les patients immunodéprimés ou atteints d’une maladie hématologique ou immunologique sous-jacente et se transmet par les tiques.  • La maladie se manifeste souvent sous la forme d’une fièvre prolongée.  • Chez les patients immunocompétents, des évolutions asymptomatiques ou légères et auto-limitantes ont le plus souvent été observées.  • Jusqu’à présent, le diagnostic ne peut s’effectuer qu’au moyen de méthodes de biologie moléculaire (PCR bactérienne à large spectre, PCR espèce-spécifique).  • Dans une configuration de fièvre d’origine non déterminée et prolongée et de symptômes B sans résultats diagnostiques probants, il convient, chez les patients immunodéprimés, d’envisager le recours à de nouvelles méthodes de diagnostic biologique moléculaire.  • Chez les patients immunocompétents, ces méthodes diagnostiques ne doivent être envisagées que dans des cas spécifiques (état inflammatoire sévère prolongé, absence de mise en évidence d’agent pathogène par mise en culture, diagnostic sous traitement antibiotique en cours, suspicion d’infection par une bactérie culture-négative) en raison de la rareté des infections pertinentes par Candidatus Neoehrlichia mikurensis.
+T71	procedure 3681 3704	radiographie thoracique
+T72	procedure 3710 3732	échographie abdominale
+T73	procedure 3768 3781	IRM cérébrale
+T74	procedure 3794 3813	échographie Doppler
+T75	procedure 3866 3899	échocardiographie transthoracique
+T76	disorder 3927 3938	endocardite
+T77	disorder 3962 3989	artérite à cellules géantes
+T78	procedure 4053 4082	biopsie de l’artère temporale
+T79	procedure 4133 4151	cultures sanguines
+T80	procedure 4227 4249	sérologie des Borrelia
+T81	labvalue 4256 4264	négative
+T82	procedure 4269 4302	réaction en chaîne par polymérase
+T83	procedure 4304 4307	PCR
+T84	procedure 4317 4336	virus d’Epstein-Bar
+T85	procedure 4342 4352	cytomégalo
+T86	procedure 4358 4363	parvo
+T87	procedure 4370 4380	adénovirus
+T88	procedure 4396 4411	érologie du VIH
+T89	labvalue 4421 4430	négatives
+T90	procedure 4446 4470	dépistage de la syphilis
+T91	procedure 4476 4504	sérologies pour les Coxiella
+T92	procedure 4510 4520	Bartonella
+T93	procedure 4528 4536	Brucella
+T94	labvalue 4545 4554	négatives
+T95	procedure 4559 4590	PCR bactérienne à large spectre
+T96	labvalue 4635 4670	 Candidatus Neoehrlichia mikurensis
+T97	procedure 4676 4697	PCR espèce-spécifique
+T98	irrelevant 4805 4815	Diagnostic
+T99	disorder 4817 4875	Infection invasive par Candidatus Neoehrlichia miku­rensis
+T100	irrelevant 4878 4888	Traitement
+T101	drugs 4890 4901	Doxycycline
+T102	irrelevant 4964 4973	Evolution
+T103	drugs 4995 5006	doxycycline
+T104	disorder 5011 5017	fièvre
+T105	procedure 5221 5246	paramètres inflammatoires
+T106	procedure 5280 5293	d’hémoglobine
+T107	procedure 5540 5563	traitement antibiotique
+T108	procedure 5589 5618	immunoglobuline intraveineuse
+T109	disorder 5649 5670	hypogammaglobulinémie

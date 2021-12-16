@@ -1,0 +1,16 @@
+T1	disorder 115 140	rétention aiguë d'urines 
+T2	disorder 256 271	yndrome méningé
+T3	disorder 317 327	onvulsions
+T4	disorder 332 350	tat comateux léger
+T5	disorder 374 393	méningo-encéphalite
+T6	disorder 83 89	angine
+T7	procedure 473 497	intubation endotrachéale
+T8	procedure 503 524	ventilation mécanique
+T9	disorder 752 783	hypertonie de l'hémicorps droit
+T10	procedure 803 833	examen scanographique cérébral
+T11	drugs 991 999	Nesdonal
+T12	drugs 1004 1012	Hypnovel
+T13	disorder 1393 1401	cyanosée
+T14	disorder 1411 1424	lèvres bleues
+T15	disorder 1711 1725	coma végétatif
+T16	risk 1298 1331	examen débute sans monitorage ECG

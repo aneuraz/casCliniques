@@ -1,0 +1,82 @@
+T1	profession 53 63	magasinier
+T2	profession 43 51	retraité
+T3	profession 191 210	médecin généraliste
+T4	disorder 219 249	diabète non insulino-dépendant
+T5	disorder 257 287	broncho-pneumopathie chronique
+T6	risk 301 331	intoxication alcoolo-tabagique
+T7	procedure 367 379	consultation
+T8	profession 383 399	médecin traitant
+T9	disorder 409 423	gêne pharyngée
+T10	disorder 443 463	érythème du plancher
+T11	procedure 467 479	prescription
+T12	procedure 482 501	une antibiothérapie
+T13	procedure 525 537	consultation
+T14	disorder 560 599	induration de la région sous-maxillaire
+T15	procedure 608 620	Prescription
+T16	procedure 653 674	échographie cervicale
+T17	disorder 680 711	adénopathie jugulo-carotidienne
+T18	labvalue 715 719	14mm
+T19	procedure 723 731	diamètre
+T20	profession 753 764	généraliste
+T21	profession 850 854	ORL 
+T22	procedure 894 909	examen clinique
+T23	disorder 923 943	lésion bourgeonnante
+T24	profession 997 1001	ORL 
+T25	disorder 1049 1055	tumeur
+T26	procedure 1089 1107	microlaryngoscopie
+T27	procedure 1127 1146	anesthésie générale
+T28	procedure 1151 1161	programmée
+T29	procedure 1165 1173	réalisée
+T30	profession 1180 1183	ORL
+T31	procedure 1200 1208	confirme
+T32	disorder 1228 1265	gros bourgeon de la base de la langue
+T33	procedure 1331 1338	biopsié
+T34	profession 1342 1346	ORL 
+T35	procedure 1389 1410	chirurgie ambulatoire
+T36	procedure 1503 1514	consultait 
+T37	procedure 1558 1578	date de rendez-vous 
+T38	profession 1713 1716	ORL
+T39	procedure 1725 1738	intervention 
+T40	profession 1761 1772	infirmières
+T41	procedure 1793 1811	 papiers de sortie
+T42	procedure 1873 1887	repris contact
+T43	profession 1895 1898	ORL
+T44	profession 1960 1971	généraliste
+T45	profession 2088 2092	ORL 
+T46	profession 2098 2114	médecin traitant
+T47	profession 2195 2214	médecin généraliste
+T48	procedure 2321 2332	ordonnances
+T49	procedure 2348 2380	renouvellement de son traitement
+T50	disorder 2450 2462	mal à parler
+T51	procedure 2612 2628	médecin traitant
+T52	procedure 2750 2769	endoscopie réalisée
+T53	profession 2812 2815	ORL
+T54	procedure 2824 2831	adresse
+T55	procedure 2845 2871	compte-rendus d’endoscopie
+T56	procedure 2877 2896	anatomo-pathologie 
+T57	disorder 2917 2963	carcinome épidermoïde différencié kératinisant
+T58	profession 2970 2986	médecin traitant
+T59	procedure 2987 2994	adresse
+T60	profession 3027 3031	ORL 
+T61	procedure 3091 3108	bilan d’extension
+T62	procedure 3110 3136	endoscopie par fibroscopie
+T63	procedure 3140 3156	bilan d’imagerie
+T64	procedure 3163 3195	polychimiothérapie rdt prescrite
+T65	procedure 3233 3254	 premiers traitements
+T66	procedure 3272 3309	chirurgie partielle pharyngo-laryngée
+T67	disorder 3342 3363	ganglion métastatique
+T68	procedure 3438 3456	suites opératoires
+T69	disorder 3482 3502	infection pulmonaire
+T70	disorder 3507 3520	œdème laryngé
+T71	procedure 3536 3569	pose d’une canule de trachéotomie
+T72	procedure 3611 3623	gastrostomie
+T73	disorder 3637 3663	troubles de la déglutition
+T74	procedure 3723 3744	cure de radiothérapie
+T75	procedure 3782 3797	prise en charge
+T76	procedure 3883 3897	chimiothérapie
+T77	procedure 3918 3931	première cure
+T78	disorder 3990 4021	métastases d’un cancer digestif
+T79	disorder 4063 4073	cancer ORL
+T80	irrelevant 4940 4954;4956 5040;5042 5113	  A lire aussi :  Chirurgien-dentiste : Quel rôle dans la détection des cancers de la cavité buccale ?  Retard de diagnostic d'une cellulite faciale à point de départ dentaire
+T81	irrelevant 4375 4414;4416 4448;4449 4713;4714 4809;4810 4862;4863 4929;4930 4938	Télécharger l'exercice (pdf - 28.46 Ko)  Lisez en détail le cas clinique. Oubliez quelques instants cette observation et rapportez-vous au tableau des barrières, identifiez les barrières de Qualité et sécurité que vous croyez importantes pour gérer, au plus prudent, ce type de situation clinique. Le nombre de barrières n’est pas limité. Interrogez le cas clinique avec les barrières que vous avez identifiées en 2 ; ont-elles tenu ? Analysez les causes profondes avec la méthode ALARM. Télécharger l'analyse des barrières de prévention (pdf - 18.77 Ko) Jugement
+T82	irrelevant 4187 4194;4196 4373	Analyse  Ce matériel est réservé à un usage privé ou d'enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l'objet d'une transaction commerciale.

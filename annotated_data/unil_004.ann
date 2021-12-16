@@ -1,0 +1,13 @@
+T1	disorder 135 151	maladie cardiaqu
+T2	disorder 265 298	sentiment d'oppression thoracique
+T3	disorder 339 347	vertiges
+T4	procedure 958 967	 examens 
+T5	disorder 1222 1229	diabète
+T6	profession 1723 1734	agriculteur
+T7	profession 1780 1785	maçon
+T8	profession 1813 1828	femme de ménage
+T9	disorder 2199 2219	hémorragies massives
+T10	disorder 2279 2296	une anémie sévère
+T11	procedure 2336 2350	hystérectomie 
+T12	labvalue 2549 2553	25kg
+T13	procedure 2530 2538	surpoids

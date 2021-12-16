@@ -1,0 +1,97 @@
+T1	irrelevant 0 8;10 812;814 2683;2685 2881;2883 3663;3665 3684;3685 3693	Contexte  Les patients ayant été victimes d’un infarctus du myocarde qui ont une fraction d’éjection ventriculaire gauche (FEVG) réduite ≤40% présentent un risque accru de mort subite cardiaque par arythmies ventriculaires [1, 2]. Un défibrillateur automatique implantable (DAI) est à même de mettre fin à ces tachyarythmies, mais l’implantation d’un tel dispositif est cependant associée à des risques et à des coûts élevés [3–6]. En outre, la FEVG s’améliore souvent avec un traitement intensifié de l’insuffisance cardiaque, si bien qu’un DAI est inutile à plus long terme pour une proportion substantielle des patients. Dans cette présentation de cas, nous montrons qu’un défibrillateur cardiaque portable («wearable cardioverter defibrillator») représente une option thérapeutique dans de telles situations.  Le défibrillateur cardiaque portable est commercialisé en Suisse depuis 2014 (LifeVest®, ZOLL Medical Switzerland AG, Zoug) et il s’est avéré être sûr et efficace pour mettre fin aux arythmies malignes [7]. Un électrocardiogramme (ECG) est enregistré via deux électrodes. En cas de survenue d’une arythmie ventriculaire, l’algorithme de détection des arythmies (TruVectorTM, ZOLL Medical Switzerland AG, Zoug) met environ six secondes pour la détecter. Le signal doit remplir les critères d’arythmie durant dix secondes supplémentaires avant qu’une alerte par vibrations, une alerte vocale, une sirène sonore et une alarme visuelle se déclenchent. Le volume de la sirène sonore augmente progressivement (jusqu’à 100 dB) pour également réveiller les personnes endormies. En appuyant sur deux boutons situés sur le moniteur, il est possible de désactiver manuellement la délivrance du choc en cas de fausses alarmes (par ex. arythmie avec stabilité hémodynamique, artéfacts). Toutefois, lorsque l’arythmie entraîne une perte de conscience, un gel électroconducteur est libéré via les électrodes du défibrillateur et la délivrance du choc débute. La défibrillation a lieu en l’espace d’une minute après la détection de l’arythmie, sous forme de choc biphasique à une énergie comprise entre 75 et 150 joules. Comme pour un DAI, jusqu’à cinq chocs sont délivrés par tachycardie. Le défibrillateur cardiaque portable invite l’entourage, par le biais d’une alarme et de messages vocaux, à appeler les urgences médicales et à débuter la réanimation mécanique. Lorsque la délivrance du choc entraîne une conversion en rythme sinusal mais qu’une nouvelle tachycardie survient ensuite, jusqu’à cinq chocs peuvent à nouveau être délivrés. Les réserves d’énergie sont suffisamment grandes pour délivrer cinq chocs à pleine puissance même lorsque la batterie est quasiment déchargée.  Les enregistrements continus de l’ECG sont transmis par télémétrie vers un serveur, auquel l’équipe médicale peut accéder. Après la survenue d’arythmies, l’équipe médicale est informée par e-mail.  Les coûts de location d’un défibrillateur cardiaque portable s’élèvent à au maximum 124 CHF par jour, incluant également un service de formation et une assistance technique joignable 24 heures/24 (un achat n’est pas possible). Il est recommandé de porter le dispositif en continu et de l’enlever uniquement pour la douche ou le bain. Il convient en particulier d’informer le patient qu’il ne doit pas enlever le défibrillateur cardiaque portable en cas de survenue de douleurs thoraciques, d’une dyspnée ou d’une sensation de constriction thoracique, car ces symptômes peuvent être la conséquence d’une ischémie myocardique et précéder une arythmie potentiellement fatale. En raison d’un confort de port jugé médiocre, l’adhérence thérapeutique est faible dans la pratique [7, 8].  Présentation du cas Anamnèse
+T2	disorder 3725 3758	maladie coronaire tritronculaire 
+T3	disorder 3828 3860	une dyspnée d’effort NYHA II–III
+T4	disorder 3889 3907	œdèmes des jambes 
+T5	disorder 3928 3963	sensation de ballonnement abdominal
+T6	disorder 4032 4054	cardiopathie coronaire
+T7	disorder 4112 4143	infarctus du myocarde inférieur
+T8	procedure 4175 4273	intervention coronarienne percutanée (ICP) avec triple stenting de l’artère coronaire droite (ACD)
+T9	procedure 4287 4403	 chirurgie de pontage aorto-coronarien sur l’artère interventriculaire antérieure (IVA) et l’artère circonflexe (CX)
+T10	procedure 4426 4430	FEVG
+T11	disorder 4628 4640	dyslipidémie
+T12	disorder 4646 4669	hypertension artérielle
+T13	disorder 4674 4684	prédiabète
+T14	disorder 4692 4713	hypothyroïdie latente
+T15	drugs 4804 4827	acide acétylsalicylique
+T16	drugs 4829 4852	atorvastatine/ézétimibe
+T17	drugs 4854 4864	évolocumab
+T18	drugs 4866 4876	bisoprolol
+T19	drugs 4879 4888	isinopril
+T20	risk 5081 5098	25 paquets-années
+T21	risk 5114 5174	antécédents familiaux positifs de maladies cardiovasculaires
+T22	risk 5213 5219	obèse 
+T23	disorder 5220 5255	indice de masse corporelle 32 kg/m2
+T24	disorder 5263 5280	afébrile (37,1 °C
+T25	disorder 5283 5293	normotendu
+T26	disorder 5344 5355	normocarde 
+T27	disorder 5374 5430	saturation périphérique en oxygène de 97% en air ambiant
+T28	disorder 5436 5474	veines jugulaires étaient turgescentes
+T29	disorder 5572 5600	œdèmes bilatéraux des jambes
+T30	disorder 5608 5642	douleur épigastrique à la pression
+T31	procedure 5647 5670	’auscultation cardiaque
+T32	disorder 5676 5705	bruits cardiaques arythmiques
+T33	disorder 5714 5743	déficit du pouls périphérique
+T34	procedure 5883 5906	analyses de laboratoire
+T35	labvalue 6146 6165	Hémoglobine	131 g/l
+T36	labvalue 6178 6196	Leucocytes	7,4 G/l
+T37	labvalue 6207 6234	Protéine C réactive	17 mg/l
+T38	labvalue 6243 6260	Sodium	139 mmol/l
+T39	labvalue 6276 6296	Potassium	3,8 mmol/l
+T40	labvalue 6312 6333	Magnésium	0,93 mmol/l
+T41	labvalue 6351 6372	Créatinine	137 µmol/l
+T42	labvalue 6387 6416	DFGe – formule MDRD	51 ml/min
+T43	labvalue 6428 6438	HbA1c	6,3%
+T44	labvalue 6448 6470	Troponine T hs	40 ng/l
+T45	labvalue 6497 6526	Créatine kinase (CK)	265 U/l 
+T46	labvalue 6552 6572	NT-proBNP	4842 pg/ml
+T47	labvalue 6586 6612	Cholestérol LDL	3,0 mmol/l
+T48	labvalue 6634 6648	TSH	5,02 mU/l	
+T49	labvalue 6662 6677	fT4	18,8 pmol/l
+T50	labvalue 6691 6705	fT3	5,2 pmol/l
+T51	procedure 6916 6919	ECG
+T52	disorder 6921 6975	un flutter auriculaire typique avec une conduction 3:1
+T53	disorder 7024 7087	ondes Q inférieures et des négativations de l’onde T latérales 
+T54	procedure 7108 7127	Electrocardiogramme
+T55	disorder 7142 7185	 flutter auriculaire typique normocarde 3:1
+T56	disorder 7187 7210	déviation axiale gauche
+T57	disorder 7212 7242	fréquence ventriculaire 92/min
+T58	disorder 7244 7252	PQ 82 ms
+T59	disorder 7253 7264	 QRS 86 ms,
+T60	disorder 7265 7275	QTc 415 ms
+T61	disorder 7346 7426	roubles de la repolarisation en latéral avec ondes T négatives (I, aVL et V4–V6)
+T62	disorder 7301 7343	Q inférieur (III et aVF) et septal (V1–V2)
+T63	procedure 7518 7532	analyse Holter
+T64	disorder 7560 7580	 flutter auriculaire
+T65	procedure 7603 7621	échocardiographie 
+T66	disorder 7637 7703	hypertrophie excentrique du ventricule gauche avec une FEVG de 30%
+T67	disorder 7719 7803	akinésies inférieures, inféroseptales/antéroseptales apicales et au niveau de l’apex
+T68	disorder 7831 7848	thrombus adhérant
+T69	disorder 7853 7883	akinésie de 10 mm de diamètre.
+T70	disorder 7888 7916	oreillettes étaient dilatées
+T71	disorder 7935 8001	signes d’élévation pertinente de la pression artérielle pulmonaire
+T72	disorder 8077 8115	nsuffisance cardiaque systolique aiguë
+T73	disorder 8117 8169	insuffisance cardiaque à fraction d’éjection réduite
+T74	drugs 8637 8647	torasémide
+T75	drugs 8716 8730	spironolactone
+T76	drugs 8758 8766	héparine
+T77	irrelevant 8171 8636	dans le cadre d’une maladie coronaire tritronculaire. Parmi les causes envisagées figuraient le flutter auriculaire, une ischémie cardiaque et la mauvaise adhérence médicamenteuse suspectée. Compte tenu du résultat de l’échocardiographie, les douleurs abdominales non spécifiques ont été interprétées comme un équivalent angineux et le patient a été transféré pour une angiographie coronarienne. Afin d’obtenir une réduction volémique, la diurèse a été stimulée par
+T78	procedure 8830 8855	angiographie coronarienne
+T79	disorder 8883 8942	pontages perméables et des sténoses intermédiaires de l’ACD
+T80	procedure 8946 8979	imagerie par résonance magnétique
+T81	disorder 9001 9102	cicatrices d’infarctus akinétiques prononcées dans le territoire de l’ACD et de l’IVA, sans viabilité
+T82	drugs 9646 9660	phénprocoumone
+T83	irrelevant 9104 9645	Compte tenu de l’absence de mise en évidence d’une ischémie inférieure, une ICP de l’ACD n’était pas indiquée. En partant du principe que le flutter auriculaire typique était le déclencheur de la décompensation cardiaque, l’indication d’une ablation de l’isthme cavo-tricuspide (ablation du flutter auriculaire) a été posée. Après l’exclusion par tomodensitométrie de thrombi au niveau des oreillettes et des appendices auriculaires, l’ablation a pu être réalisée avec succès. Par la suite, nous sommes passés à une anticoagulation orale par
+T84	disorder 9679 9745	cardiomyopathie ischémique avec une FEVG fortement réduite de ≤35%
+T85	drugs 9888 9897	LifeVest®
+T86	drugs 9899 9926	Zoll Medical Switzerland AG
+T87	drugs 9928 9932	Zoug
+T88	drugs 10030 10040	bisoprolol
+T89	drugs 10045 10065	sacubitril/valsartan
+T90	drugs 10070 10080	torasémide
+T91	drugs 10088 10102	spironolactone
+T92	drugs 10109 10122	atorvastatine
+T93	drugs 10129 10139	évolocumab
+T94	drugs 10149 10163	phénprocoumone
+T95	disorder 11020 11044	difficultés à s’endormir
+T96	irrelevant 10223 10232;10234 10818;10820 11019	Evolution  Lors des contrôles de suivi, le patient a signalé une nette amélioration des symptômes, sans limitations pertinentes au quotidien. Six semaines après sa sortie, moyennant un traitement intensifié de l’insuffisance cardiaque, une amélioration considérable de la FEVG, qui est passée de 30 à 45%, et une régression quasi-totale du thrombus apical ont été constatées. L’ergométrie a révélé des performances fortement diminuées (77% de la valeur théorique), ainsi que des valeurs élevées de pression artérielle. Le traitement de l’insuffisance cardiaque a encore été intensifié davantage.  Comme le défibrillateur cardiaque portable était très inconfortable à porter, le patient a arrêté de le porter de sa propre initiative après une durée de quatre semaines. Il se plaignait notamment de
+T97	irrelevant 11251 11640;11642 11652;11654 12581;12583 13407;13409 13852;13854 14252;14254 14770;14772 14800;14802 15261;15263 15365	Figure 2: Défibrillateur cardiaque portable: le défibrillateur cardiaque portable (LifeVest®, ZOLL Medical Switzerland AG, Zoug) est composé d’un gilet en tissu dans lequel se trouve une ceinture avec électrodes de mesure et de traitement et d’un moniteur. © ZOLL CMS GmbH, avec l’aimable autorisation de ZOLL® Medical Corporation (source: http://lifevest.zoll.com/de/presse/bildmaterial).  Discussion  Nous rapportons le cas d’un patient de 49 ans atteint d’insuffisance cardiaque aiguë consécutive à une cardiopathie coronaire. Etant donné que le patient présentait une FEVG fortement réduite, il y avait un risque de mort subite cardiaque par arythmies malignes [9]. En raison du potentiel d’amélioration de la FEVG sous traitement optimisé de l’insuffisance cardiaque et suite à l’ablation de l’arythmie déclenchante, l’implantation d’un DAI n’était pas indiquée à ce moment-là. Cette dernière est entre autres associée aux risques suivants: mortalité périopératoire (0,2–0,4%) [10, 11], pneumothorax (1,1%) [3], hémorragies (1,6–7,2%, en fonction du traitement antithrombotique) [12], infections (1% après un an) [13] et perforation cardiaque (0,1–0,4%) [14–16]. A la place, l’indication d’un défibrillateur cardiaque portable a été posée afin de surmonter la période critique jusqu’à l’amélioration de la fonction cardiaque.  La Société européenne de cardiologie recommande d’évaluer un défibrillateur cardiaque portable chez les patients avec FEVG réduite (classe IIb, niveau C) qui présentent un risque accru de mort subite cardiaque en raison d’arythmies malignes et chez lesquels l’implantation d’un DAI n’est pas indiquée ou est contre-indiquée [17]. En Suisse, la cardiomyopathie ischémique avec FEVG réduite représente l’indication la plus fréquente d’un défibrillateur cardiaque portable [7], qui est également utilisé comme solution temporaire dans diverses autres situations: en cas d’explantation provisoire d’un DAI en raison d’une infection au niveau d’une électrode, avant l’implantation d’un DAI en présence d’une infection, en cas de transplantation cardiaque planifiée ou en cas de cardiomyopathies non-ischémiques avec FEVG limitée.  Contrairement au DAI, le défibrillateur cardiaque portable ne possède pas de fonction de stimulateur cardiaque, si bien que les patients ne sont pas protégés contre une mort subite cardiaque par bradycardies ou asystolies [18–20]. En outre, il se peut que le défibrillateur cardiaque portable ne puisse pas être correctement mis en place en raison de particularités physiques, comme par ex. en cas d’obésité morbide ou chez les jeunes enfants.  Dans une étude allemande conduite avec 106 patients, des fausses alarmes sont survenues chez 73% des patients sur une durée médiane de port du dispositif de 59 jours [21]. Chez notre patient, il y a eu une seule fausse alarme pendant la durée de port de quatre semaines et le patient a pu la désactiver en appuyant sur les boutons. Le patient n’a pas présenté d’arythmies durant la période de port.  Dans notre exemple de cas, le patient a décidé de sa propre initiative de ne plus porter le défibrillateur cardiaque portable après une période de quatre semaines en raison du confort de port médiocre, qui est l’un des motifs les plus fréquents d’arrêt du port du défibrillateur cardiaque portable [7, 8]. Fort heureusement, la FEVG s’était rétablie lors du contrôle cardiologique suivant. Ainsi, l’utilisation du défibrillateur cardiaque portable a permis d’éviter une implantation inutile d’un DAI chez ce patient.  L’essentiel pour la pratique  • Chez les patients avec cardiopathie ischémique et fraction d’éjection ventriculaire gauche (FEVG) fortement réduite, une amélioration de la FEVG peut être espérée grâce à un traitement intensifié de l’insuffisance cardiaque. En tant que protection temporaire contre une mort subite cardiaque due à des arythmies malignes, le défibrillateur cardiaque portable peut constituer une alternative sûre et efficace au défibrillateur ­automatique implantable (DAI).  • Un problème fréquent est la mauvaise adhérence des patients en raison d’un confort de port médiocre.

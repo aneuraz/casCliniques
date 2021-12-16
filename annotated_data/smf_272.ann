@@ -1,0 +1,155 @@
+T1	irrelevant 0 12;14 1592	Introduction  La pneumopathie d’hypersensibilité (PHS) est une maladie pulmonaire interstitielle secondaire à l’expo­sition et à la sensibilisation à un antigène inhalé. Les antigènes incriminés sont variés et habituellement classés en 4 groupes: aviaires, microbiens (bactériens ou mycotiques), chimiques (composants organiques dans la nature) ou non identifiés [1]. La présentation clinique de la PHS peut être aiguë, subaiguë ou chronique, mais elle est souvent un ensemble de ces formes de manifestation [2]. L’incidence de la PHS a été estimée à 0,9 cas par 100 000 personnes/an. Par rapport à la ­population générale, le risque de décès est 3 fois plus élevé [3]. Les manifestations cliniques de la PHS sont variables: les patients signalent une dyspnée et/ou une toux, accompagnées de sibilances et parfois d’un état fébrile et d’une sensation de mal-être. Le tableau clinique peut durer quelques heures, plusieurs semaines ou ­devenir chronique, en relation temporelle avec l’ex­position à l’antigène. Les critères diagnostiques de la maladie sont basés sur l’exposition à un antigène, la clinique, l’imagerie, associés ou non à la présence d’anticorps IgG précipitants (précipitines) et un lavage broncho-alvéolaire ou une histopathologie compatibles. Ces critères ne sont pas uniformisés, ce qui complique le diagnostic [4]. D’autre part, la prise en charge et le traitement des patients avec une maladie chronique évoluant vers une fibrose pulmonaire sont un défi pour les cliniciens. La réaction fibrotique dans la PHS est différente de celle de la fibrose pulmonaire idiopathique
+T2	profession 1653 1678	professeur de gymnastique
+T3	risk 1737 1761	abagisme chronique actif
+T4	disorder 1785 1793	allergie
+T5	risk 1866 1880	humidificateur
+T6	disorder 1938 1964	 maladie cardio-pulmonaire
+T7	disorder 1976 2001	reflux gastro-oesophagien
+T8	disorder 2075 2104	 maladie pulmonaire chronique
+T9	disorder 2155 2174	dyspnée de stade II
+T10	disorder 2273 2288	perte d’appétit
+T11	disorder 2292 2316	baisse de l’état général
+T12	disorder 2347 2358	subfébriles
+T13	labvalue 2369 2376	38,2 °C
+T14	profession 2420 2436	médecin traitant
+T15	disorder 2460 2482	syndrome inflammatoire
+T16	procedure 2494 2504	leucocytes
+T17	labvalue 2506 2515	 15,7 G/l
+T18	procedure 2537 2540	CRP
+T19	labvalue 2543 2551	216 mg/l
+T20	procedure 2557 2570	CT thoracique
+T21	disorder 2582 2600	embolie pulmonaire
+T22	disorder 2616 2625	emphysème
+T23	disorder 2633 2654	infiltrats bi-apicaux
+T24	disorder 2712 2721	pneumonie
+T25	procedure 2729 2744	antibiothérapie
+T26	drugs 2749 2759	macrolides
+T27	drugs 2763 2777	céphalosporine
+T28	procedure 2793 2802	prescrite
+T29	procedure 2897 2909	 hospitalisé
+T30	disorder 3203 3211	afébrile
+T31	procedure 3213 3224	température
+T32	labvalue 3225 3232	36,4 °C
+T33	procedure 3243 3261	tension artérielle
+T34	labvalue 3264 3276	118/74 mm Hg
+T35	procedure 3285 3303	réquence cardiaque
+T36	labvalue 3306 3313	101/min
+T37	procedure 3318 3340	fréquence respiratoire
+T38	labvalue 3347 3353	31/min
+T39	procedure 3363 3375	SpO2 à l’air
+T40	labvalue 3386 3389	85%
+T41	procedure 3393 3416	auscultation pulmonaire
+T42	labvalue 3437 3453	râles crépitants
+T43	labvalue 3461 3493	sibilances expiratoires diffuses
+T44	disorder 3499 3521	syndrome inflammatoire
+T45	procedure 3546 3569	traitement antibiotique
+T46	procedure 3571 3581	leucocytes
+T47	labvalue 3582 3590	26,7 G/l
+T48	procedure 3614 3617	CRP
+T49	labvalue 3618 3626	243 mg/l
+T50	procedure 3628 3642	procalcitonine
+T51	labvalue 3643 3652	0,14 μg/l
+T52	procedure 3656 3658	VS
+T53	labvalue 3659 3664	88 mm
+T54	procedure 3669 3700	gazométrie artérielle sous FiO2
+T55	labvalue 3701 3704	21%
+T56	procedure 3715 3717	pH
+T57	labvalue 3720 3724	7,44
+T58	procedure 3726 3729	pO2
+T59	labvalue 3730 3738	53 mm Hg
+T60	procedure 3740 3744	pCO2
+T61	labvalue 3745 3753	38 mm Hg
+T62	procedure 3755 3758	HCO
+T63	labvalue 3758 3768	325 mmol/l
+T64	procedure 3771 3782	base excess
+T65	labvalue 3784 3794	1,3 mmol/l
+T66	procedure 3798 3806	lactates
+T67	labvalue 3807 3817	1,1 mmol/l
+T68	procedure 3821 3832	hémoglobine
+T69	labvalue 3839 3846	127 g/l
+T70	procedure 3861 3864	HIV
+T71	labvalue 3869 3876	négatif
+T72	procedure 3882 3900	scanner thoracique
+T73	labvalue 3966 3979	verre dépoli 
+T74	procedure 4571 4585	 bronchoscopie
+T75	disorder 4597 4614	trachéo-bronchite
+T76	procedure 4621 4646	lavage broncho-alvéolaire
+T77	irrelevant 13248 13276;13278 13437;13439 13666;13668 13874	L’essentiel pour la pratique  • La pneumopathie d’hypersensibilité est une maladie pulmonaire inter­stitielle provoquée par l’inhalation d’antigènes provenant de l’environnement du patient.  • L’anamnèse environnementale est très importante lors d’un tableau clinique caractérisé par une dyspnée, de la toux et des sibilances, avec ou sans état fébrile associé. Elle peut suggérer une pneumopathie d’hyper­sensibilité.  • La suppression de la source d’antigènes responsable de la maladie (dans notre cas, l’humidificateur) est l’action thérapeutique indispensable dans la prise en charge de la pneumopathie d’hypersensibilité.
+T78	irrelevant 12292 12685;12687 12989;12991 13246	D’autres classifications de la maladie ont été proposées comme celle de Selman, basée sur le comportement clinique: maladie aiguë non progressive et intermittente, aiguë progressive ou subaiguë, chronique non progressive et chronique progressive [2]. A noter qu’il y a un chevauchement entre ces sous-types de PHS et également entre la PHS et les autres types de pneumopathies interstitielles.  D’après une récente publication, la meilleure classifi­cation reposerait simplement sur la présence ou non de fibrose, ainsi que sur son degré d’extension au niveau pulmonaire, à la biopsie et au scanner. La fibrose influence très défavorablement la réponse au traitement et le pronostic de la PHS [1].  Vu la difficulté du diagnostic, une anamnèse environnementale très détaillée, des examens paracliniques pertinents et pour certains répétés dans le temps sont primordiaux, tout comme le recours au pneumologue spécialiste des pneumopathies interstitielles.
+T79	procedure 4667 4689	répartition cellulaire
+T80	labvalue 4695 4697	8%
+T81	procedure 4701 4712	macrophages
+T82	labvalue 4721 4724	85%
+T83	labvalue 4727 4730	84%
+T84	procedure 4734 4746	neutrophiles
+T85	labvalue 4755 4757	3%
+T86	labvalue 4759 4762	 0%
+T87	procedure 4765 4777	éosinophiles
+T88	labvalue 4792 4795	 6%
+T89	procedure 4799 4810	lymphocytes
+T90	labvalue 4825 4827	1%
+T91	procedure 4831 4851	cellules bronchiques
+T92	labvalue 4868 4870	1%
+T93	procedure 4874 4897	cellules ­pavimenteuses
+T94	procedure 4902 4938	 recherches de virus et de bactéries
+T95	disorder 4953 4964	tuberculose
+T96	procedure 4987 5008	fonctions pulmonaires
+T97	procedure 5021 5040	syndrome obstructif
+T98	procedure 5050 5065	capacité vitale
+T99	labvalue 5071 5075	2,43
+T100	procedure 5115 5137	capacité vitale forcée
+T101	labvalue 5144 5150	2,28 l
+T102	procedure 5161 5182	volume expiré maximal
+T103	labvalue 5199 5203	1,40
+T104	procedure 5213 5220	VEMS/CV
+T105	labvalue 5225 5228	58%
+T106	procedure 5236 5245	DEM 25–75
+T107	labvalue 5246 5254	0,78 l/s
+T108	procedure 5264 5267	DEP
+T109	labvalue 5268 5276	5,02 l/s
+T110	procedure 5299 5325	capacité pulmonaire totale
+T111	labvalue 5373 5379	5,11 l
+T112	labvalue 5429 5435	5,95 l
+T113	procedure 5547 5563	agent infectieux
+T114	labvalue 5537 5544	absence
+T115	disorder 5634 5672	processus inflammatoire non infectieux
+T116	disorder 5693 5724	pneumopathie d’hypersensibilité
+T117	procedure 5751 5778	 corticothérapie systémique
+T118	procedure 5799 5814	antibiothérapie
+T119	drugs 5856 5866	prednisone
+T120	risk 5928 5933	fumer
+T121	procedure 6005 6029	substitution nicotinique
+T122	disorder 6092 6099	dyspnée
+T123	disorder 6211 6240	pneumopathies interstitielles
+T124	procedure 6182 6206	consultation spécialisée
+T125	procedure 6282 6297	hospitalisation
+T126	procedure 6320 6342	corticothérapie per os
+T127	disorder 6353 6372	dyspnée de stade II
+T128	procedure 6520 6535	hospitalisation
+T129	disorder 6559 6582	trouble de la diffusion
+T130	procedure 6606 6610	DLCO
+T131	labvalue 6620 6623	58%
+T132	irrelevant 6626 6652;6654 7707	Le diagnostic différentiel  A ce stade, nous formulons un diagnostic différentiel: le lavage broncho-alvéolaire neutrophilique évoque en premier lieu une pneumopathie infectieuse. L’absence de germe identifié, la procalcitonine normale à l’admission et l’échec des traitements antibiotiques tentés par le médecin traitant rendent toutefois ce diagnostic peu probable. L’imagerie en verre dépoli avec des lésions réticulaires sous-pleurales peut également évoquer une pneumopathie interstitielle non-spécifique (NSIP), mais le lavage broncho-alvéolaire parle contre cette hypothèse. Une pneumopathie organisée cryptogénique (COP) n’est pas compatible avec le lavage broncho-alvéolaire. Nous n’avons pas d’éléments en faveur d’une sarcoïdose. Le bilan auto-immun, comprenant facteur rhumatoïde, anticorps anti-nucléaires, anticorps anti-CCP, ANCA et anticorps associés aux polymyosites, revient négatif et le dosage des immunoglobulines IgG totales et sous-classes d’IgG est normal hormis la sous-classe IgG2, légèrement abaissée. Il n’y a pas d’argument pour un déficit immunitaire.
+T133	procedure 7748 7793	 précipitines spécifiques aux microorganismes
+T134	labvalue 7822 7830	positive
+T135	procedure 7832 7862	Ac. Anti-­Micropolyspora faeni
+T136	labvalue 7863 7871	positifs
+T137	labvalue 7874 7883	25,5 mg/l
+T138	procedure 8008 8036	éviction de l’humidificateur
+T139	procedure 8043 8064	traitement corticoïde
+T140	disorder 8112 8149	pneumopathie d’hypersensibilité aiguë
+T141	procedure 8185 8203	CT-scan thoracique
+T142	procedure 8317 8329	radiologique
+T143	procedure 8399 8417	séjour hospitalier
+T144	disorder 8473 8492	dyspnée de stade II
+T145	drugs 8498 8508	prednisone
+T146	disorder 8725 8732	dyspnée
+T147	procedure 8809 8816	examens
+T148	procedure 8832 8853	précipitines sériques
+T149	procedure 8901 8918	image tho­racique
+T150	disorder 8922 8949	pneumopathie interstitielle
+T151	procedure 8986 9017	suppression de l’humidificateur
+T152	drugs 9085 9095	prednisone
+T153	procedure 9071 9081	traitement
+T154	irrelevant 10032 10568;10570 10885;10887 11084;11086 12290	La littérature sur la PHS est surtout basée sur des études concernant l’environnement agricole (poumon du fermier) et l’exposition aviaire (maladie des éleveurs de pigeons). Il semblerait que la PHS soit en fait beaucoup plus prévalente qu’on le pensait initialement. Cette étude de cas apporte un éclairage sur la PHS sur humidificateur, une des variantes modernes de la maladie qui peut donc être associée aux systèmes d’eau et de ventilation, mais également à l’industrie chimique, à celle des peintures et des textiles entre autres.  L’absence de test plus sensible et spécifique que la recherche de précipitines pour les antigènes des humidificateurs est un point faible pour le diagnostic. En effet, ce test n’est pas reconnu comme un critère diagnostique fiable en raison de nombreux faux positifs par ancien contact avec les antigènes concernés.  D’un point de vue physiopathologique, la maladie provient de la relation entre un allergène inhalé et un hôte. Seul un petit nombre de personnes développent la maladie après le contact antigénique.  Cela dépend de facteurs promoteurs génétiques et environnementaux chez l’hôte. L’anamnèse d’infections virales à répétition ou d’exposition préalable à des ­pesticides sont des facteurs promoteurs de l’environnement. Une fois le contact établi avec un hôte susceptible de développer la maladie, une réaction à complexes immuns (type III) se développe dans la forme aiguë de PHS. Dans la PHS de forme subaiguë ou chronique, il s’agit d’une réaction à lymphocytes T (type IV) de type Th1. Contrairement aux personnes ayant une tolérance immune normale à l’antigène, l’hôte développe alors une alvéolite aiguë qui, en présence de cytokines Th1 telles que TNF alpha, IL-12 et interféron-gamma, peut évoluer vers une inflammation chronique granulo­mateuse, voire une fibrose. L’éviction de l’antigène de l’environnement de l’hôte est la pierre angulaire du traitement de la pneumopathie d’hypersensibilité, qu’elle soit aiguë, subaiguë ou chronique. L’amélioration clinique escomptée par la suite est notamment liée à la présence ou non de fibrose. La corticothérapie est indiquée pour diminuer l’inflammation, accélérant en général l’amélioration clinique, mais elle n’améliore pas le pronostic à long terme.
+T155	irrelevant 9098 10030	Malgré l’absence de critères diagnostiques uniformément acceptés pour la PHS dans la littérature, de nombreux critères sont présents chez ce patient, nous permettant d’évoquer le diagnostic [5]. Il existe dans ce cas un élément discordant: le lavage broncho-alvéolaire montre une prédominance neutrophilique. Classiquement, une lymphocytose, supérieure à 20% voire 50%, est présente dans la PHS. Nous l’expliquons par la forme très aiguë de la maladie. Au niveau des fonctions pulmonaires, elles montrent d’abord un syndrome obstructif qui se corrige par la suite, sous traitement corticoïde. L’exploration fonctionnelle respiratoire peut montrer dans cette affection un syndrome obstructif, restrictif voire une atteinte mixte et la capacité de diffusion du CO est fréquemment abaissée, comme pour notre cas clinique. La PHS ne se présente que très rarement avec l’ensemble de ses caractéristiques classiques chez un patient donné.

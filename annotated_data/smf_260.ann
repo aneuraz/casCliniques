@@ -1,0 +1,6 @@
+T1	procedure 1974 1991	Echokardiographie
+T2	labvalue 1120 1154	Troponin I 15 700 ng/l, CK 846 U/l
+T3	labvalue 1288 1342	Auswurffraktion um 10% bei diffuser Hypo- bis Akinesie
+T4	labvalue 685 719	Blutdruck 98/65 mm Hg, Puls 87/min
+T5	disorder 2808 2828	Sauerstoffarmes Blut
+T6	disorder 4493 4503;4505 5449	Diskussion  In den Wintermonaten treten virale Erkrankungen der oberen und unteren Luftwege gehäuft auf und verursachen in den meisten Fällen milde, selbstlimitierende Infektionen. Typische Symptome der saisonalen Grippe, verursacht durch Influenza A- und Influenza B-Viren, sind Fieber, Schüttelfrost, Gliederschmerzen und Husten aber auch Hals- und Schluckschmerzen sowie Schnupfen. Subklinische Verläufe sind ebenfalls möglich. Die Grippe wird meist als milde, selbstlimitierende Infektion wahrgenommen, verursacht jedoch in der Schweiz gemäss Bundesamt für Gesundheit jährlich 112 000 bis 275 000 Arztkonsultationen, mehrere tausende Hospitalisationen und mehrere hundert Todesfälle aufgrund von Komplikationen. Als typische Komplikationen zeigen sich Pneumonien, Perimyokarditiden, Sinusitiden, Otitiden und neurologische Komplikationen sowie bakterielle Superinfektionen. Schwere Verläufe, auch bei ansonsten gesunden Patienten, sind beschrieben [1].

@@ -1,0 +1,65 @@
+T1	disorder 107 132	difficultés mictionnelles
+T2	disorder 144 151	dysurie
+T3	disorder 158 180	brûlures mictionnelles
+T4	procedure 205 216	échographie
+T5	labvalue 227 328	"Hypertrophie prostatique marquée avec vraisemblablement rétention vésicale et hydronéphrose d'amont"
+T6	procedure 368 371	PSA
+T7	labvalue 374 386	74,39 ng/ml 
+T8	disorder 401 419	nsuffisance rénale
+T9	procedure 333 349	bilan biologique
+T10	disorder 581 607	étention vésicale complète
+T11	disorder 688 712	Rétention urinaire aiguë
+T12	disorder 714 744	Orchi-épididymite aiguë droite
+T13	disorder 746 761	Grosse prostate
+T14	disorder 787 806	Insuffisance rénale
+T15	disorder 763 785	Syndrome inflammatoire
+T16	procedure 900 925	adénomectomie prostatique
+T17	procedure 899 940	 adénomectomie prostatique par voie haute
+T18	drugs 965 972	Oflocet
+T19	procedure 1045 1070	adénomectomie prostatique
+T20	procedure 1183 1211	adénomectomie par voie haute
+T21	disorder 1550 1592	Hyperplasie fibro-adénomateuse prostatique
+T22	disorder 1763 1785	difficultés urinaires 
+T23	disorder 2317 2341	hypertrophie prostatique
+T24	procedure 2474 2487	dosage du PSA
+T25	procedure 2523 2536	dosage de PSA
+T26	procedure 2583 2595	 fibroscopie
+T27	procedure 2611 2630	biopsie prostatique
+T28	labvalue 2673 2682	245 ng/ml
+T29	procedure 2657 2671	dosage du PSA 
+T30	procedure 2700 2712	Fibroscopie 
+T31	procedure 2715 2734	biopsie prostatique
+T32	anatomy 2789 2803	paroi vésicale
+T33	labvalue 2735 3220	"(...) Fibroscopie sans particularité au niveau de la paroi vésicale. En revanche, on retrouve un remaniement d'allure suspecte au niveau du col vésical. Biopsie prostatique. Au niveau des 12 fragments biopsiques étudiés, aspect histologique d'infiltration massive par un adénocarcinome prostatique, peu différencié score 9 (5+4) selon Gleason. Présence d'engainements tumoraux périnerveux. Absence d'extension néoplasique extracapsulaire décelable au niveau de ces prélèvements (...)"
+T34	labvalue 3263 3323	"dissémination ostéo-médullaire métastatique axiale diffuse"
+T35	procedure 3239 3260	scintigraphie osseuse
+T36	procedure 3342 3366	scanner abdomino-pelvien
+T37	procedure 3468 3483	IRM prostatique
+T38	labvalue 3369 3450	"ostéose condensante diffuse affectant le rachis lombo-sacré et les os iliaques".
+T39	labvalue 3485 3785	"prostate asymétrique, épaissie du côté gauche où elle forme un ensemble avec la vésicule séminale et la paroi vésicale, envahies. En arrière, toujours du côté gauche, du tissu franchit la capsule pour s'étendre dans la graisse péri-rectale jusqu'à avoir une large surface de contact avec le rectum".
+T40	drugs 3864 3879	hormonothérapie
+T41	profession 3893 3912	chirurgien urologue
+T42	drugs 3940 3947	Casodex
+T43	drugs 3983 3991	Enantone
+T44	profession 4082 4101	chirurgien urologue
+T45	labvalue 4109 4113	6,59
+T46	procedure 4103 4106	PSA
+T47	drugs 4128 4147	traitement hormonal
+T48	disorder 4160 4179	douleurs lombaires 
+T49	drugs 4341 4351	corticoïde
+T50	drugs 4314 4337	Traitements morphinique
+T51	procedure 4381 4402	scintigraphie osseuse
+T52	disorder 4404 4438	infiltration métastatique diffuse 
+T53	anatomy 4461 4467	rachis
+T54	anatomy 4469 4478	les côtes
+T55	anatomy 4482 4498	les os du bassin
+T56	drugs 4566 4577	Abiratérone
+T57	drugs 4581 4586	Xgeva
+T58	procedure 4601 4625	radiothérapie antalgique
+T59	disorder 4941 4977	altération majeure de l'état général
+T60	procedure 5059 5075	soins palliatifs
+T61	procedure 1268 1285	consultation Uro 
+T62	procedure 1314 1342	Contrôles postransfusionnels
+T63	profession 81 88	médecin
+T64	profession 514 521	médecin
+T65	procedure 832 861	 sevrage de la sonde urinaire

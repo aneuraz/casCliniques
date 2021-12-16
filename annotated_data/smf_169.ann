@@ -1,0 +1,134 @@
+T1	disorder 92 121	aggravation de l’état général
+T2	disorder 137 142	 toux
+T3	disorder 144 151	dyspnée
+T4	disorder 153 159	fièvre
+T5	disorder 161 169	frissons
+T6	disorder 173 196	hématurie macroscopique
+T7	disorder 251 259	 fatigue
+T8	disorder 267 290	intolérance à l’effort 
+T9	disorder 441 452	saignement 
+T10	disorder 475 520	 hématomes spontanés au niveau des extrémités
+T11	disorder 546 567	sang dans les urines 
+T12	disorder 638 662	hyperplasie prostatique 
+T13	disorder 669 689	maladie de Parkinson
+T14	disorder 853 875	état général amoindri 
+T15	disorder 881 905	état nutritionnel faible
+T16	procedure 907 933	indice de masse corporelle
+T17	labvalue 934 942	19 kg/m2
+T18	disorder 965 975	 hypotendu
+T19	disorder 979 987	afébrile
+T20	disorder 1079 1099	téguments très pâles
+T21	disorder 1105 1127	râles à grosses bulles
+T22	procedure 1156 1168	auscultation
+T23	disorder 1199 1234	douleur à la pression suprapubienne
+T24	disorder 1243 1268	plaques hyperkératosiques
+T25	procedure 1342 1361	examen neurologique
+T26	disorder 1375 1384	hypomimie
+T27	disorder 1389 1405	langage ralenti 
+T28	disorder 1411 1424	 voix enrouée
+T29	disorder 1437 1460	 rigueur des extrémités
+T30	disorder 1486 1497	roue dentée
+T31	procedure 1539 1560	analyses biochimiques
+T32	procedure 1611 1615	CRP 
+T33	labvalue 1624 1632	140 mg/l
+T34	labvalue 1615 1621	accrue
+T35	disorder 1662 1688	insuffisance rénale aiguë 
+T36	procedure 1689 1700	créatinine 
+T37	labvalue 1700 1710	126 µmol/l
+T38	procedure 1712 1717	DFGe 
+T39	labvalue 1717 1734	50 ml/min/1,73 m2
+T40	disorder 1765 1776	bicytopénie
+T41	disorder 1802 1851	anémie normochrome normocytaire hypo­régénérative
+T42	procedure 1853 1864	hémoglobine
+T43	labvalue 1865 1871	40 g/l
+T44	procedure 1872 1886	 réticulocytes
+T45	labvalue 1887 1894	4,5/nl 
+T46	labvalue 1898 1903	 0,2%
+T47	procedure 1905 1941	indice de production réticulocytaire
+T48	procedure 1943 1946	IPR
+T49	labvalue 1948 1952	0,2%
+T50	disorder 1971 1993	thrombocytopénie grave
+T51	labvalue 1997 2001	7/nl
+T52	disorder 2016 2024	hémolyse
+T53	procedure 2145 2174	ponction de la moelle osseuse
+T54	labvalue 2331 2343	augmentation
+T55	procedure 2347 2364	fer interstitiel 
+T56	labvalue 2258 2279	absence quasi totale 
+T57	procedure 2281 2295	érythroblastes
+T58	disorder 2558 2578	 composants tumoraux
+T59	disorder 2516 2524	 tumeur 
+T60	procedure 3482 3506	étude immunophénotypique
+T61	disorder 3520 3564	carence ­extrêmement sévère en lymphocytes B
+T62	disorder 3614 3633	agammaglobulinémie 
+T63	procedure 3807 3826	tests sérologiques 
+T64	procedure 3836 3839	VIH
+T65	procedure 3841 3867	virus de l’hépatite B et C
+T66	procedure 3869 3889	virus d’Epstein Barr
+T67	procedure 3891 3906	cytomégalovirus
+T68	procedure 3908 3922	parvovirus B19
+T69	disorder 3943 3973	signe d’infection virale aiguë
+T70	disorder 4050 4068	agammaglobulinémie
+T71	procedure 4102 4135	réaction en chaîne par polymérase
+T72	procedure 4137 4140	PCR
+T73	procedure 4200 4223	radiographie du thorax 
+T74	procedure 4254 4287	infiltrats pulmonaires bilatéraux
+T75	procedure 4293 4328	grosse masse paracardiaque à gauche
+T76	procedure 4346 4349	CT 
+T77	procedure 4352 4359	PET/CT 
+T78	procedure 4360 4396	tomographie par émission de positons
+T79	procedure 4397 4414	tomodensitométrie
+T80	procedure 4664 4692	Tomodensitométrie thoracique
+T81	disorder 4740 4787	Masse lobée solide dans le média­stin antérieur
+T82	procedure 4846 4869	biopsie assistée par CT
+T83	disorder 4878 4886	 lésion 
+T84	disorder 4922 4928	tumeur
+T85	procedure 5126 5153	résultat histomorphologique
+T86	labvalue 5182 5193	positivité 
+T87	procedure 5211 5215	CK14
+T88	procedure 5217 5220	Lu5
+T89	procedure 5222 5228	CK5/6,
+T90	procedure 5229 5232	p63
+T91	procedure 5234 5243	vimentine
+T92	procedure 5247 5250	CK7
+T93	disorder 5272 5290	thymome de type AB
+T94	disorder 5355 5372	 myasthénie grave
+T95	disorder 5517 5526	 thymome 
+T96	disorder 5578 5599	pure red cell aplasia
+T97	disorder 5602 5606	PRCA
+T98	disorder 5609 5643	thrombocytopénie amégacaryocytaire
+T99	disorder 5650 5671	diathèse hémorragique
+T100	disorder 5674 5692	agammaglobulinémie
+T101	disorder 5694 5710	syndrome de Good
+T102	disorder 5715 5726	lichen plan
+T103	disorder 5742 5787	plaques hyperkératosiques sur les deux jambes
+T104	disorder 5815 5842	pneumonie basale bilatérale
+T105	disorder 6084 6117	hématurie macroscopique anémiante
+T106	disorder 6165 6186	cytopénie réfractaire
+T107	disorder 6205 6234	bicytopénie auto-immune aiguë
+T108	drugs 6268 6285	immunosuppresseur
+T109	drugs 6296 6308	prednisolone
+T110	drugs 5910 5922	antibiotique
+T111	disorder 6358 6376	agammaglobulinémie
+T112	drugs 6404 6420	immunoglobulines
+T113	procedure 6505 6524	ablation du thymome
+T114	procedure 6549 6637	thymectomie étendue ouverte par voie trans-sternale avec résection en-bloc de la tumeur 
+T115	drugs 6831 6842	 stéroïdien
+T116	drugs 6876 6892	immunoglobulines
+T117	disorder 6912 6923	bicytopénie
+T118	disorder 6979 6996	immunosuppresseur
+T119	drugs 7023 7036	 cyclosporine
+T120	drugs 7090 7101	eltrombopag
+T121	disorder 7197 7207	 cytopénie
+T122	disorder 7386 7392	décède
+T123	disorder 7420 7432	traumatisme 
+T124	irrelevant 7462 7472;7474 8143;8145 8540;8542 9039;9041 9635;9637 10331;10333 11004	Discussion  Les tumeurs du thymus constituent un groupe hétérogène de néoplasies épithéliales rares [1]. Parmi les lésions au niveau du médiastin antérieur, les thymomes sont les tumeurs les plus fréquemment diagnostiquées (incidence 2–4/106/an, 40e–70e année de vie, hommes et femmes aussi souvent concernés) [2, 3]. La classification histologique dépend de la morphologie des cellules épithéliales, la présence de lymphocytes et la ­similarité avec l’architecture normale du thymus [1]. Selon l’Organisation mondiale de la santé (OMS), les thymomes sont classés en types A, B et la forme mixte de type A/B, les carcinomes thymiques constituent quant à eux une entité séparée [1].  La méthode diagnostique de choix pour l’évaluation de la taille et la délimitation avec les structures avoisinantes consiste en une TDM thoracique avec administration intraveineuse de produit de contraste. En présence d’un tableau clinique typique et de résultats d’imagerie univoques sans indication d’une croissance extra-organique, la biopsie diagnostique n’est pas absolument nécessaire [1].  En fonction du stade, le traitement standard fait appel soit à la chirurgie (voir ci-dessus), le cas échéant également à une radiothérapie postopératoire, soit, à des stades plus avancés, à une chimiothérapie combinée (cisplatine, une anthracycline, étoposide et cyclophosphamide) [1]. Le taux de récidive s’élève approximativement à 10–15% [1]. Etant donné que les récidives de thymome sont également traitées en intention curative, le suivi régulier au moyen d’une TDM thoracique est recommandé.  Outre la résection chirurgicale du thymome, une ­évaluation clinique précise en termes de phénomènes ­auto-immuns paranéoplasiques s’avère hautement prioritaire. Le thymus joue un rôle central dans la maturation et la différenciation des cellules T dont l’auto-tolérance est adéquate, c’est pourquoi un trouble de ce processus entraîne la formation de lymphocytes T auto-réactifs [2]. Des manifestations paranéoplasiques sous forme de phénomènes auto-immuns peuvent survenir chez 20–50% des patients atteints de thymome [2, 3], le plus souvent (env. 25–40%) en tant que myasthénie grave [2, 3].  En termes de complications hématologiques, les cyto­pénies représentent une autre manifestation essentielle des phénomènes auto-immuns. Chez les patients atteints de thymome, la présence d’une anémie normochrome normocytaire hyporégénérative à arégénérative doit faire penser à une PRCA [4]. Celle-ci est caractérisée par l’absence d’érythroblastes dans la moelle osseuse en présence d’une granulopoïèse et d’une ­mégacaryopoïèse normales, et peut se retrouver chez 2–5% des patients atteints de thymome [2, 5]. A l’inverse, un thymome est détecté chez 10–50% des patients présentant une PRCA, de sorte que ce phénomène auto-­immun constitue la complication hématologique la plus fréquente [5].  En termes de diagnostic différentiel, une infection à parvovirus B 19 ainsi que des processus néoplasiques envahissant la moelle osseuse doivent être exclus. Les auto-anticorps inhibant l’érythropoïèse dirigés contre l’érythropoïétine et les cellules précurseurs des érythroblastes ainsi qu’une action cytotoxique directe des lymphocytes T contre les cellules souches érythroïdes sont discutés sur le plan étiologique [4]. Une rémission peut parfois être obtenue après thymectomie sous traitement immunosuppresseur stéroïdien et, en l’absence de réponse, sous ciclosporine ou rituximab, mais cette complication peut malheureusement demeurer réfractaire au traitement [2].
+T125	drugs 7284 7294	plaquettes
+T126	drugs 7267 7281	 érythrocytes 
+T127	disorder 11056 11079	 thrombocytopénie grave
+T128	disorder 11166 11200	thrombocytopénie amégacaryocytaire
+T129	disorder 11263 11297	thrombocytopénie amégacaryocytaire
+T130	disorder 11255 11259	PRCA
+T131	procedure 11427 11438	thymectomie
+T132	drugs 11458 11475	immunosuppresseur
+T133	drugs 11486 11498	ciclosporine
+T134	irrelevant 11508 12335;12337 12893;12895 13338;13340 13368;13370 13639;13641 13752;13754 13881;13883 14066;14068 14216;14218 14314	Avec une prévalence de 5%, le syndrome de Good compte, après la PRCA, parmi les deuxièmes cytopénies les plus fréquentes en cas de thymome et est ­caractérisé par une carence acquise à l’âge adulte en lymphocytes B avec hypogammaglobulinémie à agammaglobulinémie. Dans plus de 50% des cas, il peut être accompagné d’autres phénomènes auto-immuns (par ex. PRCA, myasthénie grave ou lichen plan oral). Cela va souvent de pair avec une susceptibilité accrue aux infections (surtout les infections respiratoires) ainsi qu’une augmentation de la mortalité [2]. L’immunodéficience après thymectomie est irréversible, de sorte qu’une substitution intraveineuse régulière d’immunoglobulines est recommandée, tout comme la prophylaxie contre les infections opportunistes, c’est-à-dire les virus, fongus et Pneumocystis jirovecii [2, 8].  Des phénomènes auto-immuns cutanés et muqueux dus au thymome se manifestent typiquement sous forme de lichen plan au niveau de la muqueuse orale, généralement en tant que lésions érosives douloureuses récidivantes [2, 9], souvent combinées, en cas de formes sévères, à un syndrome de Good [9, 10]. Sur le plan physiopathologique survient alors une destruction des kératinocytes, déclenchée par les cellules T ­auto-réactives [10]. Comme chez notre patient, des ­manifestations extra-orales et d’autres variantes du lichen plan sont également décrites [11].  Les phénomènes auto-immuns pouvant survenir en relation avec des thymomes sont variés et pas encore entièrement expliqués sur le plan physiopathologique. Malgré la résection chirurgicale du thymome et l’immunosuppression, ces phénomènes auto-immuns hématologiques et immunologiques peuvent persister de sorte qu’au quotidien clinique, ces problèmes concomitants représentent souvent un défi thérapeutique de taille et s’avèrent souvent fatals.  L’essentiel pour la pratique  • L’acronyme 4-T nous aide dans le diagnostic différentiel de la masse médiastinale: thymome, thyroïde (goitre), «terrible lymphoma» (lymphome lymphoblastique à cellules T, lymphome diffus à grandes cellules T, lymphome de Hodgkin, etc.), tératome (tumeurs germinales).  • En présence d’un thymome récemment diagnostiqué, il convient d’envisager des phénomènes auto-immuns associés.  • Particulièrement en cas d’infections récidivantes, il convient d’envisager un syndrome de Good (carence en immunoglobulines).  • Le traitement des phénomènes auto-immuns comprend, après la thymectomie, l’administration de stéroïdes et d’immunoglobulines ainsi que, le cas échéant, de cyclosporine ou rituximab.  • Le risque accru d’infections et les complications hématologiques influencent défavorablement le pronostic (taux de survie à 10 ans d’environ 30%).  L’annexe est disponible en tant que document séparé sur: https://doi.org/10.4414/fms.2019.08421.

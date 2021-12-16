@@ -1,0 +1,43 @@
+T1	disorder 95 144	fibrillation auriculaire normocarde anti-coagulée
+T2	disorder 154 206	accident vasculaire cérébral (AVC) thrombo-embolique
+T3	disorder 260 271	hémiparésie
+T4	disorder 279 311	pa­ralysie faciale minime droite
+T5	disorder 326 341	aphasie modérée
+T6	disorder 349 369	épilepsie secondaire
+T7	disorder 552 600	 céphalées hémi-crâniennes droites persistantes 
+T8	disorder 612 633	asthénie inhabituelle
+T9	disorder 639 679	hyperesthésie du cuir chevelu fluctuante
+T10	disorder 729 758	douleur thoracique antérieure
+T11	disorder 1092 1127	effleurement du scalpe est sensible
+T12	labvalue 1221 1256	vitesse de sédimentation à 35 mm/h1
+T13	labvalue 1262 1276	CRP à 118 mg/l
+T14	labvalue 1284 1322	hyperleucocytose à 12 500 éléments/mm3
+T15	procedure 1327 1350	radiographie du thorax 
+T16	disorder 1361 1401	redistribution sanguine vers les sommets
+T17	disorder 1406 1482	élargissement du système veineux et une cardiomégalie à prédominance gauche.
+T18	procedure 1550 1563	IRM cérébrale
+T19	procedure 1568 1585	CT cérébral natif
+T20	procedure 1590 1596	PET-CT
+T21	procedure 1601 1646	CT cérébral injecté avec exploration des axes
+T22	procedure 1651 1664	CT thoracique
+T23	disorder 2557 2573	Méningite virale
+T24	disorder 2578 2596	Migraine avec aura
+T25	disorder 2600 2620	 Maladie de Takayasu
+T26	disorder 2625 2645	Céphalées de tension
+T27	disorder 2650 2677	Artérite giganto-cellulaire
+T28	disorder 2721 2783	raideur de nuque, fièvre et altération de l’état de conscience
+T29	disorder 3825 3895	Migraine avec aura	A Au moins 2 crises remplissant les critères B et C
+T30	disorder 3898 3985	Symptômes visuels, sensitifs, parole et/ou langage, ­moteurs, tronc cérébral, rétiniens
+T31	disorder 4775 4794	Céphalée de tension
+T32	drugs 5733 5742	 stéroïde
+T33	procedure 5746 5812	 Organiser une biopsie de l’artère temporale avant tout traitement
+T34	procedure 5854 5867	IRM cérébrale
+T35	procedure 5881 5902	une ponction lombaire
+T36	drugs 5914 5925	 l’antalgie
+T37	procedure 7074 7109	CT scanner thoraco-abdomino-pelvien
+T38	procedure 7535 7570	 remplacement de l’aorte ascendante
+T39	disorder 7658 7731	paraplégie sur ischémie médullaire per-opératoire avec récupération lente
+T40	disorder 8048 8065	maladie de Horton
+T41	disorder 8730 8739	 diplopie
+T42	risk 8493 8514	prédominance féminine
+T43	disorder 9933 9958	aphasie et la dysarthrie 

@@ -1,0 +1,145 @@
+T1	procedure 64 76	mammographie
+T2	disorder 122 136	cancer du sein
+T3	procedure 95 105	 dépistage
+T4	disorder 231 239	 lésion 
+T5	disorder 327 350	rétraction mamelonnaire
+T6	profession 356 367	radiologue 
+T7	disorder 410 424	galactophorite
+T8	procedure 442 475	 prélèvement à visée histologique
+T9	procedure 495 506	échographie
+T10	disorder 523 557	plage de distorsion architecturale
+T11	procedure 622 646	 prélèvements biopsiques
+T12	procedure 669 682	cyto-ponction
+T13	disorder 712 741	opacité para-aréolaire gauche
+T14	disorder 749 784	ectasies canalaires péri-aréolaires
+T15	procedure 835 876	examen anatomo-pathologique des biopsies 
+T16	disorder 889 918	carcinome mammaire infiltrant
+T17	disorder 938 960	éléments carcinomateux
+T18	procedure 1029 1042	cyto-ponction
+T19	profession 1090 1101	radiologue 
+T20	profession 1105 1136	 chirurgien gynéco-obstétricien
+T21	procedure 1164 1180	examen clinique 
+T22	procedure 1197 1243	palpation du sein et du creux axillaire gauche
+T23	procedure 1269 1288	rapport d'expertise
+T24	profession 1309 1319	radiologue
+T25	profession 1324 1334	chirurgien
+T26	procedure 1367 1384	exérèse du nodule
+T27	procedure 1398 1431	exérèse de la zone para-aréolaire
+T28	disorder 1516 1522	lésion
+T29	procedure 1556 1590	prélèvement du ganglion sentinelle
+T30	procedure 1637 1650	cyto-ponction
+T31	procedure 1697 1716	 mastectomie totale
+T32	procedure 1722 1738	curage axillaire
+T33	procedure 1899 1902	IRM
+T34	procedure 1909 1922	tumorectomie 
+T35	procedure 1924 1958	exérèse de la zone para-aréolaire 
+T36	procedure 2002 2014	mastectomie 
+T37	procedure 2077 2107	consultation de pré-anesthésie
+T38	disorder 2125 2132	obésité
+T39	procedure 2134 2137	IMC
+T40	labvalue 2138 2146	33 kg/m²
+T41	disorder 2156 2164	diabète 
+T42	procedure 2175 2190	glycémie à jeun
+T43	labvalue 2193 2201	1,38 g/l
+T44	procedure 2203 2222	hémoglobine glyquée
+T45	labvalue 2224 2230	 7,0 %
+T46	procedure 2256 2260	 ASA
+T47	labvalue 2261 2262	2
+T48	procedure 2320 2323	IRM
+T49	procedure 2280 2295	hospitalisation
+T50	procedure 2370 2382	intervention
+T51	procedure 2566 2573	exérèse
+T52	disorder 2685 2715	carcinome canalaire infiltrant
+T53	procedure 2722 2729	exérèse
+T54	procedure 2766 2810	mastectomie totale avec curage ganglionnaire
+T55	procedure 2813 2863	 Clivage de la glande mammaire du plan sous-cutané
+T56	procedure 3386 3406	curage sous- veineux
+T57	procedure 3506 3514	ligature
+T58	procedure 3720 3731	mastectomie
+T59	procedure 3754 3781	étude anatomo-pathologique 
+T60	disorder 3798 3846	Double localisation tumorale dans le sein gauche
+T61	disorder 3983 4010	 lymphangite carcinomateuse
+T62	disorder 4338 4366	ganglions sont métastatiques
+T63	disorder 4372 4398	lymphangite carcinomateuse
+T64	disorder 4526 4549	ganglions métastatiques
+T65	procedure 4663 4683	surveillance en SSPI
+T66	procedure 4851 4853	PA
+T67	procedure 4859 4879	 fréquence cardiaque
+T68	procedure 4881 4883	FC
+T69	labvalue 4893 4900	stables
+T70	labvalue 4908 4921	130-140 mmHg 
+T71	procedure 4929 4943	PA systolique 
+T72	labvalue 4945 4952	95/min 
+T73	procedure 4960 4962	FC
+T74	procedure 5071 5074	PA 
+T75	labvalue 5076 5082	128/8o
+T76	procedure 5084 5086	FC
+T77	labvalue 5088 5095	 95/min
+T78	labvalue 5097 5104	36,6 °C
+T79	disorder 5176 5184	algique 
+T80	procedure 5186 5189	EVA
+T81	labvalue 5190 5191	2
+T82	disorder 5211 5218	nausées
+T83	disorder 5238 5271	rejet de quelques glaires claires
+T84	procedure 5277 5287	injection 
+T85	drugs 5298 5306	 Lovenox
+T86	procedure 5460 5463	 PA
+T87	labvalue 5477 5484	 93/65 
+T88	procedure 5492 5495	 FC
+T89	labvalue 5498 5505	103/min
+T90	procedure 5586 5593	sondage
+T91	profession 5647 5657	chirurgien
+T92	profession 5330 5341	infirmière 
+T93	procedure 5901 5904	PA 
+T94	profession 5961 5971	infirmière
+T95	procedure 6127 6130	PA 
+T96	procedure 6180 6193	pouls radial 
+T97	procedure 6226 6242	mise sous scope 
+T98	procedure 6306 6308	PA
+T99	labvalue 6315 6325	84/45 mmHg
+T100	procedure 6332 6334	FC
+T101	labvalue 6337 6344	125/min
+T102	profession 6348 6358	infirmière
+T103	procedure 6368 6378	perfusion 
+T104	drugs 6381 6388	Voluven
+T105	profession 6434 6445	 chirurgien
+T106	profession 6473 6484	infirmière 
+T107	procedure 6534 6536	PA
+T108	procedure 6565 6575	perfusion 
+T109	drugs 6578 6585	Voluven
+T110	procedure 6619 6639	chiffres tensionnels
+T111	labvalue 6642 6652	95/52 mmHg
+T112	procedure 6660 6663	FC 
+T113	labvalue 6665 6672	100/min
+T114	disorder 6703 6717	perte sanguine
+T115	profession 6750 6760	chirurgien
+T116	procedure 6898 6901	NFS
+T117	profession 6977 6989	anesthésiste
+T118	procedure 7171 7173	PA
+T119	labvalue 7180 7186	stable
+T120	procedure 7655 7664	perfusion
+T121	profession 7747 7759	anesthésiste
+T122	profession 7780 7795	aide-soignante 
+T123	procedure 7900 7902	PA
+T124	labvalue 7909 7910	9
+T125	labvalue 7914 7916	10
+T126	procedure 8604 8613	expertise
+T127	procedure 8926 8944	activité cardiaque
+T128	labvalue 8909 8916	absence
+T129	disorder 8970 8999	mydriase bilatérale aréactive
+T130	disorder 9004 9023	cornée est modifiée
+T131	disorder 9040 9048	 livide 
+T132	disorder 9050 9057	 froide
+T133	disorder 9087 9092	décès
+T134	disorder 8814 8819	décès
+T135	disorder 9273 9278	décès
+T136	disorder 9312 9317	décès
+T137	procedure 9376 9386	 autopsie 
+T138	procedure 9400 9408	autopsie
+T139	disorder 9457 9465	hématome
+T140	disorder 9643 9673	voussure sous-axillaire gauche
+T141	disorder 9736 9744	caillot 
+T142	disorder 9764 9785	 épanchement sanguin 
+T143	procedure 9821 9841	curage ganglionnaire
+T144	procedure 9881 9890	autopsie 
+T145	disorder 9925 9964	décès consécutif à un choc hémorragique

@@ -1,0 +1,82 @@
+Contexte
+
+La coronarographie est un procédé diagnostique fréquemment utilisé. Les patients atteints de syndrome coronarien aigu présentent souvent une obstruction ou une sténose de haut degré des vaisseaux coronaires épicardiques en raison d’une athérosclérose. Dans de rares cas, d’autres causes sont toutefois à l’origine d’occlusions vasculaires aiguës, comme par exemple des embolies coronaires ou une pathologie aortique, qui peuvent entraver la sortie des vaisseaux coronaires et doivent souvent être traitées par chirurgie cardiaque. La pathologie décrite dans ce rapport de cas pourrait être survenue dans le cadre d’une coronarographie diag­nostique [1].
+
+Rapport de cas
+Anamnèse
+
+La patiente âgée de 68 ans présentant de fortes douleurs thoraco-abdominales survenues au repos et irradiant en ceinture vers l’épigastre, le dos et les extrémités supérieures, a été transférée par le service de secours dans notre unité d’urgence. L’anamnèse a ­révélé des douleurs thoraciques intermittentes présentes depuis des mois en cas d’effort, qui ne duraient à chaque fois que quelques minutes. Les douleurs actuelles seraient toutefois récentes. Les autres examens diagnostiques réalisés chez le médecin de famille ont permis d’exclure à l’échographie une pathologie pancréatique. A la suite de cette consultation, la patiente a dû vomir à la maison et s’est ensuite couchée. De vives douleurs abdominales sont ensuite apparues, qui ont débuté en ceinture au niveau de l’épigastre et se sont propagées vers le dos et les deux bras. La patiente les a ressenties de manière similaire à celles accompagnant l’infarctus myocardique survenu trois ans plus tôt. Elle a ensuite appelée le service de secours qui lui a administré en plus de l’acide acétylsalicylique, des nitrates, de la morphine et de l’héparine. Le traitement médicamenteux actuel incluait acide acétylsalicylique, lisinopril, atorvastatine et pantoprazole. Trois semaines auparavant, une coronarographie élective avait été réalisée en présence d’un angor d’effort, d’une détérioration de la fonction de pompe du ventricule gauche et de tachycardies ventriculaires d’effort non soutenues. Celle-ci n’avait toutefois révélé aucune sténose nécessitant une intervention, ni aucune anomalie du stent qui avait été implanté au niveau du rameau circonflexe en 2013 à l’occasion d’un STEMI («ST-segment elevation myocardial infarction») inférolatéral. Les troubles pectangineux avaient alors été interprétés sur la base d’un dysfonctionnement diastolique avec pressions de remplissage du ventricule gauche accrues. Une ergométrie de suivi était prévue six semaines après l’intervention, mais n’a pas eu lieu du fait des événements actuels.
+
+Statut
+
+Lors de l’admission, la patiente se trouvait dans un état général réduit, exempte de douleur, afébrile et dans un état cardio-respiratoire stable. L’examen clinique n’a pu révéler aucun indice déterminant.
+
+Résultats
+
+Le tableau 1$ montre l’évolution des valeurs de laboratoire depuis l’admission à l’hôpital. Une électrocardiographie (ECG) a révélé le bloc de branche gauche préalablement décrit avec perte de l’onde R au niveau de la paroi postérieure. La durée du QRS était de 182 ms. Les biomarqueurs cardiaques étaient élevés (tab. 1). En présence de taux de D-dimères élevés, une angiographie par tomodensitométrie a été effectuée malgré une faible probabilité du test préliminaire (score Wells de 0 point) afin d’exclure une embolie des artères pulmonaires. Par ailleurs, un protocole de «double rule out» avait pour but d’exclure pareillement une dissection aortique. Une lésion hypodense de 1,1 × 1,4 cm a été découverte fortuitement au niveau de la cuspide coronaire droite de la valve aortique à hauteur de la sortie de l’artère coronaire droite (fig. 1 et 2).
+
+Tableau 1: Paramètres de laboratoire de la patiente pendant l’hospitalisation.
+Paramètre	Valeurs de référence	23.1215h02	23.1219h43	24.1201h00	24.1207h00
+Hématologie	 	 	 	 	 
+Hémoglobine g/dl	12,3–15,8 g/dl	14,4	 	 	13,3
+Hématocrite %	37–47%	42	 	 	39
+Thrombocytes ×109/l	150–400 *109/l	259	 	 	241
+Leucocytes ×109/l	3,0–9,6 *109/l	15,97	 	 	9,37
+Chimie clinique	 	 	 	 	 
+Créatinine µmol/l	50–98 µmol/l	59	 	 	57
+Potassium mmol/l	3,5–5,1 µmol/l	4,0	 	 	4,1
+Marqueurs cardiaques	 	 	 	 	 
+Créatinine kinase U/l	<168 U/l	122	469	586	692
+Myoglobine µg/l	<140 µg/l	277	363	199	106
+Troponine-I ng/l	<26 ng/l	80	8106	 	 
+Paramètres d’activation	 	 	 	 	 
+D-Dimère mg/l	<0,5 mg/l	1,3	 	 	 
+
+Figure 1: Tomodensitométrie du thorax (coupe axiale) avec mise en évidence d’une masse en amont de l’artère coronaire droite (flèche), image à l’entrée à l’hôpital.
+
+Figure 2: Tomodensitométrie du thorax (coupe sagittale) avec mise en évidence d’une masse au niveau de la valve aortique en amont de l’artère coronaire droite (flèche), image à l’entrée à l’hôpital.
+
+Traitement et évolution
+
+Au service d’urgence, du ticagrelor et de l’énoxaparine ont été administrés en complément et une nette régression des symptômes a été observée. En raison du résultat au niveau de la valve aortique, des cultures sanguines ont également été prélevées en cas d’éventuelle endocardite, mais celles-ci sont restées négatives. En l’absence de critères majeurs et mineurs de la classification de Dukes ainsi qu’en présence de cultures sanguines négatives, une endocardite a ainsi semblé très improbable, et un traitement antimicrobien a donc été écarté. Au vu de la coronarographie normale et sans indication de néoplasie réalisée trois semaines plus tôt, une néoplasie a également paru extrêmement improbable. La suspicion s’est ainsi posée sur un thrombus de la racine aortique et, en raison du risque de mobilisation du thrombus, il a été renoncé à un diagnostic invasif immédiat, et l’anticoagulation thérapeutique par énoxaparine a été poursuivie. Au service des soins intensifs, les biomarqueurs cardiaques ont présenté une nette dynamique (tab. 1) et l’ECG est resté inchangé (fig. 3). Une occlusion intermittente de l’artère coronaire droite par le thrombus a donc été postulée.
+
+Figure 3: Electrocardiogramme de la patiente à l’entrée à l’hôpital avec bloc de branche gauche précédemment décrit ainsi que perte de l’onde R au-dessus de la paroi postérieure sans signe d’une ischémie cardiaque aiguë.
+
+Après avoir été surveillée sans signe particulier au service de soins intermédiaires, la patiente exempte de symptômes a été transférée deux jours plus tard au service stationnaire. Au bout de 12 heures, c’est-à-dire trois jours après l’admission à l’hôpital, des douleurs thoraciques accompagnées d’élévations dynamiques du segment ST en inférieur et en antérieur (fig. 4) sont survenues malgré une triple thérapie.
+
+Figure 4: Electrocardiogramme avec élévations nettes du segment ST en II, III, aVF et V1–V2 48 heures après l’entrée à l’hôpital.
+
+Une coronarographie aiguë a immédiatement eu lieu (fig. 5–7). Celle-ci a révélé un déplacement subtotal de l’ostium coronaire droit dû à la masse présumément thrombotique. Après représentation sélective de l’artère coronaire droite, une fibrillation ventriculaire est survenue et a nécessité une défibrillation. C’est la raison pour laquelle il a été renoncé à d’autres tentatives d’intervention et la patiente a été transférée en chirurgie cardiaque pour un pontage aortocoronarien d’urgence. L’opération a révélé un thrombus de 1,5 × 2,0 cm avec moignon dans l’ostium coronaire droit en présence probable d’une lésion endothéliale à la base de la cuspide coronaire droite. L’intervention chirurgicale n’a malheureusement pas été documentée par imagerie. Après une évolution postopératoire sans complication, la patiente a été transférée dans une clinique de réhabilitation cardiaque.
+
+Figure 5: Image de la coronarographie avec intubation de l’ostium coronaire droit à l’aide d’un produit de contraste,
+représentation de l’artère coronaire droite ainsi que représentation du matériel thrombotique dans le nuage de produit
+de contraste (flèche).
+
+Figure 6: Représentation de l’artère coronaire droite
+au moyen de produit de contraste (flèche).
+
+Figure 7: Représentation du thrombus en amont de l’ostium droit (flèche).
+
+Discussion
+
+Les complications postopératoires après une coronarographie impliquent principalement des problèmes locaux au niveau du site de ponction, accompagnés d’hémorragies secondaires, de dissections, d’anévrismes ainsi que de thromboses aiguës avec embolisation distale [2, 3].
+
+Dans le cas présent, il est théoriquement possible que la sonde ou la pointe du cathéter diagnostique aient provoqué une lésion endothéliale au niveau de la racine aortique avec formation ultérieure d’une thrombose. Cela a déjà été décrit à plusieurs reprises et peut être observé ­en cas de pontage ou d’intervention coronarienne.
+
+Après une coronarographie diagnostique, la formation d’un thrombus s’avère extrêmement rare, en particulier sous traitement de longue durée par acide ­acétylsalicylique, comme dans notre cas. La formation d’un thrombus en tant que cause des douleurs pectangineuses liées à l’effort et déjà présentes avant la première coronarographie semble plutôt improbable. Si un thrombus autrefois encore plus petit avait déjà été présent, il serait possible de spéculer que celui-ci pourrait avoir créé une sorte de vanne sphérique en amont de l’ostium coronaire.
+
+Une lésion aiguë de l’endothélium due à la coronarographie diagnostique avec formation progressive de thrombus au niveau de la racine aortique durant les trois dernières semaines semble plus probable, puisqu’aucune masse n’a été observée au sein de l’aorte, ni à l’échocardiographie précédente, ni à la coronarographie.
+
+Il reste difficile à comprendre pourquoi un thrombus a pu se former chez cette patiente en particulier, bien que de faibles lésions endothéliales puissent éventuellement survenir chez un nombre non négligeable de patients examinés par coronarographie. Dans le cas actuel, une activation endothéliale excessive dans le contexte d’un trouble de la coagulation jusqu’alors inconnu serait envisageable. L’anamnèse a révélé une embolie pulmonaire non provoquée à l’âge de 24 ans, survenue sous la prise de contraceptifs et de nicotine. Aucune analyse de la coagulation n’a jusqu’à présent été réalisée.
+
+Dans notre rapport de cas, il n’a finalement pas pu être déterminé si le thrombus de la racine aortique était déjà présent depuis longtemps ou s’il était la conséquence d’une lésion iatrogène de l’endothélium de la racine aortique ou de l’ostium de l’artère coronaire droite due à la coronarographie élective. Cette dernière hypothèse semble toutefois globalement plus plausible.
+
+Le diagnostic et le traitement par cathétérisme comportent des risques, qu’il s’agisse d’une intervention élective ou d’urgence. Il convient ici de mentionner principalement la dissection, l’occlusion vasculaire, la perforation coronaire et les thromboses coronaires. La plupart de ces problèmes peuvent être résolus au laboratoire de cathétérisme sans intervention chirurgicale. Au cours des dernières décennies, les progrès réalisés en cardiologie interventionnelle ont permis une régression continue des interventions de revascularisation coronaire, de sorte qu’une revascularisation chirurgicale soit nécessaire dans moins d’un pour cent des cas. Même si des complications – comme celle présentée ici – ne sont pas mentionnées dans les listes de complications, celles-ci doivent toutefois être prises en compte au moins en termes de diagnostic différentiel [4].
+
+L’essentiel pour la pratique
+
+• Le syndrome coronarien aigu reste une maladie potentiellement mortelle qui doit être immédiatement traitée de manière adaptée.
+
+• Une athérosclérose coronaire ou une rupture de la plaque ne sont pas toujours à l’origine du syndrome coronarien aigu.
+
+• En cas de syndrome coronarien aigu, l’intervention coronarienne percutanée est généralement le moyen thérapeutique adapté, mais présente également des limitations, comme dans le cas présent. Une intervention chirurgicale cardiaque doit parfois avoir lieu pour traiter des complications graves.

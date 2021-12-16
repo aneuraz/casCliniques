@@ -1,0 +1,22 @@
+T1	disorder 3 19	tumeur arrondie 
+T2	disorder 114 172	centre de la lésion était légèrement déprimé et hypochrome
+T3	disorder 52 57	molle
+T4	disorder 3 109	tumeur arrondie mesurait 5 cm de diamètre, était molle et homogène, saillante, comme « posée sur la peau »
+T5	disorder 231 294	ésion était légèrement chaude et recouverte de télangiectasies 
+T6	procedure 320 335	examen clinique
+T7	procedure 364 376	écho-Doppler
+T8	disorder 422 443	 lésion hypo-échogène
+T9	irrelevant 592 697	igure 1. Lésion tumorale molle de la hanche gauche avec dépression centrale. Quel est votre diagnostic ? 
+T10	disorder 727 804	hémangiome congénital de type RICH (Rapidly involuting congenital hemangioma)
+T11	procedure 843 854	échographie
+T12	disorder 1072 1095	légère atrophie cutanée
+T13	disorder 1297 1318	cicatrice achromique 
+T14	disorder 1365 1387	hémangiome congénital 
+T15	disorder 1422 1429	angiome
+T16	procedure 1559 1570	échographie
+T17	disorder 2730 2757	hémangiome infantile banal 
+T18	disorder 2762 2783	hémangiome congénital
+T19	disorder 3728 3744	hémangiome RICH.
+T20	disorder 4326 4366	dermatofibrosarcome de Darier et Ferrand
+T21	disorder 4372 4401	rhabdomyosarcomes congénitaux
+T22	procedure 4406 4414	biopsie 

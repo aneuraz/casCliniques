@@ -1,0 +1,66 @@
+T1	disorder 129 175	syndrome de la jonction pyélo-urétéral gauche 
+T2	disorder 206 233	pneumopathie à pneumocoque 
+T3	disorder 480 494	prise de poids
+T4	irrelevant 527 593	 Figure 1 : Courbes de croissance staturopondérale au diagnostic. 
+T5	disorder 665 688	fatigabilité à l’effort
+T6	disorder 717 732	 prise de poids
+T7	procedure 734 778	La reconstitution de sa courbe de croissance
+T8	disorder 1026 1030	acné
+T9	disorder 1054 1074	Acanthosis nigricans
+T10	irrelevant 1288 3562	Discussion La prise de poids de ce jeune adolescent est effectivement inhabituelle par son caractère récent et par l’absence d’une alimentation anarchique ou excessive à l’interrogatoire. Le caractère inadapté de l’alimentation est souvent difficile à mettre en évidence du fait d’une négation habituelle de l’enfant ou de ses parents. En fait, c’est surtout la mise en évidence d’une inflexion de la courbe staturale, sur la courbe de croissance reconstituée (figure 1), qui doit alerter, car cette association n’est pas banale et rarement fortuite. En effet, dans les cas d’obésité commune, la croissance est toujours normale, ou un peu supérieure au couloir « cible » ; cela reste le meilleur argument orientant vers une origine « comportementale » (excès d’alimentation, déficit d’activité). Il pourrait s’agir d’un retard pubertaire « simple » du garçon — la vélocité de croissance reste constante, ou s’infléchit un peu, comparée aux enfants de son âge, entraînant un changement progressif de couloir ; mais, dans le cas présent, la puberté est amorcée, comme l’atteste la taille des testicules > 20 mm. En fait, l’augmentation du BMI (P/T2) semble remonter à plus de 18 mois et paraît plus en rapport avec une faible augmentation de la taille qu’avec une forte augmentation du poids… C’est donc plus ce retard de croissance qu’un excès pondéral qu’il convient d’investiguer ; il faut ainsi évaluer les différents systèmes hormonaux, dont la synergie est nécessaire à la puberté. Explorations et hypothèses hormonales Un déficit en GH peut se manifester à tout âge, mais en période pubertaire, il peut être seulement « fonctionnel », notamment dans un contexte de retard pubertaire (ce qui n’est pas le cas ici), ou dans le cadre de troubles nutritionnels graves (dénutrition, obésité morbide). Le dosage de l’IGF1 peut être, par sa normalité, rapporté à l’âge et au stade pubertaire, un premier élément d’orientation. IGF1 : 376 ng/ml. Une hypot h y r o ï d i e , en rapport à cet âge avec une thyroïdite plutôt qu’avec un trouble de l’hormonogenèse, est écartée : il n’y a pas d’anomalie à l’examen de la loge thyroïd i e n n e e t l e bilan thyroïdien demandé i n f i r m e r a l e d i a g n o s t i c ( T S H u l t r a - sensible normal à 1,22 mUI/l [0,10-3,50]) ;
+T11	irrelevant 3562 4334	 l ’ â g e osseux e s t é v a l u é à 12,5 ans. Un déficit en hormones sexuelles d’origine centrale (hypogonadisme hypogonadotrophique) ou périphérique (dysgénésie gonadique) ou séquellaire d’une pathologie antérieure (hernie, torsion, chimiothérapie…). Mais la normalité de l’examen clinique des organes génitaux et le développement pubertaire en cours sont rassurants. Il faut aussi savoir s’interroger sur d’autres stéroïdes, comme les glucocorticoïdes, qui interviennent sur la croissance. Leur effet freinateur est bien connu, le plus souvent en rapport avec une corticothérapie au long cours, justifiée par une maladie chronique connue (et ici absente), ou par une sécrétion excessive dont l’origine peut être périphérique (surrénalienne) ou centrale (hypophysaire).
+T12	procedure 4414 4426	cortisolémie
+T13	procedure 4469 4481	cortisolurie
+T14	procedure 4500 4512	cortisolémie
+T15	labvalue 4549 4572	 471,6 et 670,2 nmol/l 
+T16	procedure 4595 4607	cortisolurie
+T17	labvalue 4637 4651	 877 nmol/24 h
+T18	disorder 4701 4718	hypercortisolisme
+T19	disorder 4730 4750	 syndrome de Cushing
+T20	procedure 4894 4915	Un scanner abdominal 
+T21	procedure 4783 4811	TDM abdominal sans injection
+T22	disorder 4968 5006	 tumeur au niveau des loges surrénales
+T23	procedure 5108 5140	tests endocriniens de freination
+T24	disorder 5167 5187	syndrome de Cushing 
+T25	procedure 5212 5247	 cycle circadien de la cortisolémie
+T26	procedure 5297 5335	 test de freinage fort à dexaméthasone
+T27	procedure 5389 5415	test de stimulation au CRH
+T28	labvalue 5248 5253	aboli
+T29	labvalue 5262 5294	sécrétion partiellement diminuée
+T30	labvalue 5344 5367	absence de modification
+T31	labvalue 5468 5486	absence d’anomalie
+T32	procedure 5491 5513	fonctions thyréotrope,
+T33	procedure 5514 5525	somatotrope
+T34	procedure 5529 5542	surrénalienne
+T35	procedure 5584 5598	IRM céphalique
+T36	disorder 5633 5652	formation nodulaire
+T37	disorder 5746 5759	micro-adénome
+T38	procedure 5819 5842	injection de gadolinium
+T39	procedure 5854 5886	IRM avec injection de gadolinium
+T40	disorder 5963 5989	micro-adénome hypophysaire
+T41	disorder 5991 6009	maladie de Cushing
+T42	irrelevant 6012 6201	 séquence T1 (b) : aspect hétérogène de l’hypophyse avec une zone arrondie donnant un hyposignal. Figure 4 : Courbes de croissance SP 1 an après le diagnostic (7 mois après l’intervention).
+T43	procedure 6221 6244	L’ablation de l’adénome
+T44	disorder 6312 6338	micro-adénome corticotrope
+T45	procedure 6419 6467	résection d’une petite portion de post-hypophyse
+T46	procedure 6518 6563	 L’étude histologique et en immuno-histochimi
+T47	disorder 6588 6614	 corticotrope de l’adénome
+T48	disorder 6636 6654	maladie de Cushing
+T49	disorder 6716 6732	diabète insipide
+T50	drugs 6782 6796	hydrocortisone
+T51	procedure 7132 7136	IGF1
+T52	labvalue 7145 7156	 1337 μg/ml
+T53	procedure 7166 7202	pic de sécrétion de GH sous glucagon
+T54	labvalue 7212 7224	16,7 mUI/ml 
+T55	procedure 7262 7298	traitement par hormone de croissance
+T56	disorder 7305 7325	 déficit thyréotrope
+T57	drugs 7369 7381	 L thyroxine
+T58	procedure 7394 7396	T4
+T59	labvalue 7397 7408	8,71 pmol/l
+T60	labvalue 7418 7428	1,91 mU/l 
+T61	procedure 7414 7417	TSH
+T62	procedure 7435 7472	 insuffisance c o r t i c o t r o p e
+T63	procedure 7503 7532	hormonothérapie substitutive 
+T64	drugs 7534 7564	hémisuccinate d’hydrocortisone
+T65	procedure 7588 7603	testostéronémie
+T66	labvalue 7614 7624	2,80 ng/ml

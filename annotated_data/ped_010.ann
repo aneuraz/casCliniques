@@ -1,0 +1,77 @@
+T1	disorder 234 257	traumatisme de la jambe
+T2	procedure 277 303	 intervention chirurgicale
+T3	disorder 320 327	angines
+T4	procedure 443 449	examen
+T5	disorder 480 491	 asthénique
+T6	procedure 544 555	température
+T7	labvalue 562 568	40 °C 
+T8	procedure 577 596	pression artérielle
+T9	labvalue 599 611	91/ 47 mmHg 
+T10	procedure 618 637	fréquence cardiaque
+T11	labvalue 640 647	112/min
+T12	procedure 651 663	auscultation
+T13	labvalue 686 693	normale
+T14	disorder 732 758	sensibilité de l’épigastre
+T15	procedure 820 827	transit
+T16	labvalue 831 838	 normal
+T17	procedure 842 848	examen
+T18	disorder 883 907	pharyngite érythémateuse
+T19	disorder 916 932	purpura du voile
+T20	disorder 989 1040	extrémités sont chaudes avec un aspect érythémateux
+T21	procedure 1044 1063	examen neurologique
+T22	labvalue 1068 1074	normal
+T23	procedure 1122 1164	 test de diagnostic rapide streptococcique
+T24	labvalue 1203 1210	négatif
+T25	procedure 1215 1231	bilan biologique
+T26	disorder 1289 1307	pharyngite fébrile
+T27	disorder 1343 1359	purpura du voile
+T28	disorder 1397 1421	mononucléose infectieuse
+T29	procedure 1631 1635	 NFS
+T30	disorder 1654 1679	 polynucléose neutrophile
+T31	procedure 1694 1697	CRP
+T32	labvalue 1704 1712	162 mg/l
+T33	disorder 1731 1750	insuffisance rénale
+T34	procedure 1783 1787	urée
+T35	labvalue 1789 1799	6,1 mmol/l
+T36	procedure 1842 1852	créatinine
+T37	labvalue 1854 1864	141 μmol/l
+T38	disorder 1896 1915	insuffisance rénale
+T39	procedure 2035 2041	examen
+T40	procedure 2240 2259	bandelette urinaire
+T41	labvalue 2264 2272	négative
+T42	procedure 2309 2313	ECBU
+T43	procedure 2668 2677	perfusion
+T44	disorder 2849 2857	asthénie
+T45	disorder 2872 2879	fièvre 
+T46	disorder 2908 2942	extrémités chaudes et vasodilatées
+T47	disorder 2951 2988	hémodynamique centrale qui se dégrade
+T48	disorder 2998 3036	accélération de la fréquence cardiaque
+T49	disorder 3055 3077	hypotension artérielle
+T50	procedure 3103 3119	bilan biologique
+T51	disorder 3209 3213	choc
+T52	disorder 3243 3275	détérioration de l’hémodynamique
+T53	disorder 3280 3299	insuffisance rénale
+T54	disorder 3317 3329	hyponatrémie
+T55	disorder 3364 3391	retentissement polyviscéral
+T56	disorder 3397 3420	troubles de l’hémostase
+T57	disorder 3424 3442	atteinte hépatique
+T58	procedure 3494 3516	remplissage vasculaire
+T59	procedure 3598 3607	perfusion
+T60	irrelevant 3657 4533	Commentaire En pédiatrie, la majorité des chocs rencontrés sont de nature hypovolémique par déshydratation (gastro-entérite), hémorragie (saignement ou hémolyse) ou infection (pyélonéphrite aiguë, pneumonie, méningite), avec une vasoconstriction périphérique à l’origine du mauvais teint, des marbrures et une froideur des extrémités. L’absence de cette vasoconstriction et, au contraire, le constat d’une hyperhémie des muqueuses (oropharyngée, conjonctivale génitale) doivent « inquiéter » et faire évoquer la possibilité d’un choc « toxinique », pour lequel deux germes sont principalement en cause : le streptocoque et le staphylocoque. S’il existe quelques particularités des deux germes (cf. tableau), c’est la recherche de la porte d’entrée qui apportera le plus d’information sur l’origine bactériologique. Ici, une origine ORL est possible (en faveur du streptocoque)
+T61	risk 4714 4761	fréquence de changement de tampons insuffisante
+T62	disorder 4833 4870	toxic shock syndrome staphylococcique
+T63	procedure 4983 4995	réanimation 
+T64	procedure 5060 5069	perfusion
+T65	drugs 5144 5153	inotropes
+T66	drugs 5155 5166	dobutamine 
+T67	drugs 5169 5179	adrénaline
+T68	procedure 5184 5194	perfusion 
+T69	procedure 5237 5252	antibiothérapie
+T70	drugs 5279 5290	ceftriaxone
+T71	drugs 5292 5303	vancomycine
+T72	drugs 5305 5316	rifampicine
+T73	drugs 5318 5331	metronidazole
+T74	procedure 5341 5357	immunomodulation
+T75	procedure 5365 5374	perfusion
+T76	procedure 5687 5702	antibiothérapie
+T77	drugs 5707 5719	cloxacilline

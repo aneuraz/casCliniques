@@ -1,0 +1,43 @@
+T1	disorder 89 135	occlusion d’une ou plusieurs veines centrales.
+T2	disorder 194 203	thrombose
+T3	disorder 210 251	sténose de la veine cave supérieure (VCS)
+T4	disorder 523 550	occlusion veineuse centrale
+T5	procedure 555 620	création chirurgicale d’une fistule de dialyse au niveau du bras 
+T6	disorder 1329 1358	insuffisance rénale terminale
+T7	disorder 1487 1511	’infection sur cathéter 
+T8	procedure 1597 1631	 fistule de Cimino du côté gauche 
+T9	procedure 1714 1770	cathéter tunnelisé placé dans la veine jugulaire droite 
+T10	procedure 1963 1970	 fièvre
+T11	labvalue 1973 1980	 39 °C,
+T12	procedure 2006 2026	pression artérielle 
+T13	labvalue 1993 1999	chutes
+T14	procedure 2027 2046	protéine C réactive
+T15	labvalue 2046 2056	 83,2 mg/l
+T16	procedure 2059 2068	eucocytes
+T17	labvalue 2069 2076	3,8/nl,
+T18	procedure 2077 2114	pression artérielle systolique basse 
+T19	labvalue 2117 2129	80–100 mm Hg
+T20	labvalue 2246 2282	Pseudomonas aeruginosa pan-sensible 
+T21	procedure 2330 2347	traitement adapté
+T22	drugs 2381 2418	 2× 4,5 g de pipéracilline/tazobactam
+T23	procedure 2464 2504	retrait du cathéter de dialyse tunnelisé
+T24	procedure 2510 2551	hémodiafiltration veino-veineuse continue
+T25	procedure 2722 2746	tomodensitométrie (TDM) 
+T26	procedure 2791 2811	veinographie par TDM
+T27	disorder 2841 2874	occlusion thrombotique de la VCS 
+T28	procedure 3294 3311	Tomodensitométrie
+T29	disorder 3376 3413	Occlusion de la veine cave supérieure
+T30	procedure 3439 3471	 tentative de recanaliser la VCS
+T31	procedure 3526 3546	anesthésie générale 
+T32	procedure 3648 3677	réation d’un accès de dialyse
+T33	disorder 4591 4643	cclusions thrombotiques de la veine cave inférieure 
+T34	disorder 4671 4704	 thrombi dans l’oreillette droite
+T35	procedure 4874 4893	anesthésie générale
+T36	procedure 6569 6597	athéter de dialyse tunnelisé
+T37	procedure 6719 6737	Tomodensitométrie 
+T38	procedure 6920 6952	antibiothérapie a été poursuivie
+T39	disorder 6985 7004	thrombose septique.
+T40	drugs 7079 7097	pixaban 5 mg/jour,
+T41	procedure 7101 7126	traitement anticoagulant 
+T42	drugs 7157 7177	phenprocoumone 3 mg.
+T43	irrelevant 7179 7189;7191 7394;7396 8156;8158 8428;8430 9392;9394 9577;9579 9607;9609 9938;9940 10251	Discussion  Une complication en cas de cathéters veineux centraux en place depuis longtemps est l’occlusion thrombotique de la VCS et des grandes veines afférentes («thoracic central venous obstruction» [TCVO]) [6].  Chez les patients insuffisants rénaux, un accès central pour l’hémodialyse est toutefois nécessaire en tant que transition ou en cas de shunt ne fonctionnant pas. La pose d’un cathéter de dialyse tunnelisé dans la veine ­jugulaire à l’aide de la technique inside-out est une ­méthode efficace et sûre pour maintenir un accès à l’hémodialyse chez les patients avec occlusion veineuse centrale. Cela permet également d’éviter un accès fémoral qui, par rapport à l’accès jugulaire, est associé à un taux accru de migrations et d’infections. Par ailleurs, une pose via la veine sous-clavière doit être évitée en raison du risque élevé de thromboses et de la nécessité éventuelle d’utiliser cet accès pour un cathéter à chambre ou un stimulateur/défibrillateur [7].  La technique inside-out représente une nouvelle alternative sûre et efficace pour rester fidèle au principe «always right, never subclavian» même en cas d’occlusions chroniques étendues de la VCS, telle est la conclusion de deux études récentes (SAVE et SAVE-US) [8, 9].  Outre la réalisation chirurgicale vasculaire de pontages pour contourner les segments vasculaires obstrués, d’une greffe HeRo® («hemodialysis reliable outflow graft») ou d’un «bone-anchored vascular access» dans la mastoïde, il existe également diverses alternatives de radiologie interventionnelle en cas d’occlusion de la VCS. Ainsi, les occlusions veineuses peuvent également être recanalisées à l’aide de fils de radiofréquence [10, 11], ce qui est toutefois associé à un risque de développement d’une fausse lumière ou de perforation. Une autre alternative est la «recanalisation à l’aiguille», lors de laquelle une recanalisation du segment obstrué de la VCS est tentée au moyen d’une aiguille pointue via un accès dans la veine jugulaire interne/externe. Toutefois, elle est associée à un taux accru de complications, telles que le pneumothorax, l’hémothorax, l’hémopéricarde, les lésions nerveuses, ainsi que la ponction artérielle accidentelle [12, 13].  La nouvelle procédure que nous avons utilisée constitue une méthode efficace et sûre pour assurer un accès veineux central en cas d’occlusion de la VCS, en l’absence d’autres options.  L’essentiel pour la pratique  • Chez les patients dialysés présentant une occlusion des veines centrales, y compris de la veine cave supérieure, l’accès inside-out décrit représente une procédure de bail-out efficace pour générer un accès veineux central. En raison de sa nature mini-invasive, il est particulièrement approprié pour les patients polymorbides.  • Le cas que nous avons présenté montre que la morbidité à long terme associée aux accès veineux centraux, notamment liée à une obstruction, est certes globalement assez faible, mais qu’il s’agit d’une complication cliniquement pertinente. Il est donc primordial de la traiter de façon efficace, rapide et sûre.

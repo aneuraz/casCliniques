@@ -1,0 +1,25 @@
+T1	disorder 73 101	altération de l’état général
+T2	disorder 103 117	désorientation
+T3	disorder 121 130	confusion
+T4	disorder 149 153	vomi
+T5	procedure 259 270	température
+T6	labvalue 273 277	39°2
+T7	disorder 291 302	tachycardie
+T8	labvalue 304 310	100/mn
+T9	disorder 348 365	diabète de type 2
+T10	disorder 371 375	BPCO
+T11	disorder 381 403	insuffisance cardiaque
+T12	disorder 408 429	infarctus du myocarde
+T13	procedure 545 558	bilan sanguin
+T14	procedure 565 578	 hémocultures
+T15	disorder 608 621	pyélonéphrite
+T16	procedure 672 690	bi-antibiothérapie
+T17	drugs 706 720	betalactamine 
+T18	drugs 721 731	céfotaxime
+T19	drugs 754 765	 aminoside 
+T20	drugs 765 775	(amikacine
+T21	drugs 1163 1175	antibiotique
+T22	drugs 1299 1308	amikacine
+T23	procedure 1323 1341	dosage plasmatique
+T24	labvalue 1358 1367	 43.3mg/L
+T25	disorder 1579 1612	Insuffisance rénale aigüe toxique

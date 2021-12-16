@@ -1,0 +1,8 @@
+T1	disorder 0 27	Les infections nosocomiales
+T2	disorder 117 126	infection
+T3	disorder 209 222	Une infection
+T4	disorder 244 256	nosocomiale 
+T5	labvalue 613 629	Escherichia coli
+T6	labvalue 631 653	staphylococcus aureus 
+T7	labvalue 656 678	Pseudomonas aeruginosa
+T8	drugs 734 749	 antibiotiques 

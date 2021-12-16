@@ -1,0 +1,125 @@
+Présentation du cas
+
+Une patiente âgée de 27 ans jusqu’alors en bonne santé s’est présentée au service des urgences en raison de fortes douleurs rétrosternales avec une aggravation lors de la déglutition (odynophagie) d’aliments solides et liquides ainsi qu’à l’inspiration profonde. La patiente a indiqué prendre un antibiotique en raison de la suspicion d’un érythème migrant suite à une piqûre de tique. Elle a également indiqué qu’un inhibiteur de la pompe à protons (IPP) lui a été prescrit mais qu’elle ne le prenait que sporadiquement. Lorsqu’elle a été interrogée, elle a déclaré ne pas présenter de vomissements violents récidivants ou un début des douleurs après la consommation d’aliments solides, mais elle a en revanche affirmé ressentir une irradiation de la douleur dans les oreilles des deux côtés. La patiente a en outre rapporté avoir effectué un vol court courrier (moins de quatre heures) quelques jours auparavant.
+
+La patiente s’est présentée dans un bon état général avec des paramètres vitaux normaux et l’examen clinique était sans particularité. A l’inspection, à l’auscultation et à la palpation, l’abdomen était normal et l’examen de la région de la tête et du cou n’a pas révélé d’anomalies. La patiente était dans un état cardio-pulmonaire compensé.
+
+Question 1: Quelle approche vous semble la moins indiquée à ce moment donné?
+
+
+a) Electrocardiogramme (ECG) au repos
+
+b) Radiographie thoracique en deux plans
+
+c) Dosage des D-dimères
+
+d) Dosage de la protéine C réactive (CRP) et de la thyréostimuline (TSH)
+
+e) Anamnèse médicamenteuse approfondie
+
+L’ECG au repos n’a pas montré de résultats pathologiques, d’indices de syndrome coronarien aigu (SCA) ou de troubles de la conduction cardiaque. Lorsqu’elle a été interrogée, la patiente a déclaré ne pas abuser de substances (cocaïne) et ne pas présenter d’anamnèse familiale positive concernant les événements cardiovasculaires.
+
+La radiographie conventionnelle était sans particularité, et il n’y avait notamment pas de pneumothorax. Un pneumomédiastin ou des croissants gazeux sous les coupoles diaphragmatiques faisaient également défaut. Il n’y avait donc pas d’indices radiologiques suggérant une perforation spontanée de l’œsophage (syndrome de Boerhaave) qui, sur le plan clinique, se manifeste typiquement par des vomissements en jets, de fortes douleurs rétrosternales ainsi qu’un emphysème cutané ou médiastinal (triade de Mackler). Le ­dosage des D-dimères nous a paru inutile à ce moment donné: la clinique n’était pas évocatrice et la probabilité pré-test d’une dissection aortique était très faible chez la patiente, compte-tenu de l’absence d’indices de faiblesse des tissus conjonctifs, du caractère non typique de la douleur, de l’absence d’anamnèse positive concernant des interventions récentes de l’aorte et de l’absence d’indice d’une hypoperfusion. Sur le plan ­clinique, la probabilité d’une embolie pulmonaire a été évaluée comme étant très faible. Dans de rares cas, une thyroïdite subaiguë (de De Quervain) avec irradiation de la douleur dans le thorax apical peut se présenter sous forme de dysphagie ou de douleurs auriculaires. Dans ce contexte, le dosage de la TSH était normal, la CRP était légèrement accrue de façon isolée (9,7 mg/l; norme <5 mg/l) et l’hémogramme différentiel était normal.
+
+L’anamnèse approfondie a montré que de légères douleurs à la déglutition avaient déjà été remarquées pour la première fois cinq jours auparavant, immédiatement après le début du traitement par doxycycline. Face à une augmentation des douleurs les jours suivants, un passage de la doxycycline à l’amoxicilline a été ­entrepris en raison de la suspicion d’une gastrite concomitante. Lorsqu’elle a été interrogée quant à la consommation d’alcool et à la prise concomitante d’anti-inflammatoires non-stéroïdiens (AINS), la patiente a répondu par la négative; il en était de même pour la présence d’un reflux gastro-œsophagien.
+
+Question 2: Quel examen supplémentaire vous semble le plus approprié à ce moment donné?
+
+
+a) Manométrie œsophagienne afin d’exclure une achalasie
+
+b) Transit œsophagien afin d’exclure un diverticule de Zenker
+
+c) Ponction lombaire afin d’exclure une dysphagie associée à la borréliose (encéphalite, myélite)
+
+d) Gastroscopie afin d’exclure une œsophagite ou un ulcère
+
+e) Pas d’autres examens, essai avec IPP pendant 2 semaines
+
+La présence d’une achalasie compte parmi les diagnostics différentiels à envisager: notamment chez les jeunes patients, elle se présente typiquement avec une dysphagie, des brûlures/douleurs rétrosternales et une dyspnée. Pour mettre en évidence une achalasie, il est en premier lieu recommandé de réaliser un transit œsophagien ou une gastroscopie avant la mesure de la pression (manométrie) œsophagienne.
+
+La gastroscopie est également la modalité diagnostique recommandée en cas de suspicion de diverticule de Zenker symptomatique. Quelques rapports de cas anecdotiques décrivent une dysphagie associée à une neuroborréliose. Toutefois, la dysphagie survient alors la plupart du temps en association à d’autres déficits neurologiques. En outre, le temps de latence de seulement quelques jours entre la piqûre de tique et la survenue d’une neuroborréliose ne correspond pas. Il a été renoncé à une tentative de traitement par IPP sans évaluation diagnostique supplémentaire du fait de très fortes douleurs, d’absence de symptômes de reflux (pas de remontée acide) et de la suspicion d’une œsophagite d’origine médicamenteuse. L’œsophago-gastro-duodénoscopie a finalement confirmé la présence d’une œsophagite érosive segmentaire dans l’œsophage distal (fig. 1). Une gastrite àHelicobacter pylori a en outre été trouvée.
+
+Figure 1: Vue endoscopique d’une œsophagite érosive ­segmentaire avec ulcère à dépôts fibrineux touchant toute la circonférence de l’œsophage, située à env. 30–34 cm de la rangée des dents.
+
+Question 3: Lequel des médicaments ci-dessous est le plus souvent associé à une œsophagite médicamenteuse toxique (OMT) dans la littérature?
+
+
+a) Doxycycline
+
+b) Amoxicilline
+
+c) Prednisone
+
+d) Ibuprofène
+
+e) Dragées de potassium
+
+L’œsophagite médicamenteuse toxique (OMT) est un effet indésirable médicamenteux connu. Elle est induite par un grand nombre de médicaments et peut provoquer des hémorragies, des perforations ou des sténoses œsophagiennes [1]. Dans la littérature, le ­médicament le plus souvent associé à l’OMT est la doxycycline [1–3]. Toutefois, tout médicament peut ­potentiellement provoquer une OMT. Les groupes de médicaments listés dans le tableau 1 sont ceux qui sont décrits en tant que déclencheurs les plus fréquents de l’OMT dans la littérature [3].
+
+Tableau 1: Médicaments associés à l’OMT (liste non exhaustive, modifié d’après [5]).
+Antibiotiques (tétracyclines, quinolones, lincosamides, ­nitroimidazoles)
+Anti-androgènes
+Bisphosphonates
+Anti-inflammatoires non stéroïdiens (AINS)
+Iode 131 radioactif
+Antiépileptiques
+Corticostéroïdes
+Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)
+Anticoagulants
+Médicaments antituberculeux
+Préparations de fer et de calcium
+
+Conformément au résultat de l’endoscopie et de l’anamnèse, le diagnostic d’œsophagite érosive induite par la doxycycline a pu être posé chez cette patiente. Pour traiter les symptômes, un traitement conséquent par IPP a été établi, et un traitement d’éradication a été initié pour l’infection à Helicobacter pylori (clarithromycine 2 × 500 mg et amoxicilline 2 × 1 g). Lors de l’évaluation clinique de l’évolution après quatre semaines, les symptômes avaient déjà nettement régressé et le traitement a pu être interrompu. Deux mois après les premiers symptômes, la patiente ne présentait plus aucun symptôme. Une gastroscopie de suivi a toutefois été recommandée à la patiente.
+
+Question 4: Parmi les propositions relatives à l’OMT ci-dessous, lesquelles sont correctes?
+
+
+a) Une action toxique directe de la surface des comprimés sur la muqueuse de l’œsophage est l’explication la plus probable.
+
+b) Les hommes sont plus souvent touchés que les femmes.
+
+c) En raison de la motilité œsophagienne diminuant avec l’âge, l’OMT est plus fréquente chez les patients âgés.
+
+d) Les premiers symptômes surviennent seulement après la prise répétée de comprimés (plusieurs jours après la première prise).
+
+e) La survenue d’un érythème migrant est une première manifestation fréquente de l’OMT.
+
+Le pathomécanisme de l’OMT n’est pas élucidé. L’hypothèse la plus vraisemblable serait une action toxique directe de la surface des comprimés sur la muqueuse de l’œsophage en cas de durée de contact prolongée. Dans le cas de la doxycycline, il s’agit le plus vraisemblablement d’une brûlure locale induite par le faible pH du comprimé [2].
+
+Une étude de cas publiée en 2014, qui a porté sur 48 patients en Turquie, a montré que les femmes sont plus souvent touchées par l’OMT que les hommes. Les personnes jeunes (20–40 ans) ont tendance à être plus souvent touchées, et les symptômes peuvent survenir quelques heures à jours après la première prise; tous ces facteurs s’appliquent également à notre cas [1]. Les symptômes typiques, listés dans l’ordre de leur fréquence, sont l’odynophagie, les douleurs rétrosternales, la dysphagie, les douleurs épigastriques, ainsi que l’hématémèse et le méléna.
+
+Question 5: Quelles mesures se sont avérées réduire le plus fortement le risque de survenue d’une OMT?
+
+
+a) Comédication fixe par IPP après la prise de médicaments associés à l’OMT
+
+b) Prise des comprimés >30 minutes avant le coucher, avec une quantité de liquide suffisante
+
+c) Renoncer aux médicaments sous forme de capsule
+
+d) Prendre les médicaments associés à l’OMT avec du yaourt/lait en raison de l’effet basique des produits laitiers
+
+e) Renoncer aux médicaments associés à l’OMT en cas de rétrécissements ou de troubles de la motilité œsophagienne préexistants
+
+Les facteurs de risque de développement d’une OMT (tab. 2) peuvent être répartis en trois groupes: premièrement, la forme du médicament joue un rôle. Ainsi, il a pu être montré que les médicaments sous forme de capsule conduisent plus souvent à une OMT que les médicaments sous forme de comprimé, étant donné que ces derniers adhèrent moins bien à la muqueuse de l’œsophage [4]. Le deuxième facteur de risque réside dans les propriétés anatomiques de l’œsophage, par exemple les rétrécissements préexistants ou les troubles de la motilité [4]. Le dernier facteur, le plus important et de surcroît influençable, est le rôle joué par le médecin et le patient (tab. 2). Il est admis que jusqu’à 80% des OMT peuvent être prévenues si le patient est instruit correctement quant à la prise des médicaments.
+
+Tableau 2: Facteurs de risque de développement d’une OMT.
+Non influençables	Influençables
+Hypomotilité œsophagienne	Consommation d’une quantité suffisante de liquide
+Galénique du médicament	Prise avec le corps en position verticale
+Rétrécissements physiologiques et acquis de l’œsophage	Prise au moins 30 minutes avant le coucher
+Achalasie	 
+
+Il convient de veiller à boire une quantité de liquide suffisante pendant et après la prise du comprimé (au minimum 100 ml pendant et 100 ml après) et le patient doit prendre le comprimé en se tenant droit, environ 30 minutes avant le coucher [1–4]. Si ces règles de conduite simples sont observées, le risque d’OMT peut être fortement réduit. Ces mesures n’offrent toutefois pas une protection complète. Dans le cas décrit ici, la patiente a été instruite quant à la quantité de liquide suffisante mais pas quant à la prise au moins 30 minutes avant le coucher.
+
+Discussion
+
+Le risque de développement d’une OMT peut être considérablement réduit en observant des règles de conduite simples (quantité de liquide suffisante pendant et après la prise du comprimé, prise avec le corps en position verticale environ 30 minutes avant le coucher). Dans la plupart des cas, les patients obtiennent une guérison sans complications après l’interruption du médicament et le traitement symptomatique (analgésie et IPP).
+
+La doxycycline compte parmi les déclencheurs les plus fréquents de l’OMT; la liste des autres médicaments est toutefois longue. La mesure dans laquelle la gastrite à Helicobacter pylori a aggravé les troubles de notre patiente reste incertaine. Le résultat endoscopique avec ligne Z normale plaide toutefois clairement en faveur d’un ulcère médicamenteux-toxique et contre un reflux gastro-œsophagien, même si l’ulcère induit par comprimés est habituellement plutôt retrouvé au milieu de l’œsophage. L’action des IPP, notamment en cas de lésions au milieu de l’œsophage, est évaluée comme étant seulement faible. L’examen de référence pour le diagnostic, le traitement des complications et l’évaluation de l’évolution de l’OMT est l’examen endoscopique.
+
+Réponses
+
+
+Question 1: c. Question 2: d. Question 3: a. Question 4: a. Question 5: b.

@@ -1,0 +1,116 @@
+T1	procedure 149 164	prise en charge
+T2	procedure 237 248	colectomie 
+T3	procedure 265 277	hépatectomie
+T4	disorder 252 259	 cancer
+T5	procedure 281 295	chimiothérapie
+T6	procedure 298 305	traitée
+T7	disorder 311 314	HTA
+T8	disorder 320 338	troubles digestifs
+T9	disorder 362 383	hypergammaglobulinémi
+T10	disorder 480 488	glaucome
+T11	disorder 441 467	problèmes ophtalmologiques
+T12	disorder 498 517	nfections urinaires
+T13	procedure 517 526	 traitées
+T14	drugs 573 583	quinolones
+T15	procedure 601 632	9 prescriptions d’antibiotiques
+T16	drugs 702 710	Noroxine
+T17	drugs 717 725	’Apurone
+T18	drugs 733 741	Logiflox
+T19	disorder 749 759	infections
+T20	procedure 797 802	ECBU 
+T21	labvalue 826 838	Colibacilles
+T22	procedure 846 866	 traitement habituel
+T23	drugs 905 915	Lasilix 20
+T24	drugs 921 937	Lopressor 200 LP
+T25	drugs 944 951	Temesta
+T26	drugs 957 968	Zyloric 300
+T27	drugs 975 986	Domperidone
+T28	drugs 995 1018	collyres béta bloquants
+T29	disorder 1075 1084	diarrhées
+T30	disorder 1088 1100	vomissements
+T31	procedure 1111 1116	bilan
+T32	procedure 1118 1125	la CRP 
+T33	labvalue 1131 1139	49 mg/l 
+T34	procedure 1145 1155	créatinine
+T35	labvalue 1158 1165	22 mg/l
+T36	disorder 1184 1199	déshydratation 
+T37	disorder 1204 1216	hyponatrémie
+T38	procedure 1244 1274	surveillance de la créatinine 
+T39	procedure 1360 1384	dosages de la créatinine
+T40	labvalue 1401 1405	 21 
+T41	labvalue 1408 1415	18 mg/l
+T42	disorder 1598 1620	brûlures très intenses
+T43	procedure 1680 1690	 prescrit 
+T44	drugs 1692 1700	 Précyst
+T45	drugs 1709 1722	Colpotrophine
+T46	procedure 1750 1767	bilan cytologique
+T47	disorder 1785 1808	cytologie inflammatoire
+T48	procedure 1815 1835	échographie vésicale
+T49	procedure 1858 1863	 ECBU
+T50	procedure 1996 2000	ECBU
+T51	labvalue 2012 2036	leucocyturie à 1123 /mm3
+T52	labvalue 2055 2071	Colibacilles 107
+T53	disorder 2089 2102	très algique 
+T54	disorder 2111 2142	brûlures mictionnelles intenses
+T55	drugs 2271 2293	 ceftfazidine - Fortum
+T56	drugs 2301 2324	ceftriaxone - Rocéphine
+T57	drugs 2332 2349	céfixime - Oroken
+T58	drugs 2357 2366	fosfocine
+T59	drugs 2376 2387	aminosides 
+T60	drugs 2389 2412	amikacine et gentalline
+T61	drugs 2467 2496	 Gentamycine® IM 160 mg/jour,
+T62	procedure 2501 2519	injection par jour
+T63	disorder 2708 2758	infection urinaire à colibacilles multi résistants
+T64	procedure 2858 2869	cystoscopie
+T65	procedure 2903 2915	consultation
+T66	procedure 3428 3437	remplacé 
+T67	drugs 3440 3451	Gentamycine
+T68	drugs 3462 3507	Oroken® (2 comprimés par jour pendant 8 jours
+T69	procedure 3514 3537	ordonnance est délivrée
+T70	procedure 3775 3785	ordonnance
+T71	drugs 3789 3800	Gentamycine
+T72	disorder 4087 4094	 flushs
+T73	disorder 4099 4108	céphalées
+T74	disorder 4113 4147	majoration de ses troubles visuels
+T75	disorder 4152 4162	diarrhées 
+T76	disorder 4166 4180	 vomissements 
+T77	disorder 4188 4197	vertiges 
+T78	disorder 4202 4212	acouphènes
+T79	procedure 4303 4328	contrôle de la créatinine
+T80	labvalue 4354 4362	29 mg/l 
+T81	procedure 4371 4373	VS
+T82	labvalue 4392 4418	100 mm à la première heure
+T83	disorder 4483 4529	syndrome vestibulaire bilatéral avec aréflexie
+T84	disorder 4536 4561	ggravation de sa surdité 
+T85	disorder 4580 4638	troubles visuels avec amputation récente d’un champ visuel
+T86	disorder 4643 4678	majoration de l’insuffisance rénale
+T87	disorder 4751 4770	insuffisance rénale
+T88	disorder 4794 4828	néphrite interstitielle chronique 
+T89	disorder 4877 4897	néphro-angiosclérose
+T90	disorder 4909 4912	HTA
+T91	disorder 4971 4994	syndrome inflammatoire 
+T92	disorder 5017 5035	maladie de Horton 
+T93	disorder 5042 5074	pseudo polyarthrite rhizomélique
+T94	disorder 5104 5119	cancer digestif
+T95	procedure 5156 5162	bilan 
+T96	disorder 5179 5201	syndrome inflammatoire
+T97	disorder 5318 5346	ltération de l’état général 
+T98	disorder 5351 5371	anémie inflammatoire
+T99	disorder 5381 5401	’insuffisance rénale
+T100	disorder 5410 5442	saignement récent sur œsophagite
+T101	disorder 5475 5503	syndrome de Zollinger Elison
+T102	disorder 5526 5556	 embolie pulmonaire bilatérale
+T103	procedure 5605 5621	fonction rénale 
+T104	procedure 5653 5664	créatinine 
+T105	disorder 5724 5757	l’atteinte vestibulaire immédiate
+T106	disorder 5869 5884	perte auditive 
+T107	disorder 5808 5819	instabilité
+T108	disorder 5820 5828	vertiges
+T109	disorder 5830 5853	troubles de l’équilibre
+T110	disorder 5884 5906	(surdité de perception
+T111	procedure 5968 5992	Un appareillage auditif 
+T112	disorder 6014 6036	atteinte vestibulaire 
+T113	disorder 6106 6139	 baisse de vision due au glaucome
+T114	disorder 6173 6190	nombreuses chutes
+T115	disorder 6250 6261	’hématomes 
+T116	disorder 6598 6617	moral s’est dégradé

@@ -1,0 +1,38 @@
+T1	disorder 95 108	hydrocéphalie
+T2	procedure 190 216	traitement antiépileptique
+T3	drugs 218 226	Dépakine
+T4	procedure 269 290	dosage de dépakinémie
+T5	drugs 361 366	Tareg
+T6	drugs 371 377	Soprol
+T7	disorder 388 411	hypertension artérielle
+T8	disorder 690 707	crise d’épilepsie
+T9	disorder 463 471	malaise 
+T10	disorder 1270 1280	convulser 
+T11	procedure 2122 2132	perfusion 
+T12	drugs 2135 2148	sérum glucosé
+T13	procedure 2635 2654	injecte une ampoule
+T14	drugs 2658 2666	Rivotril
+T15	disorder 3270 3281	inconscient
+T16	procedure 3283 3303	score de Glasgow à 6
+T17	disorder 3318 3351	pupilles symétriques et réactives
+T18	procedure 3353 3355	PA
+T19	labvalue 3357 3365	 80 mmHg
+T20	procedure 3367 3386	Fréquence cardiaque
+T21	labvalue 3388 3395	134/min
+T22	procedure 3397 3409	Désaturation
+T23	labvalue 3412 3416	87% 
+T24	procedure 3432 3452	Température centrale
+T25	labvalue 3455 3462	41, 1°C
+T26	procedure 3476 3492	deux injections 
+T27	drugs 3495 3501	Valium
+T28	disorder 3503 3529	 les convulsions s’arrêten
+T29	procedure 3598 3604	intubé
+T30	procedure 3608 3615	ventilé
+T31	procedure 3633 3650	 scanner cérébral
+T32	disorder 3757 3792	défaillance multi-viscérale majeure
+T33	disorder 3851 3870	acidose métabolique
+T34	disorder 3872 3891	insuffisance rénale
+T35	disorder 3893 3911	cytolyse hépatique
+T36	disorder 3914 3946	oagulation vasculaire disséminée
+T37	disorder 3954 3961	décède 
+T38	irrelevant 3973 4151;4153 4203	Plainte pénale pour homicide involontaire déposée par l’épouse du patient (2005). Classement de la plainte sans suite, après enquête de police, par le Procureur de la République.  Saisine de la CRCI par l’épouse du patient (2009).

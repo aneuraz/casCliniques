@@ -1,0 +1,91 @@
+T1	irrelevant 12395 12405;12407 13155	Discussion  La vasculite à IgA est une vasculite systémique liée aux dépôts de complexes immuns dans les petits vaisseaux contenant la plupart du temps des IgA mais également du C3 et/ou du fibrinogène. Elle est également appelée vasculite de Henoch-Schönlein. Elle touche principalement les enfants mais également les adultes avec une incidence d’environ 45/1 000 000. Classiquement, cette pathologie se caractérise par l’association d’atteinte ­cutanée, gastro-intestinale, articulaire et rénale. A part l’atteinte cutanée typique, l’atteinte digestive est la plus fréquente car elle est présente dans environ 85% des patients adultes.Environ un tiers des patients atteints de cette vasculite développent une néphropathie avec protéinurie et micro-hématurie.
+T1	irrelevant 13157 13430;13432 13885	Le facteur déclenchant reste souvent inconnu. Il peut être infectieux, viral ou bactérien avec plus souvent une infection à streptocoque du groupe A (dans la ­population pédiatrique particulièrement). Le facteur déclenchant peut également être oncologique ou médicamenteux.  La durée classique des symptômes de la vasculite à IgA est d’environ quatre semaines mais peut varier entre quelques semaines et quelques mois. Malgré un traitement adapté, environ 10% des cas évoluent vers une forme chronique. Chez l’adulte, le facteur pronostique déterminant est la sévérité de l’atteinte rénale à long terme. Celle-ci n’est pas corrélée avec la sévérité de la présentation initiale et l’absence d’ IgA est un bon facteur pronostique.
+T1	irrelevant 13887 13895;13898 13957	Réponses   Question 1: c. Question 2: e. Question 3: e. Question 4: a.
+T1	irrelevant 13958 13972;13974 14070	Question 5: d.  L’annexe est disponible en tant que document séparé sur ­https://doi.org/10.4414/fms.2019.08269.
+T2	irrelevant 11047 11114;11117 11144	Question 5: Quel traitement proposeriez-vous en première intention?   a) Traitement symptomatique
+T2	irrelevant 11146 11159;11161 11182	b) Colchicine  c) Hydroxychloroquine
+T2	irrelevant 11184 11197;11199 11214	d) Prednisone  e) Azathioprine
+T2	irrelevant 11216 11464	Il n’y a pas de recommandations précises concernant le traitement de la vasculite de Henoch-Schönlein. La plupart des données d’études randomisées ont été réalisées sur des populations pédiatriques dont les résultats ont été extrapolés aux adultes.
+T3	irrelevant 9323 9514;9515 9586	Tableau 2: Critères diagnostiques de la vasculite à IgA (Purpura de Henoch-Schönlein) de la «Rheumatology European Society». Diagnostic si: critère majeur et un ou plusieurs critères mineurs. Critère majeur	Purpura ou pétéchies prédominants aux membres inférieurs
+T3	irrelevant 9587 9624;9625 9659	Critères mineurs	Douleurs abdominales Présence d’IgA à l’histopathologie
+T3	irrelevant 9660 9684;9685 9700	Arthrites ou arthralgies Atteinte rénale
+T4	irrelevant 8678 8741;8744 8781	Question 4: A ce stade quel diagnostic paraît le plus probable?   a) Vasculite à IgA (Henoch-Schönlein)
+T4	irrelevant 8783 8821;8823 8842	b) Lupus érythémateux systémique (LES)  c) Cryoglobulinémie
+T4	irrelevant 8844 8884;8886 8940	d) Polyangéite microscopique (micro-PAN)  e) Granulomatose avec polyangéite (maladie de Wegener)
+T5	irrelevant 6780 6847;6849 7194	En dosant le C3 et le C4 plusieurs cas de la figure sont possibles:  a) En cas de maladie inflammatoire avec C3 et C4 normaux, le dosage du CH50, marqueur de la fonction du complément, ­pourrait se révéler utile. En effet, un taux de CH50 dans la norme prouve un bon fonctionnement de la voie classique et ­commune du complément. Des C3 et C4 normaux et un CH50 abaissé suggèrent un déficit dans la voie classique.
+T5	irrelevant 7196 7562;7564 8067	b) Un C4 seul abaissé indique une activation de la voie classique du complément soit par le biais des complexes immuns ou par des débris apoptotiques, dans ce cas, une cryoglobulinémie ou un LES (Lupus érythémateux systémique) doivent être suspectés. Si l’abaissement du C4 est associé à un abaissement du C1 INH, cela peut être le signe d’un angioedème héréditaire.  c) Un C3 seul abaissé indique une activation de la voie alternative ou un déficit d’un de ces composants souvent secondaires à la présence d’auto-anticorps contre ces éléments. Dans ce cas, des auto-anticorps classiques (anti-C3NeF, anti-C4NeF, anti-FH) peuvent être recherchés. La positivité d’un ou de plusieurs de ces auto-anticorps parle d’un déficit en C3 (primaire ou secondaire). Un déficit isolé de C3 est également retrouvé en cas d’infections, ou de certaines atteintes rénales immunologiques.
+T5	irrelevant 8069 8195;8197 8375	d) Les deux peuvent être abaissés, ce qui est généralement le cas dans les atteintes infectieuses ou autoimmunes telle un LES.  FH: facteur H du complément; FI: facteur I du complément; FB: facteur B du complément; C3NeF: C3 «nephritic factor»; C4NeF: C4 «nephritic factor»; C1 INH: C1 estérase inhibiteur.
+T6	irrelevant 5361 5461;5464 5496	Question 3: Dans quelle situation clinique le dosage du complément n’est pas particulièrement utile?   a) Suspicion de cryoglobulinémie
+T6	irrelevant 5498 5532;5534 5583	b) Suspicion de néphropathie à IgA  c) Suivi d’un lupus érythémateux systémique (LES)
+T6	irrelevant 5585 5610;5612 5646	d) Angioedèmes récurrents  e) Suspicion d’un myélome multiple
+T7	irrelevant 3159 3229;3230 3343	Tableau 1: Diagnostic différentiel d’une vasculite ­leucocytoclasique. Causes infectieuses(20%)	StreptococcusStaphylocoque aureusChlamydiaNeisseriaMycobacteriumHépatite B Hépatite CVIH
+T7	irrelevant 3344 3511;3512 3616	Maladies systémiques(20%)	Lupus érythémateux systémique (LES)DermatomyositeSyndrome de SjögrenMaladie de BehçetArthrite rhumatoïdeMaladies inflammatoires ­intestinales Médicaments(15%)	AINSPénicillines ErythromycineClindamycineVancomycine B-bloquants Furosémide Amiodarone
+T7	irrelevant 3617 3692	Néoplasies(5%)	Néoplasies hématologiques Tumeurs solides:– Poumon – Pancréa
+T8	irrelevant 2739 2833;2836 2848	Question 2: Quelle étiologie ne fait pas partie du diagnostic différentiel de cette vasculite?   a) Infection
+T8	irrelevant 2850 2876;2878 2890	b) Toxicité médicamenteuse  c) Néoplasie
+T8	irrelevant 2892 2907;2909 2927	d) Connectivite  e) Artériosclérose
+T9	irrelevant 696 751;754 789	Question 1: A ce stade, quel examen est le moins utile?   a) Formule sanguine simple et crase
+T9	irrelevant 791 822;824 841	b) Fonction hépatique et rénale  c) Cryoglobulines
+T9	irrelevant 843 897;899 919	d) Sérologie virus de l’immunodéficience humaine (VIH)  e) Sédiment urinaire
+T10	disorder 66 73	purpura
+T11	disorder 139 181	infection des voies aériennes supérieures.
+T12	disorder 213 239	exanthème para-in­fectieux
+T13	procedure 255 297	traitement anti-inflammatoire est prescrit
+T14	disorder 353 372	récidive du purpura
+T15	disorder 931 938	purpura
+T16	procedure 950 958	anamnèse
+T17	procedure 1059 1075	bilan biologique
+T18	procedure 1090 1107	 formule sanguine
+T19	procedure 1113 1118	crase
+T20	procedure 1125 1145	onctions hépatiques 
+T21	procedure 1162 1179	sédiment urinaire
+T22	procedure 1256 1268	hémofecatest
+T23	disorder 1409 1416	purpura
+T24	irrelevant 1548 1637;1639 1714	Figure 2: Classification des purpuras en fonction du nombre de plaquettes et de la crase.  TP: taux de prothrombine; aPTT: temps de thromboplastine partielle activée.
+T25	procedure 1818 1844	 dosage des cryoglobulines
+T26	disorder 1915 1947	anémie normocytaire normochrome 
+T27	procedure 1952 1963	hémoglobine
+T28	labvalue 1966 1973	103 G/l
+T29	procedure 1998 2023	 vitesse de sédimentation
+T30	labvalue 2026 2033	77 mm/h
+T31	procedure 2056 2069	thrombocytes 
+T32	labvalue 2076 2084	330 G/l 
+T33	disorder 2267 2285	purpura vasculaire
+T34	procedure 2328 2344	biopsie cutanée 
+T35	disorder 2412 2473	infiltration granulocytaire périvasculaire et extravasculaire
+T36	procedure 2576 2591	’immunofixation
+T37	disorder 2709 2736	vasculite leucocytoclasique
+T38	procedure 4387 4437	tomographie par ordinateur (CT) thoraco-abdominal 
+T39	disorder 4569 4600	rectite associée à une jéjunite
+T40	procedure 4716 4727	rectoscopie
+T41	disorder 4744 4756	deux ulcères
+T42	procedure 4783 4790	biopsie
+T43	procedure 4856 4884	Le sédiment et spot urinaire
+T44	procedure 4898 4909	protéinurie
+T45	labvalue 4912 4921	1,37 g/l 
+T46	procedure 4992 5017	 filtration glomérulaire 
+T47	labvalue 5035 5051	4 ml/min/1,73 m2
+T48	procedure 5057 5076	bilan immunologique
+T49	procedure 5083 5105	acteur rhumatoïde (FR)
+T50	procedure 5107 5137	anticorps anti-nucléaires (ANA
+T51	procedure 5140 5193	anticorps anti-cytoplasmiques des neutrophiles (ANCA)
+T52	procedure 5195 5203	anti-MPO
+T53	procedure 5206 5213	nti-PR3
+T54	procedure 5217 5231	cryoglobulines
+T55	labvalue 5258 5267	négatifs.
+T56	procedure 5272 5328	dosage des éléments centraux de la cascade du complément
+T57	procedure 8400 8408	C3 et C4
+T58	labvalue 8419 8432	dans la norme
+T59	disorder 8491 8499	purpura 
+T60	disorder 8506 8518	arthralgies 
+T61	disorder 8556 8580	rectorragies importantes
+T62	disorder 8974 9023	purpura palpable ­généralisé avec des arthralgies
+T63	disorder 9029 9049	hémorragie digestive
+T64	disorder 9076 9088	protéinurie 
+T65	disorder 9095 9123	vasculite leucocytoclasique 
+T66	procedure 9167 9188	 bilan immunologique 
+T67	labvalue 9188 9195	négatif
+T68	disorder 9265 9310	vasculite à IgA (purpura de Henoch-Schönlein)
+T69	procedure 11978 12007	corticothérapie à forte dose 
+T70	drugs 12011 12031	prednisone 1 mg/kg/j
+T71	procedure 12258 12311	doses de prednisone ont été progressivement diminuées

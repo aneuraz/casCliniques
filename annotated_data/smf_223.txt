@@ -1,0 +1,44 @@
+Contexte
+
+Nous présentons le cas d’une patiente âgée de 81 ans qui s’est présentée dans notre service d’urgences en raison d’une faiblesse progressive dans les jambes à prédominance proximale et de douleurs du rachis lombaire de survenue soudaine.
+
+Rapport de cas
+Anamnèse
+
+Le diagnostic de myasthénie avait été posé il y a 2 mois au sein du département de neurologie d’une clinique externe. Là-bas, la patiente avait développé une faiblesse musculaire généralisée, une dysphagie et une dyspnée importante avec respiration paradoxale suite à une chute ayant entraîné un léger traumatisme crânio-cérébral. Le score de myasthénie (Besinger) à l’admission était de 14/21. Les autoanticorps anti-récepteurs de l’acétylcholine étaient élevés, les anticorps anti-titine légèrement positifs. Dans le cadre de la stimulation nerveuse répétée du nerf accessoire des deux côtés, un décrément d’amplitude significatif (<10%) avec épuisement post-tétanique significatif a été enregistré. Un thymome n’a pas pu être mis en évidence à la tomodensitométrie. Le traitement médicamenteux a commencé avec la prise de 240 mg de pyridostigmine, 50 mg d’azathioprine et 20 mg de prednisolone par jour. Par la suite, la dose de prednisolone a été augmentée chaque semaine si bien qu’après 2 semaines, la patiente en prenait 40 mg par jour. Sous ce traitement et après un séjour stationnaire dans un service de neuroréhabilitation, une diminution des symptômes myasthéniques a pu être atteinte. La patiente est rentrée chez elle avec un traitement quotidien comprenant 160 mg de pyridostigmine, 150 mg d’azathioprine et 40 mg de prednisolone.
+
+Statut et résultats
+
+A l’admission dans notre clinique médicale, la patiente présentait des signes cliniques de syndrome cushingoïde avec visage lunaire, joues rouges et télangiectasies (fig. 1).
+
+Figure 1: La patiente après admission, avec visage lunaire et pléthore (publication réalisée avec l’accord de la patiente).
+
+Sur les avant-bras, plusieurs hématomes et une légère atrophie cutanée ont été observés. Les jambes présentaient un gonflement œdémateux. Une faiblesse des muscles de la hanche et des jambes a été observée à l’examen neurologique, rendant impossible même un court soulèvement des jambes. En outre, la patiente a indiqué souffrir de douleurs dans les cuisses. Elle ne présentait ni symptômes oculaires ni symptômes bulbaires. Le test de Simpson était négatif. Les analyses de laboratoire ont montré un taux de créatine kinase dans la norme.
+
+L’examen électromyographique (EMG) n’a pas révélé d’activité spontanée pathologique et concernant l’activité volontaire, avant tout des potentiels myopathiques de faible amplitude et un taux accru de potentiels polyphasiques ont été trouvés. L’IRM a révélé une récente fracture de la 3e vertèbre lombaire (classification AO: A1.3) avec une atteinte minime de la surface postérieure du corps vertébral et une légère sténose du canal rachidien sans compression des structures nerveuses.
+
+Diagnostic et traitement
+
+Le complexe de symptômes avec une faiblesse dans les jambes à prédominance proximale et une myalgie des muscles de la hanche et des jambes, l’absence d’augmentation de la créatine-kinase ainsi que des altérations myopathiques à l’EMG, sous corticothérapie à haute dose a permis de poser le diagnostic d’une myopathie stéroïdienne. Celle-ci constitue une complication majeure du traitement des maladies neuromusculaires par un glucocorticoïde. Il est également possible que l’administration de cortisone à haute dose ait contribué à la fracture du corps vertébral. Nous avons commencé par réduire la prednisolone à la dose de 30 mg par jour. Nous sommes ensuite passés à un traitement par immunoglobuline intraveineuse, suite à quoi la dose de prednisolone a à nouveau pu être diminuée.
+
+Ultérieurement, une nouvelle IRM ainsi qu’une biopsie musculaire ont été conduites. L’IRM a révélé une atrophie lipomateuse des muscles des cuisses des deux côtés et un léger œdème des muscles adducteurs avec une absorption accrue du produit de contraste en tant que signe non spécifique d’une myosite. Les résultats de la biopsie musculaire correspondaient bien à une myopathie stéroïdienne et ont confirmé le diagnostic.
+
+Discussion
+
+Ce cas montre une myopathie stéroïdienne telle qu’elle peut survenir en tant que complication après une prise de stéroïdes de 2 mois suite au nouveau diagnostic d’une myasthénie. Le diagnostic initial de myasthénie a été posé sur la base des symptômes oro-pharyngés survenus après un léger traumatisme crânio-cérébral. La relation entre un traumatisme et le début consécutif d’une myasthénie a été décrite dans des rapports de cas isolés, dans le cadre desquels les patients ont développé des symptômes de myasthénie avec des troubles de la déglutition et de la respiration en l’espace de quelques minutes à quelques jours après le traumatisme ou la chute [1, 2]. Il n’est toutefois pas possible de déterminer définitivement de façon rétrospective s’il existe une relation de cause à effet entre le traumatisme et le début de la myasthénie, car une chute peut également être la conséquence d’une myasthénie déjà présente ou débutante.
+
+La myasthénie a été traitée conformément aux lignes directrices par un inhibiteur de l’acétylcholinestérase, un immunosuppresseur (azathioprine) et de la prednisolone. L’administration d’un stéroïde à haute dose a conduit au développement d’une faiblesse musculaire dans les jambes à prédominance proximale déjà après 2 mois de traitement. La faiblesse musculaire progressive dans la région des hanches accompagnée d’une amélioration concomitante des symptômes de la myasthénie est caractéristique de cette myopathie induite par stéroïdes. Dans ce contexte, il est souvent difficile de distinguer la myopathie stéroïdienne des symptômes neurologiques de la maladie sous-jacente et de la détecter. Le développement d’une myopathie stéroïdienne est un processus progressif et il convient de la mettre en rapport avec la survenue d’un syndrome cushingoïde [3]. Elle touche plus fréquemment les membres inférieurs que les membres supérieurs et se manifeste de façon plus marquée au niveau des muscles des hanches [4]. La pathogenèse n’est pas tout à fait élucidée. Un effet catabolique sur le métabolisme protéique des cellules musculaires induit par un trouble de la synthèse d’ARN est supposé [4, 5].
+
+Il faut souligner l’absence d’activité spontanée pathologique à l’EMG ainsi que le taux sérique de créatine-­kinase typiquement normal. Sur la base de ces facteurs, la myopathie stéroïdienne peut être distinguée des autres myopathies, par ex. celles induites par les statines ou par les fibrates [5]. Dans certains cas, comme dans le cas présent, les symptômes peuvent survenir déjà après quelques semaines de traitement. Les douleurs dans les cuisses indiquées par la patiente sont toutefois plutôt atypiques du diagnostic de myopathie induite par stéroïdes; elles ne surviennent que dans de rares cas. Ces dernières peuvent également être en partie causées par la fracture du corps vertébral.
+
+La réduction de la dose de prednisolone parallèlement à la mise en place de l’administration d’immunoglobuline intraveineuse ainsi que la poursuite de l’administration d’azathioprine ont conduit à une amélioration de la faiblesse dans les jambes, sans réapparition des symptômes de myasthénie.
+
+L’essentiel pour la pratique
+
+• La myopathie stéroïdienne est une complication majeure du traitement par glucocorticoïdes à haute dose pouvant survenir déjà après quelques semaines de traitement.
+
+• Une faiblesse pouvant aller jusqu’à une atrophie des muscles des hanches ainsi que des signes cliniques d’un hypercortisolisme sont caractéristiques.
+
+• Notamment dans le cadre du traitement par cortisone des maladies neuromusculaires, la myopathie stéroïdienne est masquée par les symptômes de la maladie sous-jacente et ne peut ainsi pas être détectée en temps voulu. Ici, un diagnostic neurologique précis ainsi que des examens diag­nostiques approfondis sont nécessaires.
+
+• L’absence d’activité spontanée pathologique et le taux sérique de créatinine-kinase normal permettent de distinguer la myopathie induite par stéroïdes des autres myopathies.

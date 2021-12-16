@@ -1,0 +1,125 @@
+Description du cas
+
+Il s’agit d’une patiente de 62 ans connue pour un syndrome de Widal (asthme bronchique, polypose nasale, intolérance à l’acide acétylsalicylique). L’asthme de la patiente est difficilement contrôlable, nécessitant multiples traitements de corticostéroïdes sur les dernières années. Une intervention chirurgicale de la polypose nasale, quelques mois avant son admission, met en évidence une éosinophilie dans le prélèvement de la muqueuse nasale.
+
+Deux mois après l’intervention la patiente présente une baisse de l’état général avec une fatigue inha­bituelle nécessitant plusieurs siestes par jour et des ­paresthésies dans les membres supérieurs. Après un réveil d’une sieste la patiente présente une désorientation spatiale, associée à amnésie antérograde (une incapacité de retenir de nouvelles informations, questions répétitives) et à une amnésie rétrograde portant sur les 4–6 derniers mois. Dans ce contexte, elle arrive aux urgences du CHUV avec la suspicion d’un accident vasculaire cérébral (AVC).
+
+A son arrivée, la patiente est orientée mais présente un trouble mnésique antérograde avec un rappel différé à 1/5, rétrograde, sans atteinte de la mémoire de travail. Le reste de l’examen est dans la norme. Un angio-CT scanner cérébral montre une discrète athéromatose des ­siphons carotidiens sans signes d’ischémie ou d’hémorragie et des cartes de perfusions symétriques. Le bilan biologique initial montre un syndrome inflammatoire avec une leucocytose à 16 G/l, une CRP à 50 mg/l et une VS à 60 mm/h. Les troubles mnésiques disparaissent en moins de 24 heures à l’examen au lit de la malade.
+
+Question 1: Quelle est le diagnostic différentiel le moins probable à ce stade pour le trouble mnésique d’apparition brutale?
+
+
+a) Amnésie globale transitoire
+
+b) Accident vasculaire cérébral (AVC) / accident ischémique transitoire (AIT) ischémique touchant le système limbique
+
+c) Crise épileptique
+
+d) Encéphalite limbique
+
+e) Amnésie psychogène
+
+La patiente présente un tableau d’amnésie antéro- et retrograde d’apparition soudaine pouvant évoquer une amnésie globale transitoire. Ce tableau clinique est principalement défini par l’incapacité d’enregistrer des nouvelles informations se manifestant par des questions stéréotypées et répétitives. A part le déficit mnésique transitoire, les autres fonctions supérieures sont conservées (p.e. les phasies, les praxies, l’état d’éveil). Ainsi, à la moindre atypie, ce diagnostic devient un diagnostic d’exclusion, nécessitant un bilan d’extension comme par imagerie cérébrale, de préférence par IRM et peut-être un électroencéphalogramme (EEG) et une ponction lombaire (PL), pour exclure d’autres causes d’amnésie.
+
+L’origine ischémique des troubles mnésiques sans autre anomalie au status clinique est rare mais possible lors d’AVC/AIT avec une lésion impliquant le système limbique, comme l’hippocampe, le thalamus antérieur ou le gyrus cingulaire. La présence de multiples petits AVCs ischémiques bi-hémisphériques peut également provoquer ce tableau [1].
+
+Une crise épileptique focale temporale peut se présenter sous forme de troubles mnésiques, mais ceci est souvent accompagné par d’autres manifestations (automatismes, trouble de la conscience), et parfois répétitif, et d’une durée brève.
+
+L’encéphalite limbique peut se manifester avec des troubles mnésiques, souvent en association avec des troubles de l’état de vigilance, d’une installation subaigüe, et parfois avec des crises épileptiques partielles surajoutées.
+
+Lors d’un épisode d’amnésie psychogène on observe souvent une perte de l’identité personnelle du patient ou une amnésie qui touche de façon préférentielle des épisodes vécus particulièrement douloureux.
+
+Question 2: A ce stade quel serait le bilan complémentaire le moins approprié?
+
+
+a) Surveillance clinique
+
+b) Ponction lombaire avec sérologie virale herpétique
+
+c) IRM cérébrale
+
+d) EEG
+
+e) Bilan biologique (hématologie, auto-immunité, sérologies)
+
+Au vu de la présentation atypique des troubles mnésiques associés à des troubles de l’état de vigilance, de paresthésies la précédant de plusieurs jours et de la présence d’un syndrome inflammatoire lors de l’admission, la surveillance clinique n’est pas appropriée.
+
+La patiente bénéficie donc d’une ponction lombaire à la recherche d’une encéphalite d’origine infectieuse ou auto-immune revenant dans la norme ainsi que les sérologies herpétiques dans le liquide céphalo-rachidien permettant raisonnablement d’exclure ce diagnostic.
+
+Une IRM cérébrale est effectuée montrant de multiples AVCs bi-hémisphériques (fig. 1). Une origine épileptique surajouté est évoquée, motivant un EEG montrant un foyer discrètement irritatif temporal droit, en lien avec la présence des lésions ischémiques.
+
+Figure 1: IRM cérébrale séquence de diffusion. Multiples foyers ischémiques de répartition jonctionnelle bi-hémisphérique (flèches blanches). Une source cardio-embolique ou artério-artérielle est à exclure au vu de la répartition des évènements ­ischémiques ne se limitant pas à un seul territoire vasculaire.
+
+La formule sanguine complète montre une hyper-éosinophilie à 4,82 G/l (norme 0,05–0,3 G/l) évoquant une possible maladie parasitaire sans toutefois d’arguments cliniques ou anamnestiques en faveur de cette hypothèse (voyage, nourriture crue, …) avec un bilan de ­dépistage dans les selles revenant négatif (Echinococoque, Toxocara, Anguillulose, Distomatose, Trichinellose). Une possible origine médicamenteuse (anti-inflammatoires non stéroïdiens, inhibiteurs de la pompe à protons, antibiothérapie, …) ne peut pas être retenue en absence de prise de médicaments incriminés. Une éosinophilie familiale autosomique dominante est raisonnablement exclue en absence d’antécédents familiaux. Le syndrome de Widal est également associé à une éosinophilie, toutefois habituellement à un taux plus bas; par ailleurs, une discrète éosinophilie à 1 G/l (norme 0,05–0,3 G/l) est connue et suivie de longue date en ambulatoire. L’origine néoplasique est également évoquée mais non retenue sur la base d’un frottis sanguin ne montrant pas d’éosinophiles dysplasiques ou de blastes.
+
+Question 3: Quelle serait votre prochaine investigation ayant un impact potentiel sur le pronostic de la patiente?
+
+a) Dosage des Troponine
+
+b) Doppler des vaisseaux pré-cérébraux
+
+c) Monitoring EEG
+
+d) Biopsie de moelle
+
+e) Biopsie à la recherche d’une infiltration tissulaire des ­éosinophiles
+
+Le bilan à effectuer en premier lieu est le dosage des troponines. Les éosinophiles présentent une cardio-toxicité avec effet direct sur le myocarde, constituant l’une des causes principales de morbidité et mortalité de l’hyperéosinophilie. Chez notre patiente les troponines reviennent positives à 1700 ng/l (norme <14 ng/l) et les CK sont dans la norme, motivant une échocardiographie revenant normale. Le bilan est complété par une IRM cardiaque mettant en évidence une hypokinésie inférieure avec une lésion nécrotique/inflammatoire sous-endocardique et un œdème myocardique (fig. 2).
+
+Figure 2: IRM caridaque de référence (A–C ) et de suivi (D–F ); T2 map basal short axis (A+D ), LGE basal short axis (B+E ), LGE chamber view (C+F ).A ) Elévation de la valeur T2 dans la paroi inferieur et inféro-laterale (flèche rouge) correspondant à l’œdème myo­cardique (T2 = 55–63 ms; nv <55 ms).B+C ) LGE sous-endocardique dans la même région (flèche blanche).
+Suivi IRM après ­traitement montre une régression de l’œdème ([D] normalisation des valeurs T2 sur la cartographie T2), mais persistance du réhaussement tardif du Gadolinium (E+F , flèche blanche) indiquant une fibrose.
+LGE = «late Gadolinium enhancement» (réhaussement tardif du Gadolinium).
+
+Les autres investigations n’influencent pas le pronostic de façon directe. Le Doppler des artères pré-cérébrale, dans un but étiologique de l’AVC, n’est pas indispensable dans cette situation vu la nature multifocale des AVC simultanés, et l’absence de sténose ou de plaque athéromateuse suspecte sur l’angio-scanner cérébral. L’EEG effectué initialement montre des foyers irritatifs et de ce fait la répétition d’un examen long ou nocturne n’est pas nécessaire vu l’évolution clinique favorable. La biopsie de moelle osseuse est le gold standard à la recherche d’une cause hémato­logique de l’hyper-éosinophilie; toutefois au vu de l’absence de cellules dysplasiques et de blastes dans le sang périphérique et la présence des diagnostics alternatifs, cet examen n’est pas nécessaire. La biopsie tissulaire permet d’avancer dans le diagnostic mais n’influence pas le pronostic; par ailleurs, la patiente avait bénéficié d’une intervention ORL pour sa polypose ­nasale ayant déjà mit en évidence des éosinophiles dans le prélèvement.
+
+Question 4: A ce stade, quel est le diagnostic le plus probable? AVC multifocaux en relation avec:
+
+a) Maladie de Churg-Strauss
+
+b) Maladie de Wegener
+
+c) Poliangéite microscopique
+
+d) Syndrome paranéoplasique (Syndrome de Trousseau)
+
+e) Vasculite primaire du système nerveux central
+
+Devant ce tableau une vasculite de Churg-Strauss est le plus probable au vu de l’hyperéosinophilile avec les ­antécédents d’asthme de la patiente, de la polypose ­nasale, des éosinophiles présents dans la biopsie effectué en ambulatoire et de l’atteinte cardiaque typique. La maladie de Wegener est une vascularite de petits vaisseaux avec la présence de granulomes necrotiques. La clinique consiste en une atteinte principalement ORL, pulmonaire et renale avec une atteinte plus systemique impliquant le système nerveux et cardiaque également possible toutefois plus rare. La poliangéite microscopique est une vascularite des petits vaisseaux, nécrosante et sans granulome. La clinique est caractérisée par une atteinte rénale et uro-génitale ainsi que par une ­atteinte pulmonaire. Les atteintes digestives, neurologique peripherique et dermatologique sont également possibles. Les atteintes cardiologiques sont quant à elles tres rares. Devant la présence des lésions vasculaires dans des territoires différents et des âges différents, on doit toujours évoquer une source embolique cardiaque ou aortique, un état d’hypercoagulabilité comme par exemple dans le syndrome de Trousseau en présence d’une néoplasie sous-jacente, et finalement une vasculite. Chez notre patiente, l’examen clinique et radio­logique nous permet d’exclure raisonnablement une néoplasie sous-jacente. Finalement l’atteinte de plusieurs organes (cerveau, sinus nasaux, myocarde) parle contre une vasculite isolée du système nerveux.
+
+Question 5: Quel est le traitement le plus indiqué?
+
+
+a) Traitement de corticostéroïdes seuls
+
+b) Traitement azathioprine/mycofénolate mofetil seul
+
+c) Traitement de corticostéroïdes et rituximab
+
+d) Traitement de corticostéroïdes et cyclophosphamide
+
+e) Traitement de corticostéroïdes et azathioprine/­mycofénolate mofetil
+
+La patiente bénéficie de la mise en place d’un traitement de corticostéroïdes étant la pierre angulaire dans le syndrome de Churg-Strauss. Ce traitement doit être ­associé à un traitement immunomodulateur d’épargne corticoide afin d’éviter les complications associées à une thérapie corticostéroïde à long-cours. Chez notre patiente, nous avons introduit un traitement de Cyclophosphamide sur conseil de l’équipe d’immunologie.
+
+Discussion
+
+Le syndrome de Churg-Strauss (CSS) est décrit pour la première fois en 1951 et rebaptisé granulomatose éosinophilique avec polyangéite en 2012 avec la nouvelle nomenclature de Chapel-Hill. C’est une maladie de système caractérisée par une rhinosinusite chronique, un asthme et une hyperéosinophilie habituellement à plus de 1,5 G/l [1]. Elle est classée parmi les vasculites à ANCA avec la granulomatose de Wegener et la polyangéite microscopique. Le CSS est la moins fréquente de ces trois entités avec une prévalence d’environ 11/1 000 000 d’habitants. C’est une vasculite qui touche les petits et moyens vaisseaux. La moyenne d’âge au moment du diagnostic est de 40 ans et il n’y a pas de prédominance liée au genre ou à l’ethnie [2, 3]. 
+
+L’étiologie est considérée idiopathique même si plusieurs études mettent en lumière des facteurs potentiellement déclencheurs comme des allergènes, des infections ou des médicaments. Les traitements les plus débattus étant des traitements habituellement considérés comme des épargnes de corticostéroides comme les leukotriène ou les traitements mono-clonaux anti-IgE qui sont ­plutôt reconnus actuellement comme potentiellement responsables de révéler un CSS sous-jacent. Le contexte génétique est également probablement impliqué avec certains marqueurs immuno­génétiques liés à un risque accru ou protecteur de développer un CSS. Les autres maillons impliqués dans le développement de la maladie sont les éosinophiles, les neutrophiles et les lymphocytes T et B. Les éosinophiles étant la caractéristique majeure de la physiopathologie et faisant partie dans certaines classifications des critères diagnostiques [4]. A noter que la pathologie est associée au «anti-neutrophile cytoplasmic antibody» (ANCA) principalement ­anti-myélopéroxidase (MPO). Il a été montré dans certaines études que les CSS ANCA positifs avaient un profil plutôt vasculitique et les patients ANCA négatifs plutôt un profil d’infiltration tissulaire d’éosinophiles. Cela se traduisant par des cliniques typiques de vasculite des petits vaisseaux dans les formes ANCA positives avec une polyneuropathie ou des glomérulonéphrites mais moins d’atteinte cardiaque, pulmonaire ou gastro-intestinale. A noter toutefois que les CSS sont en moyenne positifs à 40% pour les ANCA. Une autre piste possible est celle des IgG4. La liste des maladies y figurant s’allongeant rapidement avec une étude ayant montré un taux sérique d’IgG4 plus important dans les CSS actifs.
+
+Les organes les plus souvent atteints sont respectivement les poumons, la peau, le système cardiovasculaire, gastro-intestinal, rénal et le système nerveux périphérique et central. Les médiateurs et les cytokines pro-­inflammatoires sécrétées par les éosinophiles et les neutrophiles sont directement responsables des lésions tissulaires. A noter également la contribution des ANCA anti-MPO provoquant les atteintes vasculaires, ceux-ci n’étant toutefois pas obligatoires. Le plus souvent le CSS est caractérisé par trois phases cliniques avec la phase prodromale, caractérisée par un asthme (présent dans >90% des cas) dans un contexte de symptômes généraux. Puis la phase éosinophilique caractérisée par une hyperéosinophilie périphérique et enfin la phase clinique liée aux organes infiltrés par les éo­sinophiles ou touchés par la vasculite. Le diagnostic est posé sur la base de 6 critères de l’«American College of Rheumatology (1990)» avec l’asthme, l’éosinophilie à >10%, l’atteinte neuropathique, l’infiltration pulmonaire, l’anomalie des sinus paranasaux et l’infiltration eosinophilique mise en évidence sur une biopsie. La présence de quatre de ces critères permettant de poser le diagnostic.
+
+L’aspect histologique est défini par une triade, principalement mise en évidence lors d’autopsie, d’infiltration eosinophilique, vasculite nécrosante et formation de granulome [5, 6].
+
+Le pronostic du CSS est de 50% de décès à trois mois sans traitement rendant le pronostic équivalent à celui de la maladie de Wegener. Le traitement par corticostéroides a nettement amélioré le pronostic. Les facteurs de mauvais pronostic ont été identifiés dans une étude française qui a retenu 5 facteurs principaux, le «five factor score» ou «FFS». Ce score comprend la créatininémie élevée, une protéinurie à > de 1 g/24 h, atteinte gastro-intestinale, atteinte cardiaque et atteinte du système nerveux central [7].
+
+La corticothérapie à hautes doses est la pierre angulaire de la prise en charge permettant une résolution rapide de l’éosinophile. En association, à des fins d’épargne de corticostéroïdes, un traitement immunomodulateur est également introduit comme le cyclophosphamide en première intention. D’autres immunomodulateurs peuvent également être introduits en cas de résistance au traitement habituel comme l’azathioprine ou le ­mycofénolate mofetil. A noter des études recentes discutant du rituximab comme possibilité de traitement dans les formes sévères ou réfractaires, ce traitement ayant démontré son efficacité dans la maladie de Wegener et la polyangéite microscopique. Différentes études de taille réduite montrent une tendance à l’efficacité, toutefois les évidences restent modestes [8–10].
+
+L’atteinte neurologique est donc fréquente, d’autant plus que l’atteinte périphérique fait partie des critères diagnostiques. Toutefois l’atteinte centrale est, quant à elle, beaucoup plus rare avec un diagnostic différentiel ouvert entre une atteinte vasculitique au niveau cérébral versus une origine cardioembolique secondaire de l’atteinte cardiaque.
+
+Chez notre patiente, l’origine des troubles mnésiques est probablement mixte sur les AVCs multiples bi-­hémisphériques et les foyers irritatifs temporaux. La patiente bénéficie de l’introduction d’un traitement anti-épileptique (levetiracetam [Keppra®]) et de l’introduction d’un traitement de clopidogrel 75 mg 1×/jour. Le mechanisme des AVC le plus probable chez cette ­patiente est cardioembolique sur l’hypokinésie inférieure sur la lésion inflammatoire sous-endocardique. Une vasculite du SNC semblait moins probable vu la présentation neurologique aiguë et monophasique. De plus, une angiographie cérébrale est effectué et ne montre pas de signes typiques de vasculite («artères en chapelet»). Toutefois, cette examen est effectué à 1 semaine du début du traitement. Chez cette patiente, nous avons décidé de traiter la source cardiaque probable avec l’immunosuppression et un antiplaquettaire. Sous traitement, il n’y a pas de récidives cliniques ni à l’IRM cérébrale de contrôle à 3 mois. L’évolution biologique est également rapidement favorable avec une normalisation des éosinophiles après l’introduction du traitement.
+
+Réponses:
+
+
+Question 1: e. Question 2: a. Question 3: a. Question 4: a. Question 5: d.

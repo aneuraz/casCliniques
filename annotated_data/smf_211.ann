@@ -1,0 +1,40 @@
+T1	disorder 53 115	processus expansif entre l’estomac et le lobe hépatique gauche
+T2	procedure 164 186	échographie abdominale
+T3	procedure 190 260	imagerie par résonance magnétique de la partie supérieure de l’abdomen
+T4	disorder 308 343	masse gastrique à hauteur du fundus
+T5	disorder 548 555	tumeur 
+T6	procedure 471 541	Imagerie par résonance magnétique de la partie supérieure de l’abdomen
+T7	disorder 796 830	tumeur stromale gastro-intestinale
+T8	disorder 832 836	GIST
+T9	disorder 842 851	léiomyome
+T10	disorder 858 867	lymphome 
+T11	disorder 900 927	néovascularisation anormale
+T12	disorder 1149 1161	infiltration
+T13	disorder 1255 1286	lésions suspectes de métastases
+T14	procedure 1460 1472	gastroscopie
+T15	disorder 1477 1498	 masse sous-muqueuse 
+T16	disorder 1610 1614	GIST
+T17	procedure 1636 1648	Gastroscopie
+T18	disorder 1654 1684	tumeur sous-muqueuse sphérique
+T19	disorder 1708 1742	tumeur stromale gastro-intestinale
+T20	disorder 1744 1748	GIST
+T21	procedure 1876 1894	tomodensitométrie 
+T22	disorder 1946 2005	lésions suspectes de métastases au niveau thoraco-abdominal
+T23	disorder 2011 2018	tumeur 
+T24	procedure 2037 2046	réséquée 
+T25	procedure 2064 2083	voie laparoscopique
+T26	procedure 2136 2142	suture
+T27	procedure 2179 2204	examen histopathologique 
+T28	procedure 2146 2155	opération
+T29	disorder 2235 2239	GIST
+T30	disorder 2263 2270	tumeur 
+T31	disorder 2305 2324	ulcération centrale
+T32	disorder 2279 2289	schwannome
+T33	disorder 2370 2380	schwannome
+T34	labvalue 2475 2486	 négativité
+T35	procedure 2548 2570	index de prolifération
+T36	labvalue 2586 2588	1%
+T37	labvalue 2595 2604	très bas 
+T38	disorder 2649 2691	tumeur sous-muqueuse à cellules fusiformes
+T39	disorder 2980 2989	opération
+T40	irrelevant 3026 3036;3038 4053;4055 4471;4473 5075;5077 5083;5085 5492	Discussion  Les GIST sont les tumeurs mésenchymateuses digestives les plus fréquentes et elles représentent dès lors un diagnostic différentiel majeur en cas de processus expansifs de l’estomac. Le schwannome fait, quant à lui, partie des tumeurs mésenchymateuses gastro-intestinales très rares. Dans la plus vaste série publiée jusqu’à présent, englobant 51 cas de schwannome gastrique [1], le rapport d’incidence entre la GIST et le schwannome a été estimé à 45:1, avec une distribution femmes:hommes de 4:1 et un âge moyen de survenue d’env. 60 ans. Les symptômes initiaux englobaient les hémorragies gastro-intestinales avec sang occulte dans les selles, méléna ou hématémèse, ou encore les troubles épigastriques, les malaises et une perte de poids en raison d’une sténose du pylore, mais les schwannomes pouvaient également être détectés de façon totalement fortuite en raison d’autres maladies ou dans le cadre d’autres opérations. Le diamètre de la tumeur allait de 1,0 à 10,5 cm, avec une taille moyenne de 5,1 cm [1].  Le diagnostic définitif de schwannome est posé par l’examen pathologique et immunohistochimique de la préparation chirurgicale. Les schwannomes présentent une forte coloration pour la protéine S-100 et des colorations négatives pour CD117 (KIT), CD34, la desmine et SMA. Les schwannomes gastriques peuvent parfois exprimer le CD34, tandis que les marqueurs CD117 (KIT), SMA et desmine sont généralement négatifs [2].  A l’histologie, des cellules fusiformes à l’agencement variable, qui sont souvent organisées selon une ar­chitecture microtrabéculaire-microfasciculaire, sont retrouvées. Des atypies nucléaires sont possibles, mais l’activité mytotique reste faible. Au niveau péri-tumoral, on retrouve souvent un infiltrat lymphoïde en forme de taches. Les schwannomes gastriques ont un très bon pronostic [1]. Dans l’étude mentionnée ci-dessus, aucun cas de récidives ou de métastases n’a été ­décrit. Ainsi, contrairement aux GIST, la taille de la ­tumeur et le taux de mitose n’ont pas d’importance pronostique [1].  Résumé  Le schwannome fait partie des diagnostics différentiels très rares d’un processus expansif gastrique. Il est typiquement découvert de façon fortuite et il est fréquent qu’une GIST soit suspectée en premier lieu en raison de sa fréquence. Le pronostic du schwannome gastrique réséqué en marges saines est excellent [1, 3] La résection laparoscopique est dans la mesure du possible le traitement de choix [3].

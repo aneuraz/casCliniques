@@ -1,0 +1,81 @@
+T1	irrelevant 0 8;10 876	Contexte  Le COVID-19 a une évolution variable et dans les cas ­sévères, il est associé à une mortalité élevée [1]. En règle générale, on part du principe d’une évolution biphasique [2]. Au cours des sept premiers jours, il y a une ­réplication virale élevée avec atteinte pulmonaire, suite à quoi une phase hyperinflammatoire est observée [3]. Des évolutions multiphasiques, comme dans le cas présenté dans cet article, sont également discutées dans la littérature [4]. L’insuffisance rénale aiguë est une complication fréquente du COVID-19. Au niveau ­rénal, des variantes allant d’anomalies urinaires subcliniques jusqu’à l’insuffisance rénale aiguë sont en principe possibles [5]. A cet égard, les facteurs prédictifs défavorables incluent les maladies rénales préexistantes, les évolutions avec insuffisance respiratoire et la nécessité d’une ventilation mécanique [6–9].
+T2	disorder 899 904	obèse
+T3	disorder 986 992	fièvre
+T4	disorder 998 1020	sensation de faiblesse
+T5	disorder 1028 1037	céphalées
+T6	disorder 1092 1115	hypertension artérielle
+T7	disorder 1121 1130	épilepsie
+T8	disorder 1138 1186	mutation hétérozygote du gène de la prothrombine
+T9	disorder 1233 1260	thrombose des sinus veineux
+T10	disorder 1266 1291	hémorragie intracérébrale
+T11	drugs 1337 1351	phénprocoumone
+T12	procedure 1398 1420	 gazométrie artérielle
+T13	disorder 1433 1460	 insuffisance respiratoire 
+T14	disorder 1514 1525	lymphopénie
+T15	procedure 1532 1552	 protéine C réactive
+T16	procedure 1554 1557	CRP
+T17	labvalue 1559 1568	augmentée
+T18	procedure 1615 1640	RT-PCR pour le SARS-CoV-2
+T19	labvalue 1689 1697	positive
+T20	procedure 1702 1719	tomodensitométrie
+T21	procedure 1721 1724	TDM
+T22	disorder 1750 1777	infiltrats en verre ­dépoli
+T23	disorder 1821 1844	pneumopathie à COVID-19
+T24	irrelevant 1847 2019	Figure 1: Tomodensitométrie thoracique (coupe axiale) avec opacités (infiltrats) en verre dépoli (flèches) bilatérales typiques dans le cadre d’une pneumopathie à COVID-19.
+T25	drugs 2084 2094	remdésivir
+T26	drugs 2103 2116	dexaméthasone
+T27	disorder 2336 2360	surinfection bactérienne
+T28	drugs 2400 2412	amoxicilline
+T29	drugs 2413 2431	acide clavulanique
+T30	drugs 2441 2456	clarithromycine
+T31	disorder 2513 2522	tachypnée
+T32	disorder 2534 2545	tachycardie
+T33	procedure 2664 2688	une ventilation invasive
+T34	drugs 2870 2894	pipéracilline/tazobactam
+T35	drugs 2904 2915	vancomycine
+T36	disorder 3012 3033	 hépatopathie toxique
+T37	drugs 3037 3063	 pipéracilline/tazobactam 
+T38	drugs 3086 3096	méropénème
+T39	labvalue 3132 3148	Candida albicans
+T40	labvalue 3150 3160	tropicalis
+T41	labvalue 3164 3176	glabratadans
+T42	procedure 3268 3278	intubation
+T43	disorder 3289 3307	’immunosuppression
+T44	procedure 3314 3367	traitement prolongé par antibiotiques à large spectre
+T45	drugs 3387 3399	caspofungine
+T46	disorder 3739 3778	syndrome de détresse respiratoire aiguë
+T47	disorder 3780 3784	SDRA
+T48	procedure 3802 3822	glucocorticothérapie
+T49	procedure 4591 4594	CRP
+T50	procedure 4596 4615	protéine C réactive
+T51	procedure 4617 4620	PCT
+T52	procedure 4622 4636	procalcitonine
+T53	procedure 4442 4451	ferritine
+T54	procedure 4418 4432	procalcitonine
+T55	disorder 4767 4775	frissons
+T56	disorder 4783 4789	fièvre
+T57	procedure 4862 4876	procalcitonine
+T58	procedure 5043 5052	ferritine
+T59	procedure 5059 5069	 D-dimères
+T60	procedure 5129 5132	CRP
+T61	procedure 5160 5170	sérologies
+T62	procedure 5175 5182	frottis
+T63	procedure 5189 5215	lavage broncho-alvéolaire 
+T64	procedure 5216 5219	LBA
+T65	disorder 5744 5756	hépatopathie
+T66	drugs 5772 5782	méropénème
+T67	disorder 5811 5846	encéphalopathie métabolique toxique
+T68	disorder 5877 5887	myoclonies
+T69	drugs 5936 5946	phénytoïne
+T70	disorder 6059 6074	polyneuropathie
+T71	disorder 6078 6107	neuromyopathie de réanimation
+T72	procedure 6163 6177	physiothérapie
+T73	procedure 6285 6323	hémofiltration veino-veineuse continue
+T74	procedure 6325 6329	HVVC
+T75	procedure 6332 6349	hémodiafiltration
+T76	procedure 6351 6354	HDF
+T77	procedure 6407 6421	biopsie rénale
+T78	irrelevant 6450 6668;6670 6680;6682 6909;6911 6994;6996 7193;7195 7356;7358 7749;7751 8295;8297 8551;8553 8683	près une durée totale de neuf semaines, le patient, qui était dans un meilleur état général, avait récupéré sur le plan pulmonaire et était sous dialyse intermittente, a été transféré dans une clinique de réadaptation.  Discussion  L’évolution présentée dans cet article diverge de l’évolution biphasique typique du COVID-19 sévère et concorde bien avec les évolutions alternatives décrites par Siddiqi HK et al. [4]. Ces évolutions étaient caractérisées par:  – une première phase avec fièvre et toux sèche, ainsi que lymphopénie concomitante;  – une deuxième phase avec virémie décroissante, dyspnée et réponse inflammatoire accrue avec ­hypoxie, ainsi qu’élévation des transaminases, infiltrats typiques du COVID-19 et procalcitonine basse;  – une troisième phase avec insuffisance respiratoire aiguë (SDRA), choc septique, insuffisance cardiaque et élévation des marqueurs inflammatoires et cardiaques.  Des divergences par rapport à l’évolution décrite sont possibles, notamment aussi parce qu’une troisième phase peut évoluer en vagues et peut potentiellement déboucher sur un syndrome post-COVID, également connu sous le nom de «COVID long» dans le langage médical populaire [11]. Le terme de COVID long n’est toutefois pas encore suffisamment défini dans la littérature médicale spécialisée.  Les formes sévères de COVID-19 donnent souvent lieu à des atteintes multi-organiques, qui requièrent une ­approche thérapeutique interdisciplinaire [11]. Avant tout la phase hyperinflammatoire s’accompagne d’une élévation typique de la ferritine sérique [12], qui est associée à une progression de la maladie et peut donc être utilisée comme marqueur d’évolution. Grâce à une surveillance de laboratoire étroite, il est possible, en adaptant en conséquence les interventions requises, de réduire le nombre de complications et la mortalité [13].  Notre cas montre qu’une troisième et une quatrième phase de l’infection peuvent se manifester, comme cela a été décrit dans la littérature [4]. Il montre en outre qu’une amélioration clinique et de laboratoire initiale ne protège pas contre les rechutes.  L’insuffisance rénale aiguë est fréquente chez les patients atteints de COVID-19 sévère et elle augmente considérablement la morta
+T79	irrelevant 8683 11492	lité et la morbidité. Il n’existe pas de traitement spécifique de l’insuffisance rénale aiguë dans le cadre du COVID-19 [14, 15], mais il est possible de recourir de façon symptomatique à des procédés de substitution rénale, comme dans notre exemple de cas. Les auteurs de cette étude décrivent ici principalement une atteinte tubulo-interstitielle sans glycosurie. Dans de plus grandes études, la proportion de patients avec insuffisance rénale aiguë nécessitant une dialyse s’élevait à 5–20% [16]. Une atteinte glomérulaire par le SARS-CoV-2 via une atteinte directe des capillaires glomérulaires au sens d’une ischémie est également possible [17]. La gestion volémique optimale dans le cadre de l’hémofiltration pour insuffisance rénale aiguë dans le contexte d’une insuffisance respiratoire aiguë associée au COVID-19 ou à un syndrome de sepsis est délicate et essentielle [18]. Parmi les mécanismes physiopathologiques potentiels de l’insuffisance rénale aiguë dans le cadre du COVID-19 figurent [5]: atteinte virale directe, ischémie, libération de cytokines associée au virus et activation du complément [19–21], hypercoagulabilité avec formation de micro-thrombi, ainsi que toxicité des médicaments qui sont employés dans le cadre de la maladie. Le SARS-CoV-2 n’infecte pas uniquement les voies respiratoires et les poumons, mais il peut également se propager dans les reins [22, 23], ce qui est bien concevable au vu du contact physiologique permanent du sang avec le tissu rénal. Des études tentent actuellement de déterminer si une cause primaire (due au COVID-19) ou secondaire (associée au ­COVID-19) entre en jeu dans l’insuffisance rénale aiguë [5]. Il n’existe actuellement pas d’anomalies histopathologiques spécifiques ou de procédés thérapeutiques spécifiques pour l’insuffisance rénale associée au ­COVID-19 [5]. L’anomalie histopathologique la plus fréquemment observée dans ce contexte correspond à une nécrose tubulaire aiguë au niveau du tubule proximal [15]. Fait intéressant, des signes de microangiopathie thrombotique ont pu être documentés dans certains cas [24, 25]. La reprise ultérieure de la diurèse a été interprétée en tant que rétablissement potentiel suite à une nécrose tubulaire aiguë dans le cadre du COVID-19 sévère. En fonction de l’évolution ultérieure, une biopsie rénale peut être nécessaire pour des raisons pronostiques, afin de diagnostiquer une glomérulopathie ou une néphropathie alternative. Une nécessité persistante de dialyse suite à une insuffisance rénale aiguë associée au COVID-19 est possible [26]. Les patients avec insuffisance rénale aiguë de stade 3 ou ceux qui nécessitent un traitement de substitution rénale ont un pronostic défavorable, avec une mortalité atteignant jusqu’à 75% [14]. Dans ce contexte, le traitement interdisciplinaire mis en
+T80	irrelevant 11493 11646;11648 11676;11678 11793;11795 11908;11910 12015	œuvre peut être considéré comme un succès, avec une régression quasi-complète de l’insuffisance respiratoire malgré une nécessité persistante de dialyse.  L’essentiel pour la pratique  • Le COVID-19 a une évolution variable. Des divergences par rapport à l’évolution biphasique classique s’observent.  • Les formes sévères de COVID-19 mobilisent beaucoup de ressources et requièrent une approche interdisciplinaire.  • Les complications rénales sont fréquentes et un traitement de substitution rénale peut devenir nécessai
+T81	irrelevant 12015 12018;12020 12151;12153 12337	re.  • L’insuffisance respiratoire et la nécessité persistante de dialyse peuvent être des conséquences à long terme du COVID-19 sévère.  • En cas de nécessité persistante de dialyse dans le cadre du COVID-19, des investigations supplémentaires de la maladie rénale, comme par exemple une biopsie rénale, sont nécessaires.

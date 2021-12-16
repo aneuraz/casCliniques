@@ -1,0 +1,38 @@
+T1	procedure 134 157	 suivi tous les 3 mois 
+T2	disorder 232 256	 hypertension artérielle
+T3	drugs 258 268	ESIDREX 25
+T4	disorder 271 291	hypercholestérolémie
+T5	drugs 293 304	Fénofibrate
+T6	risk 307 315	surpoids
+T7	labvalue 317 340	1m70, 85 kg, IMC à 29,4
+T8	risk 343 375	L’intoxication tabagique (30 PA)
+T9	disorder 457 474	douleurs intenses
+T10	disorder 536 555	douleurs pelviennes
+T11	disorder 557 566	hématurie
+T12	disorder 568 579	pollakiurie
+T13	disorder 581 613	Ventre non chirurgical, sensible
+T14	disorder 650 687	 infection urinaire et/ou prostatite 
+T15	procedure 708 713	ECBU 
+T16	procedure 718 736	 bilan biologique.
+T17	labvalue 831 845	GR à 20 000/ml
+T18	labvalue 888 917	 hyperleucocytose à 11 000 GB
+T19	procedure 1082 1119	prescription d’échographie abdominale
+T20	disorder 1139 1192	douleurs abdominales importantes évoluant par crises 
+T21	disorder 1280 1306	 réapparition des douleurs
+T22	labvalue 1459 1504	 dilatation importante de l’aorte abdominale 
+T23	labvalue 1513 1599	masse périphérique évoquant un anévrisme de l'aorte abdominale en voie de fissuration.
+T24	procedure 1630 1654	adressé, pour un scanner
+T25	disorder 1812 1835	TA est alors imprenable
+T26	procedure 1849 1862	 angioscanner
+T27	labvalue 1877 2050	fissuration d'un anévrisme de l'aorte abdominale sous rénale avec hémopéritoine et hématome de 16 cm avec extravasation du produit de contraste évoquant un saignement actif 
+T28	procedure 2146 2181	transfusion de 3 culots globulaires
+T29	procedure 2368 2383	intubé, ventilé
+T30	procedure 2386 2399	Il est opéré 
+T31	labvalue 2418 2448	anévrisme mesure plus de 70 mm
+T32	labvalue 2502 2520	rupture de l’aorte
+T33	procedure 2528 2564	clampage et résection de l’anévrisme
+T34	procedure 2566 2611	mise en place d’une prothèse aorto-bi-iliaque
+T35	procedure 2766 2792	reprise au bloc opératoire
+T36	labvalue 2798 2819	péritonite stercorale
+T37	procedure 2883 2907	 hémi-colectomie gauche 
+T38	disorder 2925 2953	 défaillance multi-viscérale

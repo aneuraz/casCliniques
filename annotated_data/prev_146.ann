@@ -1,0 +1,23 @@
+T1	irrelevant 0 12	Cas clinique
+T2	disorder 77 101	douleurs des deux genoux
+T3	procedure 183 201	bilan radiologique
+T4	disorder 223 265	syndrome d’hyperpression externe bilatéral
+T5	profession 324 347	chirurgien orthopédiste
+T6	procedure 439 458	arthroscopie gauche
+T7	procedure 536 555	anesthésie générale
+T8	procedure 561 588	arthroscopie du genou droit
+T9	profession 790 800	chirurgien
+T10	procedure 825 847	opérer le genou gauche
+T11	procedure 1005 1013	massages
+T12	procedure 1020 1031	rééducation
+T13	drugs 1049 1057	Fragmine
+T14	procedure 1035 1045	injections
+T15	procedure 1065 1075	pansements
+T16	procedure 1110 1127	ablation des fils
+T17	profession 1158 1168	chirurgien
+T18	drugs 1199 1218	anti-inflammatoires
+T19	drugs 1226 1237	antalgiques
+T20	profession 1362 1372	chirurgien
+T21	procedure 1406 1417	rééducation
+T22	disorder 1534 1555	gonalgies bilatérales
+T23	irrelevant 1672 2306	En novembre 2002, la patiente assigne le chirurgien pour le voir déclarer responsable du préjudice qu’elle avait subi, indiquant qu'« il s’était trompé de côté » et que « les suites opératoires n’étaient pas celles qu’elle espérait ». La mère de la patiente ajoutait que « l’erreur qui avait entraîné deux interventions avait abouti à une immobilisation par deux attelles et avait multiplié les problèmes par deux lors de la rééducation d’où des difficultés majorées à la reprises des activités scolaires compte tenu de la localisation du lycée » et qu’« au total, elle trouvait proprement scandaleux ce qui était arrivé à sa fille. »

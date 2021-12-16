@@ -1,0 +1,49 @@
+T1	disorder 48 58	diabétique
+T2	disorder 76 93	insulinodépendant
+T3	disorder 156 178	 cataracte bilatérale 
+T4	procedure 193 208	acuité visuelle
+T5	labvalue 216 220	2/10
+T6	labvalue 236 240	3/10
+T7	disorder 265 288	rétinopathie diabétique
+T8	procedure 314 319	laser
+T9	procedure 343 362	hémoglobine glyquée
+T10	labvalue 381 383	8%
+T11	procedure 390 402	intervention
+T12	disorder 512 523	 cataracte 
+T13	procedure 549 561	consultation
+T14	disorder 617 640	Hypertension artérielle
+T15	disorder 643 650	diabète
+T16	drugs 666 674	Kardégic
+T17	procedure 799 809	anesthésie
+T18	procedure 834 842	sédation
+T19	procedure 865 877	intervention
+T20	drugs 920 928	insuline
+T21	procedure 969 979	 glycémie 
+T22	labvalue 987 991	3g/l
+T23	drugs 1085 1092	Oflocet
+T24	irrelevant 1124 1287	Celui-ci entrait au bloc en salle 2 à 12h45. Il était en troisième position après une arthroscopie du genou et une chirurgie de cataracte sortie de salle à 12h40. 
+T25	drugs 1317 1325	Bétadine
+T26	procedure 1292 1311	préparation cutanée
+T27	procedure 1602 1614	intervention
+T28	procedure 1722 1731	 glycémie
+T29	labvalue 1747 1756	2,24 g/l 
+T30	drugs 1779 1787	insuline
+T31	procedure 1843 1852	perfusion
+T32	procedure 1986 1998	consultation
+T33	disorder 2040 2056	buée épithéliale
+T34	disorder 2059 2074	 œil douloureux
+T35	disorder 2075 2101	Tension oculaire (élevée) 
+T36	drugs 2106 2112	Diamox
+T37	drugs 2116 2127	 Cartéol LP
+T38	drugs 2133 2141	Dicloced
+T39	drugs 2144 2152	Tobradex
+T40	drugs 2155 2161	Tobrex
+T41	disorder 2422 2434	endophtalmie
+T42	disorder 2498 2510	endophtalmie
+T43	disorder 2518 2557	Hypopion de toute la chambre antérieure
+T44	procedure 2570 2581	prélèvement
+T45	disorder 2710 2734	fonte purulente de l’œil
+T46	disorder 2749 2757	douleurs
+T47	disorder 2778 2798	œil droit non voyant
+T48	procedure 2804 2816	éviscération
+T49	procedure 2855 2883	prothèse oculaire provisoire

@@ -1,0 +1,90 @@
+T1	irrelevant 9721 9731;9733 10537;10539 11261;11263 11662;11664 12042;12044 12663;12665 12805;12807 12815;12818 12877;12878 12892	Discussion  Les encéphalites auto-immunes constituent une ca­tégorie de syndromes neurologiques dont la reconnaissance médicale s’est nettement améliorée lors des 10 dernières années [2]. Il s’agit d’atteintes inflammatoires du système nerveux central et/ou périphérique associées à la présence d’auto-anticorps dirigés contre des épitopes intra- ou extracellulaires, qui peuvent être des marqueurs de la maladie ou directement responsables des symptômes observés [3,4]. Ainsi, on distingue de multiples tableaux cliniques typiques qui ­associent généralement la survenue subaiguë de troubles cognitifs et comportementaux à des anomalies plus complexes telles que des atteintes ophtalmiques, cérébelleuses, des neuropathies périphériques, ou encore des mouvements anormaux, des crises convulsives, voire un coma [5].  Une large proportion des cas survient en association avec certains cancers, et sont alors nommées encéphalites paranéoplasiques. Dans certains cas, leur diagnostic précède même celui du cancer, qui doit alors être ­recherché. Le carcinome bronchique à petites cellules en est le plus grand pourvoyeur (75% des cas), et une association est également fréquente avec les carcinomes ovariens, mammaires, testiculaires, thymiques, neuroendocriniens ainsi qu’avec certains lymphomes. La physiopathologie n’est pas connue de manière précise, mais implique la production d’auto-anticorps par des mécanismes de mimétisme moléculaire, ou d’anticorps capables d’activer des lymphocytes T cytotoxiques dans le système nerveux central.  Le diagnostic différentiel est initialement large, et comprend les encéphalites d’origine infectieuse et inflammatoire (lupus érythémateux disséminé, maladie de Behçet, vasculites), ainsi que des causes toxiques (syndromes malin des neuroleptiques et sérotoninergique), métaboliques (encéphalopathie de Gayet-Wernicke) et plus rarement, des maladies à prions ou des démences rapidement progressives.  Le diagnostic repose avant tout sur la reconnaissance ­clinique de ces syndromes qui doit faire rechercher activement les auto-anticorps spécifiques dans le sang et le LCR. Un EEG et des examens d’imagerie cérébrale par IRM, et éventuellement par PET-CT, viennent compléter le bilan et permettent d’augmenter le rendement diag­nostic en attendant le résultat des auto-anticorps.  Le traitement comprend habituellement une prise en charge ciblée en cas de maladie oncologique sous-jacente, ainsi qu’une thérapie immunosuppressive par corticostéroïdes associée à la perfusion d’immunoglobulines intraveineuses, généralement préférée de nos jours à la plasmaphérèse, plus difficile à organiser en raison de l’agitation fréquente des patients atteints. Les traitements de seconde ligne reposent sur l’utili­sation d’immunosuppresseurs tels que le rituximab, le cyclophosphamide, le mycophénolate mofetil, l’azathioprine ou le tacrolimus, mais sont moins bien étudiés et leur efficacité est variable [6].  Le pronostic est la plupart du temps réservé et la récupération rarement complète, nécessitant des séjours prolongés de neuroréhabilitation.  Réponses   Question 1: e. Question 2: e. Question 3: c. Question 4: b. Question 5: c.
+T2	irrelevant 8849 8958;8961 8977;8979 8997;8999 9030;9032 9071;9073 9107	Question 5: Quel traitement ne fait pas partie du traitement de première ligne d’une encéphalite auto-immune?   a) Plasmaphérèse  b) Corticothérapie  c) Rituximab ± cyclophosphamide  d) Traitement de la maladie oncologique  e) Immunoglobulines intraveineuses
+T3	irrelevant 9109 9420	Des immunoglobulines intraveineuses, une corticothérapie et une plasmaphérèse, administrées seules ou en combinaison, représentent les traitements de première ligne de l’encéphalite auto-immune, sachant que lorsque l’origine est paranéoplasique, le traitement de la maladie oncologique sous-jacente est la théra
+T4	irrelevant 9420 9718	pie la plus importante. Le rituximab, avec ou sans cyclophosphamide, constitue, avec d’autres immunosuppresseurs (mycophénolate mofétil, azathioprine, tacro­limus) la deuxième ligne de traitement qui n’est à utiliser qu’après échec des traitements précédents ou à but d’épargne des corticostéroïdes
+T5	irrelevant 8489 8703;8704 8847	Figure 1: PET-CT et IRM cérébrale de la vignette clinique.A ) PET-CT montrant un hypermétabolisme intense bilatéral et symétrique des striata, associé à un hypométabolisme modéré diffus du reste du cortex cérébral. B ) IRM cérébrale montrant une atteinte bilatérale de la tête des noyaux caudés avec hyperintensité en T2 FLAIR et œdème du noyau caudé gauche.
+T6	procedure 8108 8127	 ponction lombaire 
+T7	labvalue 8143 8151	négatifs
+T8	procedure 8161 8192	 auto-anticorps anti CV2/CRMP5 
+T9	labvalue 8202 8220	fortement positifs
+T10	procedure 8228 8254	 liquide céphalo-rachidien
+T11	procedure 8294 8304	 PET-scan 
+T12	procedure 8321 8373	bilan pré-inclusion de l’immunothérapie oncologique 
+T13	disorder 8415 8435	encéphalite limbique
+T14	procedure 8464 8478	IRM cérébrale 
+T15	irrelevant 7323 7400;7403 7432;7434 7446;7448 7462;7464 7498;7500 7517	Question 4: Quelle attitude adopter dans l’attente des ­résultats définitifs?   a) Corticothérapie systémique  b) Aciclovir  c) Ceftriaxone  d) Immunoglobulines intraveineuses  e) Suivi clinique
+T16	procedure 7230 7236	PET-CT
+T17	procedure 6966 6969	IRM
+T18	disorder 7032 7055	encéphalite auto-immune
+T19	procedure 7140 7166	’anticorps ­anti-neuronaux
+T20	disorder 6854 6885	 lupus érythémateux systémique 
+T21	procedure 6938 6954	bilan biologique
+T22	labvalue 6955 6961	normal
+T23	procedure 6201 6204	EEG
+T24	procedure 6307 6324	ponction lombaire
+T25	disorder 6528 6548	hyperprotéinorrachie
+T26	disorder 6590 6601	pléiocytose
+T27	labvalue 6550 6560	 1195 mg/l
+T28	labvalue 6620 6638	 30 leucocytes/mm3
+T29	procedure 6692 6718	 cultures microbiologiques
+T30	procedure 6723 6735	 PCR virales
+T31	procedure 6743 6769	recherche d’auto-anticorps
+T32	irrelevant 5882 5977;5980 6012;6014 6034;6036 6159;6161 6177;6179 6197	Question 3: Dans ce contexte, quel examen complémentaire a le plus faible rendement diagnostic?   a) Electro-encéphalogramme (EEG)  b) Ponction lombaire  c) Formule sanguine complète, vitesse de sédimentation, créatinine, tests hépatiques, anticorps anti-nucléaires, complément  d) IRM cérébrale  e) PET-CT cérébral
+T33	disorder 4433 4465	anomalies du status neurologique
+T34	disorder 4528 4556	 lésion cérébelleuse gauche 
+T35	procedure 4579 4582	IRM
+T36	disorder 4589 4642	épilepsie focale avec trouble de l’état de conscience
+T37	disorder 4669 4692	 troubles de la mémoire
+T38	disorder 4789 4802	stéréo­typies
+T39	disorder 4804 4817	mâchonnements
+T40	disorder 4819 4826	clonies
+T41	disorder 4872 4898	syndromes paranéoplasiques
+T42	disorder 4935 4974	carcinome pulmonaire à petites cellules
+T43	disorder 5098 5110	encéphalites
+T44	disorder 5117 5153	syndrome de Cushing paranéoplasiques
+T45	disorder 5160 5179	méningo-encéphalite
+T46	drugs 5413 5423	cisplatine
+T47	disorder 5531 5559	polyneuropathie périphérique
+T48	disorder 5561 5580	toxicité rétinienne
+T49	disorder 5584 5595	ototoxicité
+T50	disorder 5621 5637	encéphalopathies
+T51	disorder 5645 5664	crises convulsives 
+T52	irrelevant 4120 4185;4188 4212;4214 4233;4235 4262;4264 4308;4310 4350	Question 2: Quel est à ce moment le diagnostic le moins probable?   a) Origine psychiatrique  b) Epilepsie focale  c) Syndrome paranéoplasique  d) Méningo-encéphalite d’origine infectieuse  e) Effet secondaire de la chimiothérapie
+T53	procedure 3861 3876	corticothérapie
+T54	procedure 3745 3756	leucocytose
+T55	drugs 3817 3830	pegfilgrastim
+T56	labvalue 3758 3766	 22 G/l 
+T57	disorder 3429 3447	réaction anxieuse 
+T58	disorder 3450 3460	dépressive
+T59	irrelevant 2355 2414;2417 2460;2462 2504;2506 2547;2549 2597;2599 2645	Question 1: Quelle démarche actuelle paraît la moins utile?   a) Organisation d’un réseau avec la famille  b) Consilium par la psychiatrie de liaison  c) Réévaluation de l’attitude oncologique  d) Recherche biologique de troubles métaboliques  e) Initiation d’une corticothérapie systémique
+T60	risk 44 93	tabagique active à 100 Unités-­Paquet-Année (UPA)
+T61	disorder 142 157	perte pondérale
+T62	disorder 181 189	myalgies
+T63	disorder 194 202	vertiges
+T64	disorder 228 252	instabilité à la marche 
+T65	disorder 269 328	exacerbation de broncho­pneumopathie chronique obstructive 
+T66	disorder 329 333	BPCO
+T67	procedure 340 354	 IRM cérébrale
+T68	disorder 379 387	vertiges
+T69	disorder 407 464	accident vasculaire cérébelleux gauche ischémique subaigu
+T70	procedure 548 571	acide acétylsalicylique
+T71	drugs 577 590	atorvastatine
+T72	disorder 622 648	adénopathies médiastinales
+T73	procedure 674 698	radiographie thoracique 
+T74	procedure 728 735	CT-scan
+T75	procedure 756 781	biopsies transbronchiques
+T76	procedure 788 804	édiastinoscopie 
+T77	disorder 827 851	adénopathie médiastinale
+T78	disorder 866 905	carcinome pulmonaire à petites cellules
+T79	procedure 932 939	PET-CT 
+T80	procedure 1091 1115	 cycle de chimiothérapie
+T81	drugs 1120 1130	cisplatine
+T82	drugs 1134 1143	étoposide
+T83	disorder 1194 1221	agranulocytose transitoire.
+T84	procedure 1235 1266	 second cycle de chimiothérapie
+T85	procedure 1284 1311	 radiothérapie concomitante
+T86	disorder 1437 1462	vertiges mal systématisés
+T87	disorder 1464 1490	d’instabilité à la marche 
+T88	disorder 1499 1515	asthénie extrême
+T89	disorder 1894 1903	apathique
+T90	procedure 2153 2166	IRM cérébrale

@@ -1,0 +1,29 @@
+T1	disorder 14 78	 infections ostéo-articulaires (IOA) à Streptococcus pneumoniae 
+T2	risk 162 189	 terrain d’immunodépression
+T3	risk 195 231	 pathologie articulaire préexistante
+T4	risk 476 497	infarctus de myocarde
+T5	disorder 533 570	 arthrite subaiguë de l’épaule gauche
+T6	disorder 639 811	douleur de l’épaule gauche très invalidante d’horaire inflammatoire associée à une tuméfaction importante et une impotence fonctionnelle avec notion de fièvre et de frisson
+T7	disorder 892 949	 épaule tuméfiée, chaude, limitée en ­actif et en passif.
+T8	disorder 1072 1101	protéine C réactive (54 mg/l)
+T9	disorder 1111 1150	vitesse de la sé­dimentation (115 mm/h)
+T10	procedure 1186 1204	bilan radiologique
+T11	labvalue 1246 1277	 pincement global gléno-huméral
+T12	labvalue 1283 1342	déminéralisation mouchetée, une érosion de la tête humérale
+T13	labvalue 1350 1410	 calcification intra- et péri-articulaire de l’épaule gauche
+T14	labvalue 1432 1458	 arthropathie ­métabolique
+T15	procedure 1477 1492	radio du thorax
+T16	procedure 2149 2190	’échographie cardiaque transoesophagienne
+T17	labvalue 2213 2232	signe d’endocardite
+T18	procedure 2366 2395	’électrophorèse des protéines
+T19	procedure 2400 2457	dosage pondéral des immunoglobulines et la sérologie HIV,
+T20	labvalue 2573 2608	 amoxicilline intraveineux (12 g/j)
+T21	disorder 2977 3083	Streptococcus pneumoniae est habituellement responsable d’infections ORL, broncho-pulmonaires ou méningées
+T22	risk 4399 4410	 vieillards
+T23	risk 4416 4427	alcooliques
+T24	risk 4434 4449	 immunodéprimés
+T25	risk 4455 4632	hémopathies en particulier myélome dans 3 à 6% des cas, cancers, diabète, splénectomie, ­toxicomanie, insuffisance respiratoire, drépanocytose, corticothérapie et infection VIH)
+T26	risk 4984 5088	goutte, la chondrocalcinose, le lupus érythémateux disséminé, les prothèses et les infiltrations locales
+T27	labvalue 5160 5186	calcification articulaire 
+T28	procedure 5191 5212	radiographie standard
+T29	procedure 5746 5860	 électrophorèse des protéines plasmatiques, d’un dosage quantificatif des immunoglobulines et d’une sérologie VIH.

@@ -1,0 +1,28 @@
+T1	disorder 59 75	éruption cutanée
+T2	disorder 124 142	dermatite atopique
+T3	labvalue 181 188	39,7 °C
+T4	disorder 172 179	fébrile
+T5	procedure 148 163	examen clinique
+T6	disorder 191 201	asthénique
+T7	disorder 212 232	éruption vésiculeuse
+T8	disorder 253 283	éléments croûteux punctiformes
+T9	disorder 289 296	lésions
+T10	disorder 377 412	adénopathies cervicales bilatérales
+T11	disorder 429 449	Éruption vésiculeuse
+T12	disorder 557 577	herpès cutané étendu
+T13	disorder 581 610	syndrome de Kaposi-Juliusberg
+T14	disorder 670 688	dermatite atopique
+T15	disorder 713 732	syndrome infectieux
+T16	disorder 745 751	fièvre
+T17	disorder 762 790	altération de l’état général
+T18	disorder 801 829	éruption vésiculeuse profuse
+T19	procedure 924 938	interrogatoire
+T20	disorder 989 1005	bouton de fièvre
+T21	disorder 1050 1074	cytodiagnostic de Tzanck
+T22	disorder 1098 1117	effet cytopathogène
+T23	disorder 1194 1198	HSV 
+T24	drugs 1289 1298	aciclovir
+T25	disorder 1420 1441	extension des lésions
+T26	irrelevant 1493 4956	Commentaires • Le syndrome de Kaposi-Juliusberg (ou pustulose varioliforme de Kaposi-Juliusberg) est une infection à Herpes simplex virus (HSV) grave, étendue, souvent liée à une primo-infection à HSV1, mais pouvant aussi se développer lors de récurrences, sur une dermatose préexistante. Il s’agit quasi exclusivement de la dermatite atopique chez l’enfant. Plus rarement, cela peut survenir sur une dermatose dite « acantholytique », le pemphigus vulgaire, la maladie de Hailey-Hailey, la maladie de Darier ou la maladie de Grover. L’infection herpétique peut également compliquer certains actes thérapeutiques avec zones érodées (dermabrasions, lasers, etc.) ou des brûlures. • Dans la dermatite atopique, les immunosuppresseurs locaux, le pimécrolimus (non commercialisé en France) et le tacrolimus, ont récemment été incriminés comme pouvant favoriser l’apparition de syndromes de Kaposi-Juliusberg. Ils sont donc contre-indiqués en cas de poussées herpétiques chez ces enfants. • Cliniquement, le début est brutal avec une altération grave de l’état général, une hyperthermie et des lésions vésiculeuses d’extension rapide à partir de la zone contaminée initialement. Il peut y avoir de rares complications viscérales en l’absence de traitement : méningo-encéphalite, hépatite, etc., avec un risque de déshydratation, de choc ou de surinfection. • Le traitement est une urgence, à prendre en charge en hospitalisation. Il repose sur l’aciclovir à dose anti-herpétique (5 mg/ kg/8 h) par voie parentérale jusqu’au contrôle de la maladie (absence de nouvelle poussée vésiculeuse, d’apyrexie), puis relais par traitement oral pour une durée totale de 7 à 10 jours. Une antibiothérapie antistaphylococcique est à discuter en cas de doute sur une surinfection. Les soins locaux sont non spécifiques et reposent sur la chlorexidine aqueuse, matin et soir. L’évolution est toujours favorable sous traitement. Il peut cependant persister des cicatrices déprimées « varioliformes ». • Le traitement préventif consiste à éduquer les parents qui doivent absolument éviter le contact entre leur enfant atopique et une personne atteinte d’herpès labial. Diagnostics différentiels Devant une éruption vésiculo-bulleuse du visage chez un nourrisson, trois autres diagnostics doivent être discutés : • la primo-infection herpétique le plus souvent à virus HSV type 1. Dans ce cas, l’enfant peut être fébrile, mais les lésions sont moins étendues (ne touchent pas le cou et le tronc) et touchent plus volontiers le versant muqueux de la bouche dans le cas de la gingivo-stomatite herpétique ; • la varicelle, rare avant l’âge de 6 mois (protection par les anticorps maternels), est une éruption vésiculeuse fébrile avec des éléments d’âges différents et une évolution descendante, dans un contexte d’épidémie. Dans de rares cas, elle peut prédominer sur une zone, le visage ou le siège le plus souvent, et faire discuter un syndrome de Kaposi-Juliusberg. Il semblerait que les enfants atteints de dermatite atopique puissent développer des formes particulièrement profuses pouvant prédominer sur les zones atteintes de dermatite atopique telles que le visage ou le siège ; • l’impétigo bulleux se révèle par des lésions bulleuses, de plus grande taille que les lésions à HSV ou VZV, superficielles, sur une base inflammatoire associées à des croûtes mélicériques, prédominant en zones péri-orificielles. Les enfants sont souvent en meilleurs état général et moins fébriles. 
+T27	procedure 1268 1284	hospita-lisation
+T28	procedure 1258 1264	traité

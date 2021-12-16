@@ -1,0 +1,215 @@
+T1	irrelevant 0 8	Contexte
+T2	procedure 10 28	La coronarographie
+T3	disorder 103 127	syndrome coronarien aigu
+T4	disorder 165 178	 une sténose 
+T5	disorder 196 229	vaisseaux coronaires épicardiques
+T6	disorder 246 261	athérosclérose.
+T7	disorder 326 355	occlusions vasculaires aiguës
+T8	disorder 379 398	embolies coronaires
+T9	disorder 401 426	 une pathologie aortique,
+T10	disorder 439 483	entraver la sortie des vaisseaux coronaires 
+T11	procedure 520 539	chirurgie cardiaque
+T12	procedure 629 644	coronarographie
+T13	disorder 738 766	douleurs thoraco-abdominales
+T14	anatomy 817 827	’épigastre
+T15	anatomy 831 835	 dos
+T16	procedure 940 949	anamnèse 
+T17	disorder 962 998	 douleurs thoraciques intermittentes
+T18	procedure 1156 1179	 examens diagnostiques 
+T19	procedure 1238 1251	l’échographie
+T20	procedure 1256 1279	pathologie pancréatique
+T21	disorder 1332 1337	vomir
+T22	disorder 1379 1405	vives douleurs abdominales
+T23	anatomy 1470 1481	’épigastre 
+T24	anatomy 1510 1513	dos
+T25	anatomy 1525 1530	 bras
+T26	disorder 1605 1628	’infarctus myocardique 
+T27	drugs 1734 1758	’acide acétylsalicylique
+T28	drugs 1760 1772	des nitrates
+T29	drugs 1780 1788	morphine
+T30	drugs 1796 1805	’héparine
+T31	drugs 1851 1874	acide acétylsalicylique
+T32	drugs 1875 1886	 lisinopril
+T33	drugs 1888 1901	atorvastatine
+T34	drugs 1905 1917	pantoprazole
+T35	procedure 1949 1965	 coronarographie
+T36	disorder 2032 2091	 détérioration de la fonction de pompe du ventricule gauche
+T37	disorder 2097 2126	 tachycardies ventriculaires 
+T38	disorder 2191 2198	sténose
+T39	anatomy 2292 2311	 rameau circonflexe
+T40	disorder 2345 2388	«ST-segment elevation myocardial infarction
+T41	disorder 2337 2343	 STEMI
+T42	disorder 2405 2432	 Les troubles pectangineux 
+T43	disorder 2479 2508	dysfonctionnement diastolique
+T44	disorder 2513 2567	 pressions de remplissage du ventricule gauche accrues
+T45	procedure 2568 2583	 Une ergométrie
+T46	procedure 3013 3037	Une électrocardiographie
+T47	procedure 3039 3042	ECG
+T48	procedure 3120 3122	 R
+T49	procedure 3169 3173	 QRS
+T50	labvalue 3183 3189	182 ms
+T51	procedure 3195 3218	biomarqueurs cardiaques
+T52	procedure 3266 3276	 D-dimères
+T53	procedure 3288 3323	 angiographie par tomodensitométrie
+T54	procedure 3392 3403	score Wells
+T55	procedure 3373 3390	test préliminaire
+T56	labvalue 3406 3414	 0 point
+T57	disorder 3431 3467	une embolie des artères pulmonaires.
+T58	disorder 3554 3577	une dissection aortique
+T59	disorder 3578 3599	 Une lésion hypodense
+T60	anatomy 3659 3759	la cuspide coronaire droite de la valve aortique à hauteur de la sortie de l’artère coronaire droite
+T61	irrelevant 3776 3854	Tableau 1: Paramètres de laboratoire de la patiente pendant l’hospitalisation.
+T62	irrelevant 3855 3929	Paramètre	Valeurs de référence	23.1215h02	23.1219h43	24.1201h00	24.1207h00
+T63	procedure 3930 3941	Hématologie
+T64	procedure 3952 3963	Hémoglobine
+T65	labvalue 3969 3983	12,3–15,8 g/dl
+T66	labvalue 3984 3988	14,4
+T67	labvalue 3993 3997	13,3
+T68	procedure 3998 4009	Hématocrite
+T69	labvalue 4012 4018	37–47%
+T70	labvalue 4019 4021	42
+T71	labvalue 4026 4028	39
+T72	procedure 4029 4048	Thrombocytes ×109/l
+T73	labvalue 4049 4063	150–400 *109/l
+T74	labvalue 4064 4067	259
+T75	labvalue 4071 4075		241
+T76	labvalue 4119 4123	9,37
+T77	labvalue 4109 4115	15,97	
+T78	labvalue 4094 4108	3,0–9,6 *109/l
+T79	procedure 4076 4093	Leucocytes ×109/l
+T80	procedure 4124 4139	Chimie clinique
+T81	procedure 4150 4167	Créatinine µmol/l
+T82	labvalue 4168 4180	50–98 µmol/l
+T83	labvalue 4181 4184	59	
+T84	labvalue 4187 4190		57
+T85	labvalue 4231 4234	4,1
+T86	labvalue 4223 4227	4,0	
+T87	labvalue 4208 4222	3,5–5,1 µmol/l
+T88	procedure 4191 4207	Potassium mmol/l
+T89	procedure 4235 4255	Marqueurs cardiaques
+T90	procedure 4266 4287	Créatinine kinase U/l
+T91	labvalue 4288 4296	<168 U/l
+T92	labvalue 4297 4300	122
+T93	labvalue 4301 4304	469
+T94	labvalue 4305 4308	586
+T95	labvalue 4309 4312	692
+T96	procedure 4313 4328	Myoglobine µg/l
+T97	labvalue 4329 4339	<140 µg/l	
+T98	labvalue 4339 4343	277	
+T99	labvalue 4343 4346	363
+T100	labvalue 4347 4350	199
+T101	labvalue 4351 4354	106
+T102	procedure 4355 4372	Troponine-I ng/l	
+T103	labvalue 4372 4376	<26 
+T104	labvalue 4380 4384		80	
+T105	labvalue 4383 4388		8106
+T106	procedure 4393 4416	Paramètres d’activation
+T107	procedure 4427 4441	D-Dimère mg/l	
+T108	labvalue 4441 4454	<0,5 mg/l	1,3
+T109	procedure 4472 4499	Tomodensitométrie du thorax
+T110	anatomy 4560 4586	 l’artère coronaire droite
+T111	irrelevant 4514 4557	 avec mise en évidence d’une masse en amont
+T112	irrelevant 4595 4626	, image à l’entrée à l’hôpital.
+T113	procedure 4638 4665	Tomodensitométrie du thorax
+T114	anatomy 4731 4787	la valve aortique en amont de l’artère coronaire droite 
+T115	irrelevant 4797 4826	image à l’entrée à l’hôpital.
+T116	irrelevant 4684 4730	avec mise en évidence d’une masse au niveau de
+T117	irrelevant 4828 4851	Traitement et évolution
+T118	drugs 4897 4908	énoxaparine
+T119	drugs 4877 4888	 ticagrelor
+T120	anatomy 5032 5049	la valve aortique
+T121	procedure 5052 5074	es cultures sanguines 
+T122	disorder 5122 5133	endocardite
+T123	labvalue 5163 5172	négatives
+T124	procedure 5272 5290	cultures sanguines
+T125	labvalue 5290 5301	 négatives,
+T126	disorder 5301 5317	 une endocardite
+T127	labvalue 5365 5381	t antimicrobien 
+T128	procedure 5412 5427	coronarographie
+T129	labvalue 5428 5435	normale
+T130	disorder 5458 5467	néoplasie
+T131	disorder 5502 5515	une néoplasie
+T132	disorder 5594 5625	 thrombus de la racine aortique
+T133	disorder 5668 5677	 thrombus
+T134	procedure 5735 5764	anticoagulation thérapeutique
+T135	drugs 5768 5780	 énoxaparine
+T136	procedure 5835 5859	biomarqueurs cardiaques 
+T137	procedure 5905 5909	’ECG
+T138	disorder 5938 6011	 Une occlusion intermittente de l’artère coronaire droite par le thrombus
+T139	procedure 6044 6063	Electrocardiogramme
+T140	procedure 6176 6177	R
+T141	anatomy 6190 6211	 la paroi postérieure
+T142	disorder 6229 6254	ischémie cardiaque aiguë.
+T143	disorder 6520 6541	douleurs thoraciques 
+T144	disorder 6520 6620	douleurs thoraciques accompagnées d’élévations dynamiques du segment ST en inférieur et en antérieur
+T145	procedure 6684 6703	Electrocardiogramme
+T146	disorder 6709 6765	élévations nettes du segment ST en II, III, aVF et V1–V2
+T147	procedure 6805 6830	Une coronarographie aiguë
+T148	disorder 6888 6937	déplacement subtotal de l’ostium coronaire droit 
+T149	disorder 6945 6975	masse présumément thrombotique
+T150	anatomy 7012 7036	’artère coronaire droite
+T151	disorder 7042 7068	fibrillation ventriculaire
+T152	procedure 7100 7116	 défibrillation.
+T153	procedure 7237 7287	hirurgie cardiaque pour un pontage aortocoronarien
+T154	disorder 7319 7331	 un thrombus
+T155	labvalue 7333 7344	e 1,5 × 2,0
+T156	disorder 7352 7391	 moignon dans l’ostium coronaire droit 
+T157	disorder 7414 7478	une lésion endothéliale à la base de la cuspide coronaire droite
+T158	procedure 7481 7507	’intervention chirurgicale
+T159	procedure 7551 7559	imagerie
+T160	procedure 7665 7690	réhabilitation cardiaque.
+T161	procedure 7713 7808	 coronarographie avec intubation de l’ostium coronaire droit à l’aide d’un produit de contraste
+T162	anatomy 7829 7853	’artère coronaire droite
+T163	disorder 7891 7903	thrombotique
+T164	anatomy 7983 8006	artère coronaire droite
+T165	disorder 8079 8114	thrombus en amont de l’ostium droit
+T166	procedure 8181 8197	 coronarographie
+T167	disorder 8290 8313	hémorragies secondaires
+T168	disorder 8318 8329	dissections
+T169	disorder 8332 8343	’anévrismes
+T170	disorder 8357 8400	thromboses aiguës avec embolisation distale
+T171	procedure 8465 8474	la sonde 
+T172	procedure 8476 8511	 la pointe du cathéter diagnostique
+T173	disorder 8527 8624	une lésion endothéliale au niveau de la racine aortique avec formation ultérieure d’une thrombose
+T174	procedure 8715 8741	intervention coronarienne.
+T175	procedure 8702 8709	pontage
+T176	procedure 8753 8768	coronarographie
+T177	disorder 8800 8809	 thrombus
+T178	drugs 8887 8911	acide ­acétylsalicylique
+T179	disorder 8952 8961	 thrombus
+T180	disorder 8982 9025	s douleurs pectangineuses liées à l’effort 
+T181	procedure 9060 9076	 coronarographie
+T182	disorder 9106 9117	un thrombus
+T183	disorder 9246 9294	 vanne sphérique en amont de l’ostium coronaire.
+T184	disorder 9296 9329	Une lésion aiguë de l’endothélium
+T185	procedure 9339 9354	coronarographie
+T186	disorder 9397 9406	 thrombus
+T187	anatomy 9546 9552	’aorte
+T188	procedure 9560 9578	’échocardiographie
+T189	procedure 9598 9615	 coronarographie.
+T190	disorder 9660 9669	 thrombus
+T191	disorder 9741 9763	lésions endothéliales 
+T192	procedure 9851 9867	 coronarographie
+T193	disorder 9890 10014	ne activation endothéliale excessive dans le contexte d’un trouble de la coagulation jusqu’alors inconnu serait envisageable
+T194	procedure 10014 10027	. L’anamnèse 
+T195	disorder 10040 10058	embolie pulmonaire
+T196	risk 10137 10146	 nicotine
+T197	procedure 10155 10180	analyse de la coagulation
+T198	disorder 10288 10319	 thrombus de la racine aortique
+T199	disorder 10391 10490	lésion iatrogène de l’endothélium de la racine aortique ou de l’ostium de l’artère coronaire droite
+T200	procedure 10500 10515	coronarographie
+T201	drugs 10632 10644	cathétérisme
+T202	disorder 10773 10784	 dissection
+T203	disorder 10786 10808	l’occlusion vasculaire
+T204	disorder 10810 10835	la perforation coronaire 
+T205	disorder 10837 10863	 les thromboses coronaires
+T206	drugs 10931 10944	 cathétérisme
+T207	procedure 11121 11148	revascularisation coronaire
+T208	procedure 11166 11196	revascularisation chirurgicale
+T209	disorder 11497 11523	e syndrome coronarien aigu
+T210	disorder 11626 11654	Une athérosclérose coronaire
+T211	disorder 11657 11682	 une rupture de la plaque
+T212	disorder 11708 11743	origine du syndrome coronarien aigu
+T213	disorder 11758 11782	syndrome coronarien aigu
+T214	procedure 11786 11822	intervention coronarienne percutanée
+T215	procedure 11939 11978	Une intervention chirurgicale cardiaque

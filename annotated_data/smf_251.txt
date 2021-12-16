@@ -1,0 +1,137 @@
+Description du cas
+
+Une patiente de 61 ans, tabagique active à 100 Unités-­Paquet-Année (UPA), est hospitalisée en raison d’une asthénie avec perte pondérale de 12 kg en 3 mois, de myalgies, de vertiges non rotatoires, et d’une instabilité à la marche au décours d’une exacerbation de broncho­pneumopathie chronique obstructive (BPCO).
+
+Une IRM cérébrale effectuée en raison des vertiges met en évidence un accident vasculaire cérébelleux gauche ischémique subaigu de 3 millimètres dont le bilan ­retient une origine cryptogénique. Un traitement d’acide acétylsalicylique et d’atorvastatine est débuté.
+
+Par ailleurs, des adénopathies médiastinales sont découvertes sur la ­radiographie thoracique d’entrée, puis confirmées par CT-scan. Suite à l’échec de biopsies transbronchiques, une médiastinoscopie permet de biopsier une adénopathie médiastinale, et révèle un carcinome pulmonaire à petites cellules. Le bilan d’extension par PET-CT ne montre pas de lésion à distance et classe la tumeur dans la catégorie «limited ­disease». Une prise en charge oncologique est débutée avec un premier cycle de chimiothérapie par cisplatine et étoposide, qui se déroule sans complication si ce n’est une agranulocytose transitoire.
+
+Peu avant le second cycle de chimiothérapie et le début d’une radiothérapie concomitante, la prise en charge se complique par un important manque de collaboration de la patiente, qui se plaint d’une persistance de vertiges mal systématisés, d’instabilité à la marche et d’une asthénie extrême qui l’empêchent de sortir de son lit. Sa famille évoque des mécanismes de déni et d’isolement qu’elle a toujours utilisés face aux difficultés rencontrées. La patiente dit néanmoins vouloir poursuivre son traitement oncologique. De plus, elle est candidate pour un protocole expérimental d’immunothérapie en supplément de la radio-chimiothérapie.
+
+Cliniquement, la patiente est apathique, avec un tremblement fin et continu des membres supérieurs ainsi qu’une instabilité à la marche sans latéralisation ni rétropulsion. Ces signes étaient déjà présents à l’entrée et semblent exagérément prononcés par rapport à la lésion visible sur l’IRM cérébrale. De plus, nous constatons l’apparition de troubles de la mémoire à court terme avec multiples oublis de récents entretiens médicaux. Le reste de l’examen clinique est sans particularité.
+
+Question 1: Quelle démarche actuelle paraît la moins utile?
+
+
+a) Organisation d’un réseau avec la famille
+
+b) Consilium par la psychiatrie de liaison
+
+c) Réévaluation de l’attitude oncologique
+
+d) Recherche biologique de troubles métaboliques
+
+e) Initiation d’une corticothérapie systémique
+
+Face à une telle situation, la crainte principale est celle d’un déconditionnement progressif avec diminution de l’échelle de performance et incapacité de poursuivre le traitement oncologique. Un réseau avec la famille, un entretien avec un psychiatre, une réévaluation oncologique et la recherche d’une cause métabolique paraissent initialement les démarches les plus à même de faire progresser la situation. Un réseau familial permet à la patiente de reprendre contact avec ses enfants dont elle s’était distancée, de réaliser qu’elle bénéficie de soutien et de fixer des objectifs de reconditionnement.
+
+Un soutien psychiatrique est également mis en place avec un suivi bihebdomadaire pour une suspicion de trouble de l’adaptation après l’annonce du diagnostic oncologique, avec réaction anxieuse et dépressive.
+
+La situation oncologique est discutée avec les oncologues et la patiente, et le projet thérapeutique à visée curative est maintenu.
+
+La recherche d’une cause métabolique ne montre aucune anomalie électrolytique, ni de la fonction rénale ou hépatique. Nous retrouvons uniquement une leucocytose à 22 G/l (norme: 4–10 G/l) secondaire à l’administration de pegfilgrastim.
+
+Enfin, l’introduction d’une corticothérapie sans étio­logie claire n’est pas indiquée, et pourrait même être délétère en cas d’étiologie infectieuse, qui n’est pour le moment pas exclue.
+
+Malgré ces démarches et après plusieurs jours d’observation, il n’y a pas d’amélioration franche.
+
+Question 2: Quel est à ce moment le diagnostic le moins probable?
+
+
+a) Origine psychiatrique
+
+b) Epilepsie focale
+
+c) Syndrome paranéoplasique
+
+d) Méningo-encéphalite d’origine infectieuse
+
+e) Effet secondaire de la chimiothérapie
+
+Une composante psychiatrique est fortement suspectée mais n’expliquerait pas les anomalies du status neurologique, par ailleurs trop importantes pour être liées uniquement à la lésion cérébelleuse gauche mise en évidence sur l’IRM.
+
+Une épilepsie focale avec trouble de l’état de conscience peut se manifester par des troubles de la mémoire et du comportement et doit également être évoquée, bien qu’elle soit fréquemment accompagnée de stéréo­typies (mâchonnements, clonies), absentes chez notre patiente.
+
+De nombreux syndromes paranéoplasiques sont décrits en association avec le carcinome pulmonaire à petites cellules, et doivent être recherchés en l’absence d’autre cause clairement établie. Dans le cas présent, nous pensons notamment aux encéphalites et au syndrome de Cushing paranéoplasiques.
+
+Une méningo-encéphalite d’origine infectieuse est également possible et doit être exclue rapidement puisqu’un traitement précoce permet, ­selon l’étiologie, une amélioration significative du ­pronostic neurologique.
+
+Les effets secondaires neurologiques du cisplatine sont fréquents mais consistent essentiellement en des atteintes périphériques dose-dépendantes, telles que polyneuropathie périphérique, toxicité rétinienne ou ototoxicité, bien que de rares cas d’encéphalopathies et des crises convulsives aient été décrits, essentiellement lors d’injections intra-artérielles. L’étoposide peut également causer, dans une moindre mesure, des atteintes neurologiques périphériques. Ce diagnostic est donc le moins probable.
+
+Question 3: Dans ce contexte, quel examen complémentaire a le plus faible rendement diagnostic?
+
+
+a) Electro-encéphalogramme (EEG)
+
+b) Ponction lombaire
+
+c) Formule sanguine complète, vitesse de sédimentation, créatinine, tests hépatiques, anticorps anti-nucléaires, complément
+
+d) IRM cérébrale
+
+e) PET-CT cérébral
+
+L’EEG est le test de choix pour le diagnostic d’une ­épilepsie et se révèle normal chez notre patiente.
+
+La ponction lombaire est essentielle dans toute investigation d’une possible encéphalite dont l’étiologie peut être infectieuse, paranéoplasique, ou carcinomateuse. Celle-ci montre une pression d’ouverture de 18 cm H2O, une hyperprotéinorrachie à 1195 mg/l (norme: 160–460 mg/l) et une pléiocytose lymphocytaire avec 30 leucocytes/mm3 (norme: 0–4 leucocytes/mm3) dont 95% lymphocytes. Des cultures microbiologiques, des PCR virales et une recherche d’auto-anticorps sont également demandées.
+
+La recherche sérique d’une cause auto-immune telle que le lupus érythémateux systémique a peu de chances d’être contributive au vu du récent bilan biologique normal.
+
+L’IRM est l’examen d’imagerie de choix pour rechercher des signes d’encéphalite auto-immune, mais peut être normale si elle est réalisée précocement, voire tardivement en cas d’anticorps ­anti-neuronaux di­rigés contre des antigènes membranaires et synaptiques.
+
+Le PET-CT est une alternative également très sensible, mais plus chère et difficile à obtenir.
+
+Question 4: Quelle attitude adopter dans l’attente des ­résultats définitifs?
+
+
+a) Corticothérapie systémique
+
+b) Aciclovir
+
+c) Ceftriaxone
+
+d) Immunoglobulines intraveineuses
+
+e) Suivi clinique
+
+En présence de signes biologiques d’encéphalite compatibles avec une étiologie infectieuse, une thérapie d’aciclovir doit être instaurée jusqu’à l’exclusion d’une encéphalite herpétique. Un simple suivi clinique n’est donc pas approprié. Une corticothérapie n’est pas in­diquée avant d’avoir exclu une infection. Une antibiothérapie par ceftriaxone n’est pas justifiée en l’absence d’arguments évoquant une méningo-encéphalite bactérienne. De même, un traitement par immunoglo­bulines intraveineuses n’est pas indiqué en l’absence de diagnostic clair.
+
+Les résultats microbiologiques de la ponction lombaire reviennent tous négatifs, mais les auto-anticorps anti CV2/CRMP5 s’avèrent fortement positifs dans le liquide céphalo-rachidien (LCR) et dans le plasma [1]. Un nouveau PET-scan effectué pour le bilan pré-inclusion de l’immunothérapie oncologique montre des images ­caractéristiques d’une encéphalite limbique, confirmée par une nouvelle IRM cérébrale (fig. 1).
+
+Figure 1: PET-CT et IRM cérébrale de la vignette clinique.A ) PET-CT montrant un hypermétabolisme intense bilatéral et symétrique des striata, associé à un hypométabolisme modéré diffus du reste du cortex cérébral.
+B ) IRM cérébrale montrant une atteinte bilatérale de la tête des noyaux caudés avec hyperintensité en T2 FLAIR et œdème du noyau caudé gauche.
+
+Question 5: Quel traitement ne fait pas partie du traitement de première ligne d’une encéphalite auto-immune?
+
+
+a) Plasmaphérèse
+
+b) Corticothérapie
+
+c) Rituximab ± cyclophosphamide
+
+d) Traitement de la maladie oncologique
+
+e) Immunoglobulines intraveineuses
+
+Des immunoglobulines intraveineuses, une corticothérapie et une plasmaphérèse, administrées seules ou en combinaison, représentent les traitements de première ligne de l’encéphalite auto-immune, sachant que lorsque l’origine est paranéoplasique, le traitement de la maladie oncologique sous-jacente est la thérapie la plus importante. Le rituximab, avec ou sans cyclophosphamide, constitue, avec d’autres immunosuppresseurs (mycophénolate mofétil, azathioprine, tacro­limus) la deuxième ligne de traitement qui n’est à utiliser qu’après échec des traitements précédents ou à but d’épargne des corticostéroïdes.
+
+Discussion
+
+Les encéphalites auto-immunes constituent une ca­tégorie de syndromes neurologiques dont la reconnaissance médicale s’est nettement améliorée lors des 10 dernières années [2]. Il s’agit d’atteintes inflammatoires du système nerveux central et/ou périphérique associées à la présence d’auto-anticorps dirigés contre des épitopes intra- ou extracellulaires, qui peuvent être des marqueurs de la maladie ou directement responsables des symptômes observés [3,4]. Ainsi, on distingue de multiples tableaux cliniques typiques qui ­associent généralement la survenue subaiguë de troubles cognitifs et comportementaux à des anomalies plus complexes telles que des atteintes ophtalmiques, cérébelleuses, des neuropathies périphériques, ou encore des mouvements anormaux, des crises convulsives, voire un coma [5].
+
+Une large proportion des cas survient en association avec certains cancers, et sont alors nommées encéphalites paranéoplasiques. Dans certains cas, leur diagnostic précède même celui du cancer, qui doit alors être ­recherché. Le carcinome bronchique à petites cellules en est le plus grand pourvoyeur (75% des cas), et une association est également fréquente avec les carcinomes ovariens, mammaires, testiculaires, thymiques, neuroendocriniens ainsi qu’avec certains lymphomes. La physiopathologie n’est pas connue de manière précise, mais implique la production d’auto-anticorps par des mécanismes de mimétisme moléculaire, ou d’anticorps capables d’activer des lymphocytes T cytotoxiques dans le système nerveux central.
+
+Le diagnostic différentiel est initialement large, et comprend les encéphalites d’origine infectieuse et inflammatoire (lupus érythémateux disséminé, maladie de Behçet, vasculites), ainsi que des causes toxiques (syndromes malin des neuroleptiques et sérotoninergique), métaboliques (encéphalopathie de Gayet-Wernicke) et plus rarement, des maladies à prions ou des démences rapidement progressives.
+
+Le diagnostic repose avant tout sur la reconnaissance ­clinique de ces syndromes qui doit faire rechercher activement les auto-anticorps spécifiques dans le sang et le LCR. Un EEG et des examens d’imagerie cérébrale par IRM, et éventuellement par PET-CT, viennent compléter le bilan et permettent d’augmenter le rendement diag­nostic en attendant le résultat des auto-anticorps.
+
+Le traitement comprend habituellement une prise en charge ciblée en cas de maladie oncologique sous-jacente, ainsi qu’une thérapie immunosuppressive par corticostéroïdes associée à la perfusion d’immunoglobulines intraveineuses, généralement préférée de nos jours à la plasmaphérèse, plus difficile à organiser en raison de l’agitation fréquente des patients atteints. Les traitements de seconde ligne reposent sur l’utili­sation d’immunosuppresseurs tels que le rituximab, le cyclophosphamide, le mycophénolate mofetil, l’azathioprine ou le tacrolimus, mais sont moins bien étudiés et leur efficacité est variable [6].
+
+Le pronostic est la plupart du temps réservé et la récupération rarement complète, nécessitant des séjours prolongés de neuroréhabilitation.
+
+Réponses
+
+
+Question 1: e. Question 2: e. Question 3: c. Question 4: b.
+Question 5: c.

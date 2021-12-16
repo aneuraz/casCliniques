@@ -1,0 +1,43 @@
+T1	disorder 220 248	perte de connaissance subite
+T2	disorder 326 339	palpitations 
+T3	disorder 381 402	perte de connaissance
+T4	disorder 489 505	raideur du corps
+T5	disorder 515 536	mouvements convulsifs
+T6	disorder 558 572	perte d'urines
+T7	disorder 431 445	chute en avant
+T8	disorder 630 644	désorientation
+T9	disorder 725 747	perte de connaissance 
+T10	disorder 822 829	orienté
+T11	disorder 831 843	normopnéique
+T12	disorder 845 865	tachycarde (100 bpm)
+T13	disorder 876 909	pression artérielle à 100/60 mmHg
+T14	risk 982 997	crise cardiaque
+T15	risk 1050 1074	hypertension artérielle 
+T16	risk 1135 1161	pontages aorto-coronariens
+T17	disorder 1251 1274	hypertension artérielle
+T18	disorder 1297 1328	infarctus antérieur du myocarde
+T19	disorder 1373 1406	douleurs en raison d'une dyspnée 
+T20	disorder 1407 1423	oedème du poumon
+T21	procedure 1428 1443	Coronarographie
+T22	labvalue 1580 1600	hypercholestérolémie
+T23	disorder 1444 1499	 occlusion de l'interventriculaire antérieure proximale
+T24	drugs 1688 1711	Acide acétylsalicylique
+T25	drugs 1723 1736	Atorvastatine
+T26	drugs 1747 1757	Metoprolol
+T27	drugs 1769 1779	Lisinopril
+T28	disorder 1809 1824	TA 140/80 mmHg 
+T29	disorder 1836 1847	130/75 mmHg
+T30	disorder 1858 1886	Fréquence cardiaque: 60 bpm.
+T31	disorder 1887 1906	T° 36.1 auriculaire
+T32	disorder 1908 1922	Saturation 96%
+T33	procedure 1976 1985	Cardiaque
+T34	disorder 1987 2035	souffle éjectionnel max de 1/6 au foyer aortique
+T35	disorder 2037 2072	sans irradiation dans les carotides
+T36	disorder 2074 2122	Choc de pointe de la taille d'une pièce de 5 CHF
+T37	disorder 2124 2176	décalé en direction de la ligne axillaire antérieure
+T38	procedure 2178 2188	Vasculaire
+T39	disorder 2190 2214	artères toutes palpables
+T40	disorder 2216 2241	Souffle 1/6 fémoral droit
+T41	procedure 2243 2253	Pulmonaire
+T42	procedure 2354 2366	Neurologique
+T43	disorder 2254 2290	 Frémitus et tympanisme symétriques 

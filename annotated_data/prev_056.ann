@@ -1,0 +1,98 @@
+T1	disorder 124 146	 douleur dorsale haute
+T2	drugs 211 235	un traitement antalgique
+T3	profession 296 303	médecin
+T4	disorder 440 474	e a priori due à un faux mouvement
+T5	disorder 771 788	 douleur dorsale,
+T6	disorder 788 801	 vomissements
+T7	disorder 805 836	difficultés d’aller à la selle 
+T8	disorder 896 919	 Douleur type sciatique
+T9	drugs 944 952	codéine®
+T10	disorder 977 990	n’urine plus 
+T11	procedure 1008 1020	Température 
+T12	labvalue 1021 1029	 37,2 °C
+T13	procedure 1067 1090	un sondage aller-retour
+T14	procedure 1134 1156	la bandelette urinaire
+T15	labvalue 1159 1166	absence
+T16	procedure 1169 1179	 leucocyte
+T17	procedure 1181 1188	nitrite
+T18	labvalue 1188 1197	 négatif.
+T19	profession 1198 1219	Le médecin urgentiste
+T20	profession 1231 1250	chirurgien digestif
+T21	disorder 1302 1316	abdomen souple
+T22	procedure 1345 1365	chirurgie viscérale.
+T23	drugs 1423 1434	Efferalgan®
+T24	drugs 1435 1445	Primperan®
+T25	procedure 1510 1523	Hydratation. 
+T26	procedure 1634 1653	une sonde vésicale 
+T27	profession 1673 1686	l’urgentiste 
+T28	procedure 1709 1720	 leucocytes
+T29	labvalue 1720 1730	 18520/mm3
+T30	procedure 1732 1736	 CRP
+T31	labvalue 1736 1745	> 90mg/l 
+T32	procedure 1746 1749	 Hb
+T33	labvalue 1749 1762	 10,9 g/100ml
+T34	procedure 1765 1775	plaquettes
+T35	labvalue 1775 1789	 302 000/mm 3 
+T36	procedure 1790 1802	 créatinémie
+T37	labvalue 1802 1814	 59 µmole/l.
+T38	disorder 1947 1970	 des douleurs lombaires
+T39	drugs 2003 2015	’antalgiques
+T40	disorder 2090 2111	 pyélo-néphrite aiguë
+T41	drugs 2129 2138	’Oflocet®
+T42	procedure 2153 2164	uroscanner.
+T43	disorder 2201 2210	 lithiase
+T44	disorder 2216 2237	 syndrome obstructif.
+T45	procedure 2238 2264	La radiographie thoracique
+T46	labvalue 2278 2286	 normale
+T47	procedure 2298 2315	 bilan biologique
+T48	disorder 2326 2343	’hyperleucocytose
+T49	labvalue 2345 2356	 21 050/mm3
+T50	procedure 2363 2368	’ECBU
+T51	disorder 2384 2401	 5 leucocytes/mm3
+T52	procedure 2415 2429	La température
+T53	labvalue 2436 2443	36,1°C.
+T54	profession 2530 2539	’urologue
+T55	profession 2819 2835	Un anesthésiste 
+T56	drugs 3023 3037	antibiotique, 
+T57	disorder 3180 3227	 aggravation des signes biologiques d’infection
+T58	profession 3274 3287	’anesthésiste
+T59	procedure 3338 3347	perfusion
+T60	disorder 3439 3463	douleur du flanc gauche.
+T61	drugs 3486 3497	antalgiques
+T62	procedure 3500 3529	 un scanner thoraco-abdominal
+T63	profession 3600 3613	anesthésiste 
+T64	profession 3737 3756	chirurgien digestif
+T65	irrelevant 3616 3679	 était intervenu pour qu’elle obtienne une chambre particulière
+T66	irrelevant 3680 3702	 la patiente est revue
+T67	irrelevant 3703 3729	 entre deux interventions,
+T68	anatomy 3983 3989	jambes
+T69	disorder 4009 4066	 douleurs lombaires irradiant dans les membres inférieurs
+T70	disorder 4163 4176	Douleurs +++ 
+T71	disorder 4177 4197	t brûlures internes.
+T72	procedure 4198 4214	Sondage 1660 ml 
+T73	disorder 4313 4341	membres inférieurs immobiles
+T74	disorder 4341 4372	, abdomen gonflé non douloureux
+T75	procedure 4373 4389	 sondage 1400 ml
+T76	disorder 4404 4421	douleurs dorsales
+T77	disorder 4431 4474	absence de mobilité des membres inférieurs,
+T78	disorder 4475 4498	ne sent plus ses jambes
+T79	profession 4499 4513	 Anesthésiste 
+T80	disorder 4647 4714	paraplégie flasque avec diminution de la sensibilité proprioceptive
+T81	procedure 4822 4827	 IRM,
+T82	disorder 4857 4882	épidurite «infectieuse » 
+T83	disorder 4856 4911	 épidurite «infectieuse » étendue de D2 jusqu’au sacrum
+T84	procedure 4951 4998	rois laminectomies (T2 à T6, T9 à T12, L2 à L5)
+T85	disorder 5061 5066	abcès
+T86	procedure 5070 5092	examen bactériologique
+T87	procedure 5112 5133	Staphylococcus aureus
+T88	drugs 5148 5160	meticilline,
+T89	drugs 5179 5188	Orbenine®
+T90	drugs 5192 5201	Rifadine®
+T91	drugs 5246 5255	 Oflocet®
+T92	drugs 5259 5268	Rifadine®
+T93	disorder 5375 5424	 déficit moteur complet du membre inférieur droit
+T94	disorder 5427 5468	 des cotations de 1 à 2 sur 5, à gauche. 
+T95	disorder 5701 5719	troubles sensitifs
+T96	disorder 5731 5762	 un syndrome pyramidal complet 
+T97	disorder 5764 5791	 une hypoesthésie en selle 
+T98	disorder 5813 5837	 troubles de l’équilibre

@@ -1,0 +1,35 @@
+Présentation du cas
+
+Un patient de 54 ans s’est présenté au service des urgences en raison d’une éruption cutanée présente depuis le matin et qui a progressé au fil de la journée. La semaine précédente, il avait remarqué qu’il souffrait d’une anosmie; six jours après la présence de ce symptôme, il a été testé positif pour le SARS-CoV-2, tout comme son épouse et leur fille qui vivait avec eux. En dehors d’un abattement prononcé, d’une légère toux sèche et de températures subfébriles, le patient n’avait pas présenté d’autres symptômes jusqu’à la survenue de l’exanthème au neuvième jour. Il a déclaré ne pas souffrir d’allergies. Hormis un zona thoracique droit il y a deux ans, le patient n’avait jamais eu de maladies cutanées. Il n’avait pas pris de médicaments au cours des dernières semaines.
+
+Sur le plan clinique, le patient était fébrile (39,4 °C) et dans un état général légèrement diminué au moment de sa présentation, avec un exanthème maculo-papuleux en partie confluent prédominant au niveau de la région fessière et des cuisses. L’examen clinique était au demeurant sans particularités, avec notamment une absence de signes de thrombose des membres inférieurs.
+
+Les analyses de laboratoire ont révélé les anomalies de l’hémogramme typiques du COVID-19, avec lymphopénie et éosinopénie, une réaction inflammatoire prononcée, ainsi que des marqueurs de fibrinolyse augmentés (CRP 129 mg/l, d-dimères 18 920 µg/l). Les hémocultures prélevées sont restées stériles par la suite.
+
+L’échographie thoracique au chevet du patient a révélé des lignes B confluentes à prédominance dorsale. Il s’agit d’artefacts clairs en bandes partant de la ligne pleurale, dont l’absence rend une pneumonie associée au COVID-19 improbable (fig. 1A) [1]. Les lignes B sont un signe de densité interstitielle augmentée et elles s’observent par exemple en cas d’œdème pulmonaire, de pneumopathies interstitielles diffuses ou focales, d’infections et de «syndrome de détresse respiratoire ­aiguë» (SDRA). Des épanchements pleuraux ou des consolidations sous-pleurales importantes n’ont pas été mis en évidence à l’échographie. La tomoden­sitométrie thoracique avec produit de contraste ­intraveineux n’a pas montré de signes d’embolie pulmonaire, mais a cependant objectivé des infiltrats pulmonaires bilatéraux pathognomoniques (fig. 1B).
+
+Figure 1: Imagerie:A ) Echographie thoracique: lignes B confluentes (flèche blanche) partant de la plèvre (flèche grise) au niveau dorsal droit, compatibles avec le COVID-19.B ) Tomodensitométrie (coupe axiale, fenêtre pulmonaire): opacités en verre dépoli (flèche noire) périphériques au niveau dorsal typiques du COVID-19 en tant que corrélat des anomalies échographiques.
+
+Le patient a pu quitter l’hôpital dans un état général ­acceptable pour poursuivre son isolement à domicile, en se faisant prescrire un traitement antipyrétique par paracétamol ainsi qu’une prophylaxie de la thrombose à dose élevée (2× 60 mg d’énoxaparine s.c. par jour).
+
+Lors du contrôle de suivi au 11e jour de la maladie, la sensation de maladie et l’anosmie étaient déjà régressives, avec une température subfébrile (37,5 °C). L’examen physique n’a pas retrouvé d’anomalies, à l’exception d’une progression de l’exanthème, qui s’étendait à présent sur tout le tronc et toutes les extrémités et s’accompagnait d’un prurit modéré (fig. 2).
+
+Figure 2: Exanthème: manifestation au niveau de l’abdomen (A ) et du dos (B ) chez le patient, au 11e jour de la maladie. (La publication a été réalisée avec l’accord du patient.)
+
+Les analyses de laboratoire ont révélé un état inflammatoire persistant, avec une régression des produits de dégradation de la fibrine (CRP 163 mg/l, D-dimères 3135 µg/l).
+
+Compte tenu de l’absence de facteurs de risque supplémentaires d’évènements thromboemboliques, il a été décidé de ne pas poursuivre la prophylaxie de la thrombose. Les lignes directrices américaines actuelles ne recommandent pas d’anticoagulation chez les patients ambulatoires atteints de COVID-19 dès lors qu’il n’y a pas d’autres indications à un tel traitement ou que les patients ne participent pas à une étude clinique [2].
+
+Le traitement antipyrétique a été poursuivi en tant que traitement de secours et une tentative de traitement par lévocétirizine a été initiée (5 mg p.o. le soir).
+
+D’après les indications fournies plus tard par téléphone par le patient, l’exanthème avait quasiment régressé en totalité au 12e jour suite à la prise unique de lévocétirizine la veille au soir; étant donné qu’il n’avait pas de fièvre, il n’a plus pris d’autres médicaments. Au 15e jour, seule une toux sèche minime persistait, l’anosmie avait totalement disparu.
+
+Discussion
+
+Dans les premières études réalisées en Chine centrale, des manifestations cutanées n’ont que très rarement été décrites dans le cadre du COVID-19; une étude ultérieure réalisée en Italie a toutefois révélé la présence de manifestations cutanées, le plus souvent prédominantes au niveau du tronc, dans 20% des cas (hospitalisés) [3].
+
+Tandis que la plupart des manifestations cutanées surviennent simultanément avec d’autres symptômes ou après d’autres symptômes, elles peuvent également les précéder dans 10% des cas. Les manifestations cutanées les plus fréquentes sont des lésions acrales à type d’engelures (40%), suivies d’efflorescences maculo-papuleuses (21%), vésiculaires (13%) et urticariennes (11%), mais d’autres anomalies cutanées ont également été décrites [4]. Il existe des associations entre les diverses manifestations cutanées et les différents groupes d’âge et les différentes évolutions de la maladie, mais on ignore encore si elles peuvent être utilisées pour la stratification du risque [5]. Aucun traitement spécifique des manifestations cutanées associées au COVID-19 n’a été décrit dans la littérature. Nous estimons que la régression rapide des lésions cutanées suite à la prise d’un antihistaminique est le plus vraisemblablement une coïncidence.
+
+Conclusion
+
+Dans le cadre de la pandémie de COVID-19, les manifestations cutanées de survenue nouvelle chez des patients avec ou sans autres symptômes devraient faire penser à une infection par le SARS-CoV-2. En conséquence, il ne faut pas hésiter à réaliser un test de dépistage du nouveau coronavirus, sans pour autant perdre de vue les autres diagnostics différentiels possibles. En cas d’infection par le SARS-CoV-2 avérée et dépendant du traitement que le patient a déjà reçu, il convient ­notamment aussi d’envisager un exanthème médicamenteux, une urticaire allergique ou une intolérance aux inhibiteurs de la synthèse des prostaglandines.

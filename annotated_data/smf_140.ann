@@ -1,0 +1,63 @@
+T1	irrelevant 10 399	Les maladies endocriniennes constituent un déclencheur rare d’une augmentation de la pression intracrânienne et nécessitent une mise au point diagnostique et thérapeutique interdisciplinaire. Nous exposons le cas d’un patient âgé de 41 ans présentant une hypertension intracrânienne (HI) extrêmement sévère qui s’est présentée comme le premier signe d’un hyperaldostéronisme primaire (HAP)
+T2	disorder 569 600	vision brouillée des deux yeux 
+T3	disorder 613 655	céphalées affectant l’ensemble de la tête 
+T4	disorder 688 710	troubles de la vision 
+T5	risk 900 909	tabagisme
+T6	risk 941 964	hypertension artérielle
+T7	risk 971 994	diabète sucré de type 2
+T8	procedure 1137 1159	test d’acuité visuelle
+T9	disorder 1650 1668	œdèmes papillaires
+T10	labvalue 1549 1561	+1 = –0,5/9°
+T11	labvalue 1577 1592	+0,5 = –1,25/1°
+T12	procedure 1605 1626	examen du fond d’œil 
+T13	procedure 1728 1779	 imagerie par résonance magnétique cérébrale (IRMc)
+T14	disorder 1885 1935	œdème consécutif à l’hyperpression intracrânienne 
+T15	procedure 2161 2177	ponction de LCR 
+T16	disorder 2110 2148	écoulement du liquide céphalorachidien
+T17	procedure 2413 2458	ponction de 40 ml de liquide céphalorachidien
+T18	labvalue 2672 2686	 240/140 mm Hg
+T19	procedure 2973 3011	échographie duplex des artères rénales
+T20	labvalue 3312 3323	 20,7 ng/mU
+T21	labvalue 3149 3159	2,9 mmol/l
+T22	labvalue 3434 3442	20 ng/mU
+T23	labvalue 3781 3789	367 ng/l
+T24	labvalue 3856 3865	208 ng/l 
+T25	procedure 4315 4369	Le prélèvement de sang à partir des veines surrénales 
+T26	labvalue 4725 4735	115 μmol/l
+T27	disorder 4626 4641	cardiomyopathie
+T28	procedure 4579 4612	échocardiographie transthoracique
+T29	disorder 5243 5362	Hypertension intracrânienne secondaire et situation de risque hypertensif en présence d’un hyperaldostéronisme primaire
+T30	drugs 5425 5435	nifédipine
+T31	drugs 5437 5445	urapidil
+T32	drugs 5449 5459	lisinopril
+T33	labvalue 5707 5720	160/110 mm Hg
+T34	drugs 5873 5884	lisinopril 
+T35	drugs 5887 5897	amlodipine
+T36	labvalue 6001 6013	130/80 mm Hg
+T37	drugs 7488 7498	Amiodarone
+T38	drugs 7498 7510	Ciclosporine
+T39	drugs 7510 7520	Cimétidine
+T40	drugs 7520 7527	Danazol
+T41	drugs 7527 7539	Indométacine
+T42	drugs 7539 7551	Interféron-a
+T43	drugs 7551 7558	Lithium
+T44	drugs 7558 7575	Acide nalidixique
+T45	drugs 7575 7590	Nitrofurantoïne
+T46	disorder 7751 7779;7780 7790	Syndrome d’apnée obstructive du sommeil
+T47	disorder 7659 7691	Troubles de l’écoulement veineux
+T48	disorder 7692 7710	Thrombose du sinus
+T49	disorder 7710 7736	Fistules veineuses durales
+T50	drugs 7600 7613	Tétracyclines
+T51	drugs 7590 7600	Tamoxifène
+T52	drugs 7613 7658	Dérivés de la vitamine AHormone de croissance
+T53	disorder 7337 7345;7346 7360	Maladies endocriniennes
+T54	disorder 7361 7380	Hyperaldostéronisme
+T55	disorder 7380 7397	Hypoparathyroïdie
+T56	disorder 7397 7419	Insuffisance surrénale
+T57	disorder 7419 7439	Syndrome des ovaires
+T58	disorder 7440 7453	polykystiques
+T59	disorder 7453 7475	Maladies thyroïdiennes
+T60	labvalue 10821 10838	12,5 à 50 mg/jour
+T61	labvalue 11552 11561	 41 cmH2O
+T62	disorder 11580 11593	HI chronique 
+T63	procedure 13589 13642	 test de dépistage initial en cas de suspicion d’HAP 

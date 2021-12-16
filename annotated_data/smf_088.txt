@@ -1,0 +1,81 @@
+Description du cas
+
+Vous voyez en consultation à votre cabinet un patient de 64 ans, connu pour un syndrome métabolique avec un diabète de type II traité par antidiabétiques oraux et un antécédent de bypass gastrique en 2008. Il vous consulte suite à la découverte fortuite, lors du contrôle biologique annuel, d’une perturbation des tests hé­patiques avec une aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT) à 10 fois la norme, phosphatase alcaline à 2 fois la norme et gamma GT à 5 fois la norme. Le patient est asymptomatique au ­moment de la consultation. Il signale un état grippal 2 semaines avant la prise de sang, avec asthénie et myalgies diffuses, symptômes ayant duré 2 à 3 jours. Il décrit une consommation d’alcool occasionnelle. Il n’y a pas de prise médicamenteuse suspecte, de voyage en région tropicale récent, ou de consommation de viande mal cuite. Il travaille dans l’élevage bovin, et n’a pas de contact avec des porcs.
+
+Votre examen clinique se révèle sans particularité, notamment une absence d’ictère, d’ascite et d’hépatomégalie palpable. Le signe de Murphy est négatif.
+
+Les sérologies du cytomégalovirus (CMV), du virus d’Epstein-Barr (EBV) et du virus de l’immunodéficience humaine (VIH) sont négatives et les sérologies des hépatites ne sont positives que pour le virus de l’hépatite E (VHE, Tab. 1).
+
+Tableau 1: Sérologies des hépatites infectieuses du patient.
+Sérodiagnostic des hépatites virales
+HBsAg	Négatif
+Anti-HBc totaux	Négatif
+Anti-HAV IgM	Négatif
+Anti-HCV totaux	Négatif
+Anti-HEV IgG	Positif
+Anti-HEV IgM	Positif
+HBsAg: antigène de surface du virus de l’hépatite B; Anti-HBc: anticorps dirigés contre l’antigène de core du virus de l’hépatite B; HAV: virus de l’hépatite A; HCV: virus de l’hépatite C; HEV: virus de l’hépatite E;
+
+L’ultrason abdominal montre une hépatomégalie sans lésion focale suspecte, ni stéatose ou fibrose hépatique remarquable.
+
+Question: Quel examen supplémentaire proposez-vous pour la confirmation du diagnostic d’une hépatite E aiguë?
+
+
+a) Aucune investigation supplémentaire n’est nécessaire.
+
+b) Dosage de la ferritine et saturation de la transferrine.
+
+c) Dosage de l’ARN HEV par PCR dans le plasma/sérum.
+
+d) Dosage des anticorps anti-nucléaires et anti-muscle lisse.
+
+Réponse:
+
+
+La réponse correcte est c.
+
+Suspectant une hépatite aiguë chez un patient ayant présenté des symptômes grippaux il y a 2 semaines, des investigations supplémentaires s’imposent, surtout en présence d’une sérologie qui suggère une infection aiguë par VHE. Dans ce contexte, un dosage de l’ARN viral par l’amplification d’acides nucléiques («polymerase chain reaction» [PCR]) est fortement recommandé afin de confirmer le diagnostic d’hépatite aiguë à VHE.
+
+Le dosage de la ferritine et saturation de la transferrine sont utiles pour le diagnostic d’une hémochromatose, qui se manifeste cliniquement par une asthénie, des arthralgies, une perte de la libido, un diabète, une pigmentation de la peau et une atteinte hépatique parfois au stade de cirrhose. L’évolution est plutôt chronique, les tests hépatiques ne sont généralement que peu perturbés, raison pour laquelle ce diagnostic est peu probable chez ce patient en présence d’une hépatite aiguë sévère.
+
+L’hépatite auto-immune correspond à une atteinte inflammatoire chronique plus fréquente chez la femme que l’homme. Elle est souvent associée à d’autres maladies auto-immunes. La présentation clinique peut aller de l’hépatite sévère à la perturbation chronique du ­bilan hépatique. 50% des patientes présentent une maladie au stade de cirrhose lors du diagnostic. Ce dernier repose sur la présence d’anticorps anti-nucléaires et anti-muscle lisse, associés à une élévation des IgG totaux, après exclusion d’autres diagnostics, notamment toute hépatite virale. Dans ce contexte, il est donc seulement justifié d’effectuer une recherche d’auto-immunité face à un tableau d’hépatite sévère si la recherche d’ARN viral de VHE par PCR est négative.
+
+Discussion
+
+L’infection par VHE est actuellement considérée comme la cause la plus fréquente d’hépatite aiguë et d’ictère dans le monde. Celle-ci reste probablement sous-diagnostiquée [1].
+
+Découvert en 1983, le VHE est un virus à ARN, appartenant à la famille des Hepeviridae. Il existe 4 génotypes du virus capables d’infecter l’être humain. Les génotypes 1 et 2 sont responsables d’épidémies dans les pays en voie de développement et sont transmis principalement par voie féco-orale. Dans les pays industrialisés, des cas autochtones sont décrits, qui résultent d’infections zoonotiques par le génotype 3 et plus rarement par le génotype 4, transmis lors de la consommation de viande crue ou insuffisamment cuite (porc, gibier) [2, 3]. La séroprévalence est estimée à 12,5% chez les sangliers et jusqu’à 58,1% chez les porcs [2].
+
+En Suisse, la séroprévalence chez l’humain est de 4,2 à 21,8%, selon le test sérologique utilisé et la région étudiée. Le nombre des cas diagnostiqués est à la hausse. Ceci est probablement partiellement en lien avec une meilleure reconnaissance de la maladie (fig. 1) [1, 2].
+
+Figure 1: Distribution régionale de la séroprévalence des IgG VHE chez des donneurs de sang en Suisse (adapté de [7]: Nieder­hauser C, Widmer N, Hotz M, Tinguely C, Fontana S, Allemann G, et al. Current hépatitis E virus seroprevalence in Swiss blood donors and apparent decline from 1997 to 2016. Euro Surveill. 2018;23(35):1700616. https://doi.org/10.2807/1560-7917.ES.2018.23.35.1700616. The original work is licensed under a Creative Commons Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/). VHE: virus de l’hépatite E.
+
+Depuis début 2018, elle fait, par ailleurs, partie des ­maladies infectieuses à déclaration obligatoire selon l’Office fédéral de la santé publique. Dans 90% des cas, l’infection est asymptomatique et autolimitée [4]. Ce sont surtout les hommes de plus de 50 ans qui peuvent développer des symptômes sévères. En cas d’hépatopathie préexistante et notamment de cirrhose, le risque de morbidité et de mortalité dues au virus est accru. Le tableau clinique est caractérisé par des symptômes initialement souvent peu spécifiques (fièvre, asthénie, nausées, inappétence). En cas de cirrhose, le virus sera souvent responsable d’une décompensation sévère [5]. Dans les pays en voie de développement, il existe des cas d’hépatite aiguë fulminante associée au génotype 1 touchant particulièrement les femmes enceintes ainsi que les nourrissons, avec un taux de mortalité élevé [1, 3, 4]. Des manifestations extra-hépatiques, no­tamment neurologiques, sont également décrites lors d’infection par le génotype 3 [1]. Chez les personnes immunosupprimées, la maladie peut évoluer vers une hépatite E chronique définie par la persistance d’ARN viral dans le sang ou dans les selles pendant plus de six mois et pouvant évoluer rapidement vers une cirrhose [2].
+
+Le diagnostic de l’hépatite E repose sur la détection d’anticorps IgM et IgG dans le sérum à l’aide de tests ­sérologiques ciblant le VHE et de l’ARN du virus dans le plasma (sérum) ou les selles par PCR [2, 3].
+
+Tests sérologiques
+
+Les anticorps IgM et IgG anti-VHE apparaissent dès les premiers symptômes. Les IgM sont détectés dès l’apparition de l’hépatite et restent positives pour une durée de 3 à 12 mois (fig. 2). Les IgG se positivent peu après l’apparition des IgM et peuvent persister pendant des années, voire à vie [2, 4]. La présence d’anticorps IgM anti-VHE parle généralement en faveur d’une infection récente, tandis que la présence d’IgG témoigne d’une exposition préalable au virus, quel que soit son génotype (un seul sérotype) [3, 4].
+
+Figure 2: Représentation d’une infection aiguë par le virus de l’hépatite E (de [2]: Béguelin C, Fraga M, Wandeler G, Sahli R, Rauch A, Moradpour D. Hépatite E. Forum Med Suisse. 2016;16(24):510–4. Reproduction avec l’aimable autorisation de l’éditeur).
+
+VHE: virus de l’hépatite E; ALAT: alanine aminotransférase.
+
+Malgré un grand nombre de tests sérologiques actuellement disponibles, ceux-ci présentent une sensibilité et une spécificité sous-optimales et variables selon le test choisi, avec souvent des résultats discordants lors d’études comparatives, rendant le diagnostic sérologique de l’hépatite E peu robuste [1, 2, 4]. Par exemple, la sensibilité des trousses diagnostiques détectant les IgM varie entre 24% et 97,7%, selon celle choisie, et la spécificité entre 84% et 100% [4]. Lors d’une étude ­récente, comparant 6 tests sérologiques commercialisés et 3 tests PCR, les auteurs ont constaté une concordance de seulement 53% à 71% pour les IgM et de 76% à 95% pour les IgG [6]. Cette variabilité des résultats est due notamment à des différences entre les antigènes diagnostiques utilisés [6]; les tests basés sur des protéines recombinantes ont une meilleure sensibilité que ceux basés sur des peptides synthétiques [4, 6]. Il est à noter que la spécificité des tests IgM est compromise par d’éventuelles réactions croisées avec des IgM spécifiques d’autres virus (p.ex. EBV et CMV), ainsi que par la compétition avec les IgG [4, 6]. L’utilisation de ces tests chez les patients immunosupprimés est par ailleurs d’une utilité limitée. Les résultats doivent être interprétés avec prudence, la sérologie étant négative dans environ 50% des cas [1, 2].
+
+PCR
+
+L’ARN du virus apparaît dans le plasma et les selles vers la fin de la période d’incubation, et persiste durant la phase clinique et une partie de la période de convalescence. La virémie VHE est positive jusqu’à environ 3 semaines après le début des symptômes, tandis que l’ARN dans les selles est détectable plus longtemps (fig. 2) [6].
+
+La PCR est un examen avec une très bonne sensibilité et spécificité analytique [1, 4]. Sur le plan épidémiologique, cette technique permet de déterminer le génotype du virus et ainsi de différencier un virus autochtone d’un virus importé d’une région endémique, ce qui est utile en recherche [1, 2]. La PCR permet, par ailleurs, de poser le diagnostic chez les personnes immunosupprimées pour lesquelles la sensibilité de la sérologie est suboptimale [3]. En cas de manifestation extra-hépatique, par exemple de syndrome de Parsonnage Turner, la détection de l’ARN du virus permettra d’attribuer le syndrome clinique à l’hépatite E [1, 3]. En cas d’hépatite E chronique, la PCR quantitative est indispensable pour le suivi de la charge virale et donc de la réponse au traitement [3].
+
+Malgré ces avantages, la PCR VHE est limitée en termes cliniques par le temps de circulation court du virus au niveau sanguin et fécal. La PCR devrait donc idéalement être effectuée précocement dès le début des symptômes pour qu’elle ait une sensibilité et une spécificité clinique optimale. Or, la plupart des hépatites aigues n’étant que peu ou pas symptomatiques, la PCR risque d’être négative au moment de la recherche du virus car le prélèvement est trop tardif [1, 2]. Finalement, la PCR est une technique plus sophistiquée (et éventuellement moins accessible) que les tests sérologiques et présente un coût plus élevé (180 CHF contre 73 CHF), ce qui peut éventuellement constituer un obstacle, surtout dans un contexte ambulatoire.
+
+Chez le patient présenté au début de cet article, la PCR effectuée sur le plasma étant positive, elle a permis de confirmer le diagnostic d’hépatite E aiguë. Par ailleurs, les tests hépatiques se sont normalisés 3 semaines plus tard. Dans la plupart des cas, l’hépatite E aiguë est rapidement et spontanément résolutive. En cas d’infection aiguë à VHE, un suivi rapproché des tests hépatiques et de la fonction hépatique s’impose chez les femmes enceintes (en pays d’endémie ou au ­retour d’un voyage en zone d’endémie). Les patients présentant une hépatopathie chronique sous-jacente et notamment une cirrhose doivent être suivis également de manière très rapprochée en cas d’infection à VHE puisqu’il existe un risque élevé de décompensation hépatique et de mortalité associée. Chez les patients immunosupprimés (transplantation d’organes, VIH, chimiothérapie intensive) le suivi du dosage de l’ARN viral par PCR quantitative (dans le plasma ou les selles) après le diagnostic d’hépatite aiguë est par ailleurs important, afin d’exclure l’évolution vers une hépatite E chronique. En pratique clinique, face à toute infection à VHE chez une personne immunosupprimée, il faut rapidement, si possible, diminuer l’immunosuppression en vue d’éliminer le virus et donc de diminuer les risques d’infection chronique associée à un taux élevé de cirrhose secondaire.
+
+Messages principaux
+
+• L’hépatite E devrait être évoquée face à toute perturbation des tests hépatiques, surtout chez les personnes présentant une hépatopathie préexistante et chez celles qui sont immunosupprimées.
+
+• La PCR («polymerase chain reaction») quantitative est l’examen de choix pour la confirmation du diagnostic d’une hépatite E aiguë ou chronique et le suivi d’une hépatite E chronique.

@@ -1,0 +1,129 @@
+Description du cas
+
+Un patient d’origine caucasienne de 29 ans consulte les urgences en raison d’intenses douleurs proximales des membres inférieurs, associées à des urines couleur «rouge-porto». Il revient d’un voyage à vélo de 450 km sur 5 jours. L’examen clinique met en évidence une sensibilité à la palpation des quadriceps sans autre anomalie.
+
+Un deuxième patient d’origine africaine de 34 ans consulte les urgences en raison d’un premier épisode d’urines foncées. Il a participé à un cours de CrossFit de 45 minutes, 3 jours auparavant. L’effort était d’intensité modérée. L’examen clinique retrouve une induration des pectoraux et biceps sans faiblesse associée.
+
+Aucun des deux patients ne consomme de médicament ou toxiques.
+
+Question 1: Quel-s examen-s paraclinique-s diagnostique-s ­effectuez-vous?
+
+
+a) Créatine kinase
+
+b) Créatinine kinase et myoglobine plasmatique
+
+c) Créatinine kinase et aspartate aminotransférase
+
+d) Bandelette urinaire avec sédiment
+
+e) Aucun; ces patients ont des courbatures
+
+Les tableaux cliniques évoquent en premier lieu une rhabdomyolyse d’effort (RME). Lors d’une rhabdomyolyse (RM), le contenu du cytoplasme des myocytes est libéré dans la circulation sanguine. Les taux plasmatiques de myoglobine augmentent rapidement avant élimination principalement par voie rénale en moins de 24 heures. En contraste, les valeurs de créatine kinase (CK) plasmatiques augmentent plus tardivement, atteignent un plateau après 24 heures, avant élimination complète en 6–10 jours. Ces cinétiques ainsi que la bonne corrélation entre les valeurs de CK, et la quantité de muscle lésé, font des CK, au contraire de la myoglobine, un biomarqueur de choix pour le diagnostic et le suivi paraclinique de la RM [1]. Il n’existe toutefois pas de consensus sur les valeurs seuil nettes de CK définissant la RM, mais des valeurs à ≥5 fois la valeur haute normale (ULN) sont acceptées comme diagnostic.
+
+La présentation clinique type associe un myo-œdème douloureux, une faiblesse musculaire et une pigmenturie (myoglobinurie) conférant aux urines une couleur de thé-noir. Comme la bandelette urinaire ne fait pas la différence entre myoglobine et hémoglobine, une bandelette positive sans erythrocyte au sédiment suggère la présence de myoglobine dans les urines.
+
+L’aspartate aminotransférase (ASAT) est quant à elle présente dans le muscle tout comme l’est dans une moindre mesure l’alanine aminotransférase (ALAT) et semble suivre une cinétique parallèle à celle des CK mais n’est pas utilisable comme outil diagnostique en raison de sa faible spécificité.
+
+Nos deux patients avaient respectivement des CK à 72 000 et 100 000 UI/l à leur arrivée aux urgences avec myoglobinurie au stix urinaire.
+
+Question 2: Quels examens paracliniques supplémentaires ­faites-vous?
+
+
+a) Créatinine, urée, acide urique
+
+b) Sodium, potassium, phosphate, calcium, albumine, magnésium
+
+c) TSH, formule sanguine, TP/INR, status acide base et électrocardiogramme
+
+d) a et c
+
+e) Tous
+
+Une fois le diagnostic de RME est posé, le bilan initial a pour but d’exclure les causes acquises de RM et d’évaluer la présence de complications. Les causes acquises les plus fréquentes sont le traumatisme, la consommation d’alcool, la consommation de drogues ou de médicaments et les causes systémiques (ex: infection, inflammatoire, endocrinienne). Nous renvoyons le lecteur intéressé aux principales étiologies de la RM ­récemment publiées dans ce journal [2].
+
+L’insuffisance rénale aiguë (IRA), qui survient chez 13 à 50% des patients selon les séries est le principal déterminant de la mortalité. Son incidence augmente lorsque la RM est d’origine traumatique ou lorsque plusieurs facteurs de risque s’additionnent [3, 4]. L’IRA s’explique par trois phénomènes distincts: (1.) Une vasoconstriction intra-rénale secondaireaux cytokines libérées et à l’hypovolémie induite par la séquestration de fluide dans le muscle lésé. Cette hypovolémie parfois sévère active le système rénine-angiotensine-­aldostérone, induit la sécrétion de vasopressine et augmente l’activité sympathique, amplifiant à son tour la vasoconstriction. (2.) Une obstruction tubulaire par la précipitation de la myoglobine avec l’uromoduline (protéines de Tamm-Horsfall). Ce phénomène est amplifié lorsque le pH urinaire est acide et doit faire ­rechercher la présence de cylindres pigmentés au sédiment urinaire. (3.) Des lésions tubulaires directesinduites par des radicaux hydroxyl générés par l’oxydation du fer ferreux (Fe2+) lié à la myoglobine, en fer ferrique (Fe3+) [3].
+
+Les troubles électrolytiques (libération du contenu ­intracellulaire) sont une complication majeure nécessitant un suivi rapproché et la réalisation d’un électrocardiogramme. On peut observer une hyperkaliémie, une hyperphosphatémie, une hyperuricémie et une hypermagniésiémie. Dans la phase initiale, une hypocalcémie est toutefois possible en raison d’une chélation du calcium par le phosphate. En l’absence de symptômes, cette hypocalcémie ne doit pas être corrigée, puisque fréquemment suivie d’une hypercalcémie lorsque la nécrose musculaire est complète. Une complication rare mais sévère de la RM, est la coagulation intravasculaire disséminée, liée au relargage de facteurs prothrombotiques intramusculaires justifiant la réalisation d’une crase.
+
+Le complément de bilan effectué chez chacun des deux patients ne montre pas d’anomalie de ces paramètres.
+
+Question 3: Quelle surveillance et prise en charge ­thérapeutique proposez-vous?
+
+
+a) Retour à domicile et suivi à 48 heures
+
+b) Hospitalisation à l’étage, hydratation pour cible de diurèse de 3 ml/kg/h, bicarbonates selon pH urinaire
+
+c) Idem que b + mannitol 200 g/jour
+
+d) Idem que b mais hospitalisation aux soins intermédiaires
+
+e) Idem que d + mannitol 200 g/jour
+
+Les recommandations de prise en charge de la RM ­reposent principalement sur des études non contrôlées. La mesure principale est l’hydratation abondante précoce au moyen d’une solution de NaCl 0,9 ou 0,45% pour une cible de diurèse initiale de 3 ml/kg/h (soit ­environ 200 à 300 ml/h) [3, 5]. Une telle hydratation peut toutefois per se induire une acidose métabolique hyperchlorémique par dilution des bicarbonates plasmatiques. Il est par conséquent suggéré d’y ajouter une perfusion intermittente de bicarbonates si le pH urinaire est supérieur à 6,5. Dans ce cas, on alternera la perfusion de chaque litre de solution saline avec un litre de solution de glucose 5% contenant 100 mmol de bicarbonate. L’évidence soutenant l’utilisation de mannitol est faible, et son utilisation de routine n’est pas recommandée. Il semble favoriser la réabsorption de liquide séquestré dans le muscle lésé, mais est associé, à doses élevées, à une toxicité tubulaire rénale. Il doit par conséquent être réservé aux patients ayant une diurèse de >20 ml/h et chez lesquels, une hydratation agressive n’a pas permis de restaurer la diurèse cible de 3 ml/kg/h. Les diurétiques de l’anse ne sont indiqués que chez les patients dont l’état euvolémique a déjà été restauré et afin d’atteindre la diurèse cible de 3 ml/kg/h. La dialyse précoce ne semble pas apporter de ­bénéfice en dehors des indications usuelles. Une prise en charge aux soins intermédiaires aurait été justifiée par une IRA ou des troubles électrolytiques associés.
+
+Chez chacun des deux patients, une hydratation par NaCl 0,9% en alternance avec une solution de bicarbonates est débutée aux urgences puis poursuivie à l’étage avec diminution des CK en quelques jours.
+
+Question 4: Chez quel patient un bilan étiologique plus poussé est-il indiqué?
+
+
+a) Le premier mais pas le second
+
+b) Le second mais pas le premier
+
+
+c) Aucun des deux
+
+d) Tous les deux
+
+e) Il manque des informations pour trancher
+
+On estime qu’environ 2% des RM sont d’origine génétique. Lorsque l’exercice est le seul trigger identifié et que les causes acquises ont été exclues, l’acronyme RHABDO aide à identifier les patients chez lesquels un dépistage pour une origine génétique est indiqué (tab. 1). Selon ses auteurs, un seul de ces critères suffit pour justifier un dépistage [6]. Une cause génétique devrait être évoquée chez des patients présentant une RM dont la sévérité est disproportionnée par rapport à l’effort causal, et surtout devant des RME récidivantes.
+
+Tableau 1: Paramètres devant individuellement faire rechercher une cause génétique/métabolique sous-jacente; acronyme RHABDO (adapté de [6]).
+R	Récurrence des épisodes
+H	HyperCkémie persistante à 8 semaines de l’événement
+A	Exercice causal d’intensité habituelle («Accustomed physical exercise» en anglais)
+B	Créatine kinase sanguines («Blood») >10 000 UI/l chez la femme d’origine caucasienne ou >50 ULN
+D	Drogues/médicaments et autres facteurs endogènes ou exogènes n’expliquent pas la sévérité de la rhabdomyolyse
+O	D’autres («Other») membres de la famille ont présenté une rhabdomyolyse ou souffrent d’une myopathie.
+ULN: limite supérieure de la norme
+Tableau S1: Exemples de myopathies métaboliques (liste non exhaustive), adapté de [7, 8].
+Nom	Symptomes aigus	Facteur déclancheur	Symptomes hors épisode	CK basales	Exemples	Particularités
+Métabolisme du glucose et du glycogène	Début précoce des symptômes après un exercice intense	Effort intense, contraction musculaire isométrique	• Souvent asymptomatique • Parfois faiblesse musculaire et intolérance à l’effort	Elévées	1) Maladie de McArdle (déficit en myophosphorylase) 2) Maladie de Tarui ­(déficit en phosphofructokinase)3) Autres	1) Myalgies améliorées à la reprise de l’exercice ­après quelques minutes de repos (phénomène de second souffle)2) Exacerbée par la prise de glucose avant l’effort
+Métabolisme des lipides	Début tardif lorsque l’effort se prolonge ou à distance de l’effort	Effort prolongé, triggers cataboliques (ex.: fièvre, stress, jeune prolongé)	Faiblesse musculaire rare	Normales ou élevées	1) Déficit en Carnitine Palymitoyltransferase II (CPT2)2) Autres	Douleur musculaire persistante plusieurs jours après l’effort
+Maladie mitochondriale	Début précoce après un exercice	• Effort d’intensité variable. • Triggers cataboliques, médicaments interagissant avec la fonction mitochondriale.	• L’intolérance à l’effort est au premier plan•Faiblesse musculaire possible	Normales ou élevées	1) Mutations de l’ADN mitochondrial (MERRF, MELAS)2) Mutations dans le Cytochrome b/c3) Autres	Atteintes extramusculaires, notammnent organes à consommation d’énergie élevée (cardiopathie, ­endocrinopathie, ­encephalopathie, etc).
+Abréviations: ADN; acide désoxyribonucléique, MELAS; mitochondrial encephalopathy, lactic acidosis and stroke-like episodes, MERRF; myoclonic epilepsy with ragged red fibers
+
+Dans le cas du premier patient, un complément d’anamnèse met en évidence un antécédent de RM quatre ans auparavant suite à un tour à vélo de 4 jours et une notion de maladie musculaire chez un cousin de premier degré. Le deuxième patient n’a quant à lui ni antécédent personnel, ni histoire familiale évocatrice de myopathie. Il indique toutefois cumuler 2 emplois depuis 6 mois et travailler plusieurs jours par semaine jusqu’à 22 heures/24. L’alimentation est erratique avec des périodes de jeûne prolongé. L’effort physique est d’intensité habituelle, le patient ayant souligné s’être entraîné à faible intensité.
+
+Question 5: Quel type de pathologie vous évoque l’histoire du premier patient?
+
+
+a) Une RME physiologique
+
+b) Un déficit enzymatique du métabolisme de la β-oxydation des lipides
+
+c) Une RM sur drépanocytose
+
+d) Un déficit enzymatique du métabolisme du glucose ou du glycogène
+
+e) Une maladie mitochondriale
+
+Les myopathies métaboliques innées constituent un groupe distinct de maladies pouvant générer une RME. Elles sont liées à un dysfonctionnement du métabolisme intermédiaire touchant principalement les voies (1.) du métabolisme du glucose/glycogène, (2.) de l’oxydation des lipides et/ou (3.) de la chaîne respiratoire mitochondriale. Elles sont liées à des déficits enzymatiques distincts mais dans tous les cas elles provoquent une perturbation de la synthèse d’énergie nécessaire au muscle durant l’effort. Selon la voie impliquée, la survenue des symptômes surviendra plutôt en début d’effort (ex: glycogénosesmusculaires) ou après un effort prolongé (anomalies de la β-oxydation) et constitue fréquemment un élément unique du tableau clinique. En revanche, la survenue d’une RM associée à des atteintes extramusculaires touchant principalement les organes à consommation d’énergie élevée tels que le cœur, les glandes endocrines ou le cerveau, évoque une maladie mitochondriale (voir tab. S1 dans l’annexe joint à l’article en ligne). En cas de suspicion de myopathies métaboliques, un avis spécialisé est requis afin d’évaluer le bilan diagnostic (ex: dosages métaboliques spécifiques, tests fonctionnels) suivi d’une éventuelle analyse génétique.
+
+Le Patient 1 présentait une persistance de l’élévation des CK à distance de l’épisode aigu avec une histoire d’un episode de RM précédent et une anamnèse familiale positive. Un bilan métabolique avec profil acylcarnitine était compatible avec un déficit en carnitine palmitoyltransférase 2 (CPT2, anomalie de la β-oxydation des lipides) dont l’analyse génétique a confirmé un variant pathogène au sein du gène CPT2.
+
+Le Patient 2 a normalisé les CK après quelques jours. Le bilan métabolique ainsi qu’une analyse génétique d’un panel de gènes cibles est revenue négative. Il a été conclu à une RME physiologique avec un pic de CK particulièrement élevé imputé à la déprivation de sommeil, à la malnutrition associée ainsi qu’à une composante ethnique.
+
+Discussion
+
+La prise en charge de la RME comporte deux temps. Un premier temps où il s’agit d’évaluer l’indication à une prise en charge hospitalière, d’écarter une cause acquise et de prévenir les complications que sont les troubles électrolytiques et l’IRA. Un deuxième temps où il s’agit de déterminer si une cause génétique doit être recherchée. L’anamnèse se focalisant sur le moment de survenue de l’épisode, la recherche d’épisodes multiples, d’antécédents familiaux et d’autres symptômes d’affections musculaire. En l’absence de signes évocateur immédiat, un suivi clinique et biologique à 2–3 mois devra être organisé. L’acronyme RHABDO ­aidera à évaluer l’indication à une consultation spécialisée. La RME peut en effet parfois être révélatrice d’une myopathie métabolique innée pour laquelle il existe une prise en charge spécifique et des mesures de prévention avec impact favorable sur le devenir du patient.
+
+Réponses:
+
+
+Question 1: a. Question 2: e. Question 3: b. Question 4: d. Question 5: b.
+
+L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2021.08640.

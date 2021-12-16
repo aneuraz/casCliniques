@@ -1,0 +1,51 @@
+T1	disorder 140 163	hernie discale en L5-S1
+T2	disorder 44 65	lombosciatique droite
+T3	procedure 85 100	hospitalisation
+T4	disorder 172 193	canal étroit en L3-L4
+T5	procedure 236 251	hospitalisation
+T6	profession 306 313	médecin
+T7	profession 328 351	chirurgien orthopédiste
+T8	procedure 565 579	sacculographie
+T9	procedure 600 621	consultation initiale
+T10	profession 732 743	chirurgien 
+T11	disorder 642 679	compression de la racine de S1 droite
+T12	disorder 699 725	ostéophyte intra-canalaire
+T13	disorder 699 725	ostéophyte intra-canalaire
+T14	disorder 1045 1072	Hernie discale L5-S1 droite
+T15	drugs 1087 1097	Nifluril® 
+T16	risk 1294 1300	Alcool
+T17	drugs 1631 1643	Fraxiparine®
+T18	drugs 1654 1672	ynacthéne Retard ®
+T19	drugs 1698 1706	Cytotec®
+T20	drugs 1698 1706	Cytotec®
+T21	drugs 1834 1847	 Prodalfagan®
+T22	drugs 1834 1847	 Prodalfagan®
+T23	drugs 1859 1868	Profenid®
+T24	drugs 1880 1888	Morphine
+T25	drugs 1880 1888	Morphine
+T26	drugs 1903 1925	Perfusions Plasmalite®
+T27	profession 1963 1975	 infirmières
+T28	disorder 2039 2044	agité
+T29	disorder 2100 2112	tremblements
+T30	profession 2144 2151	médecin
+T31	drugs 2343 2352	Equanil® 
+T32	profession 2391 2403	anesthésiste
+T33	drugs 2767 2775	Equanil®
+T34	drugs 2799 2808	Tranxéne®
+T35	profession 2891 2901	infirmière
+T36	profession 3129 3142	aide-soignant
+T37	disorder 3893 3912	fracture vertébrale
+T38	procedure 3977 3999	greffe postéro-tibiale
+T39	disorder 4003 4025	 fracture du calcanéum
+T40	procedure 4039 4065	ostéosynthésée par plaque 
+T41	disorder 4092 4111	 fracture du bassin
+T42	procedure 4138 4146	traction
+T43	disorder 4345 4355	paraplégie
+T44	profession 3394 3406	anesthésiste
+T45	profession 3416 3424	pompiers
+T46	profession 2703 2715	anesthésiste
+T47	disorder 5049 5085	amyotrophie segmentaire de la cuisse
+T48	disorder 4873 4902	enraidissement lombaire majeu
+T49	disorder 4943 4977	ankylose sous astragalienne gauche
+T50	disorder 4982 5025	raccourcissement du membre inférieur gauche
+T51	procedure 4626 4664	ablation des matériels d’ostéosynthése

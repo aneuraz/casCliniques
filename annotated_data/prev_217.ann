@@ -1,0 +1,89 @@
+T1	disorder 196 215	épisode diarrhéique
+T2	drugs 238 249	paracétamol
+T3	disorder 133 144	orte fièvre
+T4	disorder 507 513	délire
+T5	disorder 521 535	hallucinations
+T6	disorder 557 591	forte compression dans la poitrine
+T7	profession 740 747	médecin
+T8	profession 954 961	médecin
+T9	disorder 1391 1399	nausées 
+T10	disorder 1405 1413	diarrhée
+T11	disorder 1584 1598	hallucinations
+T12	disorder 1678 1690	forte grippe
+T13	disorder 1698 1712	gastroentérite
+T14	drugs 1783 1794	Ibuprofène®
+T15	drugs 1796 1805	Dafalgan®
+T16	drugs 1807 1814	Smecta®
+T17	drugs 1816 1825	Vogalène®
+T18	disorder 1877 1891	vomit « noir »
+T19	disorder 2333 2349	ne mangeait plus
+T20	disorder 2356 2378	parlait très doucement
+T21	disorder 2389 2406	souffle difficile
+T22	disorder 2452 2485	forte compression sur la poitrine
+T23	disorder 2452 2485	forte compression sur la poitrine
+T24	disorder 2408 2429	n'avait plus de force
+T25	profession 2505 2512	médecin
+T26	disorder 3115 3121	sepsis
+T27	disorder 3256 3276	gastroentérite aiguë
+T28	disorder 3349 3373	hallucinations visuelles
+T29	disorder 3455 3467	allucination
+T30	disorder 3478 3494	raideur de nuque
+T31	procedure 3496 3526	auscultation cardio-pulmonaire
+T32	labvalue 3527 3534	normale
+T33	disorder 3743 3747	coma
+T34	disorder 3765 3782	paralysie faciale
+T35	procedure 3791 3793	TA
+T36	labvalue 3796 3806	82/44 mmHg
+T37	procedure 3809 3820	température
+T38	labvalue 3821 3828	37,9 °C
+T39	labvalue 3845 3854	13600/mm3
+T40	labvalue 3861 3870	366 mg/l 
+T41	labvalue 3886 3896	161 µmol/l
+T42	procedure 3872 3885	créatininémie
+T43	procedure 3857 3860	CRP
+T44	procedure 3842 3844	GB
+T45	procedure 3897 3908	Hémoculture
+T46	labvalue 3911 3956	présence d'un Staphylococcus aureus methyl- S
+T47	procedure 3967 3985	Scanner thoracique
+T48	disorder 3988 3999	Péricardite
+T49	procedure 4098 4115	Scanner cérébral 
+T50	disorder 4148 4159	encéphalite
+T51	procedure 4160 4178	Scanner abdominal 
+T52	labvalue 4180 4186	normal
+T53	drugs 4222 4230	Zovirax®
+T54	drugs 4198 4207	Claforan®
+T55	procedure 4300 4324	intubation oro-trachéale
+T56	procedure 4326 4347	Echographie cardiaque
+T57	labvalue 4350 4632	Masse au niveau du versant auriculaire de la grande valve mitrale de 13 mm X 13 mm avec un aspect de fistulisation dans le ventricule gauche. Epanchement péricardique circonférentiel avec début de compression au niveau de l'oreillette droite. Insuffisance mitrale modérée excentrée.
+T58	drugs 4743 4756	noradrénaline
+T59	labvalue 4845 4855	68/35 mmHg
+T60	labvalue 4821 4828	34,3 °C
+T61	procedure 4809 4820	Température
+T62	procedure 4842 4844	TA
+T63	drugs 5007 5017	Augmentin®
+T64	drugs 5019 5030	Gentalline®
+T65	procedure 5045 5066	échographie cardiaque
+T66	disorder 5209 5244	épanchement péricardique compressif
+T67	disorder 4915 4922	panaris
+T68	anatomy 4926 4952	2ème orteil du pied gauche
+T69	disorder 5891 5908	ostéite chronique
+T70	anatomy 5925 5965	3ème phalange du deuxième orteil du pied
+T71	drugs 6111 6123	rifampicine 
+T72	procedure 6317 6333	scanner cérébral
+T73	labvalue 6353 6381	multiples lésions en cocarde
+T74	anatomy 6384 6395	obe frontal
+T75	anatomy 6397 6410	lobe pariétal
+T76	anatomy 6412 6435	hémisphères cérébelleux
+T77	procedure 6742 6754	trachéotomie
+T78	disorder 6816 6831	arrêt cardiaque
+T79	disorder 6870 6891	hypoxémie réfractaire
+T80	procedure 6918 6949	réanimation cardio-circulatoire
+T81	disorder 7048 7063	arrêt cardiaque
+T82	disorder 5852 5862	septicémie
+T83	procedure 5566 5600	ise en place d'une valve mécanique
+T84	disorder 5497 5527	Cœur distendu et inflammatoire
+T85	disorder 5529 5562	Epanchement péricardique purulent
+T86	disorder 4856 4892	Insuffisance cardiaque droite sévère
+T87	disorder 3179 3192	sepsis sévère
+T88	procedure 3421 3423	TA
+T89	labvalue 3424 3429	70/60

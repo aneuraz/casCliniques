@@ -1,0 +1,103 @@
+T1	irrelevant 0 8;10 398;400 1006;1008 1455;1457 1876	Contexte  Mycobacterium tuberculosisest le principal agent responsable de la tuberculose (TB) [1]. On estime qu’un tiers de la population mondiale est infectée par M. tuberculosisavec une incidence de 10,4 millions en 2015, dont 5,9 millions chez les hommes (56%) et 3,5 millions chez les femmes (34%) et finalement 10% chez les enfants [2]. Le continent africain rencontre 26% de tous les cas [3].  La tuberculose péritonéale, qui représente 1 à 2% de toutes les formes de TB, peut se développer n’importe où dans la cavité abdomino-pelvienne, mais elle touche principalement l’épiploon, le tractus intestinal, le foie, la rate ou les organes génitaux féminins en plus du péritoine pariétal et viscéral [4]. La physiopathologie de la tuberculose péritonéale est souvent une dissémination hématogène d’un foyer pulmonaire primaire [5]. Les principaux facteurs de risque de la tuberculose péritonéale sont les patients infectés par le HIV, le diabète sucré et la présence d’une malignité sous-jacente [6–7].  Les manifestations cliniques ne sont pas spécifiques et peuvent imiter des conditions sévères telles qu’une carcinose péritonéale aussi bien chez les hommes que chez les femmes. En effet, les patients peuvent présenter des douleurs abdomino-pelviennes, de la fièvre, une perte de poids et une ascite qui peuvent retarder le diagnostic d’une affection traitable [8]. La tuberculose reste l’une des dix principales causes de décès dans le monde [9].  De nombreuses études, dans les pays en voie de développement, ont montré que les femmes ont souvent un diagnostic erroné de cancer de l’ovaire retenu, et que ce n’est seulement lors de la chirurgie que le diagnostic de tuberculose péritonéale est posé [10]. Le cas que nous présentons est celui d’une femme érythréenne âgée de 22 ans avec de multiples implants miliaires péritonéaux mimant un cancer de l’ovaire avancé.
+T2	irrelevant 2376 2498	Figure 1: Echographie montrant une masse kystique de l’ovaire droit de 4,7 × 5,8 × 6,5 cm avec présence de fines cloisons.
+T3	irrelevant 7607 7617;7619 7979;7981 8208;8210 8388;8390 8722;8724 8888;8890 8998	Discussion  Ce cas clinique illustre la difficulté de diagnostique d’une TB péritonéale mimant cliniquement une carcinose péritonéale. La TB péritonéale est une maladie guérissable alors que la carcinose péritonéale est une pathologie de pronostic plutôt médiocre. Les symptômes dans les deux cas peuvent être assez similaires rendant le diagnostic différentiel difficile.  Les outils diagnostic pour différencier une TB péritonéale d’une carcinose péritonéale sont multiples. Le référentiel actuel est la culture de mycobactérie, réalisée sur du liquide d’ascite ou sur des biopsies péritonéales [8].  La bactériologie de l’ascite peut aider au diagnostic de la TB péritonéale, mais elle a une valeur prédictive négative basse et les cultures peuvent prendre jusqu’à six semaines.  Parmi les autres outils diagnostic, les valeurs de CA 125 peuvent être utilisées, étant souvent élevées en cas de carcinome de l’ovaire. Néanmoins, les valeurs de CA 125 peuvent également être élevées dans d’autres conditions, telles qu’un état inflammatoire, rendant cet antigène cancéreux aspécifique en cas de TB péritonéale [9].  Quant à la radiographie du thorax, elle peut être parfaitement normale chez 40% des patients atteints de tuberculose, comme c’était le cas avec notre patiente [10].  Enfin, les tests cutanés tuberculiniques permettent de diagnostiquer une infection tuberculeuse, mais un rés
+T4	irrelevant 8998 9159;9161 9355;9357 9565;9567 9692;9694 9966;9968 10189;10191 10339	ultat négatif ne permet pas d’exclure la maladie. Par ailleurs, un test tuberculinique positif ne permet pas de savoir si l’infection est active ou latente [11].  Par conséquent, le diagnostic définitif de la TB péritonéale est actuellement souvent posé lors de l’intervention chirurgicale où des biopsies peropératoire sont collectées et analysées [12–13].  Deux études utilisant un essai d’immuno-absorption enzymatique (ELISA) dans le diagnostic de la TB extra-pulmonaire ont montré des résultats prometteurs, mais davantage de recherches sont nécessaires [14–15].  Le traitement actuel de la tuberculose péritonéale comprend des médicaments anti-TB standard avec un suivi clinique régulier.  En raison de l’augmentation de l’émigration de masse en provenance de pays où la prévalence de la tuberculose est élevée, avec des personnes voyageant dans des conditions précaires, la tuberculose devient un problème de santé qui réapparait dans les pays en développement.  En effet, un deuxième cas a été diagnostiqué à l’hôpital de Sion en 2017 et, par l’expérience de ce premier cas, le diagnostic et la prise en charge ont probablement été plus rapide avec un meilleur vécu pour la patiente.  Par conséquent, chez une jeune femme migrante présentant des douleurs abdomino-pelviennes, une masse annexielle et une ascite, la tuberculose périto
+T5	irrelevant 10339 10499;10501 10529;10531 10601;10603 10688;10690 10821	néale devrait devenir un standard dans le diagnostic différentiel, même en cas de bactériologie négative sur l’ascite, comme l’illustre notre cas clinique [16].  L’essentiel pour la pratique  • Un tiers de la population mondiale est infectée par M. tuberculosis.  • La tuberculose péritonéale représente 1 à 2% de toutes les formes de ­tuberculoses.  • Chez une femme migrante avec des douleurs abdomino-pelviennes, la tuberculose péritonéale doit devenir un diagnostic différentiel
+T6	irrelevant 10824 10999;11001 11121	• En cas de suspicion de tuberculose péritonéale et une bactériologie ­négative sur du liquide de ponction, un examen bactériologique sur du tissu frais devrait être envisagé.  • Le traitement de la tuberculose péritonéale comprend des médicaments anti-TB standard avec un suivi clinique régulier.
+T7	disorder 2076 2104	douleurs abdomino-pelviennes
+T8	disorder 2110 2125	perte de poids 
+T9	disorder 2138 2146	anorexie
+T10	disorder 2289 2315	masse kystique de l’ovaire
+T11	procedure 2353 2364	échographie
+T12	disorder 2557 2569	vomissements
+T13	disorder 2598 2614	 selles liquides
+T14	disorder 2692 2701	pneumonie
+T15	procedure 2772 2816	un frottis bacilles acido-alcoolo-résistants
+T16	procedure 2862 2865	PCR
+T17	procedure 2873 2900	 culture des expectorations
+T18	procedure 2822 2860	amplification en chaîne par polymérase
+T19	labvalue 2940 2971	 négatifs pour une mycobactérie
+T20	disorder 3020 3031	cachectique
+T21	disorder 3118 3139	abdomen est distendu 
+T22	disorder 3159 3174	douleur diffuse
+T23	disorder 3340 3364	matité suspecte d’ascite
+T24	procedure 3419 3429	leucocytes
+T25	procedure 3448 3469	 protéine C-réactive 
+T26	procedure 3486 3494	 CA-125 
+T27	labvalue 3496 3504	83 kU/l.
+T28	labvalue 3470 3480	 22,2 mg/l
+T29	labvalue 3532 3541	positives
+T30	procedure 3510 3520	sérologies
+T31	disorder 3551 3571	hépatite B chronique
+T32	procedure 3573 3585	antigène HBs
+T33	labvalue 3586 3593	positif
+T34	labvalue 3601 3609	20 kUl/L
+T35	labvalue 3620 3627	positif
+T36	labvalue 3638 3645	positif
+T37	labvalue 3658 3665	négatif
+T38	procedure 3672 3682	sérologies
+T39	procedure 3649 3657	anti-HBs
+T40	procedure 3629 3637	anti-HBe
+T41	procedure 3611 3619	anti-HBc
+T42	procedure 3595 3598	PCR
+T43	disorder 3720 3735	hépatite A et C
+T44	disorder 3740 3743	HIV
+T45	disorder 3747 3750	EBV
+T46	disorder 3757 3760	CMV
+T47	labvalue 3703 3712	négatives
+T48	procedure 3840 3843	IRM
+T49	disorder 3894 3900	ascite
+T50	disorder 3908 3934	nodules péritonéaux diffus
+T51	disorder 3991 4014	péritonite tuberculeuse
+T52	disorder 4158 4196	tumorale de type carcinose péritonéale
+T53	procedure 4213 4216	IRM
+T54	disorder 4241 4265	 masse annexielle droite
+T55	irrelevant 4301 4430;4432 4542	Figure 2: IRM montrant l’ascite et un rehaussement ­progressif des nodules péritonéaux (axial FS T1 à 1 minute après gadolinium).  Figure 3: IRM montrant une masse annexielle droite d’aspect kystique de 8 cm (coronale FS T1 post-gadolinium).
+T56	disorder 4606 4629	tuberculose péritonéale
+T57	disorder 4653 4675	 carcinose péritonéale
+T58	procedure 4699 4729	 ponction d’ascite écho-guidée
+T59	labvalue 4765 4795	négative pour une mycobactérie
+T60	procedure 4797 4838	frottis bacilles acido-alcoolo-résistants
+T61	procedure 4840 4878	amplification en chaîne par polymérase
+T62	procedure 4882 4889	culture
+T63	procedure 4921 4958	scanner (CT) thoracique et abdominal 
+T64	procedure 4974 4987	CT thoracique
+T65	disorder 5057 5070	TB pulmonaire
+T66	procedure 5077 5088	CT abdomina
+T67	procedure 5149 5153	’IRM
+T68	disorder 5166 5172	ascite
+T69	disorder 5179 5208	multiples nodules péritonéaux
+T70	procedure 5252 5273	bilan bactériologique
+T71	labvalue 5274 5303	négatif pour une mycobactérie
+T72	disorder 5322 5349	carcinome ovarien primaire 
+T73	procedure 5444 5469	laparoscopie diagnostique
+T74	procedure 5475 5509	’ouverture de la cavité abdominale
+T75	disorder 5538 5544	ascite
+T76	procedure 5564 5585	 analyse en cytologie
+T77	disorder 5666 5684	implants miliaires
+T78	disorder 5697 5751	utérus et les annexes sont recouverts par les implants
+T79	procedure 5856 5875	 multiples biopsies
+T80	procedure 5906 5916	pathologie
+T81	procedure 5920 5933	bactériologie
+T82	disorder 6006 6012	ascite
+T83	labvalue 6021 6070	négative pour des cellules suspectes de malignité
+T84	procedure 6122 6132	histologie
+T85	labvalue 6144 6209	granulomes caséifiants avec des cellules géantes de type Langhans
+T86	disorder 6225 6236	tuberculose
+T87	procedure 6282 6295	bactériologie
+T88	labvalue 6304 6333	négatif pour une mycobactérie
+T89	procedure 6335 6376	frottis bacilles acido-alcoolo-résistants
+T90	procedure 6378 6417	amplification en chaîne par polymérase 
+T91	procedure 6420 6427	culture
+T92	labvalue 6440 6503	 Réaction granulomateuse avec cellules géantes de type Langhans
+T93	labvalue 7022 7046	Mycobactérie Complexe TB
+T94	procedure 7125 7159	traitement médical antituberculeux
+T95	procedure 7177 7191	quadrithérapie
+T96	drugs 7205 7217	rifampic­ine
+T97	drugs 7219 7229	éthambutol
+T98	drugs 7231 7241	isoniazide
+T99	drugs 7245 7257	pyrazinamide
+T100	drugs 7292 7302	isoniazide
+T101	drugs 7306 7317	rifampicine
+T102	procedure 7268 7278	bithérapie
+T103	disorder 7373 7393	douleurs abdominales

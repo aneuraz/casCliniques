@@ -1,0 +1,61 @@
+Contexte
+
+La diarrhée est un motif fréquent de consultation médicale en urgence. Le spectre étiologique s’étend de causes infectieuses à la diarrhée d’origine médicamenteuse, en passant par des intoxications alimentaires, des intolérances, ainsi que des maladies inflammatoires chroniques de l’intestin. Chez les patients ayant reçu une greffe d’organe et sous immunosuppression médicamenteuse à vie, la survenue d’effets indésirables gastro-intestinaux est fréquente, qu’ils soient induits par des infections liées à l’immunosuppression ou qu’il s’agisse d’effets indésirables directs des médicaments utilisés. Sur le plan diagnostique, outre l’examen clinique, des analyses de sang et des selles, des procédés d’imagerie et une endoscopie gastro-intestinale avec prélèvement biopsique sont réalisés dans le but de ­poser un diagnostic histologique et microbiologique direct [1].
+
+Présentation du cas
+Anamnèse et clinique
+
+Une patiente âgée de 69 ans s’est présentée dans notre service d’urgences en raison d’une diarrhée aqueuse, non sanglante, de survenue aiguë. La patiente était dans un bon état général, hémodynamiquement stable et afébrile. L’examen clinique, et notamment l’examen abdominal, n’a pas révélé de résultats pathologiques. Les analyses de laboratoire ont montré une élévation discrète et isolée du taux de protéine C réactive (CRP) de 26 mg/l (référence <5 mg/l) avec un taux de leu­cocytes normal, ainsi qu’une anémie normocytaire normochrome déjà connue avec taux d’hémoglobine de 85 g/l et un taux d’électrolytes normal.
+
+L’anamnèse personnelle a révélé une allogreffe rénale au niveau iliaque droit réalisée en 1992 suite à une ­néphroangiosclérose maligne, raison pour laquelle la patiente prenait du mycophénolate et de la ciclosporine. Suite à la mise en évidence d’ulcérations dans l’œsophage (fig. 1) à l’endoscopie quelques mois auparavant, un diagnostic histologique d’œsophagite granulomateuse chronique à cytomégalovirus (CMV) (fig. 2A et 2B) avait été posé.
+
+Figure 1: Représentation endoscopique de l’œsophagite de reflux de grade C selon la classification de Los Angeles: ­ulcérations planes et circulaires en partie confluentes de la muqueuse (flèche), ne s’étendant pas sur plus de ¾ de la circonférence de l’œsophage.
+
+Figure 2: A) Tissu de base de l’ulcère de l’œsophage coloré à l’hématoxyline et à l’éosine en grossissement x400. Représentation des cellules endothéliales et des cellules stromales avec effets viropathiques dans la zone des noyaux cellulaires.B ) Tissu de base de l’ulcère de l’œsophage en grossissement x200. Coloration immunohistochimique pour la représentation des noyaux ­cellulaires cytomégalovirus-positifs.
+
+Elle prenait donc un traitement prophylactique se­condaire par valganciclovir au moment où elle s’est présentée au service d’urgences. Dans le cadre du traitement immunosuppresseur à vie, la patiente avait déjà préalablement été en proie à des colites à CMV récidivantes avec colonisation de l’iléum terminal ainsi qu’à une rétinite à CMV. Le taux absolu de lymphocytes, déterminé à plusieurs reprises, était considérablement abaissé, s’élevant à <0,5 G/l. Ce résultat est typique des colites à CMV récidivantes. Les cellules CD4, également indicatives, n’avaient pas été déterminées.
+
+Diagnostic, traitement et évolution
+
+En connaissance des antécédents de la patiente, une nouvelle colite à CMV a été suspectée. A la coloscopie, un léger œdème muqueux dans l’ensemble du côlon, en tant que signe d’une colite, pouvait être observé macroscopiquement. L’examen histologique a montré un nombre accru d’apoptoses, une large dégénérescence des cryptes, ainsi que des distorsions des cryptes et un œdème, qui sont compatibles avec une colite associée au mycophénolate (fig. 3A et 3B).
+
+Figure 3: A ) Muqueuse du côlon avec coloration à l’hématoxyline et à l’éosine (HE) en grossissement x100. Les flèches du côté gauche montrent des cryptes dégénérées avec épithélium en régénération. La flèche du côté droit montre une apoptose.B ) Muqueuse du côlon avec coloration HE en grossissement x100 montrant des apoptoses (flèches).
+
+Le diagnostic microbiologique des selles (bactériologie générale, parasites et vers) ainsi que l’ADN du CMV dans le sérum étaient négatifs. Les cellules stromales CMV-positives, mises en évidence de façon isolée dans le côlon à l’examen histologique, ont été classées en tant que «innocent bystander». Après réduction de moitié de la dose de mycophénolate et traitement symptomatique par hydratation intraveineuse et administration de lopéramide, la diarrhée a cessé en l’espace de quelques jours. Le traitement de l’œsophagite à CMV par valganciclovir a été poursuivi tel quel.
+
+Discussion
+
+L’acide mycophénolique (AMP) est utilisé en tant qu’immunosuppresseur sélectif en association avec la ciclosporine (inhibiteur de la calcineurine) afin de ­prévenir les réactions de rejet après transplantation ­rénale [2]. L’effet du mycophénolate repose sur l’in­hibition de la prolifération lymphocytaire. Il attaque l’inosine monophosphate déshydrogénase (IMPDH), une enzyme essentielle à la synthèse des nucléotides puriques. Ainsi, la synthèse «de novo» d’ADN des lymphocytes T et B est attaquée, et la réponse immunitaire est réprimée [3]. Les principaux effets indésirables du mycophénolate sont la myélosuppression avec cyto­pénies et la diarrhée (tab. 1). Il existe des différences concernant la survenue des effets indésirables gastro-­intestinaux.
+
+Tableau 1: Aperçu des effets indésirables de certains immunosuppresseurs sélectionnés (modifié d’après [12]).
+EIM	MMF	Ciclosporine	Tacrolimus
+Nephrotoxicité	–	+++	+++
+Hypertension	–	+++	++
+Diabète sucré	–	+	++
+Dyslipidémie	–	++	+
+Myélosuppression	+++	+	+
+Gastro-intestinaux	+++	+	+
+Neurotoxicité	–	++	+++
+Troubles de la cicatrisation	+	–	–
+Ostéoporose	–	+	+
+Hyperplasie gingivale	–	++	–
+Hypertrichose	–	++	–
+Abréviations: EIM: effets indésirables médicamenteux, MMF: ­mycophénolate mofétil
+
+En cas d’entéropathie induite par le mycophénolate, un nombre accru d’apoptoses des cellules dans les cryptes est observé à l’histologie, de façon similaire à une réaction du greffon contre l’hôte (GVH) du côlon. Un profil pathologique microscopique similaire est également observé dans le cadre du traitement par l’anticorps monoclonal anti-CTLA-4 ipilimumab [4]. Les deux préparations courantes sur le marché sont d’une part le mycophénolate mofétil (CellCept®, Roche), un ester 2-morpholinoéthylique correspondant à la prodrogue de l’AMP, et de l’autre, le sel de sodium de l’AMP (Myfortic®, Novartis), une variante gastro-résistante «enteric coated» d’AMP. Des données indiquent que cette dernière forme galénique conduirait plus ­rarement à des réductions de la dose ou à des interruptions du traitement en raison des effets indésirables gastro-intestinaux. Le risque de réactions de rejet, survenant fréquemment en raison de la réduction de la dose ou de l’interruption du traitement, pourrait ainsi être réduit [5].
+
+Dans la littérature, la diarrhée chronique est décrite comme un phénomène fréquent après transplantation rénale; non seulement une genèse infectieuse induite par l’immunosuppression mais aussi des effets toxiques induits par l’AMP lui-même sont discutés [6]. A la co­loscopie, différentes tableaux macroscopiques se retrouvent, allant de la colite ischémique à la maladie inflammatoire chronique de l’intestin, avec une atteinte allant de diffuse à segmentaire. Sur le plan histologique, des distorsions des cryptes, des apoptoses et un œdème de la lamina propria sont typiquement observés. Dans environ 60% des cas, un déclencheur infectieux avec culture de selles positive joue un rôle au début de la colite [7].
+
+Outre les agents pathogènes bactériens, des colites à CMV sont également décrites. Le CMV est un virus de la famille des herpèsvirus, qui est associé à un taux d’infection élevé à travers le monde. Le taux de séroprévalence pour l’immunoglobuline G (IgG) atteint jusqu’à 65% en Amérique du Nord et jusqu’à 100% en Afrique subsaharienne. Après l’infection primaire qui évolue de façon asymptomatique ou ne provoque que des symptômes grippaux non spécifiques, le virus persiste dans les monocytes et les macrophages. En cas d’immunosuppression, la réactivation du virus peut conduire à un syndrome viral ou à des affections organiques; notamment chez les personnes transplantées, des maladies sévères, telles qu’une pneumonie, une ­rétinite ou une colite, peuvent survenir [8]. Une infection primaire peut toutefois également survenir dans le cadre d’une transplantation lorsque le donneur est séropositif (D+) et le receveur séronégatif (R-). Dans ces cas, les primo-infections peuvent avoir une évolution bien plus sévère et conduire à la dysfonction du greffon. Sans traitement, les infections à CMV surviennent la plupart du temps au cours des trois premiers mois après la transplantation.
+
+En principe, deux options sont établies pour prévenir une infection ou une réactivation: le traitement anti­viral prophylactique et l’approche préemptive [9]. Le traitement préemptif prévoit des analyses de sang ­hebdomadaires pendant 3–4 mois et l’utilisation du valganciclovir seulement en cas de mise en évidence d’ADN du CMV [10]. Le seuil de détection applicable ­dépend de la méthode de test et du milieu testé (sang total versus plasma). Jusqu’à présent, il n’existe pas de consensus quant aux stratégies thérapeutiques. Dans le groupe à haut risque (D+/R-), un traitement prophylactique par ganciclovir ou valganciclovir d’une durée de six mois ou un traitement préemptif est recommandé immédiatement après la transplantation rénale. Pour le groupe à risque intermédiaire (R+), il est recommandé d’administrer du valganciclovir pour une durée de trois mois ou de conduire un traitement préemptif. Les recommandations thérapeutiques en cas d’affections organiques induites par CMV prévoient l’ad­ministration de valganciclovir par voie orale en cas d’affection légère et de ganciclovir par voie intraveineuse en cas d’affection sévère. La durée du traitement dépend de la disparition de tous les symptômes et de l’absence de mise en évidence par réaction de polymérisation en chaîne (PCR) du virus dans deux échantillons de sang consécutifs en l’espace d’1 semaine. Une prophylaxie secondaire à l’issue du traitement n’est pas obligatoire, mais elle peut être envisagée pour une durée de 1–3 mois après la fin du traitement selon la présentation clinique. Sinon, une surveillance clinique et sérologique étroite est indiquée [11].
+
+L’essentiel pour la pratique
+
+• L’anamnèse médicamenteuse exhaustive, incluant l’étude détaillée des effets indésirables connus, permet souvent de rapidement orienter le diagnostic.
+
+• Les patients doivent être bien informés au sujet des traitements immunosuppresseurs et de leurs effets indésirables (notamment pour le mycophénolate mofétil et les effets indésirables gastro-intestinaux), et des contrôles cliniques et de laboratoire rapprochés, incluant la détermination des concentrations médicamenteuses, doivent être mis en œuvre en vue de vérifier l’adhésion thérapeutique.
+
+• Chez les patients immunodéprimés, évaluation de la diarrhée sur la base de la bactériologie des selles et confirmation histologique du diagnostic; si nécessaire, biopsie endoscopique.
+
+• Le statut sérologique du cytomégalovirus des receveurs d’organe et des donneurs d’organe doit être connu afin de pouvoir prendre les mesures adéquates dans le cadre de la surveillance et de l’initiation du traitement.

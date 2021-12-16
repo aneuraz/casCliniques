@@ -1,0 +1,23 @@
+T1	disorder 53 77	polyarthrite rhumatoïde 
+T2	drugs 92 101	 Novatrex
+T3	drugs 93 117	Novatrex (Méthotrexate) 
+T4	procedure 188 213	ostéosynthèse de cheville
+T5	disorder 226 235	 fracture
+T6	drugs 364 379	anti-dépresseur
+T7	drugs 601 609	Novatrex
+T8	drugs 469 477	Novatrex
+T9	drugs 385 396	antalgiques
+T10	drugs 401 414	hypolipémiant
+T11	disorder 450 463	constipation 
+T12	disorder 1026 1046	hyperthermie à 38°C 
+T13	disorder 1056 1102	nfection urinaire à colibacille multi sensible
+T14	drugs 1143 1155	antibiotique
+T15	disorder 1173 1180	 aphtes
+T16	disorder 1186 1202	lésions cutanées
+T17	disorder 1208 1229	douleurs abdominales 
+T18	disorder 1599 1626	pancytopénie médicamenteuse
+T19	labvalue 1405 1417	9,8 grammes 
+T20	labvalue 1386 1392	 91000
+T21	disorder 1326 1342	euco neutropénie
+T22	labvalue 1345 1348	390
+T23	labvalue 1369 1373	100 

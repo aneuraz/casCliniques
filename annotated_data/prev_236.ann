@@ -1,0 +1,59 @@
+T1	profession 47 59	ex militaire
+T2	profession 79 110	chauffeur routier international
+T3	disorder 135 138	AVC
+T4	disorder 282 303	infarctus du myocarde
+T5	procedure 314 327	 angioplastie
+T6	procedure 331 359	stent de la coronaire droite
+T7	disorder 435 459	syndrome coronarien aigu
+T8	procedure 464 479	coronarographie
+T9	disorder 499 539	occlusion de la coronaire droite stentée
+T10	disorder 555 593	sténose serrée de l’artère circonflexe
+T11	procedure 613 620	stentée
+T12	drugs 686 699	ELIPROLOL 200
+T13	drugs 671 683	KARGEGIC 300
+T14	drugs 702 711	 statines
+T15	drugs 712 719	(ELISOR
+T16	drugs 725 732	CRESTOR
+T17	risk 870 875	tabac
+T18	risk 896 916	hypercholestérolémie
+T19	disorder 918 930	Hypertension
+T20	drugs 969 982	béta bloquant
+T21	disorder 1285 1309	 traumatisme de l’épaule
+T22	disorder 1317 1340	plaies par arme blanche
+T23	disorder 1409 1448	cicatrice limitée de nécrose inférieure
+T24	procedure 1456 1472	épreuve d’effort
+T25	labvalue 1473 1481	négative
+T26	disorder 1528 1531	AVC
+T27	risk 1553 1572	tabagisme non sevré
+T28	procedure 1612 1615	ECG
+T29	labvalue 1623 1637	rythme sinusal
+T30	disorder 1644 1670	bloc de branche incomplet 
+T31	disorder 1673 1704	séquelles de nécrose inférieure
+T32	procedure 1709 1742	fraction d’éjection ventriculaire
+T33	labvalue 1749 1752	60%
+T34	drugs 1837 1845	KARDEGIC
+T35	profession 1769 1780	cardiologue
+T36	profession 1867 1886	Médecin Généraliste
+T37	drugs 2020 2028	KARDEGIC
+T38	drugs 2047 2057	CELIPROLOL
+T39	drugs 2098 2109	CORAREG 160
+T40	drugs 2122 2129	STRESAM
+T41	drugs 2151 2158	CRESTOR
+T42	drugs 2163 2170	COTAREG
+T43	drugs 2193 2202	’HYPERIUM
+T44	disorder 2291 2309	hémiparésie gauche
+T45	disorder 2488 2521	émiparésie gauche avec dysarthrie
+T46	disorder 2583 2619	écidive de cet épisode intermittent 
+T47	procedure 2743 2759	scanner cérébral
+T48	procedure 2861 2900	échographie des troncs supra aortiques 
+T49	disorder 2912 2961	athérome modéré sans sténose ni plaque emboligène
+T50	procedure 2987 2991	’ECG
+T51	disorder 3075 3134	 hémiparésie gauche aux trois étages avec paralysie faciale
+T52	disorder 3136 3147	main creuse
+T53	disorder 3151 3183	chute du membre inférieur gauche
+T54	disorder 3185 3200	Babinski gauche
+T55	disorder 3201 3225	 pas de trouble sensitif
+T56	disorder 3227 3290	pas d’anomalie des paires crâniennes ni de trouble oculomoteur.
+T57	procedure 3292 3306	’IRM cérébrale
+T58	disorder 3318 3350	nfarctus antérolatéral du bulbe.
+T59	irrelevant 3351 3406;3407 3689;3690 4147	Le patient sort à J11 vers un centre de rééducation… ». Le patient retourne à domicile au bout de 2 mois, certes en progrès mais nécessitant toujours l’aide d’une tierce personne pour les gestes de la vie courante (s’habiller, couper sa viande, prendre une douche, aller aux toilettes…). Il marche avec une attelle de jambe et des cannes. Deux ans plus tard, il a retrouvé une autonomie pour ses repas, marche sans cannes pendant près d’une heure et essaie de reconduire en présence de sa compagne. Il est particulièrement motivé et persévérant dans ses efforts de rééducation. Mais il est bien forcé de constater qu’il ne peut reprendre ses activités antérieures (profession, loisirs) et déclare ne plus vouloir fréquenter ses amis car il ne veut pas donner l’image de quelqu’un qui est diminué.

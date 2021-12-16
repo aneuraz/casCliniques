@@ -1,0 +1,50 @@
+Contexte
+
+L’ablation endoscopique des polypes dans la région de l’abouchement de l’appendice représente un défi. Notamment la résection dans des segments intestinaux qui présentent un risque élevé de perforation et l’ablation complète de tissus de couches profondes de la paroi intestinale (résection de pleine épaisseur) étaient jusqu’à présent quasiment impossibles à réaliser par voie endoscopique et nécessitaient la plupart du temps une intervention chirurgicale. Peter Bauerfeind [1] a montré qu’il existe désormais une méthode de résection de pleine épaisseur de la paroi par voie endoscopique qui, dans des mains expérimentées, peut également être utilisée de façon sûre et efficace dans la région de l’abouchement de l’appendice: il s’agit du «full-thickness resection device» (FTRD®, Ovesco Endoscopy, Tübingen). Le dispositif est composé d’un capuchon d’application sur lequel le clip FTRD® préchargé est positionné, d’une anse intégrée et d’un fil, d’un attrape-fil, d’une housse d’endoscope avec un ruban adhésif pour la fixation et d’une manivelle FTRD®. Pour l’application, le capuchon d’application est monté sur la pointe de l’endoscope, l’anse étant à l’extérieur de l’endoscope et protégée par la housse d’endoscope. Tourner la manivelle permet de tendre le fil et de déployer le clip. Le tissu est ensuite séparé au-dessus du clip sous l’action de l’anse utilisant la radiofréquence (RF) intégrée. De cette façon, une résection de pleine épaisseur de la paroi peut être réalisée par voie endoscopique. Dans les mains de l’examinateur expérimenté, cet instrument est utilisé en tant que dispositif endoscopique flexible pour la résection de pleine épaisseur de la paroi et le prélèvement diagnostique de tissus par résection des lésions appropriées dans le côlon et le rectum, et ce avec une sécurité élevée [1]. L’instrument a été développé en continu.
+
+Présentation du cas
+Anamnèse
+
+Un patient âgé de 71 ans s’est présenté dans notre cabinet pour une coloscopie de suivi en raison de polypes coliques récidivants. Trois années auparavant, onze petits polypes coliques avaient été réséqués. Sur le plan histologique, ils correspondaient à des hyperplasies et à des adénomes tubulaires. Des polypes coliques avaient également déjà été retirés avant cela. L’anamnèse familiale pour les carcinomes colorectaux était toutefois négative.
+
+Les antécédents comprenaient en outre deux thromboses veineuses profondes (TVP) gauches et une embolie pulmonaire survenue il y a deux ans. Le traitement anticoagulant de longue durée par rivaroxaban a été interrompu pour l’examen. Trois ans auparavant, le patient avait en outre été victime d’un infarctus du myocarde sans élévation du segment ST (non-ST elevated myocardial infarction, NSTEMI) et il avait fait l’objet d’une angioplastie coronarienne transluminale percutanée (ACTP). Le patient était totalement asymptomatique. Outre le rivaroxaban, il prenait également de l’énalapril à la dose de 20 mg/j et du nébivolol à la dose de 7,5 mg/j.
+
+Diagnostic et traitement
+
+La coloscopie actuelle a mis en évidence des hémorroïdes du premier degré, une pandiverticulose non inflammatoire et à nouveau deux polypes dans le côlon transverse et le côlon ascendant, qui ont tous deux été complètement réséqués à la pince. L’histologie a montré des adénomes tubulaires. Au niveau de l’abouchement de l’appendice, nous avons constaté une masse polypoïde enchevêtrée dans l’appendice, qui n’a pas pu être réséquée du fait de sa localisation (fig. 1).
+
+Figure 1: L’endoscopie montre, au niveau de l’abouchement de l’appendice, une masse polypoïde s’enchevêtrant dans l’appendice (flèche).
+
+Suite à la décision de procéder à une résection de pleine épaisseur de la paroi, il a été renoncé à une biopsie afin d’éviter une adhérence du tissu.
+
+Deux jours plus tard, une nouvelle coloscopie a été réalisée dans le cadre d’une courte hospitalisation. Le polype dans le cæcum a tout d’abord été marqué avec la sonde. Lors du deuxième passage, l’endoscope avec l’applicateur FTR a été poussé jusque dans le cæcum. L’abouchement de l’appendice a alors été tiré dans le capuchon au moyen du «Twingrasper®», puis réséqué avec l’anse diathermique (fig. 2).
+
+Figure 2: Ablation endoscopique de la masse au niveau de l’abouchement de l’appendice.
+
+Aucune complication péri-­interventionnelle n’est survenue. L’endoscopie de contrôle réalisée deux jours plus tard a montré un moignon de résection dans le cæcum sans anomalies. L’histologie a révélé un adénome dentelé sessile sans dysplasies épithéliales, qui a été complétement réséqué (R0).
+
+Evolution
+
+Des douleurs abdominales, une légère défense dans la partie inférieure droite de l’abdomen et une fièvre de jusqu’à 39,2°C sont toutefois survenues le soir même. Les analyses de laboratoire ont montré une élévation de la CRP jusqu’à 160 mg/dl. La tomodensitométrie abdominale a révélé une appendicite aiguë (fig. 3) avec un clip en place.
+
+Figure 3: La tomodensitométrie montre une appendicite ­aiguë (flèche). * = Clip après la résection de pleine épaisseur de la paroi avec FTRD®.
+
+Il a été jugé que l’inflammation correspondait à une potentielle petite ischémie dans le cadre de l’intervention. En concertation avec les collègues de chirurgie viscérale, il a été opté pour un traitement antibiotique par ceftriaxone et métronidazole sans intervention chirurgicale. Les symptômes cliniques ont rapidement cessé et les valeurs inflammatoires ont régressé. Les hémocultures sont restées négatives.
+
+Le patient a pu quitter l’hôpital avec un traitement par ceftriaxone et métronidazole, l’option de l’appendicectomie restant ouverte.
+
+Par la suite, le patient est resté asymptomatique tout en suivant un régime alimentaire normal. La coloscopie conduite un an après a montré un côlon non enflammé. Il n’y a pas eu d’appendicectomie.
+
+Discussion
+
+Dans des mains expérimentées, le traitement avec FTRD® représente une méthode sûre pour la résection de pleine épaisseur de la paroi. Une étude auprès de 60 patients a montré un succès de la résection de pleine épaisseur de la paroi dans 88% des cas, avec une résection R0 sur le plan histologique dans 79% des cas. Des complications, qui ont toutes pu être traitées par endoscopie, sont survenues dans seulement 7% des cas [1]. Dans une petite étude rétrospective, un patient sur un total de sept a présenté une appendicite suite à un traitement avec FTRD® au niveau de l’abouchement de l’appendice [2]. Une autre petite étude rétrospective relative à notre cas a analysé 32 patients ayant fait l’objet d’un traitement FTRD® au niveau de l’abouchement de l’appendice (les patients appendicectomiés avaient été exclus). Une appendicite est survenue chez sept patients (21,5%). Chez quatre patients, l’appendicite est survenue au cours des dix jours suivant la résection et dans les autres cas, elle n’est survenue que plus d’un mois après. Une appendicectomie a été réalisée dans cinq cas et un traitement conservateur a été mis en œuvre dans deux cas.
+
+Les données issues de notre pratique montrent également une survenue de cette complication chez au maximum 20% des patients. Etant donné qu’une ­appendicite peut donc survenir dans un cinquième de tous les cas, il est impératif d’informer explicitement le patient au sujet de cette complication. La chirurgie d’appendicectomie n’est pas toujours indispensable. Il convient en revanche d’initier une antibiothérapie par voie intraveineuse d’une durée d’une semaine.
+
+L’essentiel pour la pratique
+
+• Dans des mains expérimentées, la résection de pleine épaisseur de la paroi («full-thickness resection») constitue une méthode sûre et efficace pour l’ablation complète des polypes dans le tractus gastro-intestinal.
+
+• Les polypes qui sont enchevêtrés en profondeur dans la paroi intestinale et les polypes avec une localisation difficile peuvent également être complétement réséqués. En règle générale, il est conseillé de toujours réaliser une biopsie au préalable.
+
+• Une complication pouvant survenir suite à une polypectomie par résection de pleine épaisseur de la paroi dans la région de l’appendice est l’appendicite. Dès lors, le polype devant être réséqué doit être suffisamment important pour justifier le risque de cette complication. Néanmoins, une appendicectomie n’est pas toujours nécessaire.

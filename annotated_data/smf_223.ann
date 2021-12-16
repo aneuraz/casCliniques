@@ -1,0 +1,44 @@
+T1	disorder 128 191	 faiblesse progressive dans les jambes à prédominance proximale
+T2	disorder 198 225	douleurs du rachis lombaire
+T3	disorder 291 301	myasthénie
+T4	disorder 431 452	 faiblesse musculaire
+T5	disorder 470 479	dysphagie
+T6	disorder 487 494	dyspnée
+T7	labvalue 774 783	 positifs
+T8	procedure 805 867	stimulation nerveuse répétée du nerf accessoire des deux côtés
+T9	disorder 919 944	épuisement post-tétanique
+T10	disorder 979 986	thymome
+T11	drugs 1109 1123	pyridostigmine
+T12	drugs 1133 1145	azathioprine
+T13	drugs 1158 1171	prednisolone 
+T14	drugs 1556 1570	pyridostigmine
+T15	drugs 1580 1593	’azathioprine
+T16	drugs 1606 1618	prednisolone
+T17	disorder 1428 1451	symptômes myasthéniques
+T18	disorder 1973 1982	hématomes
+T19	disorder 1996 2013	 atrophie cutanée
+T20	disorder 2084 2133	 faiblesse des muscles de la hanche et des jambes
+T21	procedure 2153 2172	examen neurologique
+T22	procedure 2371 2386	test de Simpson
+T23	labvalue 2393 2401	négatif.
+T24	procedure 2486 2518	examen électromyographique (EMG)
+T25	procedure 2728 2731	IRM
+T26	disorder 2744 2789	 récente fracture de la 3e vertèbre lombaire 
+T27	disorder 2899 2925	sténose du canal rachidien
+T28	disorder 2823 2884	 atteinte minime de la surface postérieure du corps vertébral
+T29	disorder 3029 3080	 faiblesse dans les jambes à prédominance proximale
+T30	disorder 3088 3134	myalgie des muscles de la hanche et des jambes
+T31	disorder 3197 3229	altérations myopathiques à l’EMG
+T32	procedure 3471 3511	administration de cortisone à haute dose
+T33	disorder 3531 3558	fracture du corps vertébral
+T34	procedure 3584 3636	réduire la prednisolone à la dose de 30 mg par jour.
+T35	procedure 3668 3713	 traitement par immunoglobuline intraveineuse
+T36	procedure 3812 3815	IRM
+T37	procedure 3829 3847	biopsie musculaire
+T38	procedure 3869 3873	IRM 
+T39	disorder 3886 3906	atrophie lipomateuse
+T40	disorder 3953 3986	éger œdème des muscles adducteurs
+T41	disorder 4151 4174	 myopathie stéroïdienne
+T42	disorder 4077 4084	myosite
+T43	procedure 4106 4125	biopsie musculaire 
+T44	irrelevant 4207 4217	Discussion

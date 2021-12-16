@@ -1,0 +1,47 @@
+T1	disorder 64 92	 PTH gauche pour coxarthrose
+T2	disorder 150 170	arthrose rachidienne
+T3	disorder 176 189	hypothyroïdie
+T4	disorder 197 216	troubles dépressifs
+T5	disorder 285 309	 luxations récidivantes 
+T6	disorder 569 595	 sciatalgie gauche intense
+T7	disorder 601 622	pics fébriles à 40° C
+T8	disorder 630 675	roubles digestifs et un épisode confusionnel.
+T9	disorder 733 757	 une embolie pulmonaire 
+T10	disorder 764 779	spondylodiscite
+T11	disorder 949 954	(AEG)
+T12	disorder 956 971	perte de poids 
+T13	disorder 991 1013	syndrome inflammatoire
+T14	procedure 1018 1030	radiographie
+T15	labvalue 1040 1096	 niveau hydro-aérique au niveau de la prothèse de hanche
+T16	procedure 1282 1325	 ponction de la collection péri-prothétique
+T17	procedure 1662 1683	scintigraphie osseuse
+T18	procedure 1690 1697	scanner
+T19	labvalue 1731 1801	épanchement péri prothétique sans signe de descellement de la prothèse
+T20	procedure 1806 1844	dosage du chrome et du cobalt sanguins
+T21	labvalue 2010 2020	métallose 
+T22	disorder 2242 2265	 vomissements, fatigue 
+T23	disorder 2404 2415	tachycardie
+T24	disorder 2441 2461	troubles de l’humeur
+T25	labvalue 2628 2651	chrome = 1208,3 nmol/L 
+T26	labvalue 2683 2706	 cobalt = 24 808 nmol/L
+T27	disorder 2869 2899	asthénie et une grande anxiété
+T28	labvalue 3067 3087	bilans sont négatifs
+T29	disorder 3119 3147	perte soudaine de l’audition
+T30	disorder 3161 3204	 peau d’orange de son dos et de ses jambes 
+T31	disorder 3275 3308	comportement agressif inhabituel 
+T32	labvalue 3597 3643	élimine définitivement une infection de hanche
+T33	disorder 3758 3787	 baisse de l’acuité visuelle 
+T34	disorder 3886 3909	acouphènes intolérables
+T35	disorder 3915 3994	céphalées en casque, une éruption cutanée des membres inférieurs avec un prurit
+T36	disorder 4000 4030	coliques et une grande anxiété
+T37	disorder 4081 4133	troubles confusionnels et état général très critique
+T38	disorder 4333 4376	intoxication systémique au chrome et cobalt
+T39	disorder 4434 4455	traitement chélateur 
+T40	disorder 4632 4694	 désorientation temporo-spatiale et des troubles confusionnels
+T41	procedure 5002 5032	tête fémorale en métal déposée
+T42	labvalue 5541 5575	anomalie des noyaux gris centraux 
+T43	disorder 5727 5805	Une surdité bilatérale et une atteinte des processus mnésiques sont objectivés
+T44	procedure 5954 6000	prise en charge ré adaptative neurosensorielle
+T45	labvalue 6235 6260	pré Alzheimer est évoquée
+T46	procedure 6345 6358	IRM cérébrale
+T47	labvalue 6362 6402	 présence de métal est toujours détectée

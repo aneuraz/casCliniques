@@ -1,0 +1,81 @@
+T1	disorder 100 127	hernie inguinale bilatérale
+T2	procedure 216 232	cure bilatérale 
+T3	disorder 307 317	hypertendu
+T4	disorder 319 357	porteur d'une valve aortique mécanique
+T5	procedure 369 386	anti vitamines K,
+T6	drugs 414 424	SOTALEX 80
+T7	drugs 426 431	AMLOR
+T8	drugs 433 442	CIBADREX,
+T9	procedure 464 477	le traitement
+T10	disorder 484 505	hypercholestérolémie 
+T11	drugs 509 517	CRESTOR 
+T12	procedure 526 540	hyper uricémie
+T13	drugs 545 552	ZYLORIC
+T14	procedure 597 624	arrêt des anti vitamines K 
+T15	procedure 638 653	avec relais par
+T16	drugs 657 665	Lovenox 
+T17	procedure 742 758	 classé ASA II e
+T18	procedure 763 782	bilan cardiologique
+T19	procedure 833 840	tension
+T20	labvalue 843 855	130/80 mm Hg
+T21	procedure 860 882	 bilan pré opératoire 
+T22	procedure 883 893	numération
+T23	procedure 899 911	hémoglobine 
+T24	labvalue 913 918	15g/l
+T25	procedure 920 922	TP
+T26	procedure 924 927	TCA
+T27	procedure 929 940	créatinine.
+T28	labvalue 947 955	parfait 
+T29	procedure 1137 1149	 cœlioscopie
+T30	disorder 1324 1341	hématome pariétal
+T31	procedure 1549 1561	 reprise du 
+T32	drugs 1561 1569	Lovenox 
+T33	procedure 1709 1728	baisse tensionnelle
+T34	procedure 1784 1804	baisse de la diurèse
+T35	procedure 1821 1856	mise en place d'une sonde à demeure
+T36	disorder 1942 1950	oligurie
+T37	disorder 1956 1971	 petite tension
+T38	procedure 2017 2024	 bilan 
+T39	procedure 2087 2098	hémoglobine
+T40	labvalue 2105 2111	9.1g/l
+T41	procedure 2119 2124	 TCA 
+T42	labvalue 2125 2128	 53
+T43	procedure 2166 2170	238 
+T44	labvalue 2170 2181	micromole/l
+T45	procedure 2282 2301	 scanner en urgence
+T46	procedure 2334 2341	scanner
+T47	disorder 2399 2412	gros hématome
+T48	procedure 2480 2500	reprise chirurgicale
+T49	disorder 2652 2685	 très volumineux hématome visible
+T50	procedure 2755 2761	aspire
+T51	procedure 3070 3080	transfusé 
+T52	procedure 3145 3151	bilan 
+T53	procedure 3177 3189	hémoglobine 
+T54	labvalue 3191 3199	8, 8 g/l
+T55	procedure 3204 3215	 plaquettes
+T56	labvalue 3218 3224	90 000
+T57	procedure 3226 3229	TCA
+T58	labvalue 3231 3240	llisible.
+T59	procedure 3245 3262	ension artérielle
+T60	procedure 3420 3427	diurèse
+T61	drugs 3451 3461	furosémide
+T62	procedure 3463 3497	Des transfusions sont renouvelées 
+T63	procedure 3501 3508	hémocue
+T64	labvalue 3515 3519	8, 7
+T65	labvalue 3536 3544	10 g/ l 
+T66	procedure 3559 3576	HBPM est arrêtée 
+T67	drugs 3643 3655	Calciparine 
+T68	procedure 3706 3717	hémoglobine
+T69	labvalue 3723 3732	 8.2 g/l,
+T70	procedure 3737 3748	plaquettes 
+T71	labvalue 3755 3761	83 000
+T72	procedure 3765 3776	 créatinine
+T73	labvalue 3779 3786	34 mg/l
+T74	procedure 3792 3826	nouvelle intervention est réalisée
+T75	disorder 3915 3934	volumineux hématome
+T76	procedure 4295 4361	eçu au total 14 concentrés globulaires et 5 plasmas frais congelés
+T77	disorder 4450 4479	insuffisance cardiaque sévère
+T78	disorder 4556 4587	défaillance cardio respiratoire
+T79	disorder 4602 4635	défaillance de la fonction rénale
+T80	disorder 4692 4710	choc cardiogénique
+T81	disorder 4640 4645	décès

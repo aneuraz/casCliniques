@@ -1,0 +1,21 @@
+T1	disorder 103 116	 mis à vomir,
+T2	disorder 128 142	mal à respirer
+T3	disorder 154 167	 bras bloqués
+T4	disorder 988 1006	 mal à la poitrine
+T5	disorder 1523 1542	 douleur au plexus 
+T6	drugs 2784 2794	Physiotens
+T7	drugs 2879 2911	traitement contre l’hypertension
+T8	risk 2936 2942	fumeur
+T9	disorder 3240 3252	un infarctus
+T10	drugs 3569 3579	doliprane 
+T11	procedure 4084 4087	ECG
+T12	labvalue 4581 4597	 gastro entérite
+T13	drugs 4662 4690	Spasfon®, Vogalène®, Smecta®
+T14	procedure 5105 5129	tentative de réanimation
+T15	disorder 5665 5690	arrêt cardio respiratoire
+T16	procedure 5695 5712	massage cardiaque
+T17	labvalue 5748 5757	asystolie
+T18	procedure 5785 5800	choc électrique
+T19	drugs 5836 5846	adrénaline
+T20	procedure 5848 5858	intubation
+T21	procedure 5975 5988	 réanimation.

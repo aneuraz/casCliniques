@@ -1,0 +1,134 @@
+Présentation du cas
+
+Une patiente, agée de 79 ans, se présente pour la première fois à votre permanence en raison d’une dysphagie aux ­solides et nausées d’installation progressive sur cinq semaines, associées à une perte pondérale. Vous êtes néanmoins marqué par une dyspnée au repos, que la patiente rapporte d’apparition progressive depuis dix jours, avec orthopnée, sans toux ni crachat, ni ­douleur thoracique. Elle n’a présenté ni état fébrile, ni sudation. Le transit est conservé. Vous relevez une consommation d’alcool occasionnelle, et un tabagisme à 50 unité-paquet-année (UPA) sevré depuis cinq années. Vous déterminez enfin un isolement social, sans suivi médical malgré de précédentes hospitalisations pour des «douleurs thoraciques» il y a quelques ­années.
+
+La patiente est normotendue, tachycarde à 110 battements par minutes, tachypnéique à 28 ventilations/par minutes, soulagée par 2 litres/par minutes d’oxygène pour une satura­tion à 98%. Les bruits du cœur sont réguliers, sans souffle audible, ni bruits sur ajoutés. L’auscultation pulmonaire est libre et symétrique. Vous relevez de discrets œdèmes des membres inférieurs prenant symétriquement le godet jusqu’à mi mollet ainsi qu’une turgescence jugulaire. Le reste de l’examen clinique est dans la norme. La formule sanguine simple s’avère sans particularité, vous contrôlez une discrète perturbation des tests hépatiques, ainsi qu’une insuffisance rénale AKIN 2, non hyperurémique; les enzymes cardiaques sont dans la norme. Vous effectuez une radio­graphie thoracique debout (fig. 1).
+
+Figure 1: Radiographie thoracique debout de la patiente.
+
+Question 1: Quel diagnostic vous paraît le plus probable?
+
+
+a) Epanchements pleuraux
+
+b) Goître plongeant
+
+c) Epanchement péricardique
+
+d) Hernie hiatale
+
+e) Thymome
+
+Nous observons une opacité avec un contour net, convexe vers le haut, se raccordant en pente douce avec le médiastin, avec visualisation des vaisseaux pulmonaires en son sein. Les récessus costo diaphragmatiques sont libres. La masse est donc de localisation médiastinale. Sa localisation infra azygos permet de la situer dans le médiastin inférieur ou moyen. Alors qu’un épanchement pleural se présente par une opacité prédominant aux parties déclives, concave vers le haut; un goître endothoracique se montre par une opacité du médiastin supérieur, générant une déviation de la trachée, dont le contour externe disparaît au-dessus de la clavicule; un thymome apparaît comme une opacité médiastinale lobulée asymétrique; et une hernie hiatale génère une opacité médiastinale inférieure rétrocardiaque, dont le contour externe traverse le diaphragme avec un niveau hydro-aérique. Ainsi, vous ­retenez comme plus probable un épanchement péricardique.
+
+Question 2: Vous complétez les investigations par un électrocardiogramme (ECG). Parmi les descriptions suivantes, laquelle n’est pas compatible avec un épanchement péricardique?
+
+
+a) Microvoltage
+
+b) Fibrillation auriculaire
+
+c) Sus-décalage diffus du segment ST
+
+d) Sous-décalage diffus de l’intervalle PR
+
+e) Sous-décalage du segment ST concave vers le haut
+
+Un épanchement péricardique peut s’accompagner de manifestations ECG multiples et non spécifiques: microvoltage, sus-décalage du segment ST convexe vers le haut, élargissement du QRS, déviation gauche, troubles du rythme. Fait exception pour sa spécificité le signe précoce de Spodick présent dans 80% des péricardites aigues, défini comme un sous-décalage diffus du segment PR descendant et supérieur à 0,8 mm dans au moins une dérivation avec sus-décalage réciproque en aVR [5]. Votre patiente présente un rythme sinusal régulier avec un microvoltage diffus, soit une amplitude du QRS de moins de 5 mm dans l’ensemble des dérivations périphériques (fig. 2).
+
+Figure 2: ECG de la patiente.
+
+Un sous-décalage du segment ST concave vers le haut est le plus fréquemment observé en cas d’intoxication à la digitale.
+
+Votre secrétariat prend contact avec l’hôpital régional. La patiente est connue pour une péricardite récidivante en 2004 et 2012, sans étiologie retrouvée malgré investigations exhaustives. Vous retenez le diagnostic d’épanchement péricardique récidivant, d’allure chronique, pour lequel vous retenez l’indication à une prise en charge spécialisée. Vous transférez ainsi la patiente aux Urgences.
+
+Question 3: Quel examen doit être effectué en priorité?
+
+
+a) Echocardiographie transthoracique (ETT)
+
+b) CT-scanner/imagerie par résonance magnétique (IRM) cardiaque
+
+c) Aucun, la radiographie de thorax est suffisamment suggestive
+
+d) Recherche d’un pouls paradoxal
+
+e) Cathétérisme cardiaque
+
+La tamponnade cardiaque est la complication à exclure en priorité, elle résulte de la compression lente ou rapide des chambres cardiaques par augmentation de pression intrapéricardique. La recherche du pouls paradoxal constitue un signe clinique primordial à la recherche d’une tamponnade. Il est défini par une baisse de la pression systolique de plus de 10 mmHg à l’inspiration lors de la respiration normale du sujet. Facilement et rapidement réalisable au lit du malade, avec une sensibilité à 98% et une spécificité à 83%, ce signe pressera l’echocardiographie transthoracique (ETT) [1]. L’ETT permet non seulement de poser le diagnostic («swinging-heart», collapsus des cavités droites, dilatation veine cave inférieure, variations respiratoires des volumes des chambres ventriculaires, etc.), mais également de classifier l’épanchement (tab. 1) et d’effectuer un repérage avant ponction. La taille de l’épanchement est évaluée par la distance sans écho en fin de diastole entre l’épicarde et le péricarde pariétal; petit (10 mm), modéré (10–20 mm), grand (20 mm). Elle sera effectuée systématiquement en cas de suspicion d’épanchement. Le CT-scanner et l’IRM cardiaques représentent une alternative diagnostique, mais ne permettent pas d’évaluer les éventuelles répercussions hémodynamiques. Ils permettent de détecter la présence de septas, de calcifications et de déterminer l’épaisseur du péricarde de façon plus précise. La radiographie du thorax est d’une utilité diagnostique limitée dans les épanchements péri­cardiques peu volumineux (élargissement de la silhouette cardiaque seulement dès 300 ml). Elle permet cependant de mettre en évidence des pathologies pulmonaires, médiastinales ou pleurales concomitantes. Finalement, le cathétérisme cardiaque est rarement utilisé, car cet examen invasif n’apporte que peu d’informations supplémentaires [2].
+
+Tableau 1: Classification de l’épanchement péricardique (selon guidelines ESC 2015).
+Début	Aiguë <4–6 semaines
+Subaiguë >6 semaines et <3 mois
+Chronique >3 mois
+Taille	Minime <10 mm
+Modéré 10–20 mm
+Important >20 mm
+Distribution	Circonférentiel
+Avec septas
+Composition	Exsudat
+Transsudat
+
+Le médecin en charge objective un pouls paradoxal avec une baisse de la pression systolique avoisinant 15 mmHg à l’inspiration. Le bilan est alors immédiatement complété par une ETT, qui met en évidence un volumineux épanchement péricardique de 5 à 6 cm, avec compression des cavités droites. Les flux transvalvulaires ne sont pas analysables en raison d’un phénomène de «swinging heart». Un drainage péricardique chirurgical par mini-thoracotomie est réalisé en urgence avec mise en place d’un drain. 2,7 litres de liquide citrin sont prélevés et le drain est laissé en place pendant sept jours. L’ensemble des symptômes s’amende rapidement. L’analyse du liquide péricardique démontre un exsudat selon les critères de «Light» (sensibilité 98%, spécificité 72% pour l’analyse de l’épanchement péricardique). La cytopathologie objective quelques cellules mésothéliales réactives, histiocytes, globules rouges, lymphocytes et polymorphonucléaires neutrophiles.
+
+Question 4: Considérant qu’environ 60% des épanchements péricardiques chroniques sont d’origine secondaire, parmi les examens complémentaires suivants, lequel vous paraît le moins pertinent?
+
+
+a) Dosage de la thyréostimuline (TSH)
+
+b) Dosage des anticorps antinucléaire (ANA), anticorps anti-­neutrophiles cytoplasmiques (ANCA) et du facteur rhumatoïde (FR)
+
+c) CT-scanner thoracique et électrophorèse des protéines sériques
+
+d) Sérologies des virus de l’immunodéficience humaine (VIH), de l’hépatite C (HCV), de l’hépatite B (HBV), dosage de l’adénosine désaminase (ADA) et cultures mycobactéries
+
+e) PCR pour coxsackievirus et echovirus
+
+En occident, les étiologies d’un épanchement péricardique sont reparties comme telles: idiopathiques (jusqu’à 50%), infectieux (15–30%), néoplasiques (10–25%), iatrogènes (15–20%) et maladies inflammatoires (5–15%) (tab. 2).
+
+Tableau 2: Etiologies des pathologies péricardiques (selon guidelines ESC 2015).
+Infectieux
+Viral	Fréquents: enterovirus (echovirus, coxsackievirus), herpesvirus (EBV, CMV, HHV6), adénovirus, parvovirus B19 ­(chevauchement possible avec des pathogènes de la myocardite)
+Rares: varicelle, rubéole, oreillons, HBV, HCV, HIV, influenza
+Bactérien	Fréquents: Mycobacterium tuberculosis
+Rares: Coxiella burnetti, Borrelia burgdorferi, Pneumococcus spp(species), Méningococcus spp, Gonococcus spp, ­Streptococcus spp, Staphylococcus spp, Haemophilus spp, Chlamydia spp, Mycoplasma spp, Légionnella spp, Leptospira spp, Listeria spp, Providencia stuartii
+Fongique	Très rares: Histoplasma spp (plus fréquent chez des patients immunocompétents), Aspergillus spp, Blastomyces spp, ­Candida spp (plus fréquent chez des patients immunosupprimés)
+Parasites	Très rares: Echinococcus spp, Toxoplasma spp
+Non infectieux
+Auto-immun	Fréquents: maladie systémique auto-immune et auto-inflammatoire (lupus érythémateux systémique, syndrome de Sjögren, arthrite rhumatoïde, sclérodermie), vasculites systémiques (granulomatose éosinophilique avec polyangéite ou granulomatose allergique [nommé antérieurement Churg-Strauss], maladie de Horton, maladie de Takayasu, syndrome de Behçet), sarcoïdose, fièvre méditerranéenne familiale, maladies inflammatoires de l’intestin, maladie de Still
+Néoplasique	Rares: tumeur primaire (surtout mésothéliome péricardique)
+Fréquent: tumeur secondaire métastatique (surtout cancer du poumon, sein et lymphome)
+Métabolique	Urémie, myxœdème, anorexie nerveuseAutres rares
+Traumatique et ­iatrogène	Rares: début précoceLésion directe: trauma thoracique pénétrant, perforation œsophage Lésion indirecte: trauma thoracique non pénétrant, irradiation
+Fréquents: début tardifSyndrome de lésion du péricarde: syndrome post-infarctus du myocarde, syndrome post-péricardiotomie, post-traumatique inclus après trauma iatrogène (angioplastie percutanée, pose de pacemaker et thermoablation par radiofréquence)
+Médicamenteux	Rare:Syndrome lupus-like: procaïnamide, hydrazaline, methyldopa, isoniazide, phénytoïne Antinéoplasique (souvent associé à une cardiomyopathie, peut causer une péricardiopathie): doxorubicin, daunorubicin, ­cytosine arabinoside, 5-fluorouracil, cyclophosphamide Pénicilline (réaction d’hypersensibilité avec éosinophilie)Amiodarone, methysergide, mésalazine, clozapine, minoxidil, dantrolène, practolol, phénylbutazone, thiazides, ­streptomycine, thiouracil, streptokinaseAcide para-aminosalicylique, sulfamidé, cyclosporine, bromocriptine, divers vaccins, granulocyte-macrophage ­colonystimulating factor (GM-CSF), anti-tumor necrosis factor (anti-TNF))
+Autres	Fréquent: amyloïdose, dissection aortique, hypertension artérielle pulmonaire, insuffisance cardiaque chronique
+Rare:absence congénitale partielle ou complète du péricarde
+
+Le coxsackievirus et l’echovirus représentent les pathogènes infectieux les plus fréquemment retrouvés en cas d’épanchements péricardiques aigus (20%). En raison d’une clinique habituellement moins sévère, et en l’absence de thérapeutique spécifique, ils ne sont pas recherchés de routine. Peu fréquente en Suisse, la tuber­culose représente la première cause d’épanchement péricardique dans le monde (près de 60%). Notons que malgré l’avènement des techniques moléculaires, la recherche d’ADA reste une méthode de référence pour sa plus grande spécificité (entre 83 à 100%) et sensibilité (entre 88 à 92%) pour la recherche de tuberculose dans les séreuses. Elle est habituellement complétée par une culture et «polymerase chain reaction» (PCR) spécifique pour la tuberculose. Les virus HIV, HBV et HCV, ont un tropisme particulier pour les séreuses, et peuvent être à l’origine d’épanchements péricardiques. Des sérologies sont effectuées. En l’absence de piste clinique, un CT-scanner thoraco-abdominal est réalisé à la recherche d’une lésion suspecte de néoplasie. Quoique peu sensible (20 à 50%), une analyse cytologique du liquide péricardique est systématiquement recommandée à la recherche de cellule tumorale maligne. Le rendement diagnostique du dosage des marqueurs tumoraux dans le liquide péricardique est controversé; ici sont dosé le antigène carcino-embryonnaire (CEA) et le antigène carbohydrate 19-9 (CA 19-9). Les maladies inflammatoires susceptibles d’engendrer un épanchement péricardique sont nombreuses: maladies auto-immunes, vasculites, maladie de Behçet, fièvre méditerranéenne, maladies granulomateuses, etc. L’anamnèse et l’examen clinique permettront de cibler les investigations. Ici, sont effectués les dosages des anticorps antinucléaires, anti-nucléosomes, antinucléoprotéines, ainsi que le FR et la vitesse de sédimentation. En complément des examens radiologiques et de l’analyse cytologique, le dosage de l’enzyme conversion et la calciurie sur 24 heures à la recherche d’une sarcoïdose sont réalisés. Une hypothyroïdie peut entraîner une accumulation de glycosaminoglucanes dans l’espace interstitiel de nombreux tissus, dont le péricarde, à l’origine d’un épanchement. La TSH est ainsi systématiquement dosée [2]. L’ensemble des analyses et examens s’avèrent négatif chez votre patiente.
+
+Question 5: Dans le contexte d’un épanchement péricardique récidivant idiopathique, retenu chez votre patiente, quel(s) traitement(s) proposez-vous?
+
+
+a) Anti-inflammatoires non stéroïdiens (AINS)
+
+b) Corticostéroïdes
+
+c) Colchicine
+
+d) Immunoglobulines
+
+e) AINS et colchicine
+
+L’association d’AINS ou de l’aspirine avec la colchicine a démontré une diminution du risque de récidive dans le contexte d’un épanchement péricardique idiopathique. Les AINS ou l’aspirine, à doses anti-inflammatoires, sont prescrits pour une durée de 1 à 2 semaines. Au premier épisode, la colchicine (à raison de 0,5 mg 2×/j ou 0,5 mg 1×/j si poids <70 kg) doit être poursuivie pour une durée de 3 mois, et lors de récidive pour une durée de 6 à 12 mois. Les corticostéroïdes sont réservés pour de rares cas (maladies inflammatoires systémiques, grossesse, intolérance ou contre-indication au AINS, aspirine ou colchicine, cas réfractaires au traitement médicamenteux), car ils augmentent le risque de récidive de péricardite [1]. Bien que leur mode d’action demeure incertain, un traitement par immunoglobulines est parfois proposé, dans le contexte très particulier d’un épanchement péricardique idiopathique récidivant, réfractaire aux traitements susmentionnés. La situation de votre patiente ne remplit pas ces critères.
+
+La patiente est traitée par AINS et colchicine et bénéficie d’un suivi cardiologique rapproché. Elle regagne son domicile après un séjour de réhabilitation d’un mois pour prise en charge d’une dénutrition. Les ETTs de contrôle effectuées à une semaine, un puis à six mois objectivent une FEVG à 60%, sans trouble de la cinétique segmentaire et sans valvulopathie significative, avec persistance d’une lame de liquide résiduelle en regard du ventricule droit. Il n’y a pas eu de récidive de la symptomatologie à ce jour.
+
+Discussion
+
+Le diagnostic de péricardite est posé chez 5% des personnes consultant aux urgences pour des douleurs thoraciques, mais seul 60% des patients ont un épanchement associé [2]. Nous présentons ici une manifestation atypique avec pour principale plainte une dysphagie. L’ETT sera effectuée systématiquement en cas de présomption diagnostic. La présence d’un pouls paradoxal ou d’une myocardite (élévation concomitante des Créatine kinases et troponine) imposera sa réalisation en urgence. Un drainage est indiqué en urgence en cas de répercussion hémodynamique. 20% des patients récidiveront, mais seul un faible pourcentage évolue vers une forme chronique. La prise en charge et le pronostic d’une telle affection sont dépendants de l’étiologie sous-jacente, mais les épanchements idiopathiques chroniques sont de devenir globalement favorable et leur traitement associe AINS et colchicine.
+
+Réponses:
+
+
+Question 1: c; Question 2: e; Question 3: d; Question 4: e; ­Question 5: e.

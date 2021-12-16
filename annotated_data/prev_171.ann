@@ -1,0 +1,7 @@
+T1	irrelevant 0 12	Cas clinique
+T2	disorder 190 201	aménorrhées
+T3	disorder 222 234	métrorragies
+T4	disorder 273 285	métrorragies
+T5	procedure 308 319	échographie
+T6	labvalue 442 447	160 g
+T7	irrelevant 450 725;727 943	La suite de la prise en soin est habituelle : la patiente est hospitalisée pour surveillance et le cadre est sollicité pour réaliser, avec les parents, les démarches administratives en lien avec la prise en charge du corps, l’état civil, la réalisation d’une autopsie, etc...  Suite à cet échange et au regard du contexte, le couple souhaite une autopsie du corps. Or, lors de l’envoi du fœtus, celui-ci a été dirigé par erreur dans le laboratoire d’anatomopathologie d’un autre établissement.

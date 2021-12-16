@@ -1,0 +1,14 @@
+T1	disorder 324 362	troisième enfant pesaient plus de 4 kg
+T2	procedure 871 904	échographie morphologique normale
+T3	risk 921 946	prise de poids importante
+T4	disorder 990 1012	 diabète gestationnel 
+T5	disorder 1656 1675	 revient qu'à J + 1
+T6	procedure 2444 2477	fait des prélèvements biologiques
+T7	disorder 2685 2703	liquide est teinté
+T8	disorder 3063 3092	blocage au niveau des épaules
+T9	disorder 3221 3247	 plexus brachial important
+T10	disorder 3444 3464	dystocie des épaules
+T11	disorder 4605 4623	 souffrance fœtale
+T12	procedure 4670 4691	manœuvres Mac Roberts
+T13	procedure 4734 4760	une manœuvre de Jacquemier
+T14	procedure 4792 4803	 traction s

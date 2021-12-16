@@ -1,0 +1,42 @@
+T1	risk 250 265	obésité modérée
+T2	risk 267 275	IMC = 32
+T3	disorder 323 342	pyélonéphrite aiguë
+T4	risk 387 425	 hypertension artérielle chez son père
+T5	procedure 512 535	frottis cervico-vaginal
+T6	disorder 835 871	un diabète gestationnel très précoce
+T7	procedure 1112 1123	échographie
+T8	procedure 7291 7304	IRM cérébrale
+T9	disorder 7351 7379	bras gauche n’est pas mobile
+T10	disorder 7407 7436	 paralysie du plexus brachial
+T11	procedure 6970 7030	une deuxième dose d’adrénaline est injectée pour bradycardie
+T12	procedure 6837 6860	adrénaline est injectée
+T13	procedure 6868 6902	massage par compression thoracique
+T14	labvalue 6480 6512	 pH au sang de cordon est à 6,75
+T15	labvalue 6518 6531	lactates à 20
+T16	procedure 6707 6728	intubation trachéale 
+T17	procedure 6756 6767	ventilation
+T18	drugs 6053 6063	trinitrine
+T19	procedure 5961 5985	manœuvre de Mac Roberts 
+T20	procedure 5992 6015	tentative de Jacquemier
+T21	disorder 5845 5865	dystocie des épaules
+T22	disorder 5845 5865	dystocie des épaules
+T23	disorder 5479 5498	bosse sérosanguine 
+T24	drugs 4745 4757	Dinoprostone
+T25	drugs 4759 4767	Propess®
+T26	disorder 4372 4406	diabète gestationnel sous insuline
+T27	labvalue 4372 4406	diabète gestationnel sous insuline
+T28	labvalue 4019 4040	glycémies équilibrées
+T29	labvalue 4019 4040	glycémies équilibrées
+T30	labvalue 4049 4082	hauteur utérine entre 35 et 37 cm
+T31	drugs 4049 4098	hauteur utérine entre 35 et 37 cm. La patiente es
+T32	drugs 3307 3315	Minirin®
+T33	procedure 3307 3315	Minirin®
+T34	procedure 3554 3580	échographie de croissance 
+T35	disorder 3554 3580	échographie de croissance 
+T36	disorder 2759 2769	macrosomie
+T37	drugs 2652 2660	Minirin®
+T38	procedure 2652 2660	Minirin®
+T39	procedure 1795 1807	échographie 
+T40	procedure 1637 1656	examen obstétrical 
+T41	procedure 1638 1656	xamen obstétrical 
+T42	procedure 1493 1505	échographie 

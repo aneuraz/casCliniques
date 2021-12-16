@@ -1,0 +1,104 @@
+T1	profession 22 31	jardinier
+T2	profession 32 42	paysagiste
+T3	disorder 128 139	hémoptysies
+T4	disorder 188 196	asthénie
+T5	disorder 204 211	dyspnée
+T6	procedure 249 282	traitement antibiotique empirique
+T7	disorder 328 334	asthme
+T8	procedure 366 377	corticoïdes
+T9	procedure 381 406	béta-2-mimétiques inhalés
+T10	risk 458 463	tabac
+T11	risk 491 500	marijuana
+T12	risk 559 602	exposition professionnelle à des pesticides
+T13	procedure 748 762	 prise de sang
+T14	procedure 774 792	bilirubine totale 
+T15	labvalue 805 811	élevée
+T16	disorder 818 862	 anémie microcytaire hypochrome régénérative
+T17	procedure 864 877	réticulocytes
+T18	labvalue 880 887	28/1000
+T19	procedure 943 946	LDH
+T20	procedure 950 962	haptoglobine
+T21	labvalue 963 976	dans la norme
+T22	procedure 1036 1045	hémostase
+T23	procedure 1049 1061	électrolytes
+T24	labvalue 1062 1069	normaux
+T25	procedure 1071 1086	fonction rénale
+T26	labvalue 1087 1096	conservée
+T27	labvalue 1159 1165	10 g/l
+T28	labvalue 1204 1211	négatif
+T29	procedure 1170 1199	dépistage d’une infection HIV
+T30	procedure 1098 1117	protéine C réactive
+T31	procedure 1217 1246	sédiment et le spot urinaire 
+T32	labvalue 1251 1269	sans particularité
+T33	irrelevant 1272 1404;1406 1458;1461 1477;1479 1508;1510 1559;1561 1607;1609 1655	Question 1: La radiographie du thorax montre des infiltrats alvéolaires bi-basaux (fig. 1). Quel est votre premier pas diagnostique?  Figure 1: Radiographie du thorax de face du patient.   a) Bronchoscopie  b) CT-Scan thoracique injecté  c) Antibiothérapie empirique à visée diagnostique  d) Test T-Spot et isolement de type «aérosols»  e) Consultation d’oto-rhino-laryngologie (ORL)
+T34	irrelevant 1657 2375	L’hémoptysie est une urgence médicale avec une haute morbidité et haute mortalité dont la prise en charge doit être d’autant plus prompte que le saignement est majeur. Les manifestations peuvent être plus ou moins bruyantes, se présentant parfois comme une suffo­cation ou un choc hémorragique nécessitant une intubation oro-trachéale pour protéger les voies aériennes non atteintes, une bronchoscopie ou des mesures de radiologie interventionnelle pour stopper l’hémorragie. En cas de présentation moins sévère (dyspnée, anémie ou altération isolée de l’image radiologique), il est préférable avant tout d’exclure et traiter une origine ORL ou gastro-entérologique avant de faire d’autres inves­tigations pulmonaires.
+T35	procedure 2379 2406	 scanner thoracique injecté
+T36	disorder 2456 2467	hémoptysies
+T37	disorder 2523 2541	embolie pulmonaire
+T38	disorder 2487 2508	infiltrats bilatéraux
+T39	irrelevant 2554 2606	igure 2: Scanner thoracique injecté du même patient.
+T40	procedure 2612 2625	bronchoscopie
+T41	procedure 2789 2815	 lavage broncho-alvéolaire
+T42	procedure 2817 2820	LBA
+T43	disorder 2864 2886	saignement bronchique 
+T44	disorder 2951 2960	bronchite
+T45	disorder 2995 3005	hémoptysie
+T46	procedure 3282 3290	 TB-spot
+T47	procedure 3291 3322	 dépistage d’une infection HIV 
+T48	procedure 3324 3375	 recherche de bacilles alcoolo- et acido-résistants
+T49	procedure 3377 3381	BAAR
+T50	labvalue 3391 3399	négatifs
+T51	disorder 3182 3205	tuberculose pulmonaire 
+T52	procedure 3412 3423	examen ORL 
+T53	disorder 3519 3528	épistaxis
+T54	disorder 3548 3577	hémorragie pharyngo-­laryngée
+T55	disorder 3618 3640	hémorragie alvéolaire 
+T56	disorder 3818 3828	hématémèse
+T57	irrelevant 3902 4016;4019 4047;4049 4064;4066 4078;4080 4103;4105 4135	Question 2: Une hémorragie alvéolaire est confirmée par bronchoscopie. Quelle en est l’étiologie la plus probable?   a) Exposition à des toxiques  b) Leptospirose  c) Vasculite  d) Carcinome bronchique  e) Sténose mitrale congénitale
+T58	risk 4169 4212	exposition professionnelle à des pesticides
+T59	risk 4359 4368	marijuana
+T60	disorder 4495 4497	HA
+T61	disorder 4667 4702	ictéro-hémorragique de leptospirose
+T62	disorder 4704 4719	maladie de Weil
+T63	risk 4815 4832	urine de rongeurs
+T64	procedure 5005 5014	sérologie
+T65	procedure 5187 5190	PCR
+T66	labvalue 5236 5258	Legionnellapneumophila
+T67	labvalue 5305 5313	négative
+T68	procedure 5318 5337	antigènes urinaires
+T69	procedure 5349 5352	LBA
+T70	labvalue 5353 5360	stérile
+T71	irrelevant 5363 5914;5916 6242;6244 6801	Une origine auto-immune n’est pas rare (19–42%) comme cause d’HA. La polyangéite microscopique, la granulomatose avec polyangéite (maladie de Wegener), le lupus érythémateux systémique, le syndrome de Goodpasture et plus rarement d’autres connectivites (polyarthrite rhumatoïde, sclérodermie, myopathies inflammatoires, connectivite mixte) ou d’autres vasculites (granulomatose éosinophilique avec polyangéite anciennement appelée syndrome de Churg-Strauss, purpura de Henoch-Schoenlein et néphropathie à IgA) font partie des diagnostics à rechercher.  Un carcinome bronchique ou une autre néoplasie pulmonaire apparait comme l’hypothèse la moins probable au vu de l’histoire médicale sans autre signe d’appel, du jeune âge du patient et d’une hémorragie qui proviendrait avant tout de l’arbre bronchique. Le scanner thoracique et la bronchoscopie ne donnent pas plus d’argument.  Les maladies cardiaques sont les causes non-immunes les plus fréquentes d’HA à côté des infections pulmonaires, de l’exposition à des drogues ou des toxiques, et des troubles de la coagulation extrinsèques ou intrinsèques (syndrome des anticorps anti-phospholipides, purpura thombotique thrombocytopénique). L’échocardiographie a exclu une sténose mitrale congénitale, potentiellement responsable d’une insuffisance cardiaque avec hypertension post-capillaire. Une fistule broncho-vasculaire, une hémosidérose ou une endométriose pulmonaire sont plus rares.
+T72	irrelevant 6803 6932;6935 7008;7010 7070;7072 7129;7131 7219;7221 7279	Question 3: Une vasculite reste donc une hypothèse ouverte. Quel est le meilleur test à effectuer à ce stade des ­investigations?   a) Anticorps anti-nucléaires (ANA) par immunofluorescence indirecte (IFI)  b) Anticorps anti-cytoplasme des neutrophiles (ANCA) par IFI  c) Anticorps anti-membrane basale glomérulaire (anti-GBM)  d) Dosage des anticorps anti-myéloperoxydase (MPO) et anti-­protéinase 3 (PR3) par ELISA  e) Dosage des éosinophiles plasmatiques et des IgE totales
+T73	irrelevant 7281 7953;7955 8164;8166 8208	Le dosage des ANA (fig. 3) est plus utile à doser en cas d’arthrite fébrile, de purpura palpable, de syndrome sec, de phénomène de Raynaud, de cytopénie (immune) ou de glomérulonéphrite que d’hémorragie alvéolaire isolée. En effet, ils aident avant tout au dépistage des connectivites comme le lupus érythémateux systémique (LES), le syndrome de Sjögren ou la sclérodermie, avec une sensibilité et une spécificité d’environ 50% (excepté sensibilité de 95% pour LES). Un résultat négatif permet de s’abstenir de rechercher leur spécificité par ELISA («enzyme-linked immunosorbent assay») tels que les anticorps anti-ADN double brin (anti-dsDNA) et les anti-nucléoprotéines.  Figure 3: Algorithme proposé pour la recherche d’anticorps anti-nucléaires (ANA) et d’anticorps anti-cytoplasme des ­neutrophiles (ANCA) par immunofluorescence indirecte (adapté et simplifié à partir de [10]).  PR3 = Protéinase 3; MPO = Myélopéroxydase.
+T74	irrelevant 8210 8622	Le dosage des ANCA (fig. 3) est prioritaire en cas d’HA, de syndrome pneumo-rénal et de nodules pulmonaires multiples. En effet, ils sont avant tout associés à la polyangéite microscopique, à la granulomatose avec polyangéite (Wegener) ou la granulomatose éosinophilique avec polyangéite (EGPA = syndrome de Churg-Strauss) et quelquefois observés dans le syndrome de Goodpasture en association avec les anti-GBM.
+T75	procedure 8651 8681	l’immunofluorescence indirecte
+T76	procedure 8683 8686	IFI
+T77	procedure 8707 8711	ANCA
+T78	labvalue 8726 8734	négative
+T79	labvalue 8926 8961	 au-dessous du seuil de positivité.
+T80	procedure 8739 8778	 dosage des anticorps sériques anti-GBM
+T81	irrelevant 8963 9295;9297 9959;9961 10087	Recherchés en cas de titre d’ANCA élevé, les anti-MPO ont une valeur diagnostique importante notamment dans la polyangéite microscopique alors que les anti-PR3 sont essentiellement positifs dans la granulomatose avec polyangéite, et moins fréquemment dans la polyangéite microscopique et la glomérulonéphrite nécrosante segmentaire.  Une éosinophilie sanguine et une augmentation des IgE totales sont observées dans de nombreuses situations comme les réactions allergiques saisonnières et ont moins de valeur pour la recherche d’une vasculite. ­L’absence d’éosinophilie, d’atteinte des sinus, et de neuropathie rend moins probable une EGPA, évoquée au vu de l’asthme et des infiltrats pulmonaire transitoires. A ce stade, la possibilité d’un syndrome de Good­pasture avec une atteinte pulmonaire isolée reste la plus probable en raison de l’exclusion progressive des autres origines et d’un taux d’anticorps anti-GBM qui va en s’accroissant au cours des dosages successifs, quoique encore normal.  Question 4: Quel est le meilleur test diagnostique pour confirmer la présence d’un syndrome de Goodpasture chez notre patient?
+T82	irrelevant 10090 10152;10154 10211;10213 10278;10280 10338;10340 10395	a) Recherche des anticorps anti-GBM sur une biopsie pulmonaire  b) Quantification par méthode ELISA des anti-GBM sériques  c) Détection par immunofluorescence directe des anti-GBM sériques  d) Recherche des anticorps anti-GBM sur une biopsie rénale  e) Dosage par Western-blot des collagénase solubles GBM
+T83	irrelevant 10397 10824	La biopsie de l’organe atteint est le «gold standard» pour le diagnostic. L’analyse comprend la microscopie optique, et l’immunofluorescence. La biopsie rénale est préférée à la biopsie pulmonaire en cas d’atteinte concomitante en raison du pronostic vital engagé lors d’atteinte hémorragique pulmonaire. Elle ne montre toutefois pas de bénéfice diagnostique ni pronostique pour les patients avec une fonction rénale conservée.
+T84	procedure 10845 10870	 biopsie transbronchique 
+T85	procedure 10882 10895	bronchoscopie
+T86	procedure 10899 10917	immunofluorescence
+T87	disorder 10930 10954	syndrome de Goodpasture 
+T88	disorder 10969 10992	dépôts ­linéaires d’IgG
+T89	procedure 11581 11605	électrochémoluminescence
+T90	labvalue 11607 11618	ECL = 18 CU
+T91	irrelevant 11068 11348;11350 11496	igure 4: Immunofluorescence directe sur la biopsie pulmonaire démontrant une fluorescence linéaire des IgG le long de la membrane basale des alvéoles (agrandissement 400×). ­Remerciements au Dr Samuel Rotman, Institut de pathologie, pour la mise à ­disposition de la photographie.  La détection des anti-GBM sérique par méthode ELISA, hautement spécifique (>97%), a une sensibilité variable selon les kits utilisés (90,9–100%). 
+T92	irrelevant 11772 12047	La détection par immunofluorescence directe des anti-GBM sériques est moins sensible que la méthode ECL, mais dotée d’une bonne spécificité, avec moins de 10% de faux-positifs. A noter que le taux d’anticorps anti-GBM circulants n’est pas corrélé à la sévérité de la maladie.
+T93	irrelevant 12049 12266;12268 12377;12380 12411;12413 12449;12451 12487;12489 12527;12529 12583	Le Western blot est une méthode complémentaire pour confirmer les résultats obtenus par ELISA, parfois faussement positifs lorsqu’ils utilisent des antigènes non purifiés. Le western blot n’est pas disponible partout.  Question 5: Sur la base des résultats précédents et de la clinique, quel est le traitement le plus approprié?   a) Transfusion sanguine répétée  b) Corticothérapie et arrêt du tabac  c) Corticothérapie et plasmaphérèses  d) Corticothérapie et cyclophosphamide  e) Corticothérapie, plasmaphérèses et cyclophosphamide
+T94	irrelevant 14487 16411;16413 16436;16439 16498;16499 16512	Le syndrome de Goodpasture, est une maladie auto-­immune rare décrite pour la première fois en 1919. Elle est appelé également maladie à anticorps anti-mem­brane basale glomérulaire ou glomérulonéphrite extra-­capillaire de type 1. Cette atteinte glomérulaire rapidement progressive est typiquement retrouvée dans >90% des cas. L’atteinte pulmonaire est associée dans 40–60% et isolée dans 10% des cas. Les hémoptysies sont la première manifestation de l’atteinte pulmonaire, associées ou non à une toux sèche et à une dyspnée. D’autres symptômes aspécifiques peuvent survenir comme fatigue, faiblesse, nausées, vomissements, perte d’appétit, pâleur, etc. Une atteinte de l’oreille interne est présente dans quelques cas avec perte soudaine ou lente de l’audition. Elle atteint plutôt les hommes de 20–30 ans et les femmes de 60–70 ans. Même si l’étiopathogénèse reste en partie incomprise, un rôle génétique semble important puisque les antigènes leucocytaires humains (HLA) sont différemment représentés. Les anticorps sont dirigés essentiellement contre une unité monomérique de 28 kD dans le ­domaine 1 de la chaîne alpha-3 du collagène de type IV (alpha3[IV]NC1) de façon isolée ou associée aux chaînes alpha-4 et alpha-5. Une atteinte isolée contre la chaîne alpha-5 a été décrite très récemment. Retrouvée chez notre patient, elle explique le résultat négatif des tests ELISA ciblant la chaîne alpha-3. Ces épitopes sont essentiellement représentés et accessibles aux anticorps dans le rein et le poumon. Toutefois, l’exposition des anticorps à la membrane basale des capillaires alvéolaires nécessite probablement une lésion alvéolaire préalable, ce qui pourrait expliquer que 85% des malades sont des fumeurs. Bien que la maladie ait été très souvent fatale par le passé, son taux de survie dépasse actuellement les 80% à 5 ans grâce au traitement combiné de plasmaphérèse, corticoïdes et agents immunosuppresseurs.  Réponses aux questions:   Question 1: e. Question: 2 c. Question: 3 b. Question: 4 a. Question: 5 e
+T95	disorder 13962 13993	hémorragique alvéolaire diffuse
+T96	procedure 14042 14049	scanner
+T97	procedure 14114 14128	plasmaphérèses
+T98	procedure 14175 14204	 traitement immunosuppresseur
+T99	drugs 14209 14225	cyclophosphamide
+T100	procedure 14262 14277	corticothérapie
+T101	drugs 14358 14367	rituximab
+T102	drugs 13769 13800	trimethoprime-sulfamethoxazole 
+T103	disorder 13819 13854	 pneumonie à Pneumocystis jirovecii
+T104	irrelevant 12585 12772;12774 13057;13059 13414;13416 13506	Un soutien de support par transfusion sanguine peut se révéler nécessaire, notamment en cas d’hémoptysie massive. Seule, elle ne contribue pas au traitement de la pathologie sous-jacente.  La base du traitement du syndrome de Goodpasture est effectivement la corticothérapie à haute dose pour stopper la production d’anticorps et cibler les cellules responsables de leur production. L’arrêt du tabac est indispensable pour éviter l’irritation délétère des voies aériennes.  La plasmaphérèse (PEX) est également un pilier du traitement pour enlever rapidement les anticorps circulants du courant sanguin. Un suivi du titre d’anticorps est indiqué en vue de guider la possibilité de traitement par PEX. La corticothérapie doit être poursuivie à l’arrêt de la plasmaphérèse en raison d’un risque de rebond de production d’anticorps.  L’introduction d’une immunosuppression par cyclophosphamide est habituellement recommandée

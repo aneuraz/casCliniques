@@ -1,0 +1,9 @@
+T1	disorder 85 130	intervention pour hernie inguinale bilatérale
+T2	disorder 161 185	cure d’une fistule anale
+T3	disorder 215 254	opération pour un canal lombaire étroit
+T4	disorder 273 310	paralysie des deux membres inférieurs
+T5	disorder 430 462	 douleurs des membres inférieurs
+T6	disorder 564 592	hernie inguinale bilatérale 
+T7	disorder 1852 1877	 double hernie inguinale 
+T8	procedure 1900 1938	cure associée à la pose d’une plaque. 
+T9	disorder 2222 2233	hémorroïdes

@@ -1,0 +1,85 @@
+T1	disorder 154 173	état inflammatoire 
+T2	disorder 215 222	 fièvre
+T3	disorder 215 222	 fièvre
+T4	disorder 228 241	maux de gorge
+T5	disorder 247 294	myalgies dans la région scapulaire et pelvienne
+T6	disorder 334 380	douleurs croissantes au niveau des deux genoux
+T7	procedure 470 490	anamnèse personnelle
+T8	disorder 537 560	hypertension artérielle
+T9	disorder 578 599	douleurs articulaires
+T10	disorder 601 619	éruptions cutanées
+T11	disorder 623 642	épisodes de fièvre 
+T12	disorder 731 738	fébrile
+T13	disorder 731 738	fébrile
+T14	disorder 764 775	hypotension
+T15	labvalue 795 806	76/42 mm Hg
+T16	procedure 812 832	fréquence cardiaque 
+T17	labvalue 833 839	64/min
+T18	procedure 847 869	fréquence respiratoire
+T19	labvalue 871 877	12/min
+T20	labvalue 887 895	normales
+T21	procedure 899 915	examen clinique 
+T22	procedure 927 945	souffle systolique
+T23	labvalue 946 972	3/6 maximal au point d’Erb
+T24	disorder 1024 1031	rougeur
+T25	disorder 1036 1053	chaleur excessive
+T26	procedure 1103 1129	paramètres inflammatoires 
+T27	procedure 1154 1157	CRP
+T28	labvalue 1160 1180	234 mg/l [<5,0 mg/l]
+T29	procedure 1182 1193	leucocytes 
+T30	labvalue 1195 1218	14,4 G/l [3,6–10,5 G/l]
+T31	procedure 1219 1222	 VS
+T32	labvalue 1223 1243	>140 mm/h [<20 mm/h]
+T33	procedure 1328 1348	’électrocardiogramme
+T34	procedure 1444 1461	échocardiographie
+T35	procedure 1353 1397	tomodensitométrie thoracique et abdo­minale 
+T36	labvalue 1475 1603	fonction systolique et diastolique du ventricule gauche normale, sans indice d’atteinte valvulaire ou d’épanchement péricardique
+T37	procedure 1731 1767	 un diagnostic des agents pathogènes
+T38	disorder 1779 1787	hépatite
+T39	disorder 1789 1796	malaria
+T40	disorder 1797 1810	 leishmaniose
+T41	profession 1884 1891	négatif
+T42	procedure 1897 1906	sérologie
+T43	labvalue 1975 1997	cyto­mégalovirus (CMV)
+T44	labvalue 1945 1972	virus d’Epstein-Barr (VEB) 
+T45	disorder 2057 2073	maladies virales
+T46	procedure 2148 2192	cultures des échantillons de sang et d’urine
+T47	labvalue 2224 2247	 croissance bactérienne
+T48	procedure 2252 2312	test de détection rapide des streptocoques du groupe A (SGA)
+T49	drugs 2351 2363	antibiotique
+T50	drugs 2368 2399	amoxicilline/acide clavulanique
+T51	labvalue 2474 2482	 négatif
+T52	disorder 2514 2525	gonarthrose
+T53	disorder 2544 2565	douleurs articulaires
+T54	procedure 2635 2665	ponction articulaire du genou 
+T55	labvalue 2676 2701	 liquide synovial stérile
+T56	labvalue 2711 2736	pléïocytose polynucléaire
+T57	procedure 2738 2759	numération cellulaire
+T58	labvalue 2761 2781	15 250/μl [50–200/μl
+T59	labvalue 2784 2796	88,5% de PMN
+T60	procedure 2803 2844	analyse PCR («polymerase chain reaction»)
+T61	procedure 2850 2908	recherche de Chlamydia, gonocoques et Tropheryma whippleia
+T62	labvalue 2927 2934	négatif
+T63	disorder 3057 3079	maladies rhumatismales
+T64	disorder 3131 3154	insuffisance cardiaque 
+T65	procedure 3213 3232	échocardiographique
+T66	labvalue 3246 3310	insuffisance mitrale modérée et une légère insuffisance aortique
+T67	disorder 3348 3366	état inflammatoire
+T68	disorder 3368 3381	polyarthrite 
+T69	disorder 3384 3413	affection de la valve mitrale
+T70	disorder 3461 3494	rhumatisme articulaire aigu (RAA)
+T71	procedure 3514 3538	ntistreptolysine O (ASO)
+T72	labvalue 3542 3552	>1600 U/ml
+T73	drugs 4003 4037	nti-inflammatoires non stéroïdiens
+T74	drugs 4039 4049	ibuprofène
+T75	disorder 4068 4075	 fièvre
+T76	disorder 4114 4135	troubles articulaires
+T77	drugs 4195 4213	anti-inflammatoire
+T78	procedure 4288 4291	ASO
+T79	labvalue 4307 4315	540 U/ml
+T80	procedure 4393 4420	culture de frottis de gorge
+T81	drugs 4455 4468	pénicilline V
+T82	drugs 4470 4476	Ospen®
+T83	procedure 4525 4542	échocardiographie
+T84	labvalue 4582 4668	insuffisance mitrale avait légèrement régressé et l’insuffisance aortique était stable
+T85	irrelevant 4805 4815;4817 5489;5491 6284;6286 7206;7208 7345;7346 7551;7552 7607;7608 7665;7666 7689;7690 7711;7712 7737;7738 7784;7785 7820;7821 7882;7883 7949;7950 8045;8047 8883;8885 9274;9276 9452;9454 9980;9982 11768;11770 12057;12059 12087;12089 12306;12308 12503;12505 12820;12822 13020;13022 13180	Discussion  Le RAA est une maladie inflammatoire médiée par le système immunitaire faisant suite à une infection par des streptocoques du groupe A (SGA). Une fièvre (90%) et une polyarthrite migrante (75%) surviennent avec une latence de 10–35 jours après l’amygdalite streptococcique. Au total, 50–70% des cas développent une cardite manifeste sur le plan clinique et dans 12–21% des cas, une cardite subclinique est mise en évidence à l’échocardiographie. Plus rarement et un peu plus tardivement au cours de l’évolution, une chorée de Sydenham (10–30%) consécutive à l’atteinte des ganglions basaux, un érythème marginé (<6%) ou des nodules sous-cutanés (0–10%) surviennent [1, 2].  Sous nos latitudes, la RAA est extrêmement rare; la «Swiss Paediatric Surveillance Unit» (SPSU) n’a enregistré que 24 cas entre 2000 et 2010. Dans les régions moins développées, en particulier en Asie du Sud et en Afrique centrale, la RAA est toutefois toujours aussi répandue qu’auparavant. La maladie touche avant tout les enfants, les cas observés chez des personnes de plus de 30 ans sont extrêmement rares [3]. Dans notre rapport de cas, la patiente vient d’une région qui présente une prévalence élevée mais elle n’est plus retournée dans son pays d’origine depuis 24 ans. La patiente revenait d’un voyage en Israël, un pays avec une faible prévalence. En raison de l’âge et de l’origine de la patiente, il n’est pas exclu qu’il s’agisse d’une récidive de RAA ­acquise pendant l’enfance.  La pose du diagnostic s’oriente en fonction des critères de Jones, qui ont été révisés plusieurs fois depuis leur publication en 1944. Dans la dernière version (2015), deux valeurs seuil différentes ont été fixées pour le diagnostic au sein de populations à risque élevé ou faible risque de RAA (tab. 1). En outre, la cardite subclinique, soit seulement manifeste à l’échocardiographie, a été incluse en tant que critère majeur. Pour un premier épisode de RAA, soit deux critères majeurs, soit un critère majeur plus deux critères mineurs doivent être remplis. En cas de récidive, soit deux critères majeurs, soit un critère majeur plus deux critères mineurs, soit trois critères mineurs s’avèrent nécessaires pour le diagnostic. Les manifestations cardiaques et articulaires ne peuvent respectivement être comptées qu’une seule fois, c’est-à-dire soit en tant que critère majeur, soit en tant que critère mineur [1, 2].  Tableau 1: Critères diagnostiques majeurs et mineurs du rhumatisme articulaire aigu (critères de Jones, révisés en 2015), d’après [1, 4].  	Populations à faible risqueIncidence ≤2/100 000 enfants d’âge scolaire /anPrévalence de MCR ≤1/1000/an	Populations à haut risqueIncidence >2/100 000 enfants d’âge scolaire /anPrévalence de MCR >1/1000/an Critères majeurs	Cardite (clinique ou subclinique)	idem Polyarthrite	Monoarthrite/polyarthrite ou poly­arthralgie Chorée de Sydenham	idem Erythème marginé	idem Nodules sous-cutanés	idem Critères mineurs	Polyarthralgie	Monoarthralgie Fièvre (≥38,5 °C)	Fièvre (≥38,0 °C) VS ≥60 mm et/ou CRP ≥3,0 mg/dl	VS ≥30 mm et/ou CRP ≥3,0 mg/dl Prolongation de l’intervalle PR (adapté en fonction de l’âge)	idem MCR = maladie cardiaque rhumatismale; VS = vitesse de sédimentation; CRP = protéine C réactive.  La mise en évidence d’une infection par SGA passée est certes nécessaire pour poser le diagnostic de façon sûre [1]. Toutefois, la sensibilité du test de détection rapide des antigènes est faible (70–90%), ce pourquoi une infection par SGA ne peut pas être exclue sur la base d’un test de détection rapide des antigènes négatif. La plupart du temps, la RAA n’est en outre cliniquement manifeste qu’après plusieurs semaines suivant la pharyngo-amygdalite. Dans notre cas, la fiabilité du test de détection rapide des antigènes conduit a été limitée par le traitement par antibiotiques déjà débuté. Dans de tels cas, une sérologie des streptocoques peut être utile. Le tire d’antistreptolysine O (ASO) présente une sensibilité de jusqu’à 73%, et le dosage supplémentaire du titre d’Anti-DNAse-B permet d’atteindre une sensibilité de >95%.  L’identification d’une atteinte cardiaque est décisive, y compris dans les cas subcliniques, ce pourquoi tous les patients avec suspicion de RAA devraient se soumettre à une échocardiographie [4]. Si l’échocardiographie est normale, en cas de haute suspicion, il est pertinent de répéter l’examen en tenant compte des critères échocardiographie révisés en 2015 au cours de l’évolution [1].  Dans notre cas, un bloc AV de 1er degré a été trouvé à l’admission, et des résultats échocardiographiques laissant supposer une cardite ont été trouvés au cours de l’évolution.  La gestion thérapeutique vise à prévenir une maladie cardiaque rhumatismale et ses conséquences, soit le développement d’une insuffisance cardiaque, les complications thromboemboliques avec ou sans fibrillation auriculaire (selon les estimations, 4–10% des accidents vasculaires cérébraux ischémiques dans les pays moins développés) et les endocardites infectieuses. Dans les pays moins développés sans accès à la prophylaxie secondaire, la mortalité associée à la maladie cardiaque rhumatismale est estimée à 1,5% par an [5].  Le traitement du rhumatisme articulaire aigu consiste essentiellement en l’éradication des SGA, le traitement symptomatique de la fièvre, l’arthrite, l’insuffisance cardiaque et la chorée ainsi que la prévention d’une progression vers une maladie cardiaque rhumatismale chronique. L’éradication des SGA s’effectue habituellement au moyen de pénicilline V orale (phénoxyméthylpénicilline, Ospen®) ou d’amoxicilline. Les symptômes inflammatoires sont en premier lieu traités par anti-inflammatoires non stéroïdiens à forte dose. De façon alternative, de l’acide acétylsalicylique peut également être utilisé. Il n’est recouru aux stéroïdes qu’en cas d’intolérance ou d’évolution très sévère [4]. Toutefois, ce traitement anti-inflammatoire administré pendant la phase aiguë n’a jusqu’à présent pas montré d’avantage corroboré statistiquement en termes d’«issue» cardiaque [2]. En revanche, la prophylaxie secondaire par antibiotiques réduit le risque de progression des lésions valvulaires rhumatismales de façon démontrée. La prophylaxie standard consiste en une injection intramusculaire de pénicilline G toutes les quatre semaines. En cas de bonne adhésion médicamenteuse, une prophylaxie antibiotique orale par pénicilline V (500 000 UI 2×/jour) peut alternativement être conduite. Les personnes de contact du même foyer dont il a été montré qu’elles sont porteuses de SGA (déterminé par une culture de frottis de gorge avec recherche de SGA positive sans mise en évidence clinique ou sérologique d’une infection) reçoivent également un traitement d’éradication. Les infections par SGA dans le même foyer doivent toujours être traitées rapidement. La durée de la prophylaxie antibiotique s’oriente en fonction du risque d’atteinte cardiaque sévère en cas de nouvel épisode de RAA [6].  Conformément à ces recommandations, notre patiente reçoit un traitement prophylactique secondaire par pénicilline V. Selon les recommandations de l’«American Heart Association» (AHA), en cas de cardite rhumatismale avec/sans résidus valvulaires, sa durée devrait être d’au moins dix ans.  L’essentiel pour la pratique  • Le rhumatisme articulaire aigu (RAA) est une maladie inflammatoire secondaire à une infection par streptocoques du groupe A (SGA). Elle survient typiquement chez les enfants et elle est très rare sous nos latitudes.  • Le diagnostic est posé sur la base des critères de Jones et devrait être envisagé en cas de fièvre et de signes inflammatoires dans un contexte de troubles articulaires et d’indices de cardite.  • Un RAA peut être présent malgré l’absence de mise en évidence d’une infection par SGA au moyen d’un test de détection rapide des antigènes ou d’une culture de frottis de gorge. Un titre d’antistreptolysine O élevé peut venir appuyer la suspicion d’une maladie associée aux streptocoques dans le contexte clinique.  • En cas de suspicion de RAA, une cardite doit être recherchée au moyen d’une échocardiographie car la cardite peut progresser vers une maladie cardiaque rhumatismale associée à une haute mortalité.  • En cas de confirmation d’une cardite rhumatismale, un rôle essentiel revient à l’éradication des SGA ainsi qu’à la prophylaxie secondaire par antibiotiques.

@@ -1,0 +1,21 @@
+T1	disorder 92 119	 traumatisme du coude droit
+T2	procedure 207 221	 radiographie 
+T3	disorder 244 293	 fracture supra-condylienne déplacée de l’humérus
+T4	procedure 346 393	réduire cette fracture sous anesthésie générale
+T5	procedure 564 589	 immobilisé avec flexion 
+T6	disorder 662 684	déplacement secondaire
+T7	procedure 799 841	Incision externe en regard de l’épicondyle
+T8	procedure 876 907	broche stabilisant la réduction
+T9	procedure 946 1041	 L’immobilisation après cette deuxième intervention consiste à mettre le bras en écharpe à 100°
+T10	procedure 1151 1220	surveillance de la coloration de la main et de la température cutanée
+T11	disorder 1607 1627	pleuré toute la nuit
+T12	disorder 1690 1723	 doigts sont oedematiés et bleus 
+T13	disorder 1831 1863	paralysie du médian et du radial
+T14	procedure 1869 1886	électromyogrammes
+T15	disorder 1927 1970	paralysie aiguë et partielle du nerf médian
+T16	disorder 2161 2182	 syndrome de Volkmann
+T17	disorder 2200 2242	 fracture supra-condylienne du coude droit
+T18	disorder 2285 2327	 flexion du poignet qui ne dépasse pas 90°
+T19	disorder 2344 2371	rétraction des fléchisseurs
+T20	procedure 2521 2548	intervention de Scaglietti 
+T21	procedure 2904 2918	kinésithérapie

@@ -1,0 +1,17 @@
+T1	disorder 277 283	fièvre
+T2	procedure 285 293	perfusée
+T3	disorder 354 360	grippe
+T4	disorder 519 546	difficultés à l’allaitement
+T5	procedure 743 766	tirer son lait maternel
+T6	profession 780 807	’auxiliaire de puériculture
+T7	procedure 1070 1090	allaitement maternel
+T8	procedure 1155 1165	tire lait 
+T9	procedure 1265 1276	prélèvement
+T10	profession 1766 1792	Auxiliaire de puériculture
+T11	profession 1941 1968	’auxiliaire de puériculture
+T12	profession 2259 2287	’auxiliaire de puériculture 
+T13	profession 2648 2658	sage-femme
+T14	profession 2704 2714	auxiliaire
+T15	profession 3348 3356	pédiatre
+T16	procedure 3749 3759	sérologies
+T17	labvalue 3792 3801	négatives

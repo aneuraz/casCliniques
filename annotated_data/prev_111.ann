@@ -1,0 +1,11 @@
+T1	disorder 42 95	 hospitalisation avec menace d’accouchement prématuré
+T2	disorder 511 570	 contractions utérines avec menace d'accouchement prématuré
+T3	drugs 575 585	salbutamol
+T4	disorder 753 762	Célestène
+T5	disorder 1550 1562	soif intense
+T6	disorder 1567 1610	 troubles digestifs et un état confusionnel
+T7	disorder 1691 1709	précoma diabétique
+T8	disorder 1758 1783	mort in utero de l'enfant
+T9	drugs 2097 2134	insulinothérapie pendant la grossesse
+T10	procedure 2531 2540	 glycémie
+T11	drugs 2612 2623	corticoïdes

@@ -1,0 +1,164 @@
+T1	disorder 102 133	cardiomyopathie non obstructive
+T2	drugs 169 176	Aprovel
+T3	drugs 178 185	Temerit
+T4	profession 223 230	médecin
+T5	disorder 252 268	 douleurs anales
+T6	disorder 284 316	hémorragies basses de sang rouge
+T7	profession 344 355	proctologue
+T8	disorder 385 392	fissure
+T9	disorder 408 421	fistule anale
+T10	disorder 408 421	fistule anale
+T11	disorder 430 448	abcès non collecté
+T12	disorder 430 448	abcès non collecté
+T13	disorder 451 469	 l'émission de pus
+T14	procedure 474 483	anuscopie
+T15	procedure 614 653	anesthésie générale avec bloc pudendal.
+T16	procedure 661 693	Mise en place des jeux de pinces
+T17	procedure 695 733	dissection jusqu'à la muqueuse rectale
+T18	procedure 735 759	sphinctérotomie latérale
+T19	procedure 836 846	Anoplastie
+T20	procedure 886 907	hémostase des berges.
+T21	procedure 860 884	4 points de Monocryl 3x0
+T22	procedure 787 812	Section de la collerette 
+T23	drugs 983 993	Biprofénid
+T24	drugs 1104 1113	Voltarène
+T25	profession 1153 1160	médecin
+T26	disorder 1251 1270	ouleurs abdominales
+T27	profession 1275 1286	proctologue
+T28	profession 1445 1456	proctologue
+T29	profession 1463 1473	infirmière
+T30	profession 1509 1520	proctologue
+T31	drugs 1553 1571	anti-inflammatoire
+T32	profession 1726 1737	proctologue
+T33	disorder 1691 1698	malaise
+T34	profession 1840 1858	médecin urgentiste
+T35	labvalue 1887 1931	Abdomen tendu dans son ensemble avec défense
+T36	labvalue 1933 1960	pas de trouble neurologique
+T37	labvalue 1962 1987	pas de douleur thoracique
+T38	labvalue 1989 2003	pas de dyspnée
+T39	labvalue 2181 2189	1,16 g/l
+T40	labvalue 2195 2204	403,7mg/l
+T41	procedure 2191 2194	CPR
+T42	procedure 2176 2180	urée
+T43	labvalue 2164 2174	610 GB/mm3
+T44	procedure 2005 2017	Température 
+T45	labvalue 2019 2026	36,4° C
+T46	procedure 2028 2047	fréquence cardiaque
+T47	labvalue 2070 2077	74 /min
+T48	labvalue 2096 2106	64/35 mmHg
+T49	procedure 2079 2094	PA à l'arrivée 
+T50	procedure 2108 2112	SpO2
+T51	labvalue 2115 2133	95 % sous 1 l d'O2
+T52	procedure 2222 2246	Scanner abdomino-pelvien
+T53	labvalue 2280 2383	 "Sigmoïdite diverticulaire de type perforée, avec bulles extra-digestives limitées au contact du méso"
+T54	profession 2401 2411	chirurgien
+T55	procedure 2497 2504	scanner
+T56	labvalue 2507 2651	2 bulles aériques au contact d'une sigmoïdite sans abcès, ni épanchement. Hospitalisation pour surveillance. Prescription d'Augmentin 3 g (...)"
+T57	procedure 2811 2831	Pose d'une perfusion
+T58	drugs 2835 2842	glucosé
+T59	drugs 2862 2868	dextro
+T60	profession 3043 3054	proctologue
+T61	procedure 3064 3081	méchage quotidien
+T62	procedure 3087 3121	lavage à l'eau stérile, et Aquacel
+T63	profession 3151 3161	chirurgien
+T64	profession 3174 3185	proctologue
+T65	procedure 3224 3249	scanner abdomino-pelvien 
+T66	profession 3364 3375	chirurgien 
+T67	profession 3398 3405	médecin
+T68	profession 3500 3510	chirurgien
+T69	profession 3627 3637	urgentiste
+T70	profession 3627 3637	urgentiste
+T71	profession 3675 3686	nesthésiste
+T72	profession 3672 3686	l'anesthésiste
+T73	profession 3736 3748	anesthésiste
+T74	disorder 3769 3792	Hypotension persistante
+T75	drugs 3827 3846	sérum physiologique
+T76	procedure 3814 3823	perfusion
+T77	profession 3880 3892	anesthésiste
+T78	profession 3935 3947	anesthésiste
+T79	procedure 3960 3971	réanimation
+T80	profession 4247 4259	anesthésiste
+T81	profession 4322 4332	infirmière
+T82	profession 4569 4579	infirmière
+T83	disorder 4730 4750	douleurs abdominales
+T84	disorder 4754 4763	transpire
+T85	drugs 4785 4791	Dextro
+T86	profession 4815 4827	anesthésiste
+T87	profession 4856 4866	infirmière
+T88	profession 4856 4866	infirmière
+T89	profession 4934 4946	anesthésiste
+T90	profession 5011 5024	anesthésiste 
+T91	profession 5080 5090	chirurgien
+T92	disorder 5154 5194	abdomen beaucoup plus tendu avec défense
+T93	disorder 5154 5194	abdomen beaucoup plus tendu avec défense
+T94	disorder 5237 5261	Perforation sigmoïdienne
+T95	disorder 5262 5306	 Péritonite pelvienne sans fausses membranes
+T96	disorder 5262 5306	 Péritonite pelvienne sans fausses membranes
+T97	disorder 5309 5332	 Sigmoïde inflammatoire
+T98	disorder 5309 5332	 Sigmoïde inflammatoire
+T99	disorder 5349 5368	d’ischémie du colon
+T100	anatomy 5373 5391	rectum et du grêle
+T101	procedure 5450 5471	Résection du sigmoïde
+T102	procedure 5473 5488	Section rectale
+T103	anatomy 5502 5523	cul-de-sac de Douglas
+T104	procedure 5525 5535	Colostomie
+T105	procedure 5545 5562	Anatomopathologie
+T106	labvalue 5565 5675	"Colite aiguë ulcéreuse avec diverticulose compliquée de diverticulite et d'abcès péri-diverticulaire perforé"
+T107	procedure 5761 5782	 ventilation assistée
+T108	procedure 5831 5834	pH 
+T109	procedure 5801 5821	fréquence cardiaque 
+T110	labvalue 5789 5799	120/70mmHg
+T111	labvalue 5821 5830	114 /min,
+T112	labvalue 5834 5838	7,14
+T113	labvalue 5844 5851	 91,9 %
+T114	procedure 5853 5867	acide lactique
+T115	labvalue 5868 5893	5,50 mmol/l (Normale < 2)
+T116	labvalue 5898 5907	20290/mm3
+T117	procedure 5786 5788	PA
+T118	procedure 5840 5844	Sa02
+T119	procedure 5895 5897	GB
+T120	drugs 5939 5952	noradrénaline
+T121	drugs 6000 6015	Antibiothérapie
+T122	drugs 6026 6037	Tazocilline
+T123	drugs 6039 6048	Claventin
+T124	drugs 6050 6057	Flagyl 
+T125	drugs 6060 6070	Gentalline
+T126	disorder 6108 6120	état de choc
+T127	disorder 6127 6151	défaillance respiratoire
+T128	disorder 6155 6161	anurie
+T129	procedure 6178 6200	épuration extra-rénale
+T130	procedure 6226 6249	 iléostomie de décharge
+T131	procedure 6265 6291	lavements à la Vancomycine
+T132	procedure 6866 6876	coloscopie
+T133	labvalue 6879 6958	"amélioration colique, nécrose proximale de la stomie avec un orifice purulent"
+T134	procedure 6810 6821	bactériémie
+T135	disorder 6781 6787	anurie
+T136	labvalue 6764 6775	Persistance
+T137	disorder 6627 6639	état de choc
+T138	procedure 6641 6681	consultation des chirurgiens vasculaires
+T139	procedure 6698 6713	les amputations
+T140	disorder 6449 6489	 ischémie des mains ainsi que des pieds 
+T141	anatomy 6535 6544	chevilles
+T142	procedure 6546 6563	Double amputation
+T143	disorder 6393 6411	sevrage progressif
+T144	drugs 6415 6428	noradrénaline
+T145	procedure 7037 7082	amputation bilatérale au tiers moyen de jambe
+T146	disorder 7120 7155	aggravation des lésions ischémiques
+T147	procedure 7173 7206	amputation du pouce et de l'index
+T148	procedure 7286 7309	amputation des 4 doigts
+T149	anatomy 7326 7343	deuxième phalange
+T150	anatomy 7350 7389	pouce au niveau de la première phalange
+T151	anatomy 7159 7171	Main droite 
+T152	anatomy 7272 7284	Main gauche 
+T153	anatomy 7253 7270	deuxième phalange
+T154	procedure 7420 7442	épuration extra rénale
+T155	labvalue 7521 7546	staphylocoque épidermidis
+T156	procedure 7556 7568	hémocultures
+T157	procedure 7599 7630	 culture d'un cathéter artériel
+T158	procedure 7769 7791	rééducation vasculaire
+T159	procedure 7825 7835	iléostomie
+T160	disorder 7997 8014	syndrome septique
+T161	disorder 8034 8078	écoulement par l'ancien orifice d'iléostomie
+T162	anatomy 8140 8147	médiane
+T163	disorder 8115 8123	 fistule
+T164	profession 8174 8184	chirurgien

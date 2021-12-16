@@ -1,0 +1,338 @@
+T1	irrelevant 0 19	Présentation du cas
+T2	disorder 116 142	une dysphagie aux ­solides
+T3	disorder 146 180	nausées d’installation progressive
+T4	disorder 212 231	une perte pondérale
+T5	disorder 264 284	une dyspnée au repos
+T6	irrelevant 291 352	a patiente rapporte d’apparition progressive depuis dix jours
+T7	disorder 359 368	orthopnée
+T8	disorder 374 379	 toux
+T9	disorder 383 390	crachat
+T10	disorder 396 414	douleur thoracique
+T11	disorder 437 449	état fébrile
+T12	disorder 454 462	sudation
+T13	profession 520 527	’alcool
+T14	profession 549 558	tabagisme
+T15	disorder 726 746	douleurs thoraciques
+T16	procedure 803 813	tachycarde
+T17	labvalue 816 842	110 battements par minutes
+T18	procedure 843 856	 tachypnéique
+T19	labvalue 859 886	28 ventilations/par minutes
+T20	labvalue 954 959	 98%.
+T21	disorder 959 983	 Les bruits du cœur sont
+T22	disorder 1000 1015	souffle audible
+T23	procedure 1042 1065	auscultation pulmonaire
+T24	labvalue 1079 1089	symétrique
+T25	disorder 1106 1195	 discrets œdèmes des membres inférieurs prenant symétriquement le godet jusqu’à mi mollet
+T26	disorder 1208 1230	 turgescence jugulaire
+T27	procedure 1380 1397	 tests hépatiques
+T28	disorder 1412 1457	insuffisance rénale AKIN 2, non hyperurémique
+T29	procedure 1463 1481	enzymes cardiaques
+T30	procedure 1574 1605	Radiographie thoracique debout 
+T31	irrelevant 1633 1679	 Quel diagnostic vous paraît le plus probable?
+T32	disorder 1684 1706	 Epanchements pleuraux
+T33	disorder 1711 1727	Goître plongeant
+T34	disorder 1731 1756	 Epanchement péricardique
+T35	disorder 1761 1775	Hernie hiatale
+T36	disorder 1780 1787	Thymome
+T37	irrelevant 1789 1906	Nous observons une opacité avec un contour net, convexe vers le haut, se raccordant en pente douce avec le médiastin,
+T38	procedure 1912 1963	visualisation des vaisseaux pulmonaires en son sein
+T39	anatomy 1965 2001	Les récessus costo diaphragmatiques 
+T40	disorder 2265 2289	un goître endothoracique
+T41	anatomy 2048 2061	médiastinale.
+T42	anatomy 2078 2090	infra azygos
+T43	anatomy 2118 2148	 médiastin inférieur ou moyen.
+T44	disorder 2161 2181	épanchement pleural 
+T45	anatomy 2319 2340	médiastin supérieur, 
+T46	disorder 2353 2376	déviation de la trachée
+T47	disorder 2439 2449	un thymome
+T48	disorder 2514 2532	une hernie hiatale
+T49	procedure 2792 2819	 électrocardiogramme (ECG).
+T50	procedure 2923 2935	Microvoltage
+T51	procedure 2940 2964	Fibrillation auriculaire
+T52	procedure 2969 3002	Sus-décalage diffus du segment ST
+T53	procedure 3007 3046	Sous-décalage diffus de l’intervalle PR
+T54	procedure 3050 3099	 Sous-décalage du segment ST concave vers le haut
+T55	disorder 3101 3127	Un épanchement péricardiqu
+T56	procedure 3165 3169	 ECG
+T57	procedure 3200 3212	microvoltage
+T58	procedure 3214 3261	sus-décalage du segment ST convexe vers le haut
+T59	procedure 3263 3284	élargissement du QRS,
+T60	procedure 3285 3301	déviation gauche
+T61	procedure 3302 3321	 troubles du rythme
+T62	disorder 3407 3426	péricardites aigues
+T63	labvalue 3504 3511	 0,8 mm
+T64	procedure 3475 3478	 PR
+T65	labvalue 3493 3504	supérieur à
+T66	procedure 3641 3659	microvoltage diffu
+T67	procedure 3683 3687	 QRS
+T68	labvalue 3690 3704	 moins de 5 mm
+T69	procedure 3772 3775	ECG
+T70	procedure 3820 3823	 ST
+T71	disorder 3886 3913	intoxication à la digitale.
+T72	irrelevant 3915 3971	Votre secrétariat prend contact avec l’hôpital régional.
+T73	disorder 4004 4027	péricardite récidivante
+T74	disorder 4134 4169	épanchement péricardique récidivant
+T75	irrelevant 4263 4311	 Vous transférez ainsi la patiente aux Urgences.
+T76	irrelevant 4313 4368	Question 3: Quel examen doit être effectué en priorité?
+T77	procedure 4374 4413	Echocardiographie transthoracique (ETT)
+T78	procedure 4418 4428	CT-scanner
+T79	procedure 4429 4478	imagerie par résonance magnétique (IRM) cardiaque
+T80	procedure 4490 4515	la radiographie de thorax
+T81	procedure 4548 4578	Recherche d’un pouls paradoxal
+T82	procedure 4583 4605	Cathétérisme cardiaque
+T83	disorder 4607 4630	La tamponnade cardiaque
+T84	procedure 4793 4824	La recherche du pouls paradoxal
+T85	disorder 4885 4895	tamponnade
+T86	procedure 4931 4951	 pression systolique
+T87	labvalue 4963 4970	10 mmHg
+T88	procedure 5155 5194	echocardiographie transthoracique (ETT)
+T89	procedure 5199 5205	 L’ETT
+T90	procedure 5252 5266	swinging-heart
+T91	procedure 5424 5449	 classifier l’épanchement
+T92	procedure 5502 5528	La taille de l’épanchement
+T93	procedure 5594 5602	épicarde
+T94	procedure 5609 5627	péricarde pariétal
+T95	labvalue 5628 5635	 petit 
+T96	labvalue 5636 5641	10 mm
+T97	labvalue 5644 5650	modéré
+T98	labvalue 5652 5660	10–20 mm
+T99	labvalue 5663 5668	grand
+T100	labvalue 5669 5675	(20 mm
+T101	procedure 5749 5763	 Le CT-scanner
+T102	procedure 5768 5783	’IRM cardiaques
+T103	labvalue 5947 5954	 septas
+T104	procedure 5993 6015	épaisseur du péricarde
+T105	procedure 6038 6065	 La radiographie du thorax 
+T106	disorder 6109 6140	les épanchements péri­cardiques
+T107	disorder 6268 6292	 pathologies pulmonaires
+T108	disorder 6267 6335	s pathologies pulmonaires, médiastinales ou pleurales concomitantes.
+T109	procedure 6347 6374	 le cathétérisme cardiaque 
+T110	disorder 6565 6571	Aiguë 
+T111	disorder 6585 6593	Subaiguë
+T112	labvalue 6565 6571	Aiguë 
+T113	labvalue 6585 6593	Subaiguë
+T114	labvalue 6617 6626	Chronique
+T115	labvalue 6635 6648	Taille	Minime
+T116	labvalue 6656 6663	Modéré 
+T117	labvalue 6650 6655	10 mm
+T118	labvalue 6663 6671	10–20 mm
+T119	labvalue 6672 6682	Important 
+T120	labvalue 6682 6688	>20 mm
+T121	irrelevant 16516 16591	Question 1: c; Question 2: e; Question 3: d; Question 4: e; ­Question 5: e.
+T122	irrelevant 16504 16513	Réponses:
+T123	disorder 15615 15643	Le diagnostic de péricardite
+T124	disorder 15708 15729	douleurs thoraciques,
+T125	disorder 15764 15785	épanchement associé [
+T126	disorder 15868 15878	 dysphagie
+T127	procedure 15882 15885	ETT
+T128	procedure 15968 15985	 pouls paradoxal 
+T129	disorder 15994 16004	myocardite
+T130	procedure 16032 16049	 Créatine kinases
+T131	procedure 16053 16063	troponine)
+T132	procedure 16100 16111	Un drainage
+T133	drugs 16483 16487	AINS
+T134	drugs 16490 16502	 colchicine.
+T135	disorder 16375 16406	 les épanchements idiopathiques
+T136	drugs 15110 15114	AINS
+T137	drugs 15118 15128	colchicine
+T138	procedure 15146 15176	 suivi cardiologique rapproché
+T139	procedure 15288 15297	Les ETTs 
+T140	procedure 15370 15375	FEVG 
+T141	labvalue 15377 15380	60%
+T142	disorder 15385 15422	s trouble de la cinétique segmentaire
+T143	disorder 15431 15445	valvulopathie 
+T144	drugs 14069 14073	AINS
+T145	drugs 14082 14090	aspirine
+T146	drugs 14099 14109	colchicine
+T147	disorder 14180 14217	épanchement péricardique idiopathique
+T148	drugs 14222 14228	 AINS 
+T149	drugs 14233 14241	aspirine
+T150	drugs 14250 14270	 anti-inflammatoires
+T151	drugs 14344 14354	colchicine
+T152	irrelevant 14412 14508	doit être poursuivie pour une durée de 3 mois, et lors de récidive pour une durée de 6 à 12 mois
+T153	irrelevant 14272 14319	sont prescrits pour une durée de 1 à 2 semaines
+T154	irrelevant 14111 14175	 démontré une diminution du risque de récidive dans le contexte 
+T155	drugs 14514 14530	corticostéroïdes
+T156	irrelevant 14531 14562	sont réservés pour de rares cas
+T157	disorder 14564 14599	maladies inflammatoires systémiques
+T158	drugs 14647 14652	 AINS
+T159	drugs 14654 14662	aspirine
+T160	drugs 14666 14676	colchicine
+T161	disorder 14757 14780	récidive de péricardite
+T162	drugs 14850 14868	 immunoglobulines 
+T163	disorder 14928 14965	épanchement péricardique idiopathique
+T164	drugs 14032 14037	 AINS
+T165	drugs 14041 14051	colchicine
+T166	drugs 14012 14028	Immunoglobulines
+T167	drugs 13997 14007	Colchicine
+T168	drugs 13976 13992	Corticostéroïdes
+T169	drugs 13928 13964	 Anti-inflammatoires non stéroïdiens
+T170	drugs 13928 13971	 Anti-inflammatoires non stéroïdiens (AINS)
+T171	irrelevant 13775 13923	Question 5: Dans le contexte d’un épanchement péricardique récidivant idiopathique, retenu chez votre patiente, quel(s) traitement(s) proposez-vous?
+T172	disorder 6795 6811	 pouls paradoxal
+T173	procedure 6834 6853	pression systolique
+T174	labvalue 6865 6872	15 mmHg
+T175	procedure 6940 6944	ETT,
+T176	disorder 6987 7003	ent péricardique
+T177	disorder 6979 7003	épanchement péricardique
+T178	labvalue 7006 7015	 5 à 6 cm
+T179	procedure 7022 7053	compression des cavités droites
+T180	procedure 7059 7080	flux transvalvulaires
+T181	procedure 7134 7148	swinging heart
+T182	procedure 7151 7209	Un drainage péricardique chirurgical par mini-thoracotomie
+T183	procedure 7427 7438	éricardique
+T184	procedure 7417 7439	 liquide péricardique 
+T185	disorder 7542 7567	’épanchement péricardique
+T186	disorder 7572 7588	 cytopathologie 
+T187	irrelevant 7722 7912	Question 4: Considérant qu’environ 60% des épanchements péricardiques chroniques sont d’origine secondaire, parmi les examens complémentaires suivants, lequel vous paraît le moins pertinent?
+T188	procedure 7918 7952	Dosage de la thyréostimuline (TSH)
+T189	procedure 7957 8079	Dosage des anticorps antinucléaire (ANA), anticorps anti-­neutrophiles cytoplasmiques (ANCA) et du facteur rhumatoïde (FR)
+T190	procedure 8084 8105	CT-scanner thoracique
+T191	procedure 8108 8146	 électrophorèse des protéines sériques
+T192	procedure 8151 8171	Sérologies des virus
+T193	procedure 8150 8253	 Sérologies des virus de l’immunodéficience humaine (VIH), de l’hépatite C (HCV), de l’hépatite B (HBV)
+T194	procedure 8255 8319	dosage de l’adénosine désaminase (ADA) et cultures mycobactéries
+T195	procedure 8324 8360	PCR pour coxsackievirus et echovirus
+T196	disorder 8395 8419	épanchement péricardique
+T197	disorder 8449 8463	idiopathiques 
+T198	disorder 8478 8489	infectieux 
+T199	disorder 8498 8512	 néoplasiques 
+T200	disorder 8522 8532	iatrogènes
+T201	disorder 8544 8568	 maladies inflammatoires
+T202	disorder 8613 8639	 pathologies péricardiques
+T203	procedure 8697 8708	enterovirus
+T204	procedure 8738 8749	herpesvirus
+T205	procedure 8751 8754	EBV
+T206	procedure 8756 8760	CMV,
+T207	procedure 8761 8765	HHV6
+T208	procedure 8767 8778	 adénovirus
+T209	procedure 8779 8795	 parvovirus B19 
+T210	disorder 8845 8856	 myocardite
+T211	disorder 8669 8679;8680 8685	Infectieux Viral
+T212	disorder 8942 8968	Mycobacterium tuberculosis
+T213	disorder 8912 8920	nfluenza
+T214	disorder 8865 8875	varicelle,
+T215	disorder 8875 8883	 rubéole
+T216	disorder 8884 8894	 oreillons
+T217	disorder 8895 8899	 HBV
+T218	disorder 8901 8904	HCV
+T219	disorder 8905 8909	 HIV
+T220	disorder 9512 9566	 maladie systémique auto-immune et auto-inflammatoire 
+T221	disorder 9567 9596	lupus érythémateux systémique
+T222	disorder 9598 9617	syndrome de Sjögren
+T223	disorder 9618 9638	 arthrite rhumatoïde
+T224	disorder 9639 9652	 sclérodermie
+T225	disorder 9655 9677	vasculites systémiques
+T226	disorder 9679 9724	granulomatose éosinophilique avec polyangéite
+T227	disorder 9727 9753	 granulomatose allergique 
+T228	disorder 9775 9788	Churg-Strauss
+T229	disorder 9791 9808	maladie de Horton
+T230	disorder 9809 9830	 maladie de Takayasu,
+T231	disorder 9831 9849	syndrome de Behçet
+T232	disorder 9852 9862	sarcoïdose
+T233	disorder 9863 9896	 fièvre méditerranéenne familiale
+T234	disorder 9897 9935	 maladies inflammatoires de l’intestin
+T235	disorder 9936 9953	 maladie de Still
+T236	disorder 9973 9988	tumeur primaire
+T237	disorder 10035 10065	tumeur secondaire métastatique
+T238	disorder 9998 10023	mésothéliome péricardique
+T239	disorder 10074 10091	 cancer du poumon
+T240	disorder 10075 10109	cancer du poumon, sein et lymphome
+T241	disorder 9954 9965	Néoplasique
+T242	disorder 10203 10232	 début précoceLésion directe:
+T243	disorder 10123 10129	Urémie
+T244	disorder 10131 10139	myxœdème
+T245	disorder 10140 10158	 anorexie nerveuse
+T246	disorder 10233 10260	trauma thoracique pénétrant
+T247	disorder 10262 10299	perforation œsophage Lésion indirecte
+T248	disorder 10300 10332	 trauma thoracique non pénétrant
+T249	disorder 10334 10345	irradiation
+T250	disorder 10369 10400	Syndrome de lésion du péricarde
+T251	disorder 10401 10438	 syndrome post-infarctus du myocarde,
+T252	disorder 10438 10469	 syndrome post-péricardiotomie,
+T253	disorder 10470 10518	post-traumatique inclus après trauma iatrogène (
+T254	disorder 10518 10541	angioplastie percutanée
+T255	disorder 10542 10560	 pose de pacemaker
+T256	disorder 10563 10597	 thermoablation par radiofréquence
+T257	disorder 10618 10637	Syndrome lupus-like
+T258	drugs 10639 10651	procaïnamide
+T259	drugs 10653 10666	hydrazaline, 
+T260	drugs 10666 10677	methyldopa,
+T261	drugs 10678 10689	isoniazide,
+T262	drugs 10690 10716	phénytoïne Antinéoplasique
+T263	disorder 10740 10755	cardiomyopathie
+T264	disorder 10772 10789	 péricardiopathie
+T265	drugs 10791 10804	 doxorubicin,
+T266	drugs 10804 10817	 daunorubicin
+T267	drugs 10820 10840	cytosine arabinoside
+T268	drugs 10842 10856	5-fluorouracil
+T269	drugs 10857 10887	 cyclophosphamide Pénicilline 
+T270	disorder 10899 10933	hypersensibilité avec éosinophilie
+T271	drugs 10934 10945	Amiodarone,
+T272	drugs 10946 10958	methysergide
+T273	drugs 10960 10970	mésalazine
+T274	drugs 10972 10981	clozapine
+T275	drugs 10982 10992	 minoxidil
+T276	drugs 10994 11003	dantrolèn
+T277	drugs 11006 11016	practolol,
+T278	drugs 11017 11031	phénylbutazone
+T279	drugs 11033 11042	thiazides
+T280	drugs 11044 11058	­streptomycine
+T281	drugs 11059 11071	 thiouracil,
+T282	drugs 11071 11112	 streptokinaseAcide para-aminosalicylique
+T283	drugs 11113 11123	 sulfamidé
+T284	drugs 11125 11137	cyclosporine
+T285	drugs 11139 11154	bromocriptine, 
+T286	drugs 11160 11168	 vaccins
+T287	drugs 11170 11227	granulocyte-macrophage ­colonystimulating factor (GM-CSF)
+T288	drugs 11229 11267	anti-tumor necrosis factor (anti-TNF))
+T289	disorder 11284 11296	 amyloïdose,
+T290	disorder 11297 11317	dissection aortique,
+T291	disorder 11317 11353	 hypertension artérielle pulmonaire,
+T292	disorder 11354 11386	insuffisance cardiaque chronique
+T293	disorder 11392 11446	absence congénitale partielle ou complète du péricarde
+T294	procedure 11448 11465	Le coxsackievirus
+T295	procedure 11469 11481	l’echovirus 
+T296	disorder 11560 11593	épanchements péricardiques aigus 
+T297	disorder 11765 11779	 tuber­culose 
+T298	disorder 11810 11834	épanchement péricardique
+T299	procedure 11923 11942	la recherche d’ADA 
+T300	procedure 12064 12105	echerche de tuberculose dans les séreuses
+T301	procedure 12161 12186	polymerase chain reaction
+T302	procedure 12189 12192	PCR
+T303	disorder 12213 12225	tuberculose.
+T304	disorder 12235 12240	 HIV,
+T305	disorder 12241 12244	HBV
+T306	disorder 12248 12251	HCV
+T307	disorder 12329 12356	’épanchements péricardiques
+T308	procedure 12362 12372	sérologies
+T309	procedure 12421 12454	 un CT-scanner thoraco-abdominal 
+T310	disorder 12486 12515	 lésion suspecte de néoplasie
+T311	procedure 12549 12597	 une analyse cytologique du liquide péricardique
+T312	disorder 12649 12673	cellule tumorale maligne
+T313	procedure 12797 12832	antigène carcino-embryonnaire (CEA)
+T314	procedure 12839 12875	antigène carbohydrate 19-9 (CA 19-9)
+T315	disorder 12877 12905	Les maladies inflammatoires 
+T316	disorder 12933 12957	épanchement péricardique
+T317	disorder 12975 12997	maladies auto-immunes,
+T318	disorder 12998 13009	vasculites,
+T319	disorder 13009 13027	 maladie de Behçet
+T320	disorder 13028 13051	 fièvre méditerranéenne
+T321	disorder 13053 13078	maladies granulomateuses,
+T322	procedure 13193 13219	 anticorps antinucléaires,
+T323	procedure 13219 13238	 anti-nucléosomes, 
+T324	procedure 13238 13258	antinucléoprotéines,
+T325	procedure 13272 13274	FR
+T326	procedure 13281 13305	vitesse de sédimentation
+T327	procedure 13325 13346	examens radiologiques
+T328	procedure 13355 13374	analyse cytologique
+T329	procedure 13390 13408	’enzyme conversion
+T330	procedure 13414 13424	 calciurie
+T331	disorder 13460 13470	sarcoïdose
+T332	disorder 13485 13504	 Une hypothyroïdie 
+T333	disorder 13521 13558	e accumulation de glycosaminoglucanes
+T334	anatomy 13573 13586	interstitiel 
+T335	anatomy 13614 13624	péricarde,
+T336	disorder 13642 13654	épanchement.
+T337	procedure 13658 13661	TSH
+T338	labvalue 13744 13753	 négatif 

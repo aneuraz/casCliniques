@@ -1,0 +1,85 @@
+T1	disorder 13 22	dysphagie
+T2	disorder 192 201	dysphagie
+T3	irrelevant 208 495;497 544;545 662;663 732;733 764;765 789;790 874;875 945;946 1006	Il s’agit de la difficulté à avaler (dysphagie oropharyngée) ou de la sensation que les aliments et les liquides sont obstrués lors de leur passage dès la cavité orale jusqu’à l’estomac (dysphagie œsophagienne). Les causes de dysphagie sont multiples et sont présentées sur le tableau 1.  Tableau 1: Etiologie de la dysphagie [1, 5, 6]. Maladie du système nerveux central (p. ex.: accident vasculaire cérébrale, maladie de Parkinson, sclérose en plaques) Maladie de la transmission neuromusculaire (p. ex.: myasthénie grave) Myopathie (p. ex.: polymyosite) Neuropathie périphérique Maladie de la motilité œsophagienne (p. ex.: achalasie, spasme diffus de l’œsophage) Lésion obstructive (p. ex.: tumeurs, rétrécissements, corps étrangers) Pharmacologique (p. ex.: corticostéroïdes, antipsychotiques)
+T4	irrelevant 1008 1229;1231 1356;1358 1561;1563 1745	En Europe, l’incidence du reflux gastro-œsophagien et des rétrécissements œsophagiques est en diminution. L’adénocarcinome de l’œsophage et l’œsophagite éosinophilique deviennent des causes de plus en plus fréquentes [6].  Dans la plupart des cas, le diagnostic est posé sur l’anamnèse, l’examen physique et les examens barytés et/ou endoscopiques.  La dysphagie est un grave problème, surtout chez la personne âgée, en raison des conséquences qu’elle entraîne, notamment des fausses routes, des pneumopathies d’aspiration et des déficits nutritionnels.  Nous présentons un cas de dysphagie due à une cause inhabituelle mais pas rare, diagnostiquée grâce à une collaboration stricte entre la médecine de premier recours et la neurologie.
+T5	disorder 1811 1835	hypertension ­artérielle
+T6	disorder 1837 1851	diabète type 2
+T7	disorder 1853 1865	dyslipidémie
+T8	disorder 1867 1892	cardiopathie hypertensive
+T9	disorder 1893 1910	 syndrome QT long
+T10	disorder 1922 1945	 cardio-défibrillateur 
+T11	disorder 1958 1994	fibrillation auriculaire transitoire
+T12	disorder 1996 2002	asthme
+T13	risk 2006 2021	tabagisme actif
+T14	drugs 2113 2137	 acide acétylsalicylique
+T15	drugs 2159 2169	irbésartan
+T16	drugs 2172 2192	hydrocholorothiazide
+T17	drugs 2221 2231	amlodipine
+T18	drugs 2251 2261	bisoprolol
+T19	drugs 2282 2292	metformine
+T20	drugs 2295 2307	sitagliptine
+T21	drugs 2335 2345	salmétérol
+T22	drugs 2348 2359	fluticasone
+T23	disorder 2426 2447	diplopie binoculaire 
+T24	disorder 2602 2622	dysphagie pharyngée 
+T25	disorder 2655 2670	perte pondérale
+T26	disorder 2686 2693	pyrosis
+T27	disorder 2755 2762	fatigue
+T28	disorder 3086 3113	ptose palpébrale bilatérale
+T29	disorder 3119 3159	ophtalmoplégie internucléaire bilatérale
+T30	disorder 3165 3209	diplopie dans le regard horizontal bilatéral
+T31	disorder 3215 3228	voix nasonnée
+T32	disorder 3476 3505	accident vasculaire cérébrale
+T33	disorder 3507 3510	AVC
+T34	disorder 3383 3392	dysphagie
+T35	disorder 3396 3404	diplopie
+T36	procedure 3619 3635	profil lipidique
+T37	labvalue 3636 3642	normal
+T38	procedure 3644 3655	cholestérol
+T39	procedure 3656 3659	LDL
+T40	procedure 3673 3676	HDL
+T41	procedure 3690 3695	total
+T42	procedure 3709 3722	triglycérides
+T43	procedure 3749 3757	glycémie
+T44	procedure 3785 3792	HbA1cde
+T45	labvalue 3660 3672	1,93 mmol/l,
+T46	labvalue 3677 3688	1,40 mmol/l
+T47	labvalue 3696 3707	4,23 mmol/l
+T48	labvalue 3723 3734	1,97 mmol/l
+T49	labvalue 3768 3778	7,2 mmol/l
+T50	labvalue 3792 3797	 5,4%
+T51	procedure 3803 3815	CT cérébrale
+T52	procedure 3863 3866	ECG
+T53	disorder 3879 3900	QTc prolongé à 540 ms
+T54	procedure 3906 3923	échocardiographie
+T55	disorder 3946 3969	dysfonction diastolique
+T56	disorder 4036 4073	 fibrillation auriculaire transitoire
+T57	drugs 4078 4089	rivaroxaban
+T58	procedure 4126 4153	anti­agrégant plaquettaire.
+T59	disorder 4192 4207	perte pondérale
+T60	disorder 4214 4221	pyrosis
+T61	procedure 4297 4316	 consultation d’ORL
+T62	disorder 4318 4346	hypo-motricité de l’œsophage
+T63	procedure 4394 4428	 consultation de gastroentérologie
+T64	procedure 4430 4442	gastroscopie
+T65	disorder 4445 4473	petite hernie hiatale axiale
+T66	procedure 4660 4703	immunoélectrophorèse des protéines sériques
+T67	labvalue 4710 4717	normale
+T68	procedure 4722 4735	 CT cérébral 
+T69	disorder 4758 4790	AVC ischémique du tronc cérébral
+T70	disorder 4882 4909	ptose palpébrale bilatérale
+T71	disorder 4985 5010	 fatigabilité musculaire 
+T72	disorder 5090 5106	myasthénie grave
+T73	procedure 5178 5198	anticorps anti-MuSK 
+T74	labvalue 5198 5210	(1,46 nmol/l
+T75	procedure 5216 5261	 anticorps anti-récepteurs de l’acétylcholine
+T76	labvalue 5270 5277	normaux
+T77	procedure 5283 5297	CT thoracique 
+T78	drugs 5368 5382	pyridostigmine
+T79	drugs 5541 5553	azathioprine
+T80	drugs 5575 5585	prednisone
+T81	procedure 5651 5676	traitement antidiabétique
+T82	irrelevant 5679 5909;5911 5921;5923 6502;6504 6813;6815 7508;7510 7942	L’évolution clinique était favorable, avec amélioration significative des symptômes neurologiques. L’évolution de la fatigue est lentement favorable, étant le symptôme plus persistant et incapacitant pour la patiente actuellement.  Discussion  La myasthénie grave (MG) est une pathologie neuro­musculaire auto-immune, caractérisée par une faiblesse ­progressive et fluctuante de la musculature squelettique, aggravée par les mouvements répétés. Un grand nombre d’études épidémiologiques sur la MG ont été menées dans le monde entier depuis les années 1950. La méta-analyse de 55 études épidémiologiques a estimé la prévalence de 77,7 par million de personnes [9]. Sa prévalence est en augmentation, aussi chez les personnes âgées, probablement due à la sensibilisation des médecins pour cette hypothèse diagnostique [7, 8].  Il s’agit d’une maladie généralisée mais se présentant, en général, initialement comme une faiblesse focale. La faiblesse des muscles des paupières et des yeux est évidente chez la majorité des patients, entraînant un ptosis et une diplopie. La faiblesse des muscles oropharyngés peut provoquer une dysphagie.  La MG est une maladie auto-immune hétérogène, se caractérisant par un défaut postsynaptique de la transmission neuromusculaire. Les syndromes myasthéniques peuvent être classifiés selon l’évolution clinique (oculaire, oropharyngée ou généralisée), l’âge de début (avant puberté, «early onset» [avant l’âge de 50 ans]), «late onset» [après l’âge de 50 ans]), la spécificité des autoanticorps (anticorps anti-récepteur de l’acétylcholine [anti-AChR], anticorps anti «tyrosine kinase muscle-specific kinase» [anti-MuSK], anticorps anti-«low-density lipoprotein receptor-related protein» [anti-LRP4], MG séronegative) et la pathologie du thymus (thymus normal ou atrophique, thymite, thymome) [7].  Environ 80% des cas de MG présentent des autoanticorps anti-AChR. Des autoanticorps anti-MuSK sont responsables pour 5–10% des cas de MG [10]. En 2011, les autoanticorps anti-LRP4 ont été décrits comme un nouveau type d’autoanticorps impliqués dans la physiopathologie des cas de MG séronégative (anti-AChR et anti-MuSK négatifs). Cependant, malgré l’identification des anti-LRP4, certains patients avec MG sont triple séronégatifs.
+T83	irrelevant 7944 8046;8048 8658;8660 9001;9003 9280;9282 9568;9570 9748;9750 10436	Il y a une corrélation directe entre la concentration sérique d’anticorps et l’activité de la maladie.  Il y a plusieurs différences cliniquement importantes entre la MG anti-AChR et anti-MuSK. Dans les cas anti-MuSK positifs, la faiblesse musculaire est rarement limitée aux muscles oculaires et atteint surtout des femmes d’âge moyenne; les patients peuvent avoir des présentations atypiques caractérisées par une faiblesse musculaire oropharyngée, faciale, cervicale et respiratoire prononcée; le risque de crise myasthénique (grave exacerbation de la MG due à la faiblesse des muscles respiratoires) est plus élevé; les chances d’une rémission complète sont diminuées en comparaison aux cas anti-AChR positifs.  Le test pharmacologique au «Tensilon» montre une amélioration de la fonction musculaire immédiatement après l’administration de chlorure d’édrophonium, ne durant que quelques minutes. Chez les cas anti-MuSK positifs, ce test n’est pas utile (pas d’amélioration ou même aggravation à l’administration d’inhibiteurs de l’acétylcholinestérase).  En parallèle au diagnostic immunologique, l’électromyographie peut mettre en évidence une myopathie en combinaison à une anomalie de la conduction neuromusculaire (épuisement de la réponse musculaire à la stimulation neurale répétitive, augmentation du jitter en fibre unique).  Après la confirmation du diagnostic, il est essential d’identifier les comorbidités fréquemment associées à la MG. Un thymome doit être recherché en premier lieu en raison de la possibilité d’une étiologie paranéoplasique. La MG associée à un thymome est en générale anti-AChR positive.  D’autres maladies auto-immunes peuvent être associées: thyroïdite, arthrite rhumatoïde ou lupus érythémateux. Des maladies du spectre de la neuromyélite optique ont été décrites.  Le muscle cardiaque peut être aussi atteint dans la MG. Une étude japonaise avec 924 patients a montré l’occurrence de myocardite chez 3 et de myosite chez 6 patients. La myocardite s’est manifestée 13–211 mois après le début de la MG et était caractérisée par une insuffisance cardiaque et des arythmies.11 En ce qui concerne les troubles du rythme, altérations non spécifiques de l’onde T, augmentation du QT, blocs AV de premier degré, fibrillation auriculaire et extrasystolie ventriculaire et supra-ventriculaire ont été décrits. Des cas de péricardite constrictive ont aussi été décrits [12]. À signaler que notre patiente avait le diagnostic de syndrome du QT long depuis 13 ans.
+T84	irrelevant 10438 11033;11035 11125;11127 11860;11862 11872;11874 12184;12186 12409;12411 12542	Le traitement est basé sur les inhibiteurs de l’acétylcholine estérase (amélioration de la transmission neuromusculaire; e.g. pyridostigmine), la corticothérapie, l’immunosupression et la thymectomie (En général recommandée pour les cas «early onset» généralisés et anti-AChR positifs mais il s’agit d’une question controversée encore. Des études suggèrent que le thymus dans le cas anti-MuSK positifs ne présente pas les altérations visibles dans les cas anti-AChR positifs). La plasmaphérèse, l’immunoadsorption ou les immunoglobulines intraveineux sont réservés pour les crises myasthéniques.  Avec le traitement optimal, le pronostic en termes de qualité de vie et de survie est bon.  Le cas clinique présenté décrit un cas de MG anti-MuSK positif chez une patiente âgée, se manifestant principalement par une dysphagie et une gêne à la marche entrainée par une diplopie et un ptosis. Les examens effectués initialement ont permis d’exclure les causes plus fréquentes. L’examen d’imagerie cérébrale n’a pas montré de signes de maladie vasculaire cérébrale, l’hypothèse plus probable en tenant compte des multiples facteurs de risque cardiovasculaire. Les examens endoscopiques ont exclu une pathologie organique obstructive. Le traitement par des inhibiteurs de l’acétylcholinestérase n’a pas été toléré mais l’évolution clinique a été favorable suite à l’institution d’immunosuppression associée à la corticothérapie.  Conclusion  Nous présentons ce cas de MG, abordé en médecine de premier recours avec l’appui de notre neurologue, dans le contexte d’une dysphagie et d’une gêne à la marche entraînée par une diplopie et un ptosis. Il s’agit d’une pathologie peu fréquente mais qui doit être suspectée devant une symptomatologie fluctuante.  En tenant compte de l’âge de la patiente et de la présence de facteurs de risque cardio-vasculaire, cette hypothèse diagnostique ne serait pas la plus évidente: un AVC du tronc cérébral serait le diagnostic le plus attendu.  Le diagnostic opportun permet d’instaurer un traitement spécifique et significativement d’améliorer la qualité de vie des patients.
+T85	irrelevant 12544 12572;12574 12682;12684 12845;12847 13109	L’essentiel pour la pratique  • La dysphagie est une plainte fréquente en médecine de premier recours, spécialement chez la personne âgée.  • La cause plus probable n’est pas toujours la correcte. L’investigation étiologique peut impliquer des examens spécifiques et/ou des consultations spécialisées.  • La myasthénie grave est une pathologie neuromusculaire auto-immune caractérisée par une faiblesse progressive et fluctuante de la musculature squelettique, aggravée par les mouvements répétés. La faiblesse des muscles oropharyngés peut provoquer une dysphagie.

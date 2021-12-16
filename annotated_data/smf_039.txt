@@ -1,0 +1,76 @@
+Contexte
+
+L’hémochromatose est une maladie congénitale ou ­acquise, qui est causée par un stockage excessif de fer dans l’organisme. L’hémochromatose primitive est transmise sur un mode autosomique-récessif et est due à des mutations dans le gène de l’hémochromatose HFE, qui conduisent à une absorption accrue de fer. L’hémochromatose secondaire est provoquée par une surcharge en fer d’origine iatrogène, suite à des transfusions sanguines répétées, par exemple dans le cadre du traitement de la thalassémie majeure, de la drépanocytose ou de maladies myélodysplasiques.
+
+Il est fréquent que l’hémochromatose soit uniquement détectée lorsque les manifestations organiques ont atteint un stade avancé en raison de son évolution insidieuse et initialement asymptomatique. Sur le plan clinique, elle peut se manifester non seulement par une baisse de performance, une diminution de la libido et des arthralgies (typiquement au niveau de la deuxième et de la troisième articulation métacarpo-phalangienne), mais également par une coloration bronzée typique de la peau.
+
+Les analyses de laboratoire révèlent fréquemment une hépatopathie (75%). Des manifestations endocriniennes, telles qu’un hypopituitarisme, un hypogonadisme primaire, une hypothyroïdie et un diabète sucré, sont possibles. Ce dernier survient à une prévalence de 6–14%.
+
+Nous présentons ici le cas d’un patient de 21 ans avec un diagnostic initial de diabète sucré dû à des transfusions sanguines régulières.
+
+Présentation du cas
+Anamnèse
+
+Un patient de 21 ans originaire du Proche-Orient s’est présenté en urgence en raison d’une polyurie et d’une polydipsie présentes depuis deux jours, ainsi que d’une perte de poids involontaire de 4 kg en l’espace de deux semaines. Le recueil de l’anamnèse était au demeurant nettement compliqué par la barrière linguistique.
+
+Examen clinique
+
+A l’examen clinique, nous avons retrouvé un patient mince (indice de masse corporelle 19,5 kg/m2), avec une coloration grisâtre de la peau et des hyperpigmentations localisées prédominantes au niveau du bas des jambes (fig. 1), une hépatomégalie, ainsi que des organes génitaux sous-développés avec de petits testicules (stade II de Tanner) et une pilosité du visage nettement réduite.
+
+Figure 1: Hyperpigmentation au niveau du bas de la jambe (publication avec l’accord du patient).
+
+Résultats
+
+Les analyses de laboratoire ont montré une valeur d’hémoglobine de 8,4 g/dl (valeurs de référence: 13,5–17,2), une saturation de la transferrine de 95% (valeurs de référence: 16–45), une concentration de ferritine de 4 231 ng/ml (valeurs de référence: 30–400), une hyponatrémie de 130 mmol/l (valeurs de référence: 135–145), une valeur d’aspartate aminotransférase (ASAT) de 73 U/l (valeurs de référence: 10–50), une valeur d’alanine aminotransférase (ALAT) de 71 U/l (valeurs de ­référence: 10–50) et une concentration de glucose de 34 mmol/l. Le patient ne présentait pas d’acidose (pH 7,387, bicarbonate 30 mmol/l). L’HbA1c était augmentée, s’élevant à 10,9%.
+
+Les anticorps anti-îlots et les anticorps anti-acide glutamique décarboxylase étaient négatifs.
+
+Des «target cells» ont été retrouvées dans le frottis ­sanguin périphérique (fig. 2).
+
+Figure 2: Frottis sanguin avec «target cells» (codocytes, flèche) présentant un centre foncé riche en hémoglobine ­entouré d’un anneau clair au microscope optique. Elles ­traduisent un déséquilibre entre une surface membranaire augmentée et une teneur intracellulaire en hémoglobine ­réduite, ce qui aboutit à un faible volume cellulaire moyen (MCV; «microcytes»). Coloration de May-Grünwald-Giemsa, grossissement 1000×.
+
+Traitement et évolution
+
+Le patient a été hospitalisé avec un diagnostic initial de diabète sucré et il a été réhydraté. Sous insulinothérapie intensive, la glycémie s’est rapidement normalisée.
+
+Face à une suspicion de maladie hématologique avec transfusions répétitives, nous sommes ultérieurement parvenus à reconstituer l’anamnèse d’une bêta-thalassémie majeure. Le patient avait été splénectomisé à l’âge de six ans et il avait régulièrement reçu des transfusions sanguines depuis sa jeune enfance. Jusqu’à mai 2018, il avait en outre reçu une chélation du fer régulière par déférasirox (Exjade®), qui avait été interrompue lors de sa fuite vers la Suisse.
+
+L’imagerie par résonance magnétique complémentaire a montré une surcharge en fer sévère du pancréas, du cœur et du foie.
+
+En raison d’une suspicion d’accumulation de fer dans l’hypophyse, la fonction hypophysaire a été évaluée suite au traitement de la maladie aiguë, révélant un ­hypogonadisme hypogonadotrope (testostérone totale 2,83 nmol/l [valeurs de référence: 6–27]; hormone folliculostimulante [FSH] 0,3 U/l [valeurs de référence: 1,5–12,4]; hormone lutéinisante [LH] <0,1 U/l [valeurs de référence: 1,2–8,6]). Il n’y avait ni trouble de l’axe cortisolique ni hypothyroïdie.
+
+Le patient a pu quitter l’hôpital avec un schéma insulinique basal-bolus.
+
+Pour le traitement de la thalassémie majeure, le patient a reçu des transfusions érythrocytaires régulières dans notre service ambulatoire d’hématologie. La chélation du fer par déférasirox (Jadenu®) a été reprise.
+
+Une substitution de la testostérone, qui a entraîné une réactivation du développement pubertaire, a également été initiée. Après un traitement de substitution augmenté progressivement, le patient a présenté une virilisation croissante, une croissance corporelle accélérée et une augmentation de la masse musculaire.
+
+Discussion
+
+L’hémochromatose résulte d’une absorption excessive de fer ou d’un recyclage perturbé du fer [1]. Le fer excédentaire est stocké dans les cellules réticulo-endothéliales. Lorsque la capacité des macrophages à absorber le fer atteint ses limites, le fer est déposé dans d’autres organes parenchymateux, tels que le foie et le cœur, mais aussi dans le système endocrinien, ce qui peut se traduire par des troubles fonctionnels correspondants [2], comme l’illustre parfaitement l’exemple de notre patient.
+
+L’hémochromatose héréditaire résulte de mutations du gène HFE et il s’agit de la maladie génétique la plus fréquente dans la population caucasienne, avec une prévalence de 2–5/1 000 [3]. Elle ne sera pas abordée plus en détails dans cet article.
+
+Chez notre patient, les multiples transfusions sanguines depuis l’enfance ont causé une hémochromatose secondaire avec hyperpigmentation cutanée, diabète sucré et atteinte de l’hypophyse, avec un ­hypogonadisme secondaire et consécutivement une interruption du développement pubertaire.
+
+Dans le cas de l’hémochromatose secondaire, la thérapie transfusionnelle chronique joue le principal rôle dans la survenue d’une surcharge en fer. Lors de la ­dégradation des érythrocytes par les macrophages, le fer de l’hème est récupéré et stocké. Les réserves de fer physiologiques sont constituées de 3–4 g de fer [4], ­sachant que l’absorption quotidienne de fer correspond à la perte quotidienne de fer d’environ 1 mg. Une poche de sang renferme environ 200–250 mg de fer, c.-à-d. environ 200 rations journalières d’apports en fer physiologiques. Etant donné que le fer excédentaire ne peut pas être éliminé, il se produit une surcharge en fer qui est considérée comme cliniquement pertinente après la transfusion de plus de 20 poches de sang. Dans la thalassémie majeure, l’hémochromatose secondaire n’est cependant pas uniquement due au traitement transfusionnel. En raison de l’érythropoïèse inefficace, l’absorption intestinale de fer est augmentée. Par conséquent, les patients avec thalassémies sont particulièrement à risque de développer une hémochromatose. Ainsi, en l’absence de traitement, les patients ­atteints de thalassémie homozygote (thalassémie majeure) décèdent généralement au cours de la troisième décennie de vie d’une insuffisance cardiaque due au dépôt de fer dans le myocarde [5] ou d’une cirrhose hépatique.
+
+Le terme historique «diabète bronzé» désigne la forme secondaire de diabète sucré consécutive aux dépôts de fer, dans laquelle les patients, en plus de présenter une hyperpigmentation, développent un diabète sucré en raison des dépôts de fer excédentaire. Deux mécanismes physiopathologiques sont responsables de la survenue du diabète sucré. D’une part, il se produit un dépôt de fer dans le pancréas, et spécifiquement dans les cellules β productrices d’insuline, dont la destruction conduit à une perturbation de la sécrétion d’insuline et par la suite à un diabète par déficit d’insuline [6]. En outre, la surcharge en fer dans le foie entraîne également le développement d’une cirrhose hépatique qui est, quant à elle, associée à une insulinorésistance [7].
+
+Le développement et l’évolution d’un diabète sucré en cas d’hémochromatose dépendent ainsi à la fois du degré de surcharge en fer du pancréas et du degré d’insulinorésistance, qui est en partie causée par l’hémochromatose mais aussi par d’autres facteurs (sévérité de l’hépatopathie, poids, prédisposition familiale, origine ethnique).
+
+Notre cas montre à quel point il est important lors du diagnostic initial d’un diabète sucré d’examiner d’un œil critique l’étiologie, en commençant par une anamnèse minutieuse et un examen clinique approfondi. Au vu de l’irréversibilité d’un tel diagnostic et des comorbidités et complications potentielles, les causes rares de diabète sucré doivent également être prises en compte dans le diagnostic différentiel. Chez notre patient, la pigmentation cutanée, l’hémogramme et la valeur de ferritine étaient évocateurs du diagnostic.
+
+Dans ce contexte, il convient de penser aux autres types rares de diabète en cas de diabète nouvellement diagnostiqué qui ne présente pas les caractéristiques classiques d’un diabète de type 2 ou 1: MODY («maturity-onset diabetes of the young»), diabète mitochondrial (diabète sucré, surdité neurosensorielle, éventuellement cardiomyopathie) ou syndrome de Wolfram (diabète sucré, diabète insipide, atrophie optique, surdité).
+
+Dans le cadre du diagnostic, le moment de l’initiation du traitement est essentiel, car une chélation du fer initiée au moment optimal semble avoir une influence positive sur l’espérance de vie dans l’hémochromatose. La chélation du fer devrait être initiée au plus tard en cas de concentration sérique de ferritine de 1000 µg/l.
+
+L’essentiel pour la pratique
+
+• En cas de diabète sucré nouvellement diagnostiqué, il convient non seulement de songer aux formes courantes de diabète, mais également aux types alternatifs.
+
+• Un diabète sucré dans le cadre de l’hémochromatose est souvent la première manifestation clinique de la maladie.
+
+• Par le biais de dépôts de fer locaux ou systémiques, l’hémochromatose peut entraîner des manifestations endocriniennes supplémentaires.
+
+• Une détection et un traitement précoces sont indispensables, car l’espérance de vie est influencée positivement lorsque la chélation du fer est initiée précocement.

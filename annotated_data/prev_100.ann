@@ -1,0 +1,105 @@
+T1	irrelevant 0 177	Ce matériel est réservé à un usage privé ou d’enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l’objet d’une transaction commerciale.
+T2	disorder 236 255	chute de sa hauteur
+T3	disorder 349 397	fracture sous-trochantérienne diaphysaire gauche
+T4	procedure 405 426	posé radiologiquement
+T5	procedure 450 459	transféré
+T6	profession 516 539	chirurgien orthopédiste
+T7	procedure 588 614	consignes d’immobilisation
+T8	disorder 661 669	douleur 
+T9	procedure 695 720	intervention chirurgicale
+T10	procedure 740 752	Intervention
+T11	procedure 805 828	Indication chirurgicale
+T12	disorder 833 869	fracture sous-trochantérienne gauche
+T13	procedure 892 947	Intervention par enclouage centro-médullaire verrouillé
+T14	procedure 963 982	anesthésie générale
+T15	procedure 986 1004	table orthopédique
+T16	procedure 1025 1051	amplificateur de brillance
+T17	procedure 1057 1077	clou trans-condylien
+T18	procedure 1079 1097	Traction sur table
+T19	procedure 1099 1123	réduction de la fracture
+T20	procedure 1141 1184	Voie d’abord latéro-trochantérienne externe
+T21	procedure 1203 1218	guide d’alésage
+T22	procedure 1220 1227	Alésage
+T23	procedure 1239 1263	 Mise en place d’un clou
+T24	procedure 1287 1324	Verrouillage proximal sans difficulté
+T25	procedure 1335 1347	radiologique
+T26	procedure 1362 1376	Fermeture plan
+T27	procedure 1390 1404	drain de Redon
+T28	procedure 1617 1646	prescriptions postopératoires
+T29	drugs 1657 1664	Lovenox
+T30	drugs 1671 1679	Kefandol
+T31	drugs 1703 1711	morphine
+T32	procedure 1766 1779	pic thermique
+T33	labvalue 1782 1788	40 ° C
+T34	procedure 1817 1828	température
+T35	labvalue 1839 1844	38 °C
+T36	disorder 1877 1885	douleurs
+T37	procedure 1898 1938	traitées par application locale de glace
+T38	disorder 2011 2019	douleurs
+T39	drugs 2040 2049	odalfagan
+T40	drugs 2082 2090	morphine
+T41	procedure 2134 2152	élévation thermiqu
+T42	labvalue 2156 2161	39 °C
+T43	procedure 2179 2192	 hémocultures
+T44	profession 2221 2230	infirmier
+T45	disorder 2286 2294	douleurs
+T46	procedure 2400 2410	chirurgien
+T47	disorder 2447 2456	oedématié
+T48	procedure 2478 2490	écho Doppler
+T49	disorder 2550 2570	douleurs de la jambe
+T50	procedure 2621 2633	écho Doppler
+T51	procedure 2650 2685	Examen techniquement très incomplet
+T52	disorder 2863 2880	thrombose patente
+T53	profession 2915 2927	anesthésiste
+T54	drugs 2940 2947	Lovenox
+T55	drugs 2958 2965	Innohep
+T56	disorder 3005 3030	douleurs du mollet gauche
+T57	profession 3047 3057	chirurgien
+T58	disorder 3320 3327	algique
+T59	disorder 3363 3373	Pied chaud
+T60	disorder 3415 3440	réapparition des douleurs
+T61	drugs 3459 3470	Prodalfagan
+T62	drugs 3498 3506	morphine
+T63	profession 3519 3529	chirurgien
+T64	disorder 3539 3546	Algique
+T65	disorder 3586 3617	sensation d’avoir le pied froid
+T66	disorder 3620 3651	Perte de la sensibilité du pied
+T67	profession 3686 3698	anesthésiste
+T68	procedure 3732 3753	saturation en oxygène
+T69	labvalue 3762 3766	80 %
+T70	profession 3780 3790	chirurgien
+T71	procedure 3824 3836	autorisation
+T72	procedure 3854 3868	artériographie
+T73	procedure 3920 3948	intégrité des axes artériels
+T74	procedure 4263 4269	examen
+T75	profession 4338 4348	chirurgien
+T76	procedure 4359 4369	transférer
+T77	procedure 4498 4512	artériographie
+T78	disorder 4581 4589	douleurs
+T79	drugs 4687 4695	Fentanyl
+T80	profession 4767 4779	anesthésiste
+T81	procedure 4916 4944	 jonction par voie routière 
+T82	procedure 5233 5247	artériographie
+T83	labvalue 5300 5307	normale
+T84	procedure 5342 5351	transféré
+T85	profession 5409 5432	chirurgien orthopédiste
+T86	disorder 5437 5460	Syndrome des loges aigu
+T87	disorder 5513 5549	paralysie sensitivo-motrice compléte
+T88	procedure 5595 5608	Aponévrotomie
+T89	procedure 5766 5779	interventions
+T90	procedure 5805 5830	excisions complémentaires
+T91	procedure 5832 5842	pansements
+T92	procedure 5843 5878	 évacuation de collection purulente
+T93	procedure 5880 5899	fermeture terminale
+T94	procedure 5953 5974	centre de rééducation
+T95	procedure 5989 6000	hospitalisé
+T96	procedure 6070 6082	 rééducation
+T97	procedure 6151 6180	arthrodèse sous-astragalienne
+T98	procedure 6213 6222	expertise
+T99	disorder 6227 6251	marche était impossible 
+T100	procedure 6251 6277	sans chaussure orthopédiqu
+T101	disorder 6296 6315	boiterie permanente
+T102	disorder 6429 6460	douleurs persistantes du mollet
+T103	profession 6573 6596	chirurgien orthopédiste
+T104	profession 6699 6722	chirurgien orthopédiste
+T105	irrelevant 6742 6770;6772 6793;6795 6811;6813 6844;6846 6868;6870 6888;6890 6913	A découvrir sur notre site :  Cas cliniques du mois  Revues de presse  Revues de questions thématiques  Voir toutes nos vidéos  Dossiers du risque  Nos offres de formation

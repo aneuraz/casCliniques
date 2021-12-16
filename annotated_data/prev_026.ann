@@ -1,0 +1,34 @@
+T1	procedure 81 102	nettoyage de la plaie
+T2	procedure 238 266	 réaliser des radiographies 
+T3	disorder 297 351	plaie dorsale franche de l’extrémité de l’index droit 
+T4	disorder 425 453	déficit de l’extension P2/P3
+T5	disorder 470 498	atteinte du tendon extenseur
+T6	drugs 658 666	bétadine
+T7	procedure 674 697	 subit une intervention
+T8	disorder 907 929	Section de l’extenseur
+T9	disorder 879 905	Plaie D2 de la main droite
+T10	procedure 971 990	 Parage de la plaie
+T11	procedure 991 1008	 Suture du tendon
+T12	procedure 1010 1037	Arthrodèse P2/P3 sur broche
+T13	procedure 1039 1055	Pansement simple
+T14	drugs 1115 1131	Cefazoline® 2 gr
+T15	procedure 1246 1267	’ablation des broches
+T16	procedure 1305 1337	 pansements tous les deux jours 
+T17	procedure 1389 1465	nettoyage au sérum physiologique unidose et l’application de tulle bétadiné 
+T18	procedure 1924 1958	 broche est retirée en ambulatoire
+T19	drugs 2212 2227	Augmentin ®2 gr
+T20	drugs 2427 2462	 Doliprane®, Apranax® et Augmentin®
+T21	procedure 2508 2550	prélèvement bactériologique per opératoire
+T22	labvalue 2619 2639	 Aeromonas Aerophila
+T23	disorder 2684 2693	 phlegmon
+T24	drugs 2777 2815	amoxicilline, cefalotine, ticarcilline
+T25	labvalue 2819 2866	sensible à tous les autres antibiotiques testés
+T26	procedure 3166 3191	changer l’antibiothérapie
+T27	drugs 3268 3280	 Pyostacine 
+T28	disorder 3464 3481	 violacé et rouge
+T29	procedure 3835 3839	IRM 
+T30	procedure 3842 3863	scintigraphie osseuse
+T31	labvalue 4022 4036	 ostéite aiguë
+T32	labvalue 4123 4132	ostéolyse
+T33	labvalue 4243 4250	ostéite
+T34	procedure 5436 5460	arthrodèse en deux temps

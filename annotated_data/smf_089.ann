@@ -1,0 +1,76 @@
+T1	irrelevant 5181 5191;5193 5548	Discussion  Nous décrivons le cas d’un patient intubé aux soins intensifs dans le contexte d’un SDRA sur COVID-19 ayant présenté successivement deux événements thromboemboliques. Le deuxième événement, un AVC ischémique massif, survient dans le contexte d’une anticoagulation thérapeutique efficace au décours de la thrombolyse intraveineuse d’une embolie pulmonaire.
+T1	irrelevant 5550 6181;6183 6602	Selon la littérature parue à ce jour dans le contexte de la pandémie liée au nouveau coronavirus SARS-CoV-2, il semblerait que la maladie COVID-19 soit associée à un état pro-coagulant important, menant à un risque augmenté de thromboses artérielles et veineuses [1]. Jusqu’à 30% des patients admis en milieu de soins intensifs développent une complication thromboembolique, avec une majorité d’embolies pulmonaires (16–25%) [2, 3]. La survenue d’AVC ischémiques est décrite entre 5–9% [3, 4]. Ces complications thromboemboliques sont grevées d’une importante mortalité et surviennent malgré une anticoagulation prophylactique [2].  Une étude observationnelle réalisée à Wuhan, en Chine, met en évidence une association significative entre l’élévation des D-dimères (>1000 ng/ml) à l’entrée et une élévation du taux de mortalité intra-hospitalière [5]. Pour les diverses raisons discutées ci-dessus, il serait tentant de vouloir intensifier la prophylaxie thrombo-embolique, mais il n’existe à ce jour aucune étude prospective validant cette hypothèse.
+T1	irrelevant 6604 7211;7213 7679	La raison menant à cet état pro-thrombotique n’est pas encore complètement élucidée mais il semblerait que la présence d’une inflammation excessive, d’une hypoxémie sévère ainsi que la présence d’anomalie du système de la coagulation jouent un rôle important [4]. Par exemple, certains cas de patients présentant des anticorps anti-phospholipides ont été décrits [6]. Par ailleurs, les publications les plus récentes font état d’une dysfonction endothéliale comme principale déterminante d’une dysfonction microvasculaire, à l’origine d’une vasoconstriction et d’une augmentation du status procoagulant [7].  Les observations concernant l’état hypercoagulant des patients atteints par le COVID-19 ont mené à l’élaboration de recommandations préconisant une anticoagulation prophylactique à doses plus élevées qu’usuellement [8], voire à dose thérapeutique en fonction de la présence de certains facteurs de risque ou d’une hypercoagulabilité importante [9]. Il est intéressant de noter qu’un phénomène similaire avait été décrit en 2004 lors de l’épidémie de SARS-CoV-1 [10].
+T1	irrelevant 7681 8012;8014 9482	Dans le cas présenté, il est intéressant de noter l’amélioration des échanges gazeux faisant suite à la thrombolyse. Il est clair que la levée du thrombus pulmonaire en est en grande partie responsable mais la question d’un effet sur d’éventuels microthrombi dans la vascularisation pulmonaire périphérique peut être soulevée [11].  Bien qu’un certain biais d’observation soit dénoncé par certains, il semble bel et bien que le COVID-19 soit associé à un état pro-coagulant important, ceci même en comparaison avec des patients atteints d’SDRA d’autres origines [2]. Ceci est mis en exergue par la séquence d’événements thromboemboliques avec la survenue d’un événement malgré une anticoagulation à doses thérapeutique présentés par notre patient. A noter que ce patient a été pris en charge avant les recommandations en matière d’anticoagulation prophylactique citées ci-dessus et a bénéficié d’une thromboprophylaxie standard. En effet, n’étant pas encore entrés dans les guidelines, le dosage des facteurs procoagulants tels que le fibrinogène ou les D-dimères qui auraient pu nous amener à augmenter la dose de l’anticoagulation prophylactique n’ont pas été dosés à l’admission du patient. Lors de la survenue de l’embolie pulmonaire, le diagnostic a été essentiellement clinique et les facteurs pro-coagulants n’ont pas été mesurés. Cependant, l’AVC ischémique est apparu malgré une anticoagulation thérapeutique bien conduite. A noter qu’une embolie paradoxale sur un foramen ovale perméable ne peut être formellement exclue en l’absence d’un test aux micro-bulles. Ceci ne fait que renforcer l’importance d’une anticoagulation prophylactique à dose majorée ou thérapeutique selon les différents critères [9] ainsi que du suivi clinique avec dépistage précoce des complications thromboembolique.
+T1	irrelevant 9484 9512;9514 9627	L’essentiel pour la pratique  • Les données actuelles suggèrent l’existence d’un état hautement procoagulant au cours de la maladie à COVID-19.
+T1	irrelevant 9629 9897;9899 10042	• Une thromboprophylaxie intensifiée, voire une anticoagulation pourraient-être indiquées, ces stratégies devant toutefois faire l’objet d’études prospectives. Des recommandations concernant cette problématique ont été éditées par différentes sociétés de spécialistes.  • Il ne faut pas sous-estimer la survenue d’évènements ischémiques chez les patients COVID-19, même en présence d’une anticoagulation efficace.
+T2	disorder 79 95	maladie COVID-19
+T3	disorder 770 793	hypertension artérielle
+T4	disorder 798 835	diabète de type 2 insulino-requérant 
+T5	disorder 859 878	’embolie pulmonaire
+T6	disorder 935 958	mal perforant plantaire
+T7	procedure 989 1011	traitement chirurgical
+T8	procedure 1018 1035	 antibiothérapie 
+T9	procedure 1051 1079	prophylaxie antithrombotique
+T10	drugs 1093 1111	énoxaparine 40 mg 
+T11	disorder 1210 1218	 fébrile
+T12	disorder 1232 1237	 toux
+T13	procedure 1290 1298	frottis 
+T14	labvalue 1323 1330	positif
+T15	disorder 1373 1382	hypoxémie
+T16	procedure 1399 1426	oxygénothérapie à 10 l/min 
+T17	disorder 1562 1610	détresse respiratoire avec une hypoxémie sévère 
+T18	procedure 1626 1636	intubation
+T19	procedure 1638 1663	La radiographie du thorax
+T20	disorder 1751 1796	syndrome de détresse respiratoire aigu (SDRA)
+T21	disorder 1839 1877	 instabilité hémodynamique persistante
+T22	procedure 1881 1885	ECG 
+T23	disorder 1997 2018	bloc de branche droit
+T24	procedure 2024 2045	dosage des troponines
+T25	labvalue 2056 2080	 élévation significative
+T26	procedure 2111 2129	échocardiographie 
+T27	disorder 2147 2164	 cœur pulmonaire 
+T28	disorder 2182 2206	hypertension pulmonaire 
+T29	disorder 2248 2286	dysfonction sévère du ventricule droit
+T30	procedure 2290 2306	 Doppler-couleur
+T31	procedure 2472 2482	intubation
+T32	procedure 2490 2522	ventilation protectrice optimale
+T33	procedure 2530 2553	édation et curarisation
+T34	disorder 2579 2600	hypoxémie persistante
+T35	disorder 2633 2659	instabilité hémodynamique 
+T36	procedure 2673 2693	 soutien aminergique
+T37	drugs 2698 2712	noradrénaline 
+T38	drugs 2715 2725	dobutamine
+T39	disorder 2737 2752	cœur pulmonaire
+T40	procedure 2773 2783	troponines
+T41	procedure 2804 2808	 ECG
+T42	disorder 2829 2848	 embolie pulmonaire
+T43	procedure 2851 2861	’angio-CT 
+T44	disorder 2884 2948	embolies pulmonaires lobaires droite et plurisegmentaires gauche
+T45	disorder 2990 3012	infection à SARS-CoV-2
+T46	procedure 3033 3053	 Angio-CT thoracique
+T47	disorder 3073 3140	Embolies pulmonaires lobaires droites et plurisegmentaires gauches 
+T48	disorder 3153 3191	Infiltrats pulmonaires en verre dépoli
+T49	procedure 3291 3308	 anticoagulation 
+T50	risk 3317 3342	héparine non-fractionnée 
+T51	procedure 3467 3490	échanges respiratoires 
+T52	procedure 3520 3554	ventilation mécanique protectrice 
+T53	procedure 3585 3605	rapports PaO2/FiO2 e
+T54	labvalue 3610 3624	50 et 60 mm Hg
+T55	procedure 3750 3783	majoration du soutien aminergique
+T56	disorder 3659 3697	 aggravation de son état hémodynamique
+T57	disorder 3805 3821	choc cardiogène 
+T58	procedure 3864 3876	thrombolyse 
+T59	disorder 3886 3907	ténecteplase 10 000 U
+T60	procedure 3929 3959	poursuite de l’anticoagulation
+T61	procedure 3997 4029	administration de la thrombolyse
+T62	procedure 4079 4101	rapports ventilatoires
+T63	procedure 4163 4187	anticoagulation efficace
+T64	drugs 4227 4251	héparine non-fractionnée
+T65	disorder 4277 4288	anisocorie 
+T66	disorder 4300 4312	 bradycardie
+T67	procedure 4415 4426	CT cérébral
+T68	disorder 4474 4526	 accident vasculaire cérébral (AVC) ischémique droit
+T69	procedure 4643 4655	CT cérébral 
+T70	procedure 5099 5121	retrait thérapeutique 
+T71	disorder 5146 5153	décède 

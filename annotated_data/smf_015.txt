@@ -1,0 +1,78 @@
+Contexte
+
+Le bilan diagnostique d’une érythrocytose constitue un motif fréquent d’orientation vers un service ambulatoire d’hématologie. Dans la majorité des cas, il s’agit d’une érythrocytose absolue (contrairement à l’érythrocytose relative dans le cadre d’une hémoconcentration ou du syndrome de Gaisböck) [1]. Cette érythrocytose est soit acquise sous forme d’érythrocytose primaire dans le cadre de la maladie de Vaquez (MV), ou, dans de rares cas avec le plus souvent une prédisposition familiale, sous forme d’érythrocytose d’origine génétique, soit elle survient en tant qu’érythrocytose secondaire, généralement médiée par l’érythropoïétine (EPO). Les formes secondaires sont fréquentes et le plus souvent acquises (hypoxie, liée à une production aberrante d’EPO); elles sont rarement congénitales [2].
+
+Notre article décrit une cause rare d’érythrocytose, depuis l’algorithme diagnostique jusqu’aux principes fondamentaux de la prise en charge thérapeutique.
+
+Présentation du cas
+Anamnèse
+
+Une patiente post-ménopausée de 54 ans est adressée au service ambulatoire d’hématologie en raison d’une valeur accrue d’hémoglobine. Cette valeur augmentée d’hémoglobine avait été découverte fortuitement dans l’hémogramme réalisé dans le cadre d’un examen gynécologique de routine. La patiente se sentait en bonne santé et ne prenait pas de médicaments.
+
+Déjà six ans auparavant, la patiente s’était vue détecter «trop de sang» avant une petite intervention chirurgicale. En l’absence de symptômes, ni la patiente ni le médecin n’avaient attaché de l’importance à cette découverte. Ainsi, des examens n’avaient jamais été réalisés jusqu’à présent. La patiente n’a jamais fumé, ne présentait pas de maladies préexistantes connues et n’a pas signalé de symptômes B.
+
+A l’interrogatoire, la patiente a déclaré ne pas présenter de symptômes d’hyperviscosité typiques (mais non spécifiques), tels que fatigue, vertiges, céphalées, troubles de la vision ou acouphènes, ni de prurit aquagénique (déclenché par l’eau) caractéristique de la MV. Une tendance aux saignements et des évènements thromboemboliques veineux ou artériels n’ont pas été mentionnés dans l’anamnèse personnelle. La patiente a indiqué que ses parents avaient des valeurs sanguines normales et que son frère et ses deux propres enfants étaient en bonne santé.
+
+Examen clinique
+
+L’examen clinique complet de la patiente était sans particularités. En particulier, il n’y avait pas de splénomégalie palpable ni de signes cliniques d’une hypoxie chronique dans le cadre d’une maladie cardiaque ou pulmonaire (pas d’ongles en verre de montre/de doigts en baguettes de tambour, pas de cyanose, pas de souffles cardiaques, percussion et auscultation pulmonaires normales).
+
+Résultats
+
+L’hémogramme a montré une hémoglobine (Hb) nettement augmentée, s’élevant à 189 g/l (norme 115–148 g/l), et un taux d’hématocrite (Hct) de 55% (norme 34–43%). Les valeurs de leucocytes, de thrombocytes et de réticulocytes étaient normales; l’examen microscopique du sang était sans particularités, à l’exception de la polyglobulie.
+
+Examens diagnostiques supplémentaires
+
+L’anamnèse et l’examen clinique n’ont pas révélé d’anomalies évocatrices d’une érythrocytose secondaire acquise.
+
+L’étape diagnostique suivante visant à rechercher une érythrocytose myéloproliférative primaire suspectée a consisté à déterminer la concentration sérique d’EPO et à réaliser une analyse mutationnelle de JAK2-V617F et éventuellement de l’exon 12 de JAK2 à partir du sang périphérique pour rechercher une MV [1,2]. En particulier la détermination de la concentration sérique d’EPO est un test simple, fiable et économique, qui présente une sensibilité et une spécificité élevées pour faire la distinction entre une érythrocytose primaire et secondaire [3].
+
+Dépendant de l’intensité de l’érythrocytose (Hb>185 g/l ou Hct >55,5% chez les hommes, Hb >165 g/l ou Hct >49,5% chez les femmes), la présence d’une mutation JAK2-V617F avec en parallèle une concentration d’EPO inférieure à la normale serait déjà suffisante sur le plan diagnostique pour confirmer une MV. En cas d’élévation moins prononcée des concentrations d’hémoglobine (Hb >165 g/l ou Hct >49% chez les hommes, Hb >160 g/l ou Hct >48% chez les femmes), un myélogramme est en outre nécessaire pour confirmer définitivement le diagnostic [4]. Ainsi, la MV parvient à être diagnostiquée correctement chez 97% de tous les patients [2]. Chez 2% des patients, une mutation JAK2-V617F n’est pas retrouvée malgré une faible concentration d’EPO. Dans ce cas, la mise en évidence d’une mutation dans l’exon 12 de JAK2 conduit au diagnostic de la MV [2].
+
+Les personnes atteintes d’une MV non traitée présentent un risque fortement augmenté, indépendant de l’âge, d’évènements thromboemboliques artériels et veineux, ainsi que de transformation de la maladie en leucémie myéloïde aiguë ou en myélofibrose [5]. Par conséquent, des investigations complémentaires sont impératives face à une érythrocytose d’étiologie indéterminée, car à la fois les causes primaires et secondaires ont des conséquences thérapeutiques.
+
+Dans notre cas, la patiente présentait la constellation rare associant une très faible concentration sérique d’EPO inférieure au seuil de détection (EPO <1,0 U/l, norme 4,0–29,0 U/l) et une absence de mise en évidence d’une mutation dans le gène JAK2 (JAK2-V617F et exon 12 de JAK2non muté). Ainsi, une érythrocytose myéloproliférative primaire au sens d’une MV en tant que cause de l’érythrocytose est pratiquement exclue.
+
+Une faible concentration sérique d’EPO exclut également une érythrocytose secondaire acquise associée à l’EPO, par exemple causée par des tumeurs, telles que méningiome, carcinome hépatocellulaire ou carcinome à cellules rénales, par des kystes rénaux ou par des hémangiomes [1,2]. Par ailleurs, des causes congénitales rares (variantes de l’hémoglobine à haute affinité pour l’oxygène, déficit en 2,3-diphosphoglycérate, mutation VHL, HIF2α, PHD2) sont également exclues, car elles sont associées à des concentrations sériques normales ou augmentées d’EPO [1, 2].
+
+Cela nous a amené à suspecter la présence d’une mutation congénitale du récepteur de l’érythropoïétine (EPO-R), qui est pour l’instant la seule cause clairement définie et bien caractérisée d’érythrocytose primaire d’origine génétique. Chez notre patiente, l’analyse moléculaire par séquençage de Sanger a permis de mettre en évidence la mutation hétérozygote EPOR c.1317G>A, (p.Trp439*). Pour le diagnostic moléculaire à la recherche d’une mutation EPO-R, une garantie de prise en charge des coûts par la caisse-maladie doit préalablement être obtenue.
+
+Diagnostic
+
+Erythrocytose congénitale primaire dans le cadre d’une mutation hétérozygote du récepteur de l’érythropoïétine (fig. 1).
+
+Figure 1: Algorithme diagnostique de l’érythrocytose.
+
+BPCO: bronchopneumopathie chronique obstructive; Hb: hémoglobine; EPO: érythropoïétine; EPO-R: récepteur de l’érythropoïétine; SAOS: syndrome d’apnée obstructive du sommeil.
+
+Discussion
+
+Les érythrocytoses congénitales sont des affections rares et hétérogènes, qui peuvent être subdivisées en formes primaires et secondaires sur la base du mécanisme pathogénique sous-jacent [6].
+
+Dans le cas de l’érythrocytose congénitale (familiale) primaire, il existe un défaut intrinsèque au niveau de l’EPO-R des précurseurs érythrocytaires dans la moelle osseuse, qui entraîne une production accrue d’érythrocytes. Dans le cas des érythrocytoses congénitales secondaires, il existe un facteur extrinsèque, normalement l’EPO, qui stimule la production d’érythrocytes dans la moelle osseuse [6].
+
+A ce jour, au minimum 11 mutations différentes de l’EPO-R susceptibles de déclencher une érythrocytose primaire ont été décrites [6]. Le plus souvent, une mutation ponctuelle dans l’exon 8 de l’EPO-R entraîne la survenue d’un codon-stop. Post-traductionnellement, il en résulte un domaine intracellulaire raccourci de l’EPO-R [7]. De ce fait, l’EPO-R perd le site de liaison pour la protéine régulatrice inhibitrice SHP-1, qui limite physiologiquement l’activation du récepteur par l’EPO liée au niveau extracellulaire [6]. Ce mécanisme de rétrocontrôle négatif absent conduit à une hypersensibilité à l’EPO du récepteur avec stimulation continue de la production d’érythrocytes sans restimulation par l’EPO circulante. Cela explique également les faibles concentrations endogènes d’EPO au sens d’une tentative de contre-régulation [6, 7]. Une transmission autosomique dominante est objectivée pour la plupart des mutations de l’EPO-R connues à ce jour; quelques rares cas isolés de néomutations sporadiques sont néanmoins également connus [2, 7].
+
+L’évaluation familiale a montré un hémogramme normal sans érythrocytose chez les deux parents de la patiente, si bien qu’un test génétique n’a pas été réalisé. L’examen génétique des deux enfants de la patiente, qui présentaient des valeurs d’hémoglobine à la limite supérieure de la normale mais des concentrations sériques d’EPO normales, n’a pas mis en évidence de mutation de l’EPO-R. Nous partons dès lors du principe d’une néomutation chez la patiente, avec une transmission fortuite de l’allèle de type sauvage aux deux enfants.
+
+La présentation clinique des personnes ayant une mutation de l’EPO-R varie fortement, allant d’anomalies détectées fortuitement et ne s’accompagnant d’aucun symptôme, en passant par de légers symptômes d’hyperviscosité, jusqu’à des évènements cardiovasculaires et thromboemboliques graves [7]. En raison de la rareté de la maladie et de l’évolution clinique très hétérogène, des lignes directrices basées sur l’évidence pour la prise en charge thérapeutique font néanmoins défaut [6].
+
+Selon nous, une approche individuelle est dès lors nécessaire, l’objectif étant de prévenir des évènements cardiovasculaires et thromboemboliques graves. Ce faisant, les facteurs de risque cardiovasculaire classiques doivent impérativement être pris en compte.
+
+Contrairement au traitement d’une MV par acide acétylsalicylique (pour autant qu’il n’y ait pas de contre-indications) et par phlébotomies avec une cible d’Hct <45%, ainsi que par une éventuelle cytoréduction médicamenteuse supplémentaire en cas de situation à risque élevé, il n’existe pas de traitement standard universellement accepté pour les patients avec mutation de l’EPO-R.
+
+L’utilisation d’acide acétylsalicylique peut être envisagée au cas par cas [6,8], avant tout en présence de facteurs de risque cardiovasculaire supplémentaires ou de comorbidités. Par ailleurs, il n’existe pas de preuves publiées concernant la prise en charge clinique des patients adultes avec mutation de l’EPO-R; la prise en charge se base sur des avis d’experts et des études de cas individuelles [8].
+
+Les phlébotomies servent avant tout à réduire les symptômes d’hyperviscosité sans cible d’Hct fixe et elles peuvent être mises en œuvre à des intervalles individuels en fonction de la nécessité clinique. La cytoréduction médicamenteuse n’a pas de place dans la prise en charge.
+
+Même en cas de taux élevé d’Hct compris entre 55 et 60%, les patients asymptomatiques sans risque cardiovasculaire augmenté ne nécessitent pas de phlébotomies ni d’acide acétylsalicylique.
+
+L’essentiel pour la pratique
+
+• Outre l’anamnèse approfondie (personnelle et familiale) et l’examen clinique (splénomégalie palpable? signes d’hypoxie chronique?), la détermination de la concentration d’érythropoïétine (EPO) est le principal examen de laboratoire permettant de faire la distinction entre une érythrocytose primaire et secondaire.
+
+• En présence d’une érythrocytose avec une faible concentration sérique d’EPO, il convient tout d’abord d’exclure ou de diagnostiquer une MV par analyse mutationnelle de JAK2-V617F et, si elle est négative, de l’exon 12 de JAK2. En l’absence de mutation dans le gène JAK2, la mutation du récepteur de l’érythropoïétine (EPO-R) constitue un diagnostic différentiel rare.
+
+• Pour les mutations de l’EPO-R, il s’agit le plus souvent de maladies congénitales de transmission autosomique dominante, si bien qu’une évaluation familiale ciblée avec détermination de l’hémogramme et de la concentration sérique d’EPO est judicieuse.
+
+• Le traitement est mis en œuvre individuellement, faisant appel à des phlébotomies sans cible fixe d’hématocrite en fonction des symptômes. L’acide acétylsalicylique peut être envisagé au cas par cas en cas de profil de risque cardiovasculaire prononcé, mais il ne constitue pas un traitement standard.

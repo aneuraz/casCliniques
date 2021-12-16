@@ -1,0 +1,18 @@
+T1	disorder 53 84	douleurs des membres inférieurs
+T2	disorder 128 150	hypodermite bilatérale
+T3	procedure 154 166	écho Doppler
+T4	procedure 444 475	éveinage saphène externe gauche
+T5	procedure 765 811	stripping complet de la saphène externe gauche
+T6	procedure 896 934	contention élastique par bandes Biflex
+T7	disorder 1887 1922	douleurs du membre inférieur gauche
+T8	disorder 2452 2498	e membre inférieur gauche est œdèmatié et bleu
+T9	disorder 2510 2537	diagnostic d’ischémie aiguë
+T10	procedure 2618 2677	écho Doppler artériel et veineux du membre inférieur gauche
+T11	drugs 3021 3037	héparinothérapie
+T12	disorder 3095 3140	paralysie du sciatique poplité externe gauche
+T13	disorder 3275 3347	desquamation complète de toute la zone œdèmatiée de la jambe et du pied.
+T14	drugs 3448 3451	AVK
+T15	disorder 4124 4164	épisode inflammatoire de la jambe gauche
+T16	drugs 4178 4193	antibiothérapie
+T17	drugs 4210 4227	électromyographie
+T18	disorder 4239 4303	atteinte des deux sciatiques poplités et des muscles de la jambe

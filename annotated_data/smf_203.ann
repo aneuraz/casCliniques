@@ -1,0 +1,52 @@
+T1	irrelevant 5589 5599;5601 6285;6287 6667;6669 6866;6868 7102;7104 7543;7545 7729;7731 8086;8088 8409;8411 8439;8441 8516;8518 8698;8700 8794;8796 8994;8996 9208	Discussion  Dans l’ensemble, les hémorragies spontanées des adénomes parathyroïdiens sont très rares [1] et elles ont été décrites la première fois par R. Capps en 1934 [2]. Elles peuvent être intra- ou extra-capsulaires. En cas d’hémorragie intra-capsulaire, une tuméfaction cervicale et une dysphagie sont les manifestations cliniques prédominantes. En cas d’hémorragie extra-capsulaire, un hématome sous-cutané et un enrouement peuvent en outre survenir, comme dans le cas de notre patiente [3]. La présentation clinique peut varier en fonction de la localisation et de la taille de l’hématome. Ce dernier peut s’étendre en direction de la région cervicale, rétropharyngée ou médiastinale [4].  Le mécanisme physiopathologique de l’hémorragie n’est pas clair. Un apport sanguin insuffisant avec une nécrose centrale consécutive de la glande parathyroïde hypertrophiée est notamment postulé. Elle peut ainsi constituer une complication dans le cadre d’une hyperplasie ou d’un carcinome [1]. Elle survient toutefois le plus fréquemment (dans 84% des cas) dans les adénomes [5].  Dans le cadre du diagnostic différentiel, il convient notamment de penser à une dissection de la carotide ou de l’aorte, à un processus malin ou à des hémorragies partant de la glande thyroïde [5].  Une hypercalcémie peut être indicative du diagnostic, mais ne doit pas forcément être présente car une rémission complète ou passagère de l’hyperparathyroïdie primaire voire une hypoparathyroïdie peuvent survenir suite à l’hémorragie.  Compte-tenu de la dynamique imprévisible, un contrôle étroit du taux de calcium est indiqué au cours de l’évolution. Chez notre patiente également, une légère régression de l’hypercalcémie a été observée après la survenue de l’hémorragie, déjà avant l’opération. Résultat concordant, seule une faible accumulation de MIBI dans la glande parathyroïde a été mise en évidence à la TEMP/TDM, en tant qu’expression d’un infarcissement débutant.  Pour résumer, chez notre patiente, la tuméfaction cervicale aiguë et l’hématome jugulaire étaient induits par une hémorragie extra-capsulaire en deux temps d’un adénome parathyroïdien.  L’hémorragie est certes une complication très rare de l’adénome parathyroïdien, mais en cas de tableau clinique correspondant (tuméfaction cervicale aiguë et hématome cutané), il convient toutefois d’y penser. Une hyperparathyroïdie primaire déjà connue ou la présence d’une hypercalcémie peuvent être indicatives dans le cadre du diagnostic différentiel.  Comme notre l’exemple l’illustre, l’évolution d’une hémorragie d’un adénome parathyroïdien est imprévisible. Dans la littérature, des cas avec obstruction des voies respiratoires et instabilité hémodynamique ont été décrits [1, 4], si bien que l’indication pour un traitement chirurgical devrait être posée généreusement.  L’essentiel pour la pratique  • Les hémorragies dans le cadre d’adénomes parathyroïdiens sont très rares.  • En cas de tuméfaction cervicale de survenue aiguë et d’hématome sous-cutané (avec éventuellement un enrouement), il convient d’y ­penser dans le cadre du diagnostic différentiel.  • Une hypercalcémie peut être indicative, mais elle ne doit pas néces­sairement être présente.  • La dynamique de l’hémorragie est imprévisible. Elle peut conduire à une instabilité hémodynamique et à une obstruction de voies respiratoires et nécessite alors un traitement chirurgical immédiat.  • Une rémission passagère ou complète de l’hyperparathyroïdie peut survenir suite à l’hémorragie. Une hypoparathyroïdie avec hypocalcémie est également possible. Un contrôle étroit du calcium est donc nécessaire.
+T2	disorder 126 154	tuméfaction cervicale gauche
+T3	disorder 193 202	dysphagie
+T4	disorder 216 224	hématome
+T5	drugs 300 315	anticoagulation
+T6	drugs 325 364	inhibition de l’agrégation plaquettaire
+T7	disorder 411 422	traumatisme
+T8	disorder 527 554	hyperparathyroïdie primaire
+T9	drugs 567 577	cinacalcet
+T10	disorder 583 596	hypothyroïdie
+T11	disorder 613 636	hypertension artérielle
+T12	disorder 682 711	insuffisance rénale chronique
+T13	disorder 844 866	masse cervicale gauche
+T14	disorder 908 935	hématome jugulaire indolore
+T15	procedure 1008 1019	échographie
+T16	irrelevant 1270 1412	Figure 1: A ) Tableau clinique au Jour 1 (La publication a été réalisée avec l'accord de la patiente).B ) Résultat de l’échographie au Jour 1.
+T17	disorder 1445 1474	kyste thyroïdien hémorragique
+T18	procedure 1551 1562	échographie
+T19	procedure 1615 1634	examen cyto­logique
+T20	disorder 1748 1757	dysphagie
+T21	disorder 1910 1931	tuméfaction cervicale
+T22	disorder 1940 1948	hématome
+T23	irrelevant 2279 2378	Figure 2: Tableau clinique au Jour 2 (La publication a été ­réalisée avec l'accord de la patiente).
+T24	irrelevant 2381 2414;2415 2465;2466 2488;2489 2518;2519 2545;2546 2564;2565 2589;2590 2621;2622 2681;2682 2771;2772 2796	ableau 1: Valeurs de laboratoire. Valeurs de laboratoire	Jour 1	Jour 2	Unité	«Range» Hb	129	124	g/l	120–169 Lc	11,9	13,1	x10S9/l	3,5–10,0 Tc	397	349	x10S9/l	150–450 INR	1,1	1,1	 	<1,3 CRP	13,7	69,9	mg/l	<10,0 Créatinine	116	112	µmol/l	42–80 Calcémie corrigée par l’albumine	2,89	2,85	mmol/l	2,10–2,65 Hb: hémoglobine, Lc: leucocytes, Tc: thrombocytes, INR: «international normalized ratio», CRP: protéine C réactive
+T25	irrelevant 2380 2381	T
+T26	procedure 2812 2829	tomodensitométrie
+T27	procedure 2894 2905	échographie
+T28	disorder 2941 2956	masse hypodense
+T29	disorder 3114 3122	hématome
+T30	disorder 3166 3210	parésie partielle des cordes vocales gauches
+T31	procedure 3128 3139	fibroscopie
+T32	procedure 3248 3284	scintigraphie au technétium (99mTc)-
+T33	procedure 3301 3370	TEMP/TDM (to­mographie par émission monophotonique/tomodensitométrie)
+T34	disorder 3434 3461	hyperparathyroïdie primaire
+T35	disorder 3668 3690	adénome parathyroïdien
+T36	irrelevant 3702 3860	Figure 3: Fusion TEMP/TDM au99mTc-sestamibi (A ) et TDM coronaire (B ) avec représentation de l’hématome (flèche) et de l’adénome parathyroïdien hémorragique.
+T37	disorder 3950 3972	événement hémorragique
+T38	disorder 4012 4038	parésie des cordes vocales
+T39	disorder 4100 4110	hémorragie
+T40	procedure 4229 4247	hémithyroïdectomie
+T41	procedure 4262 4280	parathyroïdectomie
+T42	disorder 4540 4562	adénome parathyroïdien
+T43	disorder 4568 4583	hématome étendu
+T44	disorder 4589 4600	hémorragies
+T45	disorder 4624 4644	nécroses tissulaires
+T46	disorder 4661 4669	hématome
+T47	disorder 4879 4903	carcinome parathyroïdien
+T48	procedure 4963 4981	parathormone (PTH)
+T49	irrelevant 5079 5125;5126 5198;5199 5265;5266 5295	Tableau 2: Valeurs du calcium au fil du temps. Valeur	Jour 1	Jour 2	OP	Intra-op.	1erjour post-op.	3 mois post-op.	Unité Calcémie corrigée par l’albumine	2,89	2,85	2,73	 	2,31	2,45	mmol/l PTH	 	 	143	20	6,2	42,4	pg/ml
+T50	disorder 5392 5409	hypoparathyroïdie
+T51	procedure 5550 5553	PTH
+T52	procedure 5560 5567	calcium

@@ -1,0 +1,68 @@
+Contexte
+
+Le syndrome de Charles Bonnet englobe divers phénomènes visuels, qui surviennent chez des personnes ayant une acuité visuelle fortement réduite et peuvent avoir une influence négative sur la qualité de vie. Nous rapportons le cas d’un homme de 81 ans ayant une dégénérescence maculaire préexistante et présentant des illusions visuelles de survenue nouvelle.
+
+Présentation du cas
+Anamnèse
+
+Un homme de 81 ans nous a été adressé en urgence en raison de troubles visuels de survenue nouvelle. Il a décrit des figures pentagonales à hexagonales reliées de façon réticulaire, qu’il perçoit à différents endroits du champ visuel des deux yeux. Les figures apparaissent avant tout lorsqu’il regarde de façon détendue des surfaces blanches et sont de couleur noire. Elles bougent avec le regard du patient et se fondent en partie avec le reste de l’image (fig. 1).
+
+Figure 1: Motifs hexagonaux réticulaires, qui se superposent sur une image de fond noire et blanche (dessin réalisé par le patient). La réticulation rouge des formes géométriques est vue en noir par le patient, qui a de ce fait du mal à la ­distinguer de l’image de fond. Autres structures angulaires ­d’agencement circulaire décrites et dessinées par le patient (en bas à droite).
+
+Par ailleurs, durant sa promenade du matin, le patient a vu apparaître un buisson vert en fleur, qui n’a ensuite plus quitté son champ visuel.
+
+Le patient s’est ensuite rendu chez son ophtalmologue, qui le suivait régulièrement pour une dégénérescence maculaire bilatérale sévère. La situation ophtalmo­logique était inchangée par rapport aux examens antérieurs. Au service des urgences, en plus des troubles ­visuels, le patient a également signalé une sensation de vertige diffus et une sensation de pression holocrânienne.
+
+L’acuité visuelle du patient est fortement réduite en raison de la dégénérescence maculaire: il est ressorti de l’anamnèse que le patient a une acuité visuelle de 0,5 du côté droit et qu’il est presque aveugle du côté gauche. Parmi ses antécédents médicaux figurent un asthme bronchique de longue date et une coxarthrose du côté droit. Ses traitements au long cours incluent du budésonide/formotérol et du sulfate de chondroïtine.
+
+Statut et résultats
+
+A l’admission du patient, les paramètres vitaux étaient normaux et l’examen clinique était sans particularité. A l’exception de la vision réduite connue, l’examen neurologique détaillé était normal. De même, il n’y avait aucune anomalie sur le plan neuropsycho­logique. A son arrivée, le patient était totalement conscient et calme, il a restitué correctement l’anamnèse et il avait parfaitement conscience de la ­nature illusoire des phénomènes.
+
+Les analyses de laboratoire n’ont révélé aucun état ­inflammatoire, aucune anémie, aucun dysfonctionnement thyroïdien, aucune anomalie glycémique et aucun trouble électrolytique.
+
+Au service des urgences, nous avons exclu une hémorragie intracrânienne au moyen d’une tomodensitométrie cérébrale sans produit de contraste. L’imagerie par résonance magnétique (IRM) cérébrale réalisée le lendemain était normale, ne révélant en particulier aucun signe d’ischémie récente.
+
+Diagnostic et traitement
+
+Le syndrome de Charles Bonnet représente l’explication la plus plausible des illusions visuelles et des ­persévérations visuelles dans le cadre d’une baisse de vision préexistante. Les principaux diagnostics différentiels peuvent être exclus: l’imagerie n’a livré aucun indice évocateur d’une ischémie cérébrale au niveau du cortex visuel, du tronc cérébral et du thalamus. La sémiologie ne concordait pas avec une genèse épileptogène (les crises occipitales se manifestent typiquement par des motifs stéréotypés, mobiles et le plus souvent colorés survenant par crises de quelques secondes). Enfin, l’évolution temporelle et les persévérations visuelles ne sont pas typiques d’une aura visuelle dans le cadre d’une migraine. En outre, l’examen psychopathologique était normal et n’a livré aucun indice en faveur d’un trouble délirant.
+
+Nous avons initié une tentative de traitement par quétiapine à faible dose (12,5 mg), suite à quoi les phénomènes visuels ont cessé. Le traitement a en revanche entraîné des effets indésirables, notamment une sédation et des troubles de l’équilibre, qui étaient inacceptables et ne permettaient pas une poursuite du traitement au long cours. Nous avons dès lors délaissé la quétiapine au profit du clonazépam (0,5 mg deux fois par jour); avec ce traitement, les illusions et persévérations ne sont plus survenues et les effets indésirables étaient nettement moins prononcés. Au cours des quatre semaines suivantes, le traitement a pu être interrompu en deux étapes. Par la suite, le patient percevait à nouveau des lignes de quadrillage isolées, qui ne le gênaient cependant plus.
+
+Discussion
+
+Le syndrome de Charles Bonnet correspond à des illusions visuelles chez des patients éveillés ayant une acuité visuelle réduite ou une perte de champ visuel et n’ayant pas de maladie psychiatrique sous-jacente [1, 2].
+
+Charles Bonnet était un naturaliste, philosophe et avocat genevois du 18e siècle, qui a décrit pour la première fois ce complexe de symptômes en 1760 [3]. On lui ­attribue la découverte de la reproduction asexuée ­(parthénogenèse). Le syndrome de Charles Bonnet est ­probablement plus fréquent qu’on ne le suppose généralement, car les patients redoutent un diagnostic psychiatrique et ne signalent pas les symptômes [4].
+
+Sur le physiopathologique, il existe une forte association du syndrome de Charles Bonnet avec une diminution de l’acuité visuelle, par exemple dans le cadre d’une dégénérescence maculaire, d’un glaucome, d’une rétinopathie diabétique ou d’accidents vasculaires cérébraux. Fftyche et al. ont montré au moyen de l’IRM fonctionnelle que divers types d’illusions visuelles étaient corrélés à des régions spécifiques du cerveau [5]. D’après une théorie largement acceptée, un déficit d’afférences dans le cortex visuel dû à une perte de ­vision provoque une hyperexcitabilité des neurones du cortex visuel [6, 7]. L’hyperexcitabilité due à une désafférentation ou une dénervation est d’ailleurs un phénomène également connu en dehors du système visuel [8], se manifestant par exemple sous forme de douleurs neuropathiques après des amputations ou des ­lésions nerveuses ou sous forme d’acouphènes en cas de perte auditive. En outre, une activité spontanée augmentée suite à une perte d’afférences a également été rapportée. Ainsi, des décharges neuronales spontanées ont pu être mesurées dans des zones cérébrales totalement isolées sur le plan neuronal, ainsi qu’in ­vitro [6]. On ne sait pas avec certitude dans quelle mesure une activité spontanée pathologique est effectivement impliquée dans le syndrome de Charles Bonnet. Une autre théorie part du principe que des troubles à n’importe quel niveau du système visuel peuvent être à l’origine de désinhibitions dans le cortex visuel. Les phénomènes visuels ne seraient ainsi pas nécessairement causés par un trouble oculaire [7].
+
+Les phénomènes visuels peuvent prendre des formes particulièrement variées allant de figures géométriques simples statiques jusqu’à des formes humanoïdes et animées complexes. Ils sont typiquement renforcés lorsque le patient regarde un fond blanc et disparaissent lorsque le patient ferme les yeux. Les patients reconnaissent presque toujours que le contenu des illusions est irréel, contrairement aux hallucinations (voir ci-dessous).
+
+Concernant le diagnostic différentiel, il convient d’exclure une pathologie rétinienne au moyen d’un examen ophtalmologique. Les lésions rétiniennes sont souvent monoculaires et produisent des phénomènes statiques simples, qui ne durent que quelques secondes.
+
+L’aura migraineuse peut provoquer des phénomènes visuels, qui se limitent normalement à une moitié du champ visuel, sont associés à d’autres symptômes de la migraine (céphalées unilatérales, nausées et vomissements, phonophobie ou photophobie) et durent typiquement 30 à 60 minutes. La sémiologie des auras ­visuelles de la migraine englobe avant tout des motifs linéaires ou géométriques (cercle dentelé, spectre de fortification) et des scotomes scintillants (fig. 2).
+
+Figure 2: Aura visuelle typique en cas de migraine, ­constituée d’un spectre de fortification avec un scotome ­central (© Rolf Erlebach).
+
+Les phénomènes visuels épileptiques se distinguent par la survenue strictement stéréotypée de figures ­colorées souvent circulaires, qui bougent rapidement dans le champ visuel et ne durent que quelques secondes (fig. 3).
+
+Figure 3: Figures colorées circulaires, telles qu’elles surviennent en cas d’hallucinations visuelles épileptiques (© Rolf Erlebach).
+
+Parmi les maladies neurodégénératives, c’est avant tout la démence à corps de Lewy qui, tôt dans l’évolution de la maladie, est associée à des hallucinations ­visuelles prononcées. Les patients voient typiquement des images complexes de personnes ou d’animaux, qui durent de quelques secondes à quelques minutes et qui sont considérées à tort comme réelles. Un autre diagnostic différentiel neurologique rare est l’hallucinose pédonculaire dans le cadre de lésions vasculaires au ­niveau du tronc cérébral supérieur et du thalamus. Ces hallucinations sont typiquement particulièrement riches: avec des figures, des animaux, des paysages, et parfois dans des proportions déformées (par ex. ­visages). Outre des contenus visuels, elles peuvent également présenter des contenus sonores et tactiles.
+
+D’autres diagnostics différentiels sont les intoxications aiguës et l’état confusionnel aigu, qui s’accompagnent souvent d’un trouble quantitatif de la conscience. Parmi les médicaments, ce sont par exemple des doses élevées de glucocorticoïdes ou de digoxine qui provoquent des hallucinations visuelles. Les maladies ­psychiatriques, en revanche, ne provoquent guère d’hallucinations visuelles isolées.
+
+La démarche thérapeutique s’inspire de séries de cas. Il existe de faibles preuves en faveur de l’utilisation ­d’antipsychotiques (par ex. olanzapine, quétiapine), d’inhibiteurs de la cholinestérase (par ex. donépézil), d’inhibiteurs de la recapture de la sérotonine (par ex. escitalopram) et d’antiépileptiques (par ex. carbamazépine, clonazépam, valproate). Certains patients parviennent à supprimer les illusions en clignant des yeux ou en faisant des mouvements oculaires rapides. En raison des données insuffisantes disponibles, une ­démarche individuelle est dès lors recommandée, notamment parce que tous les patients ne se sentent pas gênés par les illusions et que certains parviennent à s’en distancier. Les patients sont généralement rassurés lorsqu’ils savent qu’il ne s’agit pas d’une maladie neurodégénérative.
+
+L’essentiel pour la pratique
+
+• Le syndrome de Charles Bonnet englobe des phénomènes visuels qui peuvent survenir chez des patients ayant une acuité visuelle réduite.
+
+• Les phénomènes visuels peuvent consister en des figures simples ou complexes, ils surviennent de façon répétée et ils sont souvent renforcés lorsque le patient regarde un mur blanc. Les persévérations visuelles sont très typiques.
+
+• Le diagnostic peut être posé chez les patients ayant une acuité visuelle réduite préexistante, qui sont au demeurant dans un état de conscience normal et ne présentent pas d’anomalies neurologiques.
+
+• Il est recommandé de réaliser un examen ophtalmologique pour exclure une pathologie rétinienne et un examen d’imagerie cérébrale pour exclure une ischémie.
+
+• Il est primordial d’informer le patient et son entourage sur la maladie et son pronostic afin d’éviter un traitement excessif et une méconnaissance de ce phénomène.

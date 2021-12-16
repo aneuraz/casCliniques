@@ -1,0 +1,42 @@
+Contexte
+
+Lorsque les patients décrivent un accident de sport avec des douleurs de type «coup de fouet» dans la région du pied, de nombreux médecins pensent à une rupture du tendon d’Achille. Compte tenu de la description pathognomonique et de l’incapacité du patient à se tenir sur une jambe ou sur les orteils en cas de rupture complète, la suspicion initiale se révèle souvent être exacte. Malgré tout, d’autres lésions peuvent également être interprétées à tort comme étant une rupture du tendon d’Achille.
+
+Présentation du cas
+Anamnèse
+
+Un patient (IMC 25,2 kg/m2) de 29 ans jusqu’alors en bonne santé a ressenti une douleur soudaine de type «coup de fouet» dans la jambe gauche durant un triathlon alors qu’il franchissait la ligne d’arrivée. Par la suite, le patient ne pouvait plus prendre appui sur son pied gauche en raison des douleurs. Lors d’une évaluation qui a eu lieu le même jour dans un hôpital central, des douleurs persistantes à la dorsiflexion du pied ainsi que des douleurs à la pression au niveau de la partie antéro-­médiale du calcanéus ont été constatées. Les tissus mous environnants, y compris le tendon d’Achille, ne présentaient pas d’anomalies, avec une circulation périphérique, une motricité et une sensibilité intactes. Une radiographie conventionnelle a permis d’exclure une fracture (defatigue), mais a néanmoins révélé une épine calcanéenne (fig. 1). En conséquence, un traitement analgésique conservateur a été prescrit en raison d’un diagnostic de suspicion initial d’épine calcanéenne traumatique.
+
+Figure 1: Radiographie du calcanéus gauche latéral (incidence latérale). Epine calcanéenne plantaire (flèche) sans signe de lésions osseuses en incidence AP. Anomalie accessoire: os tibial externe.
+
+Diagnostic
+
+Face à une limitation fonctionnelle et à des douleurs persistantes, le patient s’est représenté spontanément après quatre jours et un examen d’imagerie par résonance magnétique (IRM) a été réalisé. L’examen a montré un tendon d’Achille intact, sans signe de fracture de fatigue. Il a néanmoins révélé une rupture de la bande principale du fascia plantaire avec rétraction et hématome environnant, ainsi qu’une contusion osseuse («bone bruise») au niveau de l’insertion sur le calcanéus plantaire (fig. 2). Après évaluation par un chirurgien du pied, un traitement anti-inflammatoire local et une physiothérapie (thérapie par ondes de choc focalisées et électrothérapie [1]) ont été initiés en plus du traitement analgésique. En outre, un net raccourcissement des muscles du mollet et une voûte plantaire normale ont été documentés.
+
+Figure 2: IRM natif du pied gauche, (A ) coupe axiale, (B ) coupe coronale, (C ) coupe sagittale. Rupture de la bande principale du fascia plantaire (flèche) avec rétraction et hématome ­environnant (y compris «bone bruise») au niveau de l’insertion sur le calcanéus plantaire. Pas d’autres lésions traumatiques.
+
+Traitement et évolution
+
+Moyennant un ménagement et l’utilisation de béquilles pendant deux semaines, une amélioration considérable des douleurs a été obtenue. Après six semaines, le patient pouvait à nouveau marcher sans douleurs sur de longues distances en portant des semelles avec rembourrage souple au niveau du talon. Une représentation de l’anatomie normale est présentée à la figure 3.
+
+Figure 3: IRM natif du pied droit, (A ) coupe sagittale, (B ) coupe coronale. Anatomie normale du fascia plantaire (flèches). Au niveau de la partie supérieure de la cheville, détection fortuite d’un léger œdème des tissus mous. Pas d’autres lésions traumatiques.
+
+Discussion
+
+Le fascia plantaire transmet la force pour la flexion du pied (jusqu’à dix fois le poids corporel) en partant du calcanéus et en passant par une plaque tendineuse en forme de V avec cinq bandes longitudinales et transversales, qui s’insèrent sur la tête métatarsienne et les capsules articulaires des articulations de la base des orteils. Les ruptures de l’aponévrose plantaire sont très rares, mais il n’existe pas de données précises quant à leur incidence et prévalence. Une fréquence accrue a été décrite dans des populations de patients spécifiques et pour certains sports, comme par exemple chez les athlètes d’élite (par exemple membres du cadre national) et pour les sports de balle [2].
+
+Un gonflement plantaire médial et une ecchymose peuvent être observés à l’examen clinique [3, 4]. L’échographie est un examen adéquat pour diagnostiquer une rupture [4]. Afin de visualiser des lésions osseuses concomitantes ou une épine calcanéenne, une radiographie conventionnelle peut être réalisée. Un IRM est néanmoins nécessaire pour documenter de petites fractures, un «bone bruise» ou des blessures ligamentaires. Tandis que l’échographie au chevet du patient est de plus en plus utilisée dans la pratique clinique quotidienne, les études disponibles sont insuffisantes pour attester de la supériorité univoque d’une méthode en particulier. Le choix de la méthode dépend également des ressources disponibles [4].
+
+La rupture peut être partielle ou complète; dans la plupart des cas, il s’agit (comme dans ce cas) d’une fissure proximale au niveau de l’insertion sur le calcanéus [5, 6]. En cas de douleurs de survenue soudaine dans la région du pied, il convient de distinguer une rupture du tendon d’Achille, une fracture (de fatigue), des maladies inflammatoires aiguës (par exemple arthrite inflammatoire) et le «painful heel pad syndrome».
+
+Par ailleurs, la rupture de l’aponévrose plantaire est une complication de la fasciite plantaire, souvent en cas d’épine calcanéenne concomitante. L’étiologie de la fasciite plantaire n’est pas encore totalement comprise et elle est probablement multifactorielle [7]. Les facteurs de risque potentiels incluent le surpoids, les activités im­pliquant une station debout prolongée et les pieds plats. En raison d’une incidence accrue chez les coureurs, il est admis que des microtraumatismes répétitifs jouent un rôle. Dans de rares cas, une maladie systémique comme la sarcoïdose ou la spondylarthrite peut également en être à l’origine. L’injection de corticostéroïdes a été mise en avant en tant qu’option thérapeutique pour la fasciite plantaire, mais un lien avec une tendance accrue aux ruptures de l’aponévrose plantaire est néanmoins suspecté. Malheureusement, il n’existe que très peu d’études de qualité dans ce domaine [6]. Des preuves solides sont uniquement disponibles quant au lien entre la survenue de lésions tendineuses et la prise de certains antibiotiques (par exemple fluoroquinolones) [7].
+
+L’essentiel pour la pratique
+
+• En cas de douleurs soudaines non traumatiques au niveau du pied, outre une rupture du tendon d’Achille, une rupture de l’aponévrose plantaire et une fracture (de fatigue) sont également possibles.
+
+• En plus de l’examen clinique, une anamnèse minutieuse est essentielle pour la pose du diagnostic: interroger le patient quant à la présence de maladies systémiques et à la prise d’antibiotiques ou de corticostéroïdes.
+
+• Mesures d’imagerie: radiographie, échographie, IRM, en fonction du déroulement, de la sévérité de la lésion et du traitement visé.
+
+• Le traitement de la rupture de l’aponévrose plantaire repose sur le ménagement, les anti-inflammatoires non stéroïdiens, la physiothérapie et, dans les cas sévères, la chirurgie.

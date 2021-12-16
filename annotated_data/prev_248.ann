@@ -1,0 +1,9 @@
+T1	disorder 57 76	chute d'un escabeau
+T2	disorder 78 216	Atteinte modérément douloureuse du poignet droit "flexion, extension, adduction, abduction et rotation possibles, tout en étant sensibles"
+T3	procedure 218 230	Radiographie
+T4	labvalue 233 347	absence de lésions osseuses, diastasis scapholunien sur le cliché dynamique, en faveur d'une atteinte ligamentaire
+T5	procedure 364 414	immobilisation du poignet par bande de contention 
+T6	drugs 416 420	AINS
+T7	procedure 423 428	repos
+T8	disorder 441 476	 persistance de la gêne douloureuse
+T9	procedure 560 622	préconisent une intervention pour éviter l'arthrose du poignet

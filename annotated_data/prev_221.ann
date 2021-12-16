@@ -1,0 +1,80 @@
+T1	procedure 117 170	hystérectomie totale inter-annexielle par laparotomie
+T2	profession 218 238	gynéco-obstétricien 
+T3	disorder 247 258	ménorragies
+T4	disorder 281 296	 fibrome utérin
+T5	disorder 324 335	hémorragies
+T6	disorder 362 368	anémie
+T7	profession 391 410	gynéco-obstétricien
+T8	procedure 440 453	hystérectomie
+T9	procedure 515 543	consultation préanesthésique
+T10	procedure 598 641	recherche d'agglutinines irrégulières (RAI)
+T11	labvalue 700 707	négatif
+T12	procedure 680 694	groupe sanguin
+T13	labvalue 695 707	A Rh négatif
+T14	labvalue 739 747	négatif 
+T15	labvalue 778 785	positif
+T16	procedure 856 868	prélèvement 
+T17	profession 902 914	anesthésiste
+T18	procedure 993 1006	hystérectomie
+T19	procedure 1236 1269	visite anesthésique préopératoire
+T20	procedure 1382 1401	anesthésie générale
+T21	procedure 1417 1438	anesthésie péridurale
+T22	profession 1488 1500	anesthésiste
+T23	profession 1763 1773	chirurgien
+T24	procedure 1807 1809	PA
+T25	labvalue 1812 1823	100/60 mmHg
+T26	procedure 1825 1837	température 
+T27	labvalue 1839 1846	37,4 °C
+T28	disorder 1906 1914	nausées 
+T29	disorder 1921 1933	vomissements
+T30	disorder 1946 1958	 tachycardie
+T31	labvalue 1961 1968	125/min
+T32	profession 2010 2020	chirurgien
+T33	profession 2030 2040	infirmière
+T34	profession 2279 2289	chirurgien
+T35	profession 2428 2441	anesthésiste 
+T36	profession 2532 2544	anesthésiste
+T37	profession 2602 2613	infirmières
+T38	profession 2656 2668	anesthésiste
+T39	profession 2781 2793	anesthésiste
+T40	drugs 2887 2893	Lomol®
+T41	profession 3060 3092	médecin anesthésiste-réanimateur
+T42	procedure 3132 3176	visites anesthésiques pré et postopératoires
+T43	procedure 3298 3301	NFS
+T44	procedure 3313 3315	Hb
+T45	labvalue 3318 3332	10,6 g/100 mL 
+T46	procedure 3339 3350	leucocytose
+T47	labvalue 3352 3363	 30 000/mm3
+T48	procedure 3436 3439	NFS
+T49	procedure 3447 3458	hémoculture
+T50	procedure 3924 3927	NFS
+T51	procedure 4069 4078	taux d'Hb
+T52	labvalue 4095 4109	 6,60 g/100 mL
+T53	profession 4114 4124	chirurgien
+T54	profession 4219 4230	infirmières
+T55	profession 4257 4269	anesthésiste
+T56	drugs 4554 4562	Voluven®
+T57	profession 4622 4634	anesthésiste
+T58	profession 4720 4730	infirmière
+T59	profession 4858 4877	chirurgien viscéral
+T60	anatomy 4991 5015	artère cervicale utérine
+T61	profession 5554 5567	anesthésiste 
+T62	drugs 5868 5876	Dextran®
+T63	drugs 5846 5854	Voluven®
+T64	profession 6035 6047	anesthésiste
+T65	labvalue 5982 5989	132/min
+T66	procedure 5953 5972	fréquence cardiaque
+T67	labvalue 5973 5979	élevée
+T68	profession 6158 6167	nfirmière
+T69	profession 6263 6275	anesthésiste
+T70	drugs 6312 6322	Naropéine®
+T71	profession 6444 6463	chirurgien viscéral
+T72	profession 6425 6437	anesthésiste
+T73	drugs 6572 6582	adrénaline
+T74	procedure 6537 6554	massage cardiaque
+T75	procedure 6560 6569	perfusion
+T76	profession 6772 6784	anesthésiste
+T77	labvalue 7217 7231	80 et 100 mmHg
+T78	procedure 7199 7201	PA
+T79	disorder 7431 7447	arrêt cardiaque 
+T80	procedure 7580 7588	autopsie

@@ -1,0 +1,97 @@
+Contexte
+
+La diarrhée aiguë chez le nourrisson constitue un ­motif fréquent de consultation aux urgences. Avec cet exemple de cas, nous souhaitons cependant nous pencher plus en détails sur la recherche de la cause en cas de diarrhée prolongée, notamment lorsque les examens diagnostiques de routine se révèlent normaux.
+
+Présentation du cas
+Anamnèse
+
+Une fillette âgée de six semaines, née à terme et sous allaitement maternel exclusif (semaine de grossesse 41 4/7, poids de naissance 3205 g [percentiles (P) 10–25], taille à la naissance 50 cm [P10–25], périmètre crânien 33 cm [P3–10]) est amenée dans un hôpital périphérique en raison de vomissements et de diarrhées aqueuses présents depuis deux jours. Elle présentait une perte de poids de >6% par rapport au contrôle réalisé à l’âge d’1 mois (poids actuel 3720 g [P3–10], poids lors du contrôle réalisé à l’âge d’1 mois 3920 g [P10–25]). L’anamnèse de l’entourage était négative pour une gastroentérite aiguë. Le développement prénatal et le développement au cours du premier mois de vie étaient sans particularités. L’examen des selles à la recherche de virus était négatif, et les valeurs hépatiques et l’albumine étaient normales. Sous traitement de soutien exclusif, une diarrhée sévère a persisté (6–10 selles aqueuses par jour), si bien que la fillette a été transférée à l’hôpital central après une semaine pour des investigations complémentaires et la suite de la prise en charge.
+
+Manifestations cliniques
+
+A son admission, la fillette présentait un état général diminué compensé (poids 3500 g, pouls 163/min, fréquence respiratoire 40/min, pression artérielle 86/69 mm Hg, absence de fièvre). L’examen clinique n’orientait pas le diagnostic. La coloration de la peau était pâle, et il n’y avait ni efflorescences cutanées ni œdèmes. Malgré des extrémités froides, le remplissage capillaire était rapide. La fontanelle était légèrement déprimée, les muqueuses buccales étaient hydratées. Il n’y avait pas de signes de dysmorphie. Les bruits intestinaux étaient vifs, l’abdomen était souple et indolore, et il n’y avait pas d’hépatosplénomégalie.
+
+Les analyses de laboratoire réalisées à l’admission ont montré une hypoalbuminémie sévère de 13 g/l (norme: 38–54 g/l), des valeurs hépatiques et rénales normales (aspartate aminotransférase [ASAT] 350 nmol/l [norme: <583 nmol/l], alanine aminotransférase [ALAT] 467 nmol/l [norme: <583 nmol/l], INR 1,3 [norme: 0,7–1,4], créatinine 20 μmol/l [norme: <34 μmol/l], urée 1,6 mmol/l [norme: 1,4–5,0 mmol/l]), une protéinurie normale, ainsi qu’une leucocytose (18,9 G/l [norme: 3–15 G/l]) avec neutrophilie (11,3 G/l [norme: 1,5–10 G/l]), une valeur d’hémoglobine de 98 g/l (norme: 95–150 g/l), une valeur d’hématocrite de 0,28 (norme: 0,28–0,45) et une valeur de thrombocytes de 347 G/l (norme: 150–450 G/l).
+
+Evolution
+
+Compte tenu de la diarrhée très aqueuse, une sonde urinaire a été posée afin de mieux faire la distinction entre les émissions de selles et les émissions d’urine. En raison des pertes intestinales élevées (690 ml/ 24 heures) sous allaitement maternel, la première étape diagnostique a consisté à maintenir la fillette à jeun durant 24 heures et à la placer sous nutrition parentérale totale afin de pouvoir faire la distinction entre une diarrhée sécrétoire et une diarrhée osmotique. Sous jeûne total, les émissions de selles étaient quelque peu réduites, de l’ordre de 330 ml/24 heures, mais toujours significatives. Etant donné qu’il s’agissait d’une diarrhée non sanglante avec une forte composante sécrétoire, nous avons en premier lieu songé à un processus infectieux, mais aucun germe n’a pu être mis en évidence. Par conséquent, nous avons étendu le diagnostic étiologique conformément à la publication de Thiagarajah et al. [5] (tab. 1), sans qu’aucune cause de la diarrhée ne parvienne à être identifiée.
+
+Dans le cadre de la pose d’un cathéter veineux central pour la nutrition parentérale (partielle), nous en avons profité pour réaliser une endoscopie lors de la même anesthésie.
+
+Un séquençage du génome entier a été envisagé afin de détecter une éventuelle mutation génétique causale, mais il a finalement été décidé d’y renoncer après la ­réception des résultats de l’endoscopie.
+
+Diagnostics différentiels et examens (tab. 1)
+Tableau 1: Examens réalisés chez notre patiente, tels qu’ils sont préconisés dans la publication de Thiagarajah et al. [5] en cas de diarrhée chronique chez le nourrisson, avec documentation des principaux résultats.
+Diagnostics différentiels	Examens/résultats (valeurs normales/plage de référence)
+Infection	 
+Norovirus, adénovirus, rotavirus, entérovirus	Coprocultures négatives
+Salmonelles, shigelles, Campylobacter, ­Clostridium difficile	Coprocultures négatives
+Cytomégalovirus (CMV)	1er échantillon (15e jour de maladie): culture courte et détection d’antigènes dans l’urine négatives
+2e échantillon (25e jour de maladie): culture courte et détection d’antigènes ­positives, PCR dans l’urine 15 500 copies/ml, PCR dans le sang 144 000 copies/ml
+Intolérance/allergie alimentaire	 
+Déficit congénital en sucrase-isomaltase	Improbable, car diarrhée persistante sous jeûne
+Syndrome d’entérocolite induite par les ­protéines alimentaires (SEIPA)	Improbable, car diarrhée persistante sous jeûne et sous lait infantile à base d’acides aminés, IgE totales 165,6 μg/l (<168 μg/l)
+Immunodéficience	 
+Virus de l’immunodéficience humaine (VIH)	Sérologie négative
+Déficit immunitaire combiné sévère (DICS), agammaglobulinémie	Numération normale des neutrophiles 6,9 G/l (1,5–10 G/l) et lymphocytes 4,4 G/l (3,4–7,6 G/l)
+Valeurs normales d’immunoglobulines (Ig)G 3,18 g/l (2,32–14,11 g/l), d’IgA 0,62 g/l (<0,83 g/l) et d’IgM 0,11 g/l (<0,24 g/l)
+Test de Guthrie (DICS et lymphopénie T sévère) sans particularités
+Granulomatose septique	Résultat normal au test au nitrobleu de tétrazolium
+Syndrome de dérèglement immunitaire – polyendocrinopathie - entéropathie lié à l’X (IPEX), déficit en ADAM17	Pas de signes cliniques, car pas d’anomalies de la peau ou de la pilosité, pas de troubles endocrinologiques
+Altérations structurelles des entérocytes et défauts des transporteurs	 
+Maladie des inclusions microvillositaires	Morphologie des entérocytes normale à la microscopie électronique, pas de microvillosités internalisées, pas de trouble des microvillosités à la surface des entérocytes
+Dysplasie épithéliale intestinale (­entéropathie en touffes)	Morphologie des entérocytes normale à la microscopie électronique; pas d’amas typiques d’entérocytes (touffes)
+Diarrhée chlorée ou sodée congénitale	Electrolytes fécaux (chlorure [Cl] 93 mmol/l (<90 mmol/l), sodium [Na] 122 mmol/l, potassium [K] 10 mmol/l [normal: Cl<Na+K]) et électrolytes ­sanguins sans particularités, pas d’alcalose comme en cas de diarrhée chlorée
+Malabsorption du glucose et du galactose	Improbable, car diarrhée persistante sous jeûne
+Autres	 
+Lymphangiectasie intestinale (primaire/secondaire)	IgG 3,18 g/l (2,32–14,11 g/l)
+Valeur normale de lymphocytes 4,4 G/l (3,4–7,6 G/l)
+Pas de mise en évidence de vaisseaux lymphatiques dilatés à l’histologie
+Tumeur neuroendocrine	Enolase neurone-spécifique dans le sérum 31,5 μg/l (<17,0 μg/l) (pas significativement augmentée pour correspondre à une tumeur neuroendocrine)
+Peptide vasoactif intestinal 31,5 ng/l (<99 ng/l)
+Dopamine dans l’urine 721 nmol/mmolCr (<2200 nmol/mmolCr)
+Adrénaline <1 nmol/mmolCr (<45 nmol/mmolCr)
+Noradrénaline 108 nmol/mmolCr (<280 nmol/mmolCr)
+
+Sur le plan macroscopique, l’œsophagogastroduodénoscopie et la rectosigmoïdoscopie n’ont pas révélé d’anomalies, à l’exception d’une hyperémie non spécifique. L’examen histologique a montré une gastrite chronique active modérée, une atrophie des villosités de l’intestin grêle et une colite sévère avec formation d’abcès cryptiques. A la coloration à l’hématoxyline et à l’éosine et au test immunohistochimique de détection d’antigènes, des cellules positives pour le cytomégalovirus (CMV) ont été retrouvées dans l’estomac ainsi que dans le côlon (fig. 1–3). A l’examen au microscope électronique, les entérocytes présentaient une morphologie normale.
+
+Figure 1: Examen histologique de la biopsie gastrique révélant une gastrite chronique et des altérations cytopathologiques virales d’une cellule épithéliale, avec inclusion intranucléaire éosinophile (flèche), compatibles avec une infection à cytomégalovirus (coloration à l’hématoxyline et à l’éosine [HE]; grossissement 200×).
+
+Figure 2: Examen histologique de la biopsie colique avec infiltrats cellulaires inflammatoires, principalement composés de granulocytes neutrophiles, de plasmocytes et de lymphocytes (coloration à l’hématoxyline et à l’éosine [HE]; grossissement original 200×). Insert: altérations cytoplasmiques virales de cellules endothéliales et de cellules épithéliales, avec inclusions intranucléaires éosinophiles (flèche), compatibles avec une infection à cytomégalovirus.
+
+Figure 3: La coloration immunohistochimique de la muqueuse colique montre des cellules positives pour le cytomégalovirus (CMV; cellules brunes avec coloration immunohistochimique au moyen d’anticorps monoclonaux anti-CMV, grossissement 400×).
+
+Compte tenu de la mise en évidence de CMV à l’histologie, nous avons réalisé une nouvelle culture courte et une recherche d’antigènes de CMV dans l’urine, qui se sont désormais révélées positives. En outre, un test de réaction de polymérisation en chaîne (PCR) a permis de mettre en évidence le CMV dans le sang et l’urine. Afin de faire la distinction entre une infection à CMV congénitale et une infection à CMV postnatale, une recherche de CMV a été réalisée sur le sang séché de la carte utilisée pour le test de Guthrie, et elle a livré un résultat négatif.
+
+Diagnostic
+
+Le diagnostic d’entérocolite à CMV postnatale a été posé chez la fillette immunocompétente. Etant donné qu’elle était sous allaitement maternel exclusif, nous avons estimé que la source de transmission la plus probable était le lait maternel. En raison de l’absence de conséquences et pour éviter de culpabiliser la mère, nous n’avons pas réalisé de détermination de CMV dans le lait maternel.
+
+Evolution ultérieure
+
+Un traitement causal par ganciclovir intraveineux a été discuté. En raison des effets indésirables connus du ganciclovir avec un risque de myélosuppression et de néphrotoxicité pouvant aller jusqu’à l’insuffisance ­rénale, de la nécessité d’un traitement intraveineux de quatre à six semaines, de la lente récupération clinique spontanée avec baisse de la fréquence des selles et du besoin énergétique parentéral réduit, nous avons ­renoncé à un traitement causal et avons privilégié une attitude attentiste. Jusqu’à la sortie de la patiente, nous avons surveillé l’équilibre hydrique, avec au besoin détermination des électrolytes sériques, afin d’adapter en conséquence la nutrition parentérale et entérale.
+
+Après une durée d’hospitalisation de sept semaines au total, la fillette a pu rentrer chez elle dans un bon état général, avec une alimentation exclusivement entérale.
+
+Lors du contrôle de suivi réalisé dix jours plus tard chez la fillette alors âgée de cinq mois, elle avait déjà repris 300 g (poids 4,85 kg [<P3]) et les selles s’étaient normalisées (trois selles par jour, consistance granuleuse). L’albumine avait augmenté à 35 g/l. L’évolution ultérieure était normale; la fillette a présenté une bonne croissance et les bouillies puis la nourriture solide ont pu être introduites sans problème.
+
+Discussion
+
+Le cas décrit présente l’approche structurelle à adopter pour déterminer la cause en cas de diarrhée prolongée et il démontre clairement que même des nourrissons immunocompétents peuvent contracter une entérocolite à CMV sévère.
+
+Les prématurés et les nourrissons immunodéprimés sont particulièrement vulnérables à une infection à CMV postnatale. Les symptômes typiques sont alors un tableau clinique semblable à un sepsis, une hépatite, une pneumonie, une encéphalite et une entérocolite. Il était jusqu’alors admis que chez les enfants nés à terme et immunocompétents, une infection à CMV postnatale se déroulait de façon asymptomatique ou s’accompagnait uniquement de symptômes légers, tels que fièvre passagère, symptômes gastro-intestinaux (diarrhée, vomissements), hépatosplénomégalie, pneumonie légère ou modification de l’hémogramme (lymphocytose, lymphopénie, thrombocytose, thrombopénie) [3].
+
+Au cours des dix dernières années, plusieurs cas d’entérocolite à CMV ont néanmoins été décrits chez des nourrissons immunocompétents [1, 2, 4]. Sur le plan clinique, ces cas se sont manifestés par une diarrhée aqueuse ­sévère et souvent prolongée, comme c’était également le cas de notre patiente. Des diarrhées sanglantes ont aussi parfois été décrites. La durée des symptômes allait de quelques jours à 14 mois. L’âge moyen au moment de la présentation était de 2,5 mois (1,5–12 mois) [4]. La plupart des patients étaient allaités et le lait maternel a été considéré comme la source de transmission la plus probable [1, 2, 4]. Dans la plupart des cas, le diagnostic a pu être confirmé par mise en évidence du CMV à l’examen histologique. Comme chez notre patiente, la détermination initiale des antigènes de CMV dans l’urine était négative dans un autre cas [4].
+
+Parmi les cas de nourrissons décrits dans la littérature, neuf sur 13 ont été traités au moyen d’un traitement antiviral par ganciclovir [1, 2, 4], mais l’entérocolite à CMV a également guéri spontanément sans traitement causal chez les autres nourrissons [4]. L’état général des patients a le plus souvent été utilisé comme critère de décision pour l’instauration d’un traitement antiviral, un tel traitement ayant avant tout été initié chez les nourrissons présentant une évolution sévère et chez les nourrissons les plus jeunes (âge <3 mois).
+
+Nous avons également discuté l’indication d’un traitement par ganciclovir, mais avons décidé de ne pas initier de traitement causal malgré une charge virale ­détectable dans l’urine et dans le sérum en raison d’une amélioration clinique spontanée. Les avantages et les inconvénients d’un traitement antiviral doivent néanmoins être soupesés individuellement chez chaque ­patient. Plusieurs questions restent encore en suspens, notamment celles de savoir si un traitement virostatique oral pourrait constituer une option thérapeutique, s’il permettrait d’atteindre des concentrations locales de médicament plus élevées et si le taux d’effets indésirables s’en trouverait réduit [4]. En pédiatrie, les virostatiques oraux sont en effet déjà utilisés dans le cadre de la transplantation d’organes solides, à la fois à des fins prophylactiques et thérapeutiques.
+
+L’essentiel pour la pratique
+
+• Une entérocolite à cytomégalovirus (CMV) sévère est rare chez les nourrissons immunocompétents, mais des examens correspondants ­devraient néanmoins être réalisés en cas de diarrhée prolongée.
+
+• En cas de forte suspicion d’une infection à CMV, l’examen (examen ­immunohistologique d’un échantillon tissulaire ou examen PCR d’un échantillon sanguin/tissulaire) doit être répété.
+
+• Les bénéfices et les risques d’un traitement antiviral doivent être évalués au cas par cas.

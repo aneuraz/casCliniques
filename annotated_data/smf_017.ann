@@ -1,0 +1,61 @@
+T1	disorder 54 76	constipation chronique
+T2	disorder 129 160	abdomen aigu extrêmement gonflé
+T3	procedure 162 186	L’échographie abdominale
+T4	disorder 205 237	une dilatation massive du côlon 
+T5	disorder 310 337	forte détresse respiratoire
+T6	procedure 341 364	 gazométrie artérielle 
+T7	disorder 386 419	insuffisance respiratoire globale
+T8	disorder 442 471	 syndrome des loges abdominal
+T9	procedure 477 525	décompression d’urgence à l’aiguille percutanée 
+T10	procedure 589 608	’aspirer des selles
+T11	procedure 614 651	mesures d’évacuation par voie ­ectale
+T12	procedure 708 731	aparotomie exploratoire
+T13	procedure 783 834	anesthésie générale avec «Rapid Sequence Induction»
+T14	procedure 839 866	 laparotomie longitudinale 
+T15	procedure 883 908	’exploration de l’abdomen
+T16	disorder 930 955	ascite légèrement séreuse
+T17	disorder 961 1002	dilatation massive du côlon: un mégacôlon
+T18	procedure 1038 1079	décompression du côlon avec un aspirateur
+T19	procedure 1110 1131	une heure d’opération
+T20	procedure 1137 1161	aspiration de 15 litres 
+T21	procedure 1439 1484	Préparation de l’opération en péri-opératoire
+T22	disorder 1572 1622	côlon était très gonflé jusqu’au côlon transverse,
+T23	procedure 1642 1663	résection du sigmoïde
+T24	procedure 1689 1724	colostomie descendante est réalisée
+T25	procedure 1736 1760	une biopsie transmurale 
+T26	procedure 1826 1867	 a été intubé et placé en soins intensifs
+T27	procedure 1877 1888	être extubé
+T28	disorder 2149 2199	néoplasie endocrinienne multiple (NEM) de type IIb
+T29	procedure 2245 2262	un test génétique
+T30	labvalue 2313 2331	une mutation M918T
+T31	disorder 2398 2414	NEM de type IIb 
+T32	procedure 2482 2496	test génétique
+T33	procedure 2794 2809	 thyroïdectomie
+T34	procedure 2834 2857	confirmation génétique 
+T35	procedure 2873 2884	’histologie
+T36	disorder 2897 2945	carcinome médullaire thyroïdien de stade précoce
+T37	risk 2976 2994	habitus marfanoïde
+T38	disorder 3008 3034	tendance à la constipation
+T39	drugs 3114 3123	 laxatifs
+T40	drugs 3131 3140	lavements
+T41	procedure 3083 3094	traitée par
+T42	disorder 3167 3189	constipation chronique
+T43	disorder 3196 3207	météorisme 
+T44	disorder 3351 3363	flatulences 
+T45	disorder 3387 3413	fortes crampes abdominales
+T46	disorder 3531 3548	iléus paralytique
+T47	procedure 3566 3602	mesures thérapeutiques conservatives
+T48	procedure 3823 3832	prescrit 
+T49	drugs 3836 3844	laxatifs
+T50	disorder 4012 4024	abdomen aigu
+T51	procedure 4041 4050	opération
+T52	disorder 4057 4081	défaillance respiratoire
+T53	irrelevant 4084 4094;4096 5290;5292 5984	Discussion  La NEM de type II est une maladie rare de transmission autosomique dominante lors de laquelle le carcinome médullaire thyroïdien constitue l’affection dominante et la cause de décès la plus fréquente. La mutation de la lignée germinale en cause réside dans le gène RET, un proto-oncogène se trouvant sur le chromosome 10q11.2. Le gène code pour un récepteur de la tyrosine kinase. Sa transmission est autosomique dominante, ce qui signifie qu’une activation du récepteur se produit dès la mutation d’un allèle. Ce dernier, en temps qu’oncogène, entraîne une croissance de cellules tumorales à différents niveaux intermédiaires, et ainsi l’apparition de tumeurs malignes [1]. Il existe une corrélation génotype/phénotype avec des formes d’évolution plus ou moins agressives en fonction de la localisation exacte de la mutation sur le gène, ce qui peut également expliquer les différentes évolutions chez les patients. Outre la NEM, une mutation du gène RET se retrouve également chez 50% des personnes atteintes de la maladie d’Hirschsprung. Par ailleurs, 30% des ­patients atteints d’un carcinome papillaire thyroïdien présentent des translocations chromosomiques qui ­activent le gène RET [2].  Dans le cas de la NEM de type IIa, des mutations sous-jacentes entraînent inévitablement un carcinome ­médullaire thyroïdien, et 50% des personnes touchées souffrent de phéochromocytomes, tandis qu’environ un tiers présentent un hyperparathyroïdisme primaire [2]. Avec une prévalence de 1:500 000, la NEM de type IIb est nettement plus rare que le type IIa et se compose de névromes de la muqueuse, de phéochromocytomes et de carcinomes médullaires thyroïdiens. Environ 50% des personnes touchées présentent un tableau clinique complet, 40% présentent un carcinome médullaire thyroïdien et des névromes, tandis que les patients qui présentent névromes et phéochromocytomes sont peu nombreux. 
+T54	irrelevant 5984 6564;6566 7254	L’habitus marfanoïde est également typique [3]. Chez les parents de premier ­degré, un test génétique est recommandé chez le nourrisson. En règle générale, une thyroïdectomie prophylactique est réalisée après la pose du diagnostic. Le ­génotype correspondant doit toutefois être pris en compte pour décider du bon moment pour réaliser cette opération. Les premiers signes cliniques sont souvent les névromes sur les lèvres, la langue ou la muqueuse buccale. Les troubles de la motilité gastro-intestinale déclenchés par une ganglioneuromatose intestinale sont également fréquents.  Notre patient présente ainsi des manifestations typiques du syndrome de NEM IIb. Heureusement, aucun phéochromocytome n’a pour le moment été diagnostiqué, bien que la mutation sous-jacente laisse présager une évolution agressive de la maladie. Des contrôles de la métanéphrine et de la normétanéphrine plasmatiques sont effectués chaque année dans le cadre des examens de prévention par l’endocrinologue traitant. Avant les interventions chirurgicales, il convient en principe de toujours déterminer les catécholamines afin d’exclure un phéochromocytome. En raison de la sévérité des symptômes aigus avec défaillance respiratoire, seule une gazométrie artérielle a pu être réalisée avant 
+T55	irrelevant 7254 7289;7291 7319	l’opération chez notre patient [2].  Symptômes gastro-intestinaux
+T56	irrelevant 7321 8418	Deux tiers des patients atteints de NEM IIb souffrent d’un mégacôlon. D’après la littérature scientifique ­actuelle, la mise en évidence d’un mégacôlon devrait toujours faire envisager une NEM IIb [4]. Dans deux ­publications actuelles, tous les patients faisaient état des troubles digestifs; il s’agissait le plus souvent de constipation et de météorisme [4, 5]. Un traitement conservateur et des contrôles cliniques réguliers font, aujourd’hui déjà, partie du traitement standard de la NEM IIb. Il existe moins d’informations concernant les interventions chirurgicales et en particulier les opérations d’urgence en cas de NEM IIb. De manière générale, il convient si possible de privilégier une approche conservatrice plutôt que chirurgicale. Dans des travaux publiés en 2002, 4 patients sur 28 (soit 14,3%) ont nécessité une intervention chirurgicale; tous ont présenté un abdomen aigu en raison d’une perforation ou d’une obstruction par des ganglioneuromes ou un gros névrome intestinal. Tous les patients ont fait état d’améliorations des symptômes gastro-intestinaux après l’opération [4].
+T57	irrelevant 8378 8418;8420 9543	astro-intestinaux après l’opération [4].  Dans notre cas, l’analyse histologique a montré une ganglioneuromatose prononcée malgré une muqueuse intacte, en particulier au niveau du plexus submucosal et du plexus myentérique, avec une hypertrophie prononcée des nerfs mésentériques (fig. 4) comme cause des troubles chroniques de la motilité du côlon. L’appendice ainsi que la biopsie transmurale réalisée dans le côlon transversal étaient aussi touchés par la ganglioneuromatose. Un iléus avec abdomen aigu et nécessité d’intervention chirurgicale en raison de troubles de la motilité sans obstruction ni perforation est une complication très rare de la NEM de type IIb, pas encore décrite dans la littérature scientifique à notre connaissance. La ganglioneuromatose peut en principe survenir dans tout le tractus gastro-intestinal. L’hypertrophie des nerfs mésentériques entraîne un hypofonctionnement de la motilité intestinale et elle est ainsi responsable de la constipation chronique du patient [4]. Après un peu plus de 6 mois, la colostomie descendante a pu être retirée avec succès. Actuellement, le patient ne présente pratiquement plus aucune constipation.
+T58	irrelevant 9545 9797;9799 9827	Figure 4: Prolifération de cellules ganglionnaires, de cellules de Schwann et de cellules stromales périneurales dans le plexus myentérique (A), et plexus myentérique normal pour comparaison (B). Coloration: hématoxyline et éosine, grossissement: 100×.  L’essentiel pour la pratique
+T59	irrelevant 10009 10191;10193 10316;10318 10480	• Les symptômes gastro-intestinaux sont très fréquents en cas de NEM IIb. Le maintien d’un bon transit gastro-intestinal fait partie des éléments déterminants pour la qualité de vie.  • En cas de constipation résistante au traitement, une intervention chirurgicale élective pourrait améliorer les symptômes.  • Parmi les préparatifs préopératoires, il convient chez tous les patients atteints de NEM II de déterminer les catécholamines afin d’exclure un phéochromocytome.
+T60	irrelevant 9829 10007	• La cause de décès la plus fréquente de la néoplasie endocrinienne multiple (NEM) de type II est le carcinome médullaire thyroïdien. Les autres affections sont moins fréquentes.
+T61	irrelevant 10482 10596;10598 10805	• Les personnes atteintes de NEM II doivent impérativement être prises en charge par un endocrinologue spécialisé.  Les lignes directrices éthiques ont été respectées conformément à la déclaration d’Helsinki (version 2013). Toutes les personnes concernées ont consenti à la publication de toutes les images et informations.

@@ -1,0 +1,60 @@
+T1	disorder 107 130	des douleurs pulsatiles
+T2	anatomy 136 158	côté droit de la tête 
+T3	disorder 165 190	une impression de surdité
+T4	disorder 199 205	bruits
+T5	anatomy 208 238	au niveau de l’oreille droite.
+T6	profession 296 299	ORL
+T7	profession 242 264	Le médecin généraliste
+T8	procedure 307 345	bilan d’otalgie droite avec acouphènes
+T9	procedure 367 409	un traitement symptomatique vasodilatateur
+T10	labvalue 451 462	 3 semaines
+T11	disorder 561 596	dysfonctionnement tubaire bilatéral
+T12	disorder 687 711	à bouger son bras gauche
+T13	disorder 730 753	maladresse inhabituelle
+T14	procedure 778 799	préciser a posteriori
+T15	disorder 810 824	ymptomatologie
+T16	profession 850 865	Le généraliste 
+T17	procedure 872 1045	impotence fonctionnelle partielle du membre supérieur gauche, symptomatologie atypique : scanner cérébral de sécurité, envisager électromyogramme puis consultation en neuro 
+T18	disorder 1133 1165	plusieurs épisodes de thromboses
+T19	disorder 1166 1190	veineuses superficielles
+T20	disorder 1192 1489	un traumatisme crânien ayant majoré un syndrome dépressif chronique, une hypothyroïdie bien équilibrée par le traitement ; elle est malvoyante (décollement de rétine et maculopathie), a une intoxication (alcoolo) tabagique avec BPCO, souffre de douleurs multiples (chondrocalcinose, fibromyalgie).
+T21	labvalue 1568 1574	63 ans
+T22	disorder 1649 1786	n syndrome anxio dépressif chronique avec multiples somatisations ayant entraîné chez elle « tous les examens complémentaires du monde ».
+T23	procedure 1934 2075	d’un traitement anxiolytique, somnifère, antidépresseur, antalgique ou anti-inflammatoire, symptomatique pour une colopathie et phlébotonique
+T24	labvalue 2077 2107	10 à 14 médicaments différents
+T25	procedure 2110 2137	Les bilans sanguins annuels
+T26	disorder 2146 2172	 une hypercholestérolémie 
+T27	procedure 2174 2198	les tentatives de régime
+T28	procedure 2371 2381	Le scanner
+T29	anatomy 2414 2441	d’un micro nodule pariétal 
+T30	procedure 2445 2470	les coupes sans injection
+T31	profession 2472 2485	Le radiologue
+T32	procedure 2526 2529	IRM
+T33	profession 2614 2628	un neurologue 
+T34	procedure 2694 2709	électromyogramm
+T35	anatomy 2721 2737	supérieur gauche
+T36	disorder 2773 2916	une fibromyalgie et se plaint depuis quelques semaines d’un déficit du membre supérieur gauche avec apraxie et quelques dysesthésies de la main
+T37	disorder 3175 3203	du mal à fermer l’œil gauche
+T38	disorder 3246 3294	paralysie faciale gauche a frigore vraisemblable
+T39	labvalue 3305 3319	dans 10 jours 
+T40	procedure 3333 3363	occlusion palpébrale si besoin
+T41	disorder 3491 3528	 ne peut plus bouger la jambe gauche.
+T42	procedure 3600 3627	une consultation à domicile
+T43	disorder 3655 3672	 une hémiparésie 
+T44	disorder 3676 3687	hémiplégie 
+T45	disorder 3840 3934	un hémiplégie gauche à prédominance brachiofaciale et une déviation du regard vers la droite »
+T46	disorder 3957 4090	une hypodensité temporo pariétale droite étendue avec effet de masse évoquant un accident vasculaire ischémique du territoire sylvien
+T47	profession 4123 4140	neurovasculaires 
+T48	drugs 4234 4241	Lovenox
+T49	drugs 4248 4256	Kardegic
+T50	procedure 4369 4382	Une angio IRM
+T51	procedure 4264 4269	écho 
+T52	anatomy 4280 4297	 vaisseaux du cou
+T53	disorder 4317 4334	thrombus extensif
+T54	anatomy 4339 4364	a carotide interne droite
+T55	disorder 4402 4479	 une thrombose complète de la carotide interne droite sur une sténose serrée.
+T56	disorder 4583 4601	 hémiplégie gauche
+T57	profession 5104 5118	’un neurologue
+T58	profession 5245 5252	conseil
+T59	disorder 5576 5634	des plaques calcifiées des deux bifurcations carotidiennes
+T60	disorder 5641 5648	sténose

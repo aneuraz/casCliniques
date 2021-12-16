@@ -1,0 +1,45 @@
+T1	procedure 50 60	extraction
+T2	disorder 75 102	complications neurologiques
+T3	procedure 227 237	l'avulsion
+T4	procedure 402 412	l'avulsion
+T5	procedure 460 477	anesthésie locale
+T6	procedure 605 621	geste opératoire
+T7	disorder 641 649	douleurs
+T8	disorder 710 718	douleurs
+T9	profession 755 774	chirurgien-dentiste
+T10	profession 258 283	chirurgien maxillo-facial
+T11	profession 17 27	chirurgien
+T12	profession 368 387	chirurgien-dentiste
+T13	disorder 800 815	plaie purulente
+T14	procedure 834 846	d'extraction
+T15	drugs 863 876	antibiotiques
+T16	drugs 952 963	corticoïdes
+T17	profession 986 1006	chirurgien-dentiste 
+T18	profession 1032 1057	chirurgien maxillo-facial
+T19	procedure 1072 1084	l'extraction
+T20	procedure 1155 1167	radiographie
+T21	profession 1242 1268	 chirurgien maxillo-facial
+T22	procedure 1379 1393	d’intervention
+T23	profession 1398 1408	chirurgien
+T24	drugs 1422 1435	antibiotiques
+T25	drugs 1441 1452	antalgiques
+T26	drugs 1460 1475	bains de bouche
+T27	procedure 1553 1568	examen clinique
+T28	disorder 1639 1647	douleurs
+T29	profession 1651 1677	 chirurgien maxillo-facial
+T30	drugs 1690 1700	antalgique
+T31	profession 1762 1781	médecin généraliste
+T32	drugs 1808 1821	antibiotiques
+T33	drugs 1837 1848	antalgiques
+T34	profession 1853 1864	généraliste
+T35	procedure 1877 1884	scanner
+T36	drugs 1944 1959	d'antibiotiques
+T37	drugs 1963 1974	antalgiques
+T38	procedure 2033 2040	scanner
+T39	disorder 2079 2100	fracture mandibulaire
+T40	disorder 2186 2214	fracture mandibulaire droite
+T41	procedure 2228 2241	ostéosynthèse
+T42	profession 2295 2320	chirurgien maxillo-facial
+T43	procedure 2335 2347	l'extraction
+T44	profession 2380 2399	chirurgien-dentiste
+T45	profession 2423 2434	généraliste

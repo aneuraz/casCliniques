@@ -1,0 +1,23 @@
+T1	disorder 104 116	vomissements
+T2	disorder 123 131	diarrhée
+T3	drugs 184 192	Motilium
+T4	drugs 195 206	dompéridone
+T5	drugs 234 246	Viscéralgine
+T6	drugs 249 258	tiémonium
+T7	drugs 272 284	 Actapulgite
+T8	drugs 287 319	attapulgite de Mormoiron activée
+T9	disorder 786 795	 diarrhée
+T10	disorder 841 858	poussée thermique
+T11	disorder 886 906	enfant dort beaucoup
+T12	disorder 1159 1196	peau de l'enfant ne garde pas le pli 
+T13	disorder 1484 1491	 vomir 
+T14	disorder 1507 1516	 diarrhée
+T15	disorder 1728 1747	 enfant très faible
+T16	disorder 2038 2044	vomir 
+T17	disorder 2047 2070	raidissait brutalement 
+T18	disorder 2073 2093	perdait connaissance
+T19	procedure 2239 2251	 réanimation
+T20	procedure 2392 2402	nécropsie 
+T21	disorder 2440 2462	déshydratation massive
+T22	disorder 2467 2494	gastro-entérite infectieuse
+T23	disorder 2496 2510	perte de poids

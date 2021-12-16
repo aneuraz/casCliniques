@@ -1,0 +1,58 @@
+T1	irrelevant 6996 7006;7008 7249	Discussion  Le traitement initialement conservateur des entorses au niveau de l’articulation MTP I a été recommandé par Clanton et al. en 1986 dans une série de cas portant sur 62 joueurs de football américain [5]. Ils ont classé ces lésions comme suit:
+T1	irrelevant 7251 7306;7308 7402	– Grade I: élongation du complexe capsulo-ligamentaire;  – Grade II: rupture partielle du complexe capsulo-­ligamentaire sans lésion intra-articulaire;
+T1	irrelevant 7404 7560;7562 8440	– Grade III: rupture complète du complexe capsulo-ligamentaire avec lésion du cartilage et/ou de l’os sous-chondral au niveau de la tête du 1er métatarsien.  Les sésamoïdes de l’articulation MTP I sont intégrés dans la plaque plantaire et ont un partenaire articulaire trochléen au niveau de la tête du 1er métatarsien [6]. Ils sont reliés par le ligament intersésamoïdien et forment ainsi un canal pour le tendon du muscle long fléchisseur de l’hallux. A la limite proximale de la plaque plantaire se trouvent les insertions de la partie latérale et médiale du tendon du muscle court fléchisseur de l’hallux. Le sésamoïde fibulaire est irrigué par une à trois artères, la variante normale la plus fréquente présentant deux artères. Depuis l’extrémité proximale, une artère entre dans le sésamoïde fibulaire via l’insertion du tendon du muscle court fléchisseur de l’hallux; depuis l’extrémité distale, une autre artère entre via l’insertion de la capsule [7]. La vascularisation proximale est considérée comme étant la plus importante.
+T1	irrelevant 8442 8952;8954 9332	Dans le cas que nous avons décrit, le patient présentait une rupture de la plaque plantaire, ainsi qu’une déchirure de l’insertion du muscle court fléchisseur de l’hallux au niveau proximal du sésamoïde fibulaire. Nous partons du principe que suite à l’hyperextension répétitive, l’irrigation sanguine du sésamoïde fibulaire a été interrompue, ce qui a entraîné une NAV. En cas de NAV, un traitement conservateur est recommandé en premier lieu; une résection est indiquée si le patient reste symptomatique [8].  Rétrospectivement, l’œdème médullaire à l’IRM aurait au moins du éveiller le soupçon d’une NAV consécutive au traumatisme. Trente semaines après la blessure, la radiographie a montré une NAV. Il apparaît rétrospectivement que la poursuite du traitement conservateur à ce moment-là était certainement une mauvaise décision, l’indication d’une excision aurait alors dû être posée.
+T1	irrelevant 9334 9362;9364 9477	L’essentiel pour la pratique  • Le traitement primaire d’une blessure «turf toe», tout comme celui d’une nécrose avasculaire, est conservateur.
+T1	irrelevant 9479 9593;9595 9679	• Les évolutions compliquées, avec une persistance des symptômes, doivent faire envisager une nécrose avasculaire.  • La résection du sésamoïde nécrotique est indiquée en cas de symptômes persistants.
+T2	disorder 14 32	blessures du pied 
+T3	disorder 262 313	entorses du complexe capsulo-ligamentaire plantaire
+T4	procedure 944 957	radiologique 
+T5	disorder 962 981	ostéochondropathie 
+T6	disorder 1022 1026	NAV 
+T7	disorder 1209 1213	NAV 
+T8	disorder 829 874	nécrose avasculaire (NAV) du sésamoïde tibial
+T9	disorder 1422 1474	douleurs au niveau plantaire de l’articulation MTP I
+T10	disorder 1780 1791	gonflement 
+T11	disorder 1800 1817	douleur plantaire
+T12	procedure 1977 2002	 La radiographie du pied 
+T13	procedure 2117 2146	Radiographie de l’avant-pied 
+T14	procedure 2239 2263	traitement symptomatique
+T15	procedure 2369 2408	imagerie par résonance magnétique (IRM)
+T16	disorder 2462 2502	upture partielle de la plaque plantaire 
+T17	disorder 2511 2593	déchirure du tendon du muscle court fléchisseur de l’hallux du sésamoïde fibulaire
+T18	procedure 2690 2693	IRM
+T19	procedure 2924 2948	traitement conservateur 
+T20	disorder 3109 3144	plaie ulcérée avec hypergranulation
+T21	procedure 3422 3446	 traitement conservateur
+T22	disorder 3510 3528	ulcère de pression
+T23	procedure 3714 3747	révision chirurgicale de la plaie
+T24	procedure 3827 3835	biopsiée
+T25	procedure 3836 3855	 excisée et fermée 
+T26	procedure 3885 3905	examen histologique 
+T27	disorder 3918 3964	ulcération chronique avec tissu de granulation
+T28	procedure 4222 4236	 radiographie 
+T29	disorder 4287 4325	lésion kystique du sésamoïde fibulaire
+T30	disorder 4102 4134	ulcération avec hypergranulation
+T31	procedure 4347 4377	Radiographie de l’avant-pied e
+T32	procedure 4531 4555	traitement conservateur 
+T33	procedure 4689 4708	examen histologique
+T34	disorder 4741 4763	os cortical nécrotique
+T35	disorder 4778 4814	NAV du sésamoïde fibulaire bipartite
+T36	procedure 4957 4974	tomodensitométrie
+T37	procedure 5488 5511	Consultation en urgence
+T38	procedure 5541 5553	Radiographie
+T39	procedure 5654 5663	analgésie
+T40	procedure 5666 5683	Contrôle de suivi
+T41	disorder 5710 5730	blessure «turf toe»	
+T42	procedure 5730 5733	IRM
+T43	disorder 5735 5775	rupture partielle de la plaque plantaire
+T44	procedure 5920 5984	Chaussure de décharge de l’avant-pied avec mise en charge totale
+T45	disorder 6013 6067	ulcère plantaire dû à une mise en charge inappropriée	
+T46	procedure 6103 6127	 traitement conservateur
+T47	procedure 6180 6190	Histologie
+T48	disorder 6192 6239	ulcération chronique avec tissu de ­granulation
+T49	procedure 6290 6336	Révision chirurgicale et fermeture de la plaie
+T50	procedure 6392 6405	Radiographie 
+T51	disorder 6430 6469	 lésion kystique du sésamoïde fibulaire
+T52	disorder 6702 6739	NAV du sésamoïde fibulaire bipartite 
+T53	procedure 6765 6768	TDM

@@ -1,0 +1,34 @@
+T1	disorder 125 166	hypertension artérielle modérée et isolée
+T2	procedure 257 280	RCF normaux, TA normale
+T3	procedure 636 646	péridurale
+T4	drugs 708 718	syntocinon
+T5	procedure 792 802	RCF normal
+T6	disorder 809 843	débit de la perfusion est accéléré
+T7	procedure 866 869	RCF
+T8	procedure 900 914	rythme de base
+T9	labvalue 917 925	160 /min
+T10	procedure 1338 1341	RCF
+T11	drugs 1467 1477	syntocinon
+T12	drugs 1820 1830	syntocinon
+T13	procedure 1852 1855	RCF
+T14	disorder 2079 2090	bradycardie
+T15	procedure 2945 2964	ventilent au masque
+T16	disorder 4252 4261	hypotonie
+T17	disorder 3585 3596	hypotonique
+T18	disorder 3600 3604	pâle
+T19	procedure 3660 3668	glycémie
+T20	labvalue 3675 3681	0,40 g
+T21	drugs 3877 3884	glucosé
+T22	drugs 3997 4013	rythme cardiaque
+T23	labvalue 4020 4025	75-80
+T24	disorder 4273 4287	cephalhématome
+T25	disorder 4935 4972	détresse respiratoire avec inhalation
+T26	disorder 4984 5009	arrêt cardio respiratoire
+T27	disorder 5019 5027	mydriase
+T28	procedure 5100 5111	hémoglobine
+T29	disorder 5123 5137	anémie modérée
+T30	procedure 5268 5275	scanner
+T31	disorder 5291 5311	hématome péricrânien
+T32	disorder 5334 5355	uffusion hémorragique
+T33	disorder 5410 5424	œdème cécébral
+T34	disorder 5468 5533	hématome expansif massif, péricranien pariéto occipital bilatéral

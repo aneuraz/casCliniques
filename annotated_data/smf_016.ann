@@ -1,0 +1,141 @@
+T1	irrelevant 0 8;10 472;474 531;532 547;548 572;573 624;625 653;654 669;670 687;688 716;717 754;755 841;842 892;893 924;925 965;966 988;989 1034;1035 1067;1068 1079;1080 1088;1089 1106;1107 1120;1121 1132;1133 1166;1167 1175;1176 1185;1186 1204;1205 1237;1238 1267;1268 1295;1296 1343;1344 1378;1379 1415;1416 1437;1438 1451;1452 1461;1462 1484;1485 1503	Contexte  Les douleurs du flanc constituent un motif régulier de consultation médicale et s’accompagnent d’un large spectre de diagnostics différentiels (tab. 1). Malgré le dicton «Quand vous entendez des bruits de sabots derrière vous, ne vous attendez pas à voir un zèbre», des causes plus rares de douleurs du flanc doivent toujours être prises en considération en termes de diagnostic différentiel pour minimiser les erreurs d’évaluation initiale comme dans notre cas.  Tableau 1:Causes des douleurs du flanc, adapté selon [8]. Causes	Exemples Urogénitales	Urolithiase Sténose de l’uretère, notamment en cas de néoplasie Pyélonéphrite, abcès du rein Infarctus rénal Hémorragie rénale Carcinome à cellules rénales Kyste rénal contenant du sang/infecté Chez ♀: grossesse extra-utérine, annexite, torsion ovarienne, rupture de kyste ovarien Chez ♂: torsion testiculaire, épididymite, orchite Vasculaires	Dissection aortique Rupture/symptômes d’anévrisme de l’aorte Infarctus mésentérique Gastro-intestinales	Ulcère gastrique/duodénal Cholécystolithiase, cholécystite Pancréatite Hépatite Hernie incarcérée Diverticulite Appendicite Thoraciques	Infarctus myocardique Pleurite Pneumonie Embolie pulmonaire Musculosquelettiques	Discopathie Spondylodiscite, ostéomyélite Fracture du corps vertébral Elongation/hémorragie de la musculature dorsale Hémorragie/abcès du rétropéritoine Diverses	Infarctus/rupture splénique Infarctus surrénalien Herpès zoster Porphyrie Crise de drépanocytose Description du cas
+T2	procedure 1545 1553	présenté
+T3	disorder 1593 1629	douleurs récidivantes du flanc droit
+T4	procedure 1816 1823	déclaré
+T5	disorder 1844 1869	irradiation de la douleur
+T6	procedure 1908 1915	miction
+T7	labvalue 1922 1929	normale
+T8	disorder 1942 1951	migraines
+T9	risk 2105 2127	consommation de drogue
+T10	procedure 2193 2200	entrée 
+T11	procedure 2233 2243	présentait
+T12	procedure 2247 2252	poids
+T13	labvalue 2253 2259	normal
+T14	procedure 2261 2264	IMC
+T15	labvalue 2265 2275	20,7 kg/m2
+T16	procedure 2277 2283	taille
+T17	labvalue 2284 2290	198 cm
+T18	procedure 2292 2297	poids
+T19	labvalue 2298 2303	81 kg
+T20	procedure 2311 2323	état général
+T21	labvalue 2324 2331	réduit 
+T22	disorder 2345 2353	douleurs
+T23	procedure 2395 2398	EVA
+T24	labvalue 2355 2359	8/10
+T25	labvalue 2423 2435	130/80 mm Hg
+T26	procedure 2456 2475	pression artérielle
+T27	labvalue 2522 2539	77 battements/min
+T28	procedure 2494 2504	normocarde
+T29	procedure 2541 2553	normopnéique
+T30	labvalue 2559 2578	16 respirations/min
+T31	procedure 2588 2609	saturation en oxygène
+T32	labvalue 2613 2616	95%
+T33	disorder 2635 2643	afébrile
+T34	procedure 2653 2664	température
+T35	labvalue 2668 2675	36,6 °C
+T36	disorder 2748 2755	douleur
+T37	procedure 2907 2931	résultats de laboratoire
+T38	procedure 2933 2943	hémogramme
+T39	procedure 2945 2948	INR
+T40	procedure 2950 2956	chimie
+T41	labvalue 2966 2974	normaux 
+T42	procedure 2994 3024	taux de lactate déshydrogénase
+T43	procedure 3026 3029	LDH
+T44	labvalue 3042 3047	accru
+T45	labvalue 3060 3067	237 U/l
+T46	procedure 3101 3116	statut urinaire
+T47	disorder 3130 3144	microhématurie
+T48	labvalue 3150 3189	16 érythrocytes par champ microscopique
+T49	procedure 3237 3248	échographie
+T50	disorder 3263 3285	hydronéphrose douteuse
+T51	procedure 3320 3337	tomodensitométrie
+T52	disorder 3416 3427	urolithiase
+T53	labvalue 3449 3456	normale
+T54	disorder 3522 3548	élargissement de l’uretère
+T55	disorder 3492 3515	infiltration périrénale
+T56	disorder 3696 3722	genèse musculosquelettique
+T57	disorder 3731 3758	microhématurie concomitante
+T58	procedure 3767 3795	’excrétion de calculs rénaux
+T59	procedure 3811 3833	traitement analgésique
+T60	disorder 3862 3870	douleurs
+T61	drugs 3910 3920	ibuprofène
+T62	drugs 3924 3934	métamizole
+T63	procedure 3940 3970	nouvelle consultation médicale
+T64	procedure 4028 4057	contrôle de la microhématurie
+T65	procedure 4102 4122	analgésique prescrit
+T66	disorder 4128 4149	douleurs progressives
+T67	procedure 4271 4279	présenté
+T68	procedure 4324 4332	 miction
+T69	labvalue 4340 4347	normale
+T70	disorder 4364 4370	fièvre
+T71	procedure 4432 4451	pression artérielle
+T72	labvalue 4462 4474	168/98 mm Hg
+T73	procedure 4517 4540	analyses de laboratoire
+T74	procedure 4569 4588	protéine C réactive
+T75	labvalue 4560 4565	accru
+T76	procedure 4590 4594	CRP,
+T77	procedure 4646 4649	LDH
+T78	labvalue 4653 4660	237 U/l
+T79	labvalue 4663 4670	481 U/l
+T80	procedure 4705 4719	tatut urinaire
+T81	labvalue 4726 4732	normal
+T82	disorder 4739 4753	microhématurie
+T83	procedure 4762 4777	plus détectable
+T84	disorder 4793 4823	douleurs persistantes du flanc
+T85	disorder 4831 4845	microhématurie
+T86	procedure 4887 4890	LDH
+T87	labvalue 4869 4884	taux croissant 
+T88	disorder 4924 4944	infarctus rénal aigu
+T89	procedure 4964 4993	tomodensitométrie abdominale 
+T90	procedure 5010 5043	produit de contraste intraveineux
+T91	disorder 5104 5135	infarctus partiel du rein droit
+T92	disorder 5192 5228	dissection de l’artère rénale droite
+T93	procedure 5378 5402	traitement anticoagulant
+T94	drugs 5426 5434	héparine
+T95	drugs 5442 5450	apixaban
+T96	irrelevant 5467 6296	Figure 1: Tomodensitométrie (TDM) de l’abdomen (coupe coronale).A ) Phase veineuse portale: Plusieurs zones triangulaires légèrement hypodenses par contraste au niveau des pôles supérieur et inférieur ainsi que dans lapars intermediadu rein droit (flèches blanches), zones moins irriguées en conséquence. Infarctus aigu triangulaire non contrasté dans lapars intermediadu rein droit (flèches noires).B ) TDM MIP («maximum intensity projection») avec contraste en phase artérielle et phase excrétoire: suspicion élevée d’une dissection de l’artère rénale droite avec une régularité de la paroi et rétrécissement de la lumière de l’artère rénale accessoire inférieure avec contraste seulement filiforme au niveau distal (flèche blanche) et irrégularités discrètes de calibre de l’artère rénale accessoire supérieure (flèche noire).
+T97	procedure 6301 6329	tomodensitométrie thoracique
+T98	procedure 6365 6405	échographie Doppler des vaisseaux du cou
+T99	disorder 6432 6442	dissection
+T100	disorder 6446 6453	sténose
+T101	procedure 6458 6484	test génétique moléculaire
+T102	disorder 6503 6534	maladies des tissus conjonctifs
+T103	disorder 6546 6564	syndrome de Marfan
+T104	disorder 6566 6590	syndrome d’Ehlers-Danlos
+T105	labvalue 6598 6605	négatif
+T106	procedure 6611 6632	examens diagnostiques
+T107	procedure 6634 6651	échocardiographie
+T108	procedure 6653 6657	ECG 
+T109	procedure 6674 6713	dépistage de thrombophilie et vasculite
+T110	disorder 6751 6768	thrombo-embolique
+T111	disorder 6790 6805	infarctus rénal
+T112	labvalue 6824 6831	normaux
+T113	procedure 6874 6893	échographie Doppler
+T114	disorder 6912 6939	thrombose veineuse profonde
+T115	disorder 6959 6977	embolie paradoxale
+T116	irrelevant 13767 13795;13797 14074;14076 14251;14253 14390	L’essentiel pour la pratique  • En présence de la triade typique (douleurs du flanc/de l’abdomen, hématurie, taux accru de LDH), il convient, en cas de tomodensitométrie native normale de l’abdomen, de rechercher l’infarctus rénal aigu par administration supplémentaire de produit de contraste intraveineux.  • La fibrillation auriculaire est considérée comme la cause la plus fréquente d’un infarctus rénal aigu, bien qu’aucune cause ne puisse être détectée dans jusqu’à 30% des cas.  • Le traitement de l’infarctus rénal est généralement conservateur et ­interventionnel/chirurgical uniquement dans des cas exceptionnels.
+T117	irrelevant 9269 9334;9335 9350;9351 9406;9407 9418;9419 9460;9461 9526;9527 9584;9585 9616;9617 9701;9702 9818;9819 9926;9927 9942;9943 9986;9987 10101;10102 10138;10139 10169;10170 10211;10212 10237;10238 10269;10270 10290;10291 10327;10328 10357	Tableau 2: Causes de l’infarctus rénal aigu, adapté selon [1, 4]. Causes	Exemples Cardio-emboliques(56% des cas)	Fibrillation auriculaire Endocardite Thrombose de valve cardiaque artificielle Thrombus ventriculaire gauche en cas d’anévrisme, cardiomyopathie Embolie paradoxale en présence de foramen ovale perméable Thrombus de l’aorte suprarénale Altération des artères rénales(7% des cas)	Dissection (traumatique, non traumatique) Pathologie du tissu conjonctif (notamment dysplasie fibres musculaire, syndrome de Marfan, syndrome d’Ehlers-Danlos) Vasculite (notamment polyartérite noueuses, artérite de ­Takayasu, syndrome de Kawasaki, maladie de Behçet) Artériosclérose Intervention endovasculaire aortique/rénale Compression vasculaire due à une lymphadénopathie para-­aortique (notamment métastases des ganglions lymphatiques) Drogues (notamment cocaïne, ecstasy) Infection (notamment syphilis) Hypercoagulabilité (7% des cas)	Néoplasie Thrombophilie héréditaire Syndrome des antiphospholipides Syndrome néphrotique Hémoglobinurie paroxystique nocturne Idiopathiques (30% des cas)	 
+T118	procedure 7001 7028	établissement du diagnostic
+T119	procedure 7032 7051	échographie Doppler
+T120	procedure 7054 7060	montré
+T121	disorder 7080 7103	hypertension artérielle
+T122	disorder 7113 7132	insuffisance rénale
+T123	procedure 7163 7199	réduction de la taille du rein droit
+T124	procedure 7216 7222	examen
+T125	disorder 7271 7297	sténose de l’artère rénale
+T126	procedure 7358 7394	angioplastie transluminale percutané
+T127	procedure 7418 7459	stent au niveau de l’artère rénale droite
+T128	drugs 7509 7517	apixaban
+T129	procedure 7494 7504	traitement
+T130	procedure 7537 7564	traitement de longue durée 
+T131	drugs 7573 7596	acide acétylsalicylique
+T132	procedure 7616 7634	contrôles de suivi
+T133	procedure 7769 7789	échographie Doppler 
+T134	disorder 7812 7831	insuffisance rénale
+T135	procedure 7835 7863	 traitement antihypertenseur
+T136	drugs 7868 7878	amlodipine
+T137	procedure 7933 7952	pression artérielle
+T138	labvalue 7953 7960	normale
+T139	irrelevant 7963 7973	Discussion
+T140	irrelevant 7975 8245;8247 9267	Avec une incidence de 0,007%, l’infarctus rénal aigu est une cause rare des douleurs du flanc dans les unités d’urgence, bien que l’incidence effective soit probablement supérieure en raison de la présentation non spécifique et du diagnostic ainsi souvent manqué [1, 2].  L’embolie cardiaque liée à une fibrillation auriculaire fait partie des causes les plus fréquentes d’infarctus rénal aigu. Une altération de l’artère rénale ainsi qu’une hypercoagulabilité sont décrites comme autres origines, sachant que dans jusqu’à 30% des cas, aucune cause ne peut être détectée (tab. 2). Chez notre patient, la dissection de l’artère rénale droite due à un développé couché pourrait s’expliquer par une maladie sous-jacente accompagnée d’une fragilité vasculaire accrue. Cela est indiqué par le diagnostic fortuit de la dissection également visible de l’artère iliaque externe d’âge incertain. Le dépistage d’une vasculite ainsi que le test génétique moléculaire à la recherche de maladies congénitales des tissus conjonctifs ont toutefois fourni des résultats négatifs. Par ailleurs, l’angiographie n’a révélé aucune modification «en collier de perles» de l’artère rénale, typique de la dysplasie fibromusculaire [3], de sorte que l’étiologie de la maladie sous-jacente postulée demeure incertaine.
+T141	irrelevant 10359 12019;12021 12780;12782 13526;13528 13765	Les douleurs du flanc ou de l’abdomen, pouvant être accompagnées de nausées, vomissements, fièvre ainsi que d’une hausse de la pression artérielle, sont décrites comme des symptômes typiques de l’infarctus rénal aigu [1, 4]. Les analyses biochimiques révèlent classiquement un taux accru de LDH (dans jusqu’à 95% des cas) un taux normal de transaminases ainsi qu’une hématurie (dans jusqu’à 64% des cas), dont l’ampleur peut dépendre du moment de la consultation. En outre, une leucocytose, un taux accru de CRP ainsi qu’une protéinurie peuvent être mis en évidence [5]. Etant donné que les symptômes typiques d’un infarctus rénal aigu peuvent toutefois imiter des maladies plus fréquentes telles que l’urolithiase ou la pyélonéphrite, une évaluation initiale erronée n’est pas rare, retardant l’établissement du diagnostic de jusqu’à plusieurs jours après le début des symptômes dans jusqu’à 50% des cas [6, 7]. Cependant, ni l’urolithiase, ni la pyélonéphrite ne présentent un taux accru de LDH, faisant de celui-ci un paramètre «de base» significatif pour le diagnostic différentiel en présence de douleurs du flanc. En règle générale, le taux de LDH augmente rapidement à la suite d’un infarctus rénal. Lors de la consultation initiale de notre patient cinq jours après le début des douleurs, le taux de LDH était seulement légèrement élevé et a continué d’augmenter jusqu’à la deuxième consultation. Comme l’hypertension mise en évidence pour la première fois lors de la deuxième consultation, les douleurs initiales du flanc ont probablement été causées par la dissection de l’artère rénale elle-même, puis par l’infarcissement rénal probablement répété.  Dans les situations d’urgence, la tomodensitométrie abdominale faisant appel à un produit de contraste intraveineux constitue l’imagerie de choix avec mise en évidence de plusieurs défauts de perfusion typiquement cunéiformes au niveau du parenchyme rénal, susceptibles de toucher les deux reins dans 20% des cas [1, 4]. Des infarctus spléniques concomitants peuvent être mis en évidence dans jusqu’à 30% des cas [5]. L’imagerie par résonance magnétique (IRM) abdominale au gadolinium est mentionnée comme alternative, son utilisation pouvant toutefois être limitée en fonction des ressources du service d’urgence concerné. En raison de sa faible sensibilité de 27%, l’échographie des reins n’est pas à recommander pour la mise en évidence d’un infarctus [2].  Le traitement de l’infarctus rénal est généralement conservateur (analgésie, anticoagulation, antihypertenseurs). Un traitement interventionnel ou une lyse ne sont indiqués que dans des cas relativement rares tels qu’un infarctus rénal massif (en principe, occlusion totale d’une artère rénale) et lors de l’établissement précoce du diagnostic (moins de 24 heures après le début des symptômes). Le traitement interventionnel n’est généralement pas indiqué à la suite d’un infarctus rénal complet passé. L’angioplastie transluminale percutanée (ATP) réalisée ultérieurement chez notre patient avait pour but de traiter la sténose de l’artère rénale sévère et non pas les zones rénales déjà infarcies (ayant donc subi des dommages irréversibles).  Les données actuelles sont encore insuffisantes pour pouvoir poser un pronostic après un infarcuts rénal aigu. Le développement d’une hypertension artérielle et d’une insuffisance rénale ainsi qu’une mortalité accrue sont décrits [1, 4].

@@ -1,0 +1,81 @@
+T1	disorder 102 128	 douleurs du cuir chevelu 
+T2	disorder 146 163	 hypersensibilité
+T3	disorder 193 216	douleurs de la mâchoire
+T4	disorder 481 498	maladie de Horton
+T5	irrelevant 286 459	Avec son épouse, il consulte sur Internet des sites médicaux afin d'essayer de savoir si cette symptomatologie correspond à une "maladie quelconque ". Il pense éventuellemen
+T6	profession 556 572	médecin traitant
+T7	disorder 611 633	 hypercholestérolémie 
+T8	disorder 724 742	 maladie de Horton
+T9	disorder 915 964	problème de nerf cervical au niveau des vertèbres
+T10	disorder 1001 1020	 maladie de Horton"
+T11	drugs 1061 1071	Voltarene®
+T12	drugs 1075 1085	Lumirelax®
+T13	anatomy 1139 1154	rachis cervical
+T14	irrelevant 1157 1263	Pour sa part, le médecin traitant indique avoir examiné le patient, lors de la consultation du 26/08/2013,
+T15	disorder 1273 1353	cervicalgies occipitales avec paresthésies du cuir chevelu de l'hémivertex droit
+T16	disorder 1370 1391	atteinte mandibulaire
+T17	disorder 1401 1430	 altération de l'état général
+T18	irrelevant 1590 1672	ucune gêne visuelle n’est notée dans son dossier ou n’a été décrite par le patient
+T19	irrelevant 1433 1545	l signale une "controverse par rapport à Internet" et avoir dit au patient de lui expliquer ce qu'il ressentait,
+T20	irrelevant 1546 1587	plutôt que ce qu'il avait lu sur Internet
+T21	disorder 1725 1777	douleur au niveau des vertèbres C1, C2 du côté droit
+T22	disorder 1788 1820	douleur ponctuelle à la pression
+T23	disorder 1847 1859	cervicalgie 
+T24	disorder 1959 1970	cervicalgie
+T25	procedure 2035 2050	kinésithérapie.
+T26	labvalue 2224 2231	positif
+T27	anatomy 2421 2431	œil gauche
+T28	disorder 2386 2404	"une gêne visuelle
+T29	irrelevant 2052 2156	Au bout de 17 jours de traitement médical et de 8 séances de rééducation, le patient arrête les séances,
+T30	profession 2176 2193	kinésithérapeute,
+T31	irrelevant 2251 2272	Le 12 septembre 2013,
+T32	irrelevant 2273 2343	le patient décide de reconsulter son médecin traitant en lui signalant
+T33	drugs 2579 2588	Dafalgan®
+T34	drugs 2590 2598	Lanzor®,
+T35	drugs 2599 2612	Kétum® LP 100
+T36	profession 2791 2806	ophtalmologiste
+T37	disorder 3048 3076	paresthésies du cuir chevelu
+T38	anatomy 3093 3108	pariétal gauche
+T39	disorder 3133 3150	céphalée frontale
+T40	disorder 3167 3194	 baisse d'acuité visuelle. 
+T41	disorder 3372 3393	gêne visuelle" gauche
+T42	procedure 3465 3501	ontrôle ophtalmologique systématique
+T43	profession 3603 3621	 ophtalmologiste e
+T44	profession 3737 3754	l'ophtalmologiste
+T45	profession 3703 3720	médecin traitant 
+T46	disorder 3898 3916	maladie de Horton.
+T47	disorder 4019 4043	'algies du cuir chevelu 
+T48	disorder 4049 4073	douleurs de la mâchoire 
+T49	disorder 4085 4103	une grande fatigue
+T50	disorder 4147 4167	gêne oculaire gauche
+T51	profession 4229 4244	ophtalmologiste
+T52	disorder 4323 4341	maladie de Horton.
+T53	profession 4370 4386	ophtalmologiste,
+T54	disorder 4605 4639	 algies au niveau du cuir chevelu 
+T55	disorder 4752 4768	maladie d‘Horton
+T56	procedure 4804 4807	 VS
+T57	procedure 4826 4830	 CRP
+T58	disorder 4872 4907	'un trouble visuel de l'œil gauche 
+T59	disorder 4916 4927	myodésopsie
+T60	disorder 4930 4946	mouches volantes
+T61	disorder 5110 5139	lésion rétinienne ou du vitré
+T62	disorder 5154 5209	un décollement postérieur du vitré avec corps flottant 
+T63	anatomy 5239 5250	œil gauche 
+T64	disorder 5255 5273	lésion rétinienne.
+T65	profession 5322 5338	 ophtalmologiste
+T66	drugs 5465 5477	Indocollyre®
+T67	anatomy 5498 5509	œil gauche,
+T68	disorder 5593 5641	 légère baisse d'acuité visuelle de l'œil gauche
+T69	profession 5742 5758	’ophtalmologiste
+T70	disorder 5979 6022	ischémique antérieure aiguë de l’œil gauche
+T71	procedure 6086 6097	 perfusion 
+T72	drugs 6099 6109	 cortisone
+T73	procedure 6113 6139	 bilan biologique, sanguin
+T74	disorder 6159 6182	syndrome inflammatoire 
+T75	procedure 6186 6191	 CRP 
+T76	procedure 6193 6196	 VS
+T77	procedure 6236 6273	 biopsie de l'artère temporale gauche
+T78	procedure 6298 6362	iagnostic d'artérite à cellules géantes de la maladie de Horton.
+T79	procedure 6380 6391	 perfusion 
+T80	drugs 6393 6403	 cortisone
+T81	drugs 6551 6566	corticothérapie

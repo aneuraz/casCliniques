@@ -1,0 +1,112 @@
+Contexte
+
+Les douleurs du flanc constituent un motif régulier de consultation médicale et s’accompagnent d’un large spectre de diagnostics différentiels (tab. 1). Malgré le dicton «Quand vous entendez des bruits de sabots derrière vous, ne vous attendez pas à voir un zèbre», des causes plus rares de douleurs du flanc doivent toujours être prises en considération en termes de diagnostic différentiel pour minimiser les erreurs d’évaluation initiale comme dans notre cas.
+
+Tableau 1:Causes des douleurs du flanc, adapté selon [8].
+Causes	Exemples
+Urogénitales	Urolithiase
+Sténose de l’uretère, notamment en cas de néoplasie
+Pyélonéphrite, abcès du rein
+Infarctus rénal
+Hémorragie rénale
+Carcinome à cellules rénales
+Kyste rénal contenant du sang/infecté
+Chez ♀: grossesse extra-utérine, annexite, torsion ovarienne, rupture de kyste ovarien
+Chez ♂: torsion testiculaire, épididymite, orchite
+Vasculaires	Dissection aortique
+Rupture/symptômes d’anévrisme de l’aorte
+Infarctus mésentérique
+Gastro-intestinales	Ulcère gastrique/duodénal
+Cholécystolithiase, cholécystite
+Pancréatite
+Hépatite
+Hernie incarcérée
+Diverticulite
+Appendicite
+Thoraciques	Infarctus myocardique
+Pleurite
+Pneumonie
+Embolie pulmonaire
+Musculosquelettiques	Discopathie
+Spondylodiscite, ostéomyélite
+Fracture du corps vertébral
+Elongation/hémorragie de la musculature dorsale
+Hémorragie/abcès du rétropéritoine
+Diverses	Infarctus/rupture splénique
+Infarctus surrénalien
+Herpès zoster
+Porphyrie
+Crise de drépanocytose
+Description du cas
+Anamnèse
+
+Le patient âgé de 40 ans s’est présenté à notre service d’urgence en raison de douleurs récidivantes du flanc droit présentes depuis cinq jours et en partie liées au mouvement, qui sont apparues soudainement pendant un entraînement de musculation (développés couchés avec environ 60 kg de poids). Il a déclaré ne ressentir aucune irradiation de la douleur au niveau de l’aine et des jambes. La miction était normale. A part des migraines, le patient était en bonne santé. Il a écarté la prise régulière de médicaments (y compris préparation pour le développement de la masse musculaire), la consommation de drogue ainsi que toute opération préalable.
+
+Examen clinique
+
+Lors de l’entrée au service d’urgence, le patient présentait un poids normal (IMC 20,7 kg/m2, taille 198 cm, poids 81 kg) et un état général réduit en raison des douleurs (8/10 sur l’échelle visuelle analogique, EVA), était normotendu avec 130/80 mm Hg (sans différence de pression artérielle entre les côtés), normocarde et régulier avec 77 battements/min, normopnéique avec 16 respirations/min pour une saturation en oxygène de 95% en air ambiant et afébrile avec une température de 36,6 °C. L’abdomen était souple et émettait des bruits intestinaux normaux sans douleur à la pression/au tapotement. La colonne vertébrale ainsi que les loges rénales n’indiquaient aucune douleur au tapotement.
+
+Résultats, diagnostic
+
+Les résultats de laboratoire (hémogramme, INR, chimie) étaient normaux à l’exception d’une taux de lactate déshydrogénase (LDH) légèrement accru à raison de 237 U/l (valeur normale 135–225 U/l). Le statut urinaire a révélé une microhématurie avec 16 érythrocytes par champ microscopique (valeur normale <5 érythrocytes par champ).
+
+L’échographie a indiqué une hydronéphrose douteuse de degré léger du côté droit. Une tomodensitométrie native de l’abdomen a été réalisée pour approfondir l’examen d’une éventuelle urolithiase, mais celle-ci était normale (notamment sans mise en évidence d’infiltration périrénale, ni d’élargissement de l’uretère comme signes possibles de calculs rénaux évacués).
+
+Les symptômes étant apparus pendant l’entraînement de musculation, ils ont été attribués à une genèse musculosquelettique ou à la microhématurie concomitante liée à l’excrétion de calculs rénaux. Ayant reçu un traitement analgésique suffisant pour soulager les douleurs, le patient a pu rentrer chez lui sous ibuprofène et métamizole. Une nouvelle consultation médicale a été convenue en cas de symptomatique persistante, avec contrôle de la microhématurie.
+
+Evolution
+
+Malgré la prise régulière de l’analgésique prescrit, des douleurs progressives se sont par la suite manifestées au niveau du flanc droit, de sorte que cinq jours plus tard, le patient s’est à nouveau présenté à notre service d’urgence. Il a rapporté une miction encore normale et l’absence de fièvre. L’examen clinique était toujours normal à l’exception d’une pression artérielle accrue de 168/98 mm Hg. Par rapport aux valeurs précédentes, les analyses de laboratoire ont révélé un taux accru de protéine C réactive (CRP, valeur normale <10 mg/l) ainsi qu’une hausse de la LDH de 237 U/l à 481 U/l (valeur normale 135–225 U/l). Le statut urinaire était normal et la microhématurie n’était plus détectable. En raison des douleurs persistantes du flanc, de la microhématurie passagère ainsi que du taux croissant de LDH, le diagnostic différentiel d’un infarctus rénal aigu a été envisagé. La tomodensitométrie abdominale réalisée avec un produit de contraste intraveineux a confirmé le diagnostic suspecté en mettant en évidence un infarctus partiel du rein droit de taille normale, accompagné d’une suspicion élevée de dissection de l’artère rénale droite (fig. 1 A, B). Par ailleurs, une membrane de dissection courte isolée d’âge incertain était visible au niveau de l’artère iliaque externe droite. Un traitement anticoagulant, initialement à base d’héparine puis d’apixaban, a été initié.
+
+Figure 1: Tomodensitométrie (TDM) de l’abdomen (coupe coronale).A ) Phase veineuse portale: Plusieurs zones triangulaires légèrement hypodenses par contraste au niveau des pôles supérieur et inférieur ainsi que dans lapars intermediadu rein droit (flèches blanches), zones moins irriguées en conséquence. Infarctus aigu triangulaire non contrasté dans lapars intermediadu rein droit (flèches noires).B ) TDM MIP («maximum intensity projection») avec contraste en phase artérielle et phase excrétoire: suspicion élevée d’une dissection de l’artère rénale droite avec une régularité de la paroi et rétrécissement de la lumière de l’artère rénale accessoire inférieure avec contraste seulement filiforme au niveau distal (flèche blanche) et irrégularités discrètes de calibre de l’artère rénale accessoire supérieure (flèche noire).
+
+La tomodensitométrie thoracique réalisée en complément ainsi que l’échographie Doppler des vaisseaux du cou n’ont montré aucune autre dissection ni sténose. Le test génétique moléculaire à la recherche de maladies des tissus conjonctifs (notamment syndrome de Marfan, syndrome d’Ehlers-Danlos) était négatif. Les examens diagnostiques (échocardiographie, ECG de longue durée, dépistage de thrombophilie et vasculite) destinés à exclure une autre genèse thrombo-embolique ou thrombotique de l’infarctus rénal étaient également normaux, mis à part un foramen ovale perméable. L’échographie Doppler n’a pas révélé de thrombose veineuse profonde comme source d’une embolie paradoxale.
+
+Six semaines après l’établissement du diagnostic, l’échographie Doppler a montré, en présence d’une hypertension artérielle et d’une insuffisance rénale nouvellement développées, une réduction de la taille du rein droit par rapport à l’examen précédent ainsi que, pour la première fois, une sténose de l’artère rénale de degré maximal avec des zones rénales sous-perfusées. Une angioplastie transluminale percutanée (ATP) et la pose d’un stent au niveau de l’artère rénale droite ont été réalisées avec succès. Le traitement par apixaban a été arrêté et un traitement de longue durée à base d’acide acétylsalicylique a été initié.
+
+Les contrôles de suivi effectués jusqu’à présent ont montré une évolution satisfaisante avec normalisation des zones rénales précédemment sous-perfusées à l’échographie Doppler et une régression de l’insuffisance rénale. Le traitement antihypertenseur par amlodipine débuté entre-temps a pu être arrêté en présence d’une pression artérielle normale.
+
+Discussion
+
+Avec une incidence de 0,007%, l’infarctus rénal aigu est une cause rare des douleurs du flanc dans les unités d’urgence, bien que l’incidence effective soit probablement supérieure en raison de la présentation non spécifique et du diagnostic ainsi souvent manqué [1, 2].
+
+L’embolie cardiaque liée à une fibrillation auriculaire fait partie des causes les plus fréquentes d’infarctus rénal aigu. Une altération de l’artère rénale ainsi qu’une hypercoagulabilité sont décrites comme autres origines, sachant que dans jusqu’à 30% des cas, aucune cause ne peut être détectée (tab. 2). Chez notre patient, la dissection de l’artère rénale droite due à un développé couché pourrait s’expliquer par une maladie sous-jacente accompagnée d’une fragilité vasculaire accrue. Cela est indiqué par le diagnostic fortuit de la dissection également visible de l’artère iliaque externe d’âge incertain. Le dépistage d’une vasculite ainsi que le test génétique moléculaire à la recherche de maladies congénitales des tissus conjonctifs ont toutefois fourni des résultats négatifs. Par ailleurs, l’angiographie n’a révélé aucune modification «en collier de perles» de l’artère rénale, typique de la dysplasie fibromusculaire [3], de sorte que l’étiologie de la maladie sous-jacente postulée demeure incertaine.
+
+Tableau 2: Causes de l’infarctus rénal aigu, adapté selon [1, 4].
+Causes	Exemples
+Cardio-emboliques(56% des cas)	Fibrillation auriculaire
+Endocardite
+Thrombose de valve cardiaque artificielle
+Thrombus ventriculaire gauche en cas d’anévrisme, cardiomyopathie
+Embolie paradoxale en présence de foramen ovale perméable
+Thrombus de l’aorte suprarénale
+Altération des artères rénales(7% des cas)	Dissection (traumatique, non traumatique)
+Pathologie du tissu conjonctif (notamment dysplasie fibres musculaire, syndrome de Marfan, syndrome d’Ehlers-Danlos)
+Vasculite (notamment polyartérite noueuses, artérite de ­Takayasu, syndrome de Kawasaki, maladie de Behçet)
+Artériosclérose
+Intervention endovasculaire aortique/rénale
+Compression vasculaire due à une lymphadénopathie para-­aortique (notamment métastases des ganglions lymphatiques)
+Drogues (notamment cocaïne, ecstasy)
+Infection (notamment syphilis)
+Hypercoagulabilité (7% des cas)	Néoplasie
+Thrombophilie héréditaire
+Syndrome des antiphospholipides
+Syndrome néphrotique
+Hémoglobinurie paroxystique nocturne
+Idiopathiques (30% des cas)	 
+
+Les douleurs du flanc ou de l’abdomen, pouvant être accompagnées de nausées, vomissements, fièvre ainsi que d’une hausse de la pression artérielle, sont décrites comme des symptômes typiques de l’infarctus rénal aigu [1, 4]. Les analyses biochimiques révèlent classiquement un taux accru de LDH (dans jusqu’à 95% des cas) un taux normal de transaminases ainsi qu’une hématurie (dans jusqu’à 64% des cas), dont l’ampleur peut dépendre du moment de la consultation. En outre, une leucocytose, un taux accru de CRP ainsi qu’une protéinurie peuvent être mis en évidence [5]. Etant donné que les symptômes typiques d’un infarctus rénal aigu peuvent toutefois imiter des maladies plus fréquentes telles que l’urolithiase ou la pyélonéphrite, une évaluation initiale erronée n’est pas rare, retardant l’établissement du diagnostic de jusqu’à plusieurs jours après le début des symptômes dans jusqu’à 50% des cas [6, 7]. Cependant, ni l’urolithiase, ni la pyélonéphrite ne présentent un taux accru de LDH, faisant de celui-ci un paramètre «de base» significatif pour le diagnostic différentiel en présence de douleurs du flanc. En règle générale, le taux de LDH augmente rapidement à la suite d’un infarctus rénal. Lors de la consultation initiale de notre patient cinq jours après le début des douleurs, le taux de LDH était seulement légèrement élevé et a continué d’augmenter jusqu’à la deuxième consultation. Comme l’hypertension mise en évidence pour la première fois lors de la deuxième consultation, les douleurs initiales du flanc ont probablement été causées par la dissection de l’artère rénale elle-même, puis par l’infarcissement rénal probablement répété.
+
+Dans les situations d’urgence, la tomodensitométrie abdominale faisant appel à un produit de contraste intraveineux constitue l’imagerie de choix avec mise en évidence de plusieurs défauts de perfusion typiquement cunéiformes au niveau du parenchyme rénal, susceptibles de toucher les deux reins dans 20% des cas [1, 4]. Des infarctus spléniques concomitants peuvent être mis en évidence dans jusqu’à 30% des cas [5]. L’imagerie par résonance magnétique (IRM) abdominale au gadolinium est mentionnée comme alternative, son utilisation pouvant toutefois être limitée en fonction des ressources du service d’urgence concerné. En raison de sa faible sensibilité de 27%, l’échographie des reins n’est pas à recommander pour la mise en évidence d’un infarctus [2].
+
+Le traitement de l’infarctus rénal est généralement conservateur (analgésie, anticoagulation, antihypertenseurs). Un traitement interventionnel ou une lyse ne sont indiqués que dans des cas relativement rares tels qu’un infarctus rénal massif (en principe, occlusion totale d’une artère rénale) et lors de l’établissement précoce du diagnostic (moins de 24 heures après le début des symptômes). Le traitement interventionnel n’est généralement pas indiqué à la suite d’un infarctus rénal complet passé. L’angioplastie transluminale percutanée (ATP) réalisée ultérieurement chez notre patient avait pour but de traiter la sténose de l’artère rénale sévère et non pas les zones rénales déjà infarcies (ayant donc subi des dommages irréversibles).
+
+Les données actuelles sont encore insuffisantes pour pouvoir poser un pronostic après un infarcuts rénal aigu. Le développement d’une hypertension artérielle et d’une insuffisance rénale ainsi qu’une mortalité accrue sont décrits [1, 4].
+
+L’essentiel pour la pratique
+
+• En présence de la triade typique (douleurs du flanc/de l’abdomen, hématurie, taux accru de LDH), il convient, en cas de tomodensitométrie native normale de l’abdomen, de rechercher l’infarctus rénal aigu par administration supplémentaire de produit de contraste intraveineux.
+
+• La fibrillation auriculaire est considérée comme la cause la plus fréquente d’un infarctus rénal aigu, bien qu’aucune cause ne puisse être détectée dans jusqu’à 30% des cas.
+
+• Le traitement de l’infarctus rénal est généralement conservateur et ­interventionnel/chirurgical uniquement dans des cas exceptionnels.

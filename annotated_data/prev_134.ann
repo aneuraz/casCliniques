@@ -1,0 +1,35 @@
+T1	disorder 52 69	arythmie complète
+T2	disorder 74 99	fibrillation auriculaire 
+T3	disorder 102 124	insuffisance coronaire
+T4	drugs 162 188	anti-agrégant plaquettaire
+T5	drugs 190 204	Cardiosolupsan
+T6	disorder 259 277	coxarthrose droite
+T7	procedure 433 459	pose d’une prothèse totale
+T8	drugs 638 654	anti-coagulation
+T9	procedure 821 832	hémoglobine
+T10	labvalue 835 848	15.9 g/100 ml
+T11	procedure 1095 1128	arthroplastie totale de la hanche
+T12	procedure 2270 2289	fréquence cardiaque
+T13	labvalue 2305 2312	100/min
+T14	procedure 2240 2258	tension inférieure
+T15	labvalue 2261 2262	9
+T16	disorder 2634 2674	fréquence cardiaque était très accélérée
+T17	disorder 3173 3183	saignement
+T18	procedure 3211 3213	PA
+T19	labvalue 3214 3219	97/44
+T20	labvalue 3228 3231	130
+T21	procedure 3222 3227	pouls
+T22	drugs 3269 3278	Cordarone
+T23	drugs 3313 3323	Elohes 500
+T24	drugs 3327 3336	Cordarone
+T25	disorder 3522 3533	tachycardie
+T26	labvalue 4083 4095	5.5 g/100 ml
+T27	procedure 4069 4080	hémoglobine
+T28	procedure 4120 4131	créatinémie
+T29	disorder 4135 4163	chute de la réserve alcaline
+T30	drugs 4216 4224	Atropine
+T31	procedure 4535 4546	hémoglobine
+T32	labvalue 4549 4560	10 g/100 ml
+T33	disorder 4647 4698	syndrome de coagulation intra-vasculaire disséminée
+T34	disorder 5019 5045	hémorragie post opératoire
+T35	procedure 5089 5127	mise en place d’une prothèse de hanche

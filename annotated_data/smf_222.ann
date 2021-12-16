@@ -1,0 +1,91 @@
+T1	disorder 132 159	 faiblesse musculaire aiguë
+T2	disorder 474 494	douleurs musculaires
+T3	disorder 530 544	perte de force
+T4	disorder 815 841	 gyné­comastie bilatérale 
+T5	procedure 873 891	échocardiographie 
+T6	risk 1016 1055	pression artérielle relativement élevée
+T7	disorder 1073 1084	tachycardie
+T8	disorder 1602 1659	faiblesse prononcée des muscles de la ceinture scapulaire
+T9	disorder 1765 1837	éflexes tendineux profonds des quatre membres étaient nettement diminués
+T10	disorder 2124 2130	goitre
+T11	disorder 2031 2077	gonflement manifeste de la région thyroïdienne
+T12	disorder 2194 2202	myxœdème
+T13	disorder 2234 2250	peau était moite
+T14	disorder 2269 2279	cicatrices
+T15	disorder 2351 2374	gynécomastie bilatérale
+T16	irrelevant 2386 2467	Figure 1: Goitre et cicatrices bilatérales provenant ­d’une ­gynécomastie opérée.
+T17	labvalue 2560 2570	1,3 mmol/l
+T18	disorder 2537 2549	hypokaliémie
+T19	disorder 2586 2600	hypomagnésémie
+T20	labvalue 2611 2622	0,6 mmol/l 
+T21	labvalue 2663 2673	113 mmol/l
+T22	procedure 2641 2659	valeur de chlorure
+T23	procedure 2688 2706	valeurs de glucose
+T24	procedure 2711 2727	créatine kinase 
+T25	procedure 2736 2746	créatinine
+T26	procedure 2751 2757	sodium
+T27	procedure 2762 2769	calcium
+T28	procedure 2774 2783	phosphate
+T29	labvalue 2802 2810	normales
+T30	procedure 2815 2853	test urinaire de dépistage de drogues 
+T31	labvalue 2859 2866	négatif
+T32	procedure 2877 2901	urines spontanées, le K+
+T33	labvalue 2913 2923	 17 mmol/l
+T34	labvalue 2940 2950	 10 mmol/l
+T35	labvalue 2990 2993	1,7
+T36	procedure 2928 2938	créatinine
+T37	procedure 2958 2987	quotient potassium/créatinine
+T38	procedure 2998 3018	 gazométrie veineuse
+T39	procedure 3062 3064	pH
+T40	procedure 3071 3075	HCO3
+T41	labvalue 3077 3085	21 mEq/l
+T42	labvalue 3065 3069	7,33
+T43	procedure 3092 3111	électrocardiogramme
+T44	procedure 3113 3116	ECG
+T45	disorder 3145 3156	tachycardie
+T46	disorder 3171 3205	amplitude élevée des complexes QRS
+T47	disorder 3304 3333	intervalle QT corrigé allongé
+T48	disorder 3209 3290	 sous-dé­calage du segment ST dans les dérivations inférieures et antérolatérales
+T49	irrelevant 3346 3537	Figure 2: ECG lors de l’admission du patient: rythme sinusale (90/min.), ­intervalle QT corrigé allongé (557 msec.) et sous-décalage du segment ST dans les ­dérivations II, III, aVF et V4–V6.
+T50	disorder 3541 3553	hypokaliémie
+T51	disorder 3687 3718	faiblesse musculaire proximale 
+T52	procedure 3753 3755	CK
+T53	labvalue 3756 3764	normales
+T54	disorder 3810 3836	paralysies hypokaliémiques
+T55	disorder 3849 3863	hyperthyroïdie
+T56	disorder 3915 3942	 paralysies hypokaliémiques
+T57	disorder 4011 4022	tachycardie
+T58	irrelevant 4081 4170;4171 4245;4246 4291;4292 4322;4323 4348;4349 4371;4372 4397;4398 4436;4437 4448;4449 4476;4477 4499;4500 4523;4524 4568;4569 4623	Tableau 1: Diagnostics différentiels de la paralysie hypokaliémique (adapté d’après [3]). Déplacement du potassium dans la cellule	Paralysie périodique thyrotoxique Paralysie périodique hypokaliémique familiale Paralysie périodique spontanée Syndrome d’Andersen-Tawil Intoxication au baryum Abus/surdosage d’insuline Surdosage d’agonistes β2 adrénergiques Chloroquine Toxicité de la théophylline Toxicité de la caféine Cocaïne ou amphétamines Etat consécutif à un effort physique extrême Perte de potassium	Alcalose métabolique hypokaliémique
+T59	irrelevant 4628 4661;4662 4692;4693 4716;4717 4743;4744 4761;4762 4811;4812 4839;4840 4888;4889 4929;4930 4955;4956 4988;4989 5013;5014 5050;5051 5102;5103 5122;5123 5139;5140 5170	Pression artérielle normale-basse  	 	– Perte gastro-intestinale  	 	– Anorexie/boulimie  	 	– Alcoolisme chronique  	 	– Diurétiques  	 	– Syndrome de Bartter et syndrome de Gitelman  	• Hypertension artérielle  	 	– Hyperaldostéronisme primaire ou secondaire  	 	– Consommation chronique de réglisse  	 	– Syndrome de Cushing  	 	– Déficit en 11β-hydroxylase  	 	– Syndrome de Liddle Acidose métabolique hyperchlorémique  	• Acidose tubulaire rénale (proximale ou distale)  	• Diarrhée sévère  	• Néphrostomie Reniflement de colle chronique
+T60	disorder 5212 5238	 thyrotoxicose auto-immune
+T61	procedure 5244 5247	TSH
+T62	labvalue 5248 5259	<0,006 mU/l
+T63	labvalue 5279 5291	31,4 pmol/l 
+T64	labvalue 5309 5321	62,2 pmol/l 
+T65	labvalue 5336 5359	titres positifs élevés 
+T66	procedure 5272 5275	fT3
+T67	procedure 5302 5305	fT4
+T68	procedure 5361 5392	anticorps anti-TPO et anti-TRAK
+T69	disorder 5434 5440	goitre
+T70	procedure 5396 5421	’échographie thyroïdienne
+T71	procedure 5576 5603	échographie doppler couleur
+T72	disorder 5629 5649	hypervascularisation
+T73	irrelevant 5769 5842	Figure 3: Echographie doppler couleur de la thyroïde («thyroid inferno»).
+T74	disorder 5888 5926	paralysie hypo­kaliémique thyrotoxique
+T75	disorder 5946 5965	 maladie de Basedow
+T76	disorder 6033 6047	hyperthyroïdie
+T77	disorder 6073 6085	gynécomastie
+T78	disorder 6087 6099	hypertension
+T79	disorder 6101 6112	tachycardie
+T80	procedure 6234 6283	traitement de substitution du potassium/magnésium
+T81	procedure 6163 6227	administration intraveineuse prudente de solutions cristalloïdes
+T82	disorder 6395 6413	crise thyrotoxique
+T83	drugs 6466 6477	propranolol
+T84	drugs 6515 6528	dexaméthasone
+T85	drugs 6585 6596	carbimazole
+T86	disorder 6666 6684	 force musculaire 
+T87	disorder 6689 6701	hypokaliémie
+T88	disorder 6737 6748	tachycardie
+T89	irrelevant 7333 7343;7345 8563;8565 9012;9014 10742	Discussion  La paralysie périodique thyrotoxique (PPT) est une ­complication inquiétante et potentiellement fatale de l’hyperthyroïdie, qui se caractérise par une paralysie musculaire aiguë et une hypokaliémie en raison d’un transfert massif du potassium vers le milieu intracellulaire. Les trois principales caractéristiques de la PPT sont dès lors la paralysie, l’hypokaliémie et la thyrotoxicose. Cette maladie affecte principalement les patients masculins d’origine asiatique âgés de 20 à 40 ans. En raison de la plus grande sensibilisation à cette maladie, de la mobilité accrue de la population et du mélange des différentes ethnies, la PPT est désormais aussi plus souvent diagnostiquée dans les pays occidentaux [1]. Une crise se caractérise par des épisodes transitoires récurrents de faiblesse musculaire, pouvant entraîner une paralysie flasque légère à complète [2, 3]. Les muscles proximaux sont davantage affectés que les muscles distaux. En règle générale, les membres inférieurs sont d’abord touchés par la faiblesse musculaire en cas de crise, avec une extension consécutive à la ceinture pelvienne et aux membres supérieurs. La fonction sensorielle n’est pas altérée. L’atteinte musculaire peut être asymétrique.  Des symptômes prodromiques, tels que douleurs, crampes et rigidité des muscles touchés, peuvent également survenir. Chez la majorité des patients, les ­réflexes tendineux profonds sont nettement diminués ou absents. L’électroneuromyographie réalisée durant une crise montre des altérations myopathiques ­typiques avec amplitude diminuée des potentiels d’action musculaires composés [2]. La vitesse de conduction nerveuse est cependant normale [2].  Chez les patients atteints de PPT, la crise survient généralement durant la nuit ou tôt le matin, raison pour ­laquelle l’affection était autrefois appelée «paralysie du sommeil». Les paralysies du sommeil sont toutefois plus fréquentes dans le cadre du syndrome de narcolepsie-cataplexie, qui doit avant tout être suspecté en cas d’hallucinations durant la phase de sommeil ou de réveil et doit être évalué au moyen d’une vidéo-po­lysomnographie. Les crises en cas de PPT font habituellement suite à des repas riches en glucides, à l’ingestion d’en-cas sucrés, à la consommation d’alcool ou à un ­effort physique intense [3]. Le taux de potassium sérique est généralement inférieur à 3,0 mmol/l et peut atteindre des valeurs extrêmement basses. L’hypokaliémie survient suite au transfert rapide et massif du potassium depuis le compartiment extracellulaire vers le compartiment intracellulaire, qui est attribuable à la séquestration du potassium principalement dans les cellules musculaires [1, 3, 4]. Les hormones thyroïdiennes et autres, telles que l’insuline et les catécholamines, peuvent stimuler l’activité de la Na/K-ATPase et inhiber le courant à travers les canaux potassiques voltage-dépendants. Outre une réponse adrénergique accentuée, les patients avec PPT présentent une réponse insulinique excessive au test oral de tolérance au glucose. Il n’est pas définitivement clarifié pourquoi les crises se produisent le plus souvent la nuit. Différents mécanismes complexes semblent jouer un rôle: «fringale musculaire» après un effort physique avec épuisement des réserves de glycogène, sécrétion d’insuline après un repas riche en glucides, séquestration du potassium dans les cellules musculaires au ­repos et autres
+T90	irrelevant 10745 11050;11052 12943	L’hypokaliémie n’est pas liée à des pertes fécales excessives. De même, il n’y a pas de pertes de potassium dans les urines, car l’excrétion urinaire est normale ou faible. L’équilibre acide-base dans le sang est normal. En cas de PPT, le quotient potassium/créatinine est typique­ment <2,0 mmol/mmol [4].  Outre l’hypokaliémie, les patients peuvent être en proie à une hypophosphatémie et à une hypomagnésémie en raison du transfert intracellulaire concomitant au transport du potassium. Les valeurs se normalisent spontanément lorsque le patient se remet de la crise paralytique. Les anomalies électrocardiographiques chez les patients avec PPT peuvent fournir des indices. Chez 83–100% des patients avec PPT, l’ECG est patho­logique [5]. A la fois l’hyperthyroïdie et l’hypokaliémie peuvent affecter le système électrophysiologique du cœur. A côté des arythmies ventriculaires graves et des altérations ECG qui sont liées à l’hypokaliémie (ondes U, aplatissement de l’onde T, sous-décalage du segment ST, allongement de l’intervalle QT), des anomalies ECG, telles qu’une fréquence cardiaque rapide, une amplitude élevée du complexe QRS ou un bloc atrio-ventriculaire, et des complications plus rares, telles que la cardiomyopathie de Tako-Tsubo, peuvent également survenir [5]. En règle générale, la PPT survient lorsque le patient se trouve dans un état d’hyperthyroïdie, si bien que les examens de la fonction thyroïdienne ­permettent au clinicien de poser le diagnostic correct. La PPT peut être déclenchée par n’importe quelle forme d’hyperthyroïdie, tout en sachant que la plupart des patients ont uniquement une thyrotoxicose légère et peuvent même ne présenter aucune anomalie sur le plan clinique. Les différentes formes de l’hyperthyroïdie et la rareté de la PPT font du diagnostic de cette ­maladie un défi [6]. Dès que le patient retrouve un état d’euthyroïdie, la PPT ne survient plus. Un contrôle ­adéquat de l’hyperthyroïdie au moyen de thyréostatiques et d’antagonistes adrénergiques peut dès lors permettre de prévenir des complications cardiopulmonaires graves. Il s’agit là de la pierre angulaire du traitement, dont l’objectif est de prévenir une réapparition de la paralysie.
+T91	irrelevant 12945 12973;12975 13420;13422 13531;13533 13856;13858 14104	L’essentiel pour la pratique  • Les causes les plus fréquentes d’une paralysie musculaire généralisée de progression rapide sont le syndrome de Guillain-Barré, la polymyosite, la rhabdomyolyse (toxique ou pharmacologique), la poliomyélite, la myasthénie, les intoxications, les perturbations électrolytiques sévères, le syndrome de narcolepsie-cataplexie, ainsi que le groupe hétérogène des paralysies périodiques familiales ou acquises (entre autres paralysie thyrotoxique).  • Le diagnostic différentiel d’une paralysie soudaine avec hypokaliémie (sévère) représente un défi clinique.  • En cas de survenue d’une paralysie musculaire soudaine chez un patient, en particulier chez les jeunes hommes après un effort physique intense et/ou un repas copieux riche en glucides, et en présence d’une hypokaliémie, le médecin devrait songer à une paralysie périodique et envisager un lien potentiel avec la thyroïde.  • Le traitement causal réside dans l’inhibition médicamenteuse rapide de l’hyperthyroïdie. En cas d’hypokaliémie dans le contexte d’une PPT, une substitution électrolytique prudente est toujours indiquée afin d’éviter une hyperkaliémie de rebond.

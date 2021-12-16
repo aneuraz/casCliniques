@@ -1,0 +1,23 @@
+T1	risk 55 97	Tabagisme ancien (plus d’un paquet / jour)
+T2	profession 140 164	donne un cours de tennis
+T3	disorder 217 254	douleur thoracique gauche postérieure
+T4	procedure 520 536	’examen clinique
+T5	procedure 549 551	PA
+T6	labvalue 554 567	120 / 70 mmHg
+T7	disorder 593 613	déchirure musculaire
+T8	procedure 629 655	traitement décontracturant
+T9	drugs 660 669	Myolastan
+T10	drugs 674 680	Miorel
+T11	procedure 1502 1522	 traitement prescrit
+T12	procedure 1873 1901	le repos et la thérapeutique
+T13	drugs 2071 2081	Diantalvic
+T14	procedure 2475 2477	PA
+T15	labvalue 2480 2494	120 / 70 mmHg 
+T16	disorder 2502 2544	ouleur exquise à la pression des épineuses
+T17	procedure 2743 2764	rédige une ordonnance
+T18	drugs 2800 2809	Myolastan
+T19	disorder 3326 3332	 mort 
+T20	disorder 3396 3443	dissection aortique touchant l’aorte thoracique
+T21	disorder 3755 3760	décès
+T22	disorder 3780 3790	tamponnade
+T23	disorder 3811 3841	dissection aortique de type I.

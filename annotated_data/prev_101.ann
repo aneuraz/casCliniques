@@ -1,0 +1,42 @@
+T1	irrelevant 0 12	Cas clinique
+T2	disorder 122 129	obésité
+T3	labvalue 131 137	140 kg
+T4	labvalue 143 149	1,90 m
+T5	procedure 158 161	IMC
+T6	labvalue 164 171	38kg/m²
+T7	risk 174 197	tabagisme actif à 40 PA
+T8	disorder 201 221	alcoolisme chronique
+T9	disorder 227 250	hypertension artérielle
+T10	disorder 279 295	dyspnée d’effort
+T11	procedure 300 319	bilan cardiologique
+T12	disorder 361 414	coronaropathie avec un probable infarctus myocardique
+T13	disorder 437 467	entricule gauche hypokinétique
+T14	disorder 481 501	insuffisance mitrale
+T15	disorder 510 530	nsuffisance aortique
+T16	disorder 545 568	rétrécissement aortique
+T17	drugs 609 616	Kerlone
+T18	drugs 618 625	Triatec
+T19	drugs 627 635	Kardégic
+T20	drugs 637 642	Tahor
+T21	profession 661 672	cardiologue
+T22	disorder 781 789	frissons
+T23	procedure 799 810	température
+T24	labvalue 813 817	40°C
+T25	procedure 836 847	température
+T26	labvalue 858 864	38 5°C
+T27	disorder 885 896	courbatures
+T28	disorder 902 911	céphalées
+T29	disorder 928 936	asthénie
+T30	procedure 1028 1043	examen clinique
+T31	procedure 1106 1119	essoufflement
+T32	drugs 1211 1223	amoxycilline
+T33	drugs 1239 1249	Efferalgan
+T34	procedure 1299 1310	température
+T35	labvalue 1317 1321	40°C
+T36	disorder 1428 1436	diarrhée
+T37	procedure 1788 1793	pouls
+T38	labvalue 1819 1834	inférieur à 100
+T39	procedure 1840 1852	auscultation
+T40	disorder 1967 1978	polypnéique
+T41	disorder 2004 2011	cyanose
+T42	irrelevant 2150 2652;2654 3132;3134 4276;4278 4336	• Vers 23h00, le patient était victime d’un malaise (brève perte de connaissance ?). De plus en plus inquiète, la femme du patiente décide d’appeler le SAMU (02h58). A partir des renseignements fournis (et mentionnés sur la bande d’enregistrement): « …antécédents cardiaques, contexte infectieux sévère, impossibilité du patient de répondre lui-même aux questions du régulateur, notion d’un malaise… », le régulateur décide d’engager le véhicule des pompiers (03h03) qui arrivait sur les lieux à 03h25.  • Le message immédiatement transmis par les pompiers au régulateur du SAMU fait état d’importantes difficultés respiratoires et demande l’envoi d’un véhicule médicalisé. Après s’être fait préciser les valeurs de la PA (11/6) mmHg), du pouls (76/min) et de la saturation en O2 (70 %), le régulateur demande aux pompiers de transférer directement le patient après l’avoir mis sous oxygène, dans leur VSAB , au centre hospitalier distant de 20 km, soit environ 15 min de transport.  • Le patient est admis au service d’accueil des Urgences à 04h10 en détresse respiratoire (polypnée à 48/min ; SaO2 à 77% à l’air ambiant) responsable d’un état de choc avec PA conservée mais marbrures périphériques et fièvre à 38,3°C . La radiographie pulmonaire est en faveur d’une pneumopathie bilatérale avec probablement un élément de surcharge surajouté. Après une courte amélioration sous ventilation non invasive, l’instabilité de la PA puis son effondrement conduisait, au bout d’une demi-heure au transfert du patient en réanimation. Une voie veineuse centrale est mise en place pour administration de dobutamine mais la survenue de pauses respiratoires nécessitaient « en catastrophe » une intubation oro-trachéale pour ventilation assistée. Dix minutes après ces mesures, survient une tachycardie ventriculaire à laquelle succède en moins d’une minute un tracé ECG plat. Pendant plus d’une heure, toutes les manœuvres de réanimation cardio-circulatoires échouent à restaurer un rythme cardiaque et le décès est déclaré à 06h23. Deux hémocultures pratiquées lors de l’admission mettront en évidence un Staphylococcus aureus meti-S.  Saisine de la CRCI par l’épouse du patient (février 2006).

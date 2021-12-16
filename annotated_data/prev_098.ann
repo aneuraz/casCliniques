@@ -1,0 +1,47 @@
+T1	risk 97 101	 IVG
+T2	disorder 33 48	Deux grossesses
+T3	profession 178 190	obstétricien
+T4	risk 208 211	IVG
+T5	procedure 216 238	Admission en clinique 
+T6	procedure 270 284	déclenchement 
+T7	profession 298 310	obstétricien
+T8	profession 341 353	obstétricien
+T9	disorder 525 533	angoisse
+T10	drugs 931 940	Spartéine
+T11	disorder 864 871	col 50%
+T12	disorder 873 901	longueur perméable à 1 doigt
+T13	drugs 1067 1078	Syntocinon®
+T14	disorder 1179 1200	contractions utérines
+T15	disorder 1202 1240	TV col postérieur diminué de longueur,
+T16	disorder 1257 1273	céphalique haute
+T17	drugs 1311 1321	péridurale
+T18	procedure 1339 1348	perfusion
+T19	drugs 1352 1363	Syntocinon®
+T20	profession 1377 1389	obstétricien
+T21	disorder 1418 1446	liquide amniotique est clair
+T22	disorder 1497 1531	douleur de la fosse iliaque droite
+T23	profession 1566 1578	obstétricien
+T24	profession 1590 1600	sage-femme
+T25	procedure 1694 1705	césarienne 
+T26	disorder 1798 1816	dilatation de 3 cm
+T27	disorder 1822 1840	hypertonie utérine
+T28	disorder 1858 1888	épisode de bradycardie fœtale 
+T29	disorder 1978 2000	oscillations diminuées
+T30	disorder 2056 2082	 col était toujours à 3 cm
+T31	disorder 2098 2117	bosse séro-sanguine
+T32	profession 2139 2149	sage-femme
+T33	disorder 2225 2231	agitée
+T34	disorder 2263 2283	douleurs abdominales
+T35	drugs 2491 2500	Fentanyl®
+T36	disorder 2557 2591	bradycardie profonde et permanente
+T37	profession 2609 2619	sage-femme
+T38	procedure 2705 2715	césarienne
+T39	disorder 2731 2764	enfant en état de mort apparente 
+T40	disorder 2777 2832	rupture de l’utérus, à gauche, sur le segment inférieur
+T41	disorder 2857 2897	Apgar à 0 à la naissance et de 1 à 5 min
+T42	procedure 2902 2914	réanimation 
+T43	profession 2932 2944	obstétricien
+T44	profession 2950 2962	anesthésiste
+T45	disorder 3036 3050	quadriplégique
+T46	disorder 3051 3079	sans aucune autonomie de vie
+T47	irrelevant 3181 3275	Assignation en référé déposée par les parents de l’enfant pour indemnisation de son préjudice.

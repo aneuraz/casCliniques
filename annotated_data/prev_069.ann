@@ -1,0 +1,59 @@
+T1	disorder 171 181	lombalgies
+T2	procedure 194 218	traitement médicamenteux
+T3	disorder 316 375	 douleur intense et brutale, instantanée dans le bas du dos
+T4	disorder 397 432	membres inférieurs sont insensibles
+T5	disorder 743 757	hernie discale
+T6	disorder 772 781	lombalgie
+T7	disorder 807 866	sensibilité des jambes, des fesses et des parties génitales
+T8	disorder 1111 1117	hernie
+T9	disorder 1125 1140	lombalgie aiguë
+T10	disorder 1167 1195	insensibilité du bas du dos 
+T11	disorder 1543 1557	hernie discale
+T12	disorder 1997 2007	lombalgies
+T13	disorder 2660 2672	 lombalgies 
+T14	procedure 2737 2755	traitement médical
+T15	procedure 2778 2790	infiltration
+T16	procedure 2794 2802	 scanner
+T17	disorder 2858 2872	lombosciatique
+T18	disorder 2925 2970	 une hernie discale L5-S1 en partie calcifiée
+T19	disorder 3048 3072	claudication articulaire
+T20	disorder 3231 3242	 lombalgies
+T21	procedure 3342 3356	consultations 
+T22	drugs 3376 3396	anti-inflammatoires 
+T23	procedure 3404 3417	manipulations
+T24	irrelevant 3449 3621	Il est noté dans le dossier médical que le patient était alors licencié, en deuil d’une parente proche et avait fait état de problèmes médicaux sérieux pour un autre parent
+T25	procedure 3731 3735	 IRM
+T26	irrelevant 3828 4284	Mercredi 17h30 : sa femme aurait tenté d’obtenir un rendez-vous dans la région, ce qui était impossible, et décide de contacter un cabinet de la grande ville où ils habitent habituellement, dans un établissement privé disposant d’une IRM. Le patient n’a pas pensé joindre son « médecin traitant » qui le suivait pour d’autres pathologies, n’ayant pas pensé « dans sa souffrance et sa désorientation, faire appel à lui, alors que c’est un très bon médecin »
+T27	disorder 4479 4501	troubles sphinctériens
+T28	procedure 4557 4578	traitement antalgique
+T29	drugs 4589 4596	codéine
+T30	disorder 4635 4645	lombalgies
+T31	disorder 4849 4867	troubles sensitifs
+T32	disorder 5259 5265	hernie
+T33	disorder 5283 5308	 problèmes sphinctériens 
+T34	procedure 5531 5534	IRM
+T35	disorder 5587 5639	bilan de lombosciatique avec troubles sphinctériens 
+T36	drugs 5664 5671	 Forlax
+T37	drugs 5672 5682	 Moscontin
+T38	drugs 5684 5694	Biprofénid
+T39	drugs 5698 5704	Mopral
+T40	disorder 5797 5805	 douleur
+T41	disorder 5811 5833	troubles sphinctériens
+T42	procedure 5877 5880	IRM
+T43	procedure 6120 6143	médicaments antalgiques
+T44	procedure 6240 6243	IRM
+T45	irrelevant 6367 7035	C’est le seul contact noté dans son dossier (mais il était absent de son cabinet la veille). D’après le patient et sa femme, il n’a donné aucune information sur l’extrême gravité de la situation, n’a pas prononcé le terme de « syndrome de la queue de cheval » et aurait confirmé que le rendez-vous d’IRM obtenu avec difficulté le vendredi soir était fixé dans un délai acceptable. Le médecin dira ultérieurement qu’il n’a pas cautionné la date du rendez-vous d’IRM et affirme que le patient aurait pu être reçu dans n’importe quel hôpital sans courrier. Il déclarera que pour lui c’était une urgence mais qu’il a faxé l’ordonnance « par réflexe » « pour le soulager ».
+T46	irrelevant 7037 7592	Jeudi soir : le patient rentre à son domicile allongé dans sa voiture. Il téléphone à un ami dentiste pour annuler un rendez-vous prévu la semaine suivante. Celui-ci, ne cachant pas son inquiétude, lui conseille d’aller aux urgences. Le patient estimant que les médecins vus ou contactés sur place ne lui avaient pas parlé d’urgence, « n’a pas trop insisté » ce d’autant « que son épuisement ne l’incitait pas à repartir pour un parcours du combattant de 8 heures dans un hôpital, ce qu’il avait vécu de nombreuses fois avec une parente avant son décès ».
+T47	disorder 7681 7701	difficultés à uriner
+T48	irrelevant 7704 8701	Vendredi matin, vers 8h00 : son dentiste le rappelle pour prendre de ses nouvelles. Très inquiet après son appel de la veille, il lui aurait déclaré « avoir passé une mauvaise nuit de ce fait» et lui aurait exposé clairement qu’il s’agissait pour lui d’un « syndrome de la queue de cheval », « une urgence vitale neurologique » et qu’il fallait qu’il soit rapidement pris en charge par un chirurgien du rachis. Il lui aurait précisé « qu’il n’était que dentiste » mais que ces symptômes faisaient partie de toute formation de base en médecine générale. Il lui donne les cordonnées d’un chirurgien orthopédiste. Le patient réussit à joindre ce chirurgien sur son portable dont le numéro lui a été donné par le secrétariat et lui expose ce qu’a dit son dentiste, avis contraire aux médecins « qui n’auraient rien détecté ». Le chirurgien étonné de ces discordances, lui demande de venir immédiatement dans son établissement vers 10h00, lui déclarant d’emblée « si c’est vrai, je vous opère aussitôt 
+T49	procedure 8732 8739	scanner
+T50	procedure 8968 8973	opère
+T51	disorder 9013 9020	 hernie
+T52	disorder 9124 9159	séquelles sphinctériennes majeures 
+T53	disorder 9160 9183	auto sondages urinaires
+T54	disorder 9185 9216	exonération manuelle des selles
+T55	disorder 9218 9243	impuissance et anérection
+T56	disorder 9250 9268	séquelles motrices
+T57	disorder 9278 9300	 paraplégie incomplète
+T58	disorder 9484 9518	souffre de douleurs neuropathiques
+T59	irrelevant 9521 9683	Le patient reproche au médecin du centre 15 d’avoir négligé l’urgence et au médecin de garde de ne pas l’avoir bien examiné et porte sa réclamation devant la CCI.

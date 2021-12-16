@@ -1,0 +1,37 @@
+T1	irrelevant 2009 2023	2010/08/24, ms
+T2	irrelevant 1966 2005	Etape suivante : choix du bilan initial
+T3	procedure 1339 1362	 température tympanique
+T4	labvalue 1363 1371	38.9°C, 
+T5	procedure 1371 1373	TA
+T6	labvalue 1374 1386	115/90 mmHg,
+T7	labvalue 1387 1407	125 pulsations/min.,
+T8	labvalue 1408 1427	32 respirations/min
+T9	procedure 1488 1511	Status cardiovasculaire
+T10	procedure 1514 1547	auscultation cardiaque lointaine,
+T11	disorder 1582 1611	oedème des membres inférieurs
+T12	disorder 1555 1577	turgescence jugulaire 
+T13	procedure 1613 1633	Status respiratoire 
+T14	disorder 1642 1649	cyanose
+T15	procedure 1890 1945	Les status abdominal, neurologique et ostéo-articulaire
+T16	irrelevant 30 47	Anamnèse actuelle
+T17	disorder 102 110	 tousser
+T18	disorder 137 143	épuisé
+T19	disorder 148 158	ranspirant
+T20	disorder 213 231	sensation de froid
+T21	disorder 263 281	trouble du transit
+T22	disorder 293 306	aucun appétit
+T23	disorder 374 384	toux sèche
+T24	labvalue 443 448	38.6°
+T25	procedure 418 430	 température
+T26	disorder 503 519	La toux persiste
+T27	disorder 565 614	expectoration épaisse jaunâtre sans trace de sang
+T28	disorder 616 624	La toux 
+T29	disorder 636 653	 douleur du flanc
+T30	drugs 816 823	calmant
+T31	disorder 948 969	infarctus myocardique
+T32	disorder 1018 1034	 une tuberculose
+T33	disorder 1100 1122	Infarctus myocardique 
+T34	disorder 1137 1141	HTA 
+T35	risk 1151 1160	Tabagisme
+T36	drugs 1233 1242	Atenolol 
+T37	drugs 1255 1279	Acide acétyl-salicylique

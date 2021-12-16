@@ -1,0 +1,109 @@
+T1	irrelevant 10 358	Chez les patients atteints d’immunodéficience commune variable («common variable immunodeficiency» [CVID]) les infections sont fréquentes, sérieuses, et ­parfois difficiles à mettre en évidence. Des examens ­cliniques complets et répétés sont nécessaires à l’obtention d’un diagnostic, associés à des examens biologiques et radiologiques appropriés
+T2	disorder 436 440	CVID
+T3	procedure 453 463	perfusions
+T4	disorder 527 554	prolifération lymphocytaire
+T5	disorder 564 589	atteinte multi-systémique
+T6	disorder 659 672	splénomégalie
+T7	procedure 688 700	splénectomie
+T8	disorder 732 755	entéropathie exsudative
+T9	procedure 770 794	substitution en albumine
+T10	disorder 809 827	anémie hémolytique
+T11	disorder 860 885	thrombopénie périphérique
+T12	disorder 830 846	anticorps chauds
+T13	disorder 888 915	anticorps anti-thrombocytes
+T14	procedure 929 944	corticothérapie
+T15	procedure 964 972	consulte
+T16	disorder 986 995	céphalées
+T17	disorder 999 1008	nucalgies
+T18	disorder 1025 1036	photophobie
+T19	disorder 1041 1065	 troubles de l’équilibre
+T20	disorder 1074 1082	 fébrile
+T21	disorder 1090 1102	vomissements
+T22	disorder 1190 1197	fébrile
+T23	disorder 1241 1257	raideur de nuque
+T24	disorder 1280 1311	dysmétrie aux tests cérébelleux
+T25	disorder 1325 1355	instabilité au test de Romberg
+T26	irrelevant 1358 1410;1413 1450;1452 1496;1498 1523;1525 1550;1552 1579	Question 1: Quel est le diagnostic le plus probable?   a) Méningite à Neisseria meningitidis  b) Rhombencéphalite à Listeria monocytogenes  c) Encéphalite herpétique  d) Gastro-entérite virale  e) Intoxication alimentaire
+T27	disorder 1599 1616	immunosupression 
+T28	disorder 1617 1621	CVID
+T29	procedure 1623 1639	 corticothérapie
+T30	procedure 1642 1654	splénectomie
+T31	disorder 1711 1728	rhombencéphalite 
+T32	disorder 1756 1777	atteinte cérébelleuse
+T33	procedure 2000 2017	bilan laboratoire
+T34	labvalue 2022 2028	aligné
+T35	disorder 2050 2056	anémie
+T36	labvalue 2057 2063	stable
+T37	risk 1130 1152	consommation d’huîtres
+T38	irrelevant 2066 2142;2145 2187;2189 2228;2230 2269;2271 2329;2331 2369	Question 2: Quelle est la prise en charge initiale (dans l’ordre mentionné)?   a) Antibiotiques et ponction lombaire (PL)  b) Hémocultures (HC), PL, antibiotiques  c) HC, PL, antibiotiques et corticoïdes  d) HC, antibiotiques, corticoïdes, scanner cérébral +/- PL  e) Antibiotiques, IRM cérébrale +/- PL
+T39	procedure 2386 2400	d’hémocultures
+T40	disorder 2455 2481	déficit neurologique focal
+T41	disorder 2502 2519	immunosuppression
+T42	procedure 2525 2533	imagerie
+T43	procedure 2559 2576	ponction lombaire
+T44	risk 2604 2623	engagement cérébral
+T45	irrelevant 2625 3163	Selon les guidelines de l’«European Society of Clinical Microbiology and Infectious Diseases» (ESCMID) [1], les critères retenus à l’imagerie avant PL sont la présence de déficits neurologiques focaux, des convulsions, un score de Glasgow inférieur à 10 ou la présence d’une immunosuppression. L’initiation de l’antibiothérapie ne doit pas être retardée par l’imagerie. Une corticothérapie permet une diminution des séquelles neurologiques, notamment la surdité, ainsi que de la mortalité lors de méningites à Streptococcus pneumoniae [1]
+T46	drugs 3204 3216	 ceftriaxone
+T47	drugs 3220 3232	amoxicilline
+T48	drugs 3238 3247	aciclovir
+T49	procedure 3278 3293	corticothérapie
+T50	procedure 3339 3355	scanner cérébral
+T51	procedure 3399 3402	PL 
+T52	disorder 3412 3422	 infection
+T53	labvalue 3463 3469	29 G/l
+T54	labvalue 3508 3513	(78%)
+T55	labvalue 3530 3540	3,8 mmol/l
+T56	labvalue 3554 3564	 2 mmol/l 
+T57	labvalue 3583 3592	1721 mg/l
+T58	procedure 3596 3638	examen direct du liquide céphalo-rachidien
+T59	procedure 3703 3706	PCR
+T60	procedure 3709 3734	polymerase chain reaction
+T61	labvalue 3925 3933	négative
+T62	disorder 3951 3971	déficit neurologique
+T63	procedure 3993 3999	bilan 
+T64	procedure 4020 4028	imagerie
+T65	procedure 4055 4058	IRM
+T66	disorder 4132 4138	lésion
+T67	disorder 4273 4286	abcès pyogène
+T68	procedure 4352 4355	IRM
+T69	disorder 4363 4412	ésion polylobulée du vermis cérébelleux supérieur
+T70	disorder 4438 4458	capsule hypointense 
+T71	disorder 4472 4502	hyperintense en pondération T2
+T72	disorder 4508 4549	hyperintense sur la séquence de diffusion
+T73	disorder 4570 4612	chute du coefficient apparent de diffusion
+T74	procedure 4639 4657	contraste linéaire
+T75	procedure 4677 4686	injection
+T76	procedure 4741 4749	imagerie
+T77	procedure 4839 4852	spectroscopie
+T78	labvalue 4875 4878	pic
+T79	disorder 4944 4957	abcès vermien
+T80	procedure 5185 5201	hospitalisation 
+T81	disorder 5243 5249	sepsis
+T82	disorder 5443 5455	bactériémie 
+T83	drugs 5498 5509	ceftriaxone
+T84	irrelevant 7374 7489;7492 7512;7514 7592;7594 7613;7615 7644;7646 7672	Question 4: Quels germes sont les plus fréquents dans les infections cérébrales chez les patients atteints de CVID?   a) Toxoplasma gondii  b) Streptococcus pneumoniae, Neisseria meningitidis ou ­Haemophilus influenzae  c) Aspergillus spp.  d) Mycobacterium tuberculosis  e) Cryptococcus neoformans
+T85	irrelevant 5541 5610;5613 5639;5641 5686;5688 5715;5717 5761;5763 5794	Question 3: Quelle antibiothérapie est la plus appropriée à ce stade?   a) Ceftriaxone + aciclovir  b) Ceftriaxone + amoxicilline + metronidazole  c) Piperacilline-tazobactam  d) Ceftriaxone + métronidazole + vancomycine  e) Amoxicilline + métronidazole
+T86	drugs 5870 5881	ceftriaxone
+T87	drugs 5998 6009	ceftriaxone
+T88	drugs 6014 6027	métronidazole
+T89	drugs 6109 6120	vancomycine
+T90	drugs 6158 6170	amoxicilline
+T91	drugs 6176 6185	aciclovir
+T92	labvalue 6230 6240	 négative 
+T93	procedure 6217 6221	PCR 
+T94	disorder 6248 6253	abcès
+T95	disorder 6447 6494	fistulisation de l’abcès vers le 4èmeventricule
+T96	procedure 6505 6525	drainage chirurgical
+T97	procedure 6531 6543	prélèvements
+T98	drugs 6633 6644	ceftriaxone
+T99	procedure 6597 6607	traitement
+T100	procedure 6684 6701	neuro-rééducation
+T101	procedure 6762 6777	hospitalisation
+T102	procedure 6787 6809	contrôles ambulatoires
+T103	irrelevant 6822 7227	Streptoccocus intermedius fait partie des streptocoques du groupe «milleri», impliqués dans 50–80% des abcès cérébraux [3]. Ce germe fait partie de la flore digestive. Une infection du système nerveux central fait suite à une dissémination par voie hématogène (bactériémie, endocardite) ou à une infection de la sphère ORL (otite, sinusite). A noter que plus de 20% des abcès cérébraux sont polymicrobiens
+T104	irrelevant 7674 8247	Même si tous ces germes peuvent être impliqués, les patients atteints de CVID sont plus susceptibles aux germes encapsulés. L’atteinte immunologique de cette maladie est caractérisée par un déficit de différentiation des lymphocytes B en lymphocytes B mémoire et en plasmocytes, provoquant un déficit de production d’IG ainsi qu’une diminution de la réponse cellulaire aux antigènes polysaccarides et protéiques [4]. Dans le cas de notre patient, une corticothérapie et une splénectomie se surajoutent, majorant l’éventail de pathogènes auxquels le patient est susceptible.
+T105	irrelevant 8249 8659	Toxoplasma gondii et Cryptococcus neoformans concernent avant tout les patients avec une immunodéficience cellulaire, comme le VIH. Aspergillusspp. se retrouve chez les patients immunosupprimés suite à une transplantation ou atteints d’une maladie hématologique avec une neutropénie prolongée. L’infection à Mycobacterium tuberculosisavec atteinte ­cérébrale peut se retrouver chez tout patient immunosupprimé.
+T106	irrelevant 8661 8737;8740 8781;8783 8811;8813 8834;8836 8866;8868 8875	Question 5: Quelle prophylaxie anti-infectieuse est nécessaire dans la CVID?   a) Vaccination pour les germes encapsulés  b) Co-trimoxazole 3×/semaine  c) IG 1×/3–4 semaines  d) Valaciclovir prophylactique  e) Rien
+T107	irrelevant 8877 9819	Même si la susceptibilité aux infections des patient ­atteints de CVID concerne avant tout les germes encapsulés, la vaccination est inefficace. La réponse immunologique est altérée et n’engendre pas de production d’IG à des taux protecteurs. De plus, la réponse lymphocytaire B mémoire, espérée lors d’une vaccination, est souvent insuffisante et inefficace. L’administration de co-trimoxazole n’est pas nécessaire systématiquement, les patients ne présentant pas de susceptibilité particulière au Pneumocystis jiroveci, excepté lors de corticothérapie surajoutée. Il en est de même pour les infections virales, une prophylaxie de valaciclovir n’est pas justifiée chez ces patients, sauf en présence d’une corticothérapie à haute dose. Seule la substitution régulière en IG par voie intraveineuse ou sous-­cutanée permet une amélioration des défenses immunitaires et une réduction de la fréquence des infections et de leurs complications [5]
+T108	irrelevant 9822 10046	En cas d’infection chez un patient souffrant d’immunodéficience, une approche systématique et rapide, suivant les guidelines, sauve la vie de nos patients. Ces cas complexes nécessitent de plus une approche puridisciplinaire
+T109	irrelevant 10049 10062;10065 10104;10106 10121;10123 10142;10144 10181;10183 10214;10216 10236;10238 10247;10250 10309;10310 10324	Abbréviations   CVID «common variable immunodeficiency»  HC Hémocultures  IG Immunoglobulines  IRM Imagerie par résonance magnétique  PCR «polymerase chain reaction»  PL Ponction lombaire  Réponses:   Question 1: a. Question 2: d. Question 3: d. Question 4: b. Question 5: c.

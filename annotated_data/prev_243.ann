@@ -1,0 +1,47 @@
+T1	disorder 140 168	paraplégie sensitivo-motrice
+T2	disorder 170 186	fracture D11-D12
+T3	drugs 194 202	Dantrium
+T4	disorder 248 267	douleurs spastiques
+T5	disorder 285 308	 contractures lombaires
+T6	procedure 330 342	autosondages
+T7	profession 610 616	banque
+T8	disorder 1142 1169	un œdème de la jambe gauche
+T9	procedure 1413 1446	doppler veineux de la jambe gauch
+T10	disorder 1480 1537	thrombo-phlébite des veines tibiales postérieures gauches
+T11	disorder 1557 1613	 thrombose suspendue de la veine fémorale commune gauche
+T12	disorder 1649 1682	séquelle de phlébites antérieures
+T13	drugs 1715 1748	héparine de bas poids moléculaire
+T14	drugs 1818 1827	Préviscan
+T15	disorder 1866 1913	thromboses veineuses du membre inférieur gauche
+T16	procedure 1974 2016	doppler veineux du membre inférieur gauche
+T17	disorder 2053 2058	œdème
+T18	labvalue 2119 2125	normal
+T19	disorder 2175 2180	œdème
+T20	drugs 2636 2639	AVK
+T21	procedure 2668 2702	doppler veineux de la jambe gauche
+T22	disorder 2915 2920	œdème
+T23	disorder 2977 3007	déformation de sa jambe gauche
+T24	procedure 3230 3239	D-Dimères
+T25	labvalue 3258 3268	2691 ng/ml
+T26	procedure 3306 3348	doppler veineux du membre inférieur gauche
+T27	disorder 3382 3493	Phlébothrombose segmentaire du tiers moyen et du tiers inférieur d’une des veines tibiales postérieures gauches
+T28	disorder 4376 4431	déformation de la jambe en valgus avec raccourcissement
+T29	disorder 4460 4470	spasticité
+T30	drugs 4517 4525	Dantrium
+T31	disorder 4542 4576	troubles engendrés sur l’équilibre
+T32	disorder 4610 4653	douleurs de lombo-sciatique gauche tronquée
+T33	disorder 5002 5046	 fracture de l’extrémité supérieure du tibia
+T34	disorder 5050 5078	du péroné de la jambe gauche
+T35	disorder 5107 5118	genu valgum
+T36	procedure 5504 5510	 radio
+T37	procedure 5390 5401	une attelle
+T38	procedure 5866 5916	décortication-greffe plus ostéosynthèse par plaque
+T39	procedure 6020 6047	rééducation post-paraplégie
+T40	procedure 6295 6337	réduction manuelle de la fracture associée
+T41	procedure 6344 6372	attelle en résine circulaire
+T42	procedure 6426 6459	procédé à l’ablation de l’orthèse
+T43	procedure 6475 6503	port d’une attelle de ZIMMER
+T44	procedure 6523 6543	bilan radio-clinique
+T45	disorder 6567 6601	jambe gauches très ostéoporotiques
+T46	disorder 6607 6625	déviation en varus
+T47	disorder 6633 6666	fracture partiellement consolidée

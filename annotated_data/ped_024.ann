@@ -1,0 +1,84 @@
+T1	procedure 171 181	césarienne
+T2	disorder 198 225	stagnation de la dilatation
+T3	disorder 332 339	algique
+T4	disorder 343 351	geignard
+T5	disorder 353 414	ne se calmant pas effectivement dans les bras de ses parents.
+T6	disorder 419 449	empérature est notée à 38,5 °C
+T7	disorder 454 488	fréquence cardiaque est de 144/min
+T8	disorder 493 531	pression artérielle est de 83/59 mmHg 
+T9	disorder 536 551	 poids de 10 kg
+T10	disorder 555 575	abdomen est distendu
+T11	disorder 627 667	palpation semble globalement douloureuse
+T12	disorder 682 718	masse rénitente plutôt hypogastrique
+T13	disorder 723 773	foie est palpé, débordant de 1 cm le rebord costal
+T14	disorder 785 841	pas de splénomégalie et les fosses lombaires sont libres
+T15	disorder 871 888	une selle liquide
+T16	procedure 1036 1060	auscultation pulmonaire 
+T17	disorder 1094 1111	râles bronchiques
+T18	procedure 1115 1126	examen ORL 
+T19	procedure 1151 1170	examen neurologique
+T20	disorder 1227 1241	pas d’éruption
+T21	procedure 1247 1263	bilan biologique
+T22	procedure 1324 1328	 ASP
+T23	procedure 1341 1360	Examens biologiques
+T24	labvalue 1361 1385	NFS – Hb : 10,7 g/100 ml
+T25	labvalue 1388 1406	GR : 4 050 000/mm3
+T26	labvalue 1410 1419	VGM 74 µ3
+T27	labvalue 1423 1452	GB : 15 300/mm3 (68 % de PNN)
+T28	labvalue 1455 1479	Plaquettes : 319 000/mm3
+T29	labvalue 1510 1518	Na : 129
+T30	procedure 1480 1508	Ionogramme sanguin (mmol/l) 
+T31	labvalue 1521 1528	K : 4,7
+T32	labvalue 1531 1548	bicarbonates : 15
+T33	labvalue 1551 1563	urée : 22,8 
+T34	labvalue 1563 1580	Protides : 71 g/l
+T35	labvalue 1581 1603	Calcémie : 2,25 mmol/l
+T36	labvalue 1604 1627	Créatinine : 188 µmol/l
+T37	labvalue 1628 1642	ASAT : 50 UI/I
+T38	labvalue 1657 1671	ALAT : 29 UI/I
+T39	labvalue 1684 1696	CRP : 58 mg/
+T40	procedure 1708 1732	Abdomen sans préparation
+T41	disorder 1734 1841	Masse abdominale médiane, refoulant les anses digestives en périphérie et s’étendant jusqu’au petit bassin.
+T42	disorder 2135 2155	 insuffisance rénale
+T43	labvalue 2165 2199	augmentation de l’urée à 15 mmol/l
+T44	labvalue 2281 2323	augmentation de la créatinine à 180 µmol/l
+T45	procedure 2591 2594	ASP
+T46	disorder 2607 2722	présence d’une masse abdominale médiane refoulant les anses digestives sans signes directs ou indirects d’occlusion
+T47	procedure 2914 2937	Échographie abdominale 
+T48	disorder 2950 3074	Masse liquidienne correspondant à un volumineux globe vésical avec masse médiane sous jacente à l’origine de la compression 
+T49	procedure 3098 3120	Échographie abdominale
+T50	disorder 3129 3201	masse abdominale palpée est liquidienne et correspond à un globe vésical
+T51	disorder 3207 3286	Distension des cavités pyélocalicielles secondaires au globe vésical obstructif
+T52	procedure 3345 3363	Tomodensitométrie 
+T53	disorder 3379 3461	col vésical est refoulé très en avant derrière la symphyse pubienne par une masse 
+T54	disorder 3488 3544	plus postérieure et semblant contenir des calcifications
+T55	disorder 3559 3614	retentissement important sur les voies urinaires hautes
+T56	disorder 3638 3695	extension foraminale et endocanalaire au niveau du sacrum
+T57	procedure 3735 3753	TDM sans injection
+T58	disorder 3755 3768	Globe vésical
+T59	disorder 3772 3812	distension des cavités pyélocalicielles.
+T60	procedure 3817 3835	TDM avec injection
+T61	disorder 3865 3879	globe vésical 
+T62	disorder 3885 3981	présence en arrière d’une masse rétroprostatique comprimant l’urètre contre la symphyse pubienne
+T63	disorder 3992 4039	présence de calcifications dans le petit bassin
+T64	irrelevant 4041 4619	Discussion diagnostique Il s’agit donc de la révélation par une compression vésicale d’une tumeur du petit bassin pouvant faire évoquer deux ou trois diagnostics : – un tératome sacro-coccygien, mais si la tumeur semble contenir quelques calcifications, elle est homogène ; – un rhabdomyosarcome, mais son origine dans le petit bassin pourrait en faire un point de départ prostatique qui semble ici exclu par l’imagerie ; – mais surtout et en premier lieu à cet âge, un neuroblastome pelvien, ce d’autant qu’il existe des calcifications et un doute sur une composante canalaire.
+T65	procedure 4645 4671	pose d’une sonde urinaire 
+T66	disorder 4699 4723	volumineux globe vésical
+T67	disorder 4753 4784	d’urines claires non hématiques
+T68	labvalue 4956 4978	créatinine : 63 µmol/l
+T69	labvalue 4981 4998	urée : 2,2 mmol/l
+T70	irrelevant 5955 9856	Commentaires Le neuroblastome est une tumeur embryonnaire de début périnatal, développée aux dépens du système nerveux sympathique. C’est la plus fréquente des tumeurs solides extracrâniennes de l’enfant : elle représente environ 10 % des cancers de l’enfant, survenant principalement chez le nourrisson. Le mode de révélation est le plus souvent la découverte fortuite d’une masse abdominale (lors d’un examen systématique) ou thoracique (lors d’une radiographie pulmonaire). Mais en fonction de ses multiples localisations possibles, elle peut être révélée par une complic-ation : compression médiastinale d’un neuroblastome thoracique ; syndrome de Claude Bernard Horner d’un neuroblastome cervical ; para-parésie d’un dévelop-pement intracanalairel ; hépatomégalie et/ou tumeurs cutanées d’une forme IV S ; ou encore manifestations osseuses (douleurs, fracture pathologique) des formes métastatiques (60 % au diagnostic). La survenue précoce, la gravité du pronostic, le risque thérapeutique important chez le nourrisson, l’existence de marqueurs biologiques (cf. encadré) ont fait discuter la mise en place de programme de dépistage basé sur le dosage urinaire des catécholamines. Ces études menées au Japon, au Canada et dans certains pays d’Europe ont malheureusement été abandonnées dans la mesure où elles n’ont pas fait la preuve de l’amélioration globale du pronostic : – possibilité de faux positifs et de faux négatifs ; – conditions particulières de recueil des urines ; – dépistage des formes les moins sévères ; – évolutions parfois spontanément résolutives sous forme de maturation des neuroblastes en neurone ou en cellule ganglionnaire mature ; – les neublastomes non sécrétants immatures sont de plus mauvais pronostic. La vigilance clinique, au cours des premières années de vie, et lors des multiples examens cliniques des nourrissons, reste toujours de mise. Marqueurs diagnostiques et pronostiques du neuroblastome Marqueurs diagnostiques Dans 95 % des cas, le neuroblastome est dit sécréteur et le recueil des urines permet d’évaluer le taux des catécholamines urinaires (acide homovanillique [HVA], acide vanillylmandélique [VMA] et dopamine), dont l’excrétion augmentée est fortement évocatrice du diagnostic. Mais 5 % des neuroblastomes, plus indifférenciés, sont « non sécréteurs ». Marqueurs pronostiques Ils sont principalement utilisés dans le but de mieux adapter les protocoles thérapeutiques : Biologiques (et de plus mauvais pronostic) : – LDH sérique ¼ – ferritinémie ¼ Scintigraphiques. L’accumulation de MIBG dans les cellules catécholaminergiques permet de repérer une tumeur primitive non accessible en imagerie (stade IV S), ou de mettre en évidence des métastases (osseuses). Histologiques (et de plus mauvais pronostic) : – neuroblaste indifférencié, absence de développement de stroma (cellule de Schwann), aspect nodulaire ; – MKI (mitosis karyorrhexis index) > 200/5 000 cellules étudiées ; – immuno-histochimie : NSE ¼ (neuron specific enolase). Génétiques – L’expression exagérée (amplification) du gène Nmyc est certainement le facteur pronostique le plus important . Il s’agit d’un oncogène présent sur le chromosome 12 dont la surexpression est en rapport avec une capacité de prolifération plus importante de la tumeur. – Le gène Hras serait, lui, plutôt associé à des tumeur de stade inférieur et de moindre capacité proliférative. – La délétion du bras court du chromosome 1 (1p36) est souvent associée à l’amplification de Nmyc, mais d’autres délétions ont également été décrites (11q, 14q, 17q). – L’expression de gènes produisant des tyrosine kinase (Trk) est un autre élément d’appréciation, mais si l’expression de la TrkA est inversement corrélée à l’expression du gène Nmyc, et donc de bon pronostic, c’est l’inverse pour TrkB. – L’hyperdiploïdie, en revanche, est plutôt l’indice d’une meilleure chimiosensibilité des cellules tumorales. 
+T71	disorder 5152 5165	neuroblastome
+T72	procedure 5262 5269	biopsie
+T73	disorder 5296 5379	neuroblastome peu différencié avec un index mitotique (MKI) faible de l’ordre de 2 
+T74	procedure 5389 5407	biopsie médullaire
+T75	procedure 5416 5470	scintigraphie à la méthyl iodo benzyl guanidine (MIBG)
+T76	procedure 5478 5494	profil génomique
+T77	drugs 5542 5556	chimiothérapie
+T78	drugs 5567 5577	vincristin
+T79	drugs 5580 5589	étoposide
+T80	drugs 5593 5604	carboplatin
+T81	procedure 5690 5710	exérèse chirurgicale
+T82	disorder 5767 5794	tumeur résiduelle au rectum
+T83	disorder 5803 5819	région présacrée
+T84	drugs 5905 5919	chimiothérapie

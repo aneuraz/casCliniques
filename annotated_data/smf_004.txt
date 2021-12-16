@@ -1,0 +1,130 @@
+Description du cas
+
+Un patient de 76 ans, greffé rénal il y a 26 ans en raison d’une polykystose hépatorénale autosomale dominante, est hospitalisé pour asthénie. Parmi ses antécédents, nous notons une hypertension artérielle, une fibrillation auriculaire paroxystique et un adénocarcinome de la prostate Gleason 3+4c T1cN0Mx traité 3 ans auparavant, et en rémission. Le patient a présenté une hématochézie 4 mois avant pour laquelle une colonoscopie a permis l’excision d’un polype de 4 mm non analysé.
+
+Le patient s’est présenté aux urgences, en raison d’une asthénie importante avec perte de 6 kilos en 5 mois. Il signale également augmentation du périmètre abdominal, alternance du transit, inappétence, dyspnée NYHA III, orthopnée, rhinorrhée et odynodysphagie. Il ne mentionne pas d’oligo-anurie. Son traitement consiste en: tacrolimus, torasémide, métolazone, acide acétylsalicylique, métoprolol, simvastatine, lercanidipine, magnésium, calcium, vitamine D, allopurinol, darbépoétine alfa, nicobion sans changements récents.
+
+A l’examen clinique, le patient est cachectique et asthénique. Il est normotendu, normocarde, afébrile et eupnéique. Il n’a pas d’adénopathie. Le fond de gorge montre un écoulement postérieur. L’auscultation cardiopulmonaire est normale. L’abdomen, globuleux, présente des bruits diminués. Il est indolore à la palpation et on perçoit une matité déclive. Le greffon est palpé en fosse iliaque droite. Il n’y a pas d’œdème des membres inférieurs. Le reste du status est sans particularité.
+
+Question 1: Quels examens paracliniques demandez-vous d’emblée à ce stade?
+
+
+a) Colonoscopie avec répétitions de biopsies si nécessaire
+
+b) Bilan sanguin étendu, ultrason pan-abdominal et ponction d’ascite avec analyse
+
+c) CT-scanner corps entier
+
+d) Biopsie rénale
+
+e) Biopsie hépatique
+
+Aux examens paracliniques on relève une anémie normochrome normocytaire à 111 g/l, l’absence de leucocytose, une insuffisance rénale aiguë avec une créatinine 382 µmol/l, eGFR («estimated glomerular filtration rate» selon CKD-EPI [«Chronic Kidney Disease Epidemiology Collaboration]) 12 ml/min/1,73 m2, urée 28 mmol/l sans trouble électrolytique et une augmentation de la protéine C-réactive 12,10 mg/l sans perturbation des tests hépatiques. Les frottis nasopharyngés sont négatifs.
+
+Un ultrason abdominal montre un foie dysmorphique et hétérogène avec multiples kystes hépatiques et une quantité importante de liquide intrapéritonéal dans les 4 quadrants. Le greffon rénal est de taille et de vascularisation normales sans dilatation pyélocalicielle.
+
+Une ponction du liquide d’ascite permettant de retirer 2 litres d’un liquide laiteux avec leucocytes 48 M/l, 0 cellules polynucléées (PMN), 81% macrophages, 18% lymphocytes, lactate déshydrogénase (LDH) 50 U/l, protéines 15,6 g/l, albumine ascite 2 g/l, gradient albumine serum-ascite 3,3 g/dl, triglycérides 1062 mg/dl ayant les caractéristiques d’une ascite chyleuse ou chylo-ascite (CA). Une IRM foie-rate montre une citerne de Pecquet fortement dilatée (fig. 1).
+
+Figure 1: IRM foie-rate (coupe axiale) mettant en évidence une dilatation de la citerne de Pecquet (flèche) sans cause obstructive décelable.
+
+Question 2: Quelle est l’étiologie de la chylo-ascite la moins probable chez ce patient?
+
+a) Filariose
+
+b) Insuffisance cardiaque
+
+c) Syndrome lympho-prolifératif
+
+d) Cause médicamenteuse
+
+e) Processus néoplasique
+
+Nous avons alors passé en revue les étiologies d’une chylo-ascite d’origine atraumatique (tab. 1).
+
+Tableau 1: Récapitulatif des causes atraumatiques de chylo-­ascite par ordre de fréquence [4, 5].
+Causes atraumatiques
+Néoplasie 25%	 	Autres (45%)
+Cancer organes solides	 	Cardiaques
+Lymphome	 	 	Péricardite constrictive
+Tumeurs carcinoïdes	 	 	Insuffisance cardiaque
+Leucémie lymphoïde chronique	 	Inflammatoire
+Maladies acquises	 	 	Pancréatite
+Cirrhoses15%	 	 	Fibrose tissus abdominaux
+Infectieuses 15%	 	 	Sarcoïdose
+ 	Tuberculose	 	 	Lupus érythémateux ­systémique
+ 	Filariose	 	 	Dialyse péritonéale
+ 	Maladie de Whipple	 	Médicamenteux
+ 	 	 	 	Bloqueurs des canaux ­calciques
+ 	 	Sirolimus
+ 	Maladies congénitales
+
+Sur le plan infectiologie, le quantiféron, l’adénosine ­désaminase et la PCR Tropheryma whipplei sont négatifs permettant d’exclure tuberculose et maladie de Whipple. Nous n’avons pas recherché la filariose étant donné l’absence de facteur de risque ni la lymphangiectasie intestinale face à une albuminémie à 36 g/l. Nous avons recherché une néoplasie ou un syndrome lymphoprolifératif. Les analyses cytologiques ainsi que les cytométries de flux sériques et péritonéales sont ­revenues sans particularité, tout comme le PET-scanner. Une échocardiographie ne montre pas de pathologie constrictive. Une lymphangiographie au ­Lipiodol® décèle une fuite au niveau de la veine rénale à la hauteur de corps vertébral de L2 sans obstacle visible (voir fig. S1 dans l’annexe joint à l’article en ligne), la formation spontanée d’une brèche in situ paraissant peu probable. Avec ceci, un épaississement de la paroi de l’œsophage ayant été décrite à l’IRM foie-rate, une oeso-gastro-duodénoscopie a exclu un processus néoplasique. Un remodelage tissulaire survenant après radiothérapie de l’adénocarcinome de la prostate est exclu par la lymphangiographie montrant une fuite au niveau L2, non irradiée lors des séances.
+
+Question 3: Lequel des médicaments pris par le patient peut être incriminé lors de présence de chylo-ascite?
+
+
+a) Acide acétylsalicylique
+
+b) Simvastatine
+
+c) Métoprolol
+
+d) Lercanidipine
+
+e) Vitamine D
+
+Face à l’absence d’autres pistes diagnostiques et de l’existence de rares cas de CA reportés sous traitement de bloqueurs des canaux calciques chez des patients insuffisants rénaux, nous avons suspendu le traitement de lercanidipine [1].
+
+Nous avons aussi mis en place un régime sans graisse strict puis, au vue d’une dénutrition sévère avec score NRS («Nutritional Risk Screening») à 5, avons débuté une nutrition entérale par Survimed® OPD. Un drain abdominal a permis l’évacuation de 10 litres de CA. ­Celui-ci nous a permis de monitorer la production de liquide chyleux qui a diminué en 2 semaines. Le drain a été retiré au départ du patient et il a suivi périmètre abdominal et poids une fois par jour.
+
+En remplacement de la lecarnidipine, nous avons introduit un traitement d’hydrochlorothiazide et de moxonidine après avoir majoré le torasémide.
+
+Après sa sortie, un mauvais contrôle de l’hypertension artérielle oblige son médecin à réintroduire un bloqueur des canaux calciques. Sous ce traitement d’épreuve involontaire, le patient a présenté une récidive de CA. Compte tenu de ce tableau clinique, et du fait que le patient, greffé il y a 26 ans, présente une insuffisance rénale chronique de stade 5, une reprise de la dialyse est décidée permettant de tarir in fine la production de chyle avec stabilisation des paramètres.
+
+Discussion
+
+L’ascite chyleuse, forme rare d’ascite, est définie par une accumulation de lymphe dans la cavité péritonéale. Son diagnostic est posé après une paracentèse abdominale où les triglycérides sont >200 mg/dl (2,3 mmol/l) ou ­selon auteurs à >110 mg/dl (1,2 mmol/l).
+
+Question 4: Quelle affirmation est fausse sur le système lymphatique?
+
+
+a) Ce système englobe lymphe, vaisseaux et tissus lymphatiques et moelle osseuse rouge.
+
+b) La circulation est unidirectionnelle.
+
+c) L’échographie permet d’évaluer ce système.
+
+d) L’insuffisance rénale terminale est associée à un risque d’ascite chyleuse.
+
+e) La lymphangiographie au Lipiodol® est le meilleur examen pour évaluer ce système.
+
+La littérature est pauvre à ce sujet toutefois, en 1982, l’incidence reportée était de 1/20 000 admissions dans un hôpital universitaire sur 20 ans [2].
+
+Brièvement, le système lymphatique suit les vaisseaux avec une circulation propre, unidirectionnelle, des parties distales aux parties proximales convergeant vers la citerne de Pecquet qui est à l’origine du canal thoracique et se situe autour de la deuxième vertèbre lombaire. La lymphangiographie, considéré comme gold-standard, permet d’évaluer le transport lymphatique.
+
+La survenue d’ascite chyleuse peut être liée à quatre phénomènes [3, 4]: 1. interruption de la circulation via intervention chirurgicale ou traumatisme abdominal; 2. phénomène de masse d’une infiltration lymphoproliférative ou maligne ayant pour conséquence une ­dilatation du réseau en amont de la circulation par rapport à la masse; 3. exsudation liée à une fistule; 4. augmentation des pressions hépato-cave et porte via insuffisance cardiaque droite ou cirrhose.
+
+
+Le mécanisme observé est celui des bloqueurs des canaux calciques qui reste mal déterminé mais incrimine les propriétés lipophiles de ce traitement agissant sur les cellules musculaires lisses du tractus gastro-intestinal et sur les vaisseaux lymphatiques entraînant une baisse de l’absorption lymphatique par augmentation de la pression lymphatique hydrostatique. Notons ici que le traitement de monoxidine, fréquemment prescrit, et ayant un effet vasodilatateur central, ne semble pas avoir d’effet sur le système lymphatique. Finalement, l’insuffisance rénale de stade 5 est associée à un risque augmenté d’ascite chyleuse.
+
+Question 5: Quelle première mesure s’avère suspendre la production de chyle?
+
+
+a) Administration de diurétiques agissant sur le tube contourné distal
+
+b) Administration d’une alimentation parentérale en supplément d’une alimentation entérale
+
+c) Application d’un régime strict pauvre en graisse
+
+d) Mise en place d’un ballonnet dans la citerne de Pecquet
+
+e) Ligature du canal thoracique
+
+Concernant le traitement, la pierre angulaire est le traitement spécifique de l’étiologie de l’ascite chyleuse [3, 4]. Sans cause spécifique, nous avons procédé par élimination en stoppant dans un premier temps le traitement incriminé puis en traitant l’insuffisance rénale chronique avancée par hémodialyse. Comme traitement aspécifique, la mise au repos du système lymphatique par régime pauvre en graisses est recommandée. Ce régime est difficile à appliquer car il faut tenir compte des pertes protéiques et lipidiques inhérentes, raison pour laquelle un support nutritionnel est essentiel. Il est nécessaire donc de réduire la production de chyle, de remplacer les pertes et de maintenir un status nutritionnel adéquat. Une nutrition riche en protéines et faible en triglycérides est alors primordiale. Dans le cas où, comme notre patient la nutrition entérale ne suffit pas, il est recommandé alors de débuter une nutrition parentérale. ­Finalement, un traitement de somatostatine ou d’octréotide peut favoriser la fermeture d’une fistule lymphatique même si la cause n’est pas élucidée [4]. Si ce traitement ne fonctionne pas, shunts, embolisation ou intervention chirurgicale sont proposés en dernier lieu. Chez un patient insuffisant rénal de stade 5, la mise en dialyse fait partie intégrante du traitement.
+
+Réponses:
+
+
+Question 1: b. Question 2: a. Question 3: d. Question 4: c. ­Question 5: c.
+
+L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2021.08775.

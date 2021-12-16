@@ -1,0 +1,62 @@
+T1	labvalue 129 137	2 kg 630
+T2	disorder 196 226	portage vaginal streptococciqu
+T3	procedure 231 268	 traitement antibiotique intraveineux
+T4	drugs 314 323	(Clamoxyl
+T5	procedure 486 491	 NFS 
+T6	procedure 498 534	prélèvements à visée bactériologique
+T7	procedure 575 623	prescription d’une antibiothérapie intraveineuse
+T8	drugs 625 639	Pipéracilline 
+T9	procedure 738 765	’examen clinique du pédiatr
+T10	procedure 812 828	’antibiothérapie
+T11	labvalue 857 867	négativité
+T12	procedure 871 901	 prélèvements bactériologiques
+T13	labvalue 1082 1090	2 kg 490
+T14	labvalue 1233 1242	 2 kg 680
+T15	procedure 1426 1437	Température
+T16	labvalue 1438 1443	37° 2
+T17	procedure 1509 1533	Traitement symptomatique
+T18	drugs 1535 1544	Doliprane
+T19	drugs 1547 1561	Bronchorectine
+T20	procedure 1576 1589	lavage du nez
+T21	drugs 1595 1604	Prorhinel
+T22	disorder 1679 1686	fébrile
+T23	labvalue 1847 1852	38°6 
+T24	labvalue 1889 1893	38°2
+T25	labvalue 2273 2279	 37°7 
+T26	drugs 2366 2375	Doliprane
+T27	procedure 2613 2652	traitement antipyrétique était maintenu
+T28	disorder 2912 2919	malaise
+T29	disorder 2948 2966	révulsion oculaire
+T30	disorder 2970 2986	accès de pâleur 
+T31	procedure 3057 3068	température
+T32	labvalue 3071 3076	37°2 
+T33	disorder 3098 3117	cyanose généralisée
+T34	disorder 3119 3137	marbrures cutanées
+T35	procedure 3139 3169	temps de recoloration cutanée 
+T36	labvalue 3170 3186	upérieur à 3 sec
+T37	disorder 3188 3200	tachycardie 
+T38	labvalue 3202 3211	195 / min
+T39	disorder 3342 3354	désaturation
+T40	labvalue 3357 3361	90 %
+T41	procedure 3470 3517	réanimation respiratoire et cardio-circulatoire
+T42	disorder 3708 3767	syndrome respiratoire aigu sur pneumopathie du poumon droit
+T43	procedure 3819 3843	données bactériologiques
+T44	labvalue 3860 3895	Staphylococcus aureus methisensible
+T45	procedure 3905 3917	hémocultures
+T46	procedure 3923 3946	aspirations bronchiques
+T47	procedure 3953 3967	liquide pleura
+T48	procedure 3979 4003	adiographies pulmonaires
+T49	disorder 4088 4133	infection invasive à S.aureus avec septicémie
+T50	disorder 4202 4224	pneumothorax suffocant
+T51	procedure 4240 4259	drainage d’urgence 
+T52	procedure 4386 4402	’antibiothérapie
+T53	drugs 4404 4413	Bristopen
+T54	procedure 4488 4509	’arrêt de la sédation
+T55	procedure 4641 4644	EEG
+T56	procedure 4700 4722	scanographie cérébrale
+T57	procedure 4919 4944	suivie en neuro-pédiatrie
+T58	disorder 5139 5161	diagnostic d’épilepsie
+T59	procedure 5186 5208	xamens complémentaires
+T60	procedure 5215 5229	traitement par
+T61	drugs 5230 5238	Dépakine
+T62	disorder 5547 5570	retard mental important

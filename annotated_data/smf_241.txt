@@ -1,0 +1,158 @@
+Description du cas
+
+Votre patiente, Madame B., âgée de 56 ans, est amenée à votre consultation par son nouvel ami en raison d’un comportement étrange, depuis deux jours.
+
+Vous lui connaissez une situation conjugale difficile depuis peu, et avez introduit un traitement de citalopram. L’anamnèse est laborieuse, car la patiente ne tient pas en place, elle est prolixe et a des difficultés à maintenir son attention. Vous déterminez néanmoins qu’elle n’a présenté ni état fébrile, ni céphalée, ni phono-photophobie. Elle n’aurait consommé ni drogue ni autre médication que celle prescrite, n’aurait pas eu de relation sexuelle extraconjugale ni voyagé. Le reste
+de l’examen clinique est dans la norme.
+
+Question 1: A ce stade de la prise en charge, quel diagnostic vous semble ne pas faire partie du différentiel?
+
+
+a) Etat confusionnel aigu
+
+b) Encéphalite
+
+c) Etat de mal focal non-convulsif
+
+d) Trouble bipolaire
+
+e) Syndrome serotoninergique
+
+Votre patiente présente des troubles de l’attention d’apparition brutale, compatibles avec un état confusionnel. Mais avant de retenir ce diagnostic, il vous faut déterminer le caractère fluctuant au cours de la journée. La cause sous-jacente restera à déterminer.
+
+Une encéphalite est définie par une altération de l’état mental (ici un changement de personnalité) avec des symptômes moteurs, sensitifs ou cognitifs, sans autre cause identifiable, associée à au moins 2 critères dits mineurs: état fébrile, crise épileptique focale, trouble neurologique focal, leucorachie au delà de 5 cellules/mm3, anomalie structurelle du parenchyme cérébral, ou anomalie EEG. Il est donc important de considérer ce diagnostic et de poursuivre cette piste diagnostique.
+
+Un état de mal épileptique non-convulsif, avec ou sans association à une encéphalite, doit être considéré et ­rapidement exclu dans ce contexte. Madame B. a présenté un état dépressif modéré. Vous retrouvez une distractibilité, agitation psychomotrice et logorrhée, compatible avec un tableau d’hypomanie. Un trouble bipolaire pourrait ainsi être évoqué. Néanmoins ce diagnostic reste un diagnostic d’exclusion, après avoir écarté une cause somatique.
+
+Vous avez prescrit un inhibiteur sélectif de la recapture de la sérotonine. Parmi les effets secondaires fréquents, il faut toujours considérer le syndrome serotoninergique, car potentiellement létal. Si votre patiente présente en effet un changement du status mental, elle ne présente ni hyperréactivité du système nerveux autonome, ni anomalie neuromusculaire.
+
+Vous décidez le transfert de votre patiente dans le service des Urgences le plus proche. L’examen clinique reste inchangé. Un «Montreal Cognitive Assessment» (MoCA) est effectué avec un score de 17/30, mettant en évidence une atteinte cognitive diffuse, prédominante sur l’aspect mnésique (0/5 mots au rappel différé). Votre évaluation démontre une amnésie globale.
+
+Il n’y a pas d’anomalie de la formule sanguine, pas de trouble électrolytique ni perturbation de la fonction hépatique ou rénale. Un scanner cérébral avec injection de produit de contraste ne met pas en évidence d’anomalie. Une ponction lombaire est effectuée. Le liquide céphalo rachidien (LCR) a un aspect d’eau de roche avec une pression d’ouverture de 13 cm H20 et une pléïocytose à prédominance lymphocytaire avec 560 leucocytes/mm3(norme <5 cellules/mm3) dont 80% de lymphocytes. Le rapport glycorachie/glycémie est abaissée à 37,5% (norme >60%), la lactatorachie est à 3,64 mmol/l (norme 1,3–2,6 mmol/l), et la protéinorachie à 1656 mg/l (norme 150–450 mg/l) sans germes mis en évidence à l’examen direct par coloration Gram. La culture du LCR est demandée. La sérologie HIV se révèle négative.
+
+Question 2: Quel examen paraclinique demandez-vous en urgence?
+
+
+a) PCR Listeria monocytogenes et virus Herpes simplex
+
+b) Culture Mycobacterium tuberculosis
+
+c) Sérologie Lyme
+
+d) Anticorps antineuronaux
+
+e) Dosage ANA/ANCA
+
+Votre patiente n’est pas immunosupprimée. Elle présente un tableau d’encéphalite avec pléiocytose lymphocytaire. Une origine infectieuse virale due à herpes simplex (HSV) ou bactérienne à Listeria monocytogenes, doit être recherchée et traitée sans délai. Il est donc immédiatement initié un traitement d’aciclovir et amoxicilline intra veineux.
+
+Ce n’est qu’après 48 heures de culture négative et PCR négatives pour HSV et Listeria monocytogenes que d’autres étiologies infectieuses seront considérées, selon le contexte épidémiologique, telle la tuberculose, syphilis, maladie de Lyme, brucellose, ou encéphalite à tique.
+
+Une présentation avec l’atteinte mnésique rapidement progressive et symptômes neuropsychiatriques au premier plan doit faire évoquer une encéphalite auto-immune, notamment une encéphalite auto-immune limbique. L’encéphalite auto-immune est associée à une grande variété d’auto-anticorps, notamment contre la membrane neuronale et les antigènes synaptiques (anti-NMDAR, anti-VGKC, anti-GABA receptor) mais également des anticorps onconeuronaux (p.e. Hu, CV2, Ma2, amphiphysine). L’association de ces anticorps avec une néoplasie sous-jacente est variable et ces anticorps peuvent être retrouvés dans le LCR des individus souffrant d’une encéphalite herpétique typique. Leur présence doit être interprétée dans un contexte clinique approprié. L’analyse du LCR montre fréquemment une pléïocytose lymphocytaire modérée (de l’ordre de 20–40 leucocytes/l). Il est dès lors proposé d’effectuer une recherche des autoanticorps dans le sang et le LCR. Elle ne sera néanmoins pas effectuée en urgence.
+
+Une vasculite isolée du système nerveux central peut être primaire ou secondaire à des causes multiples, dont les plus fréquentes sont l’infection à virus varicella zoster, les vasculites systémiques, la sarcoïdose, une prise médicamenteuse ou une pathologie néoplasique. L’analyse du LCR est là encore variable, et le scanner est de sensibilité moindre (30–50%). Ainsi, un bilan immun et une IRM cérébrale devraient compléter le bilan actuel si les PCR et les cultures restent stériles.
+
+Les PCR HSV-1/2 et Listeriasont négatives. La culture du LCR ainsi que les hémocultures reviennent stériles. Le bilan immunologique, comprenant la recherche des anticorps antinucléaires (ANA) et les anticorps anticytoplasme des neutrophiles (ANCA) s’avère négative. La recherche d’anticorps anti-neuronaux sériques et intrathécaux est également négative. L’IRM cérébrale met en évidence une restriction de la diffusion au niveau de l’hippocampe (fig. 1).
+
+Figure 1: Restriction de la diffusion punctiforme ­hippocampique gauche (flèche) à l’IRM cérébrale
+(A: coupe coronale,B: coupe transversale).
+
+Un EEG est également réalisé quelques jours après l’admission. Il montre une encéphalopathie diffuse discrète sans activité irritative.
+
+La sérologie de syphilis revient négative. La sérologie de dépistage pour Borrelia burgdoferi est positive pour les IgG (IgM négatifs). En complétant l’anamnèse, la patiente signale des ballades occasionnelles en forêt mais n’a pas de souvenir de piqûre de tique ou d’érythème migrant. Vous suspectez une méningo-encéphalite à Borrelia burgdorferi, et introduisez une antibiothérapie de céftriaxone.
+
+Question 3: Quel examen para-clinique vous semble dès lors ­nécessaire pour confirmer le diagnostic?
+
+
+a) Dosage anticorps spécifiques anti-Borrelia-burgdorferi dans le LCR
+
+b) Dosage anticorps spécifiques anti-Borrelia-burgdorferi dans le sang et le LCR
+
+c) PCR spécifique Borrelia burgdorferi dans le LCR
+
+d) Dosage de CXCL-13 dans le LCR
+
+e) Aucun examen nécessaire
+
+Avec une séroprévalence estimée à 5–20% dans les zones endémiques, l’interprétation de la sérologie doit s’effectuer dans un contexte clinique approprié et des investigations complémentaires sont nécessaires. C’est la démonstration d’une synthèse intrathécale des anticorps spécifiques dirigés contre Borrelia burgdorferi avec un index LCR/sérum >2, qui permet de poser le diagnostic. Une valeur isolée dans le LCR ne permet pas de discriminer entre une synthèse intrathécale et un transfert passif des anticorps à travers la barrière hémato-encéphalique. Il est donc nécessaire de déterminer le rapport entre les anticorps spécifiques et le quotient albumine dans le LCR et le sérum. Les limitations principales de cette méthode sont un risque de 10–30% de faux négatif à un stade précoce de la maladie (dans les premiers 7–10 jours) et la persistance chronique après traitement (cicatrice immunitaire). De plus, des valeurs très faibles en IgG dans le LCR et/ou le sérum peuvent résulter dans un calcul de l’index de synthèse intrathécale imprécis pouvant générer des résultats faussement positifs ou négatifs. En règle général, si les valeurs brutes en IgG sont trop faibles, le calcul ne devrait pas être effectué ou alors interprété avec beaucoup de prudence.
+
+Contrairement à son utilité dans le liquide synovial en cas d’atteinte articulaire, la sensibilité de la PCR Borrelia burgdorferi dans le LCR est de seulement 20%. Elle n’est donc pas systématiquement recommandée.
+
+Le dosage de la CXCL13 dans le LCR est une méthode qui semble prometteuse dans les phases précoces de la neuroborréliose, quand la production intrathécale des anticorps est retardée. Cette cytokine est élevée (>500 pg/ml; norme <250 pg/ml) chez la quasi totalité des patients avec une neuroborréliose. Néanmoins, ce biomarqueur neuroinflammatoire est fréquemment élevé dans de nombreuses pathologies du système nerveux (tuberculose méningée, neuro-syphilis, lymphomes cérébraux), même si le seuil diagnostique de 500 pg/ml est rarement atteint dans ces situations. Dès lors, la CXCL13 ne sera dosé qu’en cas de forte suspicion de neuroborréliose malgré un index négatif de synthèse intrathécale.
+
+Votre patiente présente un index de synthèse intrathécale à 19,7 pour les anticorps anti-Borrelia-burgdorferi sensu lato. Ainsi, considérant une pléiocytose lymphocytaire, l’analyse chimique du LCR parlant en faveur d’une infection bactérienne et le tableau clinique compatible même si exceptionnel, le diagnostic de neuroborréliose est retenu.
+
+La neuroborréliose peut causer des atteintes du parenchyme cérébral ou de la moelle épinière, le plus souvent dans le cadre d’une vasculite. Toutefois, des phénomènes d’hypoperfusion relative en absence d’une vasculite ont été observés indiquant une différente ­pathophysiologie (par exemple un phénomène de dépression corticale comme dans la migraine ou neurotoxicité indirecte).
+
+Les symptômes de la patiente se résolvent quelques jours après l’introduction de la ceftriaxone et il est donc décidé de poursuivre ce traitement en intra-veineux durant 21 jours en ambulatoire.
+
+En Europe, la maladie de Lyme est la plus fréquente infection transmise par la tique. Vous vous interrogez sur la possibilité d’une co-infection.
+
+Question 4: De manière théorique, parmi les pathogènes suivants, lequel vous semble-t-il pertinent d’évoquer?
+
+
+a) Rhabdochlamydia helvetica
+
+b) FSME-virus
+
+c) Babesia divergens
+
+d) Anaplasma phagocytophilum
+
+e) Rickettsia helvetica
+
+L’ensemble des agents susmentionnés a été détecté dans les tiques suisses et tous sont potentiellement pathogènes pour l’homme, à l’exception de Rhabdochlamydia,documenté récemment dans les tiques suisses et,dont le rôle pathogène pour l’homme reste à définir.
+
+Le portage des tiques pour la méningo-encéphalite verno-estivale (FSME) est de l’ordre de 1% en zones d’endémie, et des co-infections à Borrelia burgdorferi et FSME ont déjà été rapportées. Cette pathologie virale doit alors être évoquée devant tout tableau de méningo-encéphalite et le diagnostic se pose par la ­sérologie. Malgré la sévérité de l’atteinte et le risque ­important de séquelles résiduelles chez 30% des cas, aucun traitement n’est disponible à l’heure actuelle. Cependant un vaccin sûr et efficace existe et est recommandé pour la prévention chez toutes les personnes qui habitent, travaillent ou séjournent temporairement dans des zones endémiques.
+
+L’anaplasmose et la babésiose se présentent avec une clinique d’état grippal et une anomalie de la formule sanguine et des tests hépatiques. De plus, les cas symptomatiques d’infection parasitaire à Babesia divergens sont observés essentiellement chez des patients splénectomisés et malgré la présence du pathogène chez Ixodes ricinus, aucun cas humain d’anaplasmose n’a été décrit en Suisse à l’heure actuelle. Elles ne seront pas recherchées dans le cas présent.
+
+A l’exception de Rickettsia coronii, l’agent de la fièvre boutonneuse méditerranéenne, les rickettsioses d’Europe ont pour présentation un syndrome grippal. Des cas de méningite ou de cardite ont été décrits avec Rickettsia helvetica. La présentation n’est pas celle de votre patiente.
+
+A la fin du traitement antibiotique, votre patiente se présente à votre cabinet. Elle se plaint de céphalées, d’une asthénie marquée et de myalgies diffuses. Le status neurologique est dans la norme, le MoCA à 28/30.
+
+Question 5: Laquelle des affirmations suivantes est juste?
+
+
+a) Considérant un échec de traitement, vous proposez un relais par doxycycline pour une durée de 21 jours.
+
+b) Vous évoquez une infection persistante et proposez de prolonger le traitement de 14 jours.
+
+c) Votre patiente présente un tableau compatible avec un syndrome post Lyme. Vous prescrivez un traitement symptomatique.
+
+d) L’évolution est objectivement favorable (MoCA 28/30), vous stoppez alors l’antibiothérapie à 21 jours.
+
+e) Vous évoquez une réaction de Jarisch-Herxheimer. Vous retenez dorénavant une contre-indication à l’utilisation de céphalosporines ou pénicillines.
+
+La grande majorité des patients a une résolution complète de la symptomatologie au cours de l’antibiothérapie. Un traitement de doxycycline per os ne serait pas inférieur à la ceftriaxone, mais sans bénéfice au-delà de 21 jours de traitement.
+
+Certains patients présentent au décours une symptomatologie frustre telle que celle présentée par votre ­patiente actuellement. L’évolution est alors lentement favorable sur 6 mois, en l’absence d’antibiothérapie.
+
+Ce n’est qu’au-delà de 6 mois de persistance des symptômes, qu’il est possible d’évoquer le syndrome post Lyme, après avoir écarté une autre pathologie sous-jacente pouvant expliquer les symptômes. Même si cette entité et sa prise en charge restent sujettes à controverse, il existe un consensus qu’il n’y a aucun bénéfice d’une antibiothérapie prolongée.
+
+La réaction dite de Jarisch-Herxheimer est la traduction d’une décharge de cytokines pro-inflammatoires lors de l’initiation de l’antibiothérapie. La présentation est celle d’un état fébrile, frissons, rash cutanée, hypotension, dans les 24 premières heures. Cette réaction n’est pas spécifique et peut être observée dans d’autres infections à spirochètes. Elle n’est pas d’origine allergique, et ne saurait être une contre-indication à l’emploi de l’antibiotique usité.
+
+L’évolution est lentement favorable malgré la non reprise de l’antibiothérapie, avec résolution complète de la symptomatologie à 5 mois de l’épisode, et de la lésion cérébrale à une IRM de contrôle.
+
+Discussion
+
+La maladie de Lyme est une zoonose, causée par des spirochètes des Borrelia burgdorferi senso latoqui comprend les espèces Borrelia afzelii, Borrelia gariniietBorrelia burgdorferi sensu stricto. Ces bactéries sonttransmises par la tique Ixodes ricinus, la plus répandue dans l’hémisphère nord, prédominant en Helvétie sur le plateau. Il s’agit d’une infection multi systémique qui atteint principalement la peau, les articulations, le cœur et le système nerveux périphérique et central. Ces dernières manifestations sont d’une grande diversité et complexité. Elles sont regroupées sous le nom neuroborréliose de Lyme. La neuroborréliose de Lyme touche jusqu’à 12% de patients présentant la maladie et se distingue en une forme précoce et tardive (tab. 1). La sérologie est très souvent trompeuse au vu de la séroprévalence élevée dans les zones endémiques. C’est la démonstration d’une synthèse intrathécale des anticorps spécifiques contre la Borrelia burgdorferiassocié à un LCR pathologique (pléiocytose lymphocytaire) et une clinique suggestive qui est la pierre angulaire du diagnostic de neuroborréliose (tab. 2). Le traitement recommandé de la neuroborréliose est la ceftriaxone intraveineuse, pour une durée de 14 à 21 jours.
+
+Tableau 1: Manifestations de la neuroborréliose de Lyme (d’après [6]).
+Neuroborréliose précoce (symptômes <6 mois)	Neuroborréliose tardive (symptômes >6 mois)
+SNP	SNC	SNP	SNC
+– Méningoradiculite douloureuse (syndrome de Bannwarth)– Neuropathie crânienne– Atteinte de plexus nerveux– Mononévrite multiple	– Meningite lymphocytaire– Encéphalite– Myélite	– Polyneuropathie + ACA– Mononeuropathie – Radiculopathie	– Méningite chronique– Encéphalite progressive– Myélite/encéphalomyélite– Vasculite cérébrale
+SNP: système nerveux périphérique, SNC: système nerveux central, ACA: acrodermatite chronique atrophiante.
+Tableau 2: Critères diagnostics de neuroborréliose de Lyme (inspiré par [6, 7]).
+Neuroborréliose Lyme définitive (3/3 critères)1
+1. Symptômes neurologiques suggestifs
+2. Pléiocytose lymphocytaire dans le LCR
+3. Synthèse intrathécale des anticorps anti-Borrelia-burgdorferi2
+1 Diagnostic définitif posé lors de 3/3 critères présents (sauf pour ­la polyneuropathie associée à une acrodermatite chronique atrophiante où la synthèse intrathécale est souvent absente). 2 Critère 3 peut être absent lors de neuroborréliose précoce (jusqu’à environ 6 semaines). Un suivi des anticorps intrathécaux ainsi que la réalisation d’autres tests (PCR LCR, CXCL-13) doivent être évalués.
+
+La controverse actuelle est celle de la prise en charge des patients présentant des symptômes aspécifiques post traitement. Mais bien que la pathogénèse soit toujours peu claire, il existe un consensus que ce phénomène n’est pas en lien avec une infection persistante et qu’il n’y a aucun bénéfice à une antibiothérapie pro­longée.
+
+Réponses:
+
+
+Question 1: e. Question 2: a. Question 3: b. Question 4: b.
+Question 5: d.

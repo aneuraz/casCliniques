@@ -1,0 +1,117 @@
+T1	profession 90 100	chirurgien
+T2	profession 101 109	urologue
+T3	disorder 118 144	adénocarcinome prostatique
+T4	disorder 146 155	Gleason 7
+T5	disorder 186 209	étention aiguë d'urines
+T6	procedure 211 245	Résection endoscopique de prostate
+T7	disorder 259 280	lésions métastatiques
+T8	procedure 281 300	Traitement hormonal
+T9	drugs 301 315	anti-androgène
+T10	disorder 370 382	comorbidités
+T11	disorder 385 399	obésité sévère
+T12	procedure 430 433	IMC
+T13	labvalue 434 438	36,8
+T14	procedure 401 407	taille
+T15	procedure 416 421	poids
+T16	labvalue 408 414	173 cm
+T17	labvalue 422 428	110 kg
+T18	disorder 463 492	cardiopathie ischémique grave
+T19	procedure 495 523	quadruple pontage coronarien
+T20	disorder 534 558	syndrome coronarien aigu
+T21	procedure 580 593	scintigraphie
+T22	disorder 594 610	ischémie étendue
+T23	procedure 617 632	coronarographie
+T24	disorder 633 664	atteinte du territoire marginal
+T25	procedure 687 697	Traitement
+T26	drugs 700 710	Discotrine
+T27	drugs 712 720	Kardégic
+T28	drugs 722 729	Lasilix
+T29	drugs 731 741	Cardensiel
+T30	drugs 750 761	Candesartan
+T31	disorder 763 783	Insuffisance mitrale
+T32	disorder 788 797	prolapsus
+T33	procedure 805 821	chirurgicalement
+T34	disorder 843 861	rétention urinaire
+T35	disorder 867 876	hématurie
+T36	disorder 980 997	étention urinaire
+T37	disorder 1036 1052	l'adénocarcinome
+T38	procedure 1069 1089	temps de saignement 
+T39	labvalue 1054 1065	Allongement
+T40	procedure 1109 1125	rachi-anesthésie
+T41	procedure 1154 1199	résection endoscopique palliative de prostate
+T42	procedure 1205 1221	retirer la sonde
+T43	procedure 1239 1267	consultation de cardiologie 
+T44	risk 1290 1309	risque anesthésique
+T45	disorder 1338 1352	coronaropathie
+T46	disorder 1358 1370	angor stable
+T47	disorder 1391 1423	insuffisance mitrale volumineuse
+T48	disorder 1439 1463	décompensation cardiaque
+T49	procedure 1487 1499	intervention
+T50	drugs 1530 1538	Kardégic
+T51	procedure 1613 1622	troponine
+T52	procedure 1663 1692	consultation de préanesthésie
+T53	procedure 1701 1704	ASA
+T54	labvalue 1705 1706	3
+T55	drugs 1714 1722	Kardegic
+T56	profession 1747 1758	cardiologue
+T57	disorder 1775 1817	déficit de coagulation vitamino-dépendante
+T58	procedure 1819 1821	TP
+T59	labvalue 1822 1825	64%
+T60	labvalue 1827 1837	ratio 1,38
+T61	procedure 1850 1862	d'injections
+T62	procedure 1863 1876	préopératoire
+T63	drugs 1880 1890	Vitamine K
+T64	drugs 1901 1909	d'Exacyl
+T65	profession 1926 1941	chef de service
+T66	procedure 2000 2034	Résection endoscopique de prostate
+T67	procedure 2042 2058	Urètre antérieur
+T68	disorder 2100 2116	nodules tumoraux
+T69	disorder 2066 2091	Loge prostatique obstruée
+T70	procedure 2207 2235	Résection des lobes latéraux
+T71	procedure 2242 2253	lobe médian
+T72	procedure 2263 2276	Veru montanum
+T73	procedure 2278 2290	Récupération
+T74	procedure 2308 2327	examen histologique
+T75	procedure 2329 2349	Hémostase minutieuse
+T76	procedure 2351 2366	Sonde de Dufour
+T77	procedure 2374 2388	Lavages clairs
+T78	procedure 2396 2410	d'intervention
+T79	procedure 2557 2564	lavages
+T80	procedure 2581 2600	changement de sonde
+T81	procedure 2646 2673	décaillotage par endoscopie
+T82	procedure 2682 2702	Décaillotage vésical
+T83	procedure 2707 2717	endoscopie
+T84	procedure 2723 2747	laparotomie sus-pubienne
+T85	procedure 2749 2755	suture
+T86	procedure 2762 2793	plaie vésicale sous-péritonéale
+T87	procedure 2831 2861	fermeture de la paroi vésicale
+T88	procedure 2870 2881	cystostomie
+T89	procedure 2889 2900	exploration
+T90	disorder 2922 2927	plaie
+T91	procedure 3002 3011	fermeture
+T92	disorder 3197 3204	nausées
+T93	disorder 3211 3223	vomissements
+T94	disorder 3260 3282	vomissements verdâtres
+T95	disorder 3296 3312	Abdomen ballonné
+T96	disorder 3314 3331	Absence de selles
+T97	disorder 3379 3402	vomissements fécaloïdes
+T98	procedure 3405 3435	ose d'une sonde naso-gastrique
+T99	procedure 3437 3448	Radio d'ASP
+T100	profession 3466 3476	chirurgien
+T101	disorder 3514 3546	syndrome occlusif postopératoire
+T102	procedure 3704 3715	radio d'ASP
+T103	disorder 3742 3751	textilome
+T104	procedure 3766 3784	reprise opératoire
+T105	procedure 3788 3795	urgence
+T106	procedure 3803 3827	Laparotomie exploratrice
+T107	procedure 3883 3888	abcès
+T108	procedure 3890 3907	Lavage péritonéal
+T109	drugs 3911 3930	sérum physiologique
+T110	procedure 3968 3980	intervention
+T111	disorder 4062 4085	encombrement bronchique
+T112	disorder 4189 4201	vomissements
+T113	disorder 4265 4276	vomissement
+T114	disorder 4277 4288	alimentaire
+T115	disorder 4336 4343	inanimé
+T116	disorder 4376 4387	vomissement
+T117	disorder 4389 4394	Décès

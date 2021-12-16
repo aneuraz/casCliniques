@@ -1,0 +1,98 @@
+T1	disorder 74 77	HTA
+T2	drugs 82 87	Tareg
+T3	disorder 102 110	surpoids
+T4	procedure 154 164	coloscopie
+T5	disorder 172 184	rectorragies
+T6	disorder 232 249	 polypes coliques
+T7	disorder 251 277	 4 adénomes tubulo-villeux
+T8	disorder 281 290	dysplasie
+T9	disorder 330 399	 lésion suspecte de dégénérescence de la charnière recto-sigmoïdienne
+T10	procedure 406 414	biopsies
+T11	disorder 466 480	adénocarcinome
+T12	procedure 542 584	dosage de l’antigène carcino-embryonnaire 
+T13	labvalue 620 628	1,5 µg/l
+T14	procedure 633 658	 scanner abdomino-pelvien
+T15	procedure 664 688	 radiographie thoracique
+T16	disorder 708 718	métastases
+T17	profession 783 793	chirurgien
+T18	disorder 1098 1126	 colectomie gauche partielle
+T19	procedure 1144 1162	antibioprophylaxie
+T20	drugs 1186 1195	Augmentin
+T21	procedure 1201 1234	libération du côlon et du rectum 
+T22	disorder 1329 1337	surpoids
+T23	disorder 1829 1852	’adénome lieberkuhnien 
+T24	disorder 1854 1904	infiltrant focalement le tissu adipeux sous-séreux
+T25	disorder 2009 2031	 détresse respiratoire
+T26	disorder 2048 2057	hypoxémie
+T27	procedure 2092 2117	 ventilation non invasive
+T28	procedure 2161 2167	intubé
+T29	procedure 2171 2193	ventilé mécaniquement.
+T30	procedure 2224 2239	antibiothérapie
+T31	drugs 2244 2253	Augmentin
+T32	procedure 2369 2380	gaz du sang
+T33	procedure 2397 2403	extubé
+T34	disorder 2444 2464	douleurs abdominales
+T35	disorder 2506 2515	météorisé
+T36	procedure 2638 2650	polynucléose
+T37	labvalue 2653 2665	18 200 /µl. 
+T38	procedure 2520 2546	lame de drainage abdominal
+T39	disorder 2797 2804	algique
+T40	disorder 2853 2860	fébrile
+T41	disorder 2887 2893	marbré
+T42	disorder 2914 2935	 épisode confusionnel
+T43	procedure 3050 3062	hémocultures
+T44	procedure 3108 3112	ECBU
+T45	profession 3137 3147	chirurgien
+T46	profession 3184 3196	anesthésiste
+T47	procedure 3069 3106	examen cytobactériologique des urines
+T48	labvalue 3293 3301	stériles
+T49	procedure 3319 3330	hémoculture
+T50	labvalue 3354 3377	germe saprophyte cutané
+T51	profession 3432 3444	anesthésiste
+T52	procedure 3461 3480	scanner abdominal. 
+T53	profession 3507 3517	chirurgien
+T54	disorder 3538 3558	 abdomen très tendu.
+T55	procedure 3577 3597	sonde naso-gastrique
+T56	disorder 3611 3629	 liquide fécaloïde
+T57	procedure 3715 3722	scanner
+T58	profession 3737 3749	anesthésiste
+T59	disorder 3794 3809	pneumopéritoine
+T60	disorder 3815 3843	collection intra-abdominale 
+T61	disorder 3867 3916	aspect inflammatoire des structures péri-rectales
+T62	disorder 3939 3949	péritonite
+T63	disorder 3954 3976	désunion anastomotique
+T64	drugs 4038 4052	Gastrographine
+T65	disorder 4070 4091	fistule anastomotique
+T66	procedure 4171 4190	examen écho-doppler
+T67	disorder 4222 4253	phlébite des membres inférieurs
+T68	profession 4276 4286	chirurgien
+T69	procedure 4307 4344	Reprise de la médiane sous-ombilicale
+T70	disorder 4363 4373	péritonite
+T71	disorder 4383 4452	collection prédominant dans la fosse iliaque droite et le flanc droit
+T72	disorder 4469 4479	colectasie
+T73	procedure 4545 4557	exsufflation
+T74	procedure 4582 4617	exploration de la cavité abdominale
+T75	disorder 4637 4659	 fistule anastomotique
+T76	procedure 4660 4695	 Nettoyage de la cavité péritonéale
+T77	procedure 4716 4743	 dérivation colique d’amont
+T78	procedure 4762 4792	stomie en fosse iliaque gauche
+T79	procedure 4926 4956	culture du liquide péritonéal 
+T80	labvalue 5009 5021	colibacilles
+T81	labvalue 4990 5002	entérocoques
+T82	drugs 5104 5111	Oflocet
+T83	drugs 5130 5137	Tibéral
+T84	drugs 5069 5078	Augmentin
+T85	procedure 5026 5041	antibiothérapie
+T86	disorder 5193 5207	 choc septique
+T87	drugs 5388 5401	Noradrénaline
+T88	drugs 5408 5418	Dobutamine
+T89	disorder 5421 5444	Une insuffisance rénale
+T90	disorder 5766 5788	 péritonite stercorale
+T91	drugs 5881 5892	Tazocilline
+T92	drugs 5895 5902	Amiklin
+T93	drugs 5909 5920	Vancomycine
+T94	disorder 5924 5940	l’état septique 
+T95	procedure 5961 5968	scanner
+T96	disorder 6076 6082	ictère
+T97	disorder 6104 6128	r cholestase bactérienne
+T98	disorder 6211 6234	 collection du Douglas 

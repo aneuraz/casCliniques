@@ -1,0 +1,144 @@
+Présentation du cas
+
+Un patient de 75 ans consulte en raison d’une asthénie progressive. Il est connu pour une cardiopathie mixte:
+
+– triple pontage aorto-coronarien il y a 15 ans;
+
+– sténose aortique et insuffisance mitrale traitées par remplacement de valve aortique par une bio-prothèse et annuloplastie mitrale il y a deux ans;
+
+– bloc atrio-ventriculaire de type 2 et fibrillation auriculaire; il est porteur d’un resynchronisateur, défibrillateur («cardiac resynchronisation therapy with defibrillator» [CRT-D]) depuis 10 mois.
+
+Depuis quelques jours le patient présente une baisse de l’état générale, associée à un ralentissement psychomoteur et un épisode de malaise sans perte de connaissance.
+
+Aux urgences, il est en état général conservé, hémodynamiquement stable et sans fièvre. L’examen cardio-pulmonaire révèle de légers signes de décompensation cardiaque globale et un souffle aortique connu. L’examen cutané est sans particularité, la cicatrice d’implantation du resynchronisateur est calme. La loge rénale gauche est sensible à la percussion.
+
+Le bilan biologique montre une insuffisance rénale ­aiguë KDIGO1 1 sur une insuffisance rénale chronique stade 4 (clearance de la créatinine à 19 ml/min/1,73 m2 selon CKD-EPI2) ainsi qu’une leucocytose (13,7 G/l). Les troponines ultra-sensibles sont légèrement augmentées (troponines hs I à 111 ng/l [norme <60 ng/l]) et diminuent au contrôle (-10%).
+
+L’électrocardiogramme montre un rythme sinusal. L’interrogation du resynchronisateur montre un bon fonctionnement, sans dépendance à l’électrostimulation.
+
+La radiographie de thorax est illustrée dans la figure 1.
+
+Figure 1: Radiographie du thorax d’entrée en position debout: cardiomégalie modérée; le CRT-D et ses 3 sondes sont en place. Nous remercions le Dr N. Durmishi, radiologue au RHNe pour cette image.
+
+La culture d’urine montre un Proteus mirabilis. Les hémocultures révèlent une bactériémie soutenue à Staphylococcusepidermidis(10/10 bouteilles à H0, H3, H5).
+
+Question 1: A ce stade, quel diagnostic vous parait-il le plus probable?
+
+
+a) Pyélonéphrite isolée
+
+b) Infection du boitier du stimulateur cardiaque
+
+c) Endocardite valvulaire
+
+d) Endocardite sur sonde endo-cavitaire
+
+e) Contamination des hémocultures
+
+Une pyélonéphrite n’est pas exclue en présence d’une infection urinaire avec sensibilité dans une loge rénale. Cependant, la bactériémie soutenue à un germe différent que celui retrouvé dans les urines oriente vers une autre source infectieuse.
+
+La présence du même germe dans plusieurs bouteilles d’hémocultures, prélevées à des points et à des temps différents, ne peut pas s’expliquer par une contamination.
+
+La situation présente remplit les conditions pour une endocardite valvulaire possible avec un critère mineur de Duke modifié (cardiopathie prédisposant) et un critère majeur (micro-organisme compatible avec une endocardite isolée dans plus de 4 hémocultures, dont le premier et le dernier prélèvement sont obtenus à plus d’une heure d’intervalle) [1]. La bactériémie à Staphylococcus epidermidis est évocatrice d’une infection de corps étranger, tel qu’une sonde de stimulateur cardiaque implanté (SCI).
+
+Les infections de SCI sont difficiles à diagnostiquer en raison de symptômes aspécifiques. Le diagnostic est souvent retardé, parfois de plusieurs mois [2].
+
+Une classification et des critères diagnostiques sont proposés par l’équipe de Sandoe et al. en cas d’infection de SCI. Ils sont reportés dans le tableau 1.
+
+Tableau 1: Classification des infections de stimulateur cardiaque implanté (SCI) et des sondes cardiaques (adapté des recommandations de 2015 [2]).
+Infection de la poche du boitier
+Infection de la poche non compliquée	Infection locale, sans signes systémique et en présence d’hémocultures stériles.
+Infection de la poche ­compliquée	Evidence d’infection de la sonde, d’endocardite, de signes systémique ou d’hémocultures positives.
+Infection de sonde de SCI
+Infection de la sonde du SCI certaine	Symptômes/signes systémiques d’infection, et signe échographique de végétation(s) attachée(s) à la sonde, et présence de critère microbiologique majeur de Duke
+Symptômes/signes systémiques d’infection, et culture, histologie ou évidence moléculaire d’infection sur la sonde explantée
+Infection de la sonde du SCI possible	Symptômes/signes systémiques d’infection, et signe échographique de végétation(s) attachée(s) à la sonde mais absence de critère microbiologique majeur de Duke
+Symptômes/signes systémiques d’infection, et critère microbiologique majeur de Duke présent mais absence de signe échographique de végétation(s) attachée(s) à la sonde.
+
+Dans le cas présent il n’y a pas d’argument clinique pour une infection de boîtier de SCI.
+
+Question 2: Quel examen vous semble le plus approprié à ce stade?
+
+
+a) Echocardiographie transoesophagienne
+
+b) Echocardiographie transthoracique
+
+c) CT thoraco-abdomino-pelvien et cérébral
+
+d) 18F-FDG-PET/CT thoraco-lombaire
+
+e) Ablation chirurgicale du SCI
+
+Une endocardite sur sonde de SCI est possible selon les critères décrits dans le tableau 1. Une imagerie est cependant nécessaire.Le retrait du SCI sans certitude d’infection n’est pas indiqué en raison du risque interventionnel élevé, à fortiori chez un patient stable.
+
+L’échocardiographie transthoracique (ETT) est moins sensible que l’échocardiographie transoesophagienne (ETO) lorsqu’il s’agit de diagnostiquer une infection de SCI, sensibilité respectivement de 22–43% et de 90–96% [2]. Ces deux examens sont toutefois complémentaires, l’ETT permet une meilleure visualisation des ventricules, alors que l’ETO est plus précise dans l’évaluation des sondes intra- et extracardiaques, des valves aortique et mitrale et des végétations. Une ETT étant souvent plus rapidement réalisable, elle est indiquée en premier lieu. Dans le cas présent, ni l’ETT (réalisé à J3), ni l’ETO (réalisé à J10) ne montrent de végétation. Le délai entre les examens est lié à une ambivalence du patient quant au consentement des investigations.
+
+Un CT thoraco-abdomino-pelvien et cérébral est indiqué par la suite à la recherche de complications d’une endocardite. Il est ici dans la norme, de même que le fond d’œil.
+
+Le rôle de la 18F-FDG-PET/CT (tomographie par émission de positons au 18F-FDG couplée au scanner) est reconnu en cas de forte suspicion d’infection de SCI, sans preuve échocardiographique [3].
+
+La figure 2 montre une proposition d’algorithme de prise en charge réalisée par l’équipe de Gomes et al [3].
+
+Figure 2: Organigramme diagnostique des endocardites sur matériels cardiaque implanté telque les stimulateurs cardiaques implantés (reproduction deThe Lancet Infectious Diseases[3]: Gomes A, Glaudemans AWJM, Touw DJ, van Melle JP, Willems TP, Maass AHl, et al. Diagnostic value of imaging in infective endocarditis: a systematic review. Lancet Infect Dis. 2017;17(1):e1-e14. © 2017, avec l’aimable permission d’Elsevier.https://www.sciencedirect.com/journal/the-lancet-infectious-diseases).
+
+Dans la situation actuelle, chez un patient dont le SCI a été implanté 10 mois auparavant, notre suspicion d’infection endo-cardiaque est élevée. La figure 3 montre les images du 18F-FDG-PET/CT thoraco-abdominal (réalisé à J15) mettant en évidence un hypermétabolisme au niveau de la sonde du ventricule gauche.
+
+Figure 3: Coupe coronale(A) et transversale (B) du18F-FDG-PET/CT thoraco-abdominal révélantun hypermétabolisme au ­niveau de la sonde du ventricule gauche. Nous remercions le Dr A. Pazera, radiologue, et la Dre V. Orcurto, nucléariste au RHNe pour ces images.
+
+Question 3: Quel taux de patient porteurs de SCI présentant une bactériémie à Staphylococcusspp. soutenue ont également une endocardite?
+
+
+a) 15%
+
+b)  1%
+
+c) 35%
+
+d) 95%
+
+e) 75%
+
+Chez les patients portant un SCI présentant une bactériémie soutenue à Staphylococcusspp., au moins 35% ont une endocardite confirmée. Le risque est plus faible en cas de bactérie gram négatif (6%) [2].
+
+En cas d’endocardite sur infection de SCI, les hémocultures sont plus souvent négatives qu’en cas d’endocardite sur valve native et les pathogènes peuvent être variés. Ceci accentue l’importance des prélèvements microbiologiques. Avant de débuter une antibiothérapie il faut prélever des hémocultures répétées, à des ­localisations et des temps différents. Selon les études, les hémocultures se révèlent positives dans 20–70% des cas. En cas d’infection de la poche du boitier, une culture de prélèvement de tissu (et non un frottis de plaie, ni une ponction de collection) est indiquée. En cas de négativité des cultures, la prolongation de l’incubation au-delà de 5 jours devrait être discutée, les infections de SCI pouvant être causées par des pathogènes à croissance lente.
+
+Question 4: Parmi les éléments suivants, quel est le principal facteur de risque d’infection de SCI?
+
+
+a) Age
+
+b) Absence d’antibioprophylaxie pré-opératoire
+
+c) Diabète
+
+d) Anticoagulation
+
+e) Insuffisance rénale terminale
+
+Le taux moyen d’infection de SCI varie entre 1–1,3%. L’âge ne fait pas partie des facteurs de risque identifiés. L’absence d’antibioprophylaxie pré-opératoire représente un facteur de risque mineur. Les principaux facteurs de risques sont l’insuffisance rénale terminale, la durée de la procédure, ainsi que la formation d’un hématome post-opératoire [4]. Les différents facteurs de risques et leur importance sont résumés dans le tableau 2.
+
+Tableau 2: Facteurs de risque d’infection de stimulateur cardiaque implanté (SCI) (d’après [4]).
+Patient	Procédure	Appareil
+•Insuffisance rénale terminale (OR [95% CI] = 8,73 [3,42–22,31]) •Antécédent d’infection de SCI (OR = 7,84 ­[1,94–31,60])•Corticothérapie (OR = 3,44 [1,62–7,32])•Insuffisance rénale (OR = 3,02 ­[1,38–6,64])•Bronchopneumopathie obstructive ­chronique (OR = 2,95 [1,78–4,90])•Pathologie dermatologique (OR = 2,46 [1,04–5,80])•Néoplasie (OR = 2,23 [1,26–3,95])•Diabète (OR = 2,08 [1,62–2,67])•Insuffisance cardiaque (OR = 1,65 ­[1,14–2,39])•Fièvre pré-opératoire (OR = 4,27 ­[1,13–16,12])•Anticoagulation (OR = 1,59 [1,01–2,48])	•Durée de l’intervention (différence moyenne pondérée = 9,89 [0,52–19,25])•Hématome post-opératoire (OR = 8,46 [4,01–17,86])•Ré-intervention pour déplacement de sonde (OR = 6,37 [2,93–13,82])•Opérateur inexpérimenté (OR = 2,85 ­[1,23–6,58])•Pacemaker provisoire (OR = 2,31 ­[1,36–3,92])•Remplacement/révision de SCI (OR = 1,98 [1,46–2,70])•Absence d’antibioprophylaxie (OR = 0,32 [0,18–0,55])	•Sondes épicardiques (OR = 8,09 ­[3,46–18,92])•Poche de SCI abdominale (OR = 4,01 [2,48–6,49])•Mise en place de ≥2 sondes (OR = 2,02 [1,11–3,69])•Système à double chambre (OR = 1,45 [1,02–2,05]) 
+OR: «odds ratio»; CI: «confidence intervall»
+Question 5: Quel traitement est indiqué en présence d’une endocardite sur SCI avérée?
+
+
+a)Retrait chirurgical de la totalité du SCI; antibiothérapie 4–6 semaines après négativation des hémocultures
+
+b)Retrait de la sonde infectée; antibiothérapie 5 jours après le retrait
+
+c) Pas de retrait nécessaire, antibiothérapie 6 mois
+
+d)Changement du SCI après 48h d’antibiothérapie; antibio­thérapie 6 semaines
+
+e)Retrait chirurgical de la totalité du SCI; antibiothérapie 2–4 semaines après le retrait
+
+En raison du risque de Staphylocoque spp. résistant à l’oxacilline, le traitement empirique initial devrait comporter de la vancomycine et du méropénème. Un retrait complet et précoce du SCI devrait être réalisé, au maximum 2 semaines après le diagnostic. Les facteurs de risques d’endocardite valvulaire persistants, la présence d’autres foyers infectieux et l’état général du patient devraient guider le délai de la prise en charge opératoire. Des hémocultures devraient être prélevées après l’ablation du matériel chez tous les patients. Les sondes retirées devraient être mises en culture. Une antibiothérapie intraveineuse est indiquée pour 4 semaines en cas de valves natives et 6 semaines en cas de valves prothétiques, de foyer secondaire ou de pacemaker transitoire. La durée de l’antibiothérapie est déterminée par la suppression de la bactériémie (hémocultures de suivi stériles) et non par la date de retrait du SCI. Une échocardiographie de contrôle devrait être réalisée après ablation des sondes, en particulier en cas d’infection à Staphylococcus aureus [2].
+
+Dans notre situation, le SCI est retiré (J21). L’analyse microbiologique du SCI ne montre pas d’évidence d’infection. La durée d’antibiothérapie pré-ablation explique la négativation de la recherche microbiologique. Nous retenons donc une endocardite à Staphylococcus epidermidis sur sonde infectée de SCI et poursuivons un traitement par vancomycine et rifampicine pour une durée de six semaines à partir des dernières hémocultures stériles post-ablation. Le patient bénéficie par la suite d’un séjour en réadaptation avant son retour à domicile.
+
+Discussion
+
+L’incidence des infections liées aux SCIs est en augmentation [5]. Ceci est lié à une augmentation du nombre d’implantation de SCI et à une plus grande complexité des appareils implantés, chez des patients plus fragiles. Ces infections peuvent se présenter de différentes manières: infection uniquement de la poche du boitier ou infection généralisée avec endocardite. Les conséquences sont majeures, avec un taux de mortalité allant jusqu’à 35% [2]. Les infections de SCI sont difficiles à diagnostiquer en présence de symptômes peu spécifiques. Les critères diagnostics reposent actuellement sur les prélèvements microbiologiques et l’échocardiographie. Le 18F-FDG-PET/CT peut se révéler utile en cas de doute. La sensibilité des critères de Duke modifiés étant estimée à 80%, l’adjonction d’imageries de haute résolution métabolique peut significativement augmenter ce chiffre [3]. Cependant, les investigations ne devraient pas retarder la prise en charge. Le traitement repose sur une antibiothérapie rapide, ciblée et un retrait complet de l’appareil et des sondes. Dans le cas où un stimulateur est indispensable, la réimplantation devrait être repoussée jusqu’à résolution de l’infection locale et systémique avec, selon les cas, introduction d’un pacemaker provisoire.

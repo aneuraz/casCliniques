@@ -1,0 +1,54 @@
+T1	disorder 130 201	 gêne pelvienne avec incontinence urinaire en rapport avec un prolapsus
+T2	disorder 227 249	prolapsus de stade III
+T3	procedure 347 377	intervention par voie vaginale
+T4	procedure 446 492	pose d’une prothèse synthétique non résorbable
+T5	labvalue 551 591	 rétrécissement aortique calcifié modéré
+T6	disorder 597 610	HTA contrôlée
+T7	drugs 615 629	béta-bloquant 
+T8	drugs 632 639	Triatec
+T9	risk 676 714	 tabagisme actif à 10 cigarettes/jour.
+T10	risk 717 744	 patiente est classée ASA 2
+T11	drugs 857 896	antibioprophylaxie par Céfazoline® (2g)
+T12	procedure 901 1013	Périnéorraphie antérieure et postérieure, TVT, intervention de Richter, Plicature de la paroi rectale antérieure
+T13	procedure 1021 1078	Renfort prothétique type Prolift® antérieur et postérieur
+T14	disorder 1226 1234	 fébrile
+T15	disorder 1309 1339	regard « un peu dans le vide »
+T16	disorder 1358 1414	 douleurs dorsales, fessières et des membres inférieurs.
+T17	disorder 1431 1451	chute de la patiente
+T18	disorder 1591 1604	Fièvre à 38°4
+T19	disorder 1608 1688	Altération de l’état général avec difficultés à mobiliser les membres inférieurs
+T20	disorder 1736 1755	rougeur ++ du pubis
+T21	disorder 1863 1897	 odeur désagréable dans la chambre
+T22	labvalue 1918 1947	syndrome infectieux important
+T23	labvalue 1957 1971	CRP à 420 mg/l
+T24	labvalue 1979 2001	VS supérieure à 120 mm
+T25	labvalue 2006 2035	 leucocytes sont à 5700 / mm3
+T26	procedure 2153 2182	scanner cérébral et abdominal
+T27	labvalue 2249 2280	 accident vasculaire cérébral o
+T28	labvalue 2281 2301	 hématome sous-dural
+T29	labvalue 2477 2548	épanchement mixte, liquide et gazeux, dans le rétro-péritoine pré-sacré
+T30	labvalue 2744 2761	 hématome pelvien
+T31	labvalue 2840 2886	 hématome le long de la bandelette de Prolift®
+T32	drugs 3028 3038	Solumédrol
+T33	drugs 3146 3154	 Lovenox
+T34	drugs 3085 3094	Rocéphine
+T35	labvalue 3059 3073	œdème cérébral
+T36	labvalue 3278 3297	 phlébite cérébrale
+T37	drugs 3349 3357	Mannitol
+T38	disorder 3376 3403	 troubles de la conscience 
+T39	labvalue 3461 3484	leucocytose à 12900/mm3
+T40	labvalue 3486 3498	CRP 436 mg/l
+T41	labvalue 3534 3564	’atteintes rénale et hépatique
+T42	disorder 3591 3609	érythème du pubis 
+T43	disorder 3649 3669	écoulement vaginal. 
+T44	disorder 4155 4208	cellulite périnéale post intervention pour prolapsus 
+T45	drugs 4255 4266	Tazocilline
+T46	drugs 4271 4278	Amiklin
+T47	procedure 5155 5181	oxygénothérapie hyperbare 
+T48	disorder 5503 5515	état de choc
+T49	procedure 5545 5567	remplissage vasculaire
+T50	procedure 5617 5634	scanner abdominal
+T51	procedure 5762 5793	aponévrotomie des deux cuisses 
+T52	procedure 6168 6178	extubation
+T53	disorder 6189 6216	complications infectieuses 
+T54	disorder 6344 6372	 défaillance multiviscérale.

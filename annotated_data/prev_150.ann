@@ -1,0 +1,133 @@
+T1	profession 74 85	cardiologue
+T2	procedure 58 65	adressé
+T3	disorder 135 157	insuffisance cardiaque
+T4	risk 218 238	tabagisme interrompu
+T5	disorder 254 277	hypertension artérielle
+T6	disorder 279 291	dyslipidémie
+T7	disorder 295 321	diabète insulino-requérant
+T8	procedure 369 398	endartériectomie chirurgicale
+T9	disorder 404 448	sténose serrée de la carotide interne droite
+T10	disorder 475 479	AVC 
+T11	disorder 501 525	paralysie faciale gauche
+T12	disorder 575 614	resténose de la carotide interne droite
+T13	procedure 648 671	stent avec angioplastie
+T14	disorder 703 727	 cardiopathie ischémique
+T15	disorder 743 775	dysfonction ventriculaire gauche
+T16	labvalue 805 809	50 %
+T17	procedure 777 803	fraction d’ejection du VG 
+T18	disorder 813 846	lésions du tronc coronaire gauche
+T19	disorder 853 856	IVA
+T20	procedure 913 938	Mise en place de 6 stents
+T21	procedure 987 1017	revascularisation chirurgicale
+T22	procedure 1032 1067	double anti agrégation plaquettaire
+T23	drugs 1069 1078	Duoplavin
+T24	disorder 1105 1140	décompensation ventriculaire gauche
+T25	disorder 1146 1168	dégradation de la FEVG
+T26	procedure 1175 1190	coronarographie
+T27	disorder 1193 1229	resténose intrastent serrée de l'IVA
+T28	procedure 1252 1264	angioplastie
+T29	disorder 1288 1302	sténose serrée
+T30	procedure 1329 1352	traitée par stent actif
+T31	disorder 1417 1437	sub-œdème pulmonaire
+T32	disorder 1465 1486	défaillance cardiaque
+T33	procedure 1489 1493	FEVG
+T34	labvalue 1496 1500	20 %
+T35	procedure 1502 1527	Brain Natriuretic Peptide
+T36	procedure 1529 1532	BNP
+T37	labvalue 1536 1546	1063 pg/ml
+T38	procedure 1563 1576	Créatininémie
+T39	labvalue 1579 1587	229 mg/l
+T40	procedure 1628 1638	diurétique
+T41	disorder 1711 1735	fibrillation auriculaire
+T42	procedure 1740 1750	traitement
+T43	drugs 1755 1764	Cordarone
+T44	drugs 1805 1814	Duoplavin
+T45	drugs 1819 1828	Préviscan
+T46	procedure 1831 1834	INR
+T47	labvalue 1837 1841	1,26
+T48	procedure 1875 1887	troponinémie
+T49	labvalue 1888 1894	élevée
+T50	labvalue 1896 1905	1,06 µg/l
+T51	procedure 1926 1941	coronarographie
+T52	procedure 1947 1979	angioplasties par ballons actifs
+T53	procedure 1988 2006	resténoses des IVA
+T54	labvalue 2013 2017	90 %
+T55	procedure 2021 2033	IVA (2 et 3)
+T56	labvalue 2036 2040	70 %
+T57	procedure 2078 2093	hospitalisation
+T58	procedure 2100 2142	récupération d’un rythme cardiaque sinusal
+T59	procedure 2170 2191	regagner son domicile
+T60	procedure 2203 2214	traitements
+T61	procedure 2217 2232	visée cardiaque
+T62	procedure 2233 2272	 antidiabétique et hypocholestérolémian
+T63	procedure 2297 2321	 poursuite du traitement
+T64	drugs 2340 2349	Duoplavin
+T65	drugs 2361 2370	Préviscan
+T66	procedure 2383 2386	INR
+T67	labvalue 2389 2393	3,02
+T68	procedure 2421 2438	contrôle de l'INR
+T69	procedure 2474 2484	ordonnance
+T70	procedure 2573 2587	contrôle d'INR
+T71	labvalue 2617 2622	10,4 
+T72	procedure 2623 2636	créatininémie
+T73	labvalue 2639 2647	208 mg/l
+T74	procedure 2712 2745	joindre par téléphone la clinique
+T75	procedure 2811 2831	informer du résultat
+T76	labvalue 2837 2844	anormal
+T77	procedure 2850 2853	INR
+T78	procedure 2899 2928	numéro d’appel du cardiologue
+T79	drugs 3008 3017	Préviscan
+T80	procedure 3130 3142	dosage d'INR
+T81	disorder 3220 3229	épistaxis
+T82	profession 3244 3256	 cardiologue
+T83	disorder 3436 3446	épistaxis 
+T84	drugs 3718 3727	Préviscan
+T85	drugs 3764 3773	Duoplavin
+T86	procedure 3809 3820	taux d’INR.
+T87	disorder 3833 3843	épistaxis 
+T88	procedure 3876 3917	recommandations du cardiologue et du SAMU
+T89	drugs 3930 3939	Préviscan
+T90	disorder 4034 4054	difficultés motrices
+T91	disorder 4125 4140	saignement nasa
+T92	disorder 4147 4165	céphalées intenses
+T93	disorder 4169 4199	impotence fonctionnelle totale
+T94	procedure 4213 4226	appel du SAMU
+T95	procedure 4230 4239	transfert
+T96	disorder 4305 4340	parésie des deux membres inférieurs
+T97	procedure 4290 4301	constatées 
+T98	disorder 4351 4376	hémiplégie gauche massive
+T99	procedure 4382 4398	scanner cérébral
+T100	disorder 4402 4435	hématome sous dural hémisphérique
+T101	disorder 4501 4515	œdème cérébral
+T102	disorder 4554 4582	engagement temporal débutant
+T103	procedure 4584 4589	 INR 
+T104	labvalue 4591 4592	5
+T105	procedure 4597 4606	admission
+T106	procedure 4626 4650	transfert en réanimation
+T107	drugs 4698 4707	Duoplavin
+T108	procedure 4689 4694	Arrêt
+T109	procedure 4710 4721	Traitement 
+T110	drugs 4725 4735	vitamine K
+T111	drugs 4751 4759	Mannitol
+T112	drugs 4737 4748	Solumédrol 
+T113	procedure 4761 4778	Contre-indication
+T114	procedure 4792 4813	acte neurochirurgical
+T115	disorder 4828 4863	dégradation de l’état de conscience
+T116	procedure 4864 4880	scanner cérébral
+T117	disorder 4884 4921	augmentation de l’hématome sous dural
+T118	disorder 4927 4954	aggravation de l'engagement
+T119	disorder 4963 4968	œdème
+T120	procedure 5001 5046	drainage de l'hématome par craniotomie droite
+T121	procedure 4971 4997	Décision neurochirurgicale
+T122	procedure 5218 5246	Instauration d'un traitement
+T123	drugs 5251 5259	Kardégic
+T124	procedure 5331 5349	traitement par AVK
+T125	procedure 5393 5404	rééducation
+T126	procedure 5369 5379	 transfert
+T127	disorder 5546 5563	hémiplégie gauche
+T128	disorder 5612 5632	hypertonie spastique
+T129	disorder 5638 5655	 grasping réflexe
+T130	disorder 5660 5678	perte de la marche
+T131	disorder 5925 5959	douleurs chroniques neuropathiques
+T132	disorder 6062 6085	orientation temporelle 
+T133	procedure 6209 6230	porteur d'un peniflow

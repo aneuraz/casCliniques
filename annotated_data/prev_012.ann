@@ -1,0 +1,86 @@
+T1	procedure 149 162	la coloscopie
+T2	disorder 204 276	un volumineux polype sessile du côlon droit à la jonction avec le caecum
+T3	labvalue 281 285	3 cm
+T4	procedure 292 302	la biopsie
+T5	disorder 314 342	adénocarcinome intra muqueux
+T6	disorder 314 354	adénocarcinome intra muqueux, au minimum
+T7	disorder 410 443	deux polypes dans le côlon gauche
+T8	labvalue 446 456	 4 et 3 mm
+T9	disorder 497 539	adénomes tubulés en dysplasie de bas grade
+T10	disorder 542 552	une tumeur
+T11	labvalue 556 562	3,5 cm
+T12	labvalue 584 589	20 cm
+T13	anatomy 593 607	la marge anale
+T14	disorder 611 639	pédicule très court et large
+T15	disorder 660 689	 adénocarcinome lieberkuhnien
+T16	disorder 710 755	une diverticulose sigmoïdienne non compliquée
+T17	procedure 799 817	scanner thoracique
+T18	procedure 821 838	scanner abdominal
+T19	procedure 777 797	Le bilan d'extension
+T20	disorder 868 887	tumeur du sigmoïde 
+T21	disorder 896 927	anévrisme de l'aorte ascendante
+T22	labvalue 939 944	55 mm
+T23	disorder 972 1007	rétrécissement de la valve aortique
+T24	procedure 1013 1016	ACE
+T25	labvalue 1029 1038	1,5 ng/ml
+T26	profession 1088 1106	gastro-entérologue
+T27	profession 1112 1123	chirurgien 
+T28	procedure 1272 1293	une colectomie totale
+T29	irrelevant 1140 1270	Dans sa réponse, ce dernier indique "avoir expliqué au patient sa pathologie et le traitement qu'il faudrait réaliser : en théorie
+T30	irrelevant 1295 1311	mais en pratique
+T31	procedure 1390 1450	une colectomie droite associée à une colectomie sigmoïdienne
+T32	disorder 1501 1522	fistule anastomotique
+T33	procedure 1597 1602	 RCP.
+T34	irrelevant 1650 1736	Un schéma est présenté au patient par le chirurgien pour lui expliquer l'intervention.
+T35	anatomy 1920 1944	 côlon transverse gauche
+T36	anatomy 1960 1965	côlon
+T37	procedure 2041 2087	colectomie totale avec anastomose iléo-rectale
+T38	disorder 2118 2129	la diarrhée
+T39	disorder 2146 2160	déshydratation
+T40	irrelevant 2164 2282	Le 22 novembre, le patient signe un consentement éclairé en faveur de la première intervention, la plus conservatrice.
+T41	procedure 2457 2475	colectomie droite 
+T42	procedure 2477 2495	 colectomie gauche
+T43	procedure 2525 2604	anastomose iléocolique transverse droite latéro-latérale mécanique terminalisée
+T44	procedure 2608 2697	anastomose colorectale haute termino-terminale mécanique à la pince CDH de diamètre 29 mm
+T45	drugs 2740 2758	Antibioprophylaxie
+T46	drugs 2761 2770	AUGMENTIN
+T47	drugs 2845 2852	Lovenox
+T48	disorder 2877 2907	adénocarcinomes lieberkuhniens
+T49	disorder 3002 3027	métastases ganglionnaires
+T50	disorder 2979 2997	embols vasculaires
+T51	anatomy 2961 2973	côlon gauche
+T52	anatomy 2942 2954	 côlon droit
+T53	disorder 3187 3197	désorienté
+T54	disorder 3199 3212	vomissements,
+T55	disorder 3212 3229	 abdomen ballonné
+T56	disorder 3231 3264	marbrures des jambes et du ventre
+T57	disorder 3289 3296	hypoxie
+T58	labvalue 3298 3303	 92 %
+T59	labvalue 3278 3285	36-37°c
+T60	procedure 3265 3277	 température
+T61	procedure 3392 3395	CRP
+T62	labvalue 3395 3404	 210 mg/l
+T63	procedure 3406 3409	 GB
+T64	labvalue 3410 3420	17 800/mm3
+T65	disorder 3540 3574	 syndrome inflammatoire biologique
+T66	disorder 3637 3655	signes d'occlusion
+T67	disorder 3671 3710	marbrures et du syndrome inflammatoire.
+T68	procedure 3758 3760	GB
+T69	procedure 3795 3798	CRP
+T70	labvalue 3801 3809	385 mg/l
+T71	disorder 3881 3889	diarrhée
+T72	disorder 3916 3934	nsuffisance rénale
+T73	procedure 3978 3982	CAT 
+T74	procedure 4037 4066	le scanner abdomino-pelvien i
+T75	irrelevant 4294 4476	Lors de l’expertise, il explique "qu’il n'était pas à la Clinique à partir de ce moment, étant en vacances. Il avait transmis à ses confrères les informations concernant le patient".
+T76	irrelevant 4241 4292	Le chirurgien est informé des résultats du scanner.
+T77	disorder 4498 4528	écoulement "sanglant malodoran
+T78	disorder 4620 4671	ression pariétale de part et d’autre de l’incision.
+T79	procedure 4811 4822	Créatinémie
+T80	labvalue 4823 4833	19,6 mg/l.
+T81	procedure 5071 5074	CRP
+T82	labvalue 5076 5085	189 mg/l,
+T83	procedure 5086 5097	créatinémie
+T84	disorder 5133 5153	aggravation clinique
+T85	disorder 5159 5183	défaillance respiratoire
+T86	disorder 5188 5233	écoulement sale par la laparotomie transverse

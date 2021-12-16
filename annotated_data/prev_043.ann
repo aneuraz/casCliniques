@@ -1,0 +1,48 @@
+T1	procedure 122 133	coloscopie.
+T2	profession 137 155	 gastroentérologue
+T3	procedure 221 252	endoscopie gastrique et colique
+T4	disorder 334 359	ulcérations serpigineuses
+T5	anatomy 370 376	caecum
+T6	procedure 378 391	Des biopsies 
+T7	anatomy 410 415	côlon
+T8	anatomy 438 445	’iléon 
+T9	disorder 457 504	 une ulcération avec une réaction inflammatoire
+T10	anatomy 542 560	 transit du grêle 
+T11	disorder 571 627	un aspect de sténose de l’iléon terminal avec rétraction
+T12	disorder 641 680	 étiologie inflammatoire ou infectieuse
+T13	procedure 684 696	La sérologie
+T14	labvalue 717 725	négative
+T15	procedure 683 710	 La sérologie de yersiniose
+T16	procedure 738 754	 bilan digestif 
+T17	profession 834 854	Le gastroentérologue
+T18	disorder 907 924	 maladie de Crohn
+T19	drugs 967 977	 Entocort®
+T20	profession 1145 1164	 gastroentérologue 
+T21	irrelevant 1227 1325	décidait la poursuite du traitement à la même dose et en informait à nouveau le médecin traitant. 
+T22	irrelevant 1169 1225	en raison d’une nette amélioration de la symptomatologie
+T23	irrelevant 1326 1335	Plus tard
+T24	irrelevant 1336 1375	 dans un courrier en date du 9 novembre
+T25	procedure 1389 1402	état digestif
+T26	disorder 1435 1478	crises douloureuses abdominales épisodiques
+T27	profession 1525 1543	 gastroentérologue
+T28	profession 1608 1626	gastroentérologue,
+T29	profession 1880 1898	gastroentérologue 
+T30	drugs 1997 2007	’Entocort®
+T31	profession 2206 2224	 gastroentérologue
+T32	drugs 2331 2340	Entocort®
+T33	disorder 2466 2475	’asthénie
+T34	disorder 2502 2528	 les douleurs articulaires
+T35	procedure 2577 2592	 bilan sanguin 
+T36	procedure 2599 2622	radiographies du rachis
+T37	disorder 2648 2693	affaissement » des derniers disques lombaires
+T38	procedure 2706 2725	 ostéodensitométrie
+T39	disorder 2738 2753	une ostéoporose
+T40	profession 2831 2850	 gastroentérologue 
+T41	drugs 2948 2957	Entocort®
+T42	drugs 3056 3067	 Entocort® 
+T43	disorder 3083 3095	ostéoporose.
+T44	profession 3212 3229	gastroentérologue
+T45	drugs 3518 3527	Entocort®
+T46	anatomy 3574 3589	moelle osseuse 
+T47	profession 3608 3625	gastroentérologue
+T48	profession 3632 3639	médecin

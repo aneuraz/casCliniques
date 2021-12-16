@@ -1,0 +1,234 @@
+T1	disorder 77 102	 péjoration de lombalgies
+T2	disorder 107 133	 irradiations douloureuses
+T3	anatomy 149 161	sus-pubienne
+T4	anatomy 174 181	cuisses
+T5	disorder 221 234	urines rouges
+T6	disorder 284 293	brunâtres
+T7	labvalue 340 350	leucocytes
+T8	labvalue 356 365	 nitrites
+T9	disorder 486 510	infection urinaire basse
+T10	drugs 529 544	nitrofurantoïne
+T11	disorder 597 605	antalgie
+T12	disorder 639 685	trouble de la person­nalité de type borderline
+T13	drugs 698 709	 alprazolam
+T14	drugs 713 730	valproate sodique
+T15	disorder 748 770	dépendance aux opiacés
+T16	drugs 790 800	 méthadone
+T17	disorder 803 827	une hépatite C inactive 
+T18	risk 832 848	 tabagisme actif
+T19	disorder 915 987	troubles sensitifs douloureux d’apparition subite aux membres inférieurs
+T20	disorder 1152 1194	parésie proximale symétrique des ceintures
+T21	disorder 1199 1226	déficits sensitifs en selle
+T22	disorder 1231 1285	’une hypoesthésie tacto-algique au-dessous du nombril.
+T23	disorder 1285 1323	 Une myélopathie thoracique ischémique
+T24	procedure 1346 1387	imagerie par résonnance magnétique (IRM) 
+T25	drugs 1468 1493	’acide acétylsa­licylique
+T26	procedure 1523 1567	Les sérologies pour le virus de l’hépatite B
+T27	procedure 1571 1609	 virus de l’immunodé­ficience humaine,
+T28	procedure 1609 1642	 le virus T-lymphotropique humain
+T29	disorder 1644 1678	la maladie de Lyme et la Syphilis 
+T30	labvalue 1702 1711	négatives
+T31	procedure 1714 1756	n dépistage de la tuberculose par TB-spot 
+T32	labvalue 1774 1782	négatif.
+T33	disorder 1848 1855	algurie
+T34	disorder 1879 1918	douleurs abdominales diffuses nouvelles
+T35	disorder 1921 1956	 des douleurs des cuisses et jambes
+T36	disorder 1975 1995	douleurs antérieures
+T37	disorder 2035 2050	d’urines rouges
+T38	disorder 2068 2091	 perdu cinq kilogrammes
+T39	procedure 2109 2124	examen clinique
+T40	disorder 2160 2169	 algique 
+T41	disorder 2233 2243	 logorrhée
+T42	disorder 2283 2292	 cachexie
+T43	disorder 2299 2325	 baisse de l’état général.
+T44	procedure 2526 2549	 La manœuvre de Lasègue
+T45	labvalue 2553 2562	 négative
+T46	disorder 2571 2618	région lombaire est douloureuse à la palpation.
+T47	irrelevant 2659 2728	Question 1: Quelle mesure vous semble la moins pertinente à ce stade?
+T48	procedure 2963 2966	IRM
+T49	procedure 2892 2948	un examen de microscopie à contraste de phase des urines
+T50	procedure 2858 2878	le sédiment urinaire
+T51	procedure 3068 3091	Une bandelette urinaire
+T52	procedure 3095 3119	un examen de microscopie
+T53	procedure 3184 3205	Un sédiment urinaire 
+T54	disorder 3296 3319	’urines rouges/foncées 
+T55	procedure 3507 3510	IRM
+T56	disorder 3554 3573	ischémie médullaire
+T57	drugs 3708 3717	uétiapine
+T58	drugs 3723 3734	 lorazepam,
+T59	drugs 3750 3762	’alprazolam 
+T60	drugs 3767 3784	acide valproïque 
+T61	irrelevant 3844 3903	Question 2: Quel diagnostic suspectez-vous en premier lieu?
+T62	disorder 3908 3931	Une ischémie médullaire
+T63	disorder 3936 3976	Une hémoglobinurie paroxystique nocturne
+T64	disorder 3981 4003	Un trouble somatoforme
+T65	disorder 4008 4085	Un syndrome paranéoplasique avec neuropathie périphérique et une dysautonomie
+T66	disorder 4090 4109	Une porphyrie aiguë
+T67	disorder 4173 4203	ischémie médullaire improbable
+T68	disorder 4205 4285	Une hémoglobinurie paroxystique nocturne s’accompagne d’une hémolyse avec anémie
+T69	disorder 4306 4344	Un trouble somatoforme ou fonctionnel 
+T70	disorder 4462 4471	Un cancer
+T71	disorder 4538 4563	neuropathie périphérique 
+T72	disorder 4570 4583	dys­autonomie
+T73	disorder 4673 4685	héma­turie. 
+T74	disorder 4725 4746	douleurs abdominales,
+T75	disorder 4688 4724	constellation urines rouges/foncées,
+T76	disorder 4747 4771	symptômes neurologiques 
+T77	disorder 4773 4797	 troubles psychiatriques
+T78	disorder 4840 4859	une porphyrie aiguë
+T79	disorder 4860 4863	(PA
+T80	disorder 4945 4948	 PA
+T81	disorder 4976 5013	Douleurs abdominales souvent sévères,
+T82	disorder 5013 5031	 mal systématisées
+T83	anatomy 5057 5061	 dos
+T84	anatomy 5067 5071	bras
+T85	anatomy 5079 5085	jambes
+T86	disorder 5086 5092	Nausée
+T87	disorder 5094 5105	vomissement
+T88	disorder 5107 5119	constipation
+T89	disorder 5120 5129	Insomnie,
+T90	disorder 5129 5139	 agitation
+T91	disorder 5141 5149	anxiété,
+T92	disorder 5150 5159	confusion
+T93	disorder 5161 5191	psychose avec ­hallucinations 
+T94	disorder 5194 5217	trouble du comportement
+T95	disorder 5235 5271	Urine foncée ou devenant plus foncée
+T96	disorder 5327 5353	Lésions cutanées bulleuses
+T97	procedure 5418 5430	Hypertension
+T98	procedure 5432 5443	tachycardie
+T99	procedure 5445 5453	arythmie
+T100	disorder 5454 5485	Neuropathie périphérique motric
+T101	disorder 5487 5498	 Dysphagie,
+T102	disorder 5499 5540	rétention ­urinaire aiguë ou incontinence
+T103	disorder 5541 5586	 progression possible vers la parésie flasque
+T104	disorder 5593 5618	insuffisance respiratoire
+T105	disorder 5672 5786	 troubles innés ou acquis du métabolisme dus à des déficits enzymatiques intervenant dans la biosynthèse de l’hème
+T106	disorder 5799 5820	déficits enzymatiques
+T107	irrelevant 5820 5848	 entraînent une accumulation
+T108	irrelevant 5821 6000	entraînent une accumulation de porphyrines et/ou de leurs précurseurs que sont le porphobilinogène (PBG) et l’acide delta aminolévu­linique (ALA) dans le foie ou la moelle osseuse
+T109	irrelevant 6002 6154	où les besoins en hème et son turnover sont maximaux. Ces précurseurs semblent neurotoxiques sans que le mécanisme exact ne soit complètement élucidé [3
+T110	irrelevant 6158 6238	es déficits enzymatiques résultent de mutations des gènes codants correspondants
+T111	disorder 6249 6282	La porphyrie intermittente aiguë,
+T112	disorder 6300 6341	 déficience partielle de la PBG-deaminase
+T113	disorder 6359 6361	PA
+T114	disorder 6716 6732	porphyrie aiguë.
+T115	irrelevant 6416 6634	Figure 2: Les huit étapes nécessaires à la biosynthèse de l’hème humaine sont représentées. Le nom des différents précurseurs de l’hème est indiqué en noir. Le nom de chacune des enzymes impliquées est indiqué en vert.
+T116	disorder 6817 6831	Les porphyries
+T117	irrelevant 7014 7078	Question 3: Laquelle de ces mesures n’a pas sa place à ce stade?
+T118	procedure 7084 7122	osage quantitatif du porphobilinogène 
+T119	procedure 7130 7172	 l’acide δ-aminolévulinique (ALA) urinaire
+T120	procedure 7190 7221	canner thoraco-abdomino-pelvien
+T121	procedure 7238 7310	examen neurologique avec mesure des paramètres de la conduction nerveuse
+T122	procedure 7326 7335	 antalgie
+T123	drugs 7340 7348	morphine
+T124	drugs 7377 7393	acide valproïque
+T125	procedure 7428 7444	 PBG/créatinine 
+T126	labvalue 7453 7468	60,7 mmol/mmol 
+T127	labvalue 7474 7480	 <1,25
+T128	disorder 7502 7506	e PA
+T129	procedure 7528 7553	scanner thoraco-abdominal
+T130	disorder 7570 7584	’une néoplasie
+T131	disorder 7603 7627	syndrome paranéoplasique
+T132	profession 7766 7777	neurologues
+T133	disorder 7794 7865	tétraplégie proximale aréflexique avec douleurs neuropathiques intenses
+T134	disorder 7952 7975	une neuropathie motrice
+T135	disorder 7979 7998	sensitive difficile
+T136	drugs 8008 8019	Les opiacés
+T137	disorder 8061 8085	douleurs neuro­pathiques
+T138	drugs 8337 8357	 L’acide valproïque,
+T139	drugs 8363 8383	 porphyrinogénique, 
+T140	irrelevant 8431 8528	 Quel(s) autre(s) facteur(s) précipitant(s) d’une crise de PA doit (doivent) être pris en charge?
+T141	risk 8533 8539	Alcool
+T142	risk 8539 8545	/tabac
+T143	risk 8546 8554	cannabis
+T144	disorder 8559 8569	Hépatite C
+T145	disorder 8574 8595	Restriction calorique
+T146	disorder 8600 8633	Contraception à base d’estrogènes
+T147	irrelevant 8635 8656	e) Réponse a), c), d)
+T148	risk 8675 8682	’alcool
+T149	risk 8687 8693	tabac 
+T150	risk 8699 8707	cannabis
+T151	disorder 8722 8743	restriction calorique
+T152	disorder 8750 8783	contraception à base d’estrogènes
+T153	disorder 8915 8918	 PA
+T154	risk 8965 8970	tabac
+T155	risk 8971 8979	cannabis
+T156	risk 8980 8986	alcool
+T157	procedure 9020 9047	contraception alternatives.
+T158	procedure 8751 8785	ontraception à base d’estrogènes (
+T159	procedure 8600 8633	Contraception à base d’estrogènes
+T160	disorder 9088 9114	 porphyrie cutanée tardive
+T161	disorder 9120 9130	hépatite C
+T162	disorder 9205 9215	porphyries
+T163	drugs 9318 9331	Hème arginate
+T164	drugs 9331 9344	 (Normosang®)
+T165	drugs 9408 9427	Solution de Glucose
+T166	procedure 9460 9483	Monitoring respiratoire
+T167	procedure 9459 9529	 Monitoring respiratoire, neurologique et des troubles électrolytiques
+T168	irrelevant 9533 9557	 Toutes les propositions
+T169	drugs 9683 9697	’hème arginate
+T170	drugs 9778 9791	hème arginate
+T171	irrelevant 14950 15024	Question 1: d; Question 2: e; Question 3: b; Question 4: e; Question 5: e.
+T172	irrelevant 14938 14947	Réponses:
+T173	irrelevant 14914 14928	Sites d’intérê
+T174	drugs 14833 14846	hème arginate
+T175	disorder 10106 10118	tétraparésie
+T176	disorder 10122 10161	atteinte de la musculature respiratoire
+T177	disorder 10166 10187	faiblesse musculaire 
+T178	procedure 10242 10264	s taux de PBG urinaire
+T179	irrelevant 10310 10324	’hème arginate
+T180	procedure 10538 10563	 Une sonde ­nasogastrique
+T181	disorder 10622 10650	des nausées et vomissements.
+T182	procedure 11250 11276	Le monitoring respiratoire
+T183	disorder 11307 11342	paralysie des muscles respiratoires
+T184	disorder 11416 11469	péjoration rapide d’une tétraparésie très douloureuse
+T185	drugs 11505 11519	’hème arginate
+T186	disorder 11663 11672	’antalgie
+T187	disorder 11800 11823	pneumonie d’aspiration 
+T188	disorder 11834 11860	une détresse respiratoire.
+T189	disorder 12167 12190	bronchopneumonie sévère
+T190	disorder 12163 12218	une bronchopneumonie sévère des deux plages pulmonaires
+T191	disorder 12281 12298	crise d’épilepsie
+T192	disorder 12300 12337	symptômes neuro-viscéraux inexpliqués
+T193	disorder 12339 12359	douleurs abdominales
+T194	disorder 12361 12386	paresthésies douloureuses
+T195	disorder 12390 12403	 hyponatrémie
+T196	disorder 12436 12445	porphyrie
+T197	procedure 12482 12495	 PBG urinaire
+T198	procedure 12644 12654	créatinine
+T199	procedure 13290 13294	ALA 
+T200	disorder 13326 13330	 PA 
+T201	disorder 12762 12895	En Suisse, le dosage est pratiqué au centre de référence national du Stadtspital Triemli de Zürich et l’examen est demandé en urgence
+T202	disorder 12896 12920	 Pour la prise en charge
+T203	disorder 12921 13057	 il est recommandé de prendre contact avec un centre universitaire (Centre des Maladies Moléculaires, CHUV et/ou Service d’Hématologie, 
+T204	disorder 13057 13242	CHUV/HUG pour la Suisse Romande) et/ou de se mettre directement en contact avec le centre d’expertise national (Triemli Spital, Zurich, Dr méd. Anna Minder ou Dr Jasmin Barman-Aksözen).
+T205	disorder 13244 13273	Dans la démarche diagnostique
+T206	disorder 13335 13357	 intoxication au plomb
+T207	disorder 13360 13431	es deux entités peuvent en effet causer un ­tableau clinique similaire.
+T208	irrelevant 13358 13429	 Ces deux entités peuvent en effet causer un ­tableau clinique similair
+T209	disorder 13434 13456	intoxication au plomb 
+T210	procedure 13502 13506	’ALA
+T211	procedure 13530 13535	 PBG 
+T212	procedure 13575 13579	 PBG
+T213	labvalue 13589 13596	 élevés
+T214	disorder 13620 13622	PA
+T215	procedure 13774 13786	BG-déaminase
+T216	procedure 13795 13841	 mesure du spectre de fluorescence plasmatique
+T217	procedure 13969 13982	PBG urinaire,
+T218	procedure 13999 14029	 PBG-déa­minase érythrocytaire
+T219	labvalue 14035 14044	 normale 
+T220	labvalue 13960 13965	élevé
+T221	disorder 14077 14106	porphyrie intermittente aiguë
+T222	procedure 14120 14144	fluorescence plasmatique
+T223	labvalue 14187 14195	625,5 nm
+T224	procedure 14167 14183	 longueur d’onde
+T225	disorder 14211 14231	porphyrie ­variegata
+T226	procedure 14263 14273	 gène PPOX
+T227	procedure 14233 14260	La recherche d’une mutation
+T228	irrelevant 14411 14558	n conseil génétique sera par la suite proposé à la famille, afin d’identifier les individus susceptibles de développer ou de transmettre la maladie
+T229	disorder 14560 14585	La porphyrie variegataest
+T230	irrelevant 14611 14639	pouvant se caractériser par 
+T231	disorder 14643 14657	crises aiguës 
+T232	irrelevant 14713 14734	La prise en charge de
+T233	disorder 14734 14750	 la crise de PA 
+T234	irrelevant 14792 14832	 Le traitement consiste à administrer de

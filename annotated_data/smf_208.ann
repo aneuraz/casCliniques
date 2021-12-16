@@ -1,0 +1,13 @@
+T1	profession 62 79	recrue ­militaire
+T2	disorder 99 117	gastro-intestinale
+T3	disorder 199 250	sensation de corps étranger au niveau rétrosternal 
+T4	disorder 256 278	douleurs épigastriques
+T5	drugs 418 435	Algifor®-L forte 
+T6	disorder 502 511	céphalées
+T7	procedure 545 554	transféré
+T8	procedure 599 628	œsophago-gastro-duodénoscopie
+T9	disorder 689 766	ulcères superficiels à dépôt fibrineux isolés sans signes d’hémorragie active
+T10	drugs 836 869	anti-inflammatoire non stéroïdien
+T11	drugs 871 875	AINS
+T12	drugs 1087 1098	sucralfate 
+T13	irrelevant 1098 1174;1176 1275;1277 1287;1289 2325;2327 2503;2505 2913	a été initié, ce qui s’est traduit par une disparition rapide des symptômes.  L’effet indésirable médicamenteux a été signalé rapidement au centre de pharmacovigilance régional.  Discussion  L’ingestion de corps étrangers est un incident fréquent. Chez les adultes, l’ingestion d’un corps étranger se produit le plus souvent lors de l’ingestion de nourriture et est favorisée par des altérations pathologiques du tractus gastro-intestinal, telles que sténoses (dans env. 50% des cas), œsophagite à éosinophiles (40%) et tumeurs malignes, ainsi que par divers troubles de la motilité œsophagienne (achalasie, œsophage casse-noisettes, spasme œsophagien diffus). Par ailleurs, des ingestions de corps étrangers sont plus fréquemment rapportées chez les sujets d’âge avancé, en cas de retard mental et en cas de maladies psychiatriques [1–3]. Les rétrécissements physiologiques et anatomiques du tractus gastro-intestinal compliquent le passage de l’ingesta et constituent des zones de prédilection pour une impaction de corps étranger. Une œsophagite à éosinophiles et un trouble de la motilité œsophagienne ont été exclus. Chez les ­patients en bonne santé, cette situation est rare. La cause reste indéterminée chez ce patient.  Pour prévenir de tels ulcères, nous recommandons toujours de prendre les AINS avec suffisamment d’eau (au minimum 100 ml, 1 verre), avec le haut du corps en position verticale.  Dans l’information professionnelle suisse de Algifor®-L, les ulcérations gastro-intestinales sont mentionnées comme effet indésirable médicamenteux rare, avec une fréquence comprise entre >1/10 000 et <1/1000 cas [4]. Dans la base de données de pharmacovigilance de l’OMS, un total de 122 958 cas d’effets indésirables en lien avec l’ibuprofène sont recensés, dont seulement 96 cas d’ulcères œsophagiens [5].

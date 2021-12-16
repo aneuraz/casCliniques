@@ -1,0 +1,80 @@
+T1	disorder 76 106	douleurs thoraciques atypiques
+T2	drugs 276 280	AINS
+T3	procedure 285 298	CT thoracique
+T4	disorder 366 384	embolie pulmonaire
+T5	disorder 400 435	atteinte pulmonaire parenchymateuse
+T6	disorder 440 464	épanchement péricardique
+T7	disorder 502 535	lame d’épanchement pleural gauche
+T8	disorder 543 582	ganglions hilaires infra centimétriques
+T9	disorder 629 644	perte pondérale
+T10	disorder 668 696	sudations nocturnes profuses
+T11	disorder 703 715	état fébrile
+T12	disorder 773 784	arthralgies
+T13	disorder 811 819	érythème
+T14	disorder 823 834	tuméfaction
+T15	disorder 894 932	rhinite croûteuse avec des saignements
+T16	disorder 956 967	hémoptysies
+T17	disorder 1023 1033	tachycarde
+T18	labvalue 1036 1043	110 bpm
+T19	labvalue 1076 1088	110/70 mm Hg
+T20	labvalue 1110 1117	38,5 °C
+T21	disorder 1095 1107	état fébrile
+T22	disorder 1141 1158	souffle cardiaque
+T23	disorder 1163 1186	frottement péricardique
+T24	procedure 1308 1311	ECG
+T25	disorder 1335 1355	tachycardie sinusale
+T26	labvalue 1358 1365	111 bpm
+T27	disorder 1375 1406	bloc de branche droit incomplet
+T28	disorder 1465 1488	onde T aplatie/négative
+T29	disorder 1493 1537	sous-décalage non significatif du segment ST
+T30	disorder 1554 1573	sous-décalage du PR
+T31	disorder 1600 1618	sus-décalage du PR
+T32	irrelevant 1678 1884	Figure 1: ECG 12 dérivations fait à l’admission montrant des signes discrets de péricardite: troubles diffus de la repolarisation, sous décalage du segment PR surtout en V3, V4 et sus décalage du PR en aVR.
+T33	procedure 1888 1921	échocardiographie transthoracique
+T34	procedure 1923 1926	ETT
+T35	disorder 2032 2059	épanchement circonférentiel
+T36	irrelevant 2187 2468	Figure 2: Vue échocardiographique apicale 4 cavités: épanchement péricardique (EP) circonférentiel, prédominant en regard des cavités droites, avec une compression dia­stolique sur le ventricule droit (flèche). VD = ventricule droit; VG = ventricule gauche; OG = oreillette gauche.
+T37	procedure 2473 2486	bilan sanguin
+T38	disorder 2514 2536	syndrome inflammatoire
+T39	procedure 2547 2550	CRP
+T40	labvalue 2553 2561	153 mg/l
+T41	disorder 2567 2578	leucocytose
+T42	labvalue 2581 2587	12 G/l
+T43	procedure 2595 2597	VS
+T44	labvalue 2600 2608	100 mm/h
+T45	disorder 2642 2651	hématurie
+T46	procedure 2659 2688	examen par contraste de phase
+T47	procedure 2735 2747	hémocultures
+T48	procedure 2752 2759	TB spot
+T49	procedure 2776 2795	sérologies pour CMV
+T50	procedure 2797 2815	Epstein-Barr virus
+T51	procedure 2817 2838	HIV, hépatite B et C 
+T52	procedure 2841 2849	Borrelia
+T53	procedure 2969 2985	recherche de ANA
+T54	procedure 3029 3047	Facteur Rhumatoïde
+T55	disorder 3080 3102	hématurie glomérulaire
+T56	procedure 3127 3132	cANCA
+T57	disorder 3366 3377	tuberculose
+T58	disorder 3557 3577	douleurs thoraciques
+T59	procedure 3643 3662	imagerie thoracique
+T60	procedure 3684 3702	CT-scan thoracique
+T61	procedure 3731 3735	ANCA
+T62	procedure 3741 3773	immunofluorescence cytoplasmique
+T63	procedure 3781 3799	anticorps anti-PR3
+T64	disorder 3848 3878	granulomatose avec polyangéite
+T65	disorder 3880 3883	GPA
+T66	disorder 4047 4050	GPA
+T67	procedure 4498 4519	remplissage liquidien
+T68	procedure 4617 4655	drainage de l’épanchement péricardique
+T69	procedure 4788 4803	anticorps cANCA
+T70	disorder 4843 4856	granulomatose
+T71	disorder 4862 4873	polyangéite
+T72	drugs 4938 4949	corticoïdes
+T73	drugs 4960 4969	Rituximab
+T74	drugs 5022 5038	Cyclophosphamide
+T75	disorder 5113 5125	état fébrile
+T76	disorder 5131 5151	douleurs thoraciques
+T77	disorder 5183 5207	épanchement péricardique
+T78	drugs 5278 5287	Rituximab
+T79	disorder 5318 5321	GPA
+T80	irrelevant 5290 5300;5302 5941;5943 6019;6021 6123;6124 6167;6168 6197;6198 6282;6283 6344;6345 6399;6400 6442;6443 6483;6484 6526;6527 6565;6566 6601;6602 6705;6707 7259;7261 7933;7935 8517;8519 8840;8842 9495;9497 9844;9846 9911;9912 9950;9951 9962;9963 9971;9972 9983;9984 10049;10050 10073;10074 10097;10098 10116;10117 10129;10130 10162;10163 10173;10174 10226;10227 10270;10271 10297;10298 10308;10309 10329;10330 10339;10340 10363;10364 10391;10392 10442;10443 10451;10452 10469;10470 10493;10494 10510;10511 10559;10560 10677;10678 10704;10705 10735;10736 10764;10765 10784;10785 10836;10837 10857;10858 10876;10877 10934;10935 10949;10951 11111;11113 11519;11521 11881;11883 12946;12948 12976;12978 13269;13271 13531	Discussion  La suspicion de GPA est posé en utilisant des arguments cliniques et biologiques (marqueurs auto-immuns de type cANCA). La preuve histologique doit confirmer la suspicion clinique avant l’introduction d’un traitement au long cours, à l’exception des cas particuliers quand les biopsies ne peuvent pas être réalisées ou quand la probabilité diagnostique de GPA est très haute. Les biopsies des organes atteints montrent, au niveau ­rénal, une glomerulonéphrite nécrosante pauci-immune, au niveau pulmonaire, une vasculite avec nécrose parenchymateuse et une inflammation granulomateuse et, au niveau cutané, une vasculite leucocytoclasique.  Les éléments suggestifs pour le diagnostic sont présentés dans le tableau 1.  Tableau 1: Eléments d’orientation diagnostique devant une suspicion de granulomatose avec polyangéite.  	ORL	Pulmonaire	Rénal	Cardiaque	Systémique Symptômes	Sinusite chronique, épistaxis	Hémoptysies	–	Douleurs thoraciques, dyspnée	Douleurs musculaires, asthénie Examens paracliniques	Recherche de cANCA avec spécificité PR3 Sédiment urinaire: recherche d’hématurie microscopique Gold standard: biopsie d’un organe atteint Imagerie et clinique	Lésions ulcératives du nez et du pharynx	Infiltrats nodulaires et cavitations	–	Epanchement, troubles de la ­cinétique	Rash, état fébrile Pathologie	Granulomes nécrosants des petits et moyens vaisseaux	Glomérulonéphrite focale nécrosante	 	   Une atteinte cardiaque peut survenir chez des patients souffrant de granulomatose avec polyangéite [2]. Selon les méthodes de dépistage utilisées, la fréquence de l’atteinte cardiaque est très variable. Ces variations peuvent être expliquées d’une part, par la difficulté d’association causale entre l’atteinte cardiaque et la maladie auto-immune sous-jacente, et d’autre part, par une sous-détection des atteintes cardiaques, avec des patients qui restent asymptomatiques même en ­présence par exemple des troubles de la cinétique segmentaire à l’ETT.  Dans une revue de cas [2], 85 patients ayant une GPA ­bénéficiaient d’un dépistage des anomalies cardiaques par ETT. Parmi ceux-ci, 86% avaient des anomalies échographiques. Plus fréquemment étaient retrouvés des troubles de la cinétique segmentaire ne respectant pas les territoires coronariens, des valvulopathies, une dysfonction du ventricule gauche ou un épanchement péricardique. La moitié des anomalies apparaissaient en l’absence de symptômes. Plus d’un tiers de ces anomalies étaient attribuées à la maladie inflammatoire, avec une amélioration sous traitement immunosuppresseur. L’origine ischémique était exclue par une coronarographie ou une épreuve de stress.  La «Vasculitis Clinical Research Consortium Longitudinal Study» [3] a analysé 517 patients dont uniquement 3,3% avaient une atteinte cardiaque en relation avec la maladie inflammatoire. Dans cette étude, la manifestation la plus fréquente était la péricardite, suivie de la cardiomyopathie, de la maladie coronarienne, valvulaire et des troubles de la conduction. Toutefois, tous ces patients étaient symptomatiques. En présence d’une atteinte cardiaque l’évolution n’était pas moins favorable et la mortalité et la fréquence des rechutes de la vasculite n’étaient pas plus élevées.  Une fréquence similaire d’anomalie cardiaque, de 5,7%, était rapportée par l’«European Vasculitis Study Group» chez des patients avec un nouveau diagnostic de GPA, de polyangéite microscopique ou de vasculite limitée au rein. Par contre, l’atteinte cardiaque semblait être un facteur indépendant de risque de rechute [4].  Le risque d’implication cardiaque lors d’une GPA semble donc difficile à déterminer, ainsi que sa valeur pronostique sur l’évolution de la maladie et sur le risque de rechute. Dans ce contexte il pourrait être utile de ­dépister les anomalies cardiaques lors du diagnostic de cette vasculite, même si les implications pour le pronostic et le traitement du patient sont peu claires. La meilleure méthode de dépistage n’est pas pour l’instant consensuelle, mais l’ETT est utilisée le plus souvent. Il serait intéressant d’évaluer les avantages des autres techniques dans le dépistage des anomalies cardiaques, comme l’IRM cardiaque ou le PET-CT cardiaque.  Autrement, les causes possibles de l’épanchement péricardique sont nombreuseset résumées dans le tableau 2. Elles peuvent varier en fonction de la provenance ­géographique du patient, comme par exemple la tuberculose, plus fréquente dans les pays en voie de développement. La cause immunologique n’est pas parmi les étiologies les plus fréquentes.  Tableau 2: Diagnostic étiologique des épanchements péricardiques. Péricardite aiguë ­infectieuse 	Virale Bactérienne Fongique Parasitaire Maladies auto-immunes et de système	Lupus érythémateux systémique Polyarthrite rhumatoïde Sclérodermie systémique Dermatopolymyosite Vascularites Fièvre méditerranéenne familiale Sarcoïdose Affection des organes de voisinage	Rupture cardiaque Pathologie aortique (dissection, anévrysme) Infarctus de myocarde aigu Myocardite Infarctus pulmonaire Pneumonie Pathologie œsophagienne Péricardite paranéoplasique Maladies métaboliques	Insuffisance rénale (urémie) Myxœdème Maladie d’Addison Acétoacidose diabétique Chylopericardium Grossesse, syndrome d’hyperstimulation ovarienne Post traumatique	Iatrogène: cathétérisme cardiaque, biopsies myocardiques, ponction transseptale, sondes de pacemaker Autres causes traumatiques Après irradiation médiastinale Néoplasies	Lésions primaires Lésions secondaires Rétention d’eau ou de sodium	Insuffisance cardiaque Syndrome néphrotique Cirrhose hépatique Médicamenteux	Accompagnant une péricardite médicamenteuse Idiopathique	   Devant un épanchement péricardique il faut s’assurer de l’absence des signes de gravité avec instabilité ­hémodynamique, le résultat d’une tamponnade cardiaque.  Les signes cliniques de tamponnade sont représentés par la triade de Beck: la turgescence veineuse jugulaire, l’hypotension artérielle et la présence d’un pouls paradoxal (disparition du pouls à l’inspiration profonde avec diminution de la tension artérielle systolique de plus de 10 mm Hg à l’inspiration). Des signes d’alarme évoquant la tamponnade sont la polypnée, la tachycardie, ou une hépatomégalie.  Dans le cadre d’une tamponnade le bilan minimal se ­limite à l’ETT qui visualise l’épanchement péricardique comme un espace clair entre le péricarde viscéral en contact avec le myocarde (le plus souvent du ventricule droit) et le péricarde pariétal. Parfois l’épanchement est volumineux, avec un mouvement en «battant de cloche» du cœur («swinging heart») [5].  Le traitement de l’épanchement péricardique en dehors de la tamponnade repose sur le traitement de la cause, et ensuite sur le traitement anti-inflammatoire. Les ­recommandations de la Société Européenne de Cardiologie de 2015 proposent pour le traitement de la péricardite non spécifique la colchicine en association avec les anti-inflammatoires, ceci même pour un premier épisode de péricardite. La durée du traitement par colchicine est de 3 mois avec un dosage à adapter au poids (0,5 mg deux fois par jour ou 0,5 mg une fois par jour si poids <70 kg) [6]. Quant aux AINS, la dose est de 3 × 1000 mg/j pour l’Aspirine®, pendant 1 à 2 semaines, avec décroissance progressive sur 1 mois, en diminuant de 250 à 500 mg/dose chaque semaine. Ce traitement combiné permet en effet de réduire les récidives. Notons finalement que les critères de mauvais pronostic sont l’absence de réponse aux AINS après 7 jours de traitement, un état fébrile >38 °C, une évolution subaiguë de la maladie, un épanchement péricardique >20 mm et des signes de tamponnade cardiaque [6].  L’essentiel pour la pratique  Ce cas clinique illustre une situation rare de péricardite avec épanchement et signes généraux dans le contexte d’une granulomatose avec polyangéite. Pour les épanchements péricardiques les points clés sont représentés par le diagnostic étiologique et par le dépistage des signes de gravité.  En effet, les étiologies sont variées, et il s’agit le plus souvent d’une cause virale ou idiopathique. Plus rarement, en présence des symptômes généraux il faut penser aux vasculites dont le traitement spécifique permet une amélioration sur le plan cardiaque.

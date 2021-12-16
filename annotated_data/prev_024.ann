@@ -1,0 +1,50 @@
+T1	disorder 281 292	 la rubéole
+T2	disorder 298 312	 toxoplasmose.
+T3	profession 195 207	 généraliste
+T4	disorder 397 501	une éruption de la partie supérieure du corps accompagnée de fièvre et de quelques ganglions cervicaux. 
+T5	disorder 518 526	rubéole 
+T6	procedure 569 585	 sérodiagnostic.
+T7	procedure 605 620	sérodiagnostic 
+T8	labvalue 648 656	 négatif
+T9	procedure 658 665	Rubéole
+T10	labvalue 668 675	1 UI/ml
+T11	labvalue 808 815	négatif
+T12	disorder 888 895	rubéole
+T13	profession 899 913	Le généraliste
+T14	irrelevant 952 1175	« il faut contrôler ce résultat à distance ». Toutefois, il ne pouvait en apporter la preuve, ne tenant pas de dossier médical matérialisé, mais un dossier simplement constitué des examens complémentaires en sa possession. 
+T15	procedure 1259 1291	 la sérologie de la toxoplasmose
+T16	procedure 1293 1345	la recherche de sucre et d’albumine dans les urines,
+T17	procedure 1345 1369	 un prélèvement vaginal 
+T18	disorder 1381 1402	présence d’une mycose
+T19	procedure 1415 1439	 sérologie de la rubéole
+T20	irrelevant 1443 1606	Le généraliste dit « avoir donné une ordonnance », mais la jeune femme affirme que « lors de cette consultation, on n’aurait pas reparlé de faire un contrôle de la
+T21	irrelevant 1619 1780	e généraliste ne devait plus revoir cette jeune femme qui décidait de se faire suivre, à partir du 18 août (20 SA), par deux sages-femmes et, en fin de grossesse
+T22	profession 1786 1803	un obstétricien. 
+T23	procedure 1877 1904	 la sérologie de la rubéole
+T24	disorder 1927 1941	 toxoplasmose 
+T25	labvalue 1983 1992	négative)
+T26	disorder 2027 2035	éruption
+T27	profession 2124 2136	sages femmes
+T28	irrelevant 2138 2326	il aurait été essentiellement question d’un projet de naissance à domicile. Aucune anomalie n’était notée dans le déroulement de la grossesse jusqu’à l’entrée en travail le 20 janvier 1997
+T29	irrelevant 2327 2452	 Après un début du travail à domicile, la parturiente était transférée en clinique en raison d’une anomalie de la dilatation.
+T30	irrelevant 2452 2544	 Elle accouchait normalement d’une petite fille pesant 2790 g avec un score d’Apgar à 9/10. 
+T31	procedure 2530 2534	Apga
+T32	labvalue 2537 2542	 9/10
+T33	procedure 2577 2601	le diagnostic de surdité
+T34	disorder 2679 2707	 polyarthrite inflammatoire 
+T35	disorder 2708 2724	maladie de Still
+T36	profession 3435 3456	 médecin généraliste 
+T37	profession 3468 3480	sages-femmes
+T38	procedure 2748 2773	a sérologie de la rubéole
+T39	procedure 2827 2833	’IgG à
+T40	labvalue 2834 2845	206 UI/ml s
+T41	procedure 2848 2853	 IgM 
+T42	procedure 2881 2884	IgG
+T43	labvalue 2887 2897	125 UI/ml 
+T44	procedure 2902 2905	IgM
+T45	procedure 2915 2921	 l’IRM
+T46	disorder 2998 3017	 hypotonie globale 
+T47	disorder 3113 3139	une surdité de perception,
+T48	disorder 3062 3112	des troubles de la coordination et de l’équilibre,
+T49	disorder 3139 3166	 des troubles de la mémoire
+T50	disorder 3140 3200	des troubles de la mémoire et de l’interprétation visuelle. 

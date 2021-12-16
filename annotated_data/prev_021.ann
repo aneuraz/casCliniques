@@ -1,0 +1,41 @@
+T1	disorder 69 104	douleurs de la fosse iliaque droite
+T2	disorder 187 204	appendicite aiguë
+T3	disorder 247 276	Syndrome douloureux abdominal
+T4	disorder 311 323	vomissements
+T5	labvalue 354 361	38, 7°C
+T6	disorder 363 395	Abdomen tendu avec défense nette
+T7	disorder 527 538	leucocytose
+T8	labvalue 545 554	15740/mm3
+T9	procedure 561 564	CRP
+T10	labvalue 567 573	89mg/l
+T11	labvalue 601 607	39.7°C
+T12	procedure 659 677	antibioprophylaxie
+T13	drugs 682 691	Augmentin
+T14	procedure 730 753	coelioscopie ombilicale
+T15	disorder 754 792	Appendicite rétro-coecale sous-séreuse
+T16	procedure 870 885	Appendicectomie
+T17	procedure 888 906	électrocoagulation
+T18	procedure 1179 1194	Lavage abondant
+T19	drugs 1293 1308	antibiothérapie
+T20	drugs 1310 1319	Augmentin
+T21	disorder 1518 1540	douleurs épigastriques
+T22	drugs 1582 1590	Raniplex
+T23	drugs 1595 1600	Ulcar
+T24	disorder 1641 1652	gastralgies
+T25	drugs 1702 1708	Mopral
+T26	drugs 1724 1732	Raniplex
+T27	disorder 1790 1801	gastralgies
+T28	procedure 1879 1881	GB
+T29	labvalue 1884 1895	11 400/ mm3
+T30	drugs 2072 2081	Augmentin
+T31	drugs 2089 2098	Doliprane
+T32	drugs 2317 2326	Augmentin
+T33	drugs 2356 2368	Amoxicilline
+T34	drugs 2492 2501	Doliprane
+T35	disorder 2703 2723	douleurs abdominales
+T36	drugs 3267 3275	Debridat
+T37	drugs 3283 3290	Spasfon
+T38	drugs 3386 3394	Débridat
+T39	disorder 3588 3619	vomissement de liquide verdâtre
+T40	disorder 3833 3855	péritonite généralisée
+T41	disorder 4772 4842	Appendicite aiguë gangréneuse avec une péritonite fibrino-leucocytaire

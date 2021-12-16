@@ -1,0 +1,55 @@
+T1	profession 86 97	gynécologue
+T2	disorder 106 118	 leucorrhées
+T3	procedure 199 218	contraception orale
+T4	procedure 260 283	 L’examen gynécologique
+T5	procedure 324 339	appendicectomie
+T6	drugs 368 376	GARDASIL
+T7	disorder 496 510	cancer du sein
+T8	procedure 553 583	 bilan glycémique et lipidique
+T9	procedure 586 612	ne sérologie de la rubéole
+T10	procedure 614 648	une bactériologie cervico-vaginale
+T11	procedure 652 690	recherche de chlamydiae et mycoplasmes
+T12	disorder 743 754	leucorrhées
+T13	procedure 756 779	une contraception orale
+T14	drugs 783 802	 JASMINELLE CONTINU
+T15	drugs 833 840	NORLEVO
+T16	disorder 1173 1197	douleur au mollet gauche
+T17	drugs 1364 1370	DAFLON
+T18	drugs 1374 1382	NIFLUGEL
+T19	profession 1401 1413	cardiologue 
+T20	procedure 1429 1450	 écho-doppler veineux
+T21	profession 1466 1479	 cardiologue 
+T22	procedure 1486 1503	 un écho-doppler 
+T23	disorder 1519 1604	une périphlébite saphène Interne gauche jusqu'à mi-cuisse sans atteinte de la crosse.
+T24	drugs 1631 1645	anticoagulant 
+T25	drugs 1649 1662	ARIXTRA® 7,5 
+T26	drugs 1692 1718	pommade anti-inflammatoire
+T27	drugs 1719 1729	DEXTRARINE
+T28	drugs 1730 1744	PHENYLBUTAZONE
+T29	drugs 1869 1875	DAFLON
+T30	disorder 1942 1950	fatiguée
+T31	disorder 1906 1915	la douleu
+T32	disorder 2265 2302	 épisodes de dyspnée et de céphalées,
+T33	disorder 2313 2328	mal à respirer,
+T34	disorder 2341 2385	 malaise au lever avec perte de connaissance
+T35	disorder 2481 2509	un arrêt cardio-circulatoire
+T36	procedure 2519 2527	Low Flow
+T37	labvalue 2531 2546	15 à 20 minutes
+T38	procedure 2552 2560	 No Flow
+T39	procedure 2601 2620	scanner thoracique 
+T40	disorder 2635 2667	 une embolie pulmonaire massive.
+T41	procedure 2669 2691	Une thromboaspiration 
+T42	procedure 2706 2725	un filtre cave posé
+T43	procedure 2768 2779	réanimation
+T44	disorder 2874 2895	œdème cérébral massif
+T45	disorder 2903 2921	mort encéphalique.
+T46	disorder 3076 3087	 diabétique
+T47	disorder 3090 3102	 hypertendue
+T48	disorder 3118 3130	e phlébites 
+T49	disorder 3139 3159	embolie pulmonaire, 
+T50	drugs 3202 3209	pilule 
+T51	risk 3247 3253	fumant
+T52	disorder 3280 3295	 thrombophilie 
+T53	profession 3593 3605	gynécologue,
+T54	profession 3609 3616	médecin
+T55	profession 3630 3642	cardiologue 

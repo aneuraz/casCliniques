@@ -1,0 +1,174 @@
+T1	disorder 79 102	dyspnée de repos accrue
+T2	disorder 160 164	toux
+T3	disorder 168 175	 fièvre
+T4	disorder 182 202	douleurs thoraciques
+T5	disorder 234 241	dyspnée
+T6	procedure 418 446	saturation pulsée en oxygène
+T7	procedure 448 452	SpO2
+T8	labvalue 470 473	79%
+T9	labvalue 602 608	88–90%
+T10	disorder 693 738	embolies récidivantes des artères pulmonaires
+T11	disorder 740 743	EAP
+T12	disorder 748 777	 syndrome d’apnée du sommeil 
+T13	disorder 842 867	cardiopathie hypertensive
+T14	disorder 869 874	HFpEF
+T15	disorder 895 924	accident vasculaire cérébral 
+T16	disorder 925 928	AVC
+T17	disorder 936 960	 foramen ovale perméable
+T18	disorder 962 965	FOP
+T19	drugs 987 1011	traitement anticoagulant
+T20	drugs 1021 1032	rivaroxaban
+T21	disorder 1117 1125	afébrile
+T22	disorder 1127 1139	hypertendue 
+T23	labvalue 1140 1152	152/75 mm Hg
+T24	disorder 1166 1176	tachycarde
+T25	labvalue 1178 1185	102/min
+T26	disorder 1190 1202	tachypnéique
+T27	labvalue 1204 1210	32/min
+T28	procedure 1222 1239	SpO2 périphérique
+T29	labvalue 1243 1246	88%
+T30	procedure 1276 1280	FiO2
+T31	labvalue 1281 1284	28%
+T32	procedure 1289 1313	examen cardio-pulmonaire
+T33	procedure 1344 1363	électrocardiogramme
+T34	disorder 1405 1431	troubles de repolarisation
+T35	procedure 1435 1468	analyse des gaz du sang artériel 
+T36	disorder 1484 1520	insuffisance respiratoire partielle 
+T37	procedure 1528 1534	 PaO2 
+T38	labvalue 1537 1545	77 mm Hg
+T39	procedure 1552 1557	FiO2 
+T40	labvalue 1557 1560	28%
+T41	procedure 1569 1574	PaCO2
+T42	labvalue 1578 1586	30 mm Hg
+T43	procedure 1588 1590	pH
+T44	labvalue 1591 1595	7,39
+T45	procedure 1597 1608	bicarbonate
+T46	labvalue 1609 1620	19,4 mmol/l
+T47	labvalue 1635 1645	69,7 mm Hg
+T48	procedure 1622 1634	gradient A-a
+T49	procedure 1651 1661	NT-pro-BNP
+T50	labvalue 1681 1687	norme 
+T51	labvalue 1688 1697	185 pg/ml
+T52	disorder 1731 1746	EAP récidivants
+T53	procedure 1752 1787	angiographie par tomodensitométrie 
+T54	procedure 1788 1796	angio-CT
+T55	disorder 1863 1872	EAP aiguë
+T56	disorder 1876 1887	infiltrats 
+T57	disorder 1892 1928	altérations du parenchyme pulmonaire
+T58	disorder 1935 1963	malformation artérioveineuse
+T59	irrelevant 1966 2023;2026 2068;2070 2131;2133 2160;2162 2217;2219 2238	Question 1: Quelle est votre étape diagnostique suivante?   a) Echocardiographie transthoracique (ETT)  b) Petite exploration de la fonction pulmonaire (spirométrie)  c) Scintigraphie pulmonaire  d) Pléthysmographie corporelle et capacité de diffusion  e) Polysomnographie
+T60	procedure 2244 2280	évaluation de la fonction pulmonaire
+T61	procedure 2311 2338	pléthysmographie corporelle
+T62	procedure 2348 2382	mesure de la capacité de diffusion
+T63	disorder 2401 2423	trouble de ventilation
+T64	procedure 2444 2456	spirométrie 
+T65	procedure 2592 2617	scintigraphie pulmonaire 
+T66	disorder 2656 2690	inadéquation ventilation-perfusion
+T67	disorder 2692 2708	inadéquation V/P
+T68	disorder 2760 2784	scintigraphie pulmonaire
+T69	drugs 2797 2823	 traitement anticoagulant 
+T70	procedure 2831 2850	angio-CT thoracique
+T71	disorder 2901 2917	inadéquation V/P
+T72	disorder 2934 2944	 hypoxémie
+T73	procedure 2960 2977	polysomnographie 
+T74	disorder 3010 3028	apnées du sommeil 
+T75	procedure 3172 3196	examen cardio-pulmonaire
+T76	labvalue 3197 3203	normal
+T77	procedure 3210 3220	NT-pro-BNP
+T78	labvalue 3229 3234	norme
+T79	procedure 3243 3263	angio-CT thoracique 
+T80	labvalue 3263 3269	normal
+T81	procedure 3275 3302	pléthysmographie corporelle
+T82	disorder 3326 3344	maladie pulmonaire
+T83	procedure 3366 3392	capacité pulmonaire totale
+T84	labvalue 3396 3403	4,43 l 
+T85	labvalue 3534 3541	1,78 l 
+T86	procedure 3476 3517	volume expiratoire maximal en une seconde
+T87	procedure 3519 3523	VEMS
+T88	procedure 3572 3594	capacité vitale forcée
+T89	labvalue 3598 3605	1,91 l 
+T90	procedure 3662 3681	indice de Tiffeneau
+T91	labvalue 3685 3689	0,93
+T92	procedure 3694 3724	capacité de diffusion corrigée
+T93	labvalue 3749 3756	normale
+T94	labvalue 3758 3775	4,63 mmol/min*kPa
+T95	procedure 3726 3731	DLCOc
+T96	irrelevant 3803 3902;3905 3923;3925 3962;3964 3986;3988 4014;4016 4062	Question 2: Quel est le mécanisme physiopathologique le plus probable à la base de cette hypoxémie?   a) Hypoventilation  b) Inadéquation ventilation/perfusion  c) Shunt droite-gauche  d) Trouble de la diffusion  e) Fraction inspirée en oxygène (FiO2) réduite
+T97	disorder 5356 5364	shunt DG
+T98	disorder 5276 5292	inadéquation V/P
+T99	disorder 5334 5343	hypoxémie
+T100	procedure 4501 4506	PaCO2
+T101	labvalue 4506 4513	réduite
+T102	procedure 4676 4696	volumes pulmonaires 
+T103	labvalue 4696 4703	normaux
+T104	disorder 4734 4759	trouble de la ventilation
+T105	disorder 4774 4789	hypoventilation
+T106	procedure 5117 5122	DLCOc
+T107	labvalue 5123 5130	normale
+T108	procedure 5160 5173	CT thoracique
+T109	labvalue 5174 5180	normal
+T110	procedure 5185 5204	angio-CT thoracique
+T111	labvalue 5205 5211	normal
+T112	drugs 5218 5243	traitement anticoagulant 
+T113	irrelevant 5367 5451;5452 5524;5525 5974;5975 6214;6215 6549;6550 6793;6794 6875;6876 7316;7317 7374;7377 7419;7421 7465;7467 7493;7495 7524;7526 7554	Tableau 1: Mécanismes pathophysiologiques et diagnostic différentiel de l’hypoxémie. Mécanisme pathophysiologique	Caractéristiques	Diagnostics différentiels1 Hypoventilation	– PaCO2 plus touchée que PaO2– Réponse à l’augmentation de la FiO2	– SNC: substances avec effet dépresseur sur la respiration (p. ex. médicaments, drogues), lésion structurelle, ischémie– Syndrome obésité-hypoventilation– Maladies neurologiques et musculaires (syndrome de Guillain-Barré, sclérose latérale amyotrophique, myasthénie, dystrophie musculaire, etc.)– Maladies de la paroi thoracique (p. ex. «flail chest», cyphoscoliose) Inadéquation ventilation-perfusion	– Augmentation du gradient A-a en oxygène2– Réponse à l’augmentation de la FiO2	– Maladies respiratoires obstructives (BPCO, asthme bronchique)– Embolie de l’artère pulmonaire– Pneumopathie interstitielle Shunt droite-gauche	– Augmentation du gradient A-a en oxygène– Pas de réponse ou réponse partielle à l’augmentation de la FiO22	– Shunts anatomiques: shunts intracardiaques, malformations artérioveineuses pulmonaires, syndrome hépato-pulmonaire3– Shunts physiologiques: atélectasies, pneumonie, syndrome de détresse respiratoire aiguë Trouble de la diffusion	– Augmentation du gradient A-a en oxygène– Hypoxémie initiale déclenchée ou renforcée par l’effort– Réponse à l’augmentation de la FiO2	– Pneumopathie interstitielle– Emphysème– Insuffisance cardiaque (œdème pulmonaire) Baisse de la FiO2	– Réponse à l’augmentation de la FiO2	– Séjour à haute altitude 1 Liste non exhaustive du diagnostic différentiel 2 Gradient A-a en oxygène: différence entre la pression partielle de l’oxygène alvéolaire (A) et de l’oxygène artériel (a) (PAO2–PaO2). 3 Syndrome hépatopulmonaire: la vasodilatation pulmonaire due à l’hépatopathie mène une augmentation de la perfusion comparée à la ventilation, et ainsi à un shunt fonctionnel.SNC: système nerveux central; BPCO: bronchopneumopathie chronique obstructive. Question 3: Quelle est votre étape diagnostique suivante?   a) Echocardiographie transthoracique (ETT)  b) Echocardiographie transœsophagienne (ETO)  c) Angiographie pulmonaire  d) Cathétérisme du cœur droit  e) Test fonctionnel du shunt
+T114	irrelevant 7556 8159	L’échocardiographie et l’angiographie pulmonaire permettent uniquement la localisation d’un shunt anatomique (et non l’aspect fonctionnel du shunt et donc la relevance clinique) soit au niveau du cœur ou des poumons. Indépendamment de la localisation de la pathologie anatomique sous-jacente, le test fonctionnel du shunt permet un diagnostic non invasif d’un shunt DG ainsi que la quantification de son volume sans utiliser de cathéter pulmonaire. La PaO2 artérielle est mesurée avant et après l’application d’une FiO2 de 100% et l’importance du shunt peut être estimée à l’aide de la formule suivante:
+T115	irrelevant 8595 8709	LA: oreillette gauche; RA: oreillette droite; LV: ventricule gauche; RV: ventricule droit; EV: valvule d’Eustachi.
+T116	irrelevant 8711 8958	Une fraction de 3–5% du shunt est physiologique, à cause de petits shunts vasculaires anatomiques (veines thébésiennes, veines bronchiques) [2]. Chez le patient sain avec fraction de shunt <5%, la PaO2 sous FiO2 100% devrait se situer >600 mm Hg. 
+T117	procedure 9010 9014	PaO2
+T118	labvalue 9018 9027	53 mm Hg 
+T119	labvalue 9044 9053	116 mm Hg
+T120	procedure 9059 9063	FiO2
+T121	labvalue 9064 9068	100%
+T122	procedure 9099 9127	volume significatif du shunt
+T123	labvalue 9131 9134	28%
+T124	irrelevant 9870 9934;9937 9966;9968 9998;10000 10023;10025 10057;10059 10077	Question 4: Quel est le traitement de choix pour cette patiente?   a) Oxygénothérapie à domicile  b) Fermeture percutanée du FOP  c) Antagoniste calcique  d) Fermeture chirurgicale du FOP  e) Pas de thérapie
+T125	disorder 10361 10382	hypoxémie récidivante
+T126	disorder 10402 10409	dyspnée
+T127	procedure 10666 10693	fermeture percutanée du FOP
+T128	disorder 10754 10761	dyspnée
+T129	procedure 10796 10809	intervention 
+T130	labvalue 10883 10886	92%
+T131	labvalue 10890 10893	97%
+T132	procedure 10815 10839	 saturations en oxygène 
+T133	irrelevant 10912 11028;11031 11064;11066 11096;11098 11137;11139 11180;11182 11214	Question 5: Quelle est l’anomalie anatomique supplémentaire qui prédispose à un shunt DG chez les patients avec FOP?   a) Valvule d’Eustachi persistante  b) Insuffisance tricuspidienne  c) Anévrisme du septum interauriculaire  d) Toutes les réponses a–c sont correctes  e) Aucune réponse n’est correcte
+T134	irrelevant 11216 11811	Un FOP peut être retrouvé chez 20–25% de la population normale et est généralement asymptomatique [4]. Certaines anomalies anatomiques comme une insuffisance tricuspidienne, un anévrisme du septum interauriculaire et une valvule d’Eustachi persistante prédisposent à l’apparition d’un shunt DG chez les patients avec FOP [5]. Dans la circulation fœtale, la valvule d’Eustachi sert à guider directement le sang dans l’oreillette gauche à travers le foramen ovale. Si cette valvule persiste, un shunt DG peut donc apparaitre à l’âge adulte même en cas de pression artériopulmonaire normale [3, 6].
+T135	disorder 11897 11919	dyspnée intermittente 
+T136	disorder 11934 11964	shunt DG sur FOP de grade III 
+T137	disorder 11967 12003	anévrisme du septum interauriculaire
+T138	procedure 12131 12156	test fonctionnel du shunt
+T139	disorder 12180 12188	shunt DG
+T140	disorder 12206 12215	hypoxémie
+T141	procedure 12219 12241	ETT avec test à bulles
+T142	disorder 12285 12289	FOP 
+T143	procedure 12344 12353	anamnèse 
+T144	disorder 12382 12418	dyspnée en position assise et debout
+T145	disorder 12488 12493	 FOP 
+T146	disorder 12497 12507	 shunt DG 
+T147	procedure 12525 12545	manœuvre de Valsalva
+T148	disorder 12575 12608	syndrome de platypnée-orthodéoxie
+T149	disorder 12610 12613	POS
+T150	disorder 12643 12650	dyspnée
+T151	disorder 12652 12662	platy-pnée
+T152	disorder 12669 12678	hypoxémie
+T153	irrelevant 12792 13824	Le POS est un syndrome relativement rare, décrit pour la première fois en 1949 par Burchell et al. [3]. Le FOP ou les défauts du septum auriculaire représentent l’origine la plus fréquente du POS; les autres origines sont de graves pneumopathies et hépatopathies au cours desquelles le volume du shunt augmente en raison de shunts artérioveineux pulmonaires basaux, ce qui mène à une désaturation [3, 4]. Une composante fonctionnelle avec désaturation dépendant de la position ainsi qu’une composante anatomique avec preuve d’un FOP ou d’un défaut du septum auriculaire avec shunt DG sont indispensables pour le diagnostic [6, 8]. Le traitement définitif de ce syndrome est la fermeture du FOP [3]. Dans une série de cas avec 683 patients avec FOP, un POS a pu être démontré chez 17 patients (2,5%). Après la fermeture du FOP, une amélioration de l’hypoxémie et de la dyspnée a été observée chez 11 patients (65%) et une grave pneumopathie concomitante a été considérée comme responsable de l’absence de réponse chez les autres [9].
+T154	irrelevant 13826 14295;14297 14306;14309 14384	En cas d’hypoxémie persistante d’origine non claire, se rappeler les cinq mécanismes physiopathologiques de l’hypoxémie permet l’établissement du diagnostic différentiel et donc en général d’identifier l’origine du trouble sous-jacent. En cas d’anamnèse avec épisodes de dyspnée en position verticale, il faut considérer un POS et rechercher un shunt DG à l’aide d’un test de shunt fonctionnel. L’origine la plus fréquente d’un POS est un shunt DG associé à un FOP [3].  Réponses:   Question 1: d. Question 2: c. Question 3: e. Question 4: b. ­Question 5: d.
+T155	disorder 9174 9199	shunt DG dans les poumons
+T156	procedure 9256 9265	CT thorax
+T157	procedure 9293 9296	ETT
+T158	disorder 9346 9350	 FOP
+T159	disorder 9425 9435	 shunt DG 
+T160	procedure 9439 9448	imagerie 
+T161	procedure 9461 9519	test à bulles avec injection d’une solution de NaCl à 0,9%
+T162	procedure 9527 9551	échographie de contraste
+T163	disorder 9577 9635	FOP de grade III avec anévrisme du septum interauriculaire
+T164	disorder 9641 9671	valvule d’Eustachi persistante
+T165	disorder 9678 9686	shunt DG
+T166	procedure 9717 9748	pression artérielle pulmonaire 
+T167	labvalue 9820 9828	normales
+T168	procedure 9760 9784	fonctions ventriculaires
+T169	disorder 9835 9857	pathologie valvulaire 
+T170	procedure 8174 8209	Échocardiographie transœsophagienne
+T171	disorder 8235 8278	 large anévrisme du septum interauriculaire
+T172	disorder 8301 8364	anévrisme du septum interauriculaire avec déhiscence tissulaire
+T173	disorder 8495 8521	shunt du FOP de degré III 
+T174	procedure 8533 8557	échographie de contraste

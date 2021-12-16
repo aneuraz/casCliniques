@@ -1,0 +1,63 @@
+T1	irrelevant 10 1096	La bêta-thalassémie majeure est due à des mutations ponctuelles homozygotes ou hétérozygotes composites et à des délétions au sein du gène de bêta-globine induisant une production réduite, voire nulle, des chaînes de bêta-globine ainsi qu’un déséquilibre de synthèse entre chaînes alpha- et bêta-globine. Cela conduit à la formation d’érythrocytes microcytaires pathologiques qui présentent une morphologie anormale («target cells»), à une hémolyse accrue et, en conséquence, à une anémie. Les complications apparaissent notamment en raison de l’expansion de la moelle osseuse avec hématopoïèse extra-médullaire et de l’absorption ferrique intestinale accrue avec ­surcharge en fer consécutive. Ces complications n’entraînent pas toujours un besoin de transfusions. Dans les pays industrialisés, les complications graves de la bêta-thalassémie majeure sont devenues rares du fait des transfusions érythrocytaires régulières accompagnées de chélateurs de fer (élimination du fer) et de la possibilité d›un traitement curatif par transplantation allogénique de cellules souches [1, 2, 5].
+
+T3	disorder 1599 1638	 état général (EG) extrêmement mauvais,
+T4	disorder 1681 1713	’était plus en mesure de marcher
+T5	disorder 1738 1760	 détresse respiratoire
+T6	disorder 1766 1786	ouleurs abdominales 
+T7	disorder 1792 1816	fortes douleurs osseuses
+T8	procedure 1820 1828	anamnèse
+T9	procedure 2032 2050	taux d’hémoglobine
+T10	labvalue 2070 2077	 40 g/l
+T11	drugs 2172 2185	déféroxamine 
+T12	drugs 2245 2257	 chélateurs 
+T13	drugs 2112 2132	traitement chélateur
+T14	disorder 2461 2485	bêta-thalassémie majeure
+T15	procedure 2530 2560	 transfusions érythro­cytaires
+T16	drugs 2607 2620	déféroxamine 
+T17	disorder 2696 2718	détresse respiratoire 
+T18	labvalue 2764 2772	trop bas
+T19	procedure 2739 2757	taux d’hémoglobine
+T20	risk 2828 2875	Les parents des deux patientes sont consanguins
+T21	disorder 2987 3013	 bêta­-thalassémie majeure
+T22	procedure 3062 3090	transfusions érythrocytaires
+T23	procedure 3283 3298	examen clinique
+T24	disorder 3318 3335	EG très mauvais, 
+T25	disorder 3339 3353	ascite massive
+T26	disorder 3367 3375	dyspnée 
+T27	anatomy 3464 3477	l’avant-bras 
+T28	anatomy 3486 3500	cuisse gauches
+T29	disorder 3409 3449	mauvais alignements de plusieurs membres
+T30	disorder 3576 3586	fractures 
+T31	disorder 3643 3651	nanisme 
+T32	labvalue 3678 3683	–6,37
+T33	procedure 3685 3717	standard deviation score» [SDS])
+T34	procedure 3724 3729	poids
+T35	labvalue 3733 3740	26,3 kg
+T36	disorder 3980 3994	hépatomégalie 
+T37	disorder 4003 4009	ascite
+T38	procedure 4149 4172	Clichés radiographiques
+T39	anatomy 4196 4213	Avant-bras gauche
+T40	anatomy 4220 4233	cuisse gauche
+T41	anatomy 4242 4249	thorax 
+T42	labvalue 4273 4404	mise en évidence de nombreuses fractures, d’une structure osseuse ostéopénique ainsi que d’une cardiomégalie et d’une hépatomégalie
+T43	labvalue 4970 5117	surcharge en fer hépatique et cardiaque sévère avec cirrhose hépatique, trouble de la fonction hépatique, cardiomyopathie et dysfonction cardiaque 
+T44	procedure 4893 4912	examens d’imagerie 
+T45	procedure 4925 4954	 autres examens diagnostiques
+T46	procedure 5143 5191	imagerie par résonance magnétique (IRM) du crâne
+T47	labvalue 5205 5245	hémosidérose prononcée à divers endroits
+T48	drugs 11015 11035	elbasvir/grazoprévir
+T49	labvalue 5686 5946	 hypointensité marquée au sein des plexus choroïdes du 3e ventricule et du ventricule latéral, compatible avec une sidérose. Selon la classification NHICP (number of hypointensity in the choroidplexus) [3], dépôts de fer de grade V au sein des plexus choroïdes
+T50	procedure 5580 5681	Séquence axiale sensible à la susceptibilité magnétique (SWI pour «susceptibility weighted ­imaging»)
+T51	procedure 6477 6507	transfusions érythrocytaires r
+T52	procedure 6803 6814	hémoglobine
+T53	labvalue 6827 6834	56 g/l,
+T54	procedure 8435 8443	glycémie
+T55	labvalue 8450 8463	10–15 mmol/l 
+T56	procedure 8117 8138	taux de réticulocytes
+T57	labvalue 8156 8164	abaissés
+T58	procedure 8181 8190	ferritine
+T59	labvalue 8224 8233	9751 µg/l
+T60	labvalue 8251 8260	9790 µg/l
+T61	drugs 8895 8910	bisphosphonates
+T62	disorder 9143 9160	douleurs osseuses
+T2	irrelevant 11268 11278;11280 11561;11563 11944;11946 12561;12563 13341;13343 13371;13373 13715;13717 13887;13889 14275;14277 14629;14631 14854;14856 14951;14953 15336	Discussion  Les patients atteints de bêta-thalassémie majeure qui consultent pour la première fois notre clinique universitaire en tant que réfugiés peuvent présenter des altérations cliniques extrêmement graves et marquées qui ne sont plus observés sous cette forme dans les pays occidentaux.  L’étiologie du syndrome d’ostéoporose-ostéopénie est complexe. Des facteurs génétiques, remodelage osseux accru, toxicité du fer, expansion de la moelle osseuse, déficit en hormone de croissance, hypogonadisme, hypoparathyroïdie et traitement inadéquat jouent tous un rôle central [6]. Le traitement des complications mentionnées, notamment par bisphosphonates, est recommandé [7].  L’ensemble des trois patients présentaient une sidérose myocardique avec un risque de mortalité élevé. Outre les cardiomyopathies dilatatives et restrictives, les ­périomyocardites et myocardites, des arythmies surviennent également dans le cadre de la dysfonction cardiaque, et le risque correspondant s’avère proportionnel à la sévérité de la sidérose cardiaque. L’anémie hémolytique chronique est à l’origine de dysfonction ventriculaire gauche et droite ainsi que d’une hypertension pulmonaire. La surcharge en fer avec lésion directe des cellules conduit à une dysfonction diastolique ventriculaire gauche [8].  Le traitement nécessite une collaboration interdisciplinaire étroite entre les spécialistes. Outre la prise en charge des coûts qui n’est la plupart du temps pas complète, un interprète avec une bonne connaissance de la langue doit toujours être présent lors des décisions, clarifications et explications centrales. La collaboration étroite avec les autres membres de la famille est d’une pertinence décisive pour la bonne adhésion au traitement et la compréhension de la maladie. A titre d’exemple, le traitement doit être expliqué de façon simplifiée sur la base d’images des médicaments et ­d’illustrations des comprimés afin que les patients puissent prendre leurs médicaments de façon autonome également en cas de connaissances orales et écrites de la langue insuffisantes.  L’essentiel pour la pratique  • Chez les patients qui présentent une anémie hémolytique microcytaire d’origine indéterminée et qui sont originaires des régions de la Médi­terranée, d’Asie, Afrique, ou d’Amérique latine, un dépistage de la thalassémie devrait être réalisé et selon l’origine du patient, l’hétérozygotie composite et la drépanocytose devraient être exclues.  • Pour ce qui est des séquelles hormonales, en pratique, un dépistage du diabète (glucose à jeun et fructosamine) peut déjà être réalisé et une ­hypothyroïdie recherchée.  • En cas d’anomalies, nous recommandons d’adresser le patient à un centre spécialisé pour la coordination de tous les spécialistes nécessaires: l’initiation d’un traitement avec transfusions érythrocytaires régulières, le début d’un traitement chélateur, la substitution hormonale et les traitements de soutien doivent être conduits dans le cadre d’une collaboration interdisciplinaire.  • Chez les patients atteints d’asplénie, un carnet d’urgence doit être délivré. De plus, une vaccination annuelle contre la grippe (selon les recommandations actuelles de l’Office fédéral de la santé publique) est recom­mandée, tout comme un schéma de vaccination de rattrapage adapté individuellement, selon les vaccins déjà documentés du patient [4].  • Pour un traitement adéquat, l’instruction et l’éducation des patients au moyen de la visualisation du plan de traitement s’avèrent essentielles en raison de la compréhension de la langue souvent initialement insuffisante.  L’annexe est disponible en tant que document séparé sur https://doi.org/10.4414/fms.2019.08327.  Les auteurs ont présenté les rapports de cas dans le cadre de présentations de posters lors du congrès de la Société Suisse de Pédiatrie 2018 à Lausanne («Severe haemochromatosis in three refugee adolescents with B-Thalassaemia») et du congrès de l’«European Society for Praediatric Endocrinology» (ESPE) 2018 à Athènes, Grèce, («Endocrine challenges in patients with thalassaemia»).

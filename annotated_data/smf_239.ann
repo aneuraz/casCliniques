@@ -1,0 +1,86 @@
+T1	drugs 8688 8699	diurétiques
+T2	procedure 8705 8748	hunt intrahépatique par voie transjugulaire
+T3	procedure 8750 8754	TIPS
+T4	procedure 8763 8788	transplantation hépatique
+T5	disorder 8532 8538	ascite
+T6	drugs 8619 8630	aldostérone
+T7	drugs 8601 8630	antagonistes de l’aldostérone
+T8	disorder 8405 8428	’hydrothorax hépatique 
+T9	disorder 8342 8364	hydrothorax hépatique 
+T10	disorder 8393 8399	ascite
+T11	disorder 8217 8235	cirrhose hépatique
+T12	disorder 8260 8280	épanchement pleural 
+T13	disorder 8294 8315	hydrothorax hépatique
+T14	labvalue 5261 5315	hydrothorax hépatique survient du côté droit dans 85% 
+T15	labvalue 5324 5355	du côté gauche dans 13% des cas
+T16	labvalue 5359 5390	des deux côtés dans 2% des cas 
+T17	labvalue 5445 5477	petites brèches diaphragmatiques
+T18	labvalue 5445 5571	petites brèches diaphragmatiques (la plupart du temps <1 cm, mais parfois uniquement microscopiques) congénitales ou acquises 
+T19	disorder 6101 6108	dyspnée
+T20	disorder 6113 6133	 toux non productive
+T21	disorder 6140 6160	ouleurs pleurétiques
+T22	disorder 6175 6182	fatigue
+T23	disorder 6230 6252	distension abdominale 
+T24	procedure 2705 2722	tomodensitométrie
+T25	procedure 2724 2727	TDM
+T26	disorder 2814 2832	embolie pulmonaire
+T27	disorder 2778 2805	altérations parenchymateuse
+T28	procedure 2836 2847	 sérologie 
+T29	procedure 2917 2934	échocardiographie
+T30	procedure 3053 3076	échographie abdominale 
+T31	disorder 3287 3310	splénomégalie de 15 cm 
+T32	disorder 3424 3456	varices œsophagiennes de grade 2
+T33	disorder 3375 3395	hypertension portale
+T34	disorder 3136 3155	altérations du foie
+T35	disorder 3168 3199	parenchyme hépatique hétérogène
+T36	disorder 3201 3234	raréfaction des veines hépatiques
+T37	disorder 3236 3262	hypertrophie du lobe caudé
+T38	labvalue 2436 2482	protéines dans l’épanchement toujours à 35 g/l
+T39	labvalue 2484 2501	albumine à 21 g/l
+T40	labvalue 2507 2541	nombre de cellules était de 694/μl
+T41	labvalue 2203 2216	LDH à 185 U/l
+T42	labvalue 2242 2262	33 U/l dans le sérum
+T43	labvalue 2267 2286	protéines à 45 g/l 
+T44	labvalue 2310 2330	70 g/l dans le sérum
+T45	labvalue 2267 2305	protéines à 45 g/l dans l’épanchement 
+T46	procedure 1603 1626	analyses de laboratoire
+T47	labvalue 1688 1738	ALT 43 U/l, AST 59 U/l, AP 173 U/l et γ-GT 259 U/l
+T48	risk 1774 1795	consommation d’alcool
+T49	disorder 1866 1886	hépatopathie avancée
+T50	labvalue 1888 1903	albumine 37 g/l
+T51	labvalue 1905 1925	bilirubine 12 μmol/l
+T52	labvalue 1927 1934	INR 1,1
+T53	labvalue 1938 1958	thrombocytes 196 G/l
+T54	disorder 978 988	tachycarde
+T55	labvalue 991 1017	réquence cardiaque 106/min
+T56	disorder 1108 1128	bruits respiratoires
+T57	disorder 1176 1229	hyposonorité à la percussion sur l’ensemble du poumon
+T58	disorder 72 79	dyspnée
+T59	disorder 99 149	épanchement pleural unilatéral massif sans ascite 
+T60	disorder 200 218	cirrhose hépatique
+T61	disorder 358 365	dyspnée
+T62	disorder 376 398	rthopnée progressives 
+T63	disorder 482 502	hypercholestérolémie
+T64	disorder 509 532	hypertension artérielle
+T65	disorder 538 556	humeur dépressive,
+T66	procedure 736 747	discectomie
+T67	drugs 820 832	osuvastatine
+T68	drugs 836 846	olmésartan
+T69	drugs 850 860	amlodipine
+T70	drugs 864 883	hydrochlorothiazide
+T71	drugs 890 900	paroxétine
+T72	procedure 1339 1363	radiographie thoracique 
+T73	labvalue 1376 1409	opacité complète du poumon droit 
+T74	disorder 5135 5153	cirrhose hépatique
+T75	disorder 4731 4830	cirrhose hépatique avec hypertension portale sans signes de maladie cardio-pulmonaire sous-jacente 
+T76	risk 3629 3658	consommation accrue d’alcool 
+T77	labvalue 3708 3753	coefficient de De Ritis (rapport AST/ALT) >1 
+T78	labvalue 3763 3814	érologie négative pour l’hépatite B et l’hépatite C
+T79	drugs 4153 4164	 diurétique
+T80	drugs 4169 4183	spironolactone
+T81	drugs 4187 4197	torasémide
+T82	drugs 4202 4212	carvédilol
+T83	procedure 4323 4332	ligatures
+T84	disorder 4359 4381	varices œsophagiennes 
+T85	procedure 4401 4421	prophylaxie primaire
+T86	drugs 4580 4592	 diurétiques

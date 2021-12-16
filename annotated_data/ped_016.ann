@@ -1,0 +1,29 @@
+T1	procedure 50 62	consultation
+T2	disorder 72 97	éruption vésiculobulleuse
+T3	disorder 210 226	impétigo bulleux
+T4	procedure 249 259	traitement
+T5	drugs 286 301	acide fusidique
+T6	disorder 305 313	éruption
+T7	disorder 438 468	éruption bulleuse prurigineuse
+T8	disorder 509 538	bulles sur base inflammatoire
+T9	disorder 610 632	croûtes postbulleuses 
+T10	disorder 635 660	cicatrices hypopigmentées
+T11	disorder 886 892	fièvre
+T12	disorder 948 966	Lésions cervicales
+T13	labvalue 1146 1153	négatif
+T14	procedure 1081 1103	examen bactériologique
+T15	procedure 1107 1118	virologique
+T16	procedure 1158 1173	biopsie cutanée
+T17	disorder 1185 1215	bulle de siège sousépidermique
+T18	disorder 1256 1279	infiltrat inflammatoire
+T19	procedure 1417 1443	immunofluorescence cutanée
+T20	labvalue 1471 1485	dépôt linéaire
+T21	procedure 1585 1613	immunofluorescence indirecte
+T22	labvalue 1618 1626	négative
+T23	disorder 1723 1756	dermatose bulleuse à IgA linéaire
+T24	labvalue 1782 1798	absence d’anémie
+T25	procedure 1862 1873	 traitement
+T26	drugs 1878 1885	dapsone
+T27	procedure 1938 1970	surveillance de l’hémoglobinémie
+T28	procedure 1980 1997	méthémoglobinémie
+T29	irrelevant 2068 5142	Commentaires La dermatose à IgA linéaire (DIgAL) est une dermatose bulleuse auto-immune sous-épidermique définie par la présence, en immunofluorescence cutanée directe, d’un dépôt linéaire d’IgA sur la membrane basale, à la jonction dermo-épidermique. Il s’agit de la plus fréquente des dermatoses bulleuses auto immunes sous-épidermiques rencontrée chez l’enfant. L’aspect clinique est plus stéréotypé chez l’enfant que chez l’adulte. L’éruption, parfois prurigineuse, débute le plus souvent avant 5 ans, sous la forme de bulles ou de vésicules survenant sur peau saine ou érythémateuse et se disposant de façon arciforme pour former la caractéristique image en rosette. Les lésions siègent préférentiellement sur les régions périnéales et périorales et sur la face interne des membres, mais peuvent être plus diffuses. L’atteinte muqueuse est plus rare. L’évolution est le plus souvent marquée par des rechutes, mais la rémission spontanée est possible. La guérison s’observe dans 64 % des cas après 2 ans d’évolution. L’examen histologique permet un diagnostic de groupe en identifiant une dermatose bulleuse sous-épidermique. C’est l’immunofluorescence cutanée directe qui oriente vers le diagnostic de DIgAL en montrant au niveau de la membrane basale un dépôt linéaire d’IgA, parfois associé à un dépôt moins intense d’IgG, IgM ou de C3. La détection d’autoanticorps circulant par immunofluorescence indirecte est plus souvent positive chez l’enfant que chez l’adulte. Diagnostics différentiels Les principaux diagnostics différentiels à éliminer sont : l’impétigo bulleux. Ce diagnostic est écarté devant l’étendue des lésions bulleuses, la négativité des prélèvements bactériologiques, la positivité de l’immunofluorescence cutanée directe et l’absence d’évolution favorable sous antibiothérapie adaptée ; la dermatite herpétiforme, autre dermatose bulleuse autoimmune sous-épidermique, se présente sous la forme de lésions plus symétriques, plus vésiculeuses que bulleuses, sans disposition en rosette, avec des dépôts d’IgA, granuleux et non linéaires ; le diagnostic d’épidermolyse bulleuse acquise (EBA), dermatose auto-immune très rare, doit être évoqué devant un aspect de DIgAL associé à une atteinte muqueuse importante et une cicatrisation avec formation de grains de milium. Traitement En l’absence de déficit en G6PD, la dapsone constitue le traitement de première intention, à la dose de 1 à 2 mg/kg/j. Elle est efficace dans 75 % des cas. L’amélioration des lésions s’observe après seulement quelques jours de traitement. Celui-ci doit être poursuivi jusqu’à négativation de l’immunofluorescence cutanée directe, sous réserve d’une bonne tolérance hématologique (anémie, méthémoglobinémie). En cas d’échec ou de récidive lors de la réduction des doses de dapsone, une corticothérapie locale ou générale peut être associée. Des cas isolés ou de courtes séries rapportent l’efficacité de la colchicine, de la sulfapyridine, de certains antibiotiques (oxacilline, cotrimoxazole) et d’immunosuppresseurs (mycophénolate mofétil, azathioprine, ciclosporine). 

@@ -1,0 +1,71 @@
+T1	disorder 124 138	 fièvre à 38°5
+T2	procedure 177 189	avis médical
+T3	profession 196 204	pédiatre
+T4	profession 256 263	médecin
+T5	disorder 421 436	fièvre à 39°8C°
+T6	profession 444 451	médecin
+T7	disorder 470 485	rhinopharyngite
+T8	disorder 525 541	syndrome fébrile
+T9	drugs 543 551	Octofène
+T10	drugs 581 591	Catalgine 
+T11	drugs 597 606	Framixone
+T12	drugs 677 687	Catalgine®
+T13	drugs 711 720	Catalgine
+T14	drugs 1097 1106	Catalgine
+T15	drugs 1461 1471	Catalgine®
+T16	drugs 1576 1586	Catalgine®
+T17	drugs 1745 1756	 Catalgine®
+T18	drugs 1745 1756	 Catalgine®
+T19	drugs 1842 1852	Catalgine®
+T20	drugs 1921 1935	anti-thermique
+T21	drugs 1982 1992	Doliprane®
+T22	disorder 2067 2083	perd son appétit
+T23	disorder 2095 2100	agité
+T24	disorder 2095 2100	agité
+T25	disorder 2382 2396	régurgitations
+T26	disorder 2382 2396	régurgitations
+T27	disorder 2406 2426	agitation croissante
+T28	disorder 2591 2595	pâle
+T29	disorder 2599 2604	agité
+T30	disorder 2611 2655	des mouvements anormaux survenant par salves
+T31	disorder 2666 2672	gémit 
+T32	disorder 2993 3010	crise d’agitation
+T33	disorder 2993 3010	crise d’agitation
+T34	disorder 3119 3128	hypotonie
+T35	disorder 3159 3196	fine éruption purpurique sur le tronc
+T36	disorder 3159 3196	fine éruption purpurique sur le tronc
+T37	disorder 3204 3239	douleur à la palpation de l’abdomen
+T38	procedure 3334 3357	échographie abdominale 
+T39	labvalue 3361 3368	normale
+T40	labvalue 3280 3306	pas de signe de méningite 
+T41	procedure 3311 3329	ponction lombaire 
+T42	procedure 3386 3402	bilan biologique
+T43	labvalue 3407 3415	perturbé
+T44	procedure 3425 3437	bicarbonates
+T45	labvalue 3438 3458	abaissés à 14 mmol/l
+T46	labvalue 3466 3500	signes de « souffrance hépatique »
+T47	profession 3582 3590	pédiatre
+T48	disorder 3784 3795	polypnéique
+T49	disorder 3804 3830	 troubles de la vigilance 
+T50	disorder 3837 3894	mouvements anormaux d’enroulement des mains et des pieds 
+T51	disorder 3906 3920	 hépatomégalie
+T52	anatomy 3944 3957	rebord costal
+T53	disorder 3987 4065	anomalies biologiques de l’équilibre acido-basique et de la fonction hépatique
+T54	disorder 4172 4194	Fièvre d’allure virale
+T55	procedure 4328 4349	 intubation trachéale
+T56	procedure 4380 4436	Un catheter est mis en place par voie veineuse fémorale 
+T57	disorder 4548 4567	un syndrome de Reye
+T58	procedure 4629 4656	ponction-biopsie hépatique 
+T59	disorder 4682 4714	stéatose massive microvacuolaire
+T60	drugs 4739 4749	Catalgine®
+T61	disorder 4936 4962	intoxication par surdosage
+T62	drugs 4965 4976	 Catalgine®
+T63	labvalue 5165 5210	« énormes pics de métabolites de l’aspirine »
+T64	labvalue 5392 5406	non qualitatif
+T65	labvalue 5436 5443	positif
+T66	procedure 5529 5553	ventilation artificielle
+T67	procedure 5757 5787	rééducation par kinésithérapie
+T68	disorder 6160 6191	retard des acquisitions motrice
+T69	disorder 6262 6287	troubles du comportement 
+T70	profession 6645 6653	 médecin
+T71	profession 6681 6691	pharmacien

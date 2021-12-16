@@ -1,0 +1,132 @@
+Description du cas
+
+Un patient de 77 ans, connu pour une schizophrénie paranoïde traitée par sulpiride et halopéridol dépôt, une hypertension artérielle traitée par amlodipine et olmésartan ainsi qu’un tabagisme actif, est hospitalisé pour une aggravation récente des troubles de la marche et de l’équilibre. A l’anamnèse le patient se plaint d’une difficulté croissante à réaliser ses activités de la vie quotidienne, à se déplacer et à emprunter les transports en commun. Il marche actuellement avec l’aide d’une canne anglaise. L’examen clinique met en évidence un tremor survenu récemment des membres supérieurs. Un bilan basique des troubles de la marche et de l’équilibre (bilan vitaminique, bilan de physiothérapie, dépistage des troubles cognitifs) effectué lors d’une récente hospitalisation, était sans particularité.
+
+Question 1: Quelle condition ne s’accompagne généralement pas de tremor?
+
+
+a) Tremor essentiel
+
+b) Maladie de Huntington
+
+c) Prise médicamenteuse
+
+d) Maladie de Parkinson
+
+e) Orthostatisme
+
+Le tremor essentiel est associé à un tremor à prédominance cinétique, qui touche le plus souvent les membres supérieurs de façon très discrètement asymétrique, et généralement de haute fréquence.
+
+La maladie de Huntington, héréditaire et rare, se caractérise par des troubles moteurs de type chorée (succession de mouvements spontanés excessifs, abrupts, imprévisibles et irréguliers), troubles de l’équilibre et troubles phonatoires plutôt que par un tremor.
+
+Plusieurs médicaments et substances peuvent induire un tremor, par exemple: agonistes des récepteurs β-adrénergiques, thyroxine, valproate, halopéridol, ­caféine, alcool …
+
+Bien que le tremor puisse être absent lors du diagnostic de la maladie de Parkinson, un tremor de repos doit faire évoquer ce diagnostic.
+
+Finalement le tremor orthostatique est une cause rare de tremor. Il s’agit d’un tremor symétrique des jambes, d’haute intensité, et volontiers présent en position ­debout plutôt qu’assise ou couchée.
+
+Question 2: Parmi les caractéristiques suivantes, laquelle est moins utile dans la recherche étiologique du tremor?
+
+
+a) La symétrie
+
+b) La localisation
+
+c) L’amplitude et la fréquence
+
+d) L’activation
+
+e) L’anamnèse périnatale
+
+Lors de la caractérisation d’un tremor, la description doit comprendre la symétrie de l’atteinte, la localisation anatomique (membres supérieurs ou inférieurs, tête, voix), l’amplitude et la fréquence ainsi que l’activation (tremblement de repos, tremblement de maintien de position ou tremblement lors de mouvements) (fig. 1).
+
+Figure 1: Caractéristiques des principaux tremor.
+
+L’anamnèse périnatale n’est pas utile pour la recherche étiologique d’un tremor. Il faut cependant mentionner qu’il existe certaines formes rares héréditaires comme le tremor associé au syndrome de l’X fragile (syndrome ataxique), caractérisé par un retard mental associé dans 50% des cas à un tremor similaire au tremor ­essentiel. A noter que le tremor essentiel peut être sporadique ou être transmis de manière autosomique ­dominante.
+
+Notre patient présente un tremor de repos de faible amplitude et de basse fréquence des quatre membres légèrement plus prononcé aux membres supérieurs et asymétrique en défaveur de la droite, ainsi que de la bouche. La marche est à petits pas, avec le tronc antéfléchi, et démasque le tremblement des membres supérieurs. Le demi-tour est discrètement décomposé.
+
+Sur le plan cognitif, le patient ne présente pas de troubles du comportement ni d’état confusionnel aigu.
+
+Question 3: Quel examen est le plus indiqué pour définir l’étiologie du tremor de ce patient avec le plus de certitude?
+
+
+a) Angio-IRM cérébrale
+
+b) Dosage du cuivre sanguin et de la céruloplasmine
+
+c) Ponction lombaire
+
+d) DaTSCAN™ («Dopamine active transporter scan»)
+
+e) Electroneuromyographie (ENMG)
+
+L’angio-IRM cérébrale n’est pas l’examen de premier choix pour le diagnostic étiologique d’un tremor mais permet de mettre en évidence des pathologies structurelles, des malformations vasculaires ou des pathologies démyélinisantes qui entraîneraient un tremor atypique.
+
+La maladie de Wilson (dont un des moyens diagnostics est le dosage du cuivre sanguin et de la céruloplasmine) peut se manifester par un tremor mais ce diagnostic est peu probable dans ce cas au vu de l’absence d’autres symptômes neurologiques et d’une atteinte d’organes typique de la maladie (ictère, hépatomégalie, pathologie psychiatrique nouvelle entre autres).
+
+La ponction lombaire a peu d’indication dans la démarche diagnostique du tremor.
+
+Le diagnostic de tremor est souvent clinique mais dans des cas plus ambigus l’aide de l’imagerie peut s’avérer utile. La scintigraphie à l’ioflupane (DaTSCAN™) permet d’évaluer le système dopaminergique de la substance noire cérébrale en se basant sur l’utilisation d’un radio traceur des transporteurs dopaminergiques (l’ioflupane étant un analogue de la cocaïne marquée à l’iode 123). Le radio traceur va se fixer avec une haute ­affinité sur les transporteurs dopaminergiques pré ­synaptiques (DaT). L’examen pourra déterminer, dans le contexte d’une dénervation du système dopaminergique, une diminution du relargage de la dopamine de la substance noire vers le striatum ainsi qu’une diminution de l’activité du radio traceur (synonyme d’examen anormal). Cet examen est le plus indiqué en cas de doute étiologique du tremor, permettant de faire la différence en particulier entre un tremor essentiel, un syndrome parkinsonien médicamenteux (examen normal dans les deux cas) et une maladie de Parkinson (dénervation dopaminergique).
+
+L’électroneuromyographie (ENMG) ne permet pas de poser le diagnostic, mais peut être utilisé pour caractériser la fréquence du tremor et les patterns d’activation musculaire.
+
+Le résultat du DaTSCAN™ de notre patient est montré dans la figure 2. Il montre une asymétrie du signal ainsi qu’une forme ovale (plutôt qu’en virgule comme dans un examen normal) des noyaux striés et des putamens [1, 5].
+
+Figure 2: DaTSCAN™de notre patient, en faveur d’une dénervation dopaminergique striatale modérée bilatérale plus marquée à gauche, concernant actuellement les ­putamens avec une captation encore préservée des noyaux caudés (dans une image positive comme celle-ci, on note une asymétrie ainsi qu’une forme ovale des noyaux plutôt qu’en forme de virgule).
+
+Question 4: Quel est le diagnostic le plus probable?
+
+
+a) Tremor essentiel
+
+b) Syndrome parkinsonien induit par les médicaments
+
+c) Maladie de Parkinson
+
+d) Démence à corps de Lewy
+
+e) Atrophie multisystémique (AMS)
+
+Cette réduction du signal DaT reflète une perte fonctionnelle au niveau des neurones dopaminergiques présynaptiques compatible avec un syndrome parkinsonien «dégénératif» (maladie de Parkinson, atrophie multisystémique, paralysie supranucléaire progressive, démence à corps de Lewy).
+
+Le DaTSCAN™ est par contre normal en cas de tremor essentiel et également en cas de syndrome parkinsonien induit par les médicaments [2].
+
+Notre patient présente une maladie de Parkinson. Le diagnostic différentiel avec la démence à corps de Lewy se base sur l’absence de syndrome démentiel et d’hallucinations. Le patient ne présente pas de signes de dysfonctionnement urinaire ou érectile, ni d’hypotension orthostatique qui sont importants dans le cas de l’atrophie multisystémique (AMS) et rarement présents en début de maladie de Parkinson.
+
+Question 5: Quelle est la prise en charge plus adéquate?
+
+
+a) Propranolol
+
+b) Mémantine
+
+c) Majoration de l’halopéridol
+
+d) Un verre d’alcool par jour
+
+e) Lévodopa/ inhibiteur DOPA-décarboxylase
+
+Le traitement de choix de la maladie de Parkinson est l’instauration d’un traitement par lévodopa associée à un inhibiteur de la DOPA-décarboxylase.
+
+Le propranolol est utilisé dans le traitement du tremor essentiel.
+
+La consommation d’alcool à faible dose peut également avoir un effet bénéfique sur le tremor essentiel, mais elle est à déconseiller au vu du risque de générer une dépendance.
+
+La mémantine est utile dans certaines formes de la maladie d’Alzheimer mais pas dans le tremor.
+
+L’utilisation d’halopéridol chez notre patient n’est pas en cause dans l’apparition de son tremor. Cependant, à cause de ses potentiels effets anti-dopaminergiques, ce médicament n’est pas indiqué dans le traitement d’une comorbidité psychiatrique en présence d’une maladie de Parkinson.
+
+Discussion
+
+Le tremor est le trouble du mouvement le plus rencontré dans la pratique de médecine ambulatoire [2]. Il se définit comme une oscillation rythmique d’une partie du corps, plus fréquente au niveau des membres supérieurs mais pouvant être objectivé aux membres inférieurs, à la tête, dans la voix. La présence d’une oscillation permet de faire la différence par rapport aux autres mouvements anormaux comme la chorée ou les tics. Le diagnostic de tremor peut parfois être fastidieux car discret ou parfois associé à d’autres signes cliniques comme une ataxie, une distractibilité ou ­encore une bradykinésie. Plusieurs outils diagnostics sont utiles dans la pratique courante. Parmi ceux-ci l’imagerie par DaTSCAN™ et, cliniquement, l’exercice de l’écriture ou d’une spirale d’Archimède qui peut être réalisé au lit du patient ou dans une consultation ­ambulatoire (fig. 1) [3].
+
+Notre patient présente une maladie de Parkinson sous-jacente aggravée ou démasquée par les neuroleptiques. Rappelons également que sans l’utilisation du DATScan™, le diagnostic de la maladie de Parkinson ne peut être posé en présence de neuroleptiques et ce jusqu’à 18 mois après l’arrêt du traitement. Outre le tremor décrit, il présentait également d’une camptocormie (trouble postural avec flexion antérieure du tronc à la marche ou à la position assise) réductible en décubitus dorsal, une bradykinésie, une rigidité tetra-appendiculaire prédominante à gauche, une hypomimie et une hypophonie.
+
+Bien qu’un tremor de repos doive faire évoquer une maladie de Parkinson, le tremor peut être absent au moment du diagnostic chez environ 30% des patients [4].
+
+Réponses:
+
+
+Question 1: b. Question 2: e. Question 3: d. Question 4: c.
+Question 5: e.

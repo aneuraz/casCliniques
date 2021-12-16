@@ -1,0 +1,89 @@
+T1	profession 49 68	chirurgien urologue
+T2	disorder 78 90	incontinence
+T3	disorder 91 99	urinaire
+T4	disorder 100 108	d’effort
+T5	procedure 112 124	Intervention
+T6	procedure 152 180	consultation préanesthésique
+T7	profession 206 230	anesthésiste réanimateur
+T8	procedure 244 267	examens complémentaires
+T9	procedure 293 296	ECG
+T10	procedure 298 302	ECBU
+T11	procedure 306 322	bilan biologique
+T12	procedure 349 365	bilan biologique
+T13	procedure 428 441	groupe-Rhésus
+T14	procedure 442 451	phénotype
+T15	procedure 453 480	numération formule sanguine
+T16	procedure 482 485	NFS
+T17	procedure 490 500	plaquettes
+T18	procedure 502 522	taux de prothrombine
+T19	procedure 524 526	TP
+T20	procedure 540 556	céphaline-kaolin
+T21	procedure 558 561	TCK
+T22	procedure 565 582	onogramme sanguin
+T23	procedure 584 586	Cl
+T24	procedure 588 590	Na
+T25	procedure 592 593	K
+T26	procedure 595 597	RA
+T27	procedure 599 607	protides
+T28	profession 679 689	chirurgien
+T29	profession 709 717	patiente
+T30	profession 773 797	anesthésiste-réanimateur
+T31	procedure 813 835	visite préanesthésique
+T32	procedure 910 922	consultation
+T33	procedure 931 957	consultation cardiologique
+T34	procedure 980 994	l’intervention
+T35	procedure 1002 1008	l’ECBU
+T36	labvalue 1013 1020	stérile
+T37	procedure 1025 1038	bilan sanguin
+T38	profession 1100 1124	directeur du laboratoire
+T39	labvalue 1262 1271	anomalies
+T40	procedure 1278 1294	formule sanguine
+T41	procedure 1404 1420	examens complets
+T42	profession 1555 1563	médecins
+T43	procedure 1591 1601	hémogramme
+T44	labvalue 1602 1609	anormal
+T45	labvalue 1638 1647	augmentée
+T46	labvalue 1651 1667	formes anormales
+T47	labvalue 1616 1637	lignée granulocytaire
+T48	profession 1675 1699	anesthésiste réanimateur
+T49	procedure 1736 1749	bilan sanguin
+T50	procedure 1772 1786	l’intervention
+T51	labvalue 1815 1830	globules blancs
+T52	labvalue 1789 1802	’augmentation
+T53	labvalue 1832 1843	leucocytose
+T54	labvalue 1846 1858	25 000 / mm3
+T55	labvalue 1971 1981	myélocytes
+T56	labvalue 1988 2002	métamyélocytes
+T57	procedure 2006 2020	L’intervention
+T58	disorder 2044 2058	d’incontinence
+T59	procedure 2022 2026	cure
+T60	disorder 2030 2040	cystoptose
+T61	disorder 2059 2067	urinaire
+T62	procedure 2083 2093	voie mixte
+T63	procedure 2102 2121	anesthésie générale
+T64	procedure 2226 2240	l’intervention
+T65	disorder 2245 2252	fatigue
+T66	disorder 2273 2279	fièvre
+T67	profession 2351 2361	chirurgien
+T68	disorder 2446 2456	dépression
+T69	procedure 2460 2475	examen clinique
+T70	procedure 2513 2519	l’ECBU
+T71	labvalue 2524 2531	stérile
+T72	profession 2536 2546	chirurgien
+T73	procedure 2599 2611	consultation
+T74	profession 2630 2646	médecin traitant
+T75	procedure 2678 2681	NFS
+T76	labvalue 2750 2762	augmentation
+T77	labvalue 2774 2798	taux des globules blancs
+T78	labvalue 2800 2806	52 000
+T79	labvalue 2812 2824	63 800 / mm3
+T80	labvalue 2844 2858	métamyélocytes
+T81	labvalue 2860 2870	myélocytes
+T82	labvalue 2874 2886	myéloblastes
+T83	disorder 2905 2932	leucémie myéloïde chronique
+T84	drugs 3010 3021	Hydroxyurée
+T85	drugs 3027 3033	Glivec
+T86	profession 3137 3161	anesthésiste-réanimateur
+T87	profession 3195 3205	chirurgien
+T88	profession 3206 3214	urologue
+T89	profession 3222 3230	patiente

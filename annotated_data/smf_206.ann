@@ -1,0 +1,166 @@
+T1	irrelevant 0 8	Contexte
+T2	disorder 87 91	acné
+T3	drugs 99 124	tétracycline mino­cycline
+T4	disorder 159 173	syndrome DRESS
+T5	disorder 177 225	rug rash with eosinophilia and systemic symptoms
+T6	disorder 258 300	syndrome d’hypersensibilité médicamenteuse
+T7	drugs 384 396	prednisolone
+T8	drugs 418 430	prednisolone
+T9	disorder 477 483	fièvre
+T10	disorder 489 501	éosinophilie
+T11	disorder 518 543	insuffisance respiratoire
+T12	disorder 547 570	cardiovasculaire sévère
+T13	drugs 610 622	prednisolone
+T14	drugs 624 637	antibiotiques
+T15	disorder 704 731	fibrillation ventriculaire 
+T16	procedure 775 786	réanimation
+T17	disorder 800 829	fonction ventriculaire gauche
+T18	disorder 886 911	myocardite éosinophilique
+T19	disorder 913 915	ME
+T20	disorder 1066 1085	infarctus cérébraux
+T21	disorder 944 969	transplantation cardiaque
+T22	disorder 1183 1197	syndrome DRESS
+T23	disorder 1204 1217	ME nécrosante
+T24	profession 1297 1316	médecins de famille
+T25	profession 1324 1346	médecins hospi­taliers
+T26	irrelevant 1515 1534;1535 1578;1579 1587	Présentation du cas Première manifestation avec hospitalisation Anamnèse
+T27	profession 1632 1650	médecin de famille
+T28	disorder 1663 1675	acné faciale
+T29	drugs 1711 1735	tétracycline minocycline
+T30	disorder 1776 1782	fièvre
+T31	disorder 1788 1796	douleurs
+T32	disorder 1834 1850	éruption cutanée
+T33	disorder 1857 1877	gonflement du visage
+T34	irrelevant 1987 2006	Statut et résultats
+T35	procedure 2053 2060	fébrile
+T36	labvalue 2062 2067	38 °C
+T37	disorder 2083 2113	état général nettement diminué
+T38	disorder 2163 2175	palais rouge
+T39	disorder 2181 2198	amygdales enflées
+T40	disorder 2213 2239	lymphadénopathie cervicale
+T41	disorder 2241 2256	submandibulaire
+T42	disorder 2260 2285	rétro- et pré-auriculaire
+T43	disorder 2333 2358	exanthème maculo-papuleux
+T44	procedure 2516 2526	leucocytes
+T45	labvalue 2527 2535	11,3 G/l
+T46	procedure 2537 2549	éosinophiles
+T47	labvalue 2550 2558	1,26 G/l
+T48	procedure 2560 2571	lymphocytes
+T49	labvalue 2572 2580	3,95 G/l
+T50	procedure 2582 2585	CRP
+T51	labvalue 2586 2595	19,7 mg/l
+T52	procedure 2597 2600	GPT
+T53	labvalue 2601 2604	137
+T54	procedure 2606 2609	GOT
+T55	procedure 2614 2617	gGT
+T56	labvalue 2610 2612	73
+T57	labvalue 2618 2620	87
+T58	procedure 2622 2642	phosphatase alcaline
+T59	labvalue 2643 2646	140
+T60	procedure 2650 2653	LDH
+T61	labvalue 2654 2661	949 U/l
+T62	procedure 2665 2684	électrocardiogramme
+T63	procedure 2686 2689	ECG
+T64	procedure 2721 2744	examen micro­biologique
+T65	procedure 2759 2791	recherche d’une infection virale
+T66	labvalue 2812 2819	négatif
+T67	irrelevant 2822 2846	Diagnostic et traitement
+T68	disorder 2906 2912	fièvre
+T69	disorder 2919 2944	exanthème maculo-papuleux
+T70	disorder 2951 2969	atteinte hépatique
+T71	disorder 2976 2988	éosinophilie
+T72	disorder 2998 3010	lymphocytose
+T73	disorder 3056 3070	syndrome DRESS
+T74	drugs 3111 3123	prednisolone
+T75	irrelevant 3139 3148	Evolution
+T76	drugs 3179 3191	prednisolone
+T77	drugs 3591 3603	prednisolone
+T78	irrelevant 3678 4483	Figure 1: Déroulement temporel des évènements. Lors de la première hospitalisation, la patiente présentait un syndrome DRESS typique avec fièvre et éosinophilie, avec une régression rapide des anomalies sous traitement par prednisolone. Après l’arrêt du traitement par prednisolone d’environ cinq semaines, la patiente a présenté une ­récidive avec fièvre, éosinophilie et insuffisance respiratoire avec intubation. Après une nouvelle amélioration, le traitement par prednisolone a été légèrement réduit et la ­patiente a alors à nouveau développé de la fièvre avec une éosinophilie et finalement une fibrillation ventriculaire inattendue avec réanimation, qui s’est soldée par une issue fatale. Chaque détérioration de la maladie était précédée d’une élévation des éosinophiles dans le sang et de fièvre.
+T79	irrelevant 4485 4523	Récidive avec deuxième hospitalisation
+T80	drugs 4568 4581	predni­solone
+T81	disorder 4613 4619	fièvre
+T82	disorder 4625 4633	frissons
+T83	disorder 4641 4645	toux
+T84	irrelevant 4698 4704	Statut
+T85	procedure 4706 4712	Fièvre
+T86	labvalue 4713 4720	37,8 °C
+T87	procedure 4722 4741	pression artérielle
+T88	labvalue 4742 4754	108/77 mm Hg
+T89	procedure 4756 4761	pouls
+T90	labvalue 4762 4768	86/min
+T91	procedure 4770 4786	statut cardiaque
+T92	labvalue 4787 4806	sans particularités
+T93	procedure 4868 4878	leucocytes
+T94	labvalue 4879 4887	14,2 G/l
+T95	procedure 4889 4901	éosinophiles
+T96	labvalue 4902 4909	0,5 G/L
+T97	procedure 4911 4914	CRP
+T98	labvalue 4915 4925	116 mg U/l
+T99	procedure 4927 4930	GPT
+T100	labvalue 4931 4937	48 U/l
+T101	procedure 4941 4944	LDH
+T102	labvalue 4945 4952	641 U/l
+T103	procedure 4954 4957	p02
+T104	labvalue 4959 4966	11,1 kP
+T105	procedure 4983 4987	pCO2
+T106	labvalue 4988 4995	3,19 kP
+T107	procedure 4997 5010	excès de base
+T108	labvalue 5011 5015	–8,0
+T109	procedure 5020 5042	examen microbiologique
+T110	procedure 5057 5096	recherche d’une infection virale active
+T111	labvalue 5159 5166	négatif
+T112	procedure 5326 5329	ECG
+T113	irrelevant 5358 5858	Figure 2: Anomalies au moment de la récidive du DRESS lors de la deuxième hospitalisation avec insuffisance respiratoire et cardiovasculaire:A ) Epanchements pleuraux discrets prédominants du côté gauche et interlobaires le jour de l’admission.B ) Tomodensitométrie thoracique le deuxième jour d’hospita­lisation: infiltrat dans le lobe inférieur gauche, ainsi que léger épanchement pleural et péricardique.C ) Infiltrats et inondation lors du troisième jour d’hospitalisation, cliché réalisé au lit.
+T114	irrelevant 5860 5870	Traitement
+T115	disorder 5913 5927	syndrome DRESS
+T116	disorder 5934 5943	pneumonie
+T117	drugs 5971 5983	prednisolone
+T118	drugs 6002 6012	tazobactam
+T119	drugs 6013 6027	pipéra­cilline
+T120	drugs 6031 6044	lévofloxacine
+T121	disorder 6102 6113	hypotension
+T122	disorder 6121 6132	tachycardie
+T123	irrelevant 6195 6204	Evolution
+T124	irrelevant 8864 8874;8876 9517;9519 10577;10579 11021;11023 12000;12002 12140;12141 12198;12199 12216;12217 12278;12279 12299;12300 12324;12325 12352;12353 12374;12375 12395;12396 12436;12437 12462;12463 12472;12473 12484;12485 12512;12513 12521;12522 12541;12542 12577;12579 13146;13148 14645;14647 15329;15331 15529;15531 15766;15768 16176;16178 16713;16715 16865;16867 16895;16897 17522;17524 17992;17994 18314;18316 18537	Discussion  La ME nécrosante aiguë est l’une des formes les plus graves de ME et elle est associée à une mortalité de plus de 50%. La durée de survie moyenne est inférieure à quatre jours; les patients décèdent d’arythmies ou d’un choc cardiogénique. La plupart des ME nécrosantes sont uniquement diagnostiquées à l’autopsie [1, 2]. L’infiltration éosinophilique du myocarde entraîne la libération de granulations toxiques à effet pro-inflammatoire avec de nombreux lymphocytes et macrophages, ainsi que la libération de radicaux libres, ce qui aboutit finalement à une dysfonction des mitochondries, à une lésion des myocytes et à une nécrose (fig. 3).  Figure 3: Résultats histologiques pour le cœur retiré lors de la transplantation cardiaque.A ) Vue d’ensemble d’un fragment myocardique transmural (coloration à l’hématoxyline et à l’éosine). En haut sur l’image, on aperçoit le tissu adipeux épicardique avec les artères coronaires normales ou plus précisément leur extrémité. La vue d’ensemble révèle des zones de forte densité cellulaire (en bleu) sous forme de taches, qui correspondent à des infiltrats inflammatoires.B ) Vue détaillée du myocarde (coloration à l’hématoxyline et à l’éosine) avec nécrose évidente et réaction d’élimination des cellules nécrotiques du myocarde (avant tout au milieu de l’image) avec infiltrats inflammatoires à cellules mixtes composés principalement de lymphocytes, en partie de macrophages (avec formation de cellules géantes isolées) et d’une quantité variable de granulocytes éosinophiles. Une caractéristique typique de la myocardite éosinophilique est l’infiltrat inflammatoire de cellules mononuclées mixtes avec une quantité variable de granulocytes éosinophiles.  La ME peut soit être idiopathique, soit survenir dans le cadre d’un syndrome DRESS, de tumeurs malignes, d’un syndrome d’hyperéosinophilie, d’une granulomatose éosinophilique avec polyangéite ou encore d’infections parasitaires. Différents médicaments, tels que les antibiotiques (en particulier sulfonamides et minocycline), certains antiépileptiques et divers autres médicaments, peuvent déclencher une ME (avec ou sans syndrome DRESS) [2].  En raison des manifestations cliniques impressionnantes, avec des valeurs de laboratoire clairement pathologiques et une constellation typique, le diagnostic de syndrome DRESS a pu être rapidement posé chez notre patiente (tab. 1) [3]. La minocycline a été interrompue et une corticothérapie a été mise en œuvre, ce qui conduit souvent à une nette amélioration des symptômes. Toutefois, le système immunitaire reste surstimulé durant plusieurs mois et outre l’hypersensibilité au médicament initial, des réactions allergiques supplémentaires à d’autres médicaments peuvent alors aussi survenir. Il n’est pas rare que les patients avec syndrome DRESS sévère soient sensibilisés à plusieurs médicaments. Dans ce contexte, il s’agit d’une allergie vraie de type IV avec sensibilisation par les cellules T. La mortalité associée au syndrome DRESS s’élève à environ 10% et est avant tout imputable à des atteintes d’organes internes (hépatite, néphrite et rarement, myocardite) [3].  Tableau 1: Caractéristiques démographiques, caractéristiques cliniques, valeurs de laboratoire et traitement en cas de syndrome DRESS [3]. Age (années, moyenne +/– écart-type)	40,7 +/– 21 (0,1–84) Sexe	H 53%, F 47% Début (semaines, moyenne +/– écart-type)	3,9 +/– 2,3 (0,5–16) Eruption cutanée	97% Pathologie hépatique	94% Eosinophilie (>0,7 G/l)	66% Fièvre (>38,5 °C)	64% Lymphadénopathie	56% Infection par l’herpèsvirus humain 6	41% Lymphocytes atypiques	27% Reins	 8% Poumons	 5% Système nerveux central	 2% Cœur	 2% Corticothérapie	78% Immunoglobulines intraveineuses	 9%  Contrairement au syndrome DRESS, les signes précoces de la ME sont nettement plus discrets. Qui plus est, il s’agit d’une maladie rare, qui n’est dès lors pas toujours envisagée dans le cadre du diagnostic différentiel. En raison de l’absence de douleurs thoraciques, d’un ECG au repos normal et de l’absence d’arythmies, une maladie cardiaque n’a pas été suspectée chez notre patiente. L’évolution favorable après l’extubation a ­induit un faux sentiment de sécurité et d’assurance, si bien qu’une échocardiographie n’a malheureusement pas été réalisée initialement.  L’enseignement à tirer de ce cas est que face à tout syndrome DRESS, une échocardiographie doit être réalisée lors de la pose du diagnostic et ultérieurement. En fonction de la méthode d’examen, une atteinte cardiaque est retrouvée dans 2–20% des cas. Une anomalie cardiaque clinique, des valeurs élevées de créatine phosphokinase, de troponines ou de «brain natriuretic peptide» (BNP), un ECG au repos pathologique ou des arythmies, ainsi que des signes d’insuffisance cardiaque au niveau thoracique doivent toujours faire l’objet d’investigations supplémentaires. L’échocardiographie est un examen de dépistage approprié, permettant de mettre en évidence une dysfonction ventriculaire gauche, une pathologie myocardique ou un épanchement péricardique. L’examen de référence pour la ME est l’imagerie par résonance magnétique (IRM) cardiaque, complétée par une biopsie myocardique. En raison de l’atteinte myocardique souvent irrégulière en cas de ME, le résultat de la biopsie est uniquement exploitable en cas de diagnostic univoque de ME; une biopsie myocardique négative n’exclut pas une ME [4]. Le fait que 25% des ME surviennent sans éosinophilie périphérique complique la pose d’un diagnostic précoce. La mortalité de la ME dépend de la manifestation clinique, du résultat de l’échocardiographie et de la ­population de patients, avec un taux de mortalité de l’ordre de 30–40% en cas de corticothérapie précoce avec traitement de soutien optimal et de >70% en l’absence de corticothérapie.  Les corticostéroïdes sont considérés comme le traitement de choix de la ME, à la fois des doses faibles (10 mg de prednisolone par jour) et des doses élevées (125 mg de prednisolone par jour) étant recommandées. Les recommandations quant à la durée du traitement sont variables, tout en sachant que les évolutions sévères sont généralement traitées à doses plus élevées et sur une durée nettement plus longue. L’objectif est d’obtenir une rémission complète de toute activité pathologique, un durée de traitement de jusqu’à six mois pouvant être nécessaire pour y parvenir. Les inhibiteurs de la calcineurine peuvent être utilisés par la suite dans une optique d’épargne corticoïde.  Notre patiente a reçu une dose adéquate de prednisolone durant la majeure partie de sa maladie et il est dès lors possible que la corticothérapie n’ait pas agi de façon optimale chez cette patiente.  Il convient de mentionner que les corticostéroïdes peuvent améliorer de nombreux symptômes du syndrome DRESS, mais cela ne garantit pas que la ME, qui est la plus dangereuse de toutes les manifestations ­organiques, soit sous contrôle.  Divers médicaments (tels que les antiépileptiques aromatiques, la carbamazépine, la phénytoïne, la lamotrigine, l’allopurinol, les sulfonamides et la minocycline) peuvent provoquer un syndrome DRESS et/ou une ME [3]. En cas de survenue de symptômes correspondants (par exemple symptômes semblables à la mononucléose), les anomalies principales d’un syndrome DRESS doivent être recherchées de façon proactive.  Dans plusieurs études, la doxycycline et la minocycline ont montré une efficacité similaire pour le traitement de l’acné vulgaire. En raison de son profil d’effets indésirables plus favorable, la doxycycline doit être privilégiée par rapport à la minocycline. Après un traitement par doxycycline, seuls trois cas de syndrome DRESS avec à chaque fois une issue favorable ont été décrits. En outre, le schéma d’administration de la doxycycline est plus simple (par exemple doxycycline 1 × 50 mg par jour, minocycline 2 × 50 mg par jour).  La minocycline devrait exclusivement être administrée en cas d’intolérance à la doxycycline ou en cas d’efficacité insuffisante de cette dernière [5].  L’essentiel pour la pratique  • Le syndrome DRESS est une réaction «allergique» à divers médicaments, qui est associée à une éosinophilie et à des symptômes systémiques, tels que fièvre, lymphadénopathie et éruption cutanée maculo-papuleuse, et il affiche une mortalité d’environ 10%. Les médicaments les plus fréquemment responsables d’un syndrome DRESS incluent par exemple la clozapine, certains antiépileptiques ainsi que des antibiotiques, tels que les sulfonamides et la minocycline. Ces substances devraient dès lors être utilisées avec retenue et uniquement si des médicaments alternatifs ne sont pas envisageables ou paraissent moins acceptables.  • Les évolutions fatales en cas de syndrome DRESS sont avant tout ­causées par une insuffisance hépatique aiguë ou une myocardite éosinophilique (ME) nécrosante. Un diagnostic précoce améliore considérablement le pronostic, étant donné que les corticostéroïdes constituent la plupart du temps un traitement efficace et que de nombreux patients peuvent être sauvés grâce à des mesures de médecine intensive ou à une transplantation cardiaque réalisée en temps opportun.  • Le diagnostic précoce de la ME peut s’avérer complexe, en particulier en cas d’électrocardiogramme normal et d’enzymes cardiaques sans particularités, et tout particulièrement aussi en l’absence d’éosinophilie périphérique. L’échocardiographie devrait être utilisée de façon conséquente en tant qu’examen de dépistage.  • Divers cas de syndromes DRESS fatals ou quasi-fatals après traitement par minocycline ont été rapportés dans la littérature, si bien que la doxycycline devrait être utilisée en premier lieu pour le traitement de l’acné.
+T125	procedure 6302 6319	tomodensitométrie
+T126	procedure 6321 6324	TDM
+T127	disorder 6433 6454	épanchements pleuraux
+T128	disorder 6458 6479	péricardiques modérés
+T129	procedure 6549 6556	intubée
+T130	procedure 6572 6594	ventilation mé­canique
+T131	disorder 6624 6664	syndrome de ­détresse respiratoire aiguë
+T132	disorder 6666 6670	SDRA
+T133	drugs 6694 6708	catécholamines
+T134	procedure 6726 6754	radiographie conventionnelle
+T135	disorder 6778 6817	infiltrats et des épanchements pleuraux
+T136	procedure 6884 6897	bronchoscopie
+T137	procedure 6903 6928	lavage broncho-alvéolaire
+T138	procedure 6930 6933	LBA
+T139	drugs 7025 7036	diurétiques
+T140	disorder 7040 7065	insuffisance respiratoire
+T141	procedure 7117 7124	extubée
+T142	procedure 7145 7166	ventilation mécanique
+T143	drugs 7311 7323	prednisolone
+T144	disorder 7470 7476	fièvre
+T145	disorder 7489 7501	éosinophilie
+T146	disorder 7509 7528	élévation de la CRP
+T147	drugs 7554 7566	prednisolone
+T148	disorder 7645 7671	arrêt circulatoire soudain
+T149	disorder 7677 7703	fibrillation ventriculaire
+T150	procedure 7798 7813	défibrillations
+T151	procedure 7887 7909	cathétérisme cardiaque
+T152	procedure 7977 8017	oxygénation par membrane extracorporelle
+T153	procedure 8019 8023	ECMO
+T154	procedure 8032 8047	coronarographie
+T155	procedure 8108 8125	échocardiographie
+T156	procedure 8148 8168	ventriculaire gauche
+T157	labvalue 8169 8186	fortement limitée
+T158	procedure 8258 8277	biopsie myocardique
+T159	disorder 8291 8293	ME
+T160	disorder 8294 8311	nécrosante sévère
+T161	procedure 8329 8354	transplantation cardiaque
+T162	disorder 8425 8443	lésions cérébrales
+T163	disorder 8473 8492	embolies cérébrales
+T164	procedure 8633 8641	autopsie
+T165	disorder 8810 8824	syndrome DRESS
+T166	drugs 8850 8861	minocycline

@@ -1,0 +1,25 @@
+T1	risk 156 184	tabagisme à 40 paquets/année
+T2	risk 186 238	diabète insulino-réquérant d’équilibration difficile
+T3	risk 240 252	dyslipidémie
+T4	procedure 314 338	scintigraphie cardiaque 
+T5	labvalue 385 511	cardiopathie ischémique silencieuse avec une fonction ventriculaire basale normale à 63% qui diminue à 35% en post Persantine 
+T6	labvalue 563 599	atteinte coronaire pluritronculaire 
+T7	drugs 661 678	 Plavix (75 mg/j)
+T8	drugs 692 703	 l’aspirine
+T9	labvalue 850 979	une occlusion chronique de la coronaire droite reprise de manière homolatérale ainsi qu’une lésion très serrée de l’IVA proximale
+T10	procedure 1112 1170	angioplastie de l’IVA avec mise en place d’un stent actif.
+T11	drugs 1242 1275	 Kardégic 75mg/j et Plavix 75mg/j
+T12	drugs 2710 2726	’Aspégic l100 mg
+T13	disorder 3079 3097	brûlure thoracique
+T14	drugs 3283 3301	Ezomeprazole 20 mg
+T15	disorder 3419 3494	douleur thoracique devient plus prononcée, médio-thoracique et constrictive
+T16	procedure 3708 3727	électrocardiogramme
+T17	labvalue 3780 3834	persistance d’un sus-décalage du segment ST antérieur.
+T18	procedure 3839 3854	coronarographie
+T19	labvalue 3902 3930	 thrombose du stent de l’IVA
+T20	drugs 4119 4157	antiagrégant plaquettaire intraveineux
+T21	disorder 4204 4213	aphasique
+T22	drugs 4219 4232	IRM cérébrale
+T23	labvalue 4269 4411	lacunes ischémiques de différents âges, récentes et semi récentes, dans le territoire superficiel et profond de la cérébrale antérieure gauche
+T24	drugs 4477 4486	Duoplavin
+T25	labvalue 4632 4734	 nécrose myocardique antérieure avec une dysfonction ventriculaire gauche qui oscille entre 35 et 40% 

@@ -1,0 +1,55 @@
+T1	disorder 172 178	fièvre
+T2	disorder 253 270	 infection virale
+T3	drugs 284 296	Coquelusédal
+T4	drugs 297 308	paracétamol
+T5	drugs 320 325	Advil
+T6	procedure 655 677	 régulièrement à boire
+T7	disorder 848 857	fiévreuse
+T8	disorder 861 883	refuse de s’alimenter.
+T9	disorder 1046 1053	fébrile
+T10	disorder 1113 1127	sommeil agité.
+T11	disorder 1264 1269	vomit
+T12	disorder 1334 1339	vomit
+T13	disorder 1485 1495	 affaiblie
+T14	disorder 1506 1513	fébrile
+T15	disorder 1524 1535	toux rauque
+T16	disorder 1551 1573	infection respiratoire
+T17	disorder 1579 1588	laryngite
+T18	drugs 1617 1623	Oroken
+T19	drugs 1635 1644	Celestène
+T20	drugs 1714 1724	Bronchokod
+T21	disorder 1941 1957	posture anormale
+T22	disorder 1985 2010	jambe droite était raide 
+T23	disorder 2013 2029	gênait la marche
+T24	disorder 2390 2405	marques bleues 
+T25	disorder 2448 2481	 joue droite qui apparait gonflée
+T26	disorder 2573 2596	refusant de s’alimenter
+T27	disorder 2941 2969	alimentation reste difficile
+T28	disorder 3037 3048	vomissement
+T29	disorder 3125 3134	irritable
+T30	disorder 3164 3198	respirant « de façon irrégulière »
+T31	disorder 3228 3266	ne peut ni marcher, ni se tenir debout
+T32	disorder 3731 3756	 difficultés de la marche
+T33	disorder 3788 3799	courbatures
+T34	disorder 4148 4163	 plaques bleues
+T35	disorder 4241 4249	fatiguée
+T36	disorder 4253 4263	somnolente
+T37	disorder 4480 4491	hypotonique
+T38	disorder 4515 4541	 tête était très inclinée 
+T39	drugs 4629 4638	Célestène
+T40	disorder 4660 4681	 faiblesse musculaire
+T41	disorder 4936 4958	yeux largement ouverts
+T42	disorder 4968 5000	mouvements anormaux de la bouche
+T43	procedure 5082 5106	manœuvres de réanimation
+T44	disorder 5313 5341	lésions de type ecchymotique
+T45	disorder 5446 5465	 tâches purpuriques
+T46	procedure 5612 5643	 ponction lombaire post mortem 
+T47	labvalue 5697 5710	 eau de roche
+T48	labvalue 5736 5759	Streptococcuspneumoniae
+T49	procedure 5850 5853	LCR
+T50	procedure 5897 5912	hypoglycorachie
+T51	procedure 5942 5961	hyperprotéinorachie
+T52	labvalue 5925 5933	0,33 g/l
+T53	labvalue 5963 5971	0,26 g/l
+T54	disorder 6015 6032	purpura fulminans
+T55	disorder 6048 6084	 méningite bactérienne à Pneumocoque

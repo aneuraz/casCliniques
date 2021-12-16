@@ -1,0 +1,210 @@
+T1	disorder 118 142	petit poids de naissance
+T2	labvalue 144 151	2 770 g
+T3	disorder 193 202	RGO banal
+T4	disorder 232 238	asthme
+T5	procedure 265 300	traité par bronchodilatateur inhalé
+T6	drugs 347 357	oméprazole
+T7	disorder 382 389	fébrile
+T8	labvalue 391 395	38°C
+T9	disorder 431 446	gastro-entérite
+T10	profession 464 480	médecin traitant
+T11	procedure 501 538	prescrit un traitement symptomatique 
+T12	drugs 548 559	dompéridone
+T13	drugs 561 575	phloroglucinol
+T14	drugs 579 590	diosmectite
+T15	procedure 618 630	coproculture
+T16	disorder 661 685	selles glairo-sanglantes
+T17	disorder 759 779	douleurs abdominales
+T18	procedure 813 819	examen
+T19	labvalue 866 873	16,5 kg
+T20	disorder 884 898	perte de poids
+T21	disorder 963 987	signes de déshydratation
+T22	disorder 1015 1022	fébrile
+T23	labvalue 1024 1031	37,8 °C
+T24	disorder 1038 1046	frissons
+T25	disorder 1060 1092	mauvaise tolérance hémodynamique
+T26	procedure 1094 1097	PA 
+T27	labvalue 1099 1110	118/68 mmHg
+T28	procedure 1113 1115	FC
+T29	labvalue 1118 1125	131/min
+T30	procedure 1128 1131	Sat
+T31	labvalue 1134 1138	98 %
+T32	disorder 1145 1165	douleurs abdominales
+T33	disorder 1203 1221	émission de selles
+T34	procedure 1263 1272	palpation
+T35	procedure 1276 1283	abdomen
+T36	labvalue 1288 1294	souple
+T37	labvalue 1296 1307	dépressible
+T38	labvalue 1311 1319	indolore
+T39	disorder 1343 1364	troubles fonctionnels
+T40	procedure 1382 1388	examen
+T41	procedure 1477 1527	confirmation des mesures symptomatiques prescrites
+T42	procedure 1547 1590	administration de solution de réhydratation
+T43	procedure 1674 1686	coproculture
+T44	procedure 1688 1697	rotavirus
+T45	labvalue 1697 1698	–
+T46	procedure 1701 1712	entérovirus
+T47	labvalue 1713 1714	+
+T48	procedure 1728 1739	colibacille
+T49	labvalue 1741 1748	O157 H7
+T50	profession 1781 1797	médecin traitant
+T51	procedure 1803 1818	hospitalisation
+T52	procedure 1834 1849	examen clinique
+T53	disorder 1875 1881	fièvre
+T54	labvalue 1884 1889	38 °C
+T55	procedure 1894 1899	poids
+T56	labvalue 1900 1906	stable
+T57	labvalue 1908 1915	16,5 kg
+T58	procedure 1922 1924	PA
+T59	labvalue 1927 1933	110/74
+T60	procedure 1939 1941	FC
+T61	labvalue 1944 1947	115
+T62	procedure 1955 1965	saturation
+T63	labvalue 1968 1972	98 %
+T64	disorder 1978 1996	troubles digestifs
+T65	procedure 2017 2024	diurèse
+T66	labvalue 2025 2034	conservée
+T67	disorder 2078 2122	éruption érythémateuse d’allure urticarienne
+T68	procedure 2124 2143	Examens biologiques
+T69	procedure 2146 2149	NFS
+T70	procedure 2152 2154	Hb
+T71	labvalue 2157 2170	15,4 g/100 ml
+T72	procedure 2173 2175	GR
+T73	labvalue 2178 2191	5 430 000/mm3
+T74	procedure 2194 2197	VGM
+T75	labvalue 2198 2203	78 μ3
+T76	procedure 2206 2219	Réticulocytes
+T77	labvalue 2222 2232	46 200/mm3
+T78	procedure 2235 2237	GB
+T79	labvalue 2240 2250	23 500/mm3
+T80	labvalue 2252 2263	69 % de PNN
+T81	procedure 2267 2277	Plaquettes
+T82	labvalue 2280 2291	407 000/mm3
+T83	procedure 2294 2302	Glycémie
+T84	labvalue 2305 2315	6,6 mmol/l
+T85	procedure 2318 2336	Ionogramme sanguin
+T86	procedure 2348 2350	Na
+T87	labvalue 2353 2356	131
+T88	procedure 2358 2360	 K
+T89	labvalue 2363 2366	4,5
+T90	procedure 2369 2381	bicarbonates
+T91	labvalue 2384 2386	20
+T92	procedure 2391 2395	urée
+T93	labvalue 2398 2403	2 g/l
+T94	procedure 2406 2414	Protides
+T95	labvalue 2417 2423	66 g/l
+T96	procedure 2426 2436	Créatinine
+T97	labvalue 2439 2447	28 μmol/
+T98	procedure 2450 2452	BU
+T99	labvalue 2455 2477	absence de protéinurie
+T100	labvalue 2479 2487	0,12 g/l
+T101	procedure 2491 2494	CRP
+T102	labvalue 2497 2505	154 mg/l
+T103	procedure 2509 2525	bilan biologique
+T104	disorder 2542 2557	gastro-entérite
+T105	disorder 2706 2715	fébricule
+T106	disorder 2785 2799	perte de poids
+T107	procedure 2826 2863	alimentation/ hydration orale adaptée
+T108	procedure 2902 2926	traitement symptomatique
+T109	procedure 2950 2981	isolement de l’Escherichia coli
+T110	disorder 3122 3133	diarrhéique
+T111	disorder 3258 3290	syndrome hémolytique et urémique
+T112	procedure 3308 3324	bilan biologique
+T113	labvalue 3329 3335	normal
+T114	disorder 3366 3371	némie
+T115	procedure 3376 3400	recherche de schizocytes
+T116	labvalue 3405 3413	négative
+T117	disorder 3419 3431	thrombopénie
+T118	disorder 3437 3456	insuffisance rénale
+T119	procedure 3488 3499	échographie
+T120	disorder 3541 3556	atteinte rénale
+T121	procedure 3566 3600	différenciation cortico-médullaire
+T122	labvalue 3605 3614	conservée
+T123	procedure 3701 3724	perfusion intraveineuse
+T124	procedure 3744 3774	répétition du bilan biologique
+T125	disorder 3818 3826	diarrhée
+T126	irrelevant 3853 3907	Quel est votre diagnostic ? Histoire clinique (suite) 
+T127	procedure 3962 3997	surveillance quotidienne des urines
+T128	procedure 4018 4046	bilan de contrôle biologique
+T129	procedure 4058 4085	rendez-vous de consultation
+T130	disorder 4248 4259	protéinurie
+T131	disorder 4269 4278	hématurie
+T132	disorder 4386 4394	peu pâle
+T133	disorder 4400 4409	ictérique
+T134	procedure 4413 4428	examen clinique
+T135	labvalue 4433 4439	normal
+T136	procedure 4444 4449	poids
+T137	labvalue 4450 4456	stable
+T138	disorder 4473 4481	éruption
+T139	disorder 4488 4495	purpura
+T140	disorder 4502 4525	hypertension artérielle
+T141	labvalue 4527 4538	116/59 mmHg
+T142	procedure 4544 4551	diurèse
+T143	labvalue 4556 4565	conservée
+T144	procedure 4575 4588	bilan sanguin
+T145	disorder 4635 4668	syndrome hémolytique et urémique 
+T146	procedure 4707 4718	hémoglobine
+T147	labvalue 4721 4733	6,5 g/100 ml
+T148	procedure 4752 4778	schizocytes sur le frottis
+T149	labvalue 4740 4748	présence
+T150	procedure 4787 4799	thrombopénie
+T151	labvalue 4802 4812	41 000/mm3
+T152	disorder 4820 4839	insuffisance rénale
+T153	procedure 4842 4847	urée 
+T154	labvalue 4849 4858	18,7 mmol
+T155	procedure 4861 4871	créatinine
+T156	labvalue 4872 4881	42 μmol/l
+T157	procedure 4910 4913	Na 
+T158	labvalue 4915 4918	133
+T159	procedure 4921 4922	K
+T160	labvalue 4924 4935	 3,8 mmol/l
+T161	procedure 4945 4957	protéinurie 
+T162	labvalue 4959 4967	1,08 g/l
+T163	procedure 4969 4989	Évolution biologique
+T164	disorder 5005 5037	syndrome hémolytique et urémique
+T165	disorder 5090 5124	nfection digestive entéro-invasive
+T166	procedure 5277 5314	traitement est purement symptomatique
+T167	procedure 5352 5382	troubles hydro-électrolytiques
+T168	disorder 5394 5407	hyperkaliémie
+T169	disorder 5409 5416	acidose
+T170	disorder 5427 5446	insuffisance rénale
+T171	procedure 5504 5525	épuration extrarénale
+T172	procedure 5527 5546	dialyse péritonéale
+T173	disorder 5557 5563	anémie
+T174	disorder 5647 5659	thrombopénie
+T175	procedure 5667 5697	transfusion de globules rouges
+T176	disorder 5732 5735	SHU
+T177	disorder 5758 5775	séquelles rénales
+T178	disorder 5809 5830	atteinte glomérulaire
+T179	disorder 5844 5874	insuffisance rénale terminale 
+T180	disorder 5933 5962	insuffisance rénale chronique
+T181	disorder 5972 5975	HTA
+T182	disorder 5980 6022	microangiopathie thrombotique glomérulaire
+T183	procedure 6050 6067	plan histologique
+T184	disorder 6089 6133	agression des cellules endothéliales du rein
+T185	procedure 6142 6157	toxine produite
+T186	procedure 6181 6214	colibacilles entéro-hémorragiques
+T187	labvalue 6243 6258	E. coli O157-H7
+T188	procedure 6284 6297	Shiga toxine 
+T189	disorder 6321 6332	vérotoxine,
+T190	procedure 6348 6382	récepteur de nature glycolipidique
+T191	procedure 6575 6602	coagulation intravasculaire
+T192	procedure 6622 6647	formation de microthrombi
+T193	procedure 6656 6673	réseau de fibrine
+T194	procedure 6687 6725	hémolyse mécanique extra-corpusculaire
+T195	disorder 6852 6882	atteinte rénale préférentielle
+T196	profession 7028 7045	infections à EHEC
+T197	disorder 7072 7076	 SHU
+T198	procedure 7083 7102	facteurs favorisant
+T199	procedure 7235 7244	 inadapté
+T200	procedure 7249 7262	antibiotiques
+T201	drugs 7268 7282	bêtalactamines
+T202	procedure 7384 7407	agents pharmacologiques
+T203	procedure 7424 7442	transit intestinal
+T204	procedure 7499 7527	administration au long cours
+T205	disorder 7580 7612	inhibiteur de la pompe à protons
+T206	procedure 7625 7658	diminution de l’acidité gastrique
+T207	procedure 7701 7724	développement bactérien
+T208	disorder 7817 7820	SHU
+T209	disorder 8090 8122	syndrome hémolytique et urémique
+T210	irrelevant 8123 10275	Les colibacilles sécréteurs de Shiga (ou véro) toxines sont des germes saprophytes du tube digestif des mammifères, dont le réservoir se situe principalement chez les ruminants domestiques. La contamination humaine est possible par la consommation de viande ou de lait, ou par la consommation d’eau douce (rivière, lac) dans des zones d’élevage. Les gastro-entérites provoquées par ces colibacilles, parfois épidémiques, s’accompagnent dans la moitié des cas (seulement) d’une diarrhée sanglante et se compliquent dans 10 à 15 % des cas de SHU (une centaine par an en France, avec une incidence de 0,8 cas/an/100 000 enfants < 15 ans ; mais 3,3 cas/an/100 000 < 3 ans). EC O157 H7 est le plus fréquemment retrouvé comme à l’origine d’un SHU, mais d’autres sérotypes peuvent être en cause (O 111, O 26, O 103, O 126). La prévention est essentiellement d’ordre sanitaire par la surveillance vétérinaire des troupeaux et de la qualité des produits alimentaires (boucherie, laiterie, fromagerie) et l’extension de la pasteurisation. Les conseils à donner aux familles, particulièrement pour les enfants plus petits (< 3 ans), sont de cuire les viandes « à coeur » (notamment le steak haché) et de préférer les fromages pasteurisés et cuits. Durant les périodes de vacances, la rupture de la chaîne du froid, l’utilisation de glacière plutôt que de réfrigérateur, la consommation d’eau douce (torrent, puits) lors de randonnées sont autant de facteurs de risque évitables et donc à connaître. Histoire clinique (suite et fin) Le SHU de Djebril sera d’évolution rapidement favorable, avec une stabilité de l’équilibre hydro-électrolytique (absence d’hyperkaliémie et d’acidose), et récupération rapide d’une fonction rénale normale sans recourir à l’épuration extra-rénale. La brutalité de survenue de l’anémie avec présence de schizocytes a nécessité une transfusion d’un seul culot globulaire. En l’absence de tout syndrome hémorragique, il n’a pas été nécessaire de transfuser des plaquettes. La survenue de ce SHU « mineur » impose quand même le maintien d’une surveillance à long terme de la fonction rénale et de la pression artérielle chez cet enfant.

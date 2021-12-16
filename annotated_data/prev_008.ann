@@ -1,0 +1,120 @@
+T1	disorder 69 97	arthrose de la hanche droite
+T2	disorder 144 152	douleurs
+T3	procedure 268 292	valve aortique mécanique
+T4	drugs 308 322	anticoagulants
+T5	drugs 328 331	AVK
+T6	procedure 360 373	prise de sang
+T7	disorder 410 418	hématome
+T8	disorder 454 480	compression du nerf médian
+T9	disorder 494 512	parésie définitive
+T10	drugs 753 756	AVK
+T11	procedure 758 761	INR
+T12	labvalue 772 773	3
+T13	disorder 810 839	douleurs diurnes et nocturnes
+T14	disorder 963 974	coxarthrose
+T15	procedure 1006 1009	IRM
+T16	disorder 994 1001	nécrose
+T17	procedure 1049 1059	PTH droite
+T18	drugs 1208 1211	AVK
+T19	drugs 1216 1227	Calciparine
+T20	drugs 1374 1383	Coumadine
+T21	drugs 1447 1458	Calciparine
+T22	drugs 1667 1678	Calciparine
+T23	procedure 1744 1746	TP
+T24	procedure 1724 1741	Bilan d'hémostase
+T25	labvalue 1749 1753	59 %
+T26	procedure 1757 1760	TCA
+T27	labvalue 1786 1793	240 sec
+T28	procedure 1884 1886	TP
+T29	procedure 1864 1881	Bilan d'hémostase
+T30	procedure 1895 1898	TCA
+T31	labvalue 1889 1893	69 %
+T32	labvalue 1899 1912	72 sec/30 sec
+T33	drugs 2081 2092	Calciparine
+T34	disorder 2414 2421	algique
+T35	drugs 2471 2479	morphine
+T36	procedure 2523 2536	Bilan sanguin
+T37	procedure 2539 2550	hémoglobine
+T38	labvalue 2553 2565	7,8 g/100 ml
+T39	procedure 2567 2569	TP
+T40	labvalue 2571 2576	 78 %
+T41	procedure 2578 2581	TCA
+T42	labvalue 2582 2588	33 sec
+T43	procedure 2778 2795	radio de contrôle
+T44	drugs 2912 2926	anticoagulants
+T45	drugs 2941 2945	HBPM
+T46	drugs 2947 2954	Lovenox
+T47	drugs 3204 3214	antalgique
+T48	procedure 3216 3227	hémoglobine
+T49	labvalue 3228 3231	7,8
+T50	procedure 3346 3357	hémoglobine
+T51	procedure 3374 3387	créatininémie
+T52	procedure 3330 3343	Bilan sanguin
+T53	labvalue 3360 3372	9,4 g/100 ml
+T54	labvalue 3390 3400	417 mmol/l
+T55	disorder 3506 3545	 douleurs intenses au niveau des jambes
+T56	drugs 3564 3575	antalgiques
+T57	disorder 3600 3607	nausées
+T58	disorder 3611 3623	vomissements
+T59	drugs 3687 3696	Primpéran
+T60	drugs 3698 3705	Zophren
+T61	drugs 3710 3717	Inipomp
+T62	procedure 3766 3777	hémoglobine
+T63	procedure 3751 3764	Bilan sanguin
+T64	labvalue 3780 3793	10,6 g/100 ml
+T65	procedure 3795 3808	créatininémie
+T66	labvalue 3811 3821	100 mmol/l
+T67	procedure 3823 3843	clairance créatinine
+T68	labvalue 3846 3855	37 ml/min
+T69	procedure 3857 3873	activité anti Xa
+T70	labvalue 3874 3883	0,73 U/ml
+T71	disorder 4015 4023	diarrhée
+T72	procedure 4236 4247	hémoglobine
+T73	procedure 4220 4233	Bilan sanguin
+T74	labvalue 4250 4262	6,7 g/100 ml
+T75	procedure 4264 4277	créatininémie
+T76	labvalue 4280 4287	12 mg/l
+T77	procedure 4289 4309	clairance créatinine
+T78	labvalue 4312 4321	35 ml/min
+T79	procedure 4322 4324	TP
+T80	labvalue 4327 4331	81 %
+T81	procedure 4333 4336	TCA
+T82	labvalue 4337 4341	36 s
+T83	procedure 4655 4668	Bilan sanguin
+T84	procedure 4671 4682	hémoglobine
+T85	labvalue 4685 4697	9,6 g/100 ml
+T86	procedure 4699 4712	créatininémie
+T87	labvalue 4715 4724	69 mmol/l
+T88	procedure 4726 4746	clairance créatinine
+T89	labvalue 4749 4758	53 ml/min
+T90	procedure 4760 4762	TP
+T91	labvalue 4765 4768	91%
+T92	procedure 4770 4780	TCA normal
+T93	procedure 4894 4902	PA 63/36
+T94	disorder 4968 4985	sciatalgie droite
+T95	procedure 5112 5128	bilan biologique
+T96	procedure 5191 5205	 Bilan sanguin
+T97	procedure 5207 5219	 hémoglobine
+T98	labvalue 5222 5232	9,6g/100ml
+T99	procedure 5234 5247	créatininémie
+T100	labvalue 5250 5255	9mg/l
+T101	procedure 5257 5277	clairance créatinine
+T102	labvalue 5280 5289	45 ml/min
+T103	drugs 6244 6251	Lovenox
+T104	procedure 6411 6424	Bilan sanguin
+T105	procedure 6427 6438	hémoglobine
+T106	labvalue 6441 6453	7,7 g/100 ml
+T107	procedure 6499 6515	activité anti XA
+T108	labvalue 6518 6527	0.24 U/ml
+T109	disorder 6614 6622	hématome
+T110	disorder 6639 6658	paralysie sciatique
+T111	disorder 6838 6881	hématome expansif sus et sous-aponévrotique
+T112	disorder 7156 7167	sciatalgies
+T113	disorder 7201 7209	hématome
+T114	disorder 7343 7362	paralysie sciatique
+T115	disorder 7490 7507	paralysie motrice
+T116	disorder 7616 7622	anémie
+T117	disorder 7661 7684	douleurs neuropathiques
+T118	disorder 7817 7824	anxiété
+T119	drugs 7898 7907	Neurontin
+T120	drugs 7912 7921	Durogesic

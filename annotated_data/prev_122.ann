@@ -1,0 +1,77 @@
+T1	profession 62 69	médecin
+T2	disorder 93 101	sinusite
+T3	profession 120 126	 l’ORL
+T4	disorder 152 179	nodule thyroïdien isthmique
+T5	procedure 183 194	échographie
+T6	labvalue 207 442	présence à la jonction isthmo-lobaire gauche d’un nodule d’échostructure solide hypoéchogène de 9 mm de diamètre avec plusieurs petites adénopathies, parfaitement homogènes, bilatérales, la plus volumineuse, mesurant 1,2 cm de diamètre
+T7	procedure 466 480	cyto-ponction 
+T8	labvalue 490 642	« …Formule cytologique qui incite à recommander une vérification histologique de principe afin de ne pas méconnaître un éventuel carcinome papillaire… »
+T9	profession 646 661	 chirurgien ORL
+T10	profession 686 700	endocrinologue
+T11	procedure 733 747	thyroïdectomie
+T12	disorder 862 882	carcinome papillaire
+T13	profession 887 897	chirurgien
+T14	procedure 912 933	thyroïdectomie totale
+T15	procedure 939 968	curage récurrentiel bilatéral
+T16	disorder 1044 1064	carcinome papillaire
+T17	disorder 1096 1137	métastase ganglionnaire péri-thyroïdienne
+T18	disorder 1244 1305	métastase ganglionnaire sus-isthmique sans rupture capsulaire
+T19	procedure 1244 1305	métastase ganglionnaire sus-isthmique sans rupture capsulaire
+T20	procedure 1482 1513	curage ganglionnaire bilatéral 
+T21	procedure 1523 1575	 totalisation isotopique de la thyroïdectomie totale
+T22	profession 1718 1732	chirurgien ORL
+T23	procedure 1820 1840	curage ganglionnaire
+T24	disorder 1878 1912	complications hémorragiques graves
+T25	procedure 1980 2011	curage ganglionnaire bilatéral 
+T26	profession 2150 2160	chirurgien
+T27	profession 2258 2270	anesthésiste
+T28	procedure 2275 2291	surveiller pouls
+T29	procedure 2293 2300	tension
+T30	procedure 2302 2313	respiration
+T31	procedure 2315 2325	conscience
+T32	procedure 2327 2338	température
+T33	procedure 2340 2346	redons
+T34	profession 2513 2527	chirurgien ORL
+T35	profession 2724 2737	anesthésiste 
+T36	profession 2637 2647	infirmière
+T37	procedure 2897 2922	SpO2 (oxymétrie de pouls)
+T38	labvalue 2928 2931	97%
+T39	procedure 2937 2963	redons toujours aspiratifs
+T40	labvalue 2974 2985	32 et 36 ml
+T41	procedure 3088 3098	infirmière
+T42	procedure 3275 3279	SpO2
+T43	labvalue 3288 3291	98%
+T44	profession 3303 3313	infirmière
+T45	profession 3324 3336	anesthésiste
+T46	procedure 3374 3378	SpO2
+T47	labvalue 3385 3389	98 %
+T48	disorder 3410 3443	saignement majeur dans les redons
+T49	drugs 3539 3549	Celestène®
+T50	procedure 3724 3738	chirurgien ORL
+T51	disorder 3601 3635	 saignement au niveau du pansement
+T52	profession 3568 3578	infirmière
+T53	disorder 3651 3690	 écoulement »au niveau du cou (sternum)
+T54	profession 4445 4458	chirurgien OR
+T55	profession 4417 4429	anesthésiste
+T56	profession 4246 4256	infirmière
+T57	profession 3890 3901	’infirmière
+T58	profession 3889 3901	l’infirmière
+T59	profession 4208 4219	chirurgien 
+T60	procedure 3859 3863	SpO2
+T61	labvalue 3869 3873	 95%
+T62	profession 4189 4201	anesthésiste
+T63	procedure 4551 4561	Intubation
+T64	procedure 4589 4600	aspiration 
+T65	procedure 4602 4613	ventilation
+T66	procedure 4602 4613	ventilation
+T67	procedure 4616 4633	massage cardiaque
+T68	drugs 4664 4674	Adrénaline
+T69	drugs 4699 4709	Adrénaline
+T70	procedure 5074 5084	intubation
+T71	procedure 5250 5264	chirurgien ORL
+T72	procedure 5303 5440	l’évacuation d’un hématome cervical gauche de moyenne abondance avec ligature d’une veine jugulaire antérieure pour un saignement minime 
+T73	disorder 5571 5584	œdème laryngé
+T74	disorder 5674 5721	compression extrinsèque par l’hématome cervical
+T75	disorder 5785 5789	coma
+T76	profession 6077 6092	chirurgien ORL 
+T77	profession 6099 6111	anesthésiste

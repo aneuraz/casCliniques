@@ -1,0 +1,52 @@
+T1	disorder 68 90	diabète déjà compliqué
+T2	disorder 112 123	neuropathie
+T3	procedure 253 280	mesures hygiéno-diététiques
+T4	drugs 304 313	Avandamet
+T5	disorder 346 353	diabète
+T6	procedure 372 392	hémoglobine glyquée 
+T7	labvalue 394 396	6%
+T8	disorder 618 643	 plaie d’un orteil gauche
+T9	procedure 681 709	prescrivait des soins locaux
+T10	disorder 753 774	infection bronchique 
+T11	procedure 842 865	complétait l’ordonnance
+T12	drugs 889 897	Clamoxyl
+T13	drugs 904 914	ibuprofène
+T14	disorder 1011 1027	plaie suintante 
+T15	procedure 1086 1106	médecin prescrivait 
+T16	drugs 1111 1121	Oracilline
+T17	procedure 1145 1171	poursuite des soins locaux
+T18	drugs 1176 1184	Betadine
+T19	drugs 1551 1559	’Innohep
+T20	procedure 1668 1694	autocontrôles capillaires 
+T21	labvalue 1791 1796	1,10 
+T22	labvalue 1797 1805	1,20 g/l
+T23	labvalue 1836 1842	 2,00 
+T24	labvalue 1846 1856	 2,60 g/l.
+T25	procedure 1860 1874	traitement par
+T26	drugs 1875 1884	Avandamet
+T27	procedure 1905 1920	l’adjonction de
+T28	drugs 1921 1929	Novonorm
+T29	disorder 1948 1985	altération brutale de l’état général 
+T30	procedure 1990 1996	fièvre
+T31	labvalue 1999 2005	39 °C.
+T32	disorder 2060 2072	« gangrène »
+T33	disorder 2215 2244	Diabète non insulinodépendant
+T34	disorder 2264 2291	Plaie du 3ème orteil gauche
+T35	disorder 2330 2359	nécrose du 3ème orteil gauche
+T36	disorder 2361 2402	Erysipèle ( ?) du membre inférieur gauche
+T37	procedure 2468 2473	Fièvr
+T38	labvalue 2476 2482	 39 °C
+T39	drugs 2490 2500	Oracilline
+T40	drugs 2529 2537	Rocéphin
+T41	drugs 2541 2552	Gentamycine
+T42	drugs 2557 2563	Flagyl
+T43	disorder 2650 2682	fonte purulente de l’avant- pied
+T44	procedure 2684 2686	GB
+T45	labvalue 2689 2699	26 000/mm3
+T46	procedure 2753 2774	écho-doppler artériel
+T47	procedure 3084 3165	amputation de jambe gauche transtibiale avec recanalisation de l’artère péronière
+T48	procedure 3171 3183	prélèvement 
+T49	labvalue 3222 3248	 colibacille multisensible
+T50	labvalue 3288 3329	staphylocoque résistant à la pénicilline 
+T51	procedure 3413 3429	antibiothérapie 
+T52	procedure 3599 3638	prothèse définitive était mise en place

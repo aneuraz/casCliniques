@@ -1,0 +1,178 @@
+T1	procedure 56 63	adressé
+T2	profession 92 110	médecin de famille
+T3	disorder 124 159	syncopes récidivantes sans prodrome
+T4	procedure 175 194	pression artérielle
+T5	labvalue 195 201	basses
+T6	disorder 208 219	bradycardie
+T7	disorder 274 297	hypertension artérielle
+T8	disorder 303 327	fibrillation auriculaire
+T9	procedure 359 373	anticoagulants
+T10	procedure 375 404	nouveaux anticoagulants oraux
+T11	procedure 416 429	bêtabloquants
+T12	disorder 445 473	nsuffisance rénale chronique
+T13	procedure 493 526	débit de filtration glomérulaire 
+T14	procedure 527 530	DFG
+T15	labvalue 543 552	62 ml/min
+T16	procedure 646 654	anamnèse
+T17	disorder 694 701	dyspnée
+T18	disorder 773 788	orthopnée aiguë
+T19	disorder 796 818	douleurs épigastriques
+T20	disorder 854 865	inappétence
+T21	disorder 882 904	faible volume urinaire
+T22	disorder 960 974	perte de poids
+T23	labvalue 978 983	12 kg
+T24	drugs 1035 1044	nébivolol
+T25	drugs 1046 1057	candésartan
+T26	drugs 1061 1080	hydrochlorothiazide
+T27	drugs 1092 1103	rivaroxaban
+T28	disorder 1126 1132	fièvre
+T29	disorder 1136 1144	frissons
+T30	procedure 1148 1156	anamnèse
+T31	procedure 1257 1269	état général
+T32	labvalue 1272 1278	iminué
+T33	procedure 1285 1302	état nutritionnel
+T34	labvalue 1303 1309	normal
+T35	disorder 1404 1417	hypoperfusion
+T36	disorder 1424 1444	cyanose périphérique
+T37	disorder 1446 1464	livedo réticulaire
+T38	disorder 1476 1509	pouls périphériques non palpables
+T39	procedure 1513 1525	auscultation
+T40	disorder 1539 1568	bruits cardiaques arythmiques
+T41	disorder 1577 1595	souffle systolique
+T42	labvalue 1596 1600	3/6 
+T43	procedure 1629 1652	reflux hépato-jugulaire
+T44	labvalue 1659 1666	positif
+T45	disorder 1687 1707	œdèmes périphériques
+T46	disorder 1735 1747	tachydyspnée
+T47	procedure 1808 1828	bruits respiratoires
+T48	labvalue 1829 1836	normaux
+T49	procedure 1883 1890	abdomen
+T50	labvalue 1897 1903	souple
+T51	disorder 1910 1918	douleurs
+T52	disorder 1945 1964	hépatosplénomégalie
+T53	procedure 1970 1982	auscultation
+T54	procedure 2137 2160	Analyses de laboratoire
+T55	procedure 2162 2172	NT-Pro-BNP
+T56	labvalue 2173 2185	>40 000 ng/l
+T57	procedure 2187 2198	troponine I
+T58	labvalue 2199 2206	normale
+T59	procedure 2208 2232	Alanine aminotransférase
+T60	labvalue 2236 2243	124 U/l
+T61	procedure 2245 2255	créatinine
+T62	labvalue 2259 2269	234 µmol/l
+T63	procedure 2278 2281	DFG
+T64	labvalue 2310 2319	22 ml/min
+T65	procedure 2321 2332	leucocytose
+T66	labvalue 2336 2345	11,81 G/l
+T67	procedure 2349 2369	pro­téine C réactive
+T68	procedure 2371 2374	CRP
+T69	labvalue 2379 2388	32,2 mg/l
+T70	procedure 2393 2412	électrocardiogramme
+T71	procedure 2414 2417	ECG
+T72	disorder 2431 2460	bloc de branche droit complet
+T73	disorder 2476 2484	ischémie
+T74	procedure 2488 2521	échocardiographie transthoracique
+T75	disorder 2569 2581	hypertrophie
+T76	labvalue 2611 2625	hyperdynamique
+T77	disorder 2687 2715	insuffisance mitrale modérée
+T78	disorder 2721 2747	oreillette gauche dilatée 
+T79	procedure 2774 2784	présentait
+T80	disorder 2789 2826	insuffisance tricuspide fonctionnelle
+T81	procedure 2921 2951	valeurs de pression pulmonaire
+T82	procedure 2983 3013	gradient de pression systoliqu
+T83	labvalue 3018 3026	43 mm Hg
+T84	procedure 3106 3144	pression de remplissage du ven­tricule
+T85	labvalue 3151 3160	augmentée
+T86	disorder 3236 3267	anévrisme de l’aorte abdominale
+T87	disorder 3332 3367	insuffisance cardiaque droite aiguë
+T88	procedure 3319 3329	diagnostic
+T89	disorder 3380 3405	insuffisance rénale aiguë
+T90	procedure 3509 3516	supposé
+T91	procedure 3534 3557	diagnostic différentiel
+T92	disorder 3565 3596	décompensation cardiaque droite
+T93	disorder 3644 3683	hypertension pulmonaire post-capillaire
+T94	disorder 3694 3716	insuffisance cardiaque
+T95	procedure 3792 3821	anticoagulation thérapeutique
+T96	disorder 3827 3847	embolies pulmonaires
+T97	procedure 3891 3909	tomoden­sitométrie
+T98	procedure 3911 3914	TDM
+T99	procedure 3979 4010	évènement ischémique coronarien
+T100	drugs 4083 4093	dobutamine
+T101	drugs 4103 4116	noradrénaline
+T102	procedure 4027 4075	recompensation et de stabilisation hémodynamique
+T103	procedure 4143 4166	assistance circulatoire
+T104	procedure 4223 4241	équilibre hydrique
+T105	labvalue 4242 4249	négatif
+T106	disorder 4335 4370	fibrillation auriculaire tachycarde
+T107	drugs 4375 4385	amiodarone
+T108	procedure 4393 4417	cardioversion électrique
+T109	disorder 4508 4533	insuffisance circulatoire
+T110	disorder 4555 4575	insuffisance rénale 
+T111	procedure 4591 4598	dialyse
+T112	procedure 4617 4626	transféré
+T113	procedure 4728 4738	traitement
+T114	disorder 4815 4841	état de choc cardiogénique
+T115	procedure 4910 4943	échocardiographie transthoracique
+T116	disorder 4954 4976	insuffisance cardiaque
+T117	procedure 4998 5031	cathétérisme artériel pulmonaire 
+T118	disorder 5075 5114	hypertension pulmonaire pré­-capillaire
+T119	procedure 5124 5154	pression artérielle pulmonaire
+T120	labvalue 5166 5174	32 mm Hg
+T121	procedure 5179 5194	index cardiaque
+T122	labvalue 5204 5216	4,2 l/min/m2
+T123	procedure 5224 5266	pression artérielle pulmonaire d’occlusion
+T124	labvalue 5270 5278	12 mm Hg
+T125	procedure 5289 5297	résultat
+T126	procedure 5344 5363	saturation veineuse
+T127	labvalue 5379 5383	 86%
+T128	procedure 5391 5419	saturation veineuse centrale
+T129	labvalue 5429 5432	46%
+T130	disorder 5512 5530	shunt gauche-droit
+T131	disorder 5571 5591	shunt intracardiaque
+T132	procedure 5608 5626	échocardio­graphie
+T133	disorder 5694 5714	shunt infracardiaque
+T134	procedure 5720 5730	angio­-TDM
+T135	disorder 5760 5778	fistule aorto-cave
+T136	disorder 5792 5807	anévrisme rompu
+T137	procedure 6014 6040	détérioration hémodynamiqu
+T138	procedure 6085 6107	réanimation ­mécanique
+T139	procedure 6129 6157	radiologie interventionnelle
+T140	procedure 6113 6125	intervention
+T141	disorder 6204 6211	fistule
+T142	procedure 6235 6274	mesures de réanimation cardiopulmonaire
+T143	procedure 6287 6326	système de compression thoracique LUCAS
+T144	procedure 6345 6392	cathéter à ballonnet intra-aortique d’occlusion
+T145	procedure 6416 6434	voie transfémorale
+T146	procedure 6446 6485	interruption de la circulation du shunt
+T147	procedure 6513 6523	stabilisée
+T148	disorder 6620 6628	fistule 
+T149	procedure 6660 6702	implantation d’une endoprothèse vasculaire
+T150	disorder 6840 6872	insuffisance circulatoire sévère
+T151	disorder 6910 6948	syndrome de défaillance multiviscérale
+T152	disorder 6954 6985	insuffisance respiratoire aiguë
+T153	procedure 7002 7023	ventilation mécanique
+T154	disorder 7025 7054	insuffisance hépatique sévère
+T155	disorder 7058 7083	insuffisance rénale aiguë
+T156	procedure 7100 7107	dialyse
+T157	disorder 7134 7140	fistul
+T158	procedure 7156 7177	 récupération rapide 
+T159	procedure 7237 7268	reprise de la diurèse spontanée
+T160	procedure 7286 7312	traitement de substitution
+T161	procedure 7384 7409	phase de réveil prolongée
+T162	procedure 7432 7439	extubé 
+T163	disorder 7444 7466	déficits neurologiques
+T164	disorder 7524 7538	choc ­septique
+T165	disorder 7574 7581	fistule
+T166	procedure 7586 7589	TDM
+T167	disorder 7603 7612	pneumonie
+T168	disorder 7638 7646	ischémie
+T169	disorder 7667 7677	pneumatose
+T170	procedure 7748 7770	gastrectomie partielle
+T171	procedure 7814 7838	stratégie thérapeutique 
+T172	drugs 7869 7901	inhibiteur de la pompe à protons
+T173	procedure 7905 7928	couverture antibiotique
+T174	procedure 7940 7962	nouvelle stabilisation
+T175	procedure 7981 7992	retransféré
+T176	procedure 8103 8123	traitement palliatif
+T177	procedure 8204 8213	transféré
+T178	irrelevant 8284 8294;8296 9057;9059 9834;9836 11187;11189 11859;11861 12846;12848 12876;12878 13015;13017 13298;13300 13417;13419 13539	Discussion  Les fistules aorto-caves sont très rares et dans 80% des cas, elles surviennent sur un terrain d’anévrisme aortique d’origine athérosclérotique [1]. En cas d’anévrismes rompus, leur fréquence s’élève à 2–7% [2]. Parmi les causes rares figurent une origine post-traumatique après des blessures pénétrantes ou les causes iatrogènes après interventions au niveau du rachis lombaire ou ponctions fémorales. Les fistules congénitales, y compris celles débouchant au niveau thoracique dans la veine cave supérieure, sont très rares [3]. Les fistules aorto­-caves sont le plus souvent localisées entre l’aorte abdominale et la veine cave inférieure. Des fistules entre les vaisseaux iliaques ou rénaux sont possibles et ont des répercussions hémodynamiques similaires.  Sur le plan pathogénique, c’est avant tout la taille de l’anévrisme existant qui joue un rôle. La tension pariétale augmentant parallèlement à la taille entraîne une nécrose de la paroi artérielle et finalement une réaction inflammatoire prononcée avec rupture de la veine adjacente. Il se produit une diminution de la résistance vasculaire systémique, avec augmentation consécutive du débit cardiaque. Il en résulte un état hémo­dynamique hyperdynamique avec élévation de la ­pression veineuse systémique. Selon la nature plus ou moins aiguë de l’évènement, cela peut donner lieu à une surcharge cardiaque aiguë ou subaiguë, qui peut typiquement conduire à la fois à une insuffisance cardiaque gauche et droite dans le cadre d’une insuffisance cardiaque à haut débit [1, 4].  Les fistules aorto-caves peuvent avoir une présen­tation clinique très variable en fonction de la vitesse de survenue et du volume du shunt. Les anomalies ­cliniques classiques incluent une masse abdominale pulsatile, un souffle abdominal systolo-diastolique continu, ainsi qu’une insuffisance cardiaque à haut ­débit avec dyspnée, pression veineuse jugulaire élevée, pression pulsée élevée et pouls périphériques faibles. Les autres manifestations potentielles sont l’expression de l’augmentation de la pression veineuse dans la partie inférieure du corps. En font partie l’insuffisance rénale aiguë, les œdèmes du scrotum ou des jambes pouvant aller jusqu’à la phlébite bleue, les veines variqueuses pulsatiles, l’hématurie et les hémorragies rectales. Des douleurs abdominales ou des maux de dos sont souvent présents [4]. En cas de shunt volumineux, un souffle peut faire totalement défaut, comme chez notre patient. Le diagnostic est souvent posé tardivement avec, comme dans notre cas, des conséquences potentiellement fatales. L’indice déterminant pour la pose du diagnostic a été obtenu après la mise en place du cathéter artériel pulmonaire, qui a indiqué la présence d’un shunt gauche-droit. Les états septiques ou anaphylactiques entrent également en ligne de compte dans le diagnostic différentiel de l’insuffisance cardiaque à haut débit.  L’angio-TDM représente l’examen de choix pour confirmer le diagnostic. Dans les situations aiguës, une fistule peut également être mise en évidence par échographie doppler. La visualisation directe de la veine cave inférieure montre alors les vitesses de flux pul­satile élevées correspondant au rythme cardiaque. L’examen diagnostique de référence reste néanmoins l’angiographie. L’importance de la pose précoce du diagnostic se reflète dans la mortalité très élevée qui est associée au développement d’un état de choc (mortalité allant jusqu’à 50%) ou au diagnostic fortuit uni­quement posé en intra-opératoire dans le cadre de la chirurgie ouverte d’un anévrisme [4].  L’interruption de la communication artério-veineuse entraîne une normalisation rapide de l’hémodynamique et des symptômes dus à la stase veineuse. La chirurgie ouverte des anévrismes ou des fistules représentait le traitement de choix jusqu’à l’avènement du traitement endovasculaire des anévrismes («endovascular aneurysm repair», EVAR). Dans le cadre d’un diagnostic précoce, une étude comparative des deux procédés a révélé une mortalité à 30 jours nettement plus faible (3,8%) après procédure interventionnelle par rapport à une fermeture de fistule par chirurgie ouverte (mortalité de 12%). Cet avantage de la stratégie endo­vasculaire disparaît néanmoins lorsque le diagnostic est posé trop tardivement et lorsque des complications graves sont déjà présentes avant l’intervention. Par ailleurs, après fermeture endovasculaire de fistule AV, il y a un risque de communication artério-veineuse persistante liée à une endofuite, ce qui peut nécessiter une deuxième intervention [2].  L’essentiel pour la pratique  • Les fistules aorto-caves sont une entité très rare et elles sont associées à une mortalité élevée en cas de pose tardive du diagnostic.  • En cas de symptômes d’une circulation hyperdynamique, en particulier avec insuffisance cardiaque droite, et/ou de signes cliniques de stase veineuse de la partie inférieure du corps, une fistule aorto-cave devrait toujours être envisagée dans le cadre du diagnostic différentiel.  • Un cathétérisme cardiaque droit peut fournir des indices déterminants quant à la présence d’une fistule aorto-cave.  • La confirmation précoce d’une suspicion par angio-TDM est essentielle pour le succès des interventions thérapeutiques.

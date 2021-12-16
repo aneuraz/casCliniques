@@ -1,0 +1,169 @@
+T1	irrelevant 10 625	Le magnésium est un minéral qui assure des fonctions centrales dans la régulation d’autres électrolytes et de nombreuses enzymes impliquées dans notre métabolisme. Il est également coresponsable de l’activation de la thiamine (vitamine B1) et joue ainsi un rôle essentiel dans le bon fonctionnement du système nerveux. Nous décrivons le cas d’une patiente atteinte d’un cancer du côlon qui, au cours du traitement par cétuximab, a développé une hypomagnésémie sévère et des symptômes encéphalopathiques impressionnants, qui se sont résolus rapidement et totalement après l’administration de magnésium et de thiamine
+T2	procedure 648 656	Anamnèse
+T3	disorder 691 737	 adénocarcinome du côlon sigmoïde pT3 pN2b cM0
+T4	procedure 770 798	résection recto-sigmoïdienne
+T5	procedure 815 829	sigmoïdostomie
+T6	procedure 854 868	chimiothérapie
+T7	drugs 883 890	FOLFOX4
+T8	procedure 990 1015	réséquée chirurgicalement
+T9	disorder 943 983	métastase solitaire dans l’annexe droite
+T10	disorder 1119 1132	radiothérapie
+T11	procedure 1030 1038	récidive
+T12	procedure 925 933	récidive
+T13	procedure 1185 1193	récidive
+T14	disorder 1220 1308	métastases au niveau des ganglions lymphatiques supraclaviculaires et axillaires gauches
+T15	procedure 1339 1360	traitement systémique
+T16	procedure 1364 1385	analyse mutationnelle
+T17	disorder 1392 1398	tumeur
+T18	procedure 1479 1493	immunothérapie
+T19	drugs 1586 1598	 leucovorine
+T20	drugs 1599 1609	irinotécan
+T21	drugs 1610 1623	fluorouracile
+T22	drugs 1625 1632	FOLFIRI
+T23	drugs 1656 1685	anticorps anti-EGFR cétuximab
+T24	procedure 1730 1740	traitement
+T25	disorder 1824 1831	nausées
+T26	disorder 1850 1860	dysgueusie
+T27	disorder 1866 1886	douleurs abdominales
+T28	disorder 1894 1908	perte de poids
+T29	disorder 1980 2005	difficultés à s’alimenter
+T30	procedure 2025 2037	hospitalisée
+T31	procedure 2048 2062	chimiothérapie
+T32	procedure 2063 2077	immunothérapie
+T33	drugs 2091 2102	médicaments
+T34	drugs 2120 2131	périndopril
+T35	drugs 2143 2153	indapamide
+T36	drugs 2162 2172	éplérénone
+T37	disorder 2188 2211	hypertension artérielle
+T38	drugs 2234 2244	bisoprolol
+T39	drugs 2259 2267	apixaban
+T40	disorder 2277 2301	fibrillation auriculaire
+T41	procedure 2304 2319	Examen clinique
+T42	disorder 2357 2377	état général diminué
+T43	procedure 2635 2650	examen clinique
+T44	disorder 2698 2712	pâleur cutanée
+T45	disorder 2719 2783	gonflement des ganglions lymphatiques supraclaviculaires gauches
+T46	disorder 2787 2817	ectasies veineuses thoraciques
+T47	disorder 2825 2851	 lymphœdème du bras gauche
+T48	procedure 2854 2864	Diagnostic
+T49	procedure 2870 2878	analyses
+T50	procedure 2928 2940	 hémoglobine
+T51	procedure 3000 3009	potassium
+T52	labvalue 3010 3020	2,9 mmol/l
+T53	procedure 2964 2970	sodium
+T54	labvalue 2971 2981	136 mmol/l
+T55	procedure 3039 3046	calcium
+T56	labvalue 3047 3059	1,27 mmol/l 
+T57	procedure 3077 3086	phosphate
+T58	labvalue 3087 3099	1,32 mmol/l 
+T59	procedure 3119 3127	albumine
+T60	labvalue 3128 3134	32 g/l
+T61	labvalue 2941 2948	112 g/l
+T62	procedure 3148 3158	créatinine
+T63	labvalue 3159 3169	122 µmol/l
+T64	procedure 3187 3210	Traitement et évolution
+T65	procedure 3243 3267	substitution liquidienne
+T66	procedure 3275 3303	supplémentation en potassium
+T67	disorder 3358 3380	faible taux de calcium
+T68	disorder 3388 3409	carence en vitamine D
+T69	procedure 3480 3493	parathormone 
+T70	labvalue 3539 3550	10,8 pmol/l
+T71	procedure 3569 3576	calcium
+T72	procedure 3586 3597	vitamine D3
+T73	disorder 3632 3640	 nausées
+T74	procedure 3678 3690	gastroscopie
+T75	disorder 3715 3732	ulcères duodénaux
+T76	procedure 3758 3790	traitement suppresseur d’acidité
+T77	drugs 3794 3807	 pantoprazole
+T78	disorder 3893 3902	faiblesse
+T79	disorder 3934 3961	changements de personnalité
+T80	disorder 3967 3981	désorientation
+T81	disorder 3987 4017	difficultés à trouver les mots
+T82	disorder 4023 4039	troubles visuels
+T83	disorder 4053 4060	apathie
+T84	disorder 4100 4112	paresthésies
+T85	disorder 4118 4128	myoclonies
+T86	disorder 4136 4156	démarche mal assurée
+T87	procedure 4162 4170	réflexes
+T88	labvalue 4179 4187	faibles 
+T89	disorder 4193 4224	force était globalement réduite
+T90	procedure 4231 4280	imagerie par résonance magnétique (IRM) crânienne
+T91	procedure 4286 4308	électroencéphalogramme
+T92	procedure 4310 4313	EEG
+T93	disorder 4363 4388	symptômes cérébraux aigus
+T94	procedure 4470 4486	 supplémentation
+T95	procedure 4491 4501	 analyses 
+T96	disorder 4548 4560	hypokaliémie
+T97	disorder 4582 4594	hypocalcémie
+T98	disorder 4609 4623	hypomagnésémie
+T99	labvalue 4562 4572	2,8 mmol/l
+T100	labvalue 4635 4646	0,17 mmol/l
+T101	procedure 4711 4730	électrocardiogramme
+T102	procedure 4732 4735	ECG
+T103	disorder 4749 4773	fibrillation auriculaire
+T104	procedure 4829 4844	supplémentation
+T105	procedure 4877 4892	supplémentation
+T106	procedure 4848 4857	potassium
+T107	procedure 4864 4871	calcium
+T108	procedure 4901 4911	 magnésium
+T109	disorder 4956 4970	perte de poids
+T110	disorder 5049 5061	malnutrition
+T111	disorder 5064 5076	 dénutrition
+T112	procedure 5112 5135	diagnostic différentiel
+T113	disorder 5158 5181	syndrome de renutrition
+T114	disorder 5200 5227	encéphalopathie de Wernicke
+T115	procedure 5276 5286	traitement
+T116	drugs 5291 5299	thiamine
+T117	drugs 5345 5353	thiamine
+T118	procedure 5585 5600	supplémentation
+T119	procedure 5708 5720	 traitement 
+T120	drugs 5723 5733	 anticorps
+T121	procedure 5743 5758	supplémentation
+T122	procedure 5775 5784	magnésium
+T123	procedure 5787 5796	 thiamine
+T124	disorder 6014 6049	perte rénale excessive de magnésium
+T125	procedure 6088 6108	traitement anti-EGFR
+T126	drugs 6113 6122	cétuximab
+T127	disorder 6154 6182	cancer du côlon métastatique
+T128	disorder 6199 6235	symptômes encéphalopathiques sévères
+T129	disorder 6261 6275	hypomagnésémie
+T130	disorder 6325 6358	faible concentration de magnésium
+T131	disorder 6404 6419	encéphalopathie
+T132	procedure 6572 6588	supplémentation 
+T133	drugs 6591 6599	thiamine
+T134	disorder 6743 6776	­véritable carence en vitamine B1
+T135	disorder 6785 6822	 carence fonctionnelle en vitamine B1
+T136	procedure 6980 7005	reprise de l’alimentation
+T137	disorder 6850 6901	 réserves de thiamine étaient effectivement faibles
+T138	disorder 7112 7132	carence en magnésium
+T139	disorder 7252 7266	hypomagnésémie
+T140	disorder 7479 7529	­inhibition de la pompe sodium-potassium tubulaire
+T141	disorder 7536 7561	perte rénale de potassium
+T142	disorder 7691 7703	hypocalcémie
+T143	disorder 7752 7773	carence en vitamine D
+T144	disorder 8161 8177	 hypomagnésémie 
+T145	disorder 8259 8279	alimentation réduite
+T146	disorder 8386 8398	perte rénale
+T147	procedure 8464 8475	médicaments
+T148	risk 8546 8556	indapamide
+T149	risk 8560 8592	inhibiteur de la pompe à protons
+T150	risk 8604 8633	anticorps anti-EGFR cétuximab
+T151	disorder 8638 8663	perte rénale de magnésium
+T152	risk 8678 8688	indapamide
+T153	risk 8734 8737	IPP
+T154	disorder 8743 8757	hypomagnésémie
+T155	disorder 9038 9052	hypomagnésémie
+T156	disorder 9215 9297	forte densité de récepteurs de l’EGF dans la branche ascendante de l’anse de Henlé
+T157	disorder 9101 9120	perte de magnésium 
+T158	disorder 9314 9336	excrétion du magnésium
+T159	disorder 9487 9509	réabsorption ­réduite 
+T160	disorder 9348 9379	blocage des récepteurs de l’EGF
+T161	disorder 9572 9584	perte rénale
+T162	irrelevant 9611 10169	L’hypomagnésémie constitue un effet de classe des anti­corps anti-EGFR: elle s’observe chez environ 30% des patients sous cétuximab [6]. Des symptômes sévères, comme chez notre patiente, sont rares. Un cas similaire d’hypomagnésémie et de perte de conscience sous cétuximab a été décrit dans la littérature [7]. Bien que la supplémentation orale en magnésium ne suffise généralement pas pour compenser les pertes rénales [8], la faible concentration sérique de magnésium reste le plus souvent asymptomatique et le traitement par cétuximab peut être poursuivi
+T163	drugs 10226 10236	­cétuximab
+T164	drugs 8994 9004	cétuximab 
+T165	drugs 9135 9145	cétuximab 
+T166	procedure 10278 10299	supplémentation orale
+T167	procedure 10327 10338	­magnésium 
+T168	procedure 10350 10359	 thiamine
+T169	irrelevant 10549 10577;10579 10770;10772 10874;10876 11007;11009 11172;11174 11321	L’essentiel pour la pratique  • Au cours du traitement par anticorps anti-EGFR (cétuximab ou panitumumab), une perte rénale de magnésium peut se développer, ce qui constitue un effet de classe de ce groupe de médicaments.  • Les hypomagnésémies sont fréquentes, mais elles évoluent le plus ­souvent de manière asymptomatique.  • Les hypomagnésémies très prononcées peuvent s’accompagner de troubles électrolytiques sévères et de symptômes encéphalopathiques.  • Les symptômes encéphalopathiques s’expliquent en partie par une ­carence en thiamine, car le magnésium est un cofacteur important de l’efficacité de la thiamine.  • Au cours d’un traitement par cétuximab, des mesures régulières de la concentration de magnésium et une supplémentation précoce sont ­recommandées

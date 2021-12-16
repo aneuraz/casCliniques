@@ -1,0 +1,85 @@
+Description du cas
+
+Une patiente de 58 ans, connue pour une hypertension artérielle traitée, est adressée par son médecin traitant pour prise en charge d’une hypercalcémie sévère. La patiente relate une fatigue progressive et des douleurs lombaires non déficitaires évoluant depuis 2 mois. L’anamnèse par système effectuée aux urgences n’est pas contributive. Son traitement comprend de l’amlodipine et du paracétamol en réserve.
+
+Au status, les paramètres vitaux sont dans la norme, la patiente est euvolémique et orientée aux 3 modes. Le bilan biologique montre une calcémie totale et corrigée à 4,2 mmol/l (norme: 2,10–2,42 mmol/l), un taux d’albumine à 39 g/l (norme: 34–48 g/l), un taux de phosphore à 0,75 mmol/l (norme: 0,87–1,45 mmol/l), un taux de parathormone (PTH) à 24,5 ng/l (norme: 10–65 ng/l) et de vitamine D à 11 ng/ml (norme: >30), un taux de créatinine à 95 umol/l (eGFR 60 ml/min) et un taux d’hémoglobine à 105 g/l Le taux de phosphatases alcalines (PAL) est à 90 U/l (norme: 30–100 U/l).
+
+L’ECG révèle un rythme sinusal régulier avec un intervalle QT dans la norme. L’électrophorèse des protéines et l’immunofixation montrent une hypergamma­globulinémie importante et une gammapathie monoclonale à IgG Kappa. Le bilan est complété par une ponction-biopsie de moelle (PBM) qui montre une moelle hypercellulaire avec une infiltration diffuse par des plasmocytes occupant >90% de la moelle osseuse. Le diagnostic de myélome multiple est alors posé.
+
+Question: Comment interprétez-vous l’hypercalcémie et qu’effectuez-vous ensuite?
+
+
+a) L’hypercalcémie est due à des lésions ostéolytiques et ­nécessite un traitement par hydratation, biphosphonates et calcitonine qui doit être instauré rapidement.
+
+b) Une pseudohypercalcémie ne peut pas être exclue et un dosage du calcium ionisé doit être considéré.
+
+c) Une hyperparathyroïdie primaire doit être recherchée.
+
+d) Il s’agit d’une intoxication à la vitamine D.
+
+Réponse:
+
+
+La réponse correcte est b.
+
+Discussion
+
+Le calcium est le minéral le plus abondant dans le corps humain et participe à de nombreuses fonctions intracellulaires, y compris la différenciation et la division cellulaires, la sécrétion des hormones, et la contraction musculaire, ainsi qu’à des fonctions extracellulaires comme la coagulation sanguine, la transmission neuromusculaire et l’intégrité de membrane. 99% du calcium est stocké dans le squelette sous forme d’hydroxyapatite (1 kg pour un adulte de 70 kg) et le reste, 1% dans le liquide extracellulaire [1]. La calcémie totale est constituée d’environ 50% de calcium ionisé, 10% de calcium complexé avec des anions (sulfate, citrate, bicarbonate, lactates, oxalates, acétates, acides gras), le reste étant transporté par les protéines (¾ liés à l’albumine et ¼ aux globulines) (fig. 1). Le calcium ionisé (Ca2+) représente la forme physiologiquement active et ses valeurs de référence sont entre 1,15 et 1,30 mmol/l. Nous pouvons l’estimer par dosage direct, dosage du calcium total ou correction de ce dernier.
+
+Figure 1: Composantes du calcium total (Source: Marzouk S, Deom A. Fiche Technique 23: Dosage du calcium et du phosphate. Mars 2009. © Centre Suisse de Contrôle de Qualité (CSCQ). Reproduction avec l’aimable autorisation du CSCQ).
+
+La teneur en protéines, et en particulier en albumine, influence le taux de calcium lié aux protéines et par conséquent la fraction ionisée du calcium. Par exemple, une hypoalbuminémie entraine une baisse du calcium lié aux protéines et une augmentation de la calcémie ionisée. Par ailleurs, la concentration du calcium ionisé est pH-dépendante, vu qu’il existe une compétition entre le calcium et les protons vis-à-vis des récepteurs des protéines et principalement de l’albumine. Par conséquent, une acidose aiguë augmente la fraction de calcium ionisé, et une alcalose la diminue.
+
+La plupart des laboratoires utilisent des formules de correction pour calculer un calcium total «corrigé», qui reflète de manière plus fiable la calcémie ionisée. La correction se fait en fonction du taux de protéines ou de l’albumine, selon les formules de Parfitt:
+
+Calcium corrigé = Calcium total [mmol/l] + [(40 – Albumine [g/l]) / 40]
+
+ou
+
+Calcium total [mmol/l] / [0,55 + (Protéines [g/l] /160)].
+
+Il existe de nombreuses formules de correction et leur grande diversité montre qu’aucune ne s’est imposée au fils du temps. A noter que les formules de Parfitt ne prennent pas en compte les modifications de pH, elles ne sont donc pas adaptées aux patients avec des troubles acido-basiques aigus.
+
+La correction apportée par ces formules ne permet pas toujours une estimation du statut calcique comparable à la calcémie ionisée, dont la mesure est possible par potentiométrie directe utilisant des électrodes sélectives aux ions («ion selective electrode» [ISE]). Une revue de la littérature publiée en 2003 [2] qui a comparé la mesure du calcium ionisé et les formules de correction a montré que la mesure du calcium ionisé reste la méthode de choix pour l’estimation du statut calcique. De nombreuses études ont démontré que le dosage direct du calcium ionisé est supérieur au calcium corrigé chez les patients hospitalisés aux soins intensifs (hypo­albuminémie, acidémie, perfusion de lipides), avec insuffisance rénale chronique avancée (altération du pH, fluctuations de l’albumine), qui reçoivent des transfusions sanguines (citrate), atteints d’hyperparathyroïdie et dans le cas d’hypercalcémie d’origine néoplasique [3].
+
+Utilité du test
+
+Pourquoi alors préférons-nous doser le calcium total et corriger sa valeur par rapport au taux de protéines (ou albumine) au lieu de faire un dosage direct du calcium ionisé? La réponse est que ce dernier nécessite des conditions préanalytiques strictes avec un soin particulier aux conditions de prélèvement, à la conservation de ces derniers et à leur transport, ce qui rend cet examen coûteux et techniquement sophistiqué. Le dosage de calcium ionisé se fait sur les mêmes machines que les gazométries. Il nécessite une analyse immédiate et le prélèvement doit être maintenu dans des conditions anaérobes. Son résultat peut être calculé au pH de l’échantillon ou ramené à pH = 7,4. Le dosage de calcium total n’a pas besoin de conditions analytiques strictes. Il est mesuré sur les analyseurs principaux des laboratoires par des techniques colorimétriques. Concernant le prix, le calcium ionisé correspond à 25 points LA (LA = liste des analyses) (1 point = 1 CHF en 2019) alors que le calcium total à 2,5 points LA, soit 10 fois moins. Pour obtenir le calcium corrigé, il faut ajouter l’albumine à la demande d’analyse ce qui augmente la facturation de 2,5 points LA.
+
+Bénéfice du dosage pour notre patient
+
+La patiente de la vignette clinique a reçu un traitement par hydratation, calcitonine et acide zolédronique avec une diminution de la calcémie totale à 3,2 mmol/l au contrôle de 24 heures. A ce moment et en l’absence de symptômes d’hypercalcémie à l’entrée, un dosage du calcium ionisé a été effectué qui s’est relevé à 1,05 mmol/l. Le diagnostic d’une pseudohypercalcémie a été retenu et une substitution par calcium et vitamine D a été débutée. Une hyperparathyroïdie primaire et une intoxication à la vitamine D ont été exclues sur la base des résultats de laboratoire. Par ailleurs, le taux de phosphatases alcalines dans la norme parle en défaveur d’un remodelage osseux exagéré qui peut être li à une hyperpara­thyroïdie ou à des métastases osseuses.
+
+L’hypercalcémie est présente chez >10% des patients avec un myélome multiple au moment du diagnostic. Une hypercalcémie sévère (i.e. >3,5 mmol/l) est toujours associée à des symptômes. Ces derniers peuvent être d’origine digestive et urinaire (constipation, nausées, vomissements, polyurie, polydipsie), neuro­psychiatrique (léthargie, confusion, convulsions). Des arythmies cardiaques et des modifications ECG, notamment un raccourcissement de l’intervalle QT, peuvent être observées. Dans les formes sévères, une insuffisance rénale nécessitant une hémodialyse et un coma peuvent survenir.
+
+La majorité des patients avec un myélome multiple et une hypercalcémie ne nécessite pas un dosage du calcium ionisé. Toutefois, en l’absence de symptômes, un dosage de la fraction ionisée doit être effectué afin d’infirmer une pseudohypercalcémie vu qu’une protéine monoclonale peut fixer anormalement du calcium [4]. Ceci est important afin d’éviter un traitement excessif (ou inutile) de l’hypercalcémie.
+
+Pour résumer, une hypercalcémie sévère asymptomatique devrait requérir la mesure d’un calcium ionisé. Le tableau 1 indique les situations au cours desquelles le dosage du calcium ionisé, total et corrigé doit être préféré.
+
+Tableau 1: Dosage du calcium: Quand préféré quel méthode? (Source: Marzouk S, Deom A. Fiche Technique 23: Dosage du calcium et du phosphate. Mars 2009. © Centre Suisse de Contrôle de Qualité (CSCQ). Reproduction avec l’aimable auto­risation du CSCQ).
+Méthode 1:Dosage ducalcium ionisé	Méthode 2:Dosage ducalcium total	Méthode 3:Calcul ducalcium corrigé
+En cas de:– Modification du pH sanguin: acidoses ou alcaloses– Modification importante de la teneur en albumine: ­syndromes néphrotiques, grands brûlés, cirrhoses– Modification de la concentration sérique des bicarbonates, des lactates, de citrates (transfusions de sang ­citraté ­massives ou répétées)– Myélome: pour décider d’un traitement hypocalcémiant. Cependant pour évaluer la masse tumorale du myélome, c’est le dosage du calcium total qui est préconisé.	En cas de:– Taux de protéines et pH dans les ­limites de la norme	En cas de: – Hypoprotéinémie:• insuffisance hépatique• malnurition– Hyperprotéinémie:• syndrome inflammatoire• traitement par les diurétiques
+Messages principaux
+
+• La mesure du calcium ionisé reflète de manière fiable et physiologiquement relevant le statut calcique.
+
+• Une hypercalcémie sévère asymptomatique devrait requérir la mesure d’un calcium ionisé.
+
+Bénéfice du dosage pour notre patient
+
+La patiente de la vignette clinique a reçu un traitement par hydratation, calcitonine et acide zolédronique avec une diminution de la calcémie totale à 3,2 mmol/l au contrôle de 24 heures. A ce moment et en l’absence de symptômes d’hypercalcémie à l’entrée, un dosage du calcium ionisé a été effectué qui s’est relevé à 1,05 mmol/l. Le diagnostic d’une pseudohypercalcémie a été retenu et une substitution par calcium et vitamine D a été débutée. Une hyperparathyroïdie primaire et une intoxication à la vitamine D ont été exclues sur la base des résultats de laboratoire. Par ailleurs, le taux de phosphatases alcalines dans la norme parle en défaveur d’un remodelage osseux exagéré qui peut être li à une hyperpara­thyroïdie ou à des métastases osseuses.
+
+L’hypercalcémie est présente chez >10% des patients avec un myélome multiple au moment du diagnostic. Une hypercalcémie sévère (i.e. >3,5 mmol/l) est toujours associée à des symptômes. Ces derniers peuvent être d’origine digestive et urinaire (constipation, nausées, vomissements, polyurie, polydipsie), neuro­psychiatrique (léthargie, confusion, convulsions). Des arythmies cardiaques et des modifications ECG, notamment un raccourcissement de l’intervalle QT, peuvent être observées. Dans les formes sévères, une insuffisance rénale nécessitant une hémodialyse et un coma peuvent survenir.
+
+La majorité des patients avec un myélome multiple et une hypercalcémie ne nécessite pas un dosage du calcium ionisé. Toutefois, en l’absence de symptômes, un dosage de la fraction ionisée doit être effectué afin d’infirmer une pseudohypercalcémie vu qu’une protéine monoclonale peut fixer anormalement du calcium [4]. Ceci est important afin d’éviter un traitement excessif (ou inutile) de l’hypercalcémie.
+
+Pour résumer, une hypercalcémie sévère asymptomatique devrait requérir la mesure d’un calcium ionisé. Le tableau 1 indique les situations au cours desquelles le dosage du calcium ionisé, total et corrigé doit être préféré.
+
+Tableau 1: Dosage du calcium: Quand préféré quel méthode? (Source: Marzouk S, Deom A. Fiche Technique 23: Dosage du calcium et du phosphate. Mars 2009. © Centre Suisse de Contrôle de Qualité (CSCQ). Reproduction avec l’aimable auto­risation du CSCQ).
+Méthode 1:Dosage ducalcium ionisé	Méthode 2:Dosage ducalcium total	Méthode 3:Calcul ducalcium corrigé
+En cas de:– Modification du pH sanguin: acidoses ou alcaloses– Modification importante de la teneur en albumine: ­syndromes néphrotiques, grands brûlés, cirrhoses– Modification de la concentration sérique des bicarbonates, des lactates, de citrates (transfusions de sang ­citraté ­massives ou répétées)– Myélome: pour décider d’un traitement hypocalcémiant. Cependant pour évaluer la masse tumorale du myélome, c’est le dosage du calcium total qui est préconisé.	En cas de:– Taux de protéines et pH dans les ­limites de la norme	En cas de: – Hypoprotéinémie:• insuffisance hépatique• malnurition– Hyperprotéinémie:• syndrome inflammatoire• traitement par les diurétiques
+Messages principaux
+
+• La mesure du calcium ionisé reflète de manière fiable et physiologiquement relevant le statut calcique.
+
+• Une hypercalcémie sévère asymptomatique devrait requérir la mesure d’un calcium ionisé.

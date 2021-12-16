@@ -1,0 +1,85 @@
+T1	disorder 72 92	alcoolisme chronique
+T2	disorder 100 110	glycosurie
+T3	disorder 128 150	intoxication tabagique
+T4	disorder 666 684	 gêne respiratoire
+T5	disorder 774 816	dyspnée et altération de l'état général ++
+T6	disorder 817 869	 crépitants et ronchis dans les 2 champs pulmonaires
+T7	procedure 910 925	hospitalisation
+T8	disorder 1576 1594	douleur thoracique
+T9	disorder 1634 1651	perd connaissance
+T10	procedure 1758 1774	score de Glasgow
+T11	labvalue 1777 1778	3
+T12	procedure 1788 1800	pouls radial
+T13	disorder 1816 1837	turgescence jugulaire
+T14	disorder 1845 1867	cyanose des extrémités
+T15	procedure 1882 1887	'ECG 
+T16	disorder 1914 1940	sus-décalage du segment ST
+T17	procedure 2101 2122	ventilation mécanique
+T18	drugs 2203 2213	adrénaline
+T19	disorder 2314 2325	hypotension
+T20	procedure 2339 2352	PA systolique
+T21	labvalue 2355 2362	70 mmHg
+T22	procedure 2376 2388	remplissage 
+T23	drugs 2433 2443	dobutamine
+T24	disorder 2487 2511	syndrome coronarien aigu
+T25	procedure 2533 2540	no-flow
+T26	labvalue 2551 2557	20 min
+T27	procedure 2576 2584	low flow
+T28	labvalue 2587 2592	5 min
+T29	procedure 2653 2668	coronarographie
+T30	disorder 2727 2751	sténose de l'IVA moyenne
+T31	procedure 2842 2857	coronarographie
+T32	procedure 2973 2983	radiologie
+T33	procedure 2990 3006	scanner cérébral
+T34	procedure 3100 3124	angioscanner thoracique 
+T35	disorder 3194 3215	poumons pathologiques
+T36	disorder 3223 3255	images en verre dépoli, diffuses
+T37	disorder 3273 3315	épaississements des septa inter-lobulaires
+T38	disorder 3333 3351	aspect pavimenteux
+T39	disorder 3358 3412	ondensations alvéolaires déclives prédominant à gauche
+T40	disorder 3420 3452	ganglions médiastinaux multiples
+T41	disorder 3503 3542	œdème pulmonaire possiblement lésionnel
+T42	procedure 3607 3618	réanimation
+T43	procedure 3623 3628	bilan
+T44	disorder 3634 3648	état d'un coma
+T45	procedure 3668 3671	 PA
+T46	labvalue 3674 3685	131/73 mmHg
+T47	drugs 3691 3701	adrénaline
+T48	procedure 3712 3714	FC
+T49	labvalue 3717 3724	126/min
+T50	disorder 3726 3748	marbrures généralisées
+T51	disorder 3750 3796	pouls périphériques tous perçus et symétriques
+T52	procedure 3829 3833	FiO2
+T53	labvalue 3836 3840	95 %
+T54	procedure 3844 3848	PEEP
+T55	labvalue 3851 3855	5 cm
+T56	procedure 3904 3918	Biologiquement
+T57	procedure 3921 3923	pH
+T58	labvalue 3925 3930	 6,93
+T59	procedure 3932 3939	Pa CO2 
+T60	labvalue 3941 3948	44 mmHg
+T61	procedure 3950 3954	PaO2
+T62	labvalue 3957 3964	94 mmHg
+T63	procedure 3965 3971	 SaO2 
+T64	labvalue 3972 3977	 89 %
+T65	procedure 3979 3990	Créatinémie
+T66	labvalue 3993 4004	252 µmol/L 
+T67	procedure 4006 4015	Troponine
+T68	labvalue 4018 4027	1,19 µg/L
+T69	procedure 4031 4034	ECG
+T70	disorder 4037 4061	Fibrillation auriculaire
+T71	disorder 4063 4085	Bloc de branche gauche
+T72	disorder 4086 4114	 absence d'onde Q de nécrose
+T73	procedure 4117 4133	Radio thoracique
+T74	disorder 4135 4185	 infiltration alvéolaire interstitielle bilatérale
+T75	procedure 4188 4204	Bilan infectieux
+T76	procedure 4207 4220	hémocultures 
+T77	procedure 4233 4255	 Aspiration bronchique
+T78	labvalue 4256 4264	positive
+T79	procedure 4325 4349	traitement symptomatique
+T80	disorder 4359 4385	défaillance multiviscérale
+T81	procedure 4402 4424	épuration extra-rénale
+T82	disorder 4589 4616	 arrêt cardio-respiratoire 
+T83	disorder 4661 4697	pathologie interstitielle pulmonaire
+T84	disorder 4703 4729	adénopathies médiastinales
+T85	irrelevant 4752 4919	Assignation du médecin généraliste devant le tribunal de grande instance par l'épouse du patient pour obtenir réparation du préjudice qu’elle avait subi (octobre 2012)

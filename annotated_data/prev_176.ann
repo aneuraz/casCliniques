@@ -1,0 +1,14 @@
+T1	procedure 115 127	pénicillines
+T2	disorder 409 431	forte éruption cutanée
+T3	disorder 443 456	démangeaisons
+T4	disorder 478 497	bouffées de chaleur
+T5	procedure 558 581	traitement local cutané
+T6	disorder 637 661	exanthème maculopapuleux
+T7	disorder 674 694	sensation de cuisson
+T8	disorder 707 713	prurit
+T9	disorder 867 894	intoxication médicamenteuse
+T10	disorder 972 979	malaise
+T11	disorder 1152 1172	'éruptions cutanées,
+T12	disorder 1257 1264	fatigue
+T13	disorder 1272 1302	sensibilité cutanée importante
+T14	risk 64 73	allergies

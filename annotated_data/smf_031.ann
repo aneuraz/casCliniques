@@ -1,0 +1,25 @@
+T1	disorder 114 157	douleurs épigastriques spasmodiques aiguës 
+T2	disorder 213 246	cholécystolithiase asymptomatique
+T3	disorder 372 380	diarrhée
+T4	procedure 689 711	analyses biochimiques 
+T5	labvalue 771 837	aux de gamma-­glutamyl-transférases (GGT) de 163 U/l (N: 8–61 U/l)
+T6	labvalue 841 899	aspartate aminotransférase (ASAT) de 44 U/l (N: 10–35 U/l)
+T7	labvalue 905 961	alanine aminotransférase (ALAT) de 58 U/l (N: 10–35 U/l)
+T8	labvalue 1000 1022	bilirubine: 5,6 μmol/l
+T9	labvalue 1023 1054	 phosphatases alcalines: 84 U/l
+T10	procedure 1300 1322	échographie abdominale
+T11	labvalue 1344 1414	épaississement de la paroi de la vésicule biliaire allant jusqu’à 4 mm
+T12	disorder 1424 1476	concrétion de taille importante et de diamètre >1 cm
+T13	disorder 1483 1489	sludge
+T14	disorder 1916 1936	douleur ipsilatérale
+T15	procedure 1942 1955	décompression
+T16	disorder 1959 1982	signe de Murphy positif
+T17	procedure 1987 2005	 tomodensitométrie
+T18	procedure 2007 2010	TDM
+T19	disorder 2053 2170	aérobilie des voies biliaires intra- et ­extra-hépatiques avec un conduit hépatocholédoque non dilaté et rempli d’air
+T20	disorder 2189 2233	 cholécystolithiase calcifiante périphérique
+T21	disorder 2982 3038	Cholécystolithiase compliquée avec signe de cholécystite
+T22	disorder 3055 3077	fistule biliodigestive
+T23	procedure 3257 3272	 laparoscopique
+T24	drugs 3734 3743	Hem-o-lok
+T25	procedure 3867 3894	uturée avec Endo-GIA™ 30 mm

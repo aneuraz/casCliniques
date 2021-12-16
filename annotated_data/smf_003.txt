@@ -1,0 +1,74 @@
+Contexte
+
+En cas de toux, de fièvre et de paramètres inflammatoires élevés dans le sang, une pneumonie bactérienne en est souvent à l’origine. En l’absence de réponse adéquate sous traitement antibiotique, d’autres diagnostics différentiels devraient rapidement être envisagés, y compris une étiologie médicamenteuse en cas de traitement médicamenteux préexistant.
+
+Présentation du cas
+Anamnèse
+
+Un patient de 70 ans s’est présenté dans notre service des urgences en raison d’une détérioration progressive de son état général depuis quelques jours, avec une dyspnée d’effort croissante, une baisse des performances et une perte d’appétit, ainsi qu’une toux sèche et des douleurs thoraciques lancinantes respiro-dépendantes. Parmi ses antécédents médicaux figurait une néoplasie myéloproliférative de type «myélofibrose primaire», qui avait été diagnostiquée il y a six semaines et était traitée depuis un mois par hydroxy­urée (HU) en raison de troubles microcirculatoires symptomatiques avec thrombocytose (plaquettes 730 G/l).
+
+Le patient avait attribué les symptômes pulmonaires nouvellement survenus à la récente augmentation de la dose d’HU de 500 mg/j à 1000 mg/j, raison pour ­laquelle il a arrêté ce traitement quatre jours avant la consultation aux urgences.
+
+Après que la gazométrie artérielle a révélé une insuffisance respiratoire partielle, une embolie pulmonaire a été exclue par tomodensitométrie (TDM). Cet examen a cependant révélé des opacités en verre dépoli tachetées bilatérales à prédominance apicale, de légers épanchements pleuraux, ainsi qu’une lymphadénopathie médiastinale et bihilaire (fig. 1).
+
+Figure 1: Tomodensitométrie thoracique (coupe coronale) montrant des opacités en verre dépoli tachetées à prédominance apicale.
+
+En raison d’une anamnèse concordante avec toux et paramètres inflammatoires élevés dans le sérum, le diagnostic de suspicion de pneumonie a été posé. Sous antibiothérapie empirique par amoxicilline/acide clavulanique et clarithromycine, les symptômes se sont améliorés et la valeur de la protéine C réactive (CRP) a régressé de façon adéquate, si bien que le patient a pu rentrer chez lui après une hospitalisation de six jours. A sa sortie de l’hôpital, le traitement cytoréducteur par HU a été repris à une dose de 500 mg/j.
+
+Deux jours après sa sortie, le patient s’est représenté avec une dyspnée d’effort à nouveau plus intense, une toux et de la fièvre.
+
+Examen clinique
+
+Lorsqu’il s’est présenté au service des urgences, le patient avait une fièvre élevée et était hémodynamiquement stable (température 39,9 °C, pression artérielle 144/78 mm Hg à gauche, 153/74 mm Hg à droite, fréquence cardiaque 88/min, fréquence respiratoire 20/min), avec une insuffisance respiratoire partielle aiguë (pression partielle artérielle en oxygène [paO2] 6,89 kPa, pression partielle artérielle en dioxyde de carbone [paCO2] 3,63 kPa, saturation artérielle en oxygène [SaO2] 88% en air ambiant). Lors de l’examen clinique, de discrets râles ont été perçus au niveau des deux bases à l’auscultation. L’examen clinique était au demeurant sans particularités, à l’exception de la splénomégalie prononcée dans le cadre de la néoplasie myéloproliférative connue.
+
+Résultats
+
+Les analyses de laboratoire ont à nouveau révélé des paramètres inflammatoires élevés (CRP 152 mg/l, leucocytes 25 G/l, neutrophiles 22 G/l). La radiographie conventionnelle des poumons a montré des plages de diminution de transparence en fines taches prédominant au niveau des lobes supérieurs, correspondant aux opacités en verre dépoli constatées lors de la tomodensitométrie préalable. L’examen a en outre révélé des épanchements pleuraux bilatéraux, ainsi que des signes de congestion veineuse pulmonaire avec lignes de Kerley B et manchon péribronchique (fig. 2).
+
+Figure 2: Radiographie thoracique avec infiltrats prédominant au niveau des lobes supérieurs et petits épanchements pleuraux bilatéraux.
+
+Une insuffisance cardiaque en tant que cause de la congestion pulmonaire et des épanchements pleuraux a pu être exclue, avec des valeurs normales de peptide natriurétique de type B (BNP) et une bonne fonction cardiaque systolique et diastolique à l’échocardiographie ainsi qu’une absence de signes de cardiopathie structurelle.
+
+Les hémocultures sont restées stériles et aucun germe pathogène n’a pu être mis en évidence dans les expectorations.
+
+Une bronchoscopie avec lavage broncho-alvéolaire (LBA) a été réalisée. Elle a montré des sécrétions muqueuses légèrement augmentées, mais sans altérations inflammatoires aiguës de la muqueuse bronchique. Une coloration au bleu de toluidine négative et une immunofluorescence négative ont permis d’exclure une pneumonie à Pneumocystis jirovecii. La réaction de polymérisation en chaîne (PCR) pour les agents pathogènes atypiques de la pneumonie et par Mycobacterium tuberculosis était négative. Le LBA a montré une numération cellulaire augmentée (776/μl) et un profil inflammatoire à cellules mixtes avec une prédominance de lymphocytes (45% de lymphocytes, 14% de neutrophiles, 5% d’éosinophiles, 36% de macrophages), ce qui était compatible avec une pneumopathie d’hypersensibilité (fig. 3).
+
+Figure 3: Cytologie après lavage broncho-alvéolaire (coloration de May-Grünwald-Giemsa, × 500) montrant un profil inflammatoire à cellules mixtes avec prédominance de lymphocytes (45% de lymphocytes, 14% de neutrophiles, 5% d’éosinophiles et 36% de macrophages).
+
+Face à cette constellation dans le LBA et après exclusion d’une cause infectieuse, le diagnostic de suspicion de pneumopathie induite par l’HU a pu être posé. A l’imagerie morphologique, il n’y avait pas d’indices en faveur d’une pneumopathie organisée, qui peut également survenir en tant qu’effet indésirable du traitement par HU.
+
+Traitement et évolution
+
+Le traitement par HU a été immédiatement interrompu. Nous avons initié une corticothérapie par 40 mg de prednisolone, avec une réduction posologique progressive, pour une durée totale de sept semaines. Nous avons ­renoncé à une prévention de la pneumonie à Pneumocystis jirovecii par triméthoprime/sulfaméthoxazole, car une corticothérapie de plus de quatre semaines à une dose de ≥20 mg d’équivalent prednisolone n’était pas planifiée.
+
+Dès les premiers jours ayant suivi l’arrêt du traitement par HU et sous traitement par prednisolone, l’état clinique du patient s’est sensiblement amélioré et la valeur de CRP a rapidement régressé.
+
+Six semaines après sa sortie de l’hôpital, le patient s’est rendu à un contrôle pneumologique final, y compris TDM thoracique et exploration fonctionnelle respiratoire. Il a indiqué qu’il se sentait très bien, sans dyspnée ni toux, et qu’il avait retrouvé ses performances physiques habituelles, ce qui s’est reflété dans une fonction pulmonaire normale. La TDM a confirmé la guérison complète, avec une situation pulmonaire totalement normalisée, sans opacités en verre dépoli ni épanchements pleuraux.
+
+Cette évolution réjouissante a corroboré le diagnostic de pneumopathie induite par l’HU. Par la suite, la myélofibrose primaire a été traitée par ruxolitinib, sans survenue d’effets indésirables. Sous ruxolitinib, la numération plaquettaire a pu être bien contrôlée et des troubles microcirculatoires ne sont plus survenus.
+
+Discussion
+
+L’HU (également appelée hydroxycarbamide) est un agent chimiothérapeutique, qui inhibe spécifiquement la sous-unité R2 de la ribonucléotide réductase et bloque ainsi la synthèse d’ADN et les mécanismes de réparation de l’ADN. Elle est utilisée pour la cytoréduction dans le cadre de maladies myéloprolifératives, telles que la maladie de Vaquez, la thrombocytémie essentielle et la myélofibrose primaire, ainsi qu’en cas de leucémie myélomonocytaire chronique. Une autre indication est la drépanocytose, dans laquelle l’HU permet d’induire la production de l’hémoglobine fœtale (HbF) et ainsi d’abaisser la concentration d’hémoglobine falciforme (HbS) dans les érythrocytes.
+
+La toxicité de l’HU est dose-dépendante, la myélosuppression étant l’effet indésirable le plus fréquent. Dans la littérature, une fièvre élevée est en outre décrite en tant qu’effet indésirable fréquent et après une longue durée de traitement, différentes toxicités dermatologiques, dont la plus fréquente est l’ulcère malléolaire douloureux, ont été rapportées. Des symptômes gastro-intestinaux, tels que nausées, vomissements et diarrhées, surviennent également chez jusqu’à 4,5% des patients [1].
+
+A la fois dans le Compendium des médicaments et sur le site internet www.pneumotox.com, diverses affections pulmonaires (pneumonie, pneumopathie organisée, fibrose pulmonaire, syndrome de détresse respiratoire aiguë, épanchements pleuraux) sont décrites en tant qu’effets indésirables du traitement par HU.
+
+Toutefois, seuls 22 cas de pneumopathie interstitielle ou de pneumopathie d’hypersensibilité aiguë en tant que complication d’un traitement par HU ont jusqu’à présent été rapportés dans la littérature [2,3], malgré l’utilisation clinique de la substance depuis les années 1960.
+
+Dans ces cas rapportés dans la littérature, les patients présentaient des symptômes similaires à ceux de notre patient, à savoir dyspnée, toux sèche et fièvre (n = 13/22) et parfois douleurs thoraciques. La durée préalable du traitement par HU était comprise entre deux semaines et plus de douze ans. La TDM montrait le plus souvent des opacités en verre dépoli bilatérales, parfois des consolidations, avec en plus des épaississements des septa interlobulaires, des réticulations et des nodules la plupart du temps centrolobulaires. Certains patients présentaient des épanchements pleuraux bilatéraux ou des épaississements pleuraux. Dans quelques rares cas, un examen histologique a été réalisé (1 biopsie transbronchique, 3 biopsies pulmonaires chirurgicales, 1 autopsie), avec une mise en évidence d’altérations interstitielles avec fibrose en taches, réaction inflammatoire et formations granulomateuses.
+
+En raison de la présentation clinique avec fièvre, toux, dyspnée et infiltrats pulmonaires, une pneumonie bactérienne a dans la plupart des cas été suspectée initialement et une antibiothérapie empirique a été initiée, sans succès. Dans certains cas, l’association d’opacités en verre dépoli, de septa interlobulaires épaissis et d’épanchements pleuraux a initialement fait penser à la possibilité d’une insuffisance cardiaque. Dans les cas rapportés dans la littérature, après l’exclusion de causes infectieuses (le plus souvent par LBA) et de diagnostics différentiels cardiaques et auto-immuns, le diagnostic de suspicion de pneumopathie d’origine médicamenteuse a été posé et le traitement par HU a été interrompu. Dans plus de la moitié des cas, le seul fait d’interrompre le traitement a permis d’obtenir une rémission complète des symptômes. Dans les cas restants plus sévères, une corticothérapie a en outre été initiée, avec le plus souvent une réponse rapide. Deux cas avec une issue fatale ont cependant aussi été rapportés dans la littérature.
+
+L’essentiel pour la pratique
+
+• La pneumopathie induite par l’hydroxyurée (HU) est un diagnostic d’exclusion qui, compte tenu de son évolution potentiellement fatale, doit cependant être envisagé précocement en tant que diagnostic différentiel d’une pneumonie bactérienne ou virale.
+
+• Une pneumopathie induite par l’HU peut survenir après une durée variable de traitement par HU (deux semaines à plusieurs années).
+
+• Les symptômes les plus fréquents sont la toux sèche, la dyspnée et la fièvre, et parfois les douleurs thoraciques. La radiographie révèle le plus souvent des opacités en verre dépoli interstitielles bilatérales, des infiltrats réticulo-nodulaires et fréquemment aussi des épanchements pleuraux.
+
+• L’évaluation diagnostique fait appel à la tomodensitométrie thoracique, suivie d’une bronchoscopie avec lavage broncho-alvéolaire pour rechercher une cause infectieuse. En cas de doute persistant quant au diagnostic, une biopsie (transbronchique, par ex. sous forme de cryobiopsie) est indiquée.
+
+• La mesure la plus importante, comme pour les pneumopathies d’hypersensibilité de toute autre cause, consiste à interrompre immédiatement l’agent déclenchant (dans le cas présent, l’HU). Concernant l’initiation d’une corticothérapie, il n’existe pas de recommandations spécifiques pour la pneumopathie induite par l’HU. Par analogie avec les autres formes de pneumopathie d’hypersensibilité, une corticothérapie de courte durée est indiquée en cas d’évolution sévère.

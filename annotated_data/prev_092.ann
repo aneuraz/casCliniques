@@ -1,0 +1,26 @@
+T1	disorder 73 144	douleur violente du testicule gauche irradiant vers la région inguinale
+T2	disorder 298 317	colique néphrétique
+T3	profession 213 220	médecin
+T4	procedure 334 353	percussion lombaire
+T5	disorder 354 365	douloureuse
+T6	drugs 439 449	Profénid ®
+T7	procedure 472 495	échographie abdominale 
+T8	disorder 523 547	Persistance des douleurs
+T9	profession 760 768	médecin 
+T10	disorder 800 830	 torsion du cordon spermatique
+T11	disorder 852 885	 testicule gauche très douloureux
+T12	disorder 903 914	épididymite
+T13	drugs 931 949	anti-inflammatoire
+T14	drugs 953 963	antalgique
+T15	drugs 969 981	antibiotique
+T16	disorder 1025 1034	douleurs 
+T17	profession 1106 1114	urologue
+T18	disorder 1132 1155	Diminution des douleurs
+T19	disorder 1236 1271	 incapable de reprendre son travail
+T20	profession 1371 1380	urologue 
+T21	disorder 1439 1459	nécrose testiculaire
+T22	procedure 1470 1487	échographiquement
+T23	procedure 1489 1511	Intervention d’urgence
+T24	procedure 1554 1567	Orchidectomie
+T25	procedure 1593 1640	prothèse et fixation du testicule controlatéral
+T26	irrelevant 1642 1729;1731 1775	Non-diagnostic d'une péritonite aux urgences (patiente mise sous analgésie morphinique)  En savoir plus sur les erreurs de diagnostic

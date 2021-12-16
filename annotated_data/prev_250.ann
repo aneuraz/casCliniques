@@ -1,0 +1,114 @@
+T1	disorder 82 94	maux de tête
+T2	procedure 180 204	traitement homéopathique
+T3	disorder 215 227	rhume léger 
+T4	disorder 462 470	sinusite
+T5	disorder 539 549	rhinorrhée
+T6	disorder 591 610	céphalées diffuses 
+T7	disorder 616 632	œdème du visage 
+T8	drugs 737 748	paracétamol
+T9	procedure 782 798	analyse sanguine
+T10	procedure 807 825	scanner des sinus.
+T11	disorder 899 910	 céphalées 
+T12	disorder 924 936	œdème facial
+T13	procedure 951 954	NFS
+T14	disorder 975 999	polynucléose neutrophile
+T15	labvalue 1001 1010	10 800 GB
+T16	procedure 1034 1036	VS
+T17	labvalue 1039 1047	41/73 mm
+T18	procedure 1053 1056	CRP
+T19	labvalue 1058 1069	 56 mg/ml, 
+T20	procedure 1076 1094	cytolyse hépatique
+T21	procedure 1144 1146	VS
+T22	labvalue 1155 1163	20/44 mm
+T23	procedure 1167 1185	 scanner des sinus
+T24	disorder 1305 1337	épaississement muqueux des sinus
+T25	disorder 1508 1566	 Aspect irrégulier de la lame papyracée ethmoïdale droite 
+T26	disorder 1606 1617	pansinusite
+T27	drugs 1710 1716	ORELOX
+T28	drugs 1766 1775	CELESTENE
+T29	disorder 1911 1927	œdème du visage 
+T30	disorder 1947 1956	céphalées
+T31	disorder 2099 2130	 troubles visuels intermittents
+T32	disorder 2271 2280	céphalées
+T33	disorder 2353 2397	scotome central de l’œil droit intermittent 
+T34	disorder 2512 2530	pansinusite aigue 
+T35	drugs 2605 2616	Paracétamol
+T36	irrelevant 2619 2648	ET VOUS QU’AURIEZ-VOUS FAIT ?
+T37	irrelevant 5233 5262;5264 5301;5303 5335	ET VOUS QU’AURIEZ VOUS FAIT ?  QUEL(s) DIAGNOSTIC (s) EVOQUEZ VOUS ?  DES ELEMENTS VOUS MANQUENT ILS ?
+T38	irrelevant 7447 7476	ET VOUS QU’AURIEZ VOUS FAIT ?
+T39	disorder 2963 2979	œdème de la face
+T40	disorder 3004 3013	céphalées
+T41	disorder 3031 3039	diplopie
+T42	procedure 3101 3111	endoscopie
+T43	profession 3196 3205	menuisier
+T44	disorder 3226 3247	 cancer de l’ethmoïde
+T45	disorder 3333 3337	lyse
+T46	procedure 3264 3271	scanner
+T47	disorder 3283 3313	anomalie de la lame papyracée 
+T48	procedure 3409 3412	IRM
+T49	disorder 3557 3565	diplopie
+T50	disorder 3760 3769	céphalées
+T51	disorder 3792 3800	diplopie
+T52	disorder 3814 3824	ethmoïdite
+T53	disorder 3847 3856	cataracte
+T54	procedure 3931 3944	test de Worth
+T55	procedure 3992 3994	FO
+T56	procedure 4164 4167	IRM
+T57	procedure 4191 4200	cataracte
+T58	procedure 4312 4315	IRM
+T59	disorder 4376 4385	céphalées
+T60	disorder 4398 4407	fébricule
+T61	procedure 4543 4546	IRM
+T62	procedure 4730 4733	IRM
+T63	disorder 4764 4819	des hypersignaux lacunaires intéressant la protubérance
+T64	disorder 4846 4889	hypersignaux d’allure vasculaire confluents
+T65	disorder 4935 4945	spasticité
+T66	disorder 5087 5096	céphalées
+T67	disorder 5112 5124	polynucléose
+T68	disorder 5131 5153	syndrome inflammatoire
+T69	labvalue 5164 5174	 11 150 GB
+T70	labvalue 5179 5189	 8 809 PNN
+T71	labvalue 5199 5206	 64/99 
+T72	labvalue 5222 5230	70 mg/ml
+T73	procedure 5216 5219	CRP
+T74	procedure 5195 5197	VS
+T75	disorder 5461 5470	céphalées
+T76	procedure 5479 5481	VS
+T77	disorder 5571 5580	céphalées
+T78	disorder 5750 5758	céphalée
+T79	procedure 5776 5783	scanner
+T80	procedure 5829 5832	IRM
+T81	disorder 5796 5823	 remaniements de l’ethmoïde
+T82	disorder 5987 6000	Leucoacariose
+T83	procedure 6035 6058	 syndrome inflammatoire
+T84	disorder 6096 6104	céphalée
+T85	disorder 6111 6128	œdème de la face 
+T86	disorder 6163 6173	 fébricule
+T87	disorder 6210 6218	céphalée
+T88	disorder 6225 6248	 hémi crânienne droite 
+T89	disorder 6360 6371	 perdu 6 kg
+T90	disorder 6859 6878	 névralgie d’Arnold
+T91	disorder 6794 6803	céphalées
+T92	disorder 6925 6933	céphalée
+T93	disorder 7089 7106	maladie de Horton
+T94	procedure 7150 7177	biopsie d’artère temporale 
+T95	procedure 7227 7277	corticoïdes à raison de 1 mg par kilo et par jour 
+T96	procedure 7283 7290	biopsie
+T97	procedure 7340 7362	syndrome inflammatoire
+T98	procedure 7408 7433	 scanner abdomino pelvien
+T99	procedure 7435 7439	ECBU
+T100	procedure 7620 7627	biopsie
+T101	disorder 7722 7739	maladie de HORTON
+T102	disorder 7978 8021	baisse brutale de l’acuité visuelle droite 
+T103	procedure 8140 8178	 traitement par corticoïdes (1 mg/kg) 
+T104	disorder 8222 8240	 pâleur papillaire
+T105	procedure 8281 8304	 examen ophtalmologique
+T106	procedure 8310 8322	angiographie
+T107	disorder 8379 8400	ischémie choroïdienne
+T108	drugs 8451 8461	SOLUMEDROL
+T109	disorder 8486 8494	ischémie
+T110	disorder 8542 8555	cécité droite
+T111	disorder 8631 8656	ralentissement idéomoteur
+T112	disorder 8689 8708	contexte dépressif,
+T113	disorder 8713 8720	anxiété
+T114	disorder 8725 8739	 repli sur soi

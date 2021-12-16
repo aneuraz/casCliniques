@@ -1,0 +1,17 @@
+T1	disorder 56 63	dyspnée
+T2	disorder 73 92	douleur thoracique 
+T3	procedure 171 195	 radiographie pulmonaire
+T4	disorder 221 265	diminution de transparence de la base droite
+T5	disorder 270 313	aplatissement des coupoles diaphragmatiques
+T6	disorder 317 372	 émoussement du cul de sac costo-diaphragmatique droit 
+T7	disorder 394 412	embolie pulmonaire
+T8	procedure 437 455	scanner thoracique
+T9	disorder 765 885	 embolie pulmonaire intéressant les branches de l’artère pulmonaire droite essentiellement à destinée lobaire inférieure
+T10	disorder 901 1006	foyer parenchymateux condensé sous pleural postéro basal et une lame d’épanchement réactionnelle associée
+T11	irrelevant 1008 1262	Il n’est pas contesté que le radiologue ait appelé au cabinet du médecin généraliste pour informer celui-ci des résultats de l’examen, une trace de cette communication téléphonique ayant été notée par le remplaçant de celui-ci, dans le dossier du patient
+T12	irrelevant 1264 1454	Le médecin remplaçant (qui était également présent pendant les jours suivants) aurait cherché à joindre le patient, sans succès le jour de cet appel téléphonique, à une ou plusieurs reprises
+T13	irrelevant 1457 1659	Le patient conteste cette version des faits, son répondeur téléphonique n’ayant enregistré aucun message et le relevé de ses appels ne faisant pas état d’une communication avec le cabinet du généraliste
+T14	irrelevant 1661 1799	Ce n’est que 8 jours plus tard que cet homme revient à l’hôpital pour chercher son scanner qui lui est remis sans explication particulière
+T15	procedure 2051 2066	hospitalisation
+T16	irrelevant 2279 2326	Il dépose plainte devant le Conseil de l’Ordre.
+T17	irrelevant 1801 1962	De retour à son domicile, il a la curiosité de prendre connaissance du compte rendu, explicite sur le diagnostic et portant la mention ‘médecin traitant prévenu’

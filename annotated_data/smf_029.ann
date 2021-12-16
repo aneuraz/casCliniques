@@ -1,0 +1,107 @@
+T1	disorder 96 138	 syndrome de fuite capillaire idiopathique
+T2	disorder 140 160	syndrome de Clarkson
+T3	disorder 189 212	gammapathie monoclonale
+T4	procedure 359 387	Sous traitement intraveineux
+T5	drugs 392 424	gammaglobulines hautement dosées
+T6	disorder 595 613	faiblesse générale
+T7	disorder 619 647	intolérance à la performance
+T8	disorder 665 676	hypotension
+T9	disorder 682 694	tachycardie,
+T10	disorder 699 717	œdèmes généralisés
+T11	disorder 723 731	vertiges
+T12	disorder 745 766	 douleurs musculaires
+T13	disorder 770 791	articulaires diffuses
+T14	procedure 1126 1165	examens cardiologiques et neurologiques
+T15	procedure 1181 1198	électromyographie
+T16	procedure 1222 1241	 L’analyse sanguine
+T17	disorder 1259 1266	 anémie
+T18	procedure 1274 1294	 taux d’hémoglobine 
+T19	labvalue 1297 1305	118 g/l.
+T20	disorder 1346 1366	bandes monoclonales 
+T21	procedure 1442 1468	paraprotéinémie systémique
+T22	labvalue 1476 1487	 IgG lambda
+T23	procedure 1533 1547	immunofixation
+T24	procedure 1589 1610	 examen hématologique
+T25	disorder 1800 1831	anémie normochrome normocytaire
+T26	procedure 1855 1875	valeur d’hémoglobine
+T27	labvalue 1879 1887	128 g/l 
+T28	procedure 1893 1911	taux d’hématocrite
+T29	labvalue 1915 1920	37,2%
+T30	procedure 1925 1941	taux d’albumine 
+T31	labvalue 1951 1958	42 g/l.
+T32	procedure 1984 2023	examen de la moelle osseuse est réalité
+T33	disorder 2061 2122	gammapathie monoclonale de signification indéterminée (MGUS) 
+T34	disorder 2128 2141	légère anémie
+T35	disorder 2175 2189	très affaibli,
+T36	disorder 2203 2212	 vertiges
+T37	disorder 2214 2243	douleurs musculaires diffuses
+T38	disorder 2247 2267	œdèmes périphériques
+T39	disorder 2314 2334	tachycardie sinusale
+T40	procedure 2375 2394	 taux d’hémoglobine
+T41	labvalue 2405 2412	194 g/l
+T42	procedure 2422 2433	hématocrite
+T43	labvalue 2436 2441	56,9%
+T44	procedure 2463 2490	examen de la moelle osseuse
+T45	labvalue 2496 2503	normaux
+T46	procedure 2611 2629	immunophénotypage 
+T47	labvalue 2639 2690	aucune population de cellules plasmatiques clonales
+T48	procedure 2710 2736	cellularité et morphologie
+T49	labvalue 2737 2746	normales 
+T50	procedure 2828 2858	 recherche de mutation de JAK2
+T51	labvalue 2863 2871	négative
+T52	procedure 2876 2910	paraprotéinémie de type IgG lambda
+T53	labvalue 2915 2924	confirmée
+T54	procedure 2929 2975	ratio des chaînes légères libres kappa/lambda 
+T55	labvalue 2979 2985	normal
+T56	procedure 3005 3017	 albuminurie
+T57	labvalue 2998 3005	 aucune
+T58	procedure 3022 3058	CT natif «low dose» du corps entier 
+T59	disorder 3150 3167	hémoconcentration
+T60	procedure 3195 3206	hématocrite
+T61	procedure 3225 3243	taux d’hémoglobine
+T62	labvalue 3247 3251	128 
+T63	labvalue 3253 3261	214 g/l 
+T64	labvalue 3209 3213	 36 
+T65	labvalue 3213 3218	à 62%
+T66	disorder 3318 3330	hypertension
+T67	disorder 3337 3349	 tachycardie
+T68	procedure 3364 3382	taux d’hématocrite
+T69	procedure 3452 3468	taux d’albumine 
+T70	labvalue 3476 3482	30 g/l
+T71	procedure 3677 3689	Hémoglobine 
+T72	labvalue 3699 3702	214
+T73	labvalue 3695 3698	128
+T74	procedure 3703 3714	Hématocrite
+T75	labvalue 3719 3723	37,2
+T76	labvalue 3724 3728	61,8
+T77	procedure 3729 3739	Leucocytes
+T78	labvalue 3746 3750	5,06
+T79	labvalue 3751 3756	16,28
+T80	procedure 3757 3770	Neutrophiles 
+T81	labvalue 3776 3781	3,46	
+T82	labvalue 3781 3786	12,98
+T83	procedure 3787 3795	Albumine
+T84	labvalue 3801 3804		42
+T85	labvalue 3805 3807	30
+T86	procedure 3808 3818	Créatinine
+T87	labvalue 3828 3830	80
+T88	labvalue 3831 3834	170
+T89	disorder 3882 3895	 hypertension
+T90	procedure 3907 3925	taux d’hématocrite
+T91	disorder 3926 3947	 œdèmes périphériques
+T92	disorder 3951 3967	hypoalbuminémie 
+T93	disorder 4066 4131	syndrome de fuite capillaire idiopathique (syndrome de Clarkson) 
+T94	disorder 4145 4169	gammapathie monoclonale.
+T95	procedure 4273 4297	 traitement intraveineux
+T96	drugs 4302 4343	gammaglobulines hautement dosées (2 mg/kg
+T97	procedure 4623 4641	 Mesure du poids d
+T98	labvalue 4841 4859	74,36 kg ± 1,39 kg
+T99	labvalue 4863 4881	73,22 kg ± 0,85 kg
+T100	procedure 4954 4972	Taux d’hématocrite
+T101	labvalue 5005 5018	46,7% ± 10,2 
+T102	labvalue 5021 5032	45,3% ± 5,4
+T103	procedure 5211 5247	a tentative de réduction de la dose 
+T104	drugs 5250 5275	mmunoglobulines à 1 g/kg 
+T105	procedure 5371 5395	poursuite du traitement 
+T106	drugs 5400 5407	2 g/kg.
+T107	irrelevant 5577 5587;5589 6179;6181 7390;7392 8158;8160 8442;8444 8683;8685 9209;9211 9473;9475 9540;9542 9600;9602 9666;9668 10117;10119 10748;10750 11586;11588 12319;12321 13068;13070 13098;13100 13410;13412 13517;13519 13734;13736 13881;13883 13989	Discussion  Le syndrome de fuite capillaire idiopathique a été décrit pour la première fois par B. Clarkson en 1960 [1]. Il a publié le cas d’une femme âgée de 34 ans qui «souffrait d’une perte subite de plasma au niveau du lit vasculaire et chez laquelle se sont développés une hypovolémie et un choc». La maladie était caractérisée par des épisodes répétés de perméabilité capillaire accrue avec œdèmes, hémoconcentration, hypoalbuminémie et hypotension, et une protéine anormale a été mise en évidence dans la fraction des gammaglobulines. La patiente est finalement décédée d’un choc hypovolémique.  En 2010, une série de 25 patients de la «Mayo Clinic», atteints de fuite capillaire idiopathique, a été publiée [2]. Le diagnostic se basait sur une documentation univoque de crises répétées d’hypotension, concentration accrue d’hématocrite, œdèmes périphériques et hypoalbuminémie sans albuminurie. La gammapathie monoclonale n’était pas considérée comme un critère obligatoire, mais mise en évidence chez 19 des 25 patients. La plupart des patients présentaient des symptômes prodromiques tels qu’une fatigue et des vertiges, parfois aussi des myalgies et maux de gorge ainsi qu’une réduction de la fréquence mictionnelle. Durant les épisodes de fuite capillaire est survenue une hausse moyenne du taux d’hématocrite de 19,8% (14,8–24) à 60,5% (53,6–65,6). Le taux moyen d’albumine a baissé de 21 g/l (18–25) pendant un épisode et le taux moyen de créatine a augmenté de 132 µmol/l (88–200). 36% des patients ont développé une rhabdomyolyse, 20% un syndrome des loges qui a parfois nécessité une fasciotomie. La concentration de paraprotéine était typiquement faible (en moyenne 6 g/l). Le taux de progression vers un myélome multiple était de 0,7% par personne-année et ainsi comparable à celui d’une MGUS.  Le «European Clarkson Disease (EurêClark) Registry» est un groupe d’étude international qui collecte les données de patients atteints de syndrome de fuite capillaire idiopathique associé à une gammapathie monoclonale. En 2017, le groupe a publié dans le American Journal of Medicine les résultats thérapeutiques d’une cohorte de 69 patients après administration régulière d’immunoglobuline intraveineuse en prévention des récidives. Les critères pour le diagnostic d’un syndrome de Clarkson étaient: 1. présence d’une gammapathie monoclonale; 2. un ou plusieurs épisodes d’hypovolémie aiguë et œdèmes interstitiels; 3. hémoconcentration avec hypoprotéinémie paradoxale; 4. exclusion d’une autre cause de syndrome de fuite capillaire secondaire ou d’hypoprotéinémie.  La cohorte était composée de 35 femmes et 34 hommes, l’âge moyen était de 52 ans (±12) lors de la première manifestation et 53,5 ans (±12) au moment du diagnostic. Tous les patients avaient une gammapathie de type IgG avec une concentration moyenne de paraprotéine de 4,4 g/l (2–8).  Pour prévenir les épisodes de fuite capillaire, les patients avaient reçu, avant l’an 2000, de la théophylline et de la terbutaline, l’immunoglobuline intraveineuse a ensuite été de plus en plus utilisée comme traitement de première ligne.  Au cours d’une période moyenne de suivi de 5,1 ans (2,5–9,7), cinq patients ont développé un myélome multiple. 24 sont décédés après une durée moyenne de 3,3 ans (0,9–8): 20 à la suite d’un épisode sévère, quatre d’un myélome multiple. Les patients traités par immunoglobuline intraveineuse ont présenté nettement moins d’épisodes récidivants graves que ceux n’ayant pas reçus d’immunoglobuline intraveineuse (45,8 vs 94,1%) et la survie à 5 et 10 ans était significativement meilleure (91 vs 47% et 77 vs 37%) (fig. 3 [3]).  Figure 3: Courbe de Kaplan-Meier du taux cumulé de survie au bout de 10 ans chez 65 patients atteints de syndrome de fuite capillaire idiopathique associé à une gammapathie monoclonale; IvIg + vs IvIg- (IvIg +: 40 patients [83,3%]) vs IvIg-: 5 patients [29,4%]).  Les taux de survie ont été comparés à l’aide du test de log-rank.  IvIg +: Patients qui ont été traités par immunoglobulines.  IvIg -: Patients qui n’ont pas été traités par immunoglobulines.  De [3]: Pineton de Chambrun M, Gousseff M, Mauhin W, Lega JC, Lambert M, Rivière S, et al. Intravenous Immunoglobulins Improve Survival in Monoclonal Gammopathy-Associated Systemic Capillary-Leak Syndrome. Am J Med. 2017;130(10):1219.e19–1219.e27. doi.org/10.1016/j.amjmed.2017.05.023. © 2017 Elsevier Inc. Reproduction et traduction avec l’aimable permission de Elsevier Inc. https://www.sciencedirect.com/journal/the-american-journal-of-medicine).  La pathogenèse du syndrome de fuite capillaire idiopathique et la signification étiologique de la paraprotéine demeurent indéterminées. Des facteurs humoraux entraînant un dysfonctionnement réversible de la barrière des cellules endothéliales microvasculaires sont probablement responsables. Durant les épisodes, des valeurs accrues de facteurs de perméabilité angiogéniques tels que le facteur de croissance de l’endothélium vasculaire (VEGF) et l’angiopoïétine 2 ainsi que d’interleukines et d’autres facteurs inflammatoires ont ainsi été détectées. Aucune modification vasculaire structurelle n’a pu être mise en évidence [4].  Le diagnostic d’un syndrome de fuite capillaire idiopathique reste un diagnostic clinique avec des épisodes récidivants d’hypovolémie aiguë et œdèmes interstitiels, hémoconcentration, hypoalbuminémie sans albuminurie, mise en évidence typique d’une paraprotéine et exclusion d’une autre cause telle que sepsis, anaphylaxie ou angioœdème. Les épisodes sont auto-limitants, durent quelques jours et varient fortement en fréquence et intensité. Un épisode sévère peut entraîner un état de choc potentiellement mortel avec insuffisance rénale aiguë et défaillance multiviscérale. Il peut survenir des thromboses et embolies pulmonaires comme conséquences de l’hémoconcentration, un épanchement péricardique avec tamponnade péricardique et syndrome des loges au niveau des extrémités, ainsi qu’une rhabdomyolyse due aux œdèmes périphériques.  Du point de vue thérapeutique, un traitement de soutien est en premier lieu nécessaire durant la phase aiguë, avec correction de l’hypovolémie par perfusion de solutions cristalloïdes et éventuellement substitution d’albumine. En présence d’évolutions graves, un accompagnement de médecine intensive et l’utilisation de médicaments vasoactifs peuvent être requis, ainsi qu’une anticoagulation en cas de complications thrombotiques. La phase de récupération de la fuite capillaire présente le risque d’une surcharge liquidienne avec œdème pulmonaire, et un traitement diurétique intensif peut être nécessaire. Des cas ont été décrits dans lesquels des saignées ont été effectuées à tort dans l’hypothèse d’une polycythemia vera [5].  Pour éviter de nouveaux épisodes de fuite capillaire, l’utilisation d’immunoglobuline hautement dosée, à une posologie initiale de 2 g/kg de poids corporel toutes les quatre semaines, est recommandée au vu de l’analyse du «European Clarkson Disease (EurêClark) Registry», mentionnée ci-dessus. Cela semble améliorer considérablement l’évolution et le pronostic de la maladie. Aucune donnée d’étude randomisée n’est disponible sur ce traitement et, en raison de la rareté de la maladie, une telle étude n’apparaît pas réalisable. Le mécanisme d’action du traitement par immunoglobulines intraveineuses est incertain. Le traitement est supposé présenter des effets immunomodulateurs et anti-idiotypiques. Il est toutefois non spécifique et onéreux.  L’essentiel pour la pratique  • Le syndrome de fuite capillaire idiopathique est une maladie rare et peu connue présentant des épisodes récidivants et potentiellement mortels d’hyperperméabilité capillaire qui entraîne hypotension, hypoalbuminémie, œdèmes interstitiels ainsi qu’une hausse du taux d’hématocrite due à une hémoconcentration.  • Le syndrome est typiquement associé à une gammapathie monoclonale de signification indéterminée (MGUS).  • En raison de la rareté de la maladie et des symptômes non spécifiques, le diagnostic n’est souvent établi que longtemps après la survenue des premiers symptômes et la maladie est éventuellement sous-diagnostiquée.  • Sur le plan thérapeutique, l’hypotension/hypovolémie et l’insuffisance circulatoire qui en résulte doivent être traitées durant la phase aiguë.  • La prévention des récidives implique un traitement par immunoglobulines intraveineuses hautement dosées.

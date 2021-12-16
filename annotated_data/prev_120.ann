@@ -1,0 +1,18 @@
+T1	disorder 58 82	hypertension artérielle 
+T2	procedure 141 153	monothérapie
+T3	drugs 155 163	Preterax
+T4	risk 221 230	Tabagisme
+T5	disorder 182 202	hypercholestérolémie
+T6	disorder 211 219	surpoids
+T7	disorder 327 356	douleur thoracique antérieure
+T8	disorder 363 369	sueurs
+T9	disorder 529 550	infarctus myocardique
+T10	disorder 788 809	infarctus du myocarde
+T11	disorder 957 979	plaie du cuir chevelu 
+T12	procedure 981 989	suturer.
+T13	procedure 1552 1570	 massage cardiaque
+T14	disorder 1347 1354	écroulé
+T15	procedure 1697 1714	massage cardiaque
+T16	procedure 1717 1728	ventilation
+T17	drugs 1752 1762	adrénaline
+T18	disorder 1815 1841	fibrillation ventriculaire

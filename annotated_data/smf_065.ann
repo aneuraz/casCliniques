@@ -1,0 +1,62 @@
+T1	irrelevant 0 8;10 1340;1342 1529	Contexte  L’équilibre du calcium est étroitement régulé en raison de son rôle essentiel dans la transmission intracellulaire des signaux, les principaux facteurs d’influence de cet équilibre étant la parathormone (PTH), la vitamine D et le calcium sérique en lui-même. Une baisse du calcium sérique entraîne une sécrétion de PTH à partir des glandes parathyroïdes via le récepteur sensible au calcium («calcium-sensing receptor» [CaSR]) [1]. La PTH a un effet sur les reins, sur les os et indirectement sur l’intestin. Dans les reins, la PTH est activée par l’alpha-hydroxylase rénale, ce qui conduit à la synthèse du métabolite actif de la vitamine D, la 1,25-dihydroxy-vitamine D. Cette dernière favorise l’absorption du calcium dans le tubule rénal distal ainsi que dans l’intestin grêle. En outre, l’élévation persistante de la PTH entraîne une libération de calcium à partir des os. Outre la PTH, la 25-OH-vitamine D, en tant que substrat pour la formation de la 1,25-dihydroxy-vitamine D ­active, joue également un rôle essentiel dans le maintien de concentrations sériques physiologiques de calcium [2]. Une concentration sérique élevée de 25-OH-­vitamine D, de 1,25-dihydroxy-vitamine D ou de calcium entraîne à son tour une inhibition de la sécrétion de PTH à partir des glandes parathyroïdes via une rétroaction négative (fig. 1).  Figure 1: Représentation simplifiée du métabolisme du calcium (flèche rouge = rétro­action négative, flèche verte = étape dépendante du Mg). Ca: calcium; Mg: magnésium; PTH: parathormone.
+T2	irrelevant 1531 2326;2328 2361;2362 2436;2437 2488;2489 2508;2509 2608;2609 2749;2750 2798;2799 2840;2842 3059;3061 3080;3081 3089	L’hypocalcémie peut résulter de diverses causes et elle peut schématiquement être subdivisée en hypocalcémie avec PTH basse ou inadéquatement normale et en hypocalcémie avec PTH élevée (tab. 1). En cas de PTH élevée, la cause la plus fréquente est l’insuffisance ­rénale chronique avec activité réduite de l’alpha-hydroxylase, suivie d’une carence en vitamine D ou d’une résistance à la vitamine D. En cas de PTH basse, la cause de l’hypocalcémie est dans 75% des cas d’origine iatrogène, l’hypocalcémie faisant alors suite à une strumectomie, à une parathyroïdectomie, à un effet toxique (par ex. chimiothérapie) ou à une radiothérapie. Les 25% de cas restants sont liés à des causes auto-­immunes, génétiques (par ex. syndrome de DiGeorge) et fonctionnelles (par ex. carence en magnésium) [3].  Tableau 1: Causes d’hypocalcémie. Hypocalcémie avec parathormone (PTH) ­élevée	Insuffisance rénale chronique Carence en vitamine D ou résistance à la vitamine D Résistance à la PTH Perte de calcium:Syndrome de lyse tumorale, pancréatite aiguë, alcalose respiratoire aiguë, ­sepsis Hypocalcémie avec PTH basse/normale	Origine iatrogène:Strumectomie/parathyroïdectomie, radiothérapie, effet toxique (par ex. chimiothérapie) Origine génétique (par ex. syndrome de DiGeorge) Origine fonctionnelle (par ex. magnésium)  Les symptômes de l’hypocalcémie vont de paresthésies légères, de crampes musculaires et d’un allongement du QT jusqu’à des arythmies sévères et potentiellement fatales, des crises épileptiques et un laryngospasme [1].  Présentation du cas Anamnèse
+T3	disorder 3152 3160	vertiges
+T4	disorder 3170 3190	démarche mal assurée
+T5	disorder 3243 3255	vomissements
+T6	disorder 3388 3403	selles liquides
+T7	irrelevant 3449 3455	Statut
+T8	labvalue 3556 3565	36–48/min
+T9	procedure 3533 3552	fréquence cardiaque
+T10	disorder 3521 3531	bradycarde
+T11	disorder 3579 3589	hypertendu
+T12	labvalue 3591 3603	148/60 mm Hg
+T13	procedure 3608 3616	afébrile
+T14	labvalue 3618 3625	36,5 °C
+T15	disorder 3637 3661	désorienté dans le temps
+T16	procedure 3667 3686	examen neurologique
+T17	disorder 3699 3761	tremblement de haute fréquence au niveau des quatre extrémités
+T18	procedure 3771 3787	tonus musculaire
+T19	labvalue 3788 3794	normal
+T20	disorder 3859 3870	bradycardie
+T21	irrelevant 3933 3940	Examens
+T22	disorder 3985 3997	hypocalcémie
+T23	procedure 4033 4036	PTH
+T24	labvalue 4045 4050	basse
+T25	disorder 4144 4159	­hypomagnésémie
+T26	procedure 4180 4196	25-OH-vitamine D
+T27	labvalue 4203 4210	normale
+T28	irrelevant 4213 4510;4511 4577	Tableau 2: Evolution des valeurs de laboratoire après l’initiation du traitement. Elément frappant: valeur initialement normale de parathormone (PTH) malgré une faible valeur de calcium. Le jour suivant, après normalisation de l’hypomagnésémie, augmentation de la PTH et donc élévation du calcium. Valeurs de laboratoire ­(valeurs normales)	Admission	Jour ­suivant
+T29	procedure 4578 4587	Magnésium
+T30	labvalue 4588 4604	0,66–0,99 mmol/l
+T31	procedure 4620 4651	Calcium corrigé pour l’albumine
+T32	labvalue 4652 4668	2,10–2,60 mmol/l
+T33	procedure 4683 4686	PTH
+T34	labvalue 4687 4703	1,95–8,49 pmol/l
+T35	procedure 4718 4737	électrocardiogramme
+T36	procedure 4739 4742	ECG
+T37	procedure 4856 4866	fréquences
+T38	labvalue 4870 4876	40/min
+T39	irrelevant 4951 5195	Figure 2: A gauche: Electrocardiogramme (ECG) à l’admission avec bigéminisme supraventriculaire et bloc 2:1 (flèches = onde p) et bradycardie atteignant 40/min. A droite: ECG après normalisation des électrolytes, avec rythme sinusal normocarde.
+T40	irrelevant 5197 5207	Diagnostic
+T41	irrelevant 5209 6289;6291 6314	Nous avons posé le diagnostic d’hypomagnésémie ­sévère ayant entraîné une hypoparathyroïdie avec ­hypocalcémie. En tant que cause, nous avons suspecté un trouble de l’absorption dans le cadre d’une diarrhée chronique, combiné à une cause médicamenteuse, car le patient prenait un inhibiteur de la pompe à protons depuis de nombreuses années [4]. Des examens supplémentaires ont été réalisés afin de déterminer la cause de la diarrhée chronique. Les analyses des selles n’ont pas mis en évidence de bactéries, de virus ou de parasites. Une gastroscopie et coloscopie réalisées l’année précédente avaient montré une muqueuse duodénale inflammatoire avec des lésions pétéchiales de la muqueuse, mais des biopsies n’avaient pas été prélevées. Les IgA anti-transglutaminase n’étaient pas détectables, si bien qu’il n’y avait pas d’indice, du moins ­sérologique, évocateur d’une maladie cœliaque en tant que cause de la diarrhée et du trouble de l’absorption. A la demande du patient, nous avons opté pour un traitement symptomatique et avons renoncé à réaliser une nouvelle coloscopie.  Traitement et évolution
+T42	disorder 6328 6356	 trouble du rythme cardiaque
+T43	disorder 6378 6431	tachycardie ventriculaire de type torsades de pointes
+T44	procedure 6507 6546	substitution du magnésium et du calcium
+T45	procedure 6613 6616	PTH
+T46	procedure 6640 6652	électrolytes
+T47	disorder 6710 6738	troubles du rythme cardiaque
+T48	procedure 6827 6837	fréquences
+T49	labvalue 6850 6859	70–80/min
+T50	disorder 7051 7065	hypomagnésémie
+T51	disorder 7069 7081	hypocalcémie
+T52	procedure 7106 7131	substitution de magnésium
+T53	disorder 7235 7243	diarrhée
+T54	disorder 7210 7218	diarrhée
+T55	procedure 7273 7283	coloscopie
+T56	disorder 7362 7382	colite microscopique
+T57	drugs 7428 7460	inhibiteur de la pompe à protons
+T58	disorder 7498 7512	hypomagnésémie
+T59	disorder 7526 7557	hémorragies gastro-intestinales
+T60	procedure 7595 7646	substitution conséquente de magnésium et de calcium
+T61	disorder 7690 7714	troubles électrolytiques
+T62	irrelevant 7730 7740;7742 8198;8200 8223;8225 8275;8277 8595;8597 8800;8802 9402;9404 9636;9638 10230;10232 10787;10789 11040;11042 11070;11072 11270;11272 11550;11552 11756;11758 12143	Discussion  Chez un patient ayant des symptômes d’hypocalcémie, il convient en premier lieu de mesurer le calcium et l’albumine. Le calcium se retrouve dans le sang sous forme ionisée libre à hauteur de seulement 50% environ, le reste du calcium étant lié à l’albumine. Le ­calcium biologiquement disponible dépend donc de l’albumine, si bien qu’une correction pour l’albumine est nécessaire. Une formule simple pour déterminer le ­calcium corrigé pour l’albumine est:  Ca2+corrigé (mmol/l) =   Ca2+mesuré(mmol/l) + 0,02 × (40 g/l–albumine (g/l)  Les 40 g/l correspondent à la concentration moyenne d’albumine dans le sérum. En cas d’hyperalbuminémie, le calcium disponible est dès lors plus faible que la valeur supposée sur la base du calcium total mesuré et en cas d’hypoalbuminémie, il est plus élevé que la ­valeur supposée sur la base du calcium total mesuré.  Outre la nécessaire correction pour l’albumine, il est également pertinent de procéder à une détermination de la PTH, de la 25-OH-vitamine D et du magnésium en cas de mise en évidence d’une hypocalcémie.  En plus de la sécrétion de PTH, le magnésium influence également la réponse des reins et des os à la PTH et le métabolisme de la vitamine D [5]. La sécrétion de PTH est contrôlée par une augmentation de l’adénosine ­monophosphate cyclique (AMPc). L’adénylate cyclase a besoin de magnésium pour convertir l’ATP en AMPc, si bien qu’une carence en magnésium empêche l’activation de l’enzyme et la formation d’AMPc malgré une hypocalcémie et ainsi la libération de PTH à partir des cellules parathyroïdiennes [6]. Après l’administration de magnésium, on assiste typiquement à une élévation de la PTH [1].  Le traitement de l’hypocalcémie aiguë ne consiste dès lors pas uniquement en l’administration orale ou, en cas de carence sévère, intraveineuse de calcium, mais également en la correction d’une carence en magnésium et en vitamine D.  Sur la figure 1, nous voyons qu’en cas de carence en 25-OH-vitamine D, le substrat nécessaire à la formation de 1,25-dihydroxy-vitamine D active fait défaut et une substitution correspondante est dès lors essentielle. En outre, nous pouvons déduire de la figure 1 qu’une ­hypercalcémie ne représente pasune contre-indication à une substitution de la 25-OH-vitamine-D, car cette dernière freine l’activité et la croissance des adénomes parathyroïdiens (la cause la plus fréquente de l’hypercalcémie) via un mécanisme de rétroaction négative et atténue en partie l’absorption osseuse augmentée.  Il est également possible de déduire de la figure 1 qu’en cas d’hypoparathyroïdie persistante (par ex. après une opération de la thyroïde), la substitution de la 1,25-dihydroxy-vitamine D (Rocaltrol®) est elle aussi centrale. Cette dernière est impérative pour l’absorption du ­calcium à partir de l’intestin et via les reins et peut uniquement être formée par l’activation de l’alpha-hydroxylase, qui dépend de la PTH. En cas de carence en PTH, la formation de 1,25-dihydroxy-vitamine est donc insuffisante et doit être substituée au moyen de Rocaltrol®.  Ce cas illustre comment le métabolisme du calcium est régulé par l’interaction étroite entre la PTH, la vitamine D, le calcium et le magnésium et montre que tous ces facteurs revêtent dès lors une grande importance dans le diagnostic et le traitement.  L’essentiel pour la pratique  • Etant donné que le calcium biologiquement disponible dépend de l’albumine, le calcium corrigé pour l’albumine doit toujours être calculé en cas de suspicion d’un trouble du métabolisme du calcium.  • En cas d’hypocalcémie avérée, il convient non seulement de déterminer la 25-OH-vitamine D et la parathormone (PTH), mais également le magnésium, car ce dernier a une influence sur la sécrétion de PTH, la réponse des reins et des os à la PTH et le métabolisme de la vitamine D.  • Une carence en magnésium est responsable d’une sécrétion de PTH ­perturbée malgré une stimulation physiologique maximale par l’hypocalcémie et réduit en outre la sensibilité des organes cibles à la PTH.  • En cas d’hypoparathyroïdie persistante potentielle, il convient non ­seulement de substituer le calcium et la 25-OH-vitamine D mais également la 1,25-dihydroxy-vitamine D (Rocaltrol®), car sans PTH, il ne peut pas y avoir d’activation de l’alpha-hydroxylase rénale et sans 1,25-dihydroxy-vitamine D, la réabsorption de calcium à partir de l’intestin et via les reins est insuffisant.

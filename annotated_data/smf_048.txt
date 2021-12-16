@@ -1,0 +1,39 @@
+Contexte
+
+Les douleurs au niveau de l’anus sont souvent (trop) rapidement interprétées comme une affection proctologique telle que les hémorroïdes ou les fissures anales. Elles peuvent toutefois avoir une tout autre origine.
+
+Description du cas
+
+Une femme âgée de 52 ans, autrement saine et active, se présente en larmes à notre consultation de gastro-entérologie. Depuis trois mois, elle souffre de douleurs atraumatiques progressives «autour du canal anal». Celles-ci présentent un caractère diffus et augmentent en position assise et couchée. La défécation, inchangée en termes de quantité et qualité, améliore brièvement les symptômes. La coloscopie réalisée quatre semaines auparavant n’a révélé aucune anomalie à part des hémorroïdes de premier degré.
+
+Les symptômes douloureux ont été interprétés comme une affection hémorroïdale. Le traitement topique réalisé ensuite n’a pourtant apporté aucune amélioration symptomatique.
+
+Après une inspection ne présentant aucune anomalie, la palpation périanale du côté dorsal provoque déjà une légère douleur à la pression. Lors du toucher rectal, qui met en évidence un tonus sphinctérien normal sans résistance palpable, la palpation du coccyx cause une douleur prononcée. L’anuscopie révèle des hémorroïdes de premier degré.
+
+Après avoir informé la patiente et recueilli son consentement relatif à l’intervention, la mobilisation articulaire du coccyx est pratiquée en direction caudo-dorsale, avec pour conséquence immédiate une réduction de la douleur. A son grand soulagement, la patiente peut quitter le cabinet sans douleur.
+
+Discussion
+
+La coccygodynie qualifie les douleurs partant du coccyx. Celles-ci surviennent lorsqu’une pression est exercée sur le coccyx: en position assise et couchée, au moment de se lever depuis la position assise ainsi que lors de l’extension de l’articulation de la hanche en position assise («se pencher en arrière»). De même, la défécation est généralement décrite comme exacerbant la douleur, elle entraîne toutefois une brève amélioration de la symptomatique dans notre cas. La flexion de l’articulation de la hanche («se pencher en avant»), la marche et la position debout viennent soulager la douleur. Adopter une posture de ménagement entraîne souvent des douleurs musculosquelettiques secondaires dues à une sacro-iliite, une bursite ischiatique et un syndrome du piriforme [1]. En revanche, des ­douleurs lombaires ne surviennent que dans environ 1% des cas [2]. La coccygodynie est souvent précédée d’un traumatisme (notamment chute, accouchement, chirurgie rectale). Toutefois, il s’agit généralement de microtraumatismes dont les patients ne se souviennent plus, comme faire du vélo ou de la moto dans une position inadaptée ou rester assis dans une mauvaise posture pendant longtemps [2]. Il n’existe aucune donnée chiffrée fiable concernant l’incidence. Les femmes sont néanmoins cinq fois plus souvent touchées par la forme chronique de la coccygodynie [2].
+
+La coccygodynie est un diagnostic clinique établi par l’anamnèse typique et la reproductibilité des douleurs à la palpation du coccyx.
+
+Afin de mettre en évidence une instabilité et la position du coccyx, des radiographies fonctionnelles du coccyx peuvent être réalisées par rayonnement latéral. Il y a hypermobilité en cas de flexion supérieure à 25° et hypermobilité pour une flexion inférieure à 5° en position assise (par rapport à la position debout). L’amplitude normale de flexion se situe donc entre 5–25°. Par ailleurs, la radiographie peut mettre en évidence une luxation ou une éventuelle fracture. Etant donné que ces informations n’ont jusqu’à présent aucune conséquence thérapeutique directe, nous renonçons à pratiquer des examens radiographiques fonctionnels.
+
+Dans un premier temps, un traitement conservateur à base d’anti-inflammatoires non stéroïdiens (AINS) est recommandé et il est conseillé d’éviter une pression ­directe sur le coccyx. Il convient à cet effet d’adopter le moins souvent possible une position assise. Si cela est nécessaire, des coussins en forme de bouée, fer à cheval ou en biseau peuvent être utilisés pour soulager la pression (attention: le coussin en biseau doit être utilisé afin d’augmenter la flexion de la hanche, c’est-à-dire avec la partie basse vers l’arrière).
+
+Dans une prochaine étape, diverses formes thérapeutiques sont envisagées, pour lesquelles seules des preuves cliniques limitées sont toutefois disponibles: traitements par infiltration locale ou du ganglion Impar, radiofréquence pulsée du ganglion Impar, bloc épidural caudal et thérapie manuelle. Bien que la thérapie manuelle affiche un résultat relativement modeste avec un taux de réponse de 26% sur six mois et 24% sur deux ans [4], nous privilégions cette forme thérapeutique. Elle peut en effet être pratiquée facilement et sans dispositif technique, permettant ainsi d’aider rapidement un certain nombre de patients. Les ouvrages de référence citent comme formes de thérapie manuelle la mobilisation articulaire, le massage ainsi que l’étirement du muscle élévateur de l’anus [4]. Nous utilisons la mobilisation articulaire. Elle consiste à saisir le coccyx entre l’index situé dans le rectum et le pouce placé sur la peau, et à le mobiliser en direction caudo-dorsale. Il est décrit que la manipulation doit être réalisée sous anesthésie. Selon notre expérience, cette intervention brève et indolore est bien tolérée. Toutefois, le patient doit évidemment être informé avant l’intervention. De même, une brève sédation doit être proposée si souhaitée.
+
+En cas d’échec du traitement après manipulation, nous adressons les patients à des spécialistes de la douleur pour une infiltration. En présence d’une évolution chronique, la coccygectomie est une forme thérapeutique dont la réponse clinique est bonne [2]. La complication la plus fréquente est alors l’infection de la plaie en raison de la proximité anatomique au rectum [2].
+
+Dans la figure 1, l’approche thérapeutique en cas de coccygodynie est illustré.
+
+Figure 1: Approche thérapeutique en cas de coccygodynie. AINS: anti-inflammatoires non stéroïdiens; IRM: imagerie par résonance magnétique.
+
+En cas de symptomatique récidivante ou persistante, le diagnostic différentiel doit envisager un processus malin. Il peut s’agir de tumeurs primaires au niveau du coccyx (telles que le très rare chordome, une tumeur osseuse maligne non hématopoïétique) ou d’une métastase (par exemple carcinome du côlon, de l’utérus, de l’ovaire ou de la prostate). Il est alors recommandé d’effectuer un examen d’imagerie par résonance magnétique. La simple radiographie n’est pas suffisamment sensible pour cette problématique.
+
+Take-Home-Messages
+
+• En cas de douleurs dans la région anale, qui augmentent en position assise ou couchée, le diagnostic différentiel d’une coccygodynie doit être considéré.
+
+• La mobilisation articulaire du coccyx est une option thérapeutique envisageable et facile à pratiquer.

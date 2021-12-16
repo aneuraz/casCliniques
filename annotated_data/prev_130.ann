@@ -1,0 +1,13 @@
+T1	disorder 1309 1329	 colique néphrétique
+T2	disorder 2840 2890	 signes modérés de maladie hémolytique postnatale 
+T3	procedure 2588 2615	titrage en Coombs indirect 
+T4	procedure 3009 3025	phénotype Rhésus
+T5	procedure 3027 3050	test de Coombs indirect
+T6	procedure 3052 3089	dosage d’hémoglobine et de bilirubine
+T7	procedure 3327 3341	’anémie fœtale
+T8	labvalue 4879 4905	 hémoglobine à 6,7g /100ml
+T9	labvalue 4911 4936	plaquettes à 68 OOO / mm3
+T10	labvalue 4943 4973	test de Coombs direct positif.
+T11	labvalue 5054 5077	Coombs indirect : 1/256
+T12	disorder 5304 5331	anasarque foeto-placentaire
+T13	disorder 5356 5393	allo-immunisation dans le système Rh 

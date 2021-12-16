@@ -1,0 +1,72 @@
+T1	irrelevant 0 8;10 1815;1817 1836;1837 1855	Contexte  Les vascularites sont des maladies auto-immunes, qui se manifestent dans différents systèmes d’organes. La classification de ces maladies repose sur les segments vasculaires touchés, sur le tableau clinique et histologique, ainsi que sur les anticorps présents. La vascularite associée aux anticorps anti-cytoplasme des polynucléaires neutrophiles (ANCA), qui se caractérise par la présence typique d’ANCA, représente un sous-groupe de vascularites systémiques primitives. La granulomatose avec polyangéite (GPA, maladie de Wegener) est une vascularite nécrosante des petits vaisseaux avec des granulomes avant tout au niveau des voies respiratoires et des reins. Les manifestations localisées de la GPA peuvent toucher les voies respiratoires supérieures ou les yeux [1]. Tandis que des ANCA peuvent le plus souvent être mis en évidence dans les formes systémiques de la maladie, ils se retrouvent uniquement dans 83% des cas dans les formes localisées [2]. Conformément aux recommandations de consensus de 2017, des ANCA doivent être recherchés au moyen de tests basés sur des antigènes spécifiques (ELISA) pour la protéinase 3 (PR3) et la myéloperoxydase (MPO) en cas de suspicion de vascularite associée aux ANCA [3]. En cas de résultat de test négatif et de forte suspicion clinique, il convient en complément de réaliser une immunofluorescence indirecte (IFI). L’IFI sur granulocytes neutrophiles humains fixés à l’éthanol permet de distinguer divers profils de fluorescence cytoplasmique: marquage granuleux cytoplasmique (cANCA), marquage périnucléaire (pANCA) ou marquage atypique cytoplasmique (xANCA). La mise en évidence de PR3-ANCA coïncide le plus souvent avec l’IFI positive pour les cANCA, et la mise en évidence de MPO-ANCA coïncide le plus souvent avec l’IFI positive pour les pANCA [3].  Présentation du cas Anamnèse et statut
+T2	disorder 1937 1961	 inflammation systémique
+T3	disorder 2002 2038	état général et nutritionnel diminué
+T4	labvalue 2067 2077	21,2 kg/m2
+T5	procedure 2040 2066	indice de masse corporelle
+T6	disorder 2122 2132	toux sèche
+T7	disorder 2134 2147	rhinosinusite
+T8	disorder 2149 2159	xérostomie
+T9	disorder 2161 2172	odynophagie
+T10	disorder 2174 2182	épiphora
+T11	disorder 2184 2191	otalgie
+T12	disorder 2193 2204	hypoacousie
+T13	disorder 2206 2212	fièvre
+T14	labvalue 2214 2219	39 °C
+T15	disorder 2222 2236	perte de poids
+T16	disorder 2284 2291	fatigue
+T17	disorder 2316 2327	hypoacousie
+T18	disorder 2352 2365	rhinosinusite
+T19	disorder 2378 2403	trouble de la ventilation
+T20	disorder 2497 2513	dépôt blanchâtre
+T21	disorder 2521 2538	œdèmes des jambes
+T22	procedure 2434 2449	examen clinique
+T23	procedure 2651 2676	protéine C réactive (CRP)
+T24	labvalue 2680 2688	100 mg/l
+T25	disorder 2719 2749	anémie microcytaire hypochrome
+T26	procedure 2768 2784	hémoglobine (Hb)
+T27	labvalue 2788 2794	74 g/l
+T28	procedure 2814 2864	teneur corpusculaire moyenne en hémoglobine (TCMH)
+T29	labvalue 2868 2873	26 pg
+T30	procedure 2891 2920	volume globulaire moyen (VGM)
+T31	labvalue 2924 2929	76 fl
+T32	procedure 2945 2955	créatinine
+T33	procedure 3017 3035	analyses urinaires
+T34	disorder 3056 3072	microalbuminurie
+T35	procedure 3090 3117	rapport albumine/créatinine
+T36	labvalue 3121 3130	5,3 g/mol
+T37	procedure 3134 3144	créatinine
+T38	procedure 3188 3224	rapport protéines totales/créatinine
+T39	labvalue 3228 3240	14,93 g/mol 
+T40	procedure 3243 3253	créatinine
+T41	procedure 3288 3322	tomodensitométrie (TDM) thoracique
+T42	disorder 3335 3371	épaississement péribronchovasculaire
+T43	disorder 3422 3446	nodules intrapulmonaires
+T44	procedure 3487 3500	bronchoscopie
+T45	disorder 3506 3521	trachée décalée
+T46	disorder 3572 3613	muqueuse d’aspect pavimenteux et sensible
+T47	procedure 3671 3702	lavage broncho-alvéolaire (LBA)
+T48	disorder 3769 3812	prolifération des granulocytes neutrophiles
+T49	irrelevant 4088 4407	Figure 1: Tomodensitométrie thoracique. Epaississements péribronchovasculaires étendus, en partie nodulaires, à prédominance centrale, touchant tous les lobes pulmonaires, avec de petits nodules intrapulmonaires isolés et des consolidations en petites taches dans le cadre d’une granulomatose avec polyangéite atypique.
+T50	disorder 4543 4588	maladie inflammatoire systémique rhumatismale
+T51	procedure 4610 4683	tomographie par émission de positons au 18F-fluorodésoxyglucose (TEP FDG)
+T52	procedure 4800 4831	métabolisme du glucose augmenté
+T53	disorder 5534 5563	vascularite associée aux ANCA
+T54	disorder 5571 5596	maladie associée aux IgG4
+T55	procedure 5601 5620	taux sérique d’IgG4
+T56	procedure 5732 5750	immunofluorescence
+T57	irrelevant 6535 6978	Figure 2: Biopsie du cornet nasal inférieur droit (coloration à l’hématoxyline et à l’éosine, × 40). Nécrose centrale, avec des cellules géantes multinucléées (flèche) sur le côté gauche de l’image. Les préparations histologiques de la muqueuse nasale ont été envoyées pour évaluation consultative à l’institut de pathologie de l’hôpital Marienkrankenhaus de Hambourg, Allemagne, qui a confirmé le diagnostic de granulomatose avec polyangéite.
+T58	drugs 7290 7306	cyclophosphamide
+T59	drugs 7310 7319	rituximab
+T60	drugs 7393 7402	rituximab
+T61	drugs 7476 7492	cyclophosphamide
+T62	drugs 7531 7548	­cyclophosphamide
+T63	drugs 7664 7680	cyclophosphamide
+T64	drugs 7822 7842	glucocorticothérapie
+T65	drugs 7847 7866	­méthylprednisolone
+T66	procedure 8107 8110	CRP
+T67	labvalue 8112 8120	17 mg/l)
+T68	procedure 8146 8148	Hb
+T69	labvalue 8150 8157	124 g/l
+T70	drugs 8212 8224	azathioprine
+T71	drugs 8228 8237	rituximab
+T72	irrelevant 8255 8265;8267 8770;8772 9288;9290 9852;9854 10904;10906 11331;11333 11361;11363 11500;11502 11748;11750 11911	Discussion  Dans le cas présenté dans cet article, le patient présentait une maladie inflammatoire systémique avec ­atteinte des voies respiratoires inférieures et supérieures, et des altérations granulomateuses ont été mises en évidence à l’histologie. Outre une GPA, une maladie associée aux IgG4, une autre vascularite des petits vaisseaux, une granulomatose éosinophilique avec polyangéite (GEPA) et une polyangéite microscopique (PAM) entraient également en ligne de compte dans le diagnostic différentiel [1].  Les concentrations sériques d’IgG4 peuvent être augmentées chez les patients atteints de vascularites associées aux ANCA [5]. Sur la base des résultats de laboratoire, le patient remplissait les critères d’Umehara pour une possible maladie associée aux IgG4, mais deux autres maladies devaient au préalable être exclues chez ce patient [5]. Le patient ne présentait pas d’asthme ni d’éosinophilie, qui auraient dû être présents en cas de GEPA; par ailleurs, les granulomes ne sont pas caractéristiques d’une PAM [1].  La pose du diagnostic de GPA nécessite au préalable une classification de la maladie au sein du spectre des vascularites associées aux ANCA. A cet effet, au minimum un des critères suivants doit être rempli: mise en évidence histologique d’une vascularite, marqueur de substitution clinique (mononévrite multiple, purpura) ou mise en évidence d’ANCA et d’au moins une manifestation organique en dehors des voies respiratoires. Ce n’est qu’après que les critères de classification du «American College of Rheumatology» (ACR) de 1990 peuvent être appliqués [4, 6].  Le défi particulier dans notre cas consistait à classer la maladie parmi le groupe des vascularites associées aux ANCA alors que des ANCA n’ont pas été mis en évidence et qu’une vascularite n’a pas été objectivée à l’examen histologique. Si des ANCA (PR3 ou MPO) avaient été détectés chez ce patient, la maladie aurait sans problème été classifiée en tant que GPA. La définition de la GPA d’après la nomenclature du «International Chapel Hill Consensus» de 2012 était également satis­faite [1]. Dans la littérature, jusqu’à 96% de tous les patients atteints de GPA sont positifs pour les ANCA; pour les formes localisées, ce pourcentage s’élève à 83% [2]. Les cas ANCA-négatifs sont généralement des formes avec atteinte organique limitée, habituellement restreinte aux voies respiratoires supérieures. Dans le cas décrit, les voies respiratoires inférieures étaient également atteintes. L’inflammation de l’aorte infrarénale visualisée à la TEP-TDM reste indéterminée, mais elle peut potentiellement aussi correspondre à une manifestation de la GPA.  Il s’agissait ainsi d’une constellation très rare de GPA systémique, avec absence de mise en évidence d’ANCA. Cette constellation n’est pas prise en compte dans l’application des critères actuels. De nouveaux critères de classification pour diverses vascularites sont actuellement en cours de développement sur la base d’une vaste banque de données de la «Diagnostic and Classification Criteria for Vasculitis Study» (DCVAS).  L’essentiel pour la pratique  • Les vascularites associées aux ANCA sont généralement des maladies auto-immunes systémiques avec mise en évidence d’ANCA dans le sérum.  • Le diagnostic d’une GPA nécessite au préalable que la maladie soit classée parmi le spectre des vascularites associées aux ANCA; ensuite, les critères de classification du «American College of Rheumatology» (ACR) de 1990 peuvent être appliqués.  • L’absence de mise en évidence d’ANCA n’exclut pas une GPA lorsque la maladie parvient à être diagnostiquée par le biais d’anomalies cliniques ou histologiques.

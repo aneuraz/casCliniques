@@ -1,0 +1,59 @@
+Contexte
+
+Nous rapportons le cas d’un patient âgé de 60 ans avec douleurs épigastriques aiguës récidivantes, diarrhée et perte de poids. Les examens ont révélé un angiœdème viscéral, ainsi qu’une histologie compatible avec une maladie cœliaque. Les anticorps spécifiques de la maladie cœliaque étaient toutefois négatifs.
+
+Présentation du cas
+Anamnèse et statut
+
+Un patient de 60 ans nous a été adressé en raison d’une diarrhée persistant depuis quatre mois (4 × /jour, selles non sanglantes), d’une perte de poids de huit kilogrammes et d’une survenue épisodique de douleurs épigastriques à type de pression, s’accompagnant de nausées et de vomissements. Le jour de l’admission et déjà quatre semaines auparavant, les douleurs épigastriques étaient survenues de façon aiguë, après un intervalle sans douleurs.
+
+Les antécédents du patient comprenaient une hypothyroïdie (lévothyroxine sodique 0,05 mg/j), une hypertension artérielle (olmésartan 20 mg/j, prise irrégulière depuis six ans) et un reflux gastro-œsophagien (pantoprazole 20 mg/j, au besoin). Une panendoscopie des voies aérodigestives supérieures avec biopsies et une iléocoloscopie 18 mois auparavant s’étaient révélées sans particularités, à l’exception d’une petite hernie hiatale axiale et d’un adénome tubulaire dans le côlon transverse.
+
+A l’admission, les paramètres vitaux étaient normaux (pression artérielle 125/78 mm Hg, pouls 69/min, température 36,5 °C). A l’examen clinique, l’abdomen était souple, avec une légère douleur à la pression dans la partie supérieure de l’abdomen. Il y avait uniquement de rares bruits intestinaux.
+
+Résultats et diagnostic
+
+Le bilan de laboratoire réalisé à l’admission a révélé une légère leucocytose de 11 000 g/l ainsi qu’une concentration d’hémoglobine de 184 g/l, avec une numération sanguine différentielle au demeurant sans particularités. Les autres paramètres (électrolytes, transaminases, phosphatase alcaline, créatinine et protéine C réactive [CRP]) étaient normaux.
+
+L’échographie a mis en évidence des anses de l’intestin grêle dilatées et remplies de liquide avec des mouvements pendulaires, en tant qu’expression d’un trouble du transit. La tomodensitométrie (TDM) abdominale réalisée le jour de l’admission a montré une rétention gastrique ainsi qu’un épaississement circulaire de la paroi du duodénum, particulièrement au niveau de la partie descendante et de la partie horizontale, sans réaction périfocale (fig. 1). Une rupture de calibre n’a pas été constatée.
+
+Figure 1: Tomodensitométrie abdominale avec épaississement circulaire de la paroi duodénale (partie horizontale).
+
+La tryptase sérique était normale. L’examen des selles a révélé un taux accru de calprotectine (1670 mg/kg de selles, norme <50), mais la PCR multiplex à la recherche d’agents entéropathogènes était normale.
+
+Le lendemain, la gastroscopie a montré une muqueuse duodénale œdémateuse (fig. 2), qui était compatible avec le résultat de la TDM. Des biopsies ont été prélevées au niveau de l’intestin grêle. L’iléocoloscopie était sans particularités.
+
+Figure 2: Endoscopie avec œdème prononcé de la paroi duodénale.
+
+
+Une entérographie par résonance magnétique réalisée le troisième jour d’hospitalisation a montré, de façon quelque peu surprenante, un intestin d’apparence normale, sans épaississement pariétal ni trouble du transit.Les biopsies colorectales étaient sans particularités. Une lymphocytose intra-épithéliale CD3+ se présentant en foyers a été retrouvée dans la muqueuse de l’antre gastrique et était compatible avec une gastrite lymphocytaire. Les biopsies duodénales ont montré une atrophie villositaire totale avec nette hyperplasie des cryptes et lymphocytose intra-épithéliale (lymphocytes CD3) (fig. 3).
+
+Figure 3: Atrophie villositaire totale de la muqueuse duodénale avec hyperplasie des cryptes (à gauche, coloration H&E) et forte lymphocytose intraépithéliale (à droite, ­immunohistochimie) correspondant aux anomalies retrouvées dans la maladie cœliaque. Grossissements x55.
+
+Dans l’ensemble, les résultats concordaient ainsi avec une entéropathie induite par le gluten (type Marsh 3c). Les anticorps spécifiques de la maladie cœliaque négatifs et les biopsies duodénales normales 18 mois auparavant remettaient en doute la présence d’une maladie cœliaque. A l’anamnèse, il est apparu qu’à la fois le jour de l’admission et quatre semaines auparavant, les symptômes étaient apparus deux à trois heures après la prise d’olmésartan. Au cours des dernières semaines, l’olmésartan avait été interrompu en raison de valeurs normales de pression artérielle. A la fois les douleurs épigastriques de survenue aiguë accompagnées de nausées et vomissements (angiœdème viscéral) et la diarrhée persistant depuis quatre mois avec perte de poids (atrophie des villosités duodénales dans le cadre d’une entéropathie apparentée à la sprue) ont bel et bien pu être attribuées à l’antagoniste des récepteurs AT1 olmésartan.
+
+Traitement et évolution
+
+L’olmésartan a été interrompu le jour de l’admission. La CRP a légèrement augmenté de façon transitoire (au maximum 31 mg/l) par la suite. La calprotectine dans les selles était déjà régressive (119 mg/kg de selles) une semaine après l’arrêt de l’olmésartan. Dans le cadre d’un syndrome de malabsorption, des carences en acide folique, en vitamine B12 et en vitamine D3 ont été trouvées, et une supplémentation a dû être initiée. Face à une intolérance au lactose secondaire, un régime pauvre en lactose a été mis en place. Les douleurs ne sont plus réapparues par la suite. La diarrhée a cessé et le patient a pris du poids.
+
+Discussion
+
+L’entéropathie apparentée à la sprue est un effet indésirable rare mais grave de l’antagoniste des récepteurs AT1 olmésartan. Sur le plan clinique, elle se caractérise par une diarrhée chronique avec perte de poids. Sur le plan histologique, des anomalies histopathologiques semblables à la sprue sont retrouvées dans la muqueuse duodénale. En 2013, la «US Food and Drug Administration» (FDA) a émis une mise en garde correspondante pour l’olmésartan dans le cadre de sa «Drug Safety Communication». Entre-temps, cette affection a également été observée sous d’autres sartans (tels que le valsartan) [1].
+
+L’entéropathie apparentée à la sprue sous olmésartan a été décrite pour la première fois en 2012 dans une série de cas (la plus grande à ce jour) portant sur 22 patients [2]. La plupart des patients étaient déjà sous traitement par olmésartan depuis des mois voire des années avant l’apparition de la diarrhée. Tous souffraient depuis longtemps de diarrhée (durée médiane de 19 mois) et d’une perte de poids sévère. Les nausées, les vomissements, les douleurs abdominales, les ballonnements et la fatigue étaient d’autres symptômes fréquents. Plus de la moitié des patients ont dû être hospitalisés en ­raison des symptômes prononcés. Des anticorps spécifiques de la maladie cœliaque n’ont été mis en évidence chez aucun patient. A l’endoscopie, la muqueuse duodénale a été décrite comme normale, atrophique ou nodulaire, mais pas comme œdémateuse comme chez notre patient. Chez tous les participants à l’étude, les biopsies duodénales ont montré une atrophie villositaire, qui était totale dans la majorité des cas. Chez un tiers des patients, une bande de collagène épaisse a été constatée au niveau sous-épithélial. Une gastrite ou une colite lymphocytaire ou collagène supplémentaire a été mise en évidence chez une partie des patients. Sur le plan thérapeutique, les patients ne présentaient pas de réponse clinique à un régime sans gluten. L’arrêt de l’olmésartan a en revanche entraîné une disparition de la diarrhée et une prise de poids chez tous les participants. Sur le plan histologique, une récupération de la muqueuse duodénale a été mise en évidence dans pratiquement tous les cas, en moyenne huit mois après l’arrêt de l’olmésartan.
+
+La diarrhée et la perte de poids chez le patient décrit dans cet article pouvaient bien s’expliquer par l’atrophie duodénale dans le cadre de l’entéropathie apparentée à la sprue. En revanche, ce sont les douleurs épigastriques, les nausées et les vomissements qui ont mené à l’admission du patient. Ces symptômes survenaient à chaque fois peu après la prise d’olmésartan, qui faisait suite à une période sans prise du médicament. A l’admission, l’examen d’imagerie a montré un gonflement de la paroi duodénale, qui n’était plus détectable après l’arrêt de l’olmésartan. Un angiœdème viscéral était donc responsable des douleurs aiguës. L’angiœdème viscéral est un effet indésirable connu des inhibiteurs de l’enzyme de conversion de l’angiotensine (ECA), mais il est également décrit sous antagonistes des récepteurs AT1 et devrait donc être pris en compte dans le diagnostic différentiel des douleurs abdominales [3, 4].
+
+L’entéropathie apparentée à la sprue et l’angiœdème viscéral représentent ainsi deux effets indésirables rares des sartans. La présence des deux entités chez le même patient n’a, à notre connaissance, pas encore été décrite dans la littérature. Pourrait-il y avoir un lien physiopathologique entre le tableau aigu (angiœdème viscéral) et le tableau subaigu-chronique (entéropathie apparentée à la sprue)? En cas d’angiœdème viscéral ­induit par les antagonistes des récepteurs AT1, tout comme en cas d’angiœdème induit par les inhibiteurs de l’ECA, des concentrations sériques accrues de bradykinine sont mesurées. Celles-ci pourraient être causées par une stimulation des cellules endothéliales suite à une quantité accrue d’angiotensine II circulante [4]. Pour l’entéropathie apparentée à la sprue, les facteurs pathogéniques envisagés incluent un effet pro-apoptotique dû à une expression accrue des récepteurs AT2 à la surface cellulaire des entérocytes (qui sont activés par l’angiotensine II), une composante génétique (typage HLA-DQ2 fréquent), ainsi qu’un processus à médiation immunitaire (inhibition du «transforming growth factor beta») [2, 5]. Ainsi, dans les deux affections, l’angiotensine II semble être impliquée dans le pathomécanisme. Toutefois, il n’est pour l’heure pas possible de répondre à la question de savoir s’il existe un lien physiopathologique.
+
+L’essentiel pour la pratique
+
+• Dans de rares cas, l’olmésartan peut être responsable d’une entéropathie apparentée à la sprue. Etant donné que l’olmésartan est souvent utilisé, cette affection peut également se rencontrer au cabinet.
+
+• L’entéropathie apparentée à la sprue peut survenir des mois voire des années après le début du traitement. Elle est caractérisée par une diarrhée chronique sévère avec perte de poids.
+
+• Les anticorps spécifiques de la maladie cœliaque sont toutefois négatifs. Les patients ne répondent pas à un régime sans gluten.
+
+• En cas de mise en évidence histologique d’une maladie cœliaque mais de sérologie négative, il convient de songer aux antagonistes des récepteurs AT1 comme cause possible.
+
+• Un angiœdème viscéral devrait être pris en compte dans le diagnostic différentiel des douleurs abdominales aiguës. Il convient alors de songer aux inhibiteurs de l’ECA et aux antagonistes des récepteurs AT1 comme cause possible.

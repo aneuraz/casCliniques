@@ -1,0 +1,96 @@
+T1	disorder 192 231	 maladie à coronavirus 2019 (COVID-19) 
+T2	disorder 448 454	 toux,
+T3	disorder 459 472	éternuements 
+T4	disorder 851 882	méningo-encéphalite bactérienne
+T5	disorder 997 1005	COVID-19
+T6	disorder 1023 1045	yndrome de Tako-Tsubo 
+T7	disorder 1194 1244	bronchopneumo­pathie chronique obstructive (BPCO) 
+T8	procedure 1269 1290	lobectomie supérieure
+T9	disorder 1310 1330	carcinome bronchique
+T10	disorder 1391 1401	une fièvre
+T11	disorder 1405 1418	une faiblesse
+T12	disorder 1427 1445	état confusionnel 
+T13	disorder 1514 1520	fièvre
+T14	labvalue 1537 1542	40 °C
+T15	disorder 1694 1727	test PCR sur frottis nasopharyngé
+T16	labvalue 1775 1782	négatif
+T17	procedure 1837 1859	température corporelle
+T18	labvalue 1863 1870	39,2 °C
+T19	procedure 1875 1894	pression artérielle
+T20	labvalue 1907 1919	155/80 mm Hg
+T21	procedure 1924 1929	pouls
+T22	labvalue 1932 1938	88/min
+T23	procedure 1945 1966	saturation en oxygène
+T24	labvalue 1969 1972	98%
+T25	disorder 2153 2167	désorientation
+T26	disorder 2210 2233	 trouble de l’élocution
+T27	disorder 2247 2265	méningisme discret
+T28	procedure 2283 2306	analyses de laboratoire
+T29	disorder 2321 2333	 leucocytose
+T30	labvalue 2337 2344	12 G/l 
+T31	disorder 2382 2394	neutrophilie
+T32	procedure 2419 2423	CRP 
+T33	labvalue 2426 2435	390 mg/l 
+T34	procedure 2471 2483	hémocultures
+T35	procedure 2506 2523	ponction lombaire
+T36	labvalue 2568 2576	 281/μl 
+T37	labvalue 2610 2640	62% de cellules polynucléaires
+T38	labvalue 2671 2679	625 mg/l
+T39	procedure 2648 2666	teneur en protéine
+T40	procedure 2720 2744	concentration de glucose
+T41	labvalue 2797 2807	2,4 mmol/l
+T42	procedure 2928 2946	coloration de Gram
+T43	procedure 2952 2980	mise en culture bactérienne 
+T44	procedure 2994 3006	analyses PCR
+T45	procedure 3259 3282	tomodensitométrie (TDM)
+T46	disorder 3345 3364	méningo-encéphalite
+T47	drugs 3422 3433	ceftriaxone
+T48	procedure 3388 3417	antibiothérapie intraveineuse
+T49	procedure 3465 3485	traitement antiviral
+T50	drugs 3490 3500	aciclovir 
+T51	procedure 3541 3544	PCR
+T52	labvalue 3556 3594	négative pour les virus HSV-1/2 et VZV
+T53	procedure 3599 3618	coloration de Gram 
+T54	procedure 3659 3674	culture du LCR 
+T55	procedure 3719 3731	PCR sur LCR 
+T56	labvalue 3737 3766	négative pour les entérovirus
+T57	procedure 3789 3802	hémocultures 
+T58	labvalue 3820 3879	roissance de bacilles à Gram négatif dans le flacon aérobie
+T59	drugs 3944 3955	ceftriaxone
+T60	labvalue 3956 3980	Capnocytophaga canimorsu
+T61	procedure 4015 4039	PCR eubactérienne du LCR
+T62	labvalue 4051 4060	négative;
+T63	disorder 4185 4237	lésions ouvertes au niveau des doigts des deux mains
+T64	procedure 4317 4340	désinfection ­intensive
+T65	disorder 4561 4579	 Eczéma des mains 
+T66	disorder 4883 4891	fièvre e
+T67	disorder 4898 4915	état confusionnel
+T68	disorder 4932 5014	méningo-encéphalite bactérienne due à la bactérie canine Capnocytophaga canimorsus
+T69	disorder 5314 5342	 fortes douleurs thoraciques
+T70	disorder 5350 5363	dyspnée aiguë
+T71	procedure 5386 5406	saturation en oxygèn
+T72	labvalue 5410 5428	85% en air ambiant
+T73	procedure 5469 5499	pression artérielle systolique
+T74	labvalue 5502 5514	 >200 mm Hg 
+T75	procedure 5520 5540	fréquence cardiaque 
+T76	labvalue 5552 5558	94/min
+T77	procedure 5564 5583	électrocardiogramme
+T78	procedure 5675 5678	TDM
+T79	disorder 5774 5791	œdème pulmonaire.
+T80	procedure 5839 5848	troponine
+T81	labvalue 5870 5873	19 
+T82	labvalue 5875 5883	82 ng/l 
+T83	procedure 5965 5982	échocardiographie
+T84	disorder 6067 6137	hypo­kinésies/akinésies septales, latérales et médio-inféro-­latérales
+T85	disorder 6211 6237	cardiopathie coronarienne,
+T86	disorder 6238 6283	un syndrome de Tako-Tsubo médio-ventriculaire
+T87	procedure 6314 6339	angiographie coronarienne
+T88	procedure 6411 6429	 ventriculographie
+T89	disorder 6444 6466	syndrome de Tako-Tsubo
+T90	procedure 6471 6495	traitement médicamenteux
+T91	procedure 6620 6635	antibiothérapie
+T92	irrelevant 6650 6660;6662 7564	Discussion  En plus d’avoir de vastes conséquences médicales et économiques, la pandémie de COVID-19 a également un impact considérable sur notre comportement au quotidien. Suite aux recommandations en matière d’hygiène préconisant de se laver et désinfecter fréquemment les mains, la prévalence de l’eczéma des mains a considérablement augmenté [1]. L’effraction de la barrière cutanée représente une porte d’entrée ­potentielle pour divers agents pathogènes, comme ­notamment la bactérie Capnocytophaga canimorsus décrite dans notre cas. Les règles comportementales, telles que la distanciation sociale, le confinement ou l’interdiction des visites dans les hôpitaux, ont des ­répercussions sur la santé psychique, qui, à leur tour, peuvent donner lieu à des maladies, telles que le syndrome de Tako-Tsubo. Ainsi, le COVID-19 peut être ­associé à une morbidité accrue non seulement directe, mais aussi indirecte.
+T92	irrelevant 7566 8357;8359 10265	Nous n’avons pas administré de dexaméthasone pour le traitement d’une éventuelle méningite à pneumocoques, étant donné que le nombre de cellules dans le LCR clair était inférieur à 1000/µl et qu’aucune bactérie n’était visible dans la coloration de Gram [2]. De même, une méningite à Listeria était moins probable dans notre cas: même si la patiente avait déjà plus de 50 ans, il n’y avait pas d’indices évocateurs d’une immunosuppression, tels que diabète sucré, abus d’alcool, asplénie, cirrhose hépatique, insuffisance rénale ou infection par le VIH [3]. En outre, la patiente ne consommait pas de produits laitiers non pasteurisés. Les méningites à Listeria s’accompagnent souvent de déficits neurologiques focaux ou de crises épileptiques, ce qui n’était pas le cas chez notre patiente.  Capnocytophaga canimorsus est un bacille à Gram ­négatif, qui fait partie de la flore buccale normale des chiens et des chats. Cette bactérie peut être transmise à l’être humain par morsure, léchage ou griffure (en latin «canimorsus» = morsure de chien). Certains facteurs prédisposants, tels que l’asplénie, l’abus d’alcool et les maladies chroniques, augmentent le risque d’infection, mais des personnes jusqu’alors en bonne santé peuvent également être affectées [4]. La durée entre l’infection et l’apparition des premiers symptômes est de 1–8 jours. Le diagnostic est principalement posé par mise en évidence du germe dans les hémocultures. Comme il s’agit d’une bactérie à croissance lente, l’incubation devrait être prolongée jusqu’à 14 jours ou plus [5]. La bactérie peut être cultivée sur «chocolate agar» ou «brain heart infusion agar» avec 5% de sang de lapin dans une atmosphère contenant 5% de CO2 [6]. Outre la méningite, les autres principales présentations possibles incluent le sepsis, l’endocardite, l’endophtalmie, l’arthrite, la cellulite et même la fasciite et la gangrène [7, 8]. La létalité associée au sepsis à Capnocytophaga canimorsusest élevée (26–56%), tandis que le pronostic des infections localisées, telles que la méningite, est nettement meilleur (létalité 5–6%) [4, 7, 8]. L’amoxicilline/acide clavulanique représente le traitement de choix; en cas de méningite, il convient toutefois d’administrer une bêta-lactamine ayant une bonne pénétration dans le système nerveux central, telle que la ceftriaxone. La bactérie est également sensible aux tétracyclines ou à la clindamycine [9]. En dehors de Capnocytophaga canimorsus, diverses autres bactéries aérobies (Pasteurellaspp., Streptococcusspp., Staphylococcusspp., Neisseriaspp.) et anaérobies (Fusobacteriumspp., Prevotellaspp., Bacteroidesspp., Porphyromonasspp.) peuvent être transmises par les morsures de chien [10].
+T92	irrelevant 10267 10919;10921 10949	Le syndrome de Tako-Tsubo est une forme de cardiomyopathie (souvent) réversible, qui fait souvent suite à un évènement émotionnel fort [11]. Dans notre cas, il s’agissait de l’interdiction des visites dans les ­hôpitaux en raison de la pandémie de COVID-19, suite à quoi la patiente a eu une conversation téléphonique éprouvante. Dans le cadre d’une fonction ventriculaire gauche réduite, des valeurs élevées de pression artérielle ont entraîné une insuffisance cardiaque aiguë avec œdème pulmonaire. L’échocardiographie a permis de suspecter un syndrome de Tako-Tsubo, qui a ­finalement été confirmé par angiographie coronarienne et ventriculographie.  L’essentiel pour la pratique
+T92	irrelevant 10951 11213;11215 11373	• Le COVID-19 a un impact sur tous les domaines de la médecine et il peut également être responsable d’une morbidité indirecte (par ex. effraction de la barrière cutanée en raison d’une hygiène des mains intensive, ­situations éprouvantes sur le plan psychique).  • Capnocytophaga canimorsus est une bactérie de la flore buccale normale des chiens, qui peut être transmise à l’être humain par morsure, léchage et griffure.
+T92	irrelevant 11375 11474;11476 11720	• La méningo-encéphalite est une présentation possible et son évolution est potentiellement létale.  • Il s’agit d’une bactérie à croissance lente. Le traitement de choix est l’amoxicilline/acide clavulanique; en cas de méningite, il convient d’administrer de la ceftriaxone en raison de sa meilleure pénétration dans le système nerveux central.

@@ -1,0 +1,18 @@
+T1	disorder 128 157	une fracture du col du fémur.
+T2	procedure 189 210	(pose d’un clou gamma
+T3	irrelevant 216 261	programmée le lendemain matin, fin de matinée
+T4	irrelevant 49 126	Mr M., 82 ans, est hospitalisé dans un service d’orthopédie-traumatologie pou
+T5	profession 266 289	 médecin anesthésiste p
+T6	drugs 412 422	PREVISCAN*
+T7	drugs 493 503	vitamine K
+T8	procedure 504 525	 Un contrôle de l’INR
+T9	procedure 593 619	’intervention chirurgicale
+T10	procedure 639 652	bilan sanguin
+T11	profession 733 753	médecin anesthésiste
+T12	irrelevant 812 985;986 1185	Lors du tour du matin, débuté à 8h30, l’infirmière en charge du secteur où se trouve le malade est avec une étudiante infirmière de 2° année. Elles entrent dans la chambre : - l’étudiante infirmière prend les paramètres vitaux de Mr M. pendant que l’infirmière prépare les médicaments prescrits par l’anesthésiste dans le cadre du traitement maintenu pour la prémédication,
+T13	irrelevant 1186 1299	- l’infirmière les dépose dans le pilulier donné la veille (dans la case du soir) sans le préciser à l’étudiante,
+T14	irrelevant 1301 1434	 l’étudiante voit les médicaments dans le pilulier, dans la case soir, et en déduit que ce sont les médicaments non donnés la veille,
+T15	irrelevant 1437 1639	elle prend un autre pilulier préparé la veille, avec le traitement habituel, pour la période post-opératoire, et donne les médicaments sans vérifier leur concordance avec la prescription pré-opératoire.
+T16	irrelevant 1641 1807	A 10h00, le bloc appelle le service, pour demander de prémédiquer Mr M. (anxiolytique). C’est à ce moment que l’infirmière retrouve dans la chambre les deux piluliers
+T17	irrelevant 1809 1966	et surtout les médicaments qu’elle avait préparé lors du tour du matin. Elle questionne l’étudiante, et ensemble elles comprennent l’erreur d’administration.
+T18	profession 2002 2014	anesthésiste

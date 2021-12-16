@@ -1,0 +1,68 @@
+T1	irrelevant 0 12	Cas clinique
+T2	profession 67 74	médecin
+T3	profession 89 108	chirurgien urologue
+T4	procedure 134 137	PSA
+T5	labvalue 140 149	18,1ng/ml
+T6	disorder 207 212	angor
+T7	procedure 243 255	angioplastie
+T8	procedure 261 308	implantation d’un stent sur la coronaire droite
+T9	disorder 345 368	hypertension artérielle
+T10	profession 373 384	cardiologue
+T11	drugs 434 446	antiagrégant
+T12	drugs 448 455	Aspégic
+T13	drugs 472 483	hypotenseur
+T14	drugs 485 493	Moducren
+T15	disorder 524 529	angor
+T16	disorder 587 605	hémiparésie droite
+T17	disorder 611 664	aphasie secondaire à un ramollissement sylvien gauche
+T18	disorder 683 710	trouble du rythme cardiaque
+T19	disorder 728 749	accident neurologique
+T20	procedure 788 794	Holter
+T21	labvalue 828 874	arythmie complète par fibrillation auriculaire
+T22	profession 879 889	neurologue
+T23	profession 896 907	cardiologue
+T24	drugs 963 975	antiagrégant
+T25	drugs 985 994	Previscan
+T26	drugs 980 983	AVK
+T27	procedure 1012 1015	INR
+T28	drugs 1061 1076	anti arythmique
+T29	drugs 1110 1117	timolol
+T30	drugs 1134 1142	Moducren
+T31	profession 1288 1299	cardiologue
+T32	disorder 1434 1479	petits troubles de la parole et de l’écriture
+T33	procedure 1496 1500	cœur
+T34	labvalue 1516 1522	60/min
+T35	procedure 1533 1536	ECG
+T36	labvalue 1541 1555	rythme sinusal
+T37	profession 1586 1594	urologue
+T38	profession 1599 1606	médecin
+T39	disorder 1658 1661	AVC
+T40	drugs 1674 1677	AVK
+T41	profession 1711 1721	chirurgien
+T42	procedure 1796 1809	radiothérapie
+T43	disorder 1871 1877	cancer
+T44	procedure 1886 1905	biopsie prostatique
+T45	procedure 1941 1962	scintigraphie osseuse
+T46	profession 2014 2025	cardiologue
+T47	profession 2145 2162	urologue revoyait
+T48	procedure 2188 2201	scintigraphie
+T49	profession 2239 2249	chirurgien
+T50	profession 2337 2348	cardiologue
+T51	profession 2403 2414	cardiologue
+T52	profession 2498 2505	rologue
+T53	procedure 2527 2546	biopsie prostatique
+T54	drugs 2620 2629	Previscan
+T55	drugs 2669 2676	Lovenox
+T56	drugs 3140 3153	anticoagulant
+T57	profession 3266 3274	urologue
+T58	drugs 3292 3305	anticoagulant
+T59	disorder 3424 3441	hémiplégie droite
+T60	procedure 3446 3468	scanographie cérébrale
+T61	disorder 3665 3711	arythmie complète par fibrillation auriculaire
+T62	drugs 3717 3732	anticoagulation
+T63	drugs 3737 3744	Lovenox
+T64	drugs 3776 3783	Sintrom
+T65	disorder 3950 3993	déficit permanent du membre supérieur droit
+T66	disorder 4161 4206	rythmie complète par fibrillation auriculaire
+T67	disorder 4242 4260	cancer prostatique
+T68	profession 4277 4296	chirurgien urologue

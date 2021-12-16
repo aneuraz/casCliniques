@@ -1,0 +1,17 @@
+T1	risk 111 118	fumeuse
+T2	disorder 157 164	dyspnée
+T3	disorder 302 309	dyspnée
+T4	disorder 332 336	toux
+T5	disorder 358 366	wheezing
+T6	disorder 393 405	éternuements
+T7	disorder 450 457	dyspnée
+T8	disorder 542 557	rhume des foins
+T9	disorder 602 614	éternuements
+T10	procedure 1023 1038	Appendicectomie
+T11	procedure 1060 1074	amygdalectomie
+T12	drugs 1127 1137	Loratadine
+T13	disorder 1283 1295	tachypnéique
+T14	labvalue 1298 1304	28/min
+T15	procedure 1332 1350	Tension artérielle
+T16	labvalue 1353 1364	145/80 mmHg
+T17	disorder 1629 1643	hyperinflation

@@ -1,0 +1,131 @@
+T1	procedure 29 38	plaignait
+T2	disorder 47 66	douleurs lombaires 
+T3	disorder 79 86	fébrile
+T4	disorder 107 115	frissons
+T5	procedure 280 291	Température
+T6	labvalue 292 299	39,9° C
+T7	disorder 301 326	Douleurs fosses lombaires
+T8	disorder 335 357	brûlures mictionnelles
+T9	disorder 375 400	Polykystose hépato rénale
+T10	disorder 471 499	Infection respiratoire aiguë
+T11	drugs 526 535	Augmentin
+T12	procedure 566 569	NFS
+T13	procedure 624 627	CRP
+T14	labvalue 572 581	17 590 GB
+T15	labvalue 630 638	247 mg/l
+T16	procedure 641 663	Echographie abdominale
+T17	disorder 677 693	images kystiques
+T18	disorder 756 775	Pyélonéphrite aiguë
+T19	drugs 804 813	Augmentin
+T20	drugs 847 855	Dafalgan
+T21	procedure 961 965	ECBU
+T22	labvalue 1003 1022	nombreux leucocytes
+T23	procedure 1031 1047	Escherichia coli
+T24	labvalue 1048 1057	résistant
+T25	drugs 1060 1072	amoxicilline
+T26	drugs 1074 1083	Augmentin
+T27	drugs 1085 1096	Gentamicine
+T28	drugs 1098 1108	Quinolones
+T29	drugs 1124 1138	ciprofloxacine
+T30	drugs 1152 1159	Bactrim
+T31	drugs 1161 1172	Ceftriaxone
+T32	drugs 1174 1181	Furanes
+T33	drugs 1184 1195	Fosfomycine
+T34	drugs 1253 1266	Bactrim forte
+T35	drugs 1485 1494	Augmentin
+T36	profession 1534 1549	médecin de cure
+T37	disorder 1640 1653	pyélonéphrite
+T38	disorder 1693 1711	douleurs lombaires
+T39	procedure 1725 1733	consulte
+T40	procedure 1759 1767	prescrit
+T41	procedure 1771 1778	scanner
+T42	disorder 1803 1822	sacro-iléite gauche
+T43	procedure 1866 1879	consultation 
+T44	disorder 1907 1943	Douleurs dorsales aiguës et intenses
+T45	disorder 1945 1951	Fièvre
+T46	labvalue 1952 1957	38° C
+T47	procedure 1959 1961	GB
+T48	labvalue 1964 1974	17 700/mm3
+T49	procedure 1976 1979	CRP
+T50	labvalue 1981 1991	 135 mg/ml
+T51	procedure 1993 1999	Urines
+T52	labvalue 2002 2010	leuco+++
+T53	procedure 2013 2024	Echographie
+T54	disorder 2029 2054	Polykystose hépato-rénale
+T55	disorder 2082 2112	infection de kyste ou un abcès
+T56	disorder 2131 2160	Pyélonéphrite non obstructive
+T57	procedure 2162 2172	Traitement
+T58	drugs 2175 2184	Rocéphine
+T59	drugs 2207 2218	gentamicine
+T60	disorder 2288 2306	douleurs lombaires
+T61	procedure 2260 2276	Hospitalisation 
+T62	disorder 2325 2358	syndrome inflammatoire biologique
+T63	procedure 2360 2362	GB
+T64	labvalue 2365 2377	20 000 / mm3
+T65	procedure 2379 2382	CRP
+T66	labvalue 2383 2391	120 mg/l
+T67	drugs 2408 2439	Céphalosporine de 3e génération
+T68	drugs 2441 2444	C3G
+T69	drugs 2449 2464	fluoroquinolone
+T70	drugs 2471 2486	fluoroquinolone
+T71	profession 2538 2553	chef de service
+T72	disorder 2563 2603	Douleurs continues des bases thoraciques
+T73	disorder 2730 2747	douleurs diffuses
+T74	procedure 2784 2803	examen neurologique
+T75	profession 2838 2856	infirmière de nuit
+T76	procedure 3094 3119	réévaluer avec le médecin
+T77	disorder 3213 3223	paraplégie
+T78	procedure 3225 3228	IRM
+T79	disorder 3260 3281	Spondylodiscite T5 T6
+T80	disorder 3287 3306	abcès périvertébral
+T81	disorder 3345 3367	compression médullaire
+T82	procedure 3379 3389	transférée
+T83	procedure 3455 3468	 intervention
+T84	procedure 3472 3493	Laminectomie T4-T5-T6
+T85	disorder 3495 3528	Tissu très inflammatoire sans pus
+T86	procedure 3531 3560	Prélèvements bactériologiques
+T87	labvalue 3561 3569	négatifs
+T88	drugs 3587 3596	Rocéphine
+T89	drugs 3600 3607	Bactrim
+T90	procedure 3608 3610	IV
+T91	drugs 3627 3640	Bactrim forte
+T92	procedure 3812 3840	séjour en centre rééducation
+T93	procedure 3866 3883	réhospitalisation
+T94	disorder 3902 3910	fébriles
+T95	procedure 3916 3918	GB
+T96	labvalue 3919 3929	14 800/mm3
+T97	procedure 3933 3936	CRP
+T98	labvalue 3939 3947	170 mg/l
+T99	disorder 3971 3990	 infection urinaire
+T100	procedure 3993 4013	Enterobacter cloacae
+T101	drugs 4035 4044	Augmentin
+T102	drugs 4046 4053	Bactrim
+T103	drugs 4055 4071	fluoroquinolones
+T104	drugs 4073 4076	C3G
+T105	drugs 4082 4090	céfépime
+T106	procedure 4092 4101	Mise sous
+T107	drugs 4102 4110	céfépime
+T108	procedure 4135 4146	Hémoculture
+T109	labvalue 4147 4155	stérile 
+T110	procedure 4182 4185	IRM
+T111	disorder 4195 4220	régression de l'épidurite
+T112	procedure 4240 4243	CRP
+T113	labvalue 4246 4255	10,8 mg/l
+T114	procedure 4274 4300	hospitalisation à domicile
+T115	procedure 4333 4345	hospitalisée
+T116	disorder 4351 4374	pyélonéphrite à E. coli
+T117	procedure 4376 4383	Traitée
+T118	drugs 4387 4394	 Tiénam
+T119	drugs 4400 4409	Rocéphine
+T120	procedure 4461 4489	consultation de néphrologie 
+T121	procedure 4533 4547	IRM médullaire
+T122	labvalue 4551 4569	sans particularité
+T123	procedure 4590 4604	IRM médullaire
+T124	labvalue 4608 4626	absence d'anomalie
+T125	disorder 4644 4665	spondylodiscite T5-T6
+T126	procedure 4691 4710	date de l'expertise
+T127	procedure 4782 4805	marche lors de l'examen
+T128	disorder 4847 4888	élargissement du polygone de sustentation
+T129	disorder 4946 4962	signe de Romberg
+T130	disorder 4969 5027	troubles de la sensibilité profonde aux membres inférieurs
+T131	procedure 5199 5206	Saisine

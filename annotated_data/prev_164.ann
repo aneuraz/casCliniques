@@ -1,0 +1,56 @@
+T1	disorder 296 374	opérée antérieurement d’une appendicectomie et d’une cure de hernie ombilicale
+T2	procedure 402 439	intervention pour prothèse de hanche 
+T3	procedure 516 540	 bilan cardio-vasculaire
+T4	procedure 1071 1082	échographie
+T5	disorder 827 873	stase stercorale rectale et du bas-fond caecal
+T6	disorder 969 990	anse médio-abdominale
+T7	disorder 1506 1548	rythme sinusal avec quelques extrasystoles
+T8	disorder 1206 1248	Syndrome de masse kystique latéro-vésicale
+T9	procedure 1266 1283	tomodensitométrie
+T10	labvalue 1323 1336	15,7 g/100 ml
+T11	labvalue 1356 1368	12 000/ mm3 
+T12	procedure 1412 1427	bilan hépatique
+T13	procedure 1432 1443	bilan rénal
+T14	procedure 1449 1459	ionogramme
+T15	procedure 1479 1482	ECG
+T16	procedure 1608 1665	 mise en aspiration par sonde naso-gastrique (siphonnage)
+T17	drugs 2238 2246	Topalgic
+T18	drugs 2254 2261	Inexium
+T19	drugs 2269 2277	Profenid
+T20	procedure 2996 3004	ablation
+T21	drugs 5136 5143	Inexium
+T22	drugs 5149 5157	Debridat
+T23	drugs 5160 5167	Spasfon
+T24	drugs 5172 5183	Calciparine
+T25	drugs 5080 5088	Tranxéne
+T26	drugs 5111 5119	Morphine
+T27	drugs 4864 4872	Caprosin
+T28	procedure 4843 4860	Fermeture cutanée
+T29	disorder 4327 4348	anses grêles dilatées
+T30	disorder 4375 4426	schémie au niveau de la partie proximale de l’iléon
+T31	procedure 4025 4089	Traitement chirurgical d’une occlusion du grêle sous cœlioscopie
+T32	procedure 4092 4099	section
+T33	disorder 4110 4136	Ischémie subaiguë du grêle
+T34	procedure 4138 4177	Réalisation d’un pneumopéritoine au CO2
+T35	procedure 4179 4217	Mise en place des 3 trocarts habituels
+T36	procedure 4812 4841	Evacuation du pneumopéritoine
+T37	procedure 5621 5651	poser une sonde naso-gastrique
+T38	procedure 5668 5692	ne injection de morphine
+T39	drugs 5900 5908	Hypnovel
+T40	procedure 5868 5918	anesthésie de la glotte et sous Hypnovel (1,5 mg)®
+T41	procedure 6108 6121	 laparotomie 
+T42	procedure 6631 6677	Résection du diverticule mésentérique du grêle
+T43	procedure 6679 6746	Fermeture de l’ouverture du grêle par des points séparés de PDS 4.0
+T44	procedure 6749 6883	Extériorisation de la zone ischémique et perforée du grêle (iléon proximal) au niveau de l’hypochondre droit (iléostomie sur baguette)
+T45	procedure 6886 6933	Résection partielle du kyste de l’ovaire gauche
+T46	procedure 6936 6991	Nettoyage abondant de la cavité au sérum chaud 2 litres
+T47	procedure 6993 7032	Mise en place de deux lames de drainage
+T48	procedure 7034 7055	Fermeture de la paroi
+T49	labvalue 7143 7150	10 cmHg
+T50	disorder 7160 7186	 tachycardie à 120/130/min
+T51	drugs 7413 7421	Claforan
+T52	drugs 7424 7434	Gentalline
+T53	drugs 7437 7443	Flagyl
+T54	procedure 7396 7411	antibiothérapie
+T55	labvalue 8617 8628	110/60 mmHg
+T56	disorder 8630 8640	tachycarde

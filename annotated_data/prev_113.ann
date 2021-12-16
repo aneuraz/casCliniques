@@ -1,0 +1,14 @@
+T1	profession 97 104	médecin
+T2	procedure 175 195	frottis de dépistage
+T3	labvalue 228 368	« aspect cytologique évoquant une lésion épidermoïde intra épithéliale de haut grade et nécessitant un contrôle biopsique sous colposcopie »
+T4	profession 595 602	médecin
+T5	profession 624 631	médecin
+T6	procedure 726 749	examens complémentaires
+T7	procedure 757 765	biopsies
+T8	labvalue 788 850	 foyers de dysplasie de haut grade développés sur un ectropion
+T9	procedure 872 889	conisation du col
+T10	procedure 895 922	analyse anatomopathologique
+T11	labvalue 953 1201	« des petits foyers de lésions virales HPV condylomateuses, planes, associées à une dysplasie des glandes endo cervicales réalisant quelques îlots d’adénocarcinomes très bien différenciés in situ de l’endocol avec un trait d’exérèse en tissu sain »
+T12	procedure 1209 1222	hystérectomie
+T13	disorder 1316 1322	cancer
+T14	procedure 1370 1395	ntervention chirurgicale 

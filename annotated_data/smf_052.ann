@@ -1,0 +1,82 @@
+T1	disorder 97 113	éruption cutanée
+T2	disorder 242 250	 anosmie
+T3	labvalue 311 319	positif 
+T4	procedure 326 337	 SARS-CoV-2
+T5	disorder 437 455	 légère toux sèche
+T6	disorder 461 486	 températures subfébriles
+T7	disorder 563 573	’exanthème
+T8	disorder 622 632	’allergies
+T9	disorder 641 665	un zona thoracique droit
+T10	disorder 714 733	 maladies cutanées.
+T11	disorder 841 849	 fébrile
+T12	labvalue 851 859	39,4 °C)
+T13	disorder 941 1045	exanthème maculo-papuleux en partie confluent prédominant au niveau de la région fessière et des cuisses
+T14	procedure 1046 1064	 L’examen clinique
+T15	disorder 1145 1154	thrombose
+T16	procedure 1260 1269	 COVID-19
+T17	disorder 1218 1250	 les anomalies de l’hémogramme t
+T18	disorder 1276 1287	lymphopénie
+T19	disorder 1291 1302	éosinopénie
+T20	disorder 1304 1331	une réaction inflammatoire 
+T21	procedure 1356 1380	marqueurs de fibrinolyse
+T22	procedure 1392 1395	CRP
+T23	labvalue 1396 1405	129 mg/l,
+T24	procedure 1406 1415	d-dimères
+T25	labvalue 1416 1427	18 920 µg/l
+T26	procedure 1430 1456	Les hémocultures prélevées
+T27	labvalue 1469 1478	 stériles
+T28	procedure 1494 1518	L’échographie thoracique
+T29	anatomy 1521 1529	 chevet 
+T30	disorder 1551 1597	s lignes B confluentes à prédominance dorsale.
+T31	disorder 1687 1721	une pneumonie associée au COVID-19
+T32	disorder 1853 1869	œdème pulmonaire
+T33	disorder 1874 1923	pneumopathies interstitielles diffuses ou focales
+T34	disorder 1927 1993	infections et de «syndrome de détresse respiratoire ­aiguë» (SDRA)
+T35	disorder 1999 2020	épanchements pleuraux
+T36	disorder 2027 2058	 consolidations sous-pleurales 
+T37	procedure 2102 2115	l’échographie
+T38	procedure 2117 2189	La tomoden­sitométrie thoracique avec produit de contraste ­intraveineux
+T39	disorder 2216 2237	’embolie pulmonaire, 
+T40	disorder 2268 2319	infiltrats pulmonaires bilatéraux pathognomoniques 
+T41	procedure 2354 2378	Echographie thoracique: 
+T42	disorder 2379 2474	ignes B confluentes (flèche blanche) partant de la plèvre (flèche grise) au niveau dorsal droit
+T43	procedure 2508 2527	 Tomodensitométrie 
+T44	drugs 2854 2867	antipyrétique
+T45	drugs 2872 2883	paracétamol
+T46	procedure 2896 2924	 prophylaxie de la thrombose
+T47	drugs 2951 2962	énoxaparine
+T48	disorder 3062 3069	anosmie
+T49	disorder 3117 3128	subfébrile 
+T50	disorder 3222 3233	l’exanthème
+T51	anatomy 3269 3277	le tronc
+T52	disorder 3321 3339	d’un prurit modéré
+T53	disorder 3361 3370	Exanthème
+T54	anatomy 3400 3408	’abdomen
+T55	anatomy 3420 3423	dos
+T56	disorder 3574 3603	état inflammatoire persistant
+T57	procedure 3668 3671	CRP
+T58	labvalue 3672 3681	163 mg/l,
+T59	procedure 3682 3691	D-dimères
+T60	labvalue 3692 3702	3135 µg/l)
+T61	disorder 3780 3799	 thromboemboliques,
+T62	procedure 3840 3867	prophylaxie de la thrombose
+T63	procedure 3935 3951	’anticoagulation
+T64	drugs 4149 4163	 antipyrétique
+T65	drugs 4249 4263	lévocétirizine
+T66	drugs 4461 4475	lévocétirizine
+T67	disorder 4598 4608	toux sèche
+T68	disorder 4629 4638	’anosmie 
+T69	disorder 4736 4759	manifestations cutanées
+T70	disorder 4897 4921	 manifestations cutanées
+T71	anatomy 4966 4972	tronc,
+T72	disorder 6128 6160	une infection par le SARS-CoV-2.
+T73	disorder 5996 6005	COVID-19,
+T74	disorder 6011 6034	anifestations cutanées 
+T75	procedure 6211 6231	un test de dépistage
+T76	disorder 6342 6371	d’infection par le SARS-CoV-2
+T77	disorder 6507 6528	urticaire allergique 
+T78	disorder 6534 6598	 intolérance aux inhibiteurs de la synthèse des prostaglandines.
+T79	disorder 5036 5061	 manifestations cutanées 
+T80	disorder 5195 5221	Les manifestations cutanée
+T81	disorder 5251 5287	 lésions acrales à type d’engelures 
+T82	disorder 5301 5379	 d’efflorescences maculo-papuleuses (21%), vésiculaires (13%) et urticariennes

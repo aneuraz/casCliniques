@@ -1,0 +1,19 @@
+T1	disorder 14 50	malformation veineuse superficielles
+T2	disorder 231 251	handicap fonctionnel
+T3	disorder 252 263	 esthétique
+T4	disorder 267 293	psychologique considérable
+T5	disorder 415 455	tuméfaction au niveau de la fesse droite
+T6	disorder 462 553	ugmentait progressivement de volume en donnant une coloration ­légèrement bleutée à la peau
+T7	irrelevant 566 771	Figure 1: A) Présentation clinique de la malformation veineuse de la fesse droite. B) Image montrant le résultat satisfaisant de la ­chirurgie. (La publication a été réalisée avec l’accord de la patiente.)
+T8	disorder 804 830	masse de consistance molle
+T9	disorder 832 838	froide
+T10	disorder 840 852	bien limitée
+T11	disorder 860 924	diminue considérablement de volume à la manœuvre de compression 
+T12	disorder 941 962	malformation veineuse
+T13	procedure 969 972	IRM
+T14	disorder 1013 1043	opacification de type veineuse
+T15	disorder 1047 1072	 structures serpigineuses
+T16	disorder 1074 1106	sous cutanées de la fesse droite
+T17	procedure 1136 1152	 bloc opératoire
+T18	disorder 1340 1420	malformation veineuse sans signe de prolifération tumorale ni signe de dysplasie
+T19	irrelevant 1423 1433;1435 1979;1981 2177	Discussion  Les malformations veineuses sont des anomalies vasculaires à flux lent constituées de veines dysplasiques dont les parois sont déficientes en cellules musculaires lisses [2]. Lorsque la peau est envahie par la malformation, le diagnostic est assez facile. Lorsque la peau est de coloration normale, elle peut rester longtemps méconnue, et n’entraîne souvent aucun symptôme avant l’âge de la puberté. L’écho-Doppler et l’imagerie par résonance ­magnétique sont des examens clés pour caractériser et diagnostiquer les malformations veineuses [3].  La chirurgie est à considérer comme l’option thérapeutique la plus adaptée aux formes localisées pouvant être reséquées en totalité avec des conséquences anatomiques et fonctionnelles minimes [4].

@@ -1,0 +1,84 @@
+T1	disorder 140 161	contractions utérines
+T2	disorder 169 207	rupture spontanée de la poche des eaux
+T3	procedure 212 230	liquide amniotique
+T4	labvalue 234 240	 clair
+T5	procedure 247 252	bilan
+T6	labvalue 286 294	 normal 
+T7	labvalue 299 304	13,1g
+T8	procedure 307 318	hémoglobine
+T9	labvalue 320 327	198.000
+T10	procedure 328 338	plaquettes
+T11	labvalue 342 348	6,51 g
+T12	procedure 352 363	fibrinogène
+T13	procedure 399 408	perfusion
+T14	disorder 512 524	hyperthermie
+T15	procedure 562 585	naissance par ventouse 
+T16	procedure 746 764	déchirure vaginale
+T17	procedure 794 805	épisiotomie
+T18	procedure 811 819	suturées
+T19	procedure 827 836	perfusion
+T20	disorder 874 891	pertes sanguines 
+T21	procedure 1024 1040	sondage urinaire
+T22	procedure 1099 1108	perfusion
+T23	disorder 1173 1184	saignements
+T24	disorder 1190 1213	conjonctives sont pâles
+T25	disorder 1221 1232	saignements
+T26	disorder 1271 1288	globe est tonique
+T27	disorder 1308 1321	globe vésical
+T28	procedure 1326 1329	TA 
+T29	labvalue 1333 1340	normale
+T30	disorder 1420 1428	 malaise
+T31	disorder 1434 1448	chute de la TA
+T32	procedure 1507 1523	un bilan sanguin
+T33	procedure 1537 1540	NFS
+T34	procedure 1542 1552	plaquettes
+T35	disorder 1568 1579	saignements
+T36	procedure 1705 1719	sonde urinaire
+T37	disorder 1754 1800	globe utérin est tonique remontant à l'ombilic
+T38	disorder 1808 1819	saignements
+T39	procedure 1881 1892	échographie
+T40	disorder 1916 1963	volumineux caillots intra-utérins et cervicaux 
+T41	disorder 2210 2219	très pâle
+T42	disorder 2224 2235	oligoanurie
+T43	procedure 2260 2265	bilan
+T44	procedure 2358 2363	bilan
+T45	procedure 2412 2423	hémoglobine
+T46	labvalue 2436 2445	10,4 g/dl
+T47	procedure 2451 2461	plaquettes
+T48	labvalue 2464 2470	93.000
+T49	procedure 2532 2551	remplissage par HEA
+T50	procedure 2687 2696	perfusion
+T51	procedure 2596 2612	révision utérine
+T52	drugs 2729 2736	Nalador
+T53	drugs 2742 2748	Exacyl
+T54	procedure 2763 2770	hémocue
+T55	labvalue 2777 2779	7g
+T56	drugs 2815 2822	Nalador
+T57	disorder 2846 2872	majoration des saignements
+T58	disorder 2895 2910	inertie utérine
+T59	procedure 2927 2938	transfuser 
+T60	disorder 3172 3182	 HPP grave
+T61	procedure 3258 3269	transfusion
+T62	procedure 3351 3362	hémoglobine
+T63	labvalue 3368 3373	 5,8g
+T64	procedure 3379 3389	plaquettes
+T65	labvalue 3392 3398	23 000
+T66	procedure 3403 3405	TP
+T67	labvalue 3408 3412	50 %
+T68	procedure 3417 3428	fibrinogène
+T69	labvalue 3431 3435	1,51
+T70	procedure 3444 3457	créatininémie
+T71	labvalue 3460 3469	122 mg/ml
+T72	disorder 3488 3512	déglobulisation profonde
+T73	disorder 3518 3557	coagulation intra vasculaire disséminée
+T74	disorder 3561 3589	insuffisance rénale est posé
+T75	procedure 3616 3628	réanimation 
+T76	disorder 3646 3672	 état de choc hémorragique
+T77	procedure 3683 3690	intubée
+T78	procedure 3698 3731	embolisation des artères utérines
+T79	disorder 3881 3920	syndrome de détresse respiratoire aiguë
+T80	procedure 3947 3954	extubée
+T81	disorder 3963 3982	insuffisance rénale
+T82	procedure 4005 4012	dialyse
+T83	disorder 4036 4063	hématome de la grande lèvre
+T84	procedure 4077 4104	suture d’une plaie vaginale

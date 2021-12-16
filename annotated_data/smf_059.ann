@@ -1,0 +1,51 @@
+T1	irrelevant 0 8	Contexte
+T2	irrelevant 10 772;774 788;789 797	Selon l’expérience, les douleurs épigastriques constituent un motif fréquent de consultation en soins de premier recours ainsi qu’au service des urgences. Les diagnostics différentiels sont nombreux et s’étendent de maladies relativement inoffensives à des affectations nécessitant un traitement immédiat. L’anamnèse joue un rôle essentiel aussi bien pour l’aiguillage que pour l’évaluation clinique. Au quotidien clinique, il n’est pas toujours possible de recueillir celle-ci de manière concluante, et ce pour diverses raisons telles que les barrières linguistiques, les handicaps cognitifs ou les problèmes d’audition. Nous présentons ici un cas de douleurs épigastriques pour lequel la barrière de la langue a probablement entraîné une complication évitable.  Rapport de cas Anamnèse
+T3	risk 836 846	 Sri Lanka
+T4	disorder 978 1000	douleurs épigastriques
+T5	risk 1092 1099	poisson
+T6	risk 1106 1109	riz
+T7	disorder 1133 1141	douleurs
+T8	drugs 1405 1437	inhibiteur de la pompe à protons
+T9	disorder 1604 1612	douleurs
+T10	disorder 1779 1790	vomissement
+T11	disorder 1795 1808	régurgitation
+T12	irrelevant 2220 2229	Résultats
+T13	disorder 2277 2307	état général légèrement réduit
+T14	disorder 2322 2330	douleurs
+T15	risk 2337 2367	état nutritionnel d’embonpoint
+T16	procedure 2416 2435	pression artérielle
+T17	labvalue 2439 2451	123/95 mm Hg
+T18	procedure 2458 2463	pouls
+T19	labvalue 2467 2473	87/min
+T20	disorder 2492 2498	fièvre
+T21	procedure 2511 2534	température auriculaire
+T22	labvalue 2538 2545	37,1 °C
+T23	procedure 2696 2706	hémogramme
+T24	labvalue 2707 2713	normal
+T25	procedure 2740 2759	protéine C réactive
+T26	labvalue 2763 2770	94 mg/l
+T27	procedure 2772 2775	CRP
+T28	procedure 2847 2857	hépatiques
+T29	procedure 2859 2866	rénales
+T30	procedure 2868 2880	électrolytes
+T31	labvalue 2890 2897	normaux
+T32	irrelevant 2900 2923	Evaluation et évolution
+T33	procedure 3058 3070	gastroscopie
+T34	irrelevant 3247 3393	Figure 1: A)Résultat endoscopique de la mâchoire de poisson de 3 × 3 cm dans l’œsophage distal.B/C) Mâchoire de poisson complète après extraction.
+T35	disorder 3480 3516	érosions/ulcérations dans l’œsophage
+T36	procedure 3522 3539	tomodensitométrie
+T37	procedure 3541 3544	TDM
+T38	disorder 3629 3634	abcès
+T39	irrelevant 3820 3997;3999 4138	Figure 2: Tomodensitométrie (coupe coronaire) au niveau de l’œsophage distal à la paroi épaissie avec abcès latéralement adjacent à droite (flèches rouges) et inclusions de gaz.  Figure 3: Tomodensitométrie (coupe axiale) au niveau de l’œsophage distal (Œ) avec ­collection d’abcès latéralement adjacente à droite (A).
+T40	procedure 4196 4202	fièvre
+T41	labvalue 4214 4219	40 °C
+T42	procedure 4260 4283	traitement intraveineux
+T43	drugs 4297 4310	pipéracilline
+T44	drugs 4311 4321	tazobactam
+T45	drugs 4461 4475	d’amoxicilline
+T46	drugs 4476 4494	acide clavulanique
+T47	disorder 4581 4586	abcès
+T48	disorder 4600 4606	fièvre
+T49	disorder 4645 4653	douleurs
+T50	disorder 4790 4811	abcès para-œsophagien
+T51	irrelevant 5538 5548;5550 6259;6261 6373;6375 6403;6405 6614;6616 6810;6812 6997;6999 7224;7226 7314	Discussion  Même un symptôme apparemment évident (douleurs épigastriques liées à des aliments) nécessite une anamnèse ciblée afin de parvenir à un diagnostic correct et d’éviter des complications. Les arêtes de poissons ou autres fragments d’os coincés dans l’œsophage sont considérés comme des urgences [5] et doivent être retirés au plus vite [2, 4], car ils entraînent une perforation au niveau du tractus gastro-intestinal dans 15–35% des cas [3, 4]. Le risque de complications graves (lacération, ulcération, pénétration de la paroi œsophagienne) provoquant une infection et la destruction des tissus voisins [1, 2] augmente fortement avec le temps et dépend du type et de la taille des arêtes ou de l’os de poisson.  L’abcès médiastinal aurait probablement pu être évité au patient si la gastroscopie avait été réalisée plus tôt.  L’essentiel pour la pratique  • Les fortes douleurs liées à la nourriture ou encore les difficultés lors de l’ingestion d’aliments solides et/ou liquides – en particulier après consommation de poisson – doivent être examinées au plus vite.  • En particulier chez les patients de langue étrangère ou les patients issus d’une autre culture, l’anamnèse doit être organisée proactivement de manière à examiner/exclure tous les «red flags».  • Une tomodensitométrie native doit toujours avoir lieu en présence d’une suspicion clinique d’impaction d’arête ou d’os afin de localiser ou d’identifier les éventuelles complications.  • L’extraction retardée de corps étrangers tels que les arêtes de poisson ou autres fragments osseux dans l’œsophage présente un risque de perforation de la paroi œsophagienne et d’infection et destruction des tissus voisins.  • Il convient donc de viser l’extraction endoscopique d’urgence de tels corps étrangers.

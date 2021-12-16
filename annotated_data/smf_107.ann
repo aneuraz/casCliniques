@@ -1,0 +1,113 @@
+T1	disorder 10 35	Une douleur aiguë au pied
+T2	disorder 70 88	fasciite plantaire
+T3	disorder 95 126	éaction osseuse à la contrainte
+T4	disorder 139 205	ne fracture de stress au niveau de l’arrière-pied ou du médio-pied
+T5	procedure 258 266	imagerie
+T6	procedure 277 289	radiographie
+T7	procedure 291 302	échographie
+T8	procedure 303 343	 imagerie par résonance magnétique [IRM]
+T9	disorder 410 440	douleurs de la voûte plantaire
+T10	disorder 492 531	 une thrombose veineuse plantaire (TVP)
+T11	disorder 654 670	douleurs au pied
+T12	anatomy 746 752	 talon
+T13	anatomy 869 879	médio-pied
+T14	disorder 700 709	 douleurs
+T15	disorder 800 813	 Les douleurs
+T16	disorder 1178 1190	traumatisme.
+T17	disorder 1279 1333	syndrome de la bandelette ilio-tibiale au genou gauche
+T18	disorder 1440 1463	événement thrombotique.
+T19	drugs 1501 1539	contraceptif oral à base d’œstrogènes.
+T20	disorder 1597 1624	claudication de protection 
+T21	procedure 1677 1689	La palpation
+T22	disorder 1702 1768	 douleur prononcée à la pression au niveau de la fascia plantaire 
+T23	disorder 1770 1820	 une douleur à la pression au niveau du métatarse,
+T24	disorder 1771 1887	une douleur à la pression au niveau du métatarse, de l’os cuboïde et de la partie inférieure latérale de la cheville
+T25	disorder 1986 2004	fasciite plantaire
+T26	disorder 2013 2065	 réaction osseuse à la contrainte/fracture de stress
+T27	procedure 2071 2093	IRM de l’arrière-pied 
+T28	anatomy 2099 2110	médio-pied 
+T29	anatomy 2077 2093	 l’arrière-pied 
+T30	disorder 2144 2189	une thrombose des veines plantaires latérales
+T31	disorder 2191 2210	La fascia plantaire
+T32	procedure 2286 2315	IRM avec produit de contraste
+T33	anatomy 2321 2340	arrière-pied gauche
+T34	disorder 2356 2395	Veines plantaires latérales œdémateuses
+T35	disorder 2543 2581	réaction inflammatoire périvasculaire;
+T36	disorder 2582 2610	tubérosité du calcanéus (TC)
+T37	disorder 2612 2633	fascia plantaire (PF)
+T38	disorder 2635 2661	os cunéiforme latéral (CL)
+T39	disorder 2683 2723	veines plantaires latérales thrombosées 
+T40	disorder 2744 2831	 rehaussement périvasculaire dans le cadre de la réaction inflammatoire périvasculaire.
+T41	anatomy 2842 2848	médial
+T42	anatomy 2851 2861	 proximal,
+T43	anatomy 2956 2962	 talus
+T44	anatomy 2968 2986	sustentaculum tali
+T45	anatomy 2993 3019	musculus quadratus plantae
+T46	anatomy 3026 3058	musculus flexor digitorum brevis
+T47	anatomy 3065 3097	 musculus abductor digiti minimi
+T48	procedure 3107 3180	ne échographie Doppler et de compression des veines du mollet et du pied 
+T49	disorder 3238 3293	 la thrombose au niveau des veines plantaires latérales
+T50	anatomy 3370 3391	 Les veines du mollet
+T51	anatomy 3330 3361	les veines plantaires médiales 
+T52	procedure 3425 3498	Echographie Doppler de la plante du pied en travers de la voûte plantaire
+T53	disorder 3500 3543	Les veines plantaires latérales thrombosées
+T54	procedure 3600 3680	Echographie de compression de la plante du pied en travers de la voûte plantaire
+T55	disorder 3682 3705	Les veines thrombosées 
+T56	procedure 3750 3770	Le taux de dimères D
+T57	procedure 3872 3913	un examen diagnostique de la coagulation 
+T58	disorder 3955 3978	 déficit en protéine C.
+T59	drugs 4125 4139	anticoagulant 
+T60	drugs 4168 4181	(­rivaroxaban
+T61	procedure 4250 4283	bas de compression pour le mollet
+T62	procedure 4286 4325	L’échographie Doppler et de compression
+T63	irrelevant 4415 4425	Discussion
+T64	disorder 4445 4481	thrombose veineuse plantaire isolée 
+T65	disorder 4495 4513	 douleurs du pied 
+T66	disorder 4684 4707	des douleurs plantaires
+T67	disorder 4710 4729	 un œdème du pied. 
+T68	disorder 4803 4818	phlébographies 
+T69	anatomy 4824 4831	 jambes
+T70	anatomy 4835 4841	pieds 
+T71	disorder 4858 4861	TVP
+T72	procedure 4946 4950	 IRM
+T73	procedure 4957 4976	échographie Doppler
+T74	procedure 4985 4991	L’IRM 
+T75	disorder 5111 5117	La TVP
+T76	anatomy 5140 5172	 les veines plantaires latérales
+T77	anatomy 5182 5212	des veines plantaires médiales
+T78	anatomy 5243 5262	 veines plantaires 
+T79	anatomy 5295 5315	les veines digitales
+T80	disorder 5388 5410	une fasciite plantaire
+T81	disorder 5413 5447	ne réaction osseuse de contrainte 
+T82	disorder 5449 5472	 une fracture de stress
+T83	disorder 5474 5487	une tendinite
+T84	disorder 5489 5634	un syndrome de l’intersection plantaire avec conflit entre le tendon du long fléchisseur de l’hallux et le tendon du long fléchisseur des orteils
+T85	disorder 5635 5677	 une compression du nerf plantaire latéral
+T86	disorder 5700 5710	l’arthrose
+T87	disorder 5726 5791	’extension distale de la thrombose vers les veines interdigitales
+T88	disorder 5827 5847	un névrome de Morton
+T89	disorder 5849 5865	une sésamoïdite 
+T90	disorder 5868 5898	une bursite intermétatarsienne
+T91	disorder 5941 5944	TVP
+T92	disorder 5992 6002	 thrombose
+T93	disorder 6130 6148	une tumeur maligne
+T94	disorder 6150 6165	un traumatisme,
+T95	disorder 6166 6207	l’immobilisation et le statut post-partum
+T96	disorder 6406 6433	léger déficit en protéine C
+T97	drugs 6366 6399	 contraceptif à base d’œstrogènes
+T98	drugs 6056 6102	inhibiteurs de l’ovulation à base d’œstrogènes
+T99	disorder 6500 6506	 TVP. 
+T100	procedure 6523 6555	diagnostic externe de coagulatio
+T101	disorder 6612 6638	prophylaxie de la thrombos
+T102	drugs 6655 6664	héparine 
+T103	drugs 7245 7258	anticoagulant
+T104	drugs 7259 7265	(NACO)
+T105	disorder 7342 7352	thrombose 
+T106	disorder 7519 7551	La thrombose veineuse plantaire 
+T107	disorder 7552 7555	TVP
+T108	disorder 7597 7617	la douleur plantaire
+T109	anatomy 7681 7699	 la voûte du pied 
+T110	anatomy 7724 7756	les veines plantaires latérales.
+T111	disorder 7760 7766	La TVP
+T112	procedure 7864 7884	L’examen IRM du pied
+T113	disorder 7963 7980	douleurs du pied.

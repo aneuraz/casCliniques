@@ -1,0 +1,62 @@
+Contexte
+
+Le syndrome de l’homme raide (SHR) est caractérisé par une augmentation généralisée du tonus musculaire à prédominance axiale et proximale. Sa prévalence est estimée à un à deux cas par million d’habitants [1, 2]. Dans environ 2–5% des cas, cette condition survient en tant que syndrome paranéoplasique, représentant ainsi un indice en vue d’une maladie tumorale sous-jacente. Dans les cas sévères, le SHR conduit à une forte limitation de la mobilité et de l’autonomie du patient [1].
+
+Présentation du cas
+Anamnèse
+
+Un patient âgé de 86 ans a été hospitalisé fin septembre 2018 en raison d’une immobilité croissante. Il se plaignait de douleurs ainsi que d’une rigidité musculaire dans les deux jambes et dans la région des muscles du dos. Il avait en outre perdu cinq kilogrammes au cours des deux derniers mois et depuis quelques mois, des températures subfébriles survenaient. Il ne présentait toutefois pas de fièvre ou de sueurs nocturnes. L’anamnèse a notamment révélé une pneumopathie chronique obstructive sévère (stade III de la classification GOLD) ainsi qu’un carcinome urothélial de la vessie (diagnostic initial en 2015). Le carcinome avait en dernier lieu été traité par un traitement d’entretien par Bacillus Calmette-Guérin (BCG). Les contrôles de suivi urologiques n’ont pas montré d’anomalies à cet égard. Un abus de nicotine jusqu’en 2015 (40 «paquets-années») a été noté.
+
+Examen clinique et statut
+
+A l’admission, le patient s’est présenté dans un état général amoindri. Il était en état de compensation cardio-pulmonaire et afébrile. L’examen clinique a montré une augmentation marquée du tonus musculaire dans les deux jambes avec un fort endurcissement musculaire au niveau des deux cuisses, un peu moins marquée au sein des jambes des deux côtés, ainsi que dans les muscles abdominaux et ceux de dos. Les articulations des jambes ne pouvaient pas être mobilisées passivement en raison du tonus musculaire ­accru. Les analyses de laboratoire ont montré une ­anémie normocytaire normochrome ainsi qu’une hyponatrémie hypo-osmolaire, ce qui est compatible avec un syndrome de sécrétion inappropriée d’hormone antidiurétique (SIADH). Les anticorps (AC) dirigés contre le système nerveux central (AC anti-SNC) (immunoblot pour les anticorps anti-Hu, Ri, Yo, amphiphysine, CV2, Ta/Ma2, Mal, SOX1, GAD65, ZIC4 et Tr) n’étaient pas pathologiquement accrus dans le sérum et le liquide céphalo-rachidien. L’analyse du liquide céphalo-rachidien n’a montré ni de nombre de cellules pathologiquement accru, ni d’indices de bandes oligoclonales ou de synthèse d’immunoglobuline (Ig) G. L’examen d’imagerie par résonance magnétique (IRM) complémentaire n’a pas montré d’anomalies indicatives, et notamment pas d’indices de myélopathie ou de processus rachidien. La tomodensitométrie (TDM) thoracique a montré un foyer arrondi spiculé dans le lobe supérieure droit qui était métaboliquement actif à la tomographie par émission de positons au FDG (fig. 1 A, 1 B). De plus, une fracture bilatérale du pubis avec fracture périprothétique de l’acetabulum du côté gauche a été observée, et ce sans traumatisme rapporté à l’anamnèse. L’électromyographie (EMG) a montré une activité prolongée non répressible des unités motrices normales au sein du muscle vaste latéral et ce, des deux côtés.
+
+Figure 1: Représentation d’un foyer arrondi spiculé dans le lobe supérieur droit. (A ) TDM avec produit de contraste, cliché axial: foyer arrondi spiculé (flèche blanche) d’environ 17 × 11 mm de diamètre. (B ) TEP au 18-F-FDG, cliché axial: foyer métaboliquement actif (flèche blanche).
+
+Diagnostic
+
+Le diagnostic de syndrome de l’homme raide paranéoplasique a été posé sur la base du tableau clinique, parallèlement à la suspicion de carcinome bronchique dans le lobe supérieure droit.
+
+Traitement et évolution
+
+Un traitement par clonazépam et baclofène a été initié et il a conduit à une diminution considérable du tonus musculaire dans les deux jambes et ainsi, à une meilleure mobilité. En raison de la fonction pulmonaire fortement limitée et de la situation générale, il a été renoncé à la résection chirurgicale du foyer arrondi pulmonaire. Un rayonnement stéréotaxique a été planifié. En concertation avec les collègues du domaine de l’orthopédie, une procédure conservatrice a été choisie pour le traitement des fractures décrites.
+
+Discussion
+
+Chez notre patient, le syndrome paranéoplasique se présentant sous la forme d’un syndrome de l’homme raide a livré des indices suggérant une maladie tumorale sous-jacente. Même s’il n’a pas été possible de confirmer le diagnostic histopathologiquement en raison de la situation générale, la présence d’un carcinome bronchique était probable. Le tonus musculaire massivement accru a non seulement conduit à l’immobilité du patient mais aussi à des fractures dans la région de la ceinture pelvienne.
+
+Syndromes paranéoplasiques
+
+Les syndromes paranéoplasiques sont des complexes de symptômes survenant dans le contexte d’une tumeur. Toutefois, ils ne sont pas directement induits par un effet direct de la tumeur ou de ses métastases [4]. Le mécanisme supposé repose sur la libération de messagers par soit la tumeur primaire soit ses métastases pouvant exercer une influence systémique au sein de notre organisme [4, 5]. Dans ce contexte, les symptômes surviennent souvent déjà avant le diagnostic de tumeur [3–9]. Ces types de syndromes sont observés chez environ 16% des patients atteints de carcinome bronchique [6]. Les syndromes paranéoplasiques recouvrent un grand nombre de complexes de symptômes parmi lesquels figurent notamment les troubles locomoteurs d’origine paranéoplasiques, tels que le SHR (fig. 2 A) [3, 6, 7].
+
+Figure 2: Représentation schématique du pathomécanisme du syndrome de l’homme raide (SHR).
+
+(A ) Des néoplasies (en violet) peuvent exercer une influence systémique sur l’organisme via la libération de messagers, au sens d’un syndrome néoplasique, comme dans le cadre du SHR. De potentiels facteurs influents dans ce cadre sont par exemple une production ectopique d’hormones ou de substances actives sur le plan hormonal, de cytokines, de facteurs de croissance ou d’inhibiteurs [3, 4, 6, 22].
+
+(B ) Les voies de signalisation via l’acideγ-aminobutyriquesont essentielles à l’inhibition des cellules nerveuses [23]. Dans l’axone, le glutamate (en jaune) est décarboxylé en acideγ-aminobutyrique (GABA, en bleu) par le bais de la glutamate décarboxylase, puis il est libéré dans la fente synaptique après transport dans les vésicules synaptiques. L’amphiphysine (rouge) est responsable de l’endocytose des vésicules synaptiques. Le GABA se lie aux récepteurs GABAA des dendrites, ce qui entraîne un flux de chlorure et, de façon correspondante, une inhibition neuronale. La géphyrine (en violet) et la protéine associée au récepteur de l’acide gamma-aminobutyrique (GABARAP) («GABAA-receptor associated protein», en rose) sont essentielles à la stabilité et l’interaction du récepteur GABAA. En cas de SHR, des anticorps dirigés contre les protéines de cette voie de signalisation peuvent souvent être identifiés [1, 2].
+
+Caractéristiques cliniques du SHR
+
+Le syndrome de l’homme raide (SHR) a été décrit pour la première fois en 1956 par Moersch et Woltmann [10] et peut être classé selon trois sous-groupes: le SHR classique, le SHR partiel, et le SHR paranéoplasique [1, 2, 11]. Le SHR se caractérise par un tonus musculaire accru et une rigidité du tronc et des membres proximaux ainsi que des spasmes musculaires douloureux [1, 11]. Le dosage de certains anticorps (AC) dans le sérum et le liquide céphalo-rachidien peut corroborer le diagnostic de suspicion clinique. La mesure des AC anti-glutamate décarboxylase (AC anti-GAD) est la mieux documentée [12–15]. Les AC anti-GAD sont détectés chez 60–80% des patients qui présentent un SHR classique. Toutefois, ils sont rarement détectables en cas de SHR d’origine paranéoplasique [1, 3, 12–16]. Parmi les autres AC documentés dans le cadre du SHR figurent les AC anti-amphiphysine, surtout mesurés en cas de SHR paranéoplasique [1, 3, 17, 18]. Des bandes oligoclonales, une synthèse locale d’IgG ainsi qu’une production intrathécale d’AC peuvent en outre survenir dans le liquide céphalo-rachidien [1, 2]. Une autre caractéristique du SHR est une activité aléatoire accrue à l’EMG. L’électrostimulation permet souvent de documenter des spasmes généralisés avec une courte latence ainsi que des spasmes réflexe de type myoclonique se modifiant en activité EMG tonique désynchronisée [1, 2, 13]. Généralement, on observe une bonne réponse des symptômes aux benzodiazépines [2]. Sur le plan du diagnostic différentiel, il convient de distinguer le SHR des contractures musculaires induites par la douleur, des syndromes avec hyperexcitabilité centrale ou périphérique (par exemple tétanos, neuromyotonie), des processus intrarachidiens et des spasmes toniques (comme dans le cadre de la sclérose en plaque) ainsi que de la dystonie axiale [1].
+
+Pathogenèse du SHR classique
+
+Une limitation de la neurotransmission inhibitrice médiée de façon auto-immune serait responsable des symptômes du SHR [19]. Il semblerait qu’un rôle décisif incombe particulièrement au neurotransmetteur acide γ-aminobutyrique (GABA) dans ce cadre [1, 16, 20]. C’est la raison pour laquelle des anticorps anti-GAD, qui jouent un rôle central dans la production de GABA, sont souvent trouvés dans le sang ou le liquide céphalo-rachidien des patients atteints de SHR. D’autres anticorps dirigés contre des protéines centrales de la voie de signalisation GABA, telles que l’amphiphysine, la géphyrine, ou la protéine associée au récepteur de l’acide gamma-aminobutyrique (GABARAP) [1, 16, 21], peuvent également être mesurées (fig. 2 B).
+
+Le rôle décisif des phénomènes auto-immuns est corroboré par la survenue concomitante fréquente d’autres maladies auto-immunes telles que le diabète sucré de type 1 ou des dysfonctions de la thyroïde parallèlement au SHR [1, 2, 16].
+
+Possibilités de traitement en cas de SHR
+
+Les benzodiazépines telles que le diazépam et le clonazépam, qui entraînent un renforcement de la neurotransmission induite par GABA au sein des synapses inhibitrices [24], sont la première option thérapeutique et en cas de bonne réponse, ils corroborent le diagnostic de suspicion clinique [1, 2]. Le baclofène est bien adapté en tant que médicament antispasmodique. Un traitement antalgique orienté en fonction des symptômes ­devrait être conduit parallèlement. Si les symptômes ­devaient persister malgré les mesures entreprises, l’administration d’immunoglobulines intraveineuses, de rituximab ou d’autres médicaments immunosuppresseurs tels que des corticostéroïdes ou l’azathioprine sont des options discutées dans la littérature [1, 2]. Outre les traitements médicamenteux, une physiothérapie s’avère nécessaire. En cas de SHR paranéoplasique, il convient d’initier un traitement ciblé contre la tumeur en fonctions des possibilités [1, 3].
+
+Résumé
+
+Derrière le symptôme principal des crampes musculaires se cachait un syndrome de l’homme raide paranéoplasique. Une tomodensitométrie a en conséquence été réalisée et elle a livré des indices de carcinome bronchique. La pose rapide du diagnostic et l’initiation d’un traitement adéquat ont permis de prévenir une limitation persistante. Un traitement par rayonnements stéréotaxiques a ainsi pu être initié.
+
+L’essentiel pour la pratique
+
+• En cas de tonus musculaire accru, notamment du tronc et des membres proximaux, et de spasmes musculaires douloureux, il convient de penser à un syndrome de l’homme raide (SHR). S’il n’est pas décelé, ce syndrome peut évoluer progressivement (jusqu’à la formation de fracture) et finalement conduire à une immobilité persistante.
+
+• Les analyses de laboratoire (notamment la mesure de certains anticorps tels que les AC anti-GAD ou les AC anti-amphiphysine) ainsi que les examens électrophysiologiques peuvent corroborer le diagnostic de suspicion clinique. L’absence de ces anticorps n’exclut toutefois pas un SHR.
+
+• En cas de SHR, il convient toujours de penser à un processus néoplasique sous-jacent (SHR paranéoplasique).

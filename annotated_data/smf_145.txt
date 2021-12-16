@@ -1,0 +1,136 @@
+Présentation du cas
+
+Un homme de 41 ans, connu pour un diabète de type I, vous consulte pour une tuméfaction mandibulaire douloureuse bilatérale. Il rapporte que la tuméfaction a débuté à droite il y a plusieurs semaines puis à gauche le matin même. Son statut vaccinal est inconnu. A l’examen clinique, il est en bon état général, apyrétique. On retrouve une hypertrophie parotidienne ­symétrique, douloureuse à la palpation. Il n’y a pas d’écoulement purulent à l’embouchure du canal de Sténon.
+
+Question 1: Lequel de ces diagnostics vous semble le moins probable?
+
+
+a) Une parotidite ourlienne aigüe
+
+b) Un syndrome de Sjögren
+
+c) Une parotidite bactérienne aigüe
+
+d) Une hypertrophie parotidienne dans un contexte de diabète
+
+e) Une sarcoïdose
+
+Les oreillons sont causés par un paramyxovirus, qui provoque une tuméfaction bilatérale douloureuse des parotides. Elle est normalement précédée de symptômes grippaux.
+
+Le syndrome de Sjögren est une maladie inflammatoire auto-immune caractérisée par la destruction de la fonction exocrine des glandes salivaires et lacrymales entraînant une sécheresse oculaire et buccale. Il touche principalement les femmes entre 40 et 50 ans. La tuméfaction parotidienne est en générale douloureuse et exacerbée par les repas.
+
+Lors de parotidite bactérienne aigüe l’atteinte est le plus souvent unilatérale. Elle atteint principalement des personnes âgées polymorbides et déshydratées. Les patients sont en mauvais état général, fébriles et du pus se retrouve à l’orifice du canal de Sténon. Notre ­patient est jeune en bon état général, apyrétique, avec une atteinte bilatérale. Tous ces arguments parlent contre une parotidite bactérienne aigüe.
+
+Lors de diabète, d’alcoolisme ou de troubles du comportement alimentaire, le patient peut présenter une hypertrophie parotidienne bilatérale, indolore et chronique.
+
+Bien que rare, la sarcoïdose peut atteindre les parotides et provoquer une hypertrophie parotidienne en générale bilatérale. Les granulomes remplaçant le parenchyme parotidien, la production salivaire peut à long terme être diminuée [1].
+
+Au laboratoire, on note une pancytopénie et une ­perturbation modérée des tests hépatiques. La pro­téine C-réactive est basse. Les sérologies montrent une infection ancienne pour les oreillons, le cytomégalovirus humain (CMV) et le virus Epstein-Barr (EBV) et sont négatives pour les hépatites A, B et C et le virus de l’immunodéficience humaine (VIH).
+
+Question 2: Quel est le prochain examen que vous réalisez?
+
+
+a) Un dosage des anti-SSA et anti-SSB
+
+b) Une rt-PCR du liquide salivaire pour le virus ourlien
+
+c) Une radiographie du thorax
+
+d) Aucun, vous considérez que l’hypertrophie parotidienne survient dans un contexte de diabète
+
+e) Une mise en culture de salive prélevée à l’embouchure du canal de Sténon
+
+Les anti-SSA et anti-SSB sont dosés lors d’une suspicion de maladie de Sjögren. Notre patient ne présente ni xérostomie ni xérophtalmie. Ce diagnostic nous semble moins probable et nous n’effectuons pas ce dosage.
+
+Les IgM lors d’une infection au virus ourlien se positivent entre cinq à sept jours après le début des symptômes, alors que la rt-PCR sur un prélèvement salivaire entre le premier et le onzième jour [2]. Notre patient a des symptômes depuis plusieurs semaines. Une rt-PCR négative ne nous permettrait pas d’exclure le diagnostic d’oreillons. Au vu des différents arguments cités précédemment, une culture bactérienne n’est pas justifiée. Lors de diabète, l’hypertrophie parotidienne est progressive, indolore et ne fluctue pas en taille.
+
+Bien que rare, une sarcoïdose avec atteinte parotidienne reste possible et nous demandons une radiographie du thorax. Elle montre des hiles pulmonaires proéminents et un syndrome interstitiel. Le bilan est complété par un scanner thoraco-abdominal qui met en évidence de nombreuses adénopathies médiastinales supérieures et hilaires bilatérales, un infiltrat ­interstitiel et une splénomégalie (fig. 1).
+
+Figure 1: Coupe coronale du scanner thoracique du patient.
+
+Question 3: A quel spécialiste adressez-vous le patient pour poursuivre les investigations?
+
+
+a) L’oto-rhino-laryngologiste (ORL)
+
+b) Le pneumologue
+
+c) L’ophtalmologue
+
+d) Le rhumatologue
+
+e) L’hématologue
+
+La clinique et l’imagerie sont suspectes d’une sarcoïdose avec comme diagnostic différentiel une tuberculose, un lymphome ou une infection d’origine fongique. Il faut confirmer le diagnostic de sarcoïdose par des examens cytologiques appropriés.
+
+L’ORL peut pratiquer une biopsie des glandes salivaires accessoires, qui permet de poser le diagnostic de sarcoïdose dans 60% des cas lors d’atteinte des glandes sali­vaires [1]. Elle se fait en anesthésie locale par une incision de 2 mm au versant interne de la lèvre inférieure. Le pneumologue peut réaliser un lavage broncho-alvéolaire, des biopsies de la muqueuse bronchique et/ou transbronchiques, des ponctions à l’aiguille sous écho­endoscopie bronchique (EBUS) ou des cryobiopsies.
+
+Dans environ 25% des cas de sarcoïdose on retrouve une atteinte oculaire. Le syndrome d’Heerfordt associe la parotidite à une uvéite et une paralysie faciale. Le ­patient devra être adressé à l’ophtalmologue dans un deuxième temps. Le rhumatologue peut être sollicité si le patient présente des arthralgies. Le syndrome de Löfgren est une manifestation aigüe caractérisée par la triade arthralgies/arthrites, érythème noueux et lymphadénopathie bihilaire.
+
+Un lymphome semble moins probable. Le lymphome primaire de la parotide est rare et une infiltration secondaire se retrouve dans 1–8% des cas [3].
+
+Le patient est adressé au pneumologue. Les fonctions pulmonaires sont normales. Une bronchoscopie avec biopsies bronchiques, transbronchiques, cytoponctions médiastinales par EBUS et lavage broncho-alvéolaire est effectuée. L’histopathologie montre une inflammation granulomateuse non nécrosante (fig. 2). Aucun élément mycélien ou mycobactérien ne sont mis en évidence. Les prélèvements ne montrent pas de cellules tumorales. Le diagnostic de sarcoïdose est posé. L’ophtalmologue écarte une atteinte oculaire sarcoïdosique. L’ORL effectue un ultrason pour visualiser le parenchyme parotidien afin d’exclure un processus tumoral.
+
+Figure 2: Biopsie transbronchique montrant des granulomes épithélioïdes giganto-cellulaire, sans nécrose (coloration hématoxyline éosine, ×100).
+
+Question 4: Parmi les anomalies retrouvées chez le patient laquelle n’est pas décrite dans la sarcoïdose?
+
+
+a) La thrombopénie
+
+b) Le diabète
+
+c) La leucopénie
+
+d) La splénomégalie
+
+e) La perturbation des tests hépatiques.
+
+La sarcoïdose peut atteindre le foie engendrant une perturbation des tests hépatiques, une hépatomégalie et dans de rare cas une cirrhose. Elle peut également toucher la rate, entrainant une splénomégalie. L’hyper­splénisme peut lui-même expliquer une anémie, une leucopénie et une thrombopénie. Il n’y a pas de lien ­décrit entre le diabète et la sarcoïdose. Une atteinte pancréatique est rare.
+
+Question 5: Quel traitement vous semble indiqué?
+
+
+a) Aucun
+
+b) Une corticothérapie systémique
+
+c) De l’azathioprine
+
+d) De l’infliximab
+
+e) Du methotrexate
+
+L’évolution de la sarcoïdose est le plus souvent spontanément favorable. Lorsqu’un traitement est indiqué, les corticoïdes systémiques sont prescrits en première intention. Lors d’atteinte parotidienne un traitement est proposé uniquement lors de tuméfaction paroti­dienne persistante avec xérostomie [3]. Chez notre ­patient, la tuméfaction s’est résolue après plusieurs ­semaines et il ne se plaint pas de sécheresse buccale. Dans son cas, il faut déterminer si l’atteinte pulmonaire ­nécessite un traitement. Pour cela, il faut préciser l’importance des symptômes attribuables à la sarcoïdose, l’impact fonctionnel aux tests respiratoires sériés, la probabilité d’une atteinte d’organe, ­notamment le cœur, et l’extension des infiltrats du parenchyme pulmonaire. En l’absence d’infiltrat du parenchyme pulmonaire avec des tests fonctionnels normaux, on observe 60–80% de rémission spontanée et un suivi est proposé en première intention. Lors des stades plus avancés avec des fonctions pulmonaires diminuées et peu ou pas de symptômes, on propose un suivi pneumologique aux trois à six mois durant une période de deux ans afin de détecter et traiter une progression de la sarcoïdose. Si les symptômes sont sévères et les fonctions pulmonaires altérées une corticothérapie systémique est indiquée d’emblée. Notre patient ne présente pas de symptôme respiratoire et ses fonctions pulmonaires sont normales. Aucun traitement n’est introduit, mais un suivi à trois mois est programmé.
+
+Les antimétabolites de type azathioprine, métho­trexate, leflunomide ou mycophénolate de mofétil (MMF) font partie de la deuxième et troisième ligne de traitement, lors d’échec ou d’effet indésirables majeurs des corticostéroïdes. L’infliximab est proposé en cas de sarcoïdose non contrôlée et extra-pulmonaire [4].
+
+Discussion
+
+La sarcoïdose est une maladie granulomateuse multisystémique, d’étiologie indéterminée, impliquant des facteurs génétiques, environnementaux et infectieux. Elle affecte les poumons dans plus de 90% des cas. Des études de cas ont retrouvé une atteinte parotidienne cliniquement significative chez environ 6% des patients [3].
+
+Les causes de parotidites bilatérales sont multiples. Du point de vu infectieux, en plus des oreillons, il faut ­rechercher une infection au VIH et à l’hépatite B et C. L’ultrason est l’examen de choix pour visualiser le parenchyme parotidien. Lors de parotidite sarcoïdosique, il peut montrer un parenchyme inhomogène avec de multiples plages hypoéchogènes représentatives de sialadénites. Il permet également d’exclure une masse et au besoin de guider une cytoponction. Malgré sa rareté, la sarcoïdose fait partie du diagnostic différentiel des parotidites.
+
+Pour confirmer le diagnostic de sarcoïdose, la biopsie d’un organe atteint est le plus souvent nécessaire. Il est possible de s’en passer lors de syndrome de Löfgren, d’Heerfordt ou lors d’adénopathies hilaires bilatérales asymptomatiques pour autant que les patients soient suivis cliniquement. En histologie on recherche des granulomes non caséeux.
+
+Un diagnostic de sarcoïdose impose la recherche d’atteinte extra-pulmonaire, notamment cardiaque, ophtalmique et cutanée (tab. 1).
+
+Tableau 1: Atteintes systémiques de la sarcoïdose et leurs prévalences [9, 11].
+Cutané (35%)	Lupus pernio, érythème noueux, lésions papulaires, nodulaires ou en plaque
+Oculaire (25%–80%)	Uvéite antérieure
+Cardiaque (5%)	Troubles de la conduction, tachycardie ventriculaire, extrasystole ventriculaire.
+Nerveuse (10%)	Paralysie des nerfs crâniens, céphalées, ataxie, crise convulsive, troubles cognitifs, faiblesse.
+Hépatique
+(atteinte histologique 60–90%)	Perturbation des tests hépatiques, hépatite sévère, hypertension portale, syndrome hépato-pulmonaire
+Splénique
+(atteinte histologique 24–53%)	Splénomégalie
+Tube digestif (< 1%)	Dysphagie, trouble de la mobilité, épigastralgies, nausées, vomissements, satiété précoce, perte de poids, diarrhées, douleurs abdominales, malabsorption, hémorragies digestives
+Ostéo-articulaire (10%)	Polyarthrite normalement symétriques
+Rénal	Hypercalcémie (11%), hypercalciurie (40%), néphrite interstitielle granulomateuse, glomérulopathie
+
+La décision d’introduire un traitement est complexe et implique plusieurs spécialistes. Elle prend en considération, les différents organes touchés, leur degré d’atteinte, l’évolution de la maladie et les potentiels effets indésirables liés au traitement.
+
+Réponses:
+
+
+Question 1: c; question 2: c; question 3: b; question 4: b; ­question 5: a.

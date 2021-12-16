@@ -1,0 +1,39 @@
+T1	disorder 111 135	défaillance rénale aiguë
+T2	disorder 172 191	arthrite rhumatoïde
+T3	drugs 204 213	abatacept
+T4	drugs 215 227	méthotrexate
+T5	drugs 231 241	prednisone
+T6	disorder 253 277	 hypertension artérielle
+T7	disorder 284 305	 maladie coronarienne
+T8	disorder 353 386	poussées de fièvre intermittentes
+T9	disorder 416 426	prostatite
+T10	drugs 443 457	ciprofloxacine
+T11	disorder 493 500	nausées
+T12	disorder 505 526	 douleurs abdominales
+T13	disorder 536 544	diarrhée
+T14	disorder 662 671	exanthème
+T15	disorder 692 740	multiples papules ou lésions papulo-vésiculeuses
+T16	disorder 1010 1019	exanthème
+T17	disorder 1129 1142	démangeaisons
+T18	disorder 1222 1242	kératoses actiniques
+T19	disorder 1282 1288	sepsis
+T20	labvalue 1291 1312	Staphylococcus aureus
+T21	disorder 1317 1333	 coxite septique
+T22	procedure 1374 1381	biopsie
+T23	disorder 1386 1411	défaillance rénale aiguë 
+T24	procedure 1427 1434	dialyse
+T25	disorder 1456 1491	 glomérulonéphrite para-infectieuse
+T26	disorder 1533 1542	exanthème
+T27	disorder 1965 1982	maladie de Grover
+T28	procedure 2065 2072	biopsie
+T29	labvalue 2041 2059	acantholyse focale
+T30	disorder 2463 2472	exanthème
+T31	procedure 2517 2550	traitement par stéroïdes topiques
+T32	disorder 2564 2570	sepsis
+T33	labvalue 2573 2595	Staphylococcus aureus 
+T34	procedure 2611 2647	r pénicilline par voie intraveineuse
+T35	procedure 2688 2708	révision articulaire
+T36	procedure 2807 2814	dialyse
+T37	irrelevant 2912 2922;2924 3748;3750 4090;4092 4753;4755 5285;5287 5752;5754 6435	Discussion  Le tableau clinique de la maladie de Grover est connu depuis 1970 et a été décrit initialement à l’aide de six observations de cas. Ralph W. Grover a remarqué sur le tronc de ses patients des papules ou lésions papulo-vésiculeuses qui régressaient spontanément en l’espace de quelques semaines. L’examen histologique a montré des cellules acantholytiques, identiques à celles observées dans la maladie de Darier (dyskératose folliculaire) et la maladie de Hailey-Hailey (pemphigus chronique bénin familial). Une acantholyse désigne une rupture focale des ponts intercellulaires entre les kératinocytes avec la formation consécutive de fentes épidermiques. En raison du processus de guérison spontané et de l’aspect histologique, Grover a qualifié la maladie de «transitoire» ou de «dermatose acantholytique transitoire» [1].  L’étiologie de la maladie de Grover n’a pas encore été élucidée à ce jour. Les facteurs déclencheurs potentiels sont l’exposition au soleil, la sudation excessive, la chaleur et les infections virales ou bactériennes. Cependant, aucun lien définitif n’a pu être établi entre l’un de ces facteurs et l’apparition de la maladie de Grover [2].  La maladie de Grover semble prédominante surtout chez les hommes de race blanche. Son incidence augmente dans la seconde moitié de la vie. De nombreux patients présentent simultanément des maladies malignes non dermatologiques. Il n’existe pas de données certaines sur la fréquence de la maladie de Grover, même s’il est globalement admis qu’elle est d’apparition rare [3]. Ainsi, les modifications histologiques typiques d’une maladie de Grover n’ont pu être mises en évidence que dans 24 biopsies cutanées sur 30 000 [4]. Le service de dermatologie de l’hôpital universitaire de Bâle traite environ cinq à dix patients atteints de la maladie de Grover par an.  Le tableau clinique typique permet souvent d’établir le diagnostic de maladie de Grover. Les lésions couramment observées sont des papules partiellement hyperkératosiques, rougies, disséminées. Les efflorescences sont de préférence situées dans les canaux sudoraux du tronc. Il est à noter que les cas de maladie de Grover décrits dans la littérature scientifique concernent des morphologies de peau différentes [5]. L’histologie mettant en évidence les acantholyses focales caractéristiques permet de confirmer le diagnostic [6].  La maladie de Grover est dans la plupart des cas une pathologie auto-limitante évoluant favorablement. L’indication de traiter résulte des démangeaisons parfois très marquées et de la longue durée jusqu’à la guérison spontanée. Les stéroïdes topiques des classes 3 et 4 ainsi que des mesures de soins constituent les principales options thérapeutiques à cet effet. Les corticostéroïdes systémiques ne sont indiqués que si le traitement topique s’avère décevant [7].  Il n’est généralement pas difficile de faire le diagnostic différentiel avec la maladie de Darier, car celle-ci est récidivante chronique, héréditaire et de transmission autosomique dominante, se présente le plus souvent dès l’adolescence et siège surtout au niveau des grands plis du tronc. En revanche, la bourbouille, due à la rétention de sécrétion des glandes sudoripares en raison de l’occlusion de ces dernières, est souvent plus difficile à différencier. Les papules de la bourbouille sont en règle générale plus rapprochées et présentent moins de croûtes. Le diagnostic différentiel doit toujours inclure la folliculite. Cependant, celle-ci concerne avant tout le follicul
+T38	irrelevant 2817 2910	Figure 4: Etat de la peau une semaine après le début d’un ­traitement par stéroïdes topiques.
+T39	irrelevant 6439 6738;6740 6936;6938 6966;6968 7303;7305 7421;7423 7526;7528 7730	A l’exception de l’absence de démangeaisons, le tableau clinique de notre patient était typique de la maladie de Grover, surtout par sa survenue après un épisode de fièvre ou suite à l’alitement. L’absence de démangeaisons peut éventuellement être attribuée au traitement immunosuppresseur existant.  Même si la maladie de Grover est en principe auto-limitante, il convient d’établir rapidement un diagnostic afin d’instaurer le traitement local aussitôt que possible et d’éviter une exacerbation.  L’essentiel pour la pratique  • En présence de papules prurigineuses ou de lésions papulo-vésiculeuses sur le tronc, il convient d’envisager la maladie de Grover en terme de diagnostic différentiel, surtout s’il existe d’autres facteurs associés comme le sexe masculin, l’âge avancé, la transpiration excessive, la chaleur ou les infections virales ou bactériennes.  • Le diagnostic clinique présumé est étayé par la mise en évidence d’une acantholyse focale à l’examen histologique.  • Les diagnostics différentiels à éliminer sont la bourbouille, la maladie de Darier ou la folliculite.  • En dépit de son évolution le plus souvent auto-limitante, un traitement par stéroïdes topiques peut s’avérer nécessaire en cas de fortes démangeaisons ou de longue période jusqu’à la guérison spontané

@@ -1,0 +1,28 @@
+T1	disorder 60 97	post prothèse totale de hanche droite
+T2	disorder 103 137	pertes sanguines intra-opératoires
+T3	disorder 211 251	 tuméfaction douloureuse du mollet droit
+T4	drugs 284 295	énoxaparine
+T5	procedure 314 323	US Dopple
+T6	labvalue 352 379	thrombose veineuse profonde
+T7	labvalue 431 486	thrombopénie à 55 G/l (289 G/l au bilan pré-opératoire)
+T8	disorder 507 587	thrombopénie induite par l’héparine ou «heparin-induced thrombocytopenia» (HIT).
+T9	disorder 887 891	 HIT
+T10	labvalue 1040 1061	 thrombocytes de >50%
+T11	drugs 2401 2409	héparine
+T12	disorder 2742 2745	HIT
+T13	drugs 2459 2483	héparine non-fractionnée
+T14	labvalue 3838 3854	Thrombocytopénie
+T15	procedure 5783 5793	test C-SRA
+T16	drugs 8446 8457	danaparoïde
+T17	drugs 8463 8473	argatroban
+T18	procedure 8023 8094	test immunologique automatisé fonctionnant par chemiluminescence (CLIA)
+T19	disorder 8629 8663	’insuffisances rénale ou hépatique
+T20	drugs 9006 9016	Argatroban
+T21	drugs 9099 9110	Danaparoïde
+T22	drugs 9192 9204	Fondaparinux
+T23	drugs 9282 9293	Rivaxoxaban
+T24	drugs 9377 9389	fondaparinux
+T25	procedure 10282 10323	transfusions de concentrés plaquettaires 
+T26	procedure 10508 10530	 anticorps anti-PF4/H 
+T27	procedure 10762 10785	exposition à l’héparine
+T28	procedure 11790 11926	’administrer conjointement une thérapie anti-aggrégante ou de réaliser la chirurgie cardiaque avec un anticoagulant autre que l’héparine

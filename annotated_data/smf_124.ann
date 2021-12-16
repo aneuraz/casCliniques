@@ -1,0 +1,33 @@
+T1	disorder 38 69	lipome intrapéricardique géant 
+T2	procedure 131 148	échocardiographie
+T3	procedure 168 187	bilan cardiologique
+T4	disorder 204 232	dyspnée d’effort progressive
+T5	disorder 371 414	dyspnée de classe fonctionnelle NYHA II–III
+T6	disorder 421 441	légères palpitations
+T7	risk 532 555	hypertension artérielle
+T8	risk 561 574	dyslipidémie 
+T9	risk 579 609	 tabagisme (10 paquets-années)
+T10	procedure 615 631	cliché du thorax
+T11	labvalue 647 681	ombre cardiaque fortement agrandie
+T12	disorder 4042 4048	lipome
+T13	procedure 3990 4011	’analyse histologique
+T14	procedure 4060 4100	hybridation in situ fluorescente (FISH) 
+T15	procedure 4371 4405	implantation d’un stimulateur DDD 
+T16	disorder 4420 4430	sick sinus
+T17	procedure 4570 4587	échocardiographie
+T18	disorder 2982 2989	tumeur 
+T19	procedure 3122 3132	dissection
+T20	disorder 3156 3237	pédicule du volumineux processus expansif avait adhéré au septum interauriculaire
+T21	procedure 3464 3481	excision complète
+T22	procedure 3399 3445	la veine cave supérieure a dû être sectionnée 
+T23	procedure 3710 3765	revascularisation aorto-coronarienne par double pontage
+T24	procedure 2365 2385	 résection tumorale 
+T25	procedure 2391 2430	pose de deux pontages aorto-coronariens
+T26	procedure 2471 2490	sternotomie médiane
+T27	disorder 2637 2643	lipome
+T28	procedure 2171 2193	angiographie coronaire
+T29	disorder 2271 2299	oronaropathie bitronculaire 
+T30	procedure 884 917	échocardiographie transthoracique
+T31	labvalue 989 1016	 fraction d’éjection de 59%
+T32	procedure 1261 1292	examen de résonance magnétique 
+T33	labvalue 1303 1494	 processus expansif intrapéricardique hypodense, d’un diamètre maximal de 10,5 × 12 × 11 cm, adjacent à l’oreillette droite, au septum interauriculaire, à l’oreillette gauche et au péricarde 

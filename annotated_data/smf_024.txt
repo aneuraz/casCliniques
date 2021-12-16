@@ -1,0 +1,73 @@
+Introduction
+
+Nous décrivons un cas de lombalgie aiguë, pour laquelle la cause de la douleur a uniquement pu être identifiée à l’occasion d’une tomographie par émission monophotonique / tomodensitométrie (TEMP/TDM). La pose du diagnostic a permis de mettre en œuvre un traitement interventionnel ciblé.
+
+Présentation du cas
+Anamnèse
+
+Un patient de 59 ans nous a été adressé pour une imagerie par résonance magnétique (IRM) en raison d’une lombalgie aiguë du côté droit dans le cadre d’un syndrome douloureux pseudo-radiculaire ou radiculaire récidivant chronique au niveau lombaire droit. Le patient avait déjà reçu une infiltration deux ans auparavant et il avait subi une chirurgie de décompression à hauteur de L5/S1 du côté droit environ un an et demi auparavant.
+
+Résultats et traitement
+
+L’IRM du rachis lombaire (RL) que nous avons réalisée a révélé des signes de spondylarthrose activée avec hypersignal T2 au sens d’un œdème dans la facette articulaire des vertèbres lombaires (L) 4/5 à droite, ainsi qu’une sténose neuroforaminale à hauteur de L4/5 à droite et de L5/ vertèbre sacrée (S) 1 des deux côtés. Quelques jours plus tard, nous avons réalisé une infiltration facettaire intra-articulaire et péri-articulaire guidée par TDM au niveau de L4/5 du côté droit. Le patient a signalé une réduction modérée de la douleur, qui a cependant uniquement persisté durant environ deux semaines (fig. 1).
+
+Figure 1: TEMP/TDM au 99mTc-MDP du rachis lombaire dans le cadre d’une exacerbation aiguë de la douleur. Nette hyperfixation d’un spondylophyte large à hauteur des vertèbres lombaires 4/5 à droite (flèche).
+
+En raison d’une nouvelle exacerbation de la douleur, nous avons réalisé une TEMP/TDM au méthylène diphosphonate marqué au technétium 99m (99mTc-MDP) du RL. Cet examen a montré une accumulation du traceur (99mTc-MDP) dans les spondylophytes ventraux au niveau parasagittal droit à hauteur de L3–5 ainsi qu’à hauteur des vertèbres thoraciques (T) 11 et 12 au niveau latéral gauche, avec une accumulation maximale à hauteur de L4/5 à droite.
+
+Contrairement au résultat de l’IRM, il n’y avait pas d’accumulation dans les facettes articulaires.
+
+Traitement interventionnel ciblé
+
+Au vu des manifestations cliniques et des résultats de la TEMP/TDM, nous avons réalisé une infiltration ciblée guidée par TDM de bupivacaïne 0,5 mg/ml 1 ml, Jopamiro® 200 0,5 ml et Kenacort® 40 mg dans le spondylophyte activé de localisation ventrale droite à hauteur de L4/5 (fig. 2).
+
+Figure 2: Patient en décubitus ventral. Infiltration guidée par tomodensitométrie du spondylophyte ventral avec positionnement de la pointe de l’aiguille entre le spondylophyte en surplomb de la vertèbre lombaire (L) 4 à droite et L5 (flèche).
+
+Evolution ultérieure
+
+Après l’infiltration, le patient a présenté une réduction immédiate et durable de la douleur d’environ 50% et une diminution du besoin quotidien en antalgiques.
+
+Après six semaines, nous avons procédé à une nouvelle infiltration dans la même zone. Au cours de la période d’observation d’un an, une rémission quasi-totale de la douleur a été obtenue.
+
+Discussion
+Pathologies dégénératives du rachis
+
+Environ 70% des adultes souffrent de maux de dos au minimum une fois par an [1]. Le diagnostic est compliqué par le fait que les maux de dos sont un complexe de symptômes ayant des causes très diverses. En conséquence, il arrive que les maux de dos soient traités de façon excessive, insuffisante ou inappropriée [1]. En raison du vieillissement important de notre société, les pathologies dégénératives du rachis continueront à augmenter [2].
+
+La spondylose est un terme générique désignant les maladies déformantes du rachis. La spondylarthrose désigne l’arthrose des facettes articulaires. La spondyl­arthrose ne devrait pas être confondue avec l’«activation» d’un spondylophyte décrite dans notre cas. Des spondyloses et spondylarthroses sont présentes chez 65–75% des personnes de plus de 50 ans, et au-delà de 65 ans, pratiquement tous les sujets en sont atteints [3]. Toutefois, ces altérations n’ont souvent aucune signification clinique [3].
+
+Spondylophytes à l’imagerie
+
+Les altérations dégénératives des disques intervertébraux et les sollicitations biomécaniques sont entre autres responsables de la formation d’ostéophytes au niveau du rachis, qui sont appelés «spondylophytes» [4, 5]. Les spondylophytes surviennent avant tout au niveau de la partie inférieure du RL [4] et peuvent conduire à une perturbation des structures neuroforaminales [2]. Toutefois, les spondylophytes, qui sont très fréquemment décrits, n’ont généralement pas de signification clinique [3]. Dans les rares cas de spondylophyte avec un métabolisme augmenté, comme chez notre patient, il est possible de parler d’«activation» [6]. La mesure dans laquelle cette situation est responsable d’une exacerbation aiguë de la douleur reste indéterminée.
+
+A la radiographie conventionnelle et à la TDM, il est impossible de faire la distinction entre un spondylophyte «non activé» et un spondylophyte «activé». Le terme de spondylophyte «activé» n’a pas encore été intégré dans la littérature actuelle. Nous le définissons comme un ostéophyte douloureux du rachis s’accompagnant d’une activation du métabolisme osseux. Cette augmentation du métabolisme osseux peut être objectivée à la TEMP/TDM.
+
+L’IRM présente une bonne sensibilité et spécificité diagnostique dans l’évaluation des disques intervertébraux et des racines nerveuses [5]. L’activation d’un ou plusieurs spondylophytes ne peut néanmoins pas être mise en évidence avec certitude. En présence d’un œdème des tissus avoisinants, une «activation» est présumée. Le même concept vaut également pour l’évaluation d’une spondylarthrose activée [7].
+
+En cas de lombalgie aiguë, la TEMP au 99mTc-MDP peut fournir des renseignements quant à la cause de la douleur, comme par exemple tumeurs, spondylarthrose, fractures, etc. Le méthylène diphosphonate marqué à l’isotope technétium 99m (99mTc-MDP) est utilisé comme traceur. Le 99mTc présente une courte demi-vie et, en conjonction avec le MDP, il permet de localiser un métabolisme osseux augmenté dans les ostéoblastes.
+
+La TEMP/TDM, qui combine la TEMP et la TDM à faible dose, permet une mise en cohérence spatiale des informations anatomiques et fonctionnelles. La fusion de la scintigraphie, qui présente une sensibilité élevée, et de la TDM, qui présente une spécificité élevée, est avant tout pertinente dans les régions anatomiquement complexes comme le rachis [8, 9].
+
+Une hyperfixation du traceur marqué au 99mTc indique un métabolisme augmenté des structures osseuses, comme par exemple en cas de croissance osseuse et d’inflammation osseuse [6].
+
+Les facettes articulaires activées représentent l’anomalie la plus fréquemment détectée à la TEMP/TDM en cas de maux de dos [6, 10]. Concernant la spondylarthrose activée, une petite étude réalisée à la «Mayo Clinic» en 2016 a montré que les résultats de l’IRM et de la TEMP/TDM ne coïncidaient pas toujours, comme c’était également le cas chez notre patient [11].
+
+Infiltrations et TEMP/TDM
+
+Pour l’heure, il existe peu de littérature portant sur le diagnostic d’un spondylophyte «activé» par TEMP/TDM et le traitement ciblé consécutif par infiltration.
+
+Il s’est avéré que la TEMP/TDM était supérieure à l’évaluation exclusivement clinique pour la détection et la localisation précise d’un foyer pathologique [12].
+
+Il a été montré dans plusieurs études qu’une intervention spécifique ciblée permettait d’obtenir une régression significative des symptômes en cas de lésions du rachis avec hyperfixation [6]. Là aussi, la majorité des études ont porté sur la spondylarthrose et non pas sur les spondylophytes activés. Dans une étude conduite en 2014 chez des patients souffrant de douleurs chroniques au niveau du RL et du sacrum, Lee I et al. ont par exemple montré que la TEMP/TDM présentait des avantages s’agissant de l’identification des personnes pouvant retirer un bénéfice d’une infiltration [6].
+
+Conclusions et perspectives
+
+En cas de succès thérapeutique insuffisant après une infiltration ciblée au niveau du rachis, un examen de TEMP/TDM avec marquage au 99mTc devrait être envisagé pour un diagnostic d’imagerie approfondi. Une accumulation du traceur peut être évocatrice d’un foyer douloureux d’origine inflammatoire.
+
+L’essentiel pour la pratique
+
+• Dans certains cas, la tomographie par émission monophotonique / tomo­densitométrie (TEMP/TDM) peut permettre d’améliorer la pose de l’indication d’un traitement par infiltrations au niveau du rachis.
+
+• Un résultat d’imagerie par résonance magnétique faisant suspecter un spondylophyte activé devrait être interprété avec prudence en raison de la spécificité insuffisante de cet examen d’imagerie.
+
+• Une TEMP/TDM négative exclut pratiquement des arthroses activées du rachis en tant que cause de la douleur.

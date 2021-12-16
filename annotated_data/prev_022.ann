@@ -1,0 +1,55 @@
+T1	risk 37 43	voyage
+T2	procedure 183 195	une glycémie
+T3	labvalue 198 208	2,29 gr/l 
+T4	disorder 214 270	 hypercholestérolémie avec hypertriglycéridémie modérée.
+T5	risk 279 288	tabagisme
+T6	procedure 334 350	masse corporelle
+T7	labvalue 355 362	normal.
+T8	procedure 505 514	 glycémie
+T9	irrelevant 376 474	hygiéno-diététiques sont institués par son généraliste (qui l’a vu une fois trois ans auparavant),
+T10	irrelevant 515 540	quelques mois plus tard :
+T11	irrelevant 541 663	le résultat de ce dosage (effectué ?) n’est pas présent au dossier. En fait, il n’y a pas trace de nouvelle consultation. 
+T12	disorder 862 874	 prophylaxie
+T13	procedure 863 888	prophylaxie anti palustre
+T14	disorder 998 1005	grippé 
+T15	profession 1165 1173	médecin 
+T16	risk 1196 1226	ses séjours récents en Afrique
+T17	procedure 1338 1355	 bilan biologique
+T18	procedure 1358 1370	 un frottis 
+T19	procedure 1372 1386	goutte épaisse
+T20	labvalue 1406 1414	positive
+T21	disorder 1465 1498	infection à plasmodium Falciparum
+T22	procedure 1500 1514	La parasitémie
+T23	labvalue 1528 1532	 1 %
+T24	procedure 1564 1576	thrombopénie
+T25	labvalue 1589 1600	37 000 /mm3
+T26	procedure 1578 1588	plaquettes
+T27	procedure 1604 1635	une concentration d’hémoglobine
+T28	labvalue 1636 1644	normale,
+T29	procedure 1659 1675	hyperleucocytose
+T30	labvalue 1677 1685	5400 mm3
+T31	procedure 1701 1711	créatinine
+T32	drugs 2134 2145	Chloroquine
+T33	drugs 2147 2158	Nivaquine ®
+T34	disorder 2666 2672	fièvre
+T35	disorder 2764 2772	fébrile 
+T36	disorder 3029 3035	vomit 
+T37	disorder 3019 3027	 fébrile
+T38	disorder 3206 3231	déformation de la bouche 
+T39	disorder 5074 5093	 douleur thoracique
+T40	disorder 5105 5121	’arrêt cardiaque
+T41	risk 5123 5133	tabagisme,
+T42	disorder 5134 5141	diabète
+T43	disorder 5354 5362	douleur,
+T44	disorder 5605 5625	 douleur thoracique.
+T45	profession 5626 5648	Le médecin généraliste
+T46	disorder 5695 5743	sensations bizarres dans les membres supérieurs 
+T47	procedure 5823 5832	autopsie.
+T48	drugs 4076 4086	Nivaquine®
+T49	drugs 3989 3998	Motilium®
+T50	procedure 3910 3926	bilan biologique
+T51	disorder 3824 3830	fièvre
+T52	labvalue 3744 3750	normal
+T53	disorder 3653 3661	fatigué 
+T54	disorder 3663 3673	 nauséeux 
+T55	profession 3600 3612	. Le médecin

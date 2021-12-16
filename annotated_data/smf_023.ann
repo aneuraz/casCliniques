@@ -1,0 +1,61 @@
+T1	disorder 100 156	récidive d’accident vasculaire cérébral (AVC) ischémique
+T2	drugs 171 217	anticoagulation thérapeutique par ­rivaroxaban
+T3	disorder 890 961	Thrombophilie par déficiences des facteurs de la coagulation VIII et IX
+T4	disorder 669 696	Non adhérence thérapeutique
+T5	disorder 825 847	Néoplasie sous-jacente
+T6	disorder 852 885	Emboles septiques sur endocardite
+T7	disorder 970 993	adhérence thérapeutique
+T8	drugs 1063 1085	anti­vitamines K (AVK)
+T9	disorder 1090 1112	syndrome de Trousseau 
+T10	disorder 1119 1129	 néoplasie
+T11	disorder 1170 1221	emboles septiques partant de végétations cardiaques
+T12	disorder 1226 1270	déficit en facteurs VIII et IX (hémophilie) 
+T13	labvalue 1372 1390	modifications ECG 
+T14	labvalue 1408 1448	 élévation de la troponine ultrasensible
+T15	disorder 1534 1554	 syndrome coronarien
+T16	disorder 1634 1646	 hypertendue
+T17	labvalue 1680 1697	saturation à 92% 
+T18	labvalue 1845 1906	ECG montre une inversion des ondes T en V3–V6, II, III et aVF
+T19	disorder 1986 2052	L’index cardio-thoracique est élevé sur la radiographie thoracique
+T20	procedure 2099 2133	 échographie transthoracique (ETT)
+T21	labvalue 2185 2268	dilatation et une hypertrophie ventriculaires gauches avec une hypo­kinésie apicale
+T22	procedure 2312 2329	échocardiographie
+T23	labvalue 2380 2445	sclérose aortique discrète avec une minime régurgitation centrale
+T24	procedure 2548 2584	échocardiographie transoesophagienne
+T25	procedure 2592 2627;2629 2651;2653 2679;2681 2698	angio-CT thoracique protocole aorte  c) Une coronarographie  d) 3 paires d’hémocultures  e) Un fond d’oeil
+T26	disorder 2760 2797	endocardite infectieuse (EI) subaiguë
+T27	disorder 3390 3409	dissection aortique
+T28	disorder 3447 3472	 souffle aortique nouveau
+T29	disorder 3605 3630	 l’insuffisance aortique,
+T30	disorder 3675 3721	une embolie coronarienne d’origine infectieuse
+T31	procedure 3744 3760	 coronarographie
+T32	labvalue 3825 3913	 valve aortique aux feuillets épaissis avec des éléments mobiles suspects de végétations
+T33	disorder 3993 4013	dissection de type A
+T34	labvalue 4099 4155	végétation aortique avec insuffisance sévère subséquente
+T35	drugs 4367 4406	Rifampicine, vancomycine et gentamicine
+T36	drugs 4411 4436	Vancomycine ± gentamicine
+T37	drugs 4441 4467	Daptomycine et rifampicine
+T38	drugs 4472 4502	Co-amoxicilline et vancomycine
+T39	drugs 4506 4536	 Co-amoxicilline ± gentamicine
+T40	disorder 4914 4941	d’allergie à la pénicilline
+T41	procedure 5784 5826	hémocultures restent stériles à 48 heures.
+T42	procedure 5919 6003	sérologie pour Coxiella burnetti et PCR sanguine spécifique pour Tropheryma whipplei
+T43	procedure 6011 6029	PET-CT au F-18 FDG
+T44	procedure 6034 6133	Recherche de germes à gram négatif dits «fastidieux» HACEK avec prolongation des cultures à 5 jours
+T45	procedure 6138 6198	Recherche d’IgG anticardiolipine et Ig anti-b2-glycoprotéine
+T46	procedure 6206 6226	CT thoraco-abdominal
+T47	procedure 6855 6995	sérologies Coxiella burnetti, Bartonella henselae, Bartonella quintana, Legionella pneumophila, Brucellaspp., Mycoplasmaspp., Aspergillusspp
+T48	disorder 7331 7374	 syndrome des anticorps antiphospholipides.
+T49	labvalue 7416 7478	’identifier des emboles septiques à point de départ valvulaire
+T50	procedure 7484 7502	PET-CT au F-18 FDG
+T51	disorder 7874 7889	Choc cardiogène
+T52	disorder 7893 7994	 Régurgitation aortique sévère avec signes cliniques ou échocardiographiques d’insuffisance cardiaque
+T53	disorder 8032 8089	Végétations >10 mm persistant avec complication embolique
+T54	procedure 8225 8254	 prise en charge chirurgicale
+T55	disorder 9314 9344	infarctus rénaux et spléniques
+T56	disorder 9350 9436	lésions hépatiques suspectes de métastases et une masse au niveau du corps du pancréas
+T57	procedure 9682 9700	 biopsie hépatique
+T58	disorder 9726 9753	adénocarcinome pancréatique
+T59	drugs 9758 9827	 anticoagulation thérapeutique par héparine de bas poids moléculaire 
+T60	drugs 10020 10077	 chimiothérapie palliative par paclitaxel et gemcitabine 
+T61	disorder 10441 10496	endocardite marantique, ou thrombotique non bactérienne

@@ -1,0 +1,107 @@
+T1	irrelevant 0 12	Cas clinique
+T2	procedure 68 73	poids
+T3	labvalue 77 85	2,380 Kg
+T4	procedure 121 128	repeser
+T5	procedure 247 253	repesé
+T6	labvalue 269 277	3,080 Kg
+T7	procedure 279 285	taille
+T8	labvalue 286 291	49 cm
+T9	procedure 294 310	érimètre crânien
+T10	labvalue 311 316	35 cm
+T11	disorder 370 386	eczéma du visage
+T12	drugs 441 448	Dexeryl
+T13	disorder 694 710	érythème fessier
+T14	drugs 738 746	Mycoster
+T15	drugs 761 770	Doliprane
+T16	disorder 838 853	rhinopharyngite
+T17	procedure 904 915	Température
+T18	labvalue 918 925	38,2 °C
+T19	disorder 960 972	bronchiolite
+T20	disorder 974 990	Erythème fessier
+T21	drugs 1005 1012	Monazol
+T22	drugs 1017 1023	Locoïd
+T23	disorder 1175 1183	constipé
+T24	procedure 1188 1199	température
+T25	labvalue 1217 1224	38,2 °C
+T26	disorder 1348 1356	Constipé
+T27	drugs 1358 1366	Duphalac
+T28	procedure 1684 1696	vaccinations
+T29	disorder 1865 1879	déshydratation
+T30	profession 1959 1967	pompiers
+T31	disorder 2075 2086	Geignements
+T32	disorder 2088 2100	constipation
+T33	disorder 2104 2111	dyspnée
+T34	drugs 2287 2294	Modilac
+T35	procedure 2307 2314	vacciné
+T36	procedure 2316 2327	Température
+T37	labvalue 2328 2335	38,2 °C
+T38	procedure 2337 2356	fréquence cardiaque
+T39	labvalue 2357 2364	164/min
+T40	procedure 2366 2368	PA
+T41	labvalue 2369 2380	116/77 mmHg
+T42	procedure 2382 2404	fréquence respiratoire
+T43	labvalue 2405 2411	56/min
+T44	procedure 2413 2419	Sat O2
+T45	labvalue 2420 2424	9 8%
+T46	procedure 2428 2433	poids
+T47	labvalue 2434 2442	3,850 kg
+T48	procedure 2444 2450	taille
+T49	labvalue 2451 2456	58 cm
+T50	procedure 2458 2475	périmètre crânien
+T51	labvalue 2476 2481	37 cm
+T52	disorder 2506 2524	Dysmorphie faciale
+T53	disorder 2556 2567	hypotrophie
+T54	disorder 2578 2590	Teint cireux
+T55	disorder 2622 2630	Polypnée
+T56	disorder 2663 2676	hépatomégalie
+T57	procedure 2709 2711	GB
+T58	labvalue 2712 2722	13 200/mm3
+T59	labvalue 2728 2763	62 % de polynucléaires neutrophiles
+T60	procedure 2766 2769	CRP
+T61	labvalue 2770 2780	144,6 mg/l
+T62	procedure 2783 2785	Na
+T63	labvalue 2786 2796	132 mmol/l
+T64	procedure 2799 2800	K
+T65	labvalue 2801 2811	2,7 mmol/l
+T66	procedure 2814 2826	Bicarbonates
+T67	labvalue 2827 2836	16 mmol/l
+T68	procedure 2839 2847	Protides
+T69	labvalue 2848 2854	39 g/l
+T70	procedure 2857 2874	Bilirubine totale
+T71	labvalue 2875 2883	131 µg/l
+T72	labvalue 2889 2897	104 µg/l
+T73	procedure 2901 2910	conjuguée
+T74	procedure 2913 2917	ASAT
+T75	labvalue 2918 2926	129 UI/l
+T76	procedure 2929 2933	ALAT
+T77	labvalue 2934 2941	85 UI/l
+T78	procedure 2942 2965	Radiographie pulmonaire
+T79	labvalue 2968 2997	foyer rétrocardiaque probable
+T80	disorder 3130 3135	apnée
+T81	disorder 3139 3150	bradycardie
+T82	disorder 3164 3179	arrêt cardiaque
+T83	procedure 3182 3207	massage cardiaque externe
+T84	procedure 3211 3232	ventilation au masque
+T85	procedure 3234 3252	pose d'un cathéter
+T86	procedure 3258 3267	injection
+T87	drugs 3270 3280	adrénaline
+T88	procedure 3284 3306	remplissage vasculaire
+T89	procedure 3342 3344	PL
+T90	labvalue 3347 3362	liquide trouble
+T91	procedure 3364 3378	Administration
+T92	drugs 3382 3390	Claforan
+T93	disorder 3428 3443	arrêt cardiaque
+T94	disorder 3489 3494	Décès
+T95	procedure 3446 3476	réanimation cardiorespiratoire
+T96	procedure 3526 3529	LCR
+T97	procedure 3541 3550	Protéines
+T98	labvalue 3551 3559	0,74 g/l
+T99	procedure 3561 3568	glucose
+T100	labvalue 3569 3574	0 g/l
+T101	disorder 3700 3755	lésions suppuratives du lobe inférieur du poumon gauche
+T102	disorder 3763 3812	hépatomégalie avec stéatose majeure et cholestase
+T103	disorder 3905 3928	méningite à pneumocoque
+T104	disorder 3970 3982	hépatopathie
+T105	disorder 3984 3990	anémie
+T106	disorder 3992 4009	troubles ioniques
+T107	disorder 4011 4018	acidose

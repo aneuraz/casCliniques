@@ -1,0 +1,13 @@
+T1	disorder 494 503	mortalité
+T2	disorder 59 79	mortalité maternelle
+T3	procedure 665 680	soins intensifs
+T4	procedure 647 659	réanimation 
+T5	disorder 761 773	hémorragies 
+T6	disorder 786 806	embolies amniotiques
+T7	disorder 1013 1024	hémorragies
+T8	disorder 1026 1040	les infections
+T9	disorder 1048 1076	complications anesthésiques 
+T10	disorder 1339 1344	décès
+T11	procedure 1471 1480	autopsies
+T12	disorder 1687 1707	mortalité maternelle
+T13	disorder 205 220	décès maternels

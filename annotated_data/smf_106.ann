@@ -1,0 +1,130 @@
+T1	irrelevant 8737 8747;8749 9277	Discussion  La maladie cœliaque est une maladie inflammatoire chronique de l’intestin grêle secondaire à l’ingestion de gliadine, fraction du gluten, une protéine de sto­ckage présente dans le blé, l’orge et le seigle. Chez les individus génétiquement prédisposés (HLA-DQ2/DQ8), la gliadine modifiée est présentée aux lymphocytes T spécifiques du gluten par les cellules présentatrices de l’antigène; la cascade inflammatoire déclenchée entraîne la destruction des cellules épithéliales qui conduit à l’atrophie des villosités intestinales.
+T1	irrelevant 9279 9369;9371 10006	La maladie cœliaque peut se manifester à tout âge, avec un rapport femme : homme de 2 : 1.  Les symptômes classiques comme la stéatorrhée, la perte pondérale, les diarrhées chroniques, sont présents chez environ la moitié des adultes; néanmoins la maladie cœliaque peut être pauci-symptomatique ou se présenter par des symptômes peu spécifiques tels qu’une fatigue chronique, qui peut en partie s’expliquer par des carences (hypocalcémie, hypovitaminose A, B, D, E, K), une gêne abdominale, un ballonnement, ou même des symptômes extradigestifs, notamment rhumatologique, hématologique (anémie ferriprive), dermatologique (dermatite herpétiforme, disparition des plis cutanés) et hépatique (élévation des transaminases) [4, 5].
+T1	irrelevant 10008 10311;10313 10707	A noter le syndrome de Plummer-Vinson, également appelé syndrome de Kelly Paterson ou «dysphagie ­sidéropénique» qui se définit par une triade classique: l’anémie ferriprive, la dysphagie et le diaphragme œsophagien supérieur. Cette triade devrait faire rechercher systématiquement une maladie cœliaque.  La recherche de maladie cœliaque devrait également être envisagée chez les patients présentant des pathologies avec une composante auto-immune telles que le diabète, la cholangite sclérosante primaire, la thyroïdite auto-immune, la maladie d’Addison, le syndrome de Sjögren, l’œsophagite à éosinophiles et chez les ­patients atteints d’une maladie inflammatoire chroniques de l’intestin [3, 5].
+T1	irrelevant 10709 10894;10896 11137	L’efficacité du régime doit être évaluée à distance; la normalisation des anticorps peut prendre jusqu’à une année. La compliance devrait être assurée par une diététicienne spécialisée.  Si les symptômes sont toujours présents, malgré un ­régime bien conduit, il faut alors évoquer un diagnostic alternatif et le recours à une nouvelle endoscopie peut alors être nécessaire pour mieux comprendre le mécanisme de non-réponse [6].
+T1	irrelevant 11139 11476;11478 11696	La maladie cœliaque réfractaire est une complication qui se caractérise par la présence de symptômes malgré un régime strict sans gluten pendant au moins six mois. Le forme de type 1 présente une augmentation de lymphocytes de phénotype normal, tandis que la forme de type 2 est considérée comme un lymphome de faible degré de malignité.  Les lymphomes T associés aux entéropathies (EATL), le plus souvent décrits comme de haut degré de malignité, sont très rares (<1% des lymphomes non hodgkiniens), et associés à une maladie cœliaque dans 70% des cas [3].
+T1	irrelevant 11698 12024;12026 12035	Le traitement de la forme de type 1 repose sur la corticothérapie (prednisone, budésonide) et les immunosuppresseurs (azathioprine). Dans la forme de type 2 le traitement initial est basé sur les stéroïdes; compte tenu du risque d’une progression vers un EATL sous traitement immunosuppresseur, l’azathioprine doit être évité.  Réponses:
+T1	irrelevant 12038 12113	Question 1: b. Question 2: e. Question 3: e. Question 4: b. ­Question 5: c.
+T2	irrelevant 7983 8047;8050 8056	Question 5: Quelle(s) céréale(s) ci-dessous peut-elle consommer?   a) Blé
+T2	irrelevant 8058 8065;8067 8076	b) Orge  c) Avoine
+T2	irrelevant 8078 8087;8089 8097	d) Seigle  e) Aucun
+T3	irrelevant 7244 7345;7348 7375	Question 4: Quels sont les taux de spécificité et sensibilité des anticorps IgA antitransglutaminase?   a) 85.5%, Spécificité 93.5%
+T3	irrelevant 7377 7412;7414 7451	b) Sensibilité 95%, Spécificité 95%  c) Sensibilité 91%, Spécificité 89.5%
+T3	irrelevant 7453 7492;7494 7529	d) Sensibilité 89.5%, Spécificité 92.5%  e) Sensibilité 95%, Spécificité 90%
+T4	irrelevant 6368 6473;6476 6511	Question 3: Quel test sérologique doit-on effectuer en priorité lors d’une suspicion de maladie cœliaque?   a) IgA antiendomysium + IgA totales
+T4	irrelevant 6513 6556;6558 6591	b) IgA antigliadine désaminée + IgA totales  c) IgG antigliadine + IgA totales
+T4	irrelevant 6593 6634;6636 6677	d) IgG antitransglutaminase + IgA totales  e) IgA antitransglutaminase + IgA totales
+T5	irrelevant 4185 4260;4263 4275	Question 2: Quel est le diagnostic différentiel de l’atrophie villositaire?   a) Giardiase
+T5	irrelevant 4277 4298;4300 4318	b) Maladie de Whipple  c) Sprue tropicale
+T5	irrelevant 4320 4360;4362 4371	d) Entéropathie associée à un lymphome T  e) Toutes
+T6	irrelevant 2048 2141;2144 2178	Question 1: Quel traitement privilégier en cas de dyspepsie avec Helicobacter pylori négatif?   a) Anti-histaminiques-H2 (Anti-H2)
+T6	irrelevant 2180 2222;2224 2240	b) Inhibiteurs de la pompe à protons (IPP)  c) Prokinétiques
+T6	irrelevant 2242 2266;2268 2276	d) Antiacides de contact  e) Aucun
+T7	disorder 101 139	 douleurs épigastriques postprandiales
+T8	disorder 147 162	dysphagie haute
+T9	disorder 265 297	perte pondérale d’environ 16 kg 
+T10	disorder 394 401	nausées
+T11	disorder 481 493	constipation
+T12	procedure 868 884	bilan biologique
+T13	procedure 960 988	 tests hépato-pancréatiques 
+T14	procedure 1011 1029	test de grossesse 
+T15	labvalue 1033 1040	négatif
+T16	procedure 1232 1243	Hémoglobine
+T17	labvalue 1244 1247	131
+T18	procedure 1260 1264	MCV	
+T19	labvalue 1264 1266	85
+T20	procedure 1277 1286	Ferritine
+T21	labvalue 1287 1291	112	
+T22	procedure 1303 1315	Vitamine B12
+T23	labvalue 1316 1319	246
+T24	procedure 1335 1346	Vitamine B9
+T25	labvalue 1347 1352	15,3	
+T26	procedure 1444 1455	IgA totales
+T27	labvalue 1456 1461	1,47	
+T28	labvalue 1461 1465	1,22
+T29	procedure 1480 1504	IgA antitransglutaminase
+T30	labvalue 1505 1507	86
+T31	labvalue 1508 1510	14
+T32	disorder 1567 1590	douleurs épigastriques,
+T33	disorder 1634 1642	diarrhée
+T34	procedure 1731 1749	 bilan biologique 
+T35	procedure 1778 1817	sérologie pour Helicobacter (H.) pylori
+T36	labvalue 1825 1833	négative
+T37	drugs 1897 1910	 paracétamol 
+T38	drugs 1915 1927	ésomeprazole
+T39	procedure 1996 2008	gastroscopie
+T40	drugs 2283 2322	nhibiteurs de la pompe à protons (IPP) 
+T41	procedure 2337 2358	 traitement empirique
+T42	procedure 2428 2450	recherche d’H. pylori 
+T43	labvalue 2450 2459	négative 
+T44	procedure 2508 2548	traitement d’éradication de l’H. pylori.
+T45	procedure 2580 2614	 antiacides et les antagoniste H2 
+T46	procedure 2737 2759	anti-histaminiques H2 
+T47	drugs 2760 2770	ranitidine
+T48	procedure 2848 2859	antiacides 
+T49	procedure 2942 2952	 traitemen
+T50	drugs 2954 2957	IPP
+T51	procedure 2985 3009	traitement prokinétique 
+T52	drugs 3010 3021	dompéridone
+T53	drugs 3025 3039	métoclopramide
+T54	procedure 3062 3076	prise des IPP 
+T55	disorder 3264 3287	douleurs épigastriques 
+T56	procedure 3311 3344	échelle visuelle analogique [EVA]
+T57	labvalue 3304 3310	10/10 
+T58	procedure 3560 3579	ultrason abdominal,
+T59	procedure 3657 3679	œsogastroduodénoscopie
+T60	procedure 3869 3903	biopsies gastriques et duodénales 
+T61	procedure 3922 3947	examen histo-pathologique
+T62	disorder 3969 4000	discrète atrophie villositaire 
+T63	procedure 4135 4147	Gastroscopie
+T64	disorder 4461 4470	Giardiase
+T65	disorder 4721 4737	diarrhées aiguës
+T66	disorder 4739 4751	ballonnement
+T67	disorder 4753 4763	flatulence
+T68	disorder 4767 4785	crampes abdominaux
+T69	disorder 4791 4809	maladie de Whipple
+T70	disorder 5053 5065	une diarrhée
+T71	disorder 5071 5082	stéatorrhée
+T72	disorder 5123 5134	arthralgies
+T73	disorder 5142 5149	fièvre 
+T74	disorder 5210 5241	(myorythmies oculomasticatoires
+T75	disorder 5243 5253	myoclonies
+T76	disorder 5255 5262	démence
+T77	disorder 5274 5289	sprue tropicale
+T78	procedure 5292 5311	examen histologique
+T79	disorder 5323 5344	atrophie villositaire
+T80	disorder 5525 5540	sprue tropicale
+T81	disorder 5572 5588	 diarrhée ­aiguë
+T82	disorder 5615 5629	malabsorption 
+T83	disorder 5636 5644	anorexie
+T84	disorder 5649 5687	entéropathie associée à un lymphome T 
+T85	disorder 5756 5773	 maladie cœliaque
+T86	disorder 5783 5800	sprue réfractaire
+T87	disorder 5950 5966	maladie cœliaque
+T88	procedure 6310 6329	histo-pathologiques
+T89	procedure 6334 6352	dosage d’anticorps
+T90	procedure 6682 6737	dosage des anticorps antitransglutaminase de classe IgA
+T91	procedure 6960 6982	dosage des IgA totales
+T92	procedure 7056 7088	aux des IgA antitransglutaminase
+T93	disorder 7133 7156	déficit des IgA totales
+T94	procedure 7161 7214	dosage des anticorps antitransglutaminase de type IgG
+T95	procedure 7550 7574	IgA antitransglutaminase
+T96	disorder 7583 7600	maladie cœliaque 
+T97	procedure 7680 7697	bilan sérologique
+T98	procedure 7725 7737	aleur d’IgA 
+T99	labvalue 7755 7763	1,47 g/l
+T100	procedure 7795 7820	IgA antitransglutaminase 
+T101	labvalue 7825 7835	augmentées
+T102	labvalue 7838 7842	86 U
+T103	procedure 7875 7884	sérologie
+T104	labvalue 7885 7893	positive
+T105	disorder 7912 7928	maladie cœliaque
+T106	procedure 7949 7967	régime sans gluten
+T107	procedure 8103 8128	égime strict sans gluten 
+T108	disorder 8169 8185	maladie cœliaque
+T109	procedure 8606 8624	bilan ­sérologique
+T110	procedure 8648 8668	aleur de IgA totales
+T111	labvalue 8671 8679	1,22 g/l
+T112	procedure 8687 8720	 taux de IgA antitransglutaminase
+T113	labvalue 8721 8727	baissé
+T114	labvalue 8730 8734	14 U

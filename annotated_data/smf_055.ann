@@ -1,0 +1,58 @@
+T1	disorder 13 41	 céphalées post-traumatiques
+T2	disorder 212 240	 traumatisme cranio-cérébral
+T3	disorder 245 311	méningite/l’irritation méningée et des troubles cérébrovasculaires
+T4	disorder 321 354	 l’hémorragie sous-arachnoïdienne
+T5	disorder 360 375	 thromboembolie
+T6	disorder 653 712	céphalées pulsatiles progressives épisodiques consécutives 
+T7	disorder 959 982	malaise de courte durée
+T8	disorder 1045 1073	infection gastro-intestinale
+T9	disorder 1080 1104	vomissements et diarrhée
+T10	labvalue 1495 1527	pression artérielle 110/80 mm Hg
+T11	labvalue 1529 1541	pouls 66/min
+T12	labvalue 1543 1562	température 37,0 °C
+T13	procedure 1837 1874	Les analyses de laboratoire initiales
+T14	labvalue 1926 1943	 (CRP) de 13 mg/l
+T15	labvalue 1977 2006	leucocytaire basse de 4,3 G/l
+T16	disorder 2218 2229	 anisocorie
+T17	disorder 2545 2553	’amnésie
+T18	disorder 2804 2839	malaise directement après la chute 
+T19	labvalue 2906 2932	 hémorragie intracérébrale
+T20	procedure 2937 2970	tomodensitométrie (TDM) crânienne
+T21	labvalue 3003 3030	thrombose des sinus veineux
+T22	procedure 3110 3182	Tomodensitométrie crânienne après injection de produit de contraste i.v.
+T23	labvalue 3215 3288	thrombi flottants dans le sinus transverse autour du confluent des sinus.
+T24	labvalue 3507 3540	 hématome sous-dural concomitant 
+T25	procedure 3833 3838	(IRM)
+T26	labvalue 4041 4138	hyperdensité occipitale bilatérale avec «dense vessel sign» due à un thrombus frais dans le sinus
+T27	labvalue 4336 4400	 atténuation du signal liée au thrombus est perçue dans le sinus
+T28	procedure 4403 4539	 Imagerie par résonance magnétique, séquence T1 avec ­suppression de graisse, coupe axiale, après injection de produit de contraste i.v.
+T29	procedure 4543 4652	 thrombus cerné par le produit de contraste dans le sinus est visualisable en tant qu’hypointensité tubulaire
+T30	labvalue 4840 4915	thrombus est dissous, une bonne circulation est ­rétablie au sein du sinus.
+T31	procedure 5054 5135	diminution de la pression intracrânienne et la prévention des crises épileptiques
+T32	drugs 5217 5244	anticoagulation orale (ACO)
+T33	disorder 5552 5585	thrombophilie sévère récidivante 
+T34	procedure 5593 5620	 thrombolyse/thrombectomie 
+T35	disorder 5701 5710	méningite
+T36	procedure 5749 5776	traitement anti-infectieux 
+T37	drugs 5886 5910	héparine non fractionnée
+T38	labvalue 6077 6115	régression quasi-complète du thrombus.
+T39	disorder 7161 7208	thromboses des sinus veineux d’origine septique
+T40	disorder 7221 7238	origine aseptique
+T41	labvalue 7392 7397	 CRP 
+T42	disorder 7742 7771	déficits neurologiques focaux
+T43	disorder 7786 7842	 symptômes hémisphériques et aphasie, ou des convulsions
+T44	risk 8032 8042	âge avancé
+T45	risk 8047 8060	sexe masculin
+T46	risk 8064 8083	hémorragie de stase
+T47	risk 8087 8157	 thrombose des veines cérébrales internes et du sinus transverse droit
+T48	risk 8162 8218	 infections du système nerveux central et les néoplasies
+T49	risk 8662 8681	’hypercoagulabilité
+T50	risk 8686 8714	prise de contraceptifs oraux
+T51	risk 8719 8746	grossesse et le post-partum
+T52	risk 8751 8768	 tumeurs malignes
+T53	risk 8773 8808	 infections locales et généralisées
+T54	risk 8820 8853	les traumatismes cranio-cérébraux
+T55	risk 8910 8966	les femmes sont plus fréquemment touchées que les hommes
+T56	labvalue 9118 9142	 taux accru de D-dimères
+T57	procedure 9390 9427	 IRM avec séquence T2 et veinographie
+T58	procedure 9493 9538	une ponction lombaire et un bilan infectieux 

@@ -1,0 +1,117 @@
+T1	procedure 38 63	suivie pour une grossesse
+T2	procedure 76 89	don d’ovocyte
+T3	procedure 107 155	grossesse gémellaire monochoriale, bi-amniotique
+T4	procedure 160 169	grossesse
+T5	labvalue 185 196	normalement
+T6	procedure 201 226	consultation d’anesthésie
+T7	labvalue 251 256	34 SA
+T8	procedure 261 274	bilan sanguin
+T9	procedure 288 299	hémoglobine
+T10	labvalue 302 310	10.6g/dl
+T11	procedure 317 335	taux de plaquettes
+T12	labvalue 339 345	257G/l
+T13	procedure 354 370	plan obstétrical
+T14	procedure 377 397	fœtus sont eutrophes
+T15	procedure 427 454	accouchement par voie basse
+T16	procedure 497 507	césarienne
+T17	procedure 623 633	césarienne
+T18	procedure 638 654	bilan à l’entrée
+T19	procedure 666 668	Hb
+T20	labvalue 671 680	13.5g/dl 
+T21	procedure 686 705	taux de plaquettes 
+T22	labvalue 712 718	172G/l
+T23	procedure 753 768	RachiAnesthésie
+T24	procedure 776 793	 incision cutanée
+T25	procedure 802 814	hystérotomie
+T26	procedure 829 854	naissance de deux garçons
+T27	labvalue 858 863	2360g
+T28	labvalue 867 872	2830g
+T29	drugs 881 891	ocytocine 
+T30	procedure 913 922	fermeture
+T31	procedure 939 970	Estimation des pertes sanguines
+T32	labvalue 972 978	500 cc
+T33	procedure 980 1006	Remplissage per césarienne
+T34	labvalue 1008 1017	500cc Iso
+T35	labvalue 1021 1034	500cc Voluven
+T36	procedure 1080 1093	Bilan prélevé
+T37	procedure 1095 1097	Hb
+T38	labvalue 1098 1107	12,5 g/dl
+T39	procedure 1109 1113	plaq
+T40	labvalue 1114 1121	149 G/l
+T41	procedure 1123 1125	Fb
+T42	labvalue 1126 1134	3,97 g/l
+T43	procedure 1137 1148	Echographie
+T44	labvalue 1149 1175	caillots +++ intra-utérins
+T45	procedure 1193 1224	aspiration sous rachianesthésie
+T46	drugs 1226 1233	Nalador
+T47	drugs 1236 1242	Exacyl
+T48	procedure 1247 1258	Saignements
+T49	labvalue 1259 1266	1300 cc
+T50	disorder 1276 1290	Atonie utérine
+T51	procedure 1292 1306	Massage utérin
+T52	procedure 1308 1331	Décision d’embolisation
+T53	procedure 1341 1354	Pose 2ème VVP
+T54	procedure 1364 1386	Départ en embolisation
+T55	procedure 1388 1399	Saignements
+T56	labvalue 1400 1406	1470cc
+T57	procedure 1408 1415	Hémocue
+T58	labvalue 1416 1420	11,4
+T59	procedure 1430 1448	début embolisation
+T60	procedure 1450 1461	transfusion
+T61	procedure 1479 1492	bilan prélevé
+T62	procedure 1495 1497	Hb
+T63	labvalue 1498 1507	10,6 g/dl
+T64	procedure 1509 1512	Plq
+T65	labvalue 1513 1520	156 G/l
+T66	procedure 1522 1524	Fb
+T67	labvalue 1525 1533	3,03 g/l
+T68	procedure 1543 1559	Fin embolisation
+T69	procedure 1561 1574	2 art utérine
+T70	procedure 1578 1589	Saignements
+T71	labvalue 1590 1596	1740cc
+T72	disorder 1606 1625	Malaise hypotensif 
+T73	procedure 1626 1628	PA
+T74	labvalue 1629 1634	64/49
+T75	procedure 1635 1637	FC
+T76	labvalue 1638 1641	138
+T77	procedure 1645 1655	Saignement
+T78	labvalue 1656 1663	2040 cc
+T79	procedure 1666 1673	Hémocue
+T80	labvalue 1674 1682	9,5 g/dl
+T81	procedure 1684 1704	Transfusion de 2 PFC
+T82	procedure 1756 1765	ligatures
+T83	procedure 1723 1742	Décision de passage
+T84	procedure 1768 1773	Bilan
+T85	procedure 1782 1784	Hb
+T86	procedure 1795 1798	Plq
+T87	labvalue 1799 1806	118 G/l
+T88	procedure 1808 1810	Fb
+T89	labvalue 1811 1819	2,43 g/l
+T90	procedure 1829 1855	Induction séquence rapide 
+T91	procedure 1857 1868	Transfusion
+T92	drugs 1871 1874	CGR
+T93	drugs 1880 1890	clottafact
+T94	drugs 1900 1908	Incision
+T95	procedure 1918 1953	ligature des artères hypogastriques
+T96	procedure 1963 1986	Capitonnage par B-Lynch
+T97	procedure 1989 1991	T°
+T98	labvalue 1991 1995	35,8
+T99	procedure 1998 2009	Transfusion
+T100	labvalue 2013 2014	2
+T101	drugs 2015 2018	CGR
+T102	procedure 2021 2032	Saignements
+T103	labvalue 2033 2039	2540cc
+T104	procedure 2049 2085	Décision d’hystérectomie d’hémostase
+T105	procedure 2087 2099	Saignements 
+T106	labvalue 2099 2105	3040cc
+T107	procedure 2107 2118	Transfusion
+T108	labvalue 2122 2124	3 
+T109	drugs 2124 2127	PFC
+T110	procedure 2137 2150	Bilan prélevé
+T111	procedure 2152 2154	Hb
+T112	labvalue 2155 2164	10,1 g/dl
+T113	procedure 2166 2170	plaq
+T114	labvalue 2171 2177	62 G/l
+T115	procedure 2179 2181	Fb
+T116	labvalue 2182 2191	2,71 g/dl
+T117	procedure 2201 2218	Fin hystérectomie

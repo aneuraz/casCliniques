@@ -1,0 +1,30 @@
+T1	procedure 16 30	interrogatoire
+T2	disorder 47 59	maux de tête
+T3	disorder 123 135	vomissements
+T4	procedure 286 305	examen neurologique
+T5	labvalue 334 341	normal 
+T6	disorder 372 388	raideur de nuque
+T7	disorder 392 403	photophobie
+T8	procedure 342 358	score de Glasgow
+T9	labvalue 361 363	15
+T10	procedure 490 501	température
+T11	labvalue 509 516	37,1 °C
+T12	labvalue 476 483	160/110
+T13	procedure 459 461	PA
+T14	profession 1104 1112	médecin 
+T15	procedure 1174 1190	score de Glasgow
+T16	labvalue 1198 1199	3
+T17	disorder 1234 1253	mydriase bilatérale
+T18	disorder 1268 1289	yanose des extrémités
+T19	drugs 1314 1321	oxygène
+T20	procedure 1419 1426	intubée
+T21	procedure 1428 1436	ventilée
+T22	procedure 1438 1446	perfusée
+T23	procedure 1486 1493	scanner
+T24	disorder 1530 1554	AVC hémorragique massif.
+T25	drugs 1790 1808	anti hypertenseur 
+T26	disorder 1893 1911	embolie pulmonaire
+T27	drugs 1927 1947	anticoagulant (AVK) 
+T28	disorder 2081 2105	souffrance psychologique
+T29	disorder 2109 2113	IAO 
+T30	profession 2120 2134	aide-soignante

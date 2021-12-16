@@ -1,0 +1,39 @@
+T1	irrelevant 5312 5322;5324 5951	Discussion  Des fractures, des lésions du ligament deltoïde et des luxations du tendon du muscle tibial postérieur sont rapportées en tant que conséquences du traumatisme de pronation [8, 9]. La fracture de l’os naviculaire accessoire est, quant à elle, une pathologie qui n’a jusqu’à présent été que très rarement décrite. Nos recherches sur PubMed nous ont permis de trouver seulement deux «case reports» datant des années 1978 et 1990 [10, 11]. Une évaluation de l’os naviculaire accessoire au moyen d’une modalité d’imagerie en coupe, comme la TDM ou l’IRM, n’a été réalisée dans aucun de ces rapports de cas, à l’inverse de notre cas.
+T1	irrelevant 5953 6352;6354 6675	Dans le premier rapport de cas, une séparation de l’os naviculaire accessoire et de l’os naviculaire est survenue [11]. En raison de la rétraction de l’os accessoire, un traitement chirurgical a dans ce cas été réalisé après une courte tentative de traitement conservateur de deux semaines. Le fragment a été réséqué et le tendon du muscle tibial postérieur a été cousu avec les tissus environnants.  Dans le deuxième «case report», comme chez notre patiente, une soudaine éversion du pied est survenue, avec des douleurs consécutives au niveau de la face interne du pied. La radiologie a montré une fracture de l’os naviculaire accessoire. Un traitement conservateur a été réalisé avec immobilisation dans un plâtre [10].
+T1	irrelevant 6677 7015;7017 7449	A l’inverse de notre cas, une séparation de l’os accessoire et de l’os naviculaire a été décrite dans les deux rapports de cas. Dans notre exemple, nous avons néanmoins mis en évidence une fracture pluri-fragmentaire de l’os accessoire lui-même à la TDM. En outre, l’examen de TDM de suivi a montré une résorption partielle des fragments.  Les ostéolyses post-traumatiques sont surtout décrites pour la clavicule latérale [12, 13]. Il existe des rapports de cas isolés faisant état d’autres localisations, telles que les vertèbres cervicales et l’os naviculaire accessoire [6, 14]. La résorption ostéoclastique, les nécroses avasculaires, les micro-fractures, l’invasion synoviale et les dysfonctions du système nerveux autonome sont discutées en tant que causes [13, 15].
+T1	irrelevant 7451 7715;7717 7988	Que ce soit sur le plan clinique ou fonctionnel, la résorption de l’os n’a pas induit la moindre limitation pour la patiente. Sous traitement conservateur, une disparition complète des symptômes avec un résultat fonctionnel identique au côté opposé a été atteinte.  Comme dans le rapport de cas de 1990, aucune rétraction des fragments n’est survenue chez notre patiente. Nous avons également pu atteindre un très bon résultat clinique au moyen du traitement conservateur, malgré la fracture de l’os naviculaire accessoire lui-même [10].
+T1	irrelevant 7990 8165;8167 8321	Il s’agit de la différence avec le rapport de 1978, dans lequel une nette proximalisation de l’os naviculaire accessoire a été décrite et le traitement a été chirurgical [11].  Sur la base des trois rapports de cas disponibles, il est possible de distinguer deux types de fracture de l’os naviculaire accessoire pour le traitement:
+T1	irrelevant 8323 8810;8812 9087	– Type A: Seule une fracture de l’os naviculaire accessoire est présente et il n’y a pas de rétraction du tendon. Un traitement conservateur avec immobilisation, décharge au moyen de béquilles et traitement anti-inflammatoire peut alors être mis en œuvre. Comme il n’y a pas de rétraction du fragment et donc pas d’élongation du tendon, aucune perte de fonction du muscle tibial postérieur ne se produit. Il n’y a en conséquence pas de risque de formation d’un pied plat valgus [16, 17].  – Type B: Une rétraction des fragments est présente. En conséquence, une procédure chirurgicale avec résection des fragments et réinsertion du tendon au sens d’une opération de Kidner est recommandée afin de prévenir une perte de fonction du muscle tibial postérieur [5, 16].
+T1	irrelevant 9089 9117;9119 9210	L’essentiel pour la pratique  • Il convient d’utiliser des procédés d’imagerie en coupe pour l’évaluation de la fracture.
+T1	irrelevant 9212 9341;9343 9442	• En cas de type A de fracture de l’os naviculaire accessoire sans rétraction du tendon, un traitement conservateur est possible.  • En cas de type B avec rétraction du fragment proximal, une procédure chirurgicale est recommandée
+T2	disorder 436 445	fractures
+T3	procedure 730 750	radiographie native 
+T4	procedure 757 776	examen radiologique
+T5	disorder 828 876	fracture directe de l’os naviculaire accessoire 
+T6	procedure 947 970	traitement conservateur
+T7	disorder 1199 1231	distorsion de la cheville gauche
+T8	disorder 1416 1461	douleurs au niveau de la face interne du pied
+T9	disorder 1470 1483	ématome minim
+T10	procedure 1752 1768	’examen clinique
+T11	disorder 1780 1798	 gonflement marqué
+T12	procedure 2200 2222	omodensitométrie (TDM)
+T13	disorder 2255 2298	une fracture de l’os naviculaire accessoire
+T14	procedure 2516 2578	imagerie par résonance magnétique (IRM) de la cheville gauche 
+T15	procedure 2853 2856	IRM
+T16	procedure 2947 2969	traitement conservateu
+T17	procedure 2994 3032	mmobilisation du pied dans une orthèse
+T18	procedure 3102 3117	deux béquilles 
+T19	procedure 3163 3191	prophylaxie thromboembolique
+T20	drugs 3196 3231	Fragmin® 5 000 UI s.c. 1 × par jour
+T21	procedure 3354 3372	contrôle clinique 
+T22	procedure 3375 3387	radiologique
+T23	disorder 3470 3478	hématome
+T24	procedure 3801 3805	TDM 
+T25	procedure 3989 3993	TDM 
+T26	procedure 4340 4361	contrôle radiologique
+T27	procedure 4365 4373	clinique
+T28	procedure 4944 4959	 degré de force
+T29	procedure 3661 3675	degré de force
+T30	labvalue 3678 3682	 5/5
+T31	labvalue 4963 4966	5/5
+T32	procedure 5160 5163	TDM

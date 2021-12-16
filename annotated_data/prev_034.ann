@@ -1,0 +1,45 @@
+T1	disorder 59 79	douleurs abdominales
+T2	disorder 59 148	douleurs abdominales, sus-pubiennes et de la fosse iliaque droite, d’intensité croissante
+T3	disorder 166 190	nausées sans vomissement
+T4	disorder 199 221	ccélération du transit
+T5	disorder 247 262	fièvre à 38°2 C
+T6	labvalue 381 392	16 000 /mm3
+T7	labvalue 403 411	100 mg/l
+T8	labvalue 444 452	négative
+T9	disorder 536 576	douleur nette de la fosse iliaque droite
+T10	procedure 618 657	radiographie d’abdomen sans préparation
+T11	procedure 847 885	appendicectomie par voie cœlioscopique
+T12	drugs 1427 1435	Diprivan
+T13	drugs 1446 1453	Sufenta
+T14	drugs 1464 1474	Celocurine
+T15	drugs 1487 1493	Nimbex
+T16	drugs 1552 1558	Flagyl
+T17	procedure 1505 1523	antibioprophylaxie
+T18	disorder 1609 1651	nsufflation hypochondre gauche et incision
+T19	procedure 2234 2262	administration d’adrénaline 
+T20	procedure 2269 2303	 pose de voies veineuses centrales
+T21	disorder 1729 1751	brutale chute de la PA
+T22	procedure 2951 3005	ponction de l’hypochondre gauche à l’aiguille de VERES
+T23	procedure 3144 3202	mise en place de deux autres trocarts sous contrôle visuel
+T24	procedure 3205 3289	un trocart de 10 mm dans la fosse iliaque gauche et un trocart de 5 mm en sus-pubien
+T25	procedure 3797 3808	laparotomie
+T26	procedure 3886 3909	Incision xipho-pubienne
+T27	disorder 3975 4000	hématome rétropéritonéal 
+T28	disorder 3926 3961	hémopéritoine de moyenne abondance 
+T29	labvalue 5520 5531	84/32 mmHg 
+T30	labvalue 5555 5562	140/min
+T31	procedure 5784 5803	examens biologiques
+T32	disorder 4245 4300	orifice péritonéal en regard de la bifurcation aortique
+T33	procedure 4524 4571	réparée par le chirurgien vasculaire qui obture
+T34	procedure 4856 4967	ne appendicectomie avec ligature du méso en plusieurs prises et ligature de l’appendice au vicryl est réalisée 
+T35	procedure 4989 5011	fermeture de la paroi 
+T36	procedure 5046 5109	un drainage latéro-aortique par un redon sortant du côté gauche
+T37	procedure 5122 5241	drainage de la gouttière pariéto-colique droite et sous-phrénique droite par un redon en contre-incision iliaque droite
+T38	procedure 5245 5263	 lavage péritonéal
+T39	drugs 6044 6058	 Noradrénaline
+T40	drugs 6062 6072	Adrénaline
+T41	drugs 6078 6088	 Novodeven
+T42	disorder 6156 6208	eprise de l’hémorragie (300ml/h par le redon gauche)
+T43	irrelevant 6522 6550;6551 6741;6742 8741;8742 8836	Décès le lendemain à 12h16.  L’autopsie médico-légale confirme les données opératoires sans apporter d’éléments nouveaux. A noter que la pièce d’appendicectomie n’avait pas fait l’objet d’un examen anatomopathologique.  Lors de son audition par les experts, le chirurgien disait avoir débuté la pratique de la cœlio-chirurgie en 2001 et qu’actuellement, il réalisait environ 15 cœlio-appendicectomies par an mais aussi d’autres interventions par cette voie d’abord. Il n’avait pas eu de complications, en dehors d’une plaie de la convergence biliaire lors d’une cholécystectomie. Le chirurgien était convaincu que la complication survenue était due à un dysfonctionnement du trocart utilisé dont la sécurité n’avait pas fonctionné : « (…) Normalement lorsque la sécurité fonctionne, c'est-à-dire lorsque la lame se rétracte (*), on entend un léger déclic. En l’espèce, je ne peux pas affirmer avoir entendu le déclic …Aussi, le lendemain, j’ai adressé une fiche de signalement d’incident (document AFSSAPS) (…) ». Le chirurgien ajoutait qu’il avait pu récupérer, après l’intervention, le trocart ombilical utilisé et qu’en le testant au bloc opératoire avec un champ tissu, il avait constaté que la chemise du trocart ne se rétractait qu’une fois sur deux, lors de la perforation du champ. Par ailleurs, le chirurgien signalait avoir, déjà, eu des incidents avec ce type de matériel mais comme ces incidents n’avaient pas été majeurs, il n’avait pas adressé de fiche de signalement (*) En réalité, dès la paroi traversée, le bouclier du trocart doit immédiatement se verrouiller, c'est-à-dire se replacer sur la lame évitant ainsi que tout organe soit touché (note du fabricant aux experts). Utilisant les scellés qui leur avaient été confiés par le juge d’instruction et qui contenaient deux des trois trocarts utilisés pendant l’intervention, les experts reproduisaient, à quatre reprises avec les deux trocarts, l’expérience faite par le chirurgien, sans constater de dysfonctionnement Par ailleurs, la société fabricant le trocart avait remis aux enquêteurs 9 trocarts non utilisés, faisant partie du même lot que celui ayant été considéré comme défectueux. Aucune anomalie n’avait été découverte sur ces trocarts.  Plainte pénale pour homicide involontaire déposée en août 2006 par les parents de la patiente.
+T44	disorder 6382 6405	troubles de l’hémostase
+T45	disorder 6415 6449	nstabilité de l’état hémodynamique

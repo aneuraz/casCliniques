@@ -1,0 +1,36 @@
+T1	disorder 68 94	 cancer du col de l'utérus
+T2	procedure 106 120	curiethérapie 
+T3	procedure 123 136	radiothérapie
+T4	disorder 188 214	claudication intermittente
+T5	disorder 223 248	périmètre de marche large
+T6	disorder 277 321	occlusion de l'axe artériel iliaque externe 
+T7	disorder 343 362	lésion post-radique
+T8	disorder 477 518	douleur importante au niveau de la hanche
+T9	profession 608 624	kinésithérapeute
+T10	procedure 631 652	adiographie du bassin
+T11	labvalue 705 771	fracture non déplacée des branches ilio et ischiopubiennes gauches
+T12	procedure 629 652	 radiographie du bassin
+T13	disorder 910 928	fracture du bassin
+T14	profession 777 784	médecin
+T15	profession 1055 1071	kinésithérapeute
+T16	procedure 1088 1103	hospitalisation
+T17	drugs 1143 1156	anticoagulant
+T18	procedure 1161 1181	contention élastique
+T19	disorder 1325 1333	phlébite
+T20	profession 1632 1648	kinésithérapeute
+T21	drugs 1673 1686	anticoagulant
+T22	profession 1726 1733	médecin
+T23	drugs 1780 1793	anticoagulant
+T24	disorder 1942 1951	 phlébite
+T25	drugs 1969 1977	Aspégic®
+T26	drugs 2070 2086	héparinothérapie
+T27	disorder 2663 2671	 malaise
+T28	disorder 2920 2927	syncope
+T29	disorder 2902 2909	malaise
+T30	profession 3154 3163	pompiers)
+T31	drugs 3254 3269	oxygénothérapie
+T32	disorder 3342 3379	défaillance cardio-circulatoire aiguë
+T33	procedure 3391 3422	réanimation cardio-respiratoire
+T34	disorder 3512 3538	ccident cardiorespiratoire
+T35	disorder 3548 3567	 embolie pulmonaire
+T36	disorder 3569 3588	fracture du bassin 

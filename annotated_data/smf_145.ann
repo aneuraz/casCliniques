@@ -1,0 +1,83 @@
+T1	disorder 55 72	diabète de type I
+T2	disorder 97 144	tuméfaction mandibulaire douloureuse bilatérale
+T3	disorder 165 177	tuméfaction 
+T4	procedure 287 302	examen clinique
+T5	disorder 331 342	 apyrétique
+T6	disorder 360 397	hypertrophie parotidienne ­symétrique
+T7	disorder 442 495	écoulement purulent à l’embouchure du canal de Sténon
+T8	irrelevant 498 566;569 602;604 629;631 666;668 728;730 747	Question 1: Lequel de ces diagnostics vous semble le moins probable?   a) Une parotidite ourlienne aigüe  b) Un syndrome de Sjögren  c) Une parotidite bactérienne aigüe  d) Une hypertrophie parotidienne dans un contexte de diabète  e) Une sarcoïdose
+T9	irrelevant 749 916;918 1262;1264 1684;1686 1850;1852 2089	Les oreillons sont causés par un paramyxovirus, qui provoque une tuméfaction bilatérale douloureuse des parotides. Elle est normalement précédée de symptômes grippaux.  Le syndrome de Sjögren est une maladie inflammatoire auto-immune caractérisée par la destruction de la fonction exocrine des glandes salivaires et lacrymales entraînant une sécheresse oculaire et buccale. Il touche principalement les femmes entre 40 et 50 ans. La tuméfaction parotidienne est en générale douloureuse et exacerbée par les repas.  Lors de parotidite bactérienne aigüe l’atteinte est le plus souvent unilatérale. Elle atteint principalement des personnes âgées polymorbides et déshydratées. Les patients sont en mauvais état général, fébriles et du pus se retrouve à l’orifice du canal de Sténon. Notre ­patient est jeune en bon état général, apyrétique, avec une atteinte bilatérale. Tous ces arguments parlent contre une parotidite bactérienne aigüe.  Lors de diabète, d’alcoolisme ou de troubles du comportement alimentaire, le patient peut présenter une hypertrophie parotidienne bilatérale, indolore et chronique.  Bien que rare, la sarcoïdose peut atteindre les parotides et provoquer une hypertrophie parotidienne en générale bilatérale. Les granulomes remplaçant le parenchyme parotidien, la production salivaire peut à long terme être diminuée [1].
+T10	disorder 2119 2132	pancytopénie 
+T11	procedure 2164 2181	 tests hépatiques
+T12	procedure 2186 2206	pro­téine C-réactive
+T13	labvalue 2210 2216	 basse
+T14	procedure 2222 2232	sérologies
+T15	disorder 2245 2283	 infection ancienne pour les oreillons
+T16	procedure 2323 2341	virus Epstein-Barr
+T17	procedure 2343 2346	EBV
+T18	procedure 2312 2315	CMV
+T19	procedure 2288 2310	cytomégalovirus humain
+T20	labvalue 2356 2365	négatives
+T21	procedure 2375 2395	hépatites A, B et C 
+T22	procedure 2401 2436	virus de l’immunodéficience humaine
+T23	procedure 2438 2441	VIH
+T24	irrelevant 2445 2503;2506 2543;2545 2601;2603 2632;2634 2728;2730 2805	Question 2: Quel est le prochain examen que vous réalisez?   a) Un dosage des anti-SSA et anti-SSB  b) Une rt-PCR du liquide salivaire pour le virus ourlien  c) Une radiographie du thorax  d) Aucun, vous considérez que l’hypertrophie parotidienne survient dans un contexte de diabète  e) Une mise en culture de salive prélevée à l’embouchure du canal de Sténon
+T25	procedure 2916 2926	xérostomie
+T26	disorder 2867 2885	maladie de Sjögren
+T27	disorder 2930 2942	xérophtalmie
+T28	procedure 3013 3019	dosage
+T29	procedure 2823 2831	anti-SSB
+T30	procedure 2811 2819	anti-SSA
+T31	procedure 2836 2842	 dosés
+T32	procedure 3287 3293	rt-PCR
+T33	labvalue 3294 3302	négative
+T34	disorder 3353 3362	oreillons
+T35	procedure 3419 3438	culture bactérienne
+T36	irrelevant 3022 3225	Les IgM lors d’une infection au virus ourlien se positivent entre cinq à sept jours après le début des symptômes, alors que la rt-PCR sur un prélèvement salivaire entre le premier et le onzième jour [2].
+T37	irrelevant 3460 3559	Lors de diabète, l’hypertrophie parotidienne est progressive, indolore et ne fluctue pas en taille.
+T38	procedure 3655 3677	radiographie du thorax
+T39	disorder 3731 3752	syndrome interstitiel
+T40	disorder 3695 3724	hiles pulmonaires proéminents
+T41	procedure 3757 3762	bilan
+T42	procedure 3783 3809	scanner thoraco-abdominal 
+T43	disorder 3843 3881	adénopathies médiastinales supérieures
+T44	disorder 3910 3933	infiltrat ­interstitiel
+T45	disorder 3941 3954	splénomégalie
+T46	procedure 3994 4012	scanner thoracique
+T47	irrelevant 4026 4117;4120 4155;4157 4174;4176 4194;4196 4214;4216 4232	Question 3: A quel spécialiste adressez-vous le patient pour poursuivre les investigations?   a) L’oto-rhino-laryngologiste (ORL)  b) Le pneumologue  c) L’ophtalmologue  d) Le rhumatologue  e) L’hématologue
+T48	procedure 4251 4259	imagerie
+T49	disorder 4281 4291	sarcoïdose
+T50	disorder 4330 4342	 tuberculose
+T51	disorder 4346 4355	 lymphome
+T52	disorder 4363 4391	infection d’origine fongique
+T53	disorder 4427 4438	 sarcoïdose
+T54	procedure 4447 4467	examens cytologiques
+T55	procedure 4303 4327	diagnostic différentiel 
+T56	procedure 4506 4548	biopsie des glandes salivaires accessoires
+T57	disorder 4586 4598	 sarcoïdose 
+T58	disorder 5432 5440	lymphome
+T59	profession 5602 5613	pneumologue
+T60	procedure 5659 5673	 bronchoscopie
+T61	procedure 5679 5699	biopsies bronchiques
+T62	procedure 5719 5756	cytoponctions médiastinales par EBUS 
+T63	procedure 5759 5785	lavage broncho-alvéolaire 
+T64	procedure 5802 5817	histopathologie
+T65	disorder 5829 5871	inflammation granulomateuse non nécrosante
+T66	procedure 5951 5963	prélèvements
+T67	disorder 6020 6030	sarcoïdose
+T68	profession 6043 6057	ophtalmologue 
+T69	disorder 6068 6099	atteinte oculaire sarcoïdosique
+T70	profession 6103 6106	ORL
+T71	procedure 6119 6127	ultrason
+T72	procedure 6217 6241	Biopsie transbronchique 
+T73	irrelevant 6353 6458;6461 6479;6481 6494;6496 6512;6514 6533;6535 6575	Question 4: Parmi les anomalies retrouvées chez le patient laquelle n’est pas décrite dans la sarcoïdose?   a) La thrombopénie  b) Le diabète  c) La leucopénie  d) La splénomégalie  e) La perturbation des tests hépatiques.
+T74	irrelevant 6577 6972;6974 7022;7025 7033;7035 7068;7070 7090;7092 7110;7112 7130	La sarcoïdose peut atteindre le foie engendrant une perturbation des tests hépatiques, une hépatomégalie et dans de rare cas une cirrhose. Elle peut également toucher la rate, entrainant une splénomégalie. L’hyper­splénisme peut lui-même expliquer une anémie, une leucopénie et une thrombopénie. Il n’y a pas de lien ­décrit entre le diabète et la sarcoïdose. Une atteinte pancréatique est rare.  Question 5: Quel traitement vous semble indiqué?   a) Aucun  b) Une corticothérapie systémique  c) De l’azathioprine  d) De l’infliximab  e) Du methotrexate
+T75	irrelevant 7132 7437	L’évolution de la sarcoïdose est le plus souvent spontanément favorable. Lorsqu’un traitement est indiqué, les corticoïdes systémiques sont prescrits en première intention. Lors d’atteinte parotidienne un traitement est proposé uniquement lors de tuméfaction paroti­dienne persistante avec xérostomie [3].
+T76	disorder 7462 7474	tuméfaction 
+T77	disorder 7539 7558	 sécheresse buccale
+T78	disorder 7598 7617	atteinte pulmonaire
+T79	disorder 8474 8495	symptôme respiratoire
+T80	irrelevant 7644 8440	Pour cela, il faut préciser l’importance des symptômes attribuables à la sarcoïdose, l’impact fonctionnel aux tests respiratoires sériés, la probabilité d’une atteinte d’organe, ­notamment le cœur, et l’extension des infiltrats du parenchyme pulmonaire. En l’absence d’infiltrat du parenchyme pulmonaire avec des tests fonctionnels normaux, on observe 60–80% de rémission spontanée et un suivi est proposé en première intention. Lors des stades plus avancés avec des fonctions pulmonaires diminuées et peu ou pas de symptômes, on propose un suivi pneumologique aux trois à six mois durant une période de deux ans afin de détecter et traiter une progression de la sarcoïdose. Si les symptômes sont sévères et les fonctions pulmonaires altérées une corticothérapie systémique est indiquée d’emblée.
+T81	procedure 8582 8600	suivi à trois mois
+T82	irrelevant 8617 8932	Les antimétabolites de type azathioprine, métho­trexate, leflunomide ou mycophénolate de mofétil (MMF) font partie de la deuxième et troisième ligne de traitement, lors d’échec ou d’effet indésirables majeurs des corticostéroïdes. L’infliximab est proposé en cas de sarcoïdose non contrôlée et extra-pulmonaire [4].
+T83	irrelevant 8934 8944;8946 9270;9272 9831;9833 10183;10185 10315;10317 10396;10397 10484;10485 10521;10522 10618;10619 10731;10732 10741;10742 10873;10874 10883;10884 10928;10929 11127;11128 11188;11189 11293;11295 11550;11552 11561;11564 11639	Discussion  La sarcoïdose est une maladie granulomateuse multisystémique, d’étiologie indéterminée, impliquant des facteurs génétiques, environnementaux et infectieux. Elle affecte les poumons dans plus de 90% des cas. Des études de cas ont retrouvé une atteinte parotidienne cliniquement significative chez environ 6% des patients [3].  Les causes de parotidites bilatérales sont multiples. Du point de vu infectieux, en plus des oreillons, il faut ­rechercher une infection au VIH et à l’hépatite B et C. L’ultrason est l’examen de choix pour visualiser le parenchyme parotidien. Lors de parotidite sarcoïdosique, il peut montrer un parenchyme inhomogène avec de multiples plages hypoéchogènes représentatives de sialadénites. Il permet également d’exclure une masse et au besoin de guider une cytoponction. Malgré sa rareté, la sarcoïdose fait partie du diagnostic différentiel des parotidites.  Pour confirmer le diagnostic de sarcoïdose, la biopsie d’un organe atteint est le plus souvent nécessaire. Il est possible de s’en passer lors de syndrome de Löfgren, d’Heerfordt ou lors d’adénopathies hilaires bilatérales asymptomatiques pour autant que les patients soient suivis cliniquement. En histologie on recherche des granulomes non caséeux.  Un diagnostic de sarcoïdose impose la recherche d’atteinte extra-pulmonaire, notamment cardiaque, ophtalmique et cutanée (tab. 1).  Tableau 1: Atteintes systémiques de la sarcoïdose et leurs prévalences [9, 11]. Cutané (35%)	Lupus pernio, érythème noueux, lésions papulaires, nodulaires ou en plaque Oculaire (25%–80%)	Uvéite antérieure Cardiaque (5%)	Troubles de la conduction, tachycardie ventriculaire, extrasystole ventriculaire. Nerveuse (10%)	Paralysie des nerfs crâniens, céphalées, ataxie, crise convulsive, troubles cognitifs, faiblesse. Hépatique (atteinte histologique 60–90%)	Perturbation des tests hépatiques, hépatite sévère, hypertension portale, syndrome hépato-pulmonaire Splénique (atteinte histologique 24–53%)	Splénomégalie Tube digestif (< 1%)	Dysphagie, trouble de la mobilité, épigastralgies, nausées, vomissements, satiété précoce, perte de poids, diarrhées, douleurs abdominales, malabsorption, hémorragies digestives Ostéo-articulaire (10%)	Polyarthrite normalement symétriques Rénal	Hypercalcémie (11%), hypercalciurie (40%), néphrite interstitielle granulomateuse, glomérulopathie  La décision d’introduire un traitement est complexe et implique plusieurs spécialistes. Elle prend en considération, les différents organes touchés, leur degré d’atteinte, l’évolution de la maladie et les potentiels effets indésirables liés au traitement.  Réponses:   Question 1: c; question 2: c; question 3: b; question 4: b; ­question 5: a.

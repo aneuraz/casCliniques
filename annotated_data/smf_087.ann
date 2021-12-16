@@ -1,0 +1,48 @@
+T1	disorder 72 93	arthralgies aux mains
+T2	disorder 101 142	douleurs à la ceinture cervico-scapulaire
+T3	disorder 187 203	raideur matinale
+T4	disorder 406 416	borréliose
+T5	labvalue 435 443	négative
+T6	disorder 482 529	synovite bilatérale des articulations des mains
+T7	disorder 534 577	 tuméfaction du dos des mains et des doigts
+T8	disorder 633 678	abduction des deux bras est fortement limitée
+T9	disorder 685 718	discrets épanchements aux genoux 
+T10	irrelevant 940 1022;1025 1049;1051 1091;1093 1133;1135 1161;1163 1195	Question 1: Quel examen paraclinique vous paraît-il le moins pertinent à ce stade?   a) Radiographie standard  b) Recherche d’un syndrome inflammatoire  c) Répéter la sérologie de la borréliose  d) Échographie articulaire  e) Ponction articulaire du genou
+T11	procedure 1200 1218	bilan radiologique
+T12	procedure 1272 1289	 chondrocalcinose
+T13	procedure 1372 1402	Radiographie de la main gauche
+T14	disorder 1437 1473	 tuméfaction diffuse des tissus mous
+T15	disorder 1478 1496	flexum des doigts 
+T16	disorder 1503 1521	absence d’érosions
+T17	labvalue 1659 1666	50 mm/h
+T18	labvalue 1614 1625	138,4 mg/l 
+T19	labvalue 2064 2072	négatifs
+T20	labvalue 2110 2119	positives
+T21	disorder 2281 2298	 arthrite de Lyme
+T22	disorder 2368 2393	oligoarthrite asymétrique
+T23	disorder 2321 2342	monoarthrite du genou
+T24	disorder 2533 2556	échographie articulaire
+T25	disorder 2609 2641	discrets épanchements des genoux
+T26	procedure 2648 2665	ponction du genou
+T27	labvalue 2718 2726	1,55 G/l
+T28	irrelevant 2834 2887;2890 2915;2917 2956;2958 2989;2991 3077;3079 3105	Question 2: Quel est le diagnostic le moins probable?   a) Polymyalgia rheumatica  b) Polyarthrite rhumatoïde séronégative  c) Polyarthrite paranéoplasique  d) Syndrome RS3PE («remitting seronegative symmetrical synovitis with pitting oedema»)  e) Myopathie inflammatoire
+T29	disorder 3162 3205	 douleurs de la ceinture cervico-scapulaire
+T30	disorder 3111 3140	polymyalgia rheumatica (PMR) 
+T31	disorder 3211 3247	bursites sous-acromiales bilatérales
+T32	disorder 3255 3265	CRP élevée
+T33	disorder 3342 3374	La polyarthrite rhumatoïde (PR) 
+T34	labvalue 3374 3387	séronégative 
+T35	disorder 3392 3421	 polyarthrite paranéoplasique
+T36	disorder 3476 3519	atteinte polyarticulaire symétrique distale
+T37	disorder 3816 3841	myopathies inflammatoires
+T38	irrelevant 4114 4175;4178 4275;4277 4392;4394 4473;4475 4513;4515 4597	Question 3: Quelle démarche est la moins indiquée à ce stade?   a) Compléter l’anamnèse et l’examen clinique à la recherche de signes d’appel pour une néoplasie.  b) S’assurer que le patient ait bénéficié des examens de dépistage de néoplasie recommandés pour l’âge et le genre.  c) Demander un scanner thoraco-abdomino-pelvien à la recherche d’une néoplasie.  d) Introduire un traitement empirique.  e) Instaurer un suivi clinique rapproché et s’assurer de la réponse au traitement.
+T39	disorder 4599 4617	Le syndrome RS3PE 
+T40	irrelevant 5101 5176;5179 5211;5213 5244;5246 5261;5263 5279;5281 5305	Question 4: Quel traitement est le plus approprié en cas de syndrome RS3PE?   a) Corticothérapie à faible dose  b) Corticothérapie à haute dose  c) Méthotrexate  d) Anti TNF-alfa  e) Rituximab (anti-CD20)
+T41	disorder 5371 5385	syndrome RS3PE
+T42	procedure 5311 5340	corticothérapie à faible dose
+T43	drugs 5390 5402	méthotrexate
+T44	drugs 5408 5421	anti TNF-alfa
+T45	drugs 5428 5437	rituximab
+T46	irrelevant 5522 5612;5615 5694;5696 5813;5815 5958;5960 6043;6045 6142	Question 5: Quelle affirmation concernant le suivi d’un syndrome RS3PE n’est pas correcte?   a) Une réponse rapide à la corticothérapie est obtenue dans la plupart des cas.  b) La majorité des patients ont une rémission complète des symptômes dans les 18 mois suivant le début du traitement.  c) Un flexum non douloureux des doigts et des poignets sans incapacité fonctionnelle peut parfois persister malgré une rémission de la maladie.  d) Une récidive des symptômes est fréquente après arrêt progressif des corticoïdes.  e) Une mauvaise réponse à la corticothérapie est plus fréquente en cas de néoplasie sous-jacente.
+T47	disorder 6147 6161	syndrome RS3PE
+T48	risk 8221 8232	Âge ≥60 ans

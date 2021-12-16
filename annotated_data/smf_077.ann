@@ -1,0 +1,39 @@
+T1	disorder 46 69	’infection à SARS-CoV-2
+T2	disorder 431 476	syndrome de détresse respiratoire aigu (SDRA)
+T3	disorder 577 605	 événement thromboembolique.
+T4	disorder 671 704	 hypertension ­artérielle traitée
+T5	disorder 762 766	toux
+T6	disorder 772 785	 état fébrile
+T7	procedure 790 812	frottis naso-pharyngé 
+T8	labvalue 789 830	 frottis naso-pharyngé se révèle positif 
+T9	disorder 984 1008	dyspnée de stade NYHA IV
+T10	disorder 1024 1044	douleurs thoraciques
+T11	labvalue 1204 1220	saturation à 74%
+T12	labvalue 1242 1260	tachypnée à 40/min
+T13	disorder 1264 1288	 tirage sus-claviculaire
+T14	disorder 1294 1324	 balancement thoraco-abdominal
+T15	labvalue 1404 1421	(CRP) à 398 mg/l 
+T16	labvalue 1427 1448	 leucocytes à 11 G/l.
+T17	labvalue 1473 1495	 hypoxémie à 48 mm Hg 
+T18	procedure 1796 1822	 oxygénothérapie standard 
+T19	procedure 1887 1912	admis aux soins intensifs
+T20	drugs 2303 2321	hydroxychloroquine
+T21	drugs 2327 2347	 lopinavir/ritonavir
+T22	drugs 2397 2409	 ceftriaxone
+T23	drugs 2448 2495	 héparine non-fractionnée (HFN) à 10 000 UI/24h
+T24	labvalue 2761 2793	 fréquence respiratoire à 18/min
+T25	labvalue 2571 2627	hypoxémie s’aggrave avec un rapport PaO2/FiO2 à 94 mm Hg
+T26	drugs 3094 3104	remdesevir
+T27	procedure 3418 3429	oxygénation
+T28	procedure 3611 3628	 bilan biologique
+T29	labvalue 3634 3667	D-dimères s’élèvent à 35 000 μg/l
+T30	labvalue 3672 3796	angio-CT thoracique met en évidence des embolies pulmonaires intéressant les artères ­lobaires et segmentaires du lobe moyen
+T31	labvalue 3902 4045	 images en verre dépoli de répartition majoritairement périphérique ­typiques de l’atteinte par SARS-CoV-2 et des condensations postéro-basales
+T32	procedure 4069 4090	 Angio-CT thoracique 
+T33	labvalue 4102 4160	Embolie pulmonaire intéressant l’artère pulmonaire lobaire
+T34	procedure 4342 4360	 échocardiographie
+T35	labvalue 4372 4447	dilatation modérée et une dysfonction du ventricule droit présumée nouvelle
+T36	labvalue 5358 5442	 œdème de la membrane ­alvéolo-capillaire, une atélectasie du parenchyme ­pulmonaire
+T37	procedure 6485 6488	DV,
+T38	risk 8858 8892	 l’indice de masse corporelle (BMI
+T39	procedure 9043 9058	anticoagulation

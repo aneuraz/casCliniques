@@ -1,0 +1,84 @@
+T1	profession 389 396	élevage
+T2	procedure 850 868	tension artérielle
+T3	disorder 999 1010	hypertendue
+T4	disorder 1012 1022	diabétique
+T5	disorder 1027 1035	surpoids
+T6	labvalue 1037 1043	85 kg 
+T7	disorder 1143 1161	bronchites sévères
+T8	disorder 1063 1083	BPCO post tabagique 
+T9	risk 1185 1208	intoxication éthylique 
+T10	drugs 1337 1347	Zestoretic
+T11	procedure 1377 1390	remplacé par 
+T12	drugs 1392 1400	 Zestril
+T13	drugs 1417 1426	Coversyl 
+T14	drugs 1462 1472	Metformine
+T15	disorder 1504 1512	 diabète
+T16	risk 1270 1309	 fumer un paquet de cigarettes par jour
+T17	disorder 1558 1596	 carcinome baso cellulaire de la lèvre
+T18	disorder 1688 1712	gonarthrose invalidante 
+T19	procedure 1648 1678	prise en charge en rééducation
+T20	drugs 1731 1741	genu varum
+T21	disorder 1970 1990	cancer du col utérin
+T22	procedure 2001 2011	 chirurgie
+T23	procedure 2013 2026	radiothérapie
+T24	procedure 2030 2044	chimiothérapie
+T25	disorder 2099 2116	douleurs diffuses
+T26	disorder 2207 2226	éphalées anciennes 
+T27	procedure 2402 2415	IRM cérébrale
+T28	procedure 2521 2557	traitement antiagrégant plaquettaire
+T29	procedure 2564 2584	électrocardiogramme 
+T30	procedure 2592 2626	doppler des troncs supra aortiques
+T31	procedure 2713 2753	électromyogramme des membres inférieurs 
+T32	disorder 2787 2798	neuropathie
+T33	procedure 3124 3141	bilan biologique 
+T34	disorder 3165 3172	diabète
+T35	procedure 3190 3214	consultation diététique 
+T36	procedure 3247 3269	soutien psychologique 
+T37	disorder 3334 3370	brûlures des avant-bras et du thorax
+T38	procedure 3374 3394	’examen neurologique
+T39	procedure 3411 3418	tension
+T40	labvalue 3425 3436	160/90 mm H
+T41	procedure 3653 3660	scanner
+T42	procedure 3702 3734	 contrôler sa tension artérielle
+T43	procedure 3763 3787	 bilan cardio vasculaire
+T44	procedure 3869 3881	prescrit du 
+T45	drugs 3881 3889	Laroxyl 
+T46	drugs 3940 3954	Aspegic 250 mg
+T47	drugs 3985 3993	Coversyl
+T48	procedure 4062 4081	bilan cardiologique
+T49	disorder 4091 4121	douleurs du thorax et des bras
+T50	procedure 4140 4160	électrocardiogramme 
+T51	procedure 4172 4193	échographie cardiaque
+T52	disorder 4249 4283	rétrécissement aortique non serré 
+T53	procedure 4351 4390	cho doppler des troncs supra aortiques 
+T54	procedure 4596 4628	contrôle des facteurs de risques
+T55	risk 4660 4698	fumer un paquet de cigarettes par jour
+T56	disorder 4836 4848	 neuropathie
+T57	disorder 4969 5020	douleurs très violentes du membre inférieur gauche 
+T58	procedure 5325 5357	prescrit des anti-inflammatoires
+T59	disorder 5215 5224	 œdématié
+T60	disorder 5646 5671	pied était glacé et blanc
+T61	procedure 5887 5898	corticoïdes
+T62	drugs 5900 5907	Medrol 
+T63	disorder 6059 6075	artérite sévère,
+T64	procedure 6155 6163	 doppler
+T65	procedure 6198 6206	prescrit
+T66	drugs 6209 6219	 Fonzylane
+T67	drugs 6228 6236	Orbénine
+T68	procedure 6323 6364	 doppler artériel des membres inférieurs 
+T69	disorder 6829 6869	artériopathie gauche de stade III sévère
+T70	procedure 6871 6880	mise sous
+T71	drugs 6881 6890	héparine.
+T72	procedure 7015 7029	artériographie
+T73	disorder 7041 7060	occlusion poplitée 
+T74	disorder 7347 7366	nécrose d’un orteil
+T75	procedure 7417 7457	pontage veineux fémoro tibial postérieur
+T76	procedure 7544 7561	oses importantes 
+T77	procedure 7575 7584	une cure 
+T78	drugs 7563 7571	héparine
+T79	drugs 7586 7595	Ilomédine
+T80	procedure 7634 7659	éintervention est tentée 
+T81	procedure 7734 7754	amputée à la cuisse.
+T82	procedure 7758 7800	doppler du membre inférieur controlatéral 
+T83	procedure 7888 7926	urveillance bi-annuelle est préconisée
+T84	risk 7949 7983	 fume encore 6 cigarettes par jour

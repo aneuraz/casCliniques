@@ -1,0 +1,93 @@
+T1	procedure 14 25	protéinurie
+T2	labvalue 26 36	>3 g/jour 
+T3	disorder 56 97	maladie rénale avec atteinte glomérulaire
+T4	disorder 128 140	protéinurie 
+T5	disorder 294 304	lombalgies
+T6	disorder 308 336	douleurs inguinales à gauche
+T7	procedure 355 388	taux de protéine C-réactive (CRP)
+T8	labvalue 389 398	>200 mg/l
+T9	procedure 450 463	’implantation
+T10	disorder 525 546	anévrisme infrarénal 
+T11	disorder 558 576	 colite ulcéreuse.
+T12	disorder 616 638	 sepsis à salmonelles 
+T13	disorder 654 675	 coxarthrose à gauche
+T14	disorder 685 706	infection de prothèse
+T15	procedure 728 752	 traitement antibiotique
+T16	procedure 796 814	lavage chirurgical
+T17	procedure 874 906	un cathéter double J a été posé 
+T18	procedure 1004 1041	’intervention de chirurgie vasculaire
+T19	procedure 1068 1113	la prothèse bifurquée infectée a été réséquée
+T20	procedure 1183 1208	reconstruction artérielle
+T21	disorder 1587 1605	rétention urinaire
+T22	procedure 1620 1641	retrait du ­cathéter 
+T23	procedure 1661 1687	pose d’un nouveau cathéter
+T24	disorder 1702 1712	 polyurie 
+T25	labvalue 1767 1776	9 l/24 h.
+T26	procedure 1866 1877	protéinurie
+T27	labvalue 1878 1880	4+
+T28	disorder 2015 2024	hypotendu
+T29	disorder 2055 2064	anasarque
+T30	disorder 2132 2139	 plaie 
+T31	procedure 2155 2174	laparotomie médiane
+T32	procedure 2478 2499	analyses biochimiques
+T33	procedure 2536 2540	 CRP
+T34	labvalue 2542 2549	22 mg/l
+T35	disorder 2597 2605	 anémie 
+T36	procedure 2606 2617	hémoglobine
+T37	labvalue 2618 2625	97 g/l)
+T38	procedure 2661 2679	créatinine sérique
+T39	labvalue 2680 2689	79 μmol/l
+T40	procedure 2691 2723	débit de filtration glomérulaire
+T41	labvalue 2752 2763	 >90 ml/min
+T42	disorder 2770 2785	hypoalbuminémie
+T43	labvalue 2787 2793	16 g/l
+T44	procedure 2846 2857	protéinurie
+T45	labvalue 2859 2861	4+
+T46	procedure 2876 2886	glycosurie
+T47	labvalue 2888 2890	3+
+T48	procedure 2899 2913	érythrocyturie
+T49	labvalue 2915 2917	4+
+T50	procedure 3027 3053	ratio protéine-créatinine 
+T51	labvalue 3053 3065	2570 mg/mmol
+T52	procedure 3080 3091	albuminurie
+T53	labvalue 3093 3131	ratio albumine-créatinine 1191 mg/mmol
+T54	disorder 3186 3210	érythrocyturie isomorphe
+T55	procedure 3399 3429	concentration de triglycérides
+T56	labvalue 3432 3444	 3,71 mmol/l
+T57	procedure 3445 3469	 Le cholestérol sérique 
+T58	labvalue 3500 3511	3,21 mmol/l
+T59	procedure 3519 3543	 triglycérides sériques 
+T60	labvalue 3576 3588	1,83 mmol/l)
+T61	disorder 3634 3642	chylurie
+T62	procedure 3685 3723	 régime hypolipidique et hyperprotéiné
+T63	procedure 3909 3932	laparotomie de révision
+T64	procedure 3985 4019	 L’urétéropyélographie rétrograde 
+T65	procedure 4092 4130	les cathéters double J ont été retirés
+T66	disorder 4158 4166	chylurie
+T67	procedure 4360 4395	une fuite lymphatique a été suturée
+T68	disorder 4455 4480	 hématurie macroscopique 
+T69	procedure 4519 4539	L’urétrocystoscopie 
+T70	disorder 4573 4597	mportante fuite vésicale
+T71	procedure 4603 4626	laparotomie de révision
+T72	procedure 4656 4685	suture de la lésion vésicale 
+T73	procedure 4705 4742	pose bilatérale de cathéters simple J
+T74	procedure 4766 4790	tomodensitométrie (TDM) 
+T75	disorder 4809 4827	rétention urinaire
+T76	procedure 5076 5100	laparotomie de révision 
+T77	procedure 5120 5152	pose d’un filet ­intrapéritonéal
+T78	procedure 5154 5190	révision des vaisseaux lymphatiques 
+T79	procedure 5193 5230	mise en place de deux drains passifs 
+T80	procedure 5384 5402	débit considérable
+T81	labvalue 5427 5444	8 l/24 h d’ascite
+T82	procedure 5509 5522	triglycérides
+T83	labvalue 5523 5534	2,35 mmol/l
+T84	procedure 5536 5545	albumine 
+T85	labvalue 5545 5550	2 g/l
+T86	procedure 5552 5599	gradient d’albumine entre le sérum et l’ascite 
+T87	labvalue 5599 5605	11 g/l
+T88	procedure 5609 5622	’échographie 
+T89	disorder 5643 5665	’hypertension portale,
+T90	disorder 5695 5737	hyperplasie nodulaire régénérative (HNR) d
+T91	procedure 5760 5772	 traitement 
+T92	drugs 5772 5782	diurétique
+T93	irrelevant 6080 6090;6092 6874;6876 6961;6962 6991;6992 7026;7027 7047;7048 7103;7104 7121;7122 7154;7155 7207;7209 7750;7752 8706;8708 9328;9330 9883;9885 10916;10918 11014;11015 11046;11047 11119;11120 11200;11201 11242;11243 11268;11269 11327;11328 11341;11342 11365;11366 11392;11393 11416;11417 11442;11443 11469;11470 11490;11491 11512;11513 11532;11533 11554;11555 11605;11606 11635;11636 11697;11698 11743;11744 11794;11796 13454;13456 14104;14106 14458;14460 14488;14490 14546;14548 14662;14664 14861;14863 15085;15087 15148	Discussion  Du point de vue étiologique, la chylurie peut être classée en types parasitaire et non parasitaire. La filariose lymphatique fait partie des causes les plus fréquentes de chylurie parasitaire dans les régions endémiques (Asie du Sud-Est, Inde, Pacifique, Afrique, Amérique centrale et Amérique du Sud), l’infection à Wuchereria bancrofti correspondant à 90% des 120 millions de cas estimés de filariose [1]. Avec une prévalence de chylurie de 0,7–10%, il s’agit dans tous les cas d’une complication tardive plutôt inhabituelle de la filariose [2, 3]. Les causes non parasitaires de la chylurie sont rares et ­généralement publiées dans la littérature uniquement sous forme de rapports et séries de cas. Les causes les plus fréquentes de chylurie sont consultables dans le tableau 1.  Tableau 1: Les causes les plus fréquentes d’une chylurie (selon Graziani et al. [5]). Parasitaires	Non parasitaires Filariose lymphatique	Traumatismes Cysticercose	Tumeurs Echinococcose	Malformations congénitales (lymphangiome) Malaria	Grossesse Ascaridiose	Anévrismes aortiques  	Infections granulomateuses (­tuberculose, mycoses)  Indépendamment de la cause, un trouble circulatoire du flux lymphatique rétropéritonéal entraîne une ­hypertension au niveau du système lymphatique, une dilatation variqueuse des vaisseaux lymphatiques, un retour lymphatique et finalement la rupture des vaisseaux lymphatiques vers les voies urinaires – il apparaît une fistule entre le système lymphatique et le ­système urinaire. Dans d’autres cas (tumeurs, traumatismes), il se forme une communication ou une fuite pathologique directe des vaisseaux lymphatiques vers les voies urinaires.  Notre patient présentait une cause inhabituelle de chylurie. Il existait d’une part plusieurs fuites lymphatiques intra-abdominales postopératoires avec production significative d’ascite chyleuse. Par ailleurs est survenue une décompensation de l’hypertension portale jusqu’alors inconnue en présence d’une suspicion de NRH du foie avec production massive d’ascite. L’hépatopathie est probablement apparue dans le cadre de longues années de traitement par azathioprine en présence de colite ulcéreuse. Du fait de la récente cicatrice de laparotomie et de la fuite vésicale non détectée, l’ascite chyleuse a été drainée à la fois par la paroi abdominale et par la vessie selon la résistance la plus faible. La rétention urinaire au 7e jour après l’opération a probablement été le déclencheur de la perforation ­vésicale intrapéritonéale. Il convient donc de partir du principe que, dans ce cas spécial, la chylurie est la conséquence de l’ascite chyleuse.  L’excrétion d’urine laiteuse est la principale caractéristique de la chylurie. Les patients peuvent être asymptomatiques ou souffrir de douleurs au niveau des flancs ressemblant à des coliques et survenant typiquement la nuit après un repas riche en graisses. L’évolution se manifeste généralement par poussées avec des phases de rémission; près de la moitié des cas présente une ­rémission spontanée [4]. Dans le cas d’une chylurie persistante, la perte de vitamines liposolubles, protéines et lymphocytes peut néanmoins entraîner une malnutrition sévère, une déficience immunitaire ainsi qu’une hypercoagulabilité [5].  Le diagnostic urinaire chimique au moyen de bandelettes de test indique généralement une protéinurie ­sévère et une hématurie modérée. Le test urinaire par bandelette est typiquement négatif pour la leucocyturie (sauf en présence d’une infection concomitante des voies urinaires), car le test est basé sur la preuve de leucocyte estérase. Ainsi, notre patient présentait une leucocyturie négative au test urinaire par bandelette, tandis que l’examen microscopique du sédiment urinaire a permis de mettre en évidence de nombreux leucocytes (lymphocytes).  La distinction avec un syndrome néphrotique est essentielle car une biopsie rénale ou même un traitement empirique par des immunosuppresseurs peuvent être évités (tab. 2). L’examen diagnostique du sédiment ­urinaire est alors central. Contrairement au syndrome néphrotique, le sédiment urinaire ne présente aucune gouttelette de lipide, aucun corps gras, ni aucun cylindre graisseux, cireux ou de cellules épithéliales des reins en présence de chylurie. La formation de fistule au niveau des vaisseaux lymphatiques vers les voies urinaires entraîne souvent des lésions des vaisseaux sanguins, accompagnées d’hématurie. Les érythrocytes présents dans le sédiment urinaire sont isomorphes comparativement à une érythrocyturie dysmorphique en cas d’hématurie glomérulaire. En termes de diagnostic différentiel, une cristallurie massive est également envisagée en présence d’urine trouble. La mise en évidence de cristaux de phosphates de calcium dans l’urine alcaline ou de cristaux d’acide urique dans l’urine acide est diagnostique.  Tableau 2: Caractéristiques cliniques et biochimiques de la chylurie et du syndrome néphrotique.  	Chylurie	Syndrome néphrotique Survenue et évolution	• Episodique et rémittente	• Graduel et persistant • Accrue par un régime riche en lipides	• Accru par un régime riche en protéines • Réduite par un régime pauvre en lipides Présentation clinique	 	  Douleur au niveau des flancs et ­colique néphrétique	+++	- Œdème	+/-	+++ Hypoalbuminémie	+/-	+++ Hypercholestérolémie	-	+++ Diagnostic urinaire	 	  Trouble et laiteuse	+++	- Flocons dans l’urine	+++	- Macrohématurie	+/-	- Sédiment urinaire	 	   	Lymphocytes	+++	- Microhématurie	++	+/- Morphologie des érythrocytes	Isomorphie	Dysmorphie Cylindres pathologiques	-	++  (Cylindres érythrocytaires, cireux, ­cellulaires, lipidiques) Lipidurie	- 	Corps gras, cylindres lipidiques (Chylomicrons et triglycérides dans le surnageant)  La suite du diagnostic se concentre sur la localisation exacte de la communication pyélo-lymphatique. L’échographie permet déjà de faire la distinction entre un problème unilatéral et un problème bilatéral lors de la mise en évidence d’une ectasie du système pyélocaliciel. L’examen urologique au moyen de l’urétéropyélographie peut offrir une visualisation directe d’une fistule; elle fournit toutefois peu d’informations sur l’anatomie complexe des vaisseaux lymphatiques. La TDM ne présente souvent pas une meilleure capacité de discrimination, car les vaisseaux lymphatiques ne sont pas bien représentables avec des produits de contraste iodés. La TDM permet toutefois de détecter des causes non parasitaires de chylurie [6]. Grâce à une meilleure visualisation des tissus mous, l’imagerie par résonance magnétique (IRM) offre une meilleure ­représentation du rétropéritoine. Dans quelques cas décrits dans la littérature, une lymphangiographie IRM 3D moderne a permis de démontrer précisément la communication lympho-urinaire [7, 8]. La lymphangiographie est considérée comme la référence absolue pour la représentation du système vasculaire lymphatique. Ce procédé technique sophistiqué nécessite une ponction de petits vaisseaux lymphatiques au niveau dorsal du pied, l’injection d’un produit de contraste ­lipidique dans le système vasculaire lymphatique, suivies de radiographies abdomino-pelviennes en série [9, 10]. La lymphangiographie diagnostique est parfois thérapeutique grâce aux propriétés sclérosantes du produit de contraste utilisé. La lymphoscintigraphie constitue une alternative non invasive et comparable à la lymphangiographie [11].  En raison du taux élevé de rémissions spontanées, la chylurie ne nécessite souvent aucun traitement en cas d’évolution bénigne [4]. Chez les patientes et patients présentant une chylurie persistante et des signes de malnutrition, un régime hypolipidique et hyperprotéiné, supplémenté par des triglycérides à chaîne moyenne, est indiqué [12]. Si un traitement diététique conservateur ne suffit pas, l’instillation de substances sclérosantes (p. ex. nitrate d’argent) dans la cavité pyélique peut être tentée [13]. Dans les cas ­réfractaires, la déconnexion réno-lymphatique par chirurgie ou rétropéritonéoscopie est la méthode de premier choix [14].  Bien que la chylurie représente une complication postopératoire rare, il convient de l’envisager en présence d’une constellation de protéinurie prononcée sans ­indication d’un trouble de la barrière glomérulaire. Dans le cas d’une chylurie comme conséquence d’un traumatisme, des localisations atypiques de la fuite lymphatique doivent être envisagées.  L’essentiel pour la pratique  • La chylurie est une cause inhabituelle de protéinurie.  • Une excrétion d’urine laiteuse par poussées, indépendamment de la prise alimentaire, est typique d’une chylurie.  • A la différence du syndrome néphrotique, la chylurie présente un sédiment urinaire inactif avec des érythrocytes isomorphes. La mise en évidence de triglycérides dans l’urine est pathognomonique.  • Si le diagnostic d’une chylurie est confirmé, il convient, dans un deuxième temps, d’évaluer la cause et de déterminer la localisation de la communication pathologique entre le système lymphatique et le système urinaire.  • Près de la moitié des cas présente une rémission spontanée.

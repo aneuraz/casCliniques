@@ -1,0 +1,22 @@
+T1	procedure 28 65	intervention sous anesthésie générale
+T2	disorder 425 433	Phimosis
+T3	procedure 434 483	 plastie résection du prépuce et section du frein
+T4	drugs 508 517	’Hibitane
+T5	procedure 485 504	Préparation cutanée
+T6	procedure 574 617	section du frein par le bistouri électrique
+T7	procedure 684 707	arrêt de l’intervention
+T8	procedure 709 740	Ablation des champs opératoires
+T9	disorder 763 805	brûlure à la face interne des deux cuisses
+T10	procedure 848 854	Lavage
+T11	procedure 856 914	pansement gras, compresses et bandes au niveau des cuisses
+T12	procedure 960 981	 Résection du prépuce
+T13	procedure 1088 1099	Auréomycine
+T14	procedure 1112 1146	pansement est refait le lendemain 
+T15	drugs 1248 1299	antalgiques (paracétamol, sirop à base de morphine)
+T16	disorder 1647 1687	 brûlures des faces internes des cuisses
+T17	procedure 1956 1988	balnéothérapie sous AG (8 bains)
+T18	drugs 2004 2049	antalgiques (Paracétamol, Atarax®, Primalan®)
+T19	disorder 2348 2417	cicatrices importantes de la face interne des deux cuisses, ovalaires
+T20	disorder 2546 2603	cicatrices étaient chéloïdiennes, rouges, épaisses de 3mm
+T21	disorder 2704 2722	très prurigineuses
+T22	disorder 2798 2832	cicatrices étaient devenues planes

@@ -1,0 +1,127 @@
+T1	procedure 14 49	angiodysplasies gastro-intestinales
+T2	procedure 51 55	ADGI
+T3	disorder 114 145	hémorragies gastro-intestinales
+T4	disorder 202 222	hémorragies occultes
+T5	disorder 367 385	hémorragies aigües
+T6	procedure 405 423	plan hémodynamique
+T7	disorder 428 455	anémie ferriprive chronique
+T8	procedure 493 503	traitement
+T9	disorder 508 512	ADGI
+T10	disorder 573 586	multimorbides
+T11	procedure 590 612	approche thérapeutique
+T12	procedure 613 625	endoscopique
+T13	procedure 629 641	chirurgicale
+T14	disorder 707 730	hémorragie multifocales
+T15	procedure 819 840	traitement systémique
+T16	disorder 896 900	ADGI
+T17	procedure 988 1010	approche thérapeutique
+T18	procedure 1078 1088	traitement
+T19	drugs 1123 1136	somatostatine
+T20	drugs 1162 1174	l’octréotide
+T21	disorder 1221 1236	angiodysplasies
+T22	drugs 1277 1306	analogues de la somatostatine
+T23	procedure 1405 1415	traitement
+T24	disorder 1425 1432	maladie
+T25	profession 1494 1502	cycliste
+T26	disorder 1528 1542	angor instable
+T27	procedure 1561 1575	l’intervention
+T28	procedure 1576 1585	coronaire
+T29	disorder 1591 1608	anémie ferriprive
+T30	drugs 1629 1647	l’acétylsalicylate
+T31	drugs 1654 1665	clopidogrel
+T32	procedure 1685 1709	traitement médicamenteux
+T33	disorder 1724 1742	anémie ferriprive 
+T34	disorder 1799 1813	coronaropathie
+T35	disorder 1847 1877	diminution de ses performances
+T36	drugs 2022 2034	l’octréotide
+T37	procedure 2073 2086	d’hémoglobine
+T38	procedure 1931 1944	d’hémoglobine
+T39	disorder 2092 2099	fatigue
+T40	procedure 2151 2168	revascularisation
+T41	disorder 2214 2241	selles sombres malodorantes
+T42	disorder 2248 2268	douleurs abdominales
+T43	disorder 2349 2361	d’hémorragie
+T44	procedure 2381 2391	Haemoccult
+T45	labvalue 2393 2400	positif
+T46	procedure 2406 2418	gastroscopie
+T47	procedure 2432 2442	coloscopie
+T48	disorder 2495 2507	d’hémorragie
+T49	disorder 2521 2533	inflammation
+T50	disorder 2565 2573	gastrite
+T51	labvalue 2574 2582	positive
+T52	labvalue 2585 2604	Helicobacter pylori
+T53	disorder 2631 2639	l’anémie
+T54	disorder 2766 2778	d’hémorragie
+T55	drugs 2798 2830	inhibiteur de la pompe à protons
+T56	disorder 2872 2883	l’infection
+T57	disorder 2916 2949	perte de sang gastro-­intestinale
+T58	procedure 2976 2988	gastroscopie
+T59	disorder 3062 3088	angiodysplasie du duodénum
+T60	procedure 3090 3102	L’endoscopie
+T61	disorder 3146 3161	angiodysplasies
+T62	disorder 3289 3305	sténose aortique
+T63	disorder 3328 3343	angiodysplasies
+T64	procedure 3397 3412	examen clinique
+T65	procedure 3416 3435	l’échocardiographie
+T66	disorder 3461 3475	coronaropathie
+T67	disorder 3489 3512	hypertension artérielle
+T68	procedure 3529 3554	facteur de von Willebrand
+T69	procedure 3556 3559	FvW
+T70	labvalue 3577 3582	norme
+T71	labvalue 3583 3593	inférieure
+T72	labvalue 3597 3607	légèrement
+T73	labvalue 3608 3619	plus basses
+T74	labvalue 3638 3654	groupe sanguin 0
+T75	procedure 3695 3712	plan diagnostique
+T76	procedure 3757 3782	facteur de von Willebrand
+T77	procedure 3836 3840	aPTT
+T78	procedure 3842 3884	temps de thromboplastine partielle activée
+T79	labvalue 3887 3890	sec
+T80	labvalue 3894 3899	25–35
+T81	labvalue 3900 3904	28,0
+T82	labvalue 3905 3909	34,2
+T83	labvalue 3951 3953	61
+T84	labvalue 3942 3948	50–200
+T85	labvalue 3938 3939	%
+T86	labvalue 3924 3935	fonctionnel
+T87	labvalue 3978 3989	fonctionnel
+T88	labvalue 3992 3993	%
+T89	labvalue 3996 4002	50–200
+T90	labvalue 4003 4005	49
+T91	labvalue 4006 4008	42
+T92	labvalue 4058 4060	48
+T93	labvalue 4055 4057	51
+T94	labvalue 4048 4054	50–200
+T95	labvalue 4044 4045	%
+T96	labvalue 4033 4041	antigène
+T97	procedure 3910 3922	Facteur VIII
+T98	procedure 3954 3976	Facteur von Willebrand
+T99	procedure 4009 4031	Facteur von Willebrand
+T100	disorder 4072 4076	ADGI
+T101	disorder 4081 4098	hémangiome labial
+T102	disorder 4138 4155	Rendu-Osler-Weber
+T103	disorder 4198 4211	d’hémorragies
+T104	disorder 4212 4219	nasales
+T105	procedure 4225 4243	anamnèse familiale
+T106	disorder 4262 4273	d’anomalies
+T107	disorder 4293 4300	maladie
+T108	disorder 4305 4329	anémie ferriprive sévère
+T109	drugs 4384 4387	fer
+T110	disorder 4423 4438	angiodysplasies
+T111	procedure 4486 4495	coagulées
+T112	disorder 4566 4579	perte de sang
+T113	procedure 4639 4649	traitement
+T114	drugs 4654 4664	octréotide
+T115	procedure 4870 4879	injection
+T116	procedure 4790 4799	injection
+T117	procedure 4938 4951	d’hémoglobine
+T118	labvalue 4958 4967	normalisé
+T119	procedure 4987 4997	traitement
+T120	drugs 5002 5012	octréotide
+T121	drugs 5063 5066	fer
+T122	procedure 5117 5130	d’hémoglobine
+T123	labvalue 5134 5143	10,2 g/dl
+T124	procedure 5187 5198	hémoglobine
+T125	labvalue 5202 5212	13,6 g/dl 
+T126	drugs 5217 5227	octréotide
+T127	irrelevant 5230 5240;5242 5422;5424 6380;6382 7396;7398 9141;9143 9861;9863 9874;9876 10616;10618 10646;10648 10770;10772 11038;11040 11419;11421 11553	Discussion  Du fait de la période d’observation de 30 ans, des réflexions étiopathogéniques et du succès du traitement par octréotide, l’historique du patient ici décrit est digne d’attention.  Sur le plan purement descriptif, les ADGI sont définies en tant que petites lésions vasculaires situées en surface et facilement identifiables à l’endoscopie. Soulignons que peu de données sur l’incidence et l’évolution spontanée des angiodysplasies ont été publiées, étant donné que les patients asymptotiques ne sont pas systématiquement examinés pour identifier la source d’hémorragie. Au cours d’une analyse rétrospective de coloscopies de dépistages réalisées chez des patients âgées de plus 50 ans en vue d’identifier des polypes, des angiodysplasies étaient présentes chez 8/964 (0,83%) patients [8]. Lorsque l’accent se porte sur les patients présentant des hémorragies gastro-intestinales occultes, des angiodysplasies sont décelées en tant que source d’hémorragie dans plus de 40% des cas [2]. Notre patient peut être attribué à ce groupe, car des ­angiodysplasies ont été identifiées dans l’estomac, le duodénum et le jéjunum chez lui également.  Les lésions angiodysplasiques surviennent aussi bien dans le contexte d’une cause congénital (par ex. maladie de Rendu-Osler-Weber) que sous forme acquise. On suppose que les formes acquises, dites idiopathiques, se développent dans le cadre de processus dégénératifs et ischémiques [9, 10]: une stase veineuse associée à un stimulus angiogène conduit à une ectasie vasculaire au cours de l’évolution ainsi qu’à l’apparition de véritables communications artérioveineuses [9]. Les troubles de la coagulation peuvent accentuer la perte de sang. Chez notre patient, l’anémie ferriprive a permis de démasquer une coronaropathie et la double inhibition de l’agrégation plaquettaire faisant suite à l’intervention coronaire s’est avéré être le moteur de la perpétuation de la perte de sang. Appartenant au groupe sanguin 0, notre patient présente un facteur de risque supplémentaire d’hémorragies gastro-intestinales [11]. Il pourrait en outre présenter une maladie de Rendu-Osler-Weber ou une maladie de von Willebrand.  Le traitement de première ligne des ADGI se base sur l’ablation endoscopique au moyen de la coagulation au plasma argon (APC) ou de l’électrocautérisation [12, 13]. Le taux d’efficacité lors du contrôle endoscopique de l’hémorragie est compris entre 80–90% mais le taux de récidives hémorragiques de 20–30% est toutefois très élevé [14, 15]. Cette observation s’explique par le fait que l’élimination d’une source d’hémorragie définie ne remédie pas à la cause de l’apparition des angiodysplasies. Etant donné que les angiodysplasies acquises s’inscrivent dans le cadre d’une maladie systémique, une approche thérapeutique pharmacologique médicamenteuse s’avère pertinente. Ainsi, des traitements hormonaux (œstrogènes/analogues de la progestérone ou de la somatostatine) et anti-angiogènes (thalidomide, lénalidomide) sont examinés dans différentes études [12, 16, 17]. La somatostatine est un peptide cyclique qui présente une courte demi-vie et inhibe la sécrétion de l’hormone de croissance, de la thyréostimuline (TSH), de la gastrine, de l’insuline, du glucagon, du peptide intesti­nal vasoactif (PIV) et d’autres hormones ­intestinales [18]. Elle exerce en outre une action anti-­angiogène et vasoconstrictrice via le récepteur 2 de la somatostatine [19, 20]. La thalidomide et son analogue mieux toléré, le lénalidomide, inhibent l’expression du «vascular endothelial growth factor» (VEGF) et exercent ainsi une action anti-angiogène directe [21]. Le lénalidomide a jusqu’à présent été utilisé avec succès pour le traitement des ADGI chez les patients atteints de la maladie de von Willebrand, car chez ces patients, l’action réduite du FvW entraîne non seulement un trouble de la coagulation mais stimule aussi l’angiogenèse [22, 23].  Une revue des données actuelles conclut que les ana­logues de la somatostatine à longue durée d’action constituent à présent la pharmacothérapie la plus sûre et la plus efficace des angiodysplasies hémorragiques [16]. Toutefois, comme cette forme de traitement génère des coûts relativement élevés (1200 CHF par injection) et nécessite en conséquence l’obtention d’une garantie de prise en charge, le traitement par analogues de la somatostatine ne représente pas le traitement de premier choix. Le recours aux analogues de la somatostatine est particulièrement pertinent en cas de récidives hémorragiques dues à des angiodysplasies pour lesquelles l’hémostase endoscopique ne permet pas d’atteindre un succès durable.  Conclusions  Les analogues de la somatostatine conduisent les patients atteints d’ADGI hémorragies à une rémission ­clinique et améliorent considérablement leur qualité de vie. Ils ne guérissent toutefois pas la forme idiopathique de la maladie. Dans cet objectif, il conviendrait de tester des approches thérapeutiques systémiques optimisant la microcirculation du tractus gastro-intestinal de façon durable à un âge avancé. Selon une publication récente, les patients du groupe sanguin 0 présentent un risque d’hémorragies gastro-intestinales [11]. Les taux de FvW plus bas observés chez ces patients pourraient contribuer à ce phénomène aussi bien par l’intermédiaire d’une tendance hémorragique accrue que par l’intermédiaire de l’apparition d’ADGI.  L’essentiel pour la pratique  • Les angiodysplasies gastro-intestinales (ADGI) sont une cause fréquente d’hémorragies occultes chez les personnes âgées.  • Certaines conditions médicales peuvent favoriser le développement d’angiodysplasies: par ex. la maladie de von Willebrand, les télangiectasies héréditaires (maladie de Rendu-Osler-Weber), une sténose aortique, le groupe sanguin 0 et les troubles de la coagulation.  • Les analogues de la somatostatine utilisés en cas de récidives hémorragiques dues à des ADGI ont une action thérapeutique rapide, présentent peu d’effets indésirables et ils sont efficaces et sûrs. Ils diminuent ou stoppent les hémorragies, conduisent à une nette stabilisation du taux d’hémoglobine sérique et réduisent le besoin en transfusions ferriques ou produits du sang.  • Les coûts relativement élevés du traitement par octréotide doivent être évalués par rapport au bénéfice individuel au cas par cas.

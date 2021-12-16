@@ -1,0 +1,98 @@
+T1	disorder 79 105	diverticulose sigmoïdienne
+T2	procedure 109 119	coloscopie
+T3	disorder 165 195	épisodes douloureux de la FIG 
+T4	procedure 257 269	 échographie
+T5	labvalue 272 957	«(…) Diverticulite abcédée. Au niveau du haut sigmoïde, sur une longueur de 10 cm, existe un épaississement pariétal symétrique prédominant aux dépens de la sous-muqueuse. Au contact de la musculeuse, on observe 4 diverticules dont 2 sont le siège d’un phénomène de diverticulite. ..Tous ces phénomènes inflammatoires et infectieux se développent dans la graisse appartenant à la paroi sigmoïdienne, graisse correspondant aux appendices épiploïques coliques dans lesquels sont inclus les diverticules précédemment décrits… Actuellement il n’existe pas de complication sur le versant péritonéal, en particulier sous forme d’abcès soit de proximité par perforation, soit à distance (…) »
+T6	drugs 1028 1037	Ciflox ® 
+T7	drugs 1040 1048	Flagyl® 
+T8	profession 984 991	médecin
+T9	profession 1118 1135	gastroentérologue
+T10	disorder 1161 1189	douleur importante de la FIG
+T11	procedure 1204 1226	contrôle échographique
+T12	labvalue 1241 1350	«(…) une récidive ou à la persistance du processus infectieux et/ou inflammatoire au niveau du sigmoïde (…) »
+T13	profession 1377 1394	gastroentérologue
+T14	procedure 1440 1450	coloscopie
+T15	drugs 1532 1539	Ciflox®
+T16	disorder 1568 1577	diarrhée 
+T17	drugs 1611 1618	Flagyl®
+T18	drugs 1627 1635	Dicetel®
+T19	procedure 1771 1781	coloscopie
+T20	procedure 1837 1859	résection sigmoïdienne
+T21	procedure 1882 1908	 coloscopie en ambulatoire
+T22	disorder 2203 2238	douleurs abdominales et des épaules
+T23	profession 2243 2254	généraliste
+T24	disorder 2268 2278	péritonite
+T25	procedure 2429 2439	coloscopie
+T26	disorder 2467 2485	douleur abdominale
+T27	procedure 2529 2540	température
+T28	labvalue 2543 2549	37.6°C
+T29	procedure 2552 2555	PA 
+T30	labvalue 2557 2568	153/76 mmHg
+T31	procedure 2570 2571	o
+T32	labvalue 2572 2578	22 :00
+T33	procedure 2627 2630	 NS
+T34	labvalue 2642 2658	hyperleucocytose
+T35	labvalue 2661 2671	16 500/mm3
+T36	procedure 2677 2716	radiographie d’abdomen sans préparation
+T37	disorder 2756 2774	 syndrome occlusif
+T38	disorder 2784 2813	perforation d’un organe creux
+T39	procedure 3030 3032	PA
+T40	procedure 3010 3021	température
+T41	procedure 3049 3061	 leucocytose
+T42	labvalue 3062 3073	11 000 /mm3
+T43	labvalue 3035 3046	120/70 mmHg
+T44	labvalue 3022 3028	37,7°C
+T45	procedure 3079 3090	échographie
+T46	profession 3221 3231	chirurgien
+T47	drugs 3646 3664	antibioprophylaxie
+T48	drugs 3669 3680	Céfazoline®
+T49	disorder 3743 3753	sigmoïdite
+T50	procedure 3802 3817	Minilaparotomie
+T51	procedure 3818 3861	Résection complète du rectum et du sigmoïde
+T52	procedure 3877 3889	coelioscopie
+T53	procedure 3891 3966	Anastomose colorectale termino-latérale par voie transanale trans-suturaire
+T54	procedure 3977 4004	examen anatomo-pathologique
+T55	labvalue 4032 4143	diverticulite aiguë avec un foyer inflammatoire abcédé en rapport avec une rupture de la paroi d’un diverticule
+T56	procedure 4236 4239	 PA
+T57	labvalue 4240 4251	125/70 mmHg
+T58	procedure 4254 4259	 SpO2
+T59	labvalue 4262 4265	98%
+T60	drugs 4289 4299	Perfalgan®
+T61	drugs 4301 4308	Acupan®
+T62	drugs 4310 4318	Morphine
+T63	drugs 4320 4329	Profenid®
+T64	drugs 4330 4339	 Lovenox®
+T65	drugs 4340 4349	 Zophren®
+T66	drugs 4362 4374	antibiotique
+T67	disorder 4456 4477	 douleurs abdominales
+T68	disorder 4484 4496	vomissements
+T69	disorder 4484 4496	vomissements
+T70	disorder 4510 4516	sueurs
+T71	profession 4545 4555	chirurgien
+T72	procedure 4987 5009	échographie abdominale
+T73	labvalue 5023 5053	« poche de 200ml dans la FIG »
+T74	drugs 5159 5174	antibiothérapie
+T75	drugs 5185 5195	Augmentin®
+T76	drugs 5196 5208	Gentamicine®
+T77	drugs 5195 5208	,Gentamicine®
+T78	drugs 5212 5219	Flagyl®
+T79	disorder 5281 5293	état de choc
+T80	disorder 5352 5376	 épanchement péritonéal 
+T81	disorder 5411 5422	péritonite,
+T82	procedure 5549 5562	nécrosectomie
+T83	procedure 5568 5614	stomie digestive terminale gauche sur le flanc
+T84	procedure 5616 5675	anastomose urétéro-urétérale termino-latérale sur sonde JJ 
+T85	drugs 5955 5966	vaso-actifs
+T86	drugs 6209 6224	antibiothérapie
+T87	procedure 6153 6167	hémofiltration
+T88	procedure 5740 5751	prélèvement
+T89	procedure 5849 5869	ventilation assistée
+T90	disorder 5901 5913	état de choc
+T91	disorder 5981 6010	’inflammation du flanc gauche
+T92	disorder 6025 6049	apparition de phlyctènes
+T93	disorder 6079 6099	fasciite nécrosante 
+T94	disorder 6353 6370	nécrose pariétale
+T95	profession 6522 6540	 gastroentérologue
+T96	profession 6508 6518	chirurgien
+T97	profession 6622 6641	chirurgien viscéral
+T98	profession 6722 6733	 chirurgien

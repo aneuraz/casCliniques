@@ -1,0 +1,57 @@
+T1	disorder 69 99	troubles du rythme auriculaire
+T2	disorder 124 157	accès de fibrillation auriculaire
+T3	risk 274 283	tabagisme
+T4	disorder 308 328	hypercholestérolémie
+T5	disorder 388 413	 fibrillation auriculaire
+T6	drugs 506 513	Rythmol
+T7	drugs 521 531	FlecaineTM
+T8	drugs 602 611	Cordarone
+T9	drugs 614 624	Cardensiel
+T10	drugs 627 634	Sotalex
+T11	procedure 761 788	ablation par radiofréquence
+T12	disorder 794 813	flutter auriculaire
+T13	disorder 903 948	eprise d’épisodes de fibrillation auriculaire
+T14	procedure 1092 1134	procédure d'ablation de cette fibrillation
+T15	drugs 1226 1236	FlecaineTM
+T16	drugs 1200 1215	anti-arythmique
+T17	drugs 1238 1248	Cardensiel
+T18	drugs 1256 1263	Sotalex
+T19	drugs 1367 1374	Innohep
+T20	drugs 1382 1391	Previscan
+T21	disorder 1723 1731	asthénie
+T22	disorder 1974 1983	aphasique
+T23	drugs 2473 2487	antiarythmique
+T24	disorder 2549 2552	AVC
+T25	disorder 3257 3274	accès arythmiques
+T26	drugs 3472 3479	Sotalex
+T27	disorder 3644 3652	arythmie
+T28	procedure 3673 3676	ECG
+T29	disorder 3692 3716	fibrillation auriculaire
+T30	drugs 3794 3804	FlécaïneTM
+T31	drugs 3806 3816	Cardensiel
+T32	drugs 3899 3907	Kardégic
+T33	procedure 4024 4030	Multaq
+T34	procedure 3972 3993	échographie cardiaque
+T35	drugs 4085 4093	Kardégic
+T36	drugs 4189 4201	antiagrégant
+T37	drugs 4206 4219	anticoagulant
+T38	disorder 4267 4279	paresthésies
+T39	disorder 4433 4454	pathologie vertébrale
+T40	disorder 4866 4876	sciatalgie
+T41	drugs 4886 4896	FlecaineTM
+T42	drugs 4898 4908	Cardensiel
+T43	drugs 4911 4919	Kardegic
+T44	procedure 4922 4952	doppler artériel bilan sanguin
+T45	disorder 5038 5044	pâleur
+T46	procedure 5163 5165	TA
+T47	labvalue 5166 5170	10/8
+T48	disorder 5319 5357	hémiplégie droite flasque avec aphasie
+T49	disorder 5479 5497	infarctus cérébral
+T50	disorder 5561 5606	occlusion du segment proximal de cette artère
+T51	procedure 5775 5813	échographie cardiaque trans-thoracique
+T52	procedure 5965 5977	écho-doppler
+T53	drugs 6084 6097	anticoagulant
+T54	disorder 6259 6269	hémiplégie
+T55	procedure 6292 6304	écho-doppler
+T56	disorder 6597 6621	fibrillation auriculaire
+T57	procedure 6711 6724	cryo-ablation

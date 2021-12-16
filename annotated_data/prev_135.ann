@@ -1,0 +1,46 @@
+T1	disorder 128 163	absence de possibilité d’expression
+T2	procedure 235 254	anesthésie générale
+T3	procedure 208 229	extractions dentaires
+T4	profession 402 413	brancardier
+T5	profession 417 429	anesthésiste
+T6	profession 433 443	infirmière
+T7	profession 449 463	aide-soignante
+T8	procedure 602 620	poser la perfusion
+T9	profession 635 647	anesthésiste
+T10	drugs 700 706	curare
+T11	profession 792 803	’infirmière
+T12	profession 888 914	 chirurgien stomatologiste
+T13	profession 1001 1015	aide-soignante
+T14	profession 1083 1097	aide-soignante
+T15	disorder 1317 1340	encombrement bronchique
+T16	disorder 1350 1372	 troubles de sécrétion
+T17	profession 1468 1478	chirurgien
+T18	profession 1484 1496	anesthésiste
+T19	disorder 1602 1639	plaie superficielle de la joue gauche
+T20	disorder 1738 1766	, ses membres sont rétractés
+T21	profession 1878 1888	chirurgien
+T22	procedure 1937 1956	anesthésie générale
+T23	profession 1978 1990	anesthésiste
+T24	disorder 2137 2151	très angoissée
+T25	disorder 2296 2319	hématome à l’œil gauche
+T26	disorder 2325 2357	blessures sur la pommette gauche
+T27	disorder 2364 2387	coude gauche très rouge
+T28	profession 2410 2422	anesthésiste
+T29	anatomy 2690 2702	jambe gauche
+T30	anatomy 2675 2680	 bras
+T31	disorder 2817 2850	cuisse gauche est très « enflée »
+T32	procedure 2956 2974	bilan radiologique
+T33	disorder 2995 3034	fracture trochantéro-diaphysaire gauche
+T34	procedure 3117 3143	résection tête col élargie
+T35	disorder 3236 3257	hématome de la cuisse
+T36	profession 3329 3337	médecin 
+T37	procedure 3197 3207	transfusé 
+T38	disorder 3386 3417	dégradation de son état général
+T39	disorder 3425 3480	perdu l’usage de l’appui de ses deux membres inférieurs
+T40	disorder 3497 3557	état hyperalgique avec contractures musculaires généralisées
+T41	procedure 3592 3658	ablation de la tête fémorale et du quart supérieur du fémur gauche
+T42	disorder 3681 3711	 luxation en haut de la cuisse
+T43	disorder 3682 3712	luxation en haut de la cuisse 
+T44	disorder 3777 3825	une adduction de cette même cuisse, hyperalgique
+T45	profession 3861 3886	chirurgien stomatologiste
+T46	profession 3895 3907	anesthésiste

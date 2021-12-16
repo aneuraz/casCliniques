@@ -1,0 +1,148 @@
+T1	irrelevant 0 8;10 621;623 1047;1049 1561;1563 1931;1933 1951	Contexte  Les transplantés pulmonaires sont à haut risque de ­développer des infections fongiques invasives pulmonaires. Par conséquent, une prophylaxie antifongique postopératoire systémique est généralement introduite au cours de la première année suivant la transplantation et permet de diminuer considérablement, sans annuler complètement, l’incidence de telles infections [1]. Les principaux facteurs de risque sont l’intensité de l’immunosuppression, la fréquence des procédures invasives au niveau des voies respiratoires, l’exposition à des antibactériens ou la survenue d’infections virales intercurrentes [2–4].  L’aspergillose invasive (AI) qui affecte de manière prédominante les transplantés pulmonaires, est associée à une morbidité (par ex., bronchiolites oblitérantes) et une mortalité accrues [5]. Les difficultés de diagnostic et de traitement en font une maladie complexe. De plus, le maintien d’un traitement antifongique au long cours est généralement nécessaire, ce qui augmente le risque d’effets indésirables médicamenteux.  Les directives actuelles recommandent l’utilisation de voriconazole en première intention chez les patients immunosupprimés [6]. En raison de sa marge thérapeutique étroite, l’amphotéricine B, y compris sa forme liposomale, n’est recommandée que pour le traitement de souches résistantes, ou en cas de rechute sous traitement d’azolés. La caspofungine n’est pas approuvée par Swissmedic dans cette indication, alors que la «Food and Drug Administration» (FDA) la reconnaît comme traitement de deuxième intention.  Nous rapportons le cas d’une patiente transplantée pulmonaire, qui présente une rechute de son AI chronique à l’arrêt du traitement d’entretien. Suite à l’administration accidentelle d’amphotéricine B sous forme désoxycholate au lieu de la forme liposomale, la patiente présente un arrêt cardio-respiratoire prolongé nécessitant un support circulatoire extra-corporel.  Description du cas
+T2	disorder 1989 2012	transplantée pulmonaire
+T3	disorder 2040 2053	mucoviscidose
+T4	disorder 2058 2095	Pseudomonas aeruginosa multirésistant
+T5	disorder 2104 2131	Aspergillus (A.) fumigatus 
+T6	disorder 2218 2231	AI pulmonaire
+T7	drugs 2296 2309	’itraconazole
+T8	drugs 2319 2331	voriconazole
+T9	drugs 2394 2406	voriconazole
+T10	disorder 2430 2445	lésions de l’AI
+T11	drugs 2501 2513	voriconazole
+T12	irrelevant 2537 2850	Figure 1: Evolution des lésions pulmonaires dans le contexte d’aspergillose invasive avant l’interruption du traitement antifongique (A ), lors de l’admission à l’hôpital (B ), lors de l’admission aux soins intensifs (C ), 2 semaines, 3 mois et 7 mois après le ­surdosage en amphotéricine B désoxycholate (D –F ).
+T13	disorder 2902 2909	dyspnée
+T14	disorder 2939 2945	fièvre
+T15	procedure 2950 2964	CT-thoracique 
+T16	disorder 2981 3004	pneumonie multilobaire 
+T17	procedure 3019 3044	avage broncho- alvéolaire
+T18	disorder 3068 3081	A. ­fumigatus
+T19	drugs 3109 3121	voriconazole
+T20	disorder 3138 3154	hypoxémie sévère
+T21	procedure 3166 3195	admission aux soins intensifs
+T22	procedure 3234 3244	intubation
+T23	drugs 3374 3389	amphotéricine B
+T24	drugs 3497 3512	amphotéricine B
+T25	disorder 3656 3671	arrêt cardiaque
+T26	disorder 3695 3731	tachycardie ventriculaire sans pouls
+T27	disorder 3763 3789	fibrillation ventriculaire
+T28	disorder 3797 3806	asystolie
+T29	procedure 3812 3842	réanimation cardio-­pulmonaire
+T30	procedure 3881 3897	analyse sanguine
+T31	procedure 3974 3994	hyperkaliémie sévère
+T32	labvalue 3997 4006	13 mmol/l
+T33	procedure 4023 4046	perfusion de potassium 
+T34	disorder 4051 4076	insuffisance rénale aiguë
+T35	labvalue 4094 4123	kaliémie était dans la norme 
+T36	drugs 4181 4201	gluconate de calcium
+T37	drugs 4210 4226	insuline-glucose
+T38	procedure 4277 4288	réanimation
+T39	procedure 4292 4327	correction partielle de la kaliémie
+T40	procedure 4381 4396	hémofiltration 
+T41	disorder 4354 4375	circulation spontanée
+T42	procedure 4448 4468	Gaz du sang artériel
+T43	disorder 4490 4505	arrêt cardiaque
+T44	procedure 4523 4535	réani­mation
+T45	procedure 4633 4635	pH
+T46	procedure 4636 4640	pCO2
+T47	procedure 4647 4651	HCO3
+T48	procedure 4664 4672	Glucose 
+T49	procedure 4677 4684	Lactate
+T50	procedure 4657 4659	K+
+T51	labvalue 4696 4700	7,37
+T52	labvalue 4701 4705	38,5
+T53	labvalue 4706 4710	21,9
+T54	labvalue 4711 4714	4,2
+T55	labvalue 4715 4718	6,4
+T56	labvalue 4719 4722	1,9
+T57	labvalue 4729 4733	7,39
+T58	labvalue 4764 4768	7,18
+T59	labvalue 4800 4804	6,93
+T60	labvalue 4834 4838	6,99
+T61	labvalue 4869 4873	6,92
+T62	labvalue 4904 4908	6,91
+T63	labvalue 4939 4943	6,94
+T64	labvalue 4974 4978	6,99
+T65	labvalue 5009 5013	6,99
+T66	labvalue 5044 5048	6,99
+T67	labvalue 5049 5053	80,3
+T68	labvalue 5054 5058	18,4
+T69	labvalue 5059 5062	3,6
+T70	labvalue 5063 5067	16,4
+T71	labvalue 5068 5071	9,8
+T72	labvalue 5014 5018	81,9
+T73	labvalue 5019 5023	19,0
+T74	labvalue 5024 5027	3,8
+T75	labvalue 5028 5032	18,9
+T76	labvalue 5033 5037	10,7
+T77	labvalue 4979 4983	68,8
+T78	labvalue 4984 4988	15,7
+T79	labvalue 4989 4992	2,9
+T80	labvalue 4993 4997	19,5
+T81	labvalue 4998 5002	10,1
+T82	labvalue 4944 4948	66,6
+T83	labvalue 4949 4953	13,7
+T84	labvalue 4954 4957	3,4
+T85	labvalue 4958 4962	22,6
+T86	labvalue 4963 4967	10,8
+T87	labvalue 4909 4913	70,8
+T88	labvalue 4914 4918	13,5
+T89	labvalue 4919 4922	4,8
+T90	labvalue 4923 4927	28,0
+T91	labvalue 4928 4932	13,5
+T92	labvalue 4874 4878	73,3
+T93	labvalue 4879 4883	14,3
+T94	labvalue 4884 4887	6,5
+T95	labvalue 4888 4892	30,0
+T96	labvalue 4893 4897	13,9
+T97	labvalue 4839 4843	70,1
+T98	labvalue 4844 4848	16,0
+T99	labvalue 4849 4852	7,0
+T100	labvalue 4853 4857	32,0
+T101	labvalue 4858 4862	14,4
+T102	labvalue 4805 4809	49,5
+T103	labvalue 4810 4813	9,9
+T104	labvalue 4814 4817	9,0
+T105	labvalue 4818 4823	41,0	
+T106	labvalue 4823 4827	12,5
+T107	labvalue 4769 4773	28,2
+T108	labvalue 4774 4779	10,2	
+T109	labvalue 4779 4783	12,0
+T110	labvalue 4784 4789	18,4	
+T111	labvalue 4789 4793	13,7
+T112	labvalue 4734 4738	18,3
+T113	labvalue 4739 4743	10,7
+T114	labvalue 4744 4748	12,9
+T115	labvalue 4749 4753	19,5
+T116	labvalue 4754 4757	9,1
+T117	disorder 5094 5109	 rythme sinusal
+T118	disorder 5135 5165	choc cardiogénique réfractaire
+T119	disorder 5179 5199	 insuffisance rénale
+T120	disorder 5207 5242	défaillance hépatocellulaire aiguë.
+T121	procedure 5245 5263	échocardiographie 
+T122	disorder 5280 5315	dysfonction biventriculaire sévère 
+T123	disorder 5323 5387	 fraction d’éjection ventriculaire gauche estimée à moins de 10%
+T124	procedure 5411 5474	mise au bénéfice d’une assistance circulatoire veino-artérielle
+T125	procedure 5480 5521	oxygénation par membrane extra-corporelle
+T126	procedure 5523 5527	ECMO
+T127	procedure 5607 5628	ECMO veino-artérielle
+T128	procedure 5650 5670	 ECMO veino-veineuse
+T129	disorder 5696 5728	insuffisance respiratoire sévère
+T130	drugs 6003 6032	amphotéricine B désoxycholate
+T131	drugs 6034 6044	Fungizone®
+T132	drugs 6059 6085	amphotéricine B liposomale
+T133	drugs 6087 6096	Ambisome®
+T134	irrelevant 6099 6673	La prescription médicale indiquait certes correctement la substance en dénomination commune internationale (DCI), le dosage et la durée de la perfusion, mais ne précisait pas la forme galénique (forme liposomale). Ainsi, le dosage et le débit de perfusion étaient appropriés pour une formulation liposomale, mais ils étaient trop élevés (5 mg/kg au lieu d’une dose quotidienne maximale de 1,5 mg/kg/j) et trop rapides (perfusion sur 2 heures au lieu de 6 heures) pour la formulation ­désoxycholate que la patiente a réellement reçu. Pour tenter de diminuer la toxicité de l’
+T135	drugs 6673 6703	amphotéricine B ­désoxycholate
+T136	drugs 6746 6765	émulsion lipidique 
+T137	drugs 6766 6776	Lipovenos®
+T138	drugs 6859 6874	amphotéricine B
+T139	procedure 6986 7065	chromatographie liquide à haute performance couplée à la spectrométrie de masse
+T140	procedure 7067 7075	LC-MS/MS
+T141	labvalue 7198 7213	 0,03–1,00 mg/l
+T142	labvalue 7152 7161	1,0 mg/l 
+T143	labvalue 7292 7301	0,29 mg/l
+T144	labvalue 7305 7314	0,19 mg/l
+T145	procedure 7521 7551	taux sérique de galactomannane
+T146	labvalue 7558 7566	négativé
+T147	labvalue 7568 7579	indice <0,5
+T148	irrelevant 7591 7738;7740 7931;7933 7943;7945 8817;8819 9551;9553 9622;9623 9679;9680 9702;9703 9859;9860 9882;9883 10018;10019 10041;10042 10066;10067 10162;10163 10185;10186 10328;10329 10357;10358 10380;10381 10481;10482 10700;10701 10775;10776 10832;10833 10854;10855 10896;10897 10927;10928 10949;10950 11062;11063 11084;11085 11129;11130 11160;11161 11182;11183 11274;11275 11320;11321 11373;11374 11417;11418 11485;11486 11509;11510 11563;11564 11586;11587 11634;11635 11665;11666 11688;11689 11766;11767 11813;11814 11862;11863 11894;11895 11910;11912 12437;12439 13888;13890 14555;14557 14972;14974 15002;15004 15180;15182 15369;15371 15491;15493 15617	Figure 2: Concentrations sériques d’amphotéricine B (mg/l) en fonction du temps écoulé (jours) après le surdosage ­d’amphotéricine B désoxycholate.  Figure 3: Profil des taux sériques du galactomannane. La ligne rouge horizontale pointillée représente le seuil de positivité. La ligne verticale en pointillé représente le jour du surdosage.  Discussion  L’amphotéricine B désoxycholate, polyène initialement extrait du Streptomyces nodosus, fut introduit en 1955 comme traitement des infections fongiques invasives. En raison de sa marge thérapeutique étroite, il a été remplacé par les nouvelles générations d’azolés et par les échinocandines. Des effets secondaires liés au traitement d’amphotéricine B sont très fréquents (70–90%) [8]: nausées, vomissements, troubles gastro-intestinaux, fièvre, frissons, douleurs au site d’injection, thrombophlébites, bronchospasmes, hypotension artérielle et arythmies cardiaques. L’amphotéricine B sous forme liposomale est mieux tolérée et peut être administrée plus rapidement que l’amphotéricine B désoxycholate. De plus, les schémas posologiques diffèrent de manière significative entre l’amphotéricine B désoxycholate (1–1,5 mg/kg/j) et l’amphotéricine B liposomale (3–6 mg/kg/j).  La toxicité cardiaque de l’amphotéricine B est bien ­documentée et plusieurs cas cliniques rapportent des arythmies fatales suite à un surdosage ou à son administration trop rapide [9] (tab. 2 et 3). La cytotoxicité ainsi que l’induction d’une hyperkaliémie sont les mécanismes les plus incriminés. L’amphotéricine B exerce son activité fongicide en se liant à l’ergostérol de la membrane cytoplasmique des champignons. En cas de surdosage, elle peut également se lier au cholestérol de la membrane des cellules du patient perturbant ainsi le fonctionnement cellulaire. On postule alors que l’hyperkaliémie est la conséquence d’une lyse cellulaire ­induite suite à la liaison de l’amphotéricine B au cholestérol membranaire [10–12].  Tableau 2: Rapports de cas adultes avec surdosage en amphotéricine B. Age	Formulation	Dose	Toxicité	Traitement	Issue	Référence 39 ans	Amphotéricine B désoxycholate	5 mg/kg sur 2 h	Hyperkaliémie, arrêt ­cardiaque, insuffisance. rénale terminale	RCP, Intralipid®, ECMO, CRRT	Survie	Cas présenté dans le texte 41 ans	Amphotéricine B désoxycholate	5 mg/kg perfusée 2 fois sur 2 h	Hyperkaliémie, arrêt ­cardiaque, insuffisance rénale aiguë, anémie	RCP, CVVHDF	Décès	[11] 41 ans	Amphotéricine B désoxycholate	2 doses de 5 mg/kg	Arrêt cardiaque, insuffisance rénale aiguë, CIVD, hépatotoxicité	RCP, CVVHDF	Décès	[10] 60 ans	Amphotéricine B désoxycholate	4,3 mg/kg	Insuffisance rénale aiguë, douleurs abdominales, malaise générale avec ­paramètres vitaux ­normaux	Plasmaphérèse (5×), hémodialyse (5×)	Survie	[16] 36 ans	Amphotéricine B liposomale	5 mg/kg sur 2 h	Hyperkaliémie, arrêt ­cardiaque, insuffisance rénale aiguë	RCP	Décès	[17] CIVD: coagulation intravasculaire disséminée; RCP: Réanimation cardiopulmonaire; ECMO: extra corporeal membrane oxygenation; CRRT: ­continuous renal replacement therapy; CVVHDF: continuous veno-venous hemodiafiltration Tableau 3: Rapports de cas pédiatriques avec surdosage en amphotéricine B. Age	Formulation	Dose	Toxicité	Traitement	Issue	Référence 4 ans	Amphotéricine B liposomale	5 mg/kg sur 1 h	Hyperkaliémie, arrêt ­cardiaque	PP	Décès	[18] 2 ans	Amphotéricine B désoxycholate	1 mg/kg sur 2 h	Hyperkaliémie	Aucune. Dose successive donnée pendant la dialyse (IRC).	Survie	[18] 7 ans	Amphotéricine B désoxycholate	5 mg/kg sur 3 h	Hyperkaliémie, arrêt ­cardiaque	PP	Décès	[15] 2 ans	Amphotéricine B désoxycholate	4,6 mg/kg	Vomissement, crise tonico ­clonique, arrêt cardiaque	PP	Survie	[15] 4,5 sem (30 sem de gestation)	Amphotéricine B désoxycholate	20 mg/kg	Arrêt cardiaque	PP	Décès	[15] 7 sem (25 sem de gestation)	Amphotéricine B désoxycholate	40,8 mg/kg	Bradycardie, arrêt cardiaque	PP	Décès	[15] 3,5 ans	Amphotéricine B désoxycholate	3,8 mg/kg	Arrêt cardiaque	PP	Décès	[15] 3 mois	Amphotéricine B désoxycholate	2 doses de 5 mg/kg	Hyperkaliémie, arrêt ­cardiaque	PP	Décès	[12] 16 ans	Amphotéricine B désoxycholate	5 mg/kg	Hyperkaliémie, insuffisance rénale aiguë	PP	Survie	[12] 32 jours (25 sem de gestation)	Amphotéricine B désoxycholate	15 mg/kg en 3 jours	Hyperkaliémie, arrêt ­cardiaque	PP	Survie	[19] PP: pas précisé  A ce jour, il n’y a pas de traitement bien défini en cas de surdosage en amphotéricine B et la prise en charge ­repose principalement sur le soutien de la défaillance des organes. Compte tenu de ses propriétés pharma­cocinétiques, l’amphotéricine B n’est pas dialysable. L’administration d’une émulsion lipidique a parfois été suggérée, sans que son efficacité ne soit démontrée [13, 14]. A notre connaissance, nous rapportons l’un des rares cas de patient adulte ayant survécu à un surdosage d’amphotéricine B (tab. 2) [15].  L’introduction récente de la prescription médicamenteuse par dénomination commune internationale dans notre unité de soins intensifs a été à l’origine de cette erreur aux conséquences graves. La rareté de l’utilisation de l’amphotéricine B de nos jours a contribué à la confusion, la connaissance des différentes ­formulations disponibles et de la spécificité d’administration intraveineuse de tels traitements ayant été perdue chez la majorité des soignants. Par ailleurs, l’amphotéricine B désoxycholate était disponible dans la pharmacie de notre unité de soins intensifs (pour aérosols, en prophylaxie de receveur de greffe pulmonaire), alors que l’amphotéricine B liposomale ne l’était pas et devait être commandée spécialement à la pharmacie. Finalement, c’est le produit disponible dans l’unité de soins qui a été sélectionné par erreur, par méconnaissance des différences significatives entre les deux formes galéniques. L’introduction du médicament ­administré dans le dossier patient informatisé n’a pas permis de rattraper cette erreur, dans la mesure où seule la dénomination commune internationale suivie du nom de marque étaient visibles dans la liste, sans mention de la forme galénique ou de messages de mise en garde sur les risques de confusion. Il est également à relever que le code ATC de l’OMS utilisé pour classifier les médicaments dans de nombreux systèmes informatiques ne différencie pas les deux formes d’amphotéricine B.  Après analyse approfondie, les modifications suivantes ont été apportées pour la prescription des médicaments: (i) les médicaments administrés moins d’une fois par semaine sont détaillés dans le dossier des patients avec le nom complet en DCI, le nom de marque et les mo­dalités d’administration; (ii) le protocole pour la prophylaxie de l’AI chez les transplantés pulmonaires ne comprend plus que l’amphotéricine B liposomale; (iii) les flacons d’amphotéricine B désoxycholate ne sont désormais plus stockés à la pharmacie. S’ils sont commandés, ils sont délivrés avec l’avertissement suivant: «Pour utilisation en aérosol uniquement, administration IV interdite».  Dans le cas présent, l’AI a été stabilisée par le surdosage d’amphotéricine B désoxycholate. Cependant, les effets indésirables graves qui ont résulté de ce surdosage ont nécessité une prise en charge agressive par des techniques avancées de réanimation. La patiente a finalement survécu sans séquelles neurologiques ou cardiaques, mais garde une insuffisance rénale chronique terminale nécessitant une hémodialyse.  L’essentiel pour la pratique  • La prescription en dénominations communes internationales (DCI) est simple, mais ne dispense pas le prescripteur de préciser la forme galénique lorsqu’il en existe plusieurs.  • Toute prescription médicamenteuse inhabituelle nécessite une bonne communication entre les médecins et les infirmiers, en particulier pour les médicaments à marge thérapeutique étroite.  • La formation sur les médicaments à marge thérapeutique étroite devrait être renforcée chez les médecins et infirmiers.  • De bons outils informatiques d’aide à la prescription devraient permettre à l’avenir d’éviter un certain nombre d’erreurs.

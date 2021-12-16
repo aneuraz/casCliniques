@@ -1,0 +1,102 @@
+T1	procedure 48 76	consultation préanesthésique
+T2	profession 81 93	anesthésiste
+T3	disorder 156 167	pancréatite
+T4	risk 169 178	éthylisme
+T5	procedure 225 255	traitement antidiabétique oral
+T6	drugs 277 283	STAGID
+T7	drugs 298 308	GLUCOPHAGE
+T8	disorder 517 524	diabète
+T9	procedure 630 637	traitée
+T10	drugs 645 650	LOXEN
+T11	disorder 660 663	HTA
+T12	procedure 674 688	pré opératoire
+T13	procedure 713 716	ECG
+T14	procedure 722 729	examens
+T15	procedure 766 781	préanesthésique
+T16	procedure 819 831	intervention
+T17	procedure 838 853	rachianesthésie
+T18	profession 922 934	anesthésiste
+T19	procedure 951 979	consultation préanesthésique
+T20	procedure 985 999	séjour en SSPI
+T21	profession 1028 1040	anesthésiste
+T22	procedure 1108 1120	prescription
+T23	drugs 1123 1134	antalgiques
+T24	procedure 1136 1165	prophylaxie anti thrombotique
+T25	procedure 1179 1212	poursuivre le traitement habituel
+T26	procedure 1219 1237	perfusion de sérum
+T27	drugs 1265 1271	VALIUM
+T28	risk 1292 1301	éthylisme
+T29	drugs 1308 1317	vitamines
+T30	procedure 1325 1349	surveillance des dextros
+T31	profession 1368 1378	infirmière
+T32	procedure 1408 1420	traitements 
+T33	drugs 1443 1452	DAGALGAN 
+T34	drugs 1462 1472	BIPROFENID
+T35	drugs 1492 1501	CONTRAMAL
+T36	profession 1557 1569	anesthésiste
+T37	drugs 1524 1531	LOVENOX
+T38	procedure 1574 1599	traitement antidiabétique
+T39	drugs 1609 1619	GLUCOPHAGE
+T40	procedure 1656 1666	ordonnance
+T41	profession 1704 1714	infirmière
+T42	drugs 1728 1734	STAGID
+T43	procedure 1794 1803	pansement
+T44	procedure 1930 1952	confection d’une botte
+T45	procedure 1968 1999	remplacer l’attelle postérieure
+T46	procedure 2025 2044	numération sanguine
+T47	disorder 2067 2073	anémie
+T48	procedure 2082 2090	prescrit
+T49	drugs 2094 2097	fer
+T50	drugs 2107 2114	foldine
+T51	disorder 2163 2170	nausées
+T52	disorder 2179 2190	vomissement
+T53	profession 2194 2205	infirmière 
+T54	procedure 2231 2252	traitement antalgique
+T55	drugs 2285 2293	Tramadol
+T56	drugs 2300 2310	Biprofénid
+T57	profession 2341 2348	médecin
+T58	disorder 2389 2399	dyspnéique
+T59	disorder 2401 2409	cyanosée
+T60	disorder 2467 2487	douleurs abdominales
+T61	disorder 2514 2532	embolie pulmonaire
+T62	procedure 2571 2585	 bilan sanguin
+T63	disorder 2664 2689	insuffisance rénale aigue
+T64	procedure 2699 2709	créatinine
+T65	labvalue 2720 2730	600 mmol/l
+T66	disorder 2741 2765	acidose lactique majeure
+T67	procedure 2767 2769	PH
+T68	labvalue 2770 2783	inférieur à 7
+T69	procedure 2785 2793	lactates
+T70	labvalue 2794 2803	augmentés
+T71	disorder 2812 2825	hyperkaliémie
+T72	procedure 2844 2852	kaliémie
+T73	labvalue 2855 2862	9 meq/l
+T74	procedure 2868 2879	réanimation
+T75	disorder 3034 3053	tableau d’asystolie
+T76	profession 3059 3070	réanimateur
+T77	disorder 3146 3174	intoxication à la Metformine
+T78	procedure 3299 3307	autopsie
+T79	procedure 3335 3358	expertise toxicologique
+T80	procedure 3363 3371	autopsie
+T81	disorder 3383 3429	lésions athéromateuses coronariennes sténosant
+T82	disorder 3473 3494	infarctus myocardique
+T83	disorder 3507 3540	hypertrophie ventriculaire gauche
+T84	disorder 3546 3564	stéatose hépatique
+T85	procedure 3572 3606	constatations anatomopathologiques
+T86	disorder 3684 3705	troubles métaboliques
+T87	disorder 3712 3732	anomalies cardiaques
+T88	disorder 3792 3800	athérome
+T89	disorder 3818 3836	troubles du rythme
+T90	disorder 3876 3919	lésions ischémiques myocardiques chroniques
+T91	procedure 3927 3948	rapport toxicologique
+T92	drugs 3987 3998	antalgiques
+T93	drugs 4000 4008	Tramadol
+T94	drugs 4010 4021	paracétamol
+T95	procedure 4038 4056	expert toxicologue
+T96	disorder 4109 4127	troubles du rythme
+T97	disorder 4167 4187	accumulation toxique
+T98	disorder 4199 4231	insuffisance hépatique ou rénale
+T99	disorder 4247 4265	stéatose hépatique
+T100	procedure 4277 4294	prélèvement rénal
+T101	profession 4315 4334	anatomopathologiste
+T102	drugs 4350 4360	Metformine

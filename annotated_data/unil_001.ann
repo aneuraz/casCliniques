@@ -1,0 +1,22 @@
+T1	disorder 127 148	difficulté à respirer
+T2	disorder 209 218	fiévreux,
+T3	disorder 251 262	tousse plus
+T4	disorder 270 307	crachats sont devenus jaune-verdâtres
+T5	procedure 367 392	 prescrit un antibiotique
+T6	risk 679 690	gros fumeur
+T7	disorder 764 796	oux accompagnée d'expectorations
+T8	disorder 1076 1084	 fébrile
+T9	procedure 1105 1131	prescrit des antibiotiques
+T10	disorder 1166 1176	 essoufflé
+T11	procedure 1391 1419	lui a prescrit un diurétique
+T12	drugs 1465 1498	Amoxicilline + acide clavulanique
+T13	drugs 1530 1545	Chlorthalidone 
+T14	disorder 1643 1649	agité 
+T15	procedure 1731 1753	respiration est rapide
+T16	labvalue 1755 1761	25/min
+T17	procedure 2028 2034	Pouls 
+T18	labvalue 2045 2055	120/minute
+T19	procedure 2058 2076	ression artérielle
+T20	labvalue 2077 2089	140/85 mm Hg
+T21	procedure 2205 2216	Température
+T22	labvalue 2217 2223	38.8°C

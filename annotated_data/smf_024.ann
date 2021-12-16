@@ -1,0 +1,22 @@
+T1	disorder 39 54	lombalgie aiguë
+T2	procedure 144 214	tomographie par émission monophotonique / tomodensitométrie (TEMP/TDM)
+T3	procedure 418 421	IRM
+T4	disorder 487 526	 syndrome douloureux pseudo-radiculaire
+T5	labvalue 860 915	 signes de spondylarthrose activée avec hypersignal T2 
+T6	procedure 1238 1241	TDM
+T7	procedure 1165 1242	infiltration facettaire intra-articulaire et péri-articulaire guidée par TDM 
+T8	labvalue 1514 1605	Nette hyperfixation d’un spondylophyte large à hauteur des vertèbres lombaires 4/5 à droite
+T9	procedure 1419 1459	TEMP/TDM au 99mTc-MDP du rachis lombaire
+T10	labvalue 2106 2156	pas d’accumulation dans les facettes articulaires.
+T11	drugs 2321 2347	bupivacaïne 0,5 mg/ml 1 ml
+T12	drugs 2348 2369	 Jopamiro® 200 0,5 ml
+T13	drugs 2372 2388	 Kenacort® 40 mg
+T14	disorder 2793 2852	 réduction immédiate et durable de la douleur d’environ 50%
+T15	disorder 3108 3143	Pathologies dégénératives du rachis
+T16	disorder 3592 3603	 spondylose
+T17	disorder 3676 3691	spondylarthrose
+T18	risk 3961 3967	65 ans
+T19	labvalue 4130 4184	altérations dégénératives des disques intervertébraux 
+T20	labvalue 5585 5613	œdème des tissus avoisinants
+T21	procedure 5761 5778	TEMP au 99mTc-MDP
+T22	labvalue 6562 6608	 métabolisme augmenté des structures osseuses,

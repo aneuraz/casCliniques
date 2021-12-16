@@ -1,0 +1,60 @@
+T1	profession 32 51	artisan ambulancier
+T2	profession 80 99	médecin généraliste
+T3	disorder 109 119	lombalgies
+T4	disorder 201 216	fond douloureux
+T5	disorder 223 254	crises lombo-sciatiques gauches
+T6	procedure 341 367	examen tomodensitométrique
+T7	disorder 480 503	iscopathie dégénérative
+T8	disorder 524 560	hernie discale L5-S1 postéro-médiane
+T9	disorder 720 744	douleur du mollet gauche
+T10	drugs 824 833	Profénid®
+T11	disorder 881 905	problèmes de sensibilité
+T12	disorder 989 1003	fourmillements
+T13	disorder 1052 1059	douleur
+T14	disorder 1143 1170	sensation d’engourdissement
+T15	profession 1362 1373	généraliste
+T16	profession 1586 1597	généraliste
+T17	procedure 1799 1822	séquence des événements
+T18	profession 1827 1838	généraliste
+T19	disorder 1886 1929	trouble sensitif du membre inférieur gauche
+T20	procedure 2098 2104	examen
+T21	disorder 2106 2131	pas de troubles urinaires
+T22	disorder 2136 2149	sphinctériens
+T23	disorder 2151 2161	ni moteurs
+T24	profession 2211 2218	médecin
+T25	profession 2319 2330	généraliste
+T26	disorder 2432 2484	sciatique de la jambe gauche avec troubles sensitifs
+T27	procedure 2521 2529	scanners
+T28	disorder 2562 2578	hernies discales
+T29	profession 2595 2606	ambulancier
+T30	profession 2619 2626	médecin
+T31	disorder 3149 3188	trouble sensitif de la région périnéale
+T32	disorder 3235 3257	impossibilité d’uriner
+T33	drugs 3359 3368	Profénid®
+T34	profession 1233 1249	médecin traitant
+T35	profession 3299 3315	médecin traitant
+T36	procedure 3493 3502	transport
+T37	disorder 3526 3539	malaise vagal
+T38	disorder 3553 3585	violentes douleurs sus-pubiennes
+T39	disorder 3596 3609	globe vésical
+T40	procedure 3722 3737	sondage vésical
+T41	profession 3953 3969	neuro-chirurgien
+T42	procedure 3906 3915	admission
+T43	disorder 4008 4038	syndrome de la queue de cheval
+T44	procedure 4080 4083	IRM
+T45	disorder 4122 4149	hernie discale L4-L5 géante
+T46	disorder 4169 4221	¾ du canal rachidien en coupes axiales et sagittales
+T47	disorder 4223 4256	étendue sur un étage discal L4-L5
+T48	disorder 4263 4281	étage vertébral L5
+T49	procedure 4288 4318	intervention de décompression 
+T50	disorder 4433 4502	déficit partiel des muscles de la loge postérieure de la jambe gauche
+T51	disorder 4507 4589	déficit sensitif atteignant plusieurs racines de la queue de cheval du côté gauche
+T52	disorder 4603 4681	S5 du côté droit auxquels étaient associés des troubles sphinctériens vésicaux
+T53	disorder 4683 4688	anaux
+T54	disorder 4696 4712	troubles sexuels
+T55	disorder 4740 4765	état dépressif chronique 
+T56	irrelevant 4789 4966;4968 5032;5033 5072;5073 5113;5115 5143;5145 5166;5168 5184;5186 5217;5219 5241;5243 5261;5263 5286	Ce matériel est réservé à un usage privé ou d'enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l'objet d'une transaction commerciale.  Retrouver l'analyse des barrières de prévention (pdf - 20.40 Ko) Télecharger l'exercice (pdf - 28.46 Ko) Télécharger le jugement (pdf - 20.07 Ko)  A découvrir sur notre site :  Cas cliniques du mois  Revues de presse  Revues de questions thématiques  Voir toutes nos vidéos  Dossiers du risque  Nos offres de formation
+T57	irrelevant 1374 1497;1498 1585	lui répondait qu’il était surchargé mais lui donnait un rendez-vous pour 16h après s’être assuré qu’il pouvait se déplacer. A l’heure prévue, le patient se présentait au cabinet mais en raison de l’affluence, le
+T58	irrelevant 1599 1798	epoussait à 19h la consultation. A cette heure, le médecin recevait le patient qui était accompagné de son épouse (infirmière) «entre deux clients». Après l’avoir interrogé pour lui faire préciser la
+T59	irrelevant 2688 3148	Ce dernier aurait répondu : « Demain matin » ;. Une discussion aurait porté sur le lieu de l’hospitalisation : soit le CHU le plus proche (170 Km), soit un CHU situé au centre de Paris (230 Km) où le malade avait l’habitude de transporter un certain nombre de ses clients. Sans insister, le généraliste remettait la lettre d’hospitalisation au patient, pensant qu’il irait dès le lendemain au CHU parisien. Dans la nuit, vers 5 heures, le patient ressentait un
+T60	irrelevant 3612 3721	bligeant à un arrêt dans le service d’urgence d’un centre hospitalier situé sur le parcours pour pratiquer un

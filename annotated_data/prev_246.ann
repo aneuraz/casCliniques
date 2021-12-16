@@ -1,0 +1,78 @@
+T1	irrelevant 0 12;14 21	Cas clinique  18 juin
+T2	disorder 130 138	allergie
+T3	drugs 157 168	Pénicilline
+T4	disorder 172 190	troubles digestifs
+T5	drugs 208 217	AUGMENTIN
+T6	profession 269 287	médecin urgentiste
+T7	disorder 331 364	morsure de chat de la main gauche
+T8	disorder 366 486	Plaies multiples profondes sur la face dorsale et palmaire de la métacarpo-phalangienne des deuxième et troisième doigts
+T9	risk 488 515	Vaccin antitétanique à jour
+T10	procedure 536 548	désinfection
+T11	procedure 550 566	pansement simple
+T12	procedure 568 586	médicaments per os
+T13	drugs 590 602	antibiotique
+T14	drugs 619 629	PYOSTACINE
+T15	disorder 899 920	douleurs persistantes
+T16	profession 1103 1121	médecin urgentiste
+T17	disorder 1140 1188	Plaies de la main gauche suite à morsure de chat
+T18	risk 1190 1201	non vacciné
+T19	procedure 1244 1279	pansement Bétadiné et antibiotiques
+T20	disorder 1304 1364	Persistance d’inflammation diffuse autour des plaies minimes
+T21	procedure 1437 1455	pansement Bétadiné
+T22	procedure 1459 1482	mise du bras en écharpe
+T23	procedure 1498 1511	antibiotiques
+T24	procedure 1566 1591	vaccination antitétanique
+T25	disorder 1724 1754	irradiations dans l’avant-bras
+T26	profession 1913 1923	urgentiste
+T27	disorder 1937 2021	œdème de la main au niveau de l’articulation du deuxième doigt après morsure de chat
+T28	drugs 2077 2087	PYOSTACINE
+T29	profession 2110 2120	Plasticien
+T30	disorder 2266 2319	Plaies par morsure du premier rayon de la main gauche
+T31	disorder 2336 2361	phlegmon celluleux dorsal
+T32	procedure 2363 2371	Excision
+T33	drugs 2413 2423	PYOSTACINE
+T34	disorder 2521 2582	phlegmon celluleux dorsal du deuxième rayon de la main gauche
+T35	procedure 2584 2592	Excision
+T36	procedure 2634 2640	Lavage
+T37	procedure 2642 2658	Pansement simple
+T38	procedure 2862 2879	anesthésie locale
+T39	procedure 2909 2928	prélèvements locaux
+T40	disorder 2971 2979	douleurs
+T41	procedure 3124 3134	pansements
+T42	drugs 3155 3163	Bétadine
+T43	procedure 3221 3248	prélèvement bactériologique
+T44	drugs 3254 3269	antibiothérapie
+T45	drugs 3322 3330	CLAFORAN
+T46	drugs 3372 3383	DOXYCYCLINE
+T47	drugs 3455 3466	antalgiques
+T48	drugs 3473 3484	DOXYCYCLINE
+T49	disorder 3555 3563	douleurs
+T50	profession 3608 3620	dermatologue
+T51	drugs 3722 3730	Bétadine
+T52	drugs 3769 3776	LOCATOP
+T53	drugs 3780 3786	CYTEAL
+T54	procedure 3933 3946	radiographies
+T55	procedure 3988 4013	intervention chirurgicale
+T56	disorder 4044 4103	morsure de la paume et de la face dorsale de la main gauche
+T57	procedure 4105 4111	Lavage
+T58	procedure 4113 4157	libération du nerf digital et de l’extenseur
+T59	procedure 4159 4176	Parage des plaies
+T60	procedure 4178 4207	prélèvements bactériologiques
+T61	procedure 4209 4233	lavage à la face dorsale
+T62	procedure 4235 4265	Libération du tendon extenseur
+T63	procedure 4419 4448	Libération des nerfs digitaux
+T64	procedure 4688 4703	antibiothérapie
+T65	drugs 4725 4735	Polaramine
+T66	procedure 4768 4777	Pansement
+T67	procedure 4842 4854	prélèvements
+T68	labvalue 4894 4912	Streptococcus suis
+T69	drugs 4917 4927	PYOSTACINE
+T70	drugs 5058 5071	Tétracyclines
+T71	disorder 5288 5296	douleurs
+T72	disorder 5321 5326	œdème
+T73	procedure 5357 5368	échographie
+T74	disorder 5441 5451	lymphœdème
+T75	profession 5527 5537	chirurgien
+T76	disorder 5552 5559	raideur
+T77	disorder 5760 5782	goitre multi nodulaire
+T78	profession 5847 5857	chirurgien

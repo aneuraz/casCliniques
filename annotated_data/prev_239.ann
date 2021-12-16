@@ -1,0 +1,13 @@
+T1	irrelevant 0 12	Cas clinique
+T2	profession 91 110	médecin généraliste
+T3	profession 253 261	urologue
+T4	disorder 270 289	adénome prostatique
+T5	drugs 409 415	LARIAM
+T6	profession 434 441	médecin
+T7	procedure 610 629	examens biologiques
+T8	profession 923 930	médecin
+T9	profession 1059 1066	médecin
+T10	procedure 1246 1251	bilan
+T11	disorder 1353 1374	anomalies biologiques
+T12	profession 1625 1644	médecin généraliste
+T13	drugs 2942 2948	LARIAM

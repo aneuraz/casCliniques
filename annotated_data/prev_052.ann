@@ -1,0 +1,71 @@
+T1	profession 48 68	 médecin généraliste
+T2	disorder 78 90	hypertension
+T3	drugs 128 135	COTAREG
+T4	drugs 137 169	antagoniste de l’angiotensine II
+T5	drugs 173 183	diurétique
+T6	drugs 188 193	LODOZ
+T7	drugs 195 207	bêtabloquant
+T8	drugs 211 221	diurétique
+T9	irrelevant 223 324	permettant une bonne stabilisation tensionnelle. Pendant ses grossesses, elle n’était pas hypertendue
+T10	procedure 360 393	traitement substitutif thyroïdien
+T11	procedure 405 438	thyroïdectomie totale pour goitre
+T12	drugs 632 645	COTAREG-LODOZ
+T13	drugs 704 711	COTAREG
+T14	drugs 713 722	un sartan
+T15	irrelevant 646 699	sera poursuivi pendant toute la durée de sa grossesse
+T16	irrelevant 441 610	Mi-juin 2002, ces traitements sont en cours lors du début de sa quatrième grossesse ; son généraliste l’adresse alors immédiatement au centre hospitalier pour son suivi.
+T17	procedure 782 795	consultations
+T18	irrelevant 862 913	soit spontanément, soit à la demande du généraliste
+T19	profession 941 953	sages-femmes
+T20	irrelevant 967 1025	avec mention de l’avis d’un médecin senior à deux reprises
+T21	procedure 1083 1096	échographies 
+T22	profession 1120 1132	obstétricien
+T23	irrelevant 1154 1252	avec lequel elle aura à ces occasions un contact direct et qui la reverra avant son accouchement. 
+T24	disorder 1283 1300	algies pelviennes
+T25	disorder 1302 1308	mycose
+T26	disorder 1310 1320	colopathie
+T27	irrelevant 1322 1343	elle sera vue en août
+T28	irrelevant 1253 1281	Pendant le premier trimestre
+T29	drugs 1475 1480	LODOZ
+T30	drugs 1493 1500	COTAREG
+T31	profession 1603 1616	La sage-femme
+T32	irrelevant 1617 1658	vue entre-temps ne note pas le traitement
+T33	irrelevant 1661 1715	une seule fois sera mentionné en octobre le traitement
+T34	drugs 1715 1733	 antihypertenseur 
+T35	disorder 1805 1816	 des algies
+T36	procedure 1820 1846	’échographie morphologique
+T37	labvalue 1872 1881	 normale 
+T38	irrelevant 1895 1906	En décembre
+T39	irrelevant 1760 1804	La patiente consulte pour son suivi habituel
+T40	irrelevant 1909 1966	lle est hospitalisée pendant 24 heures pour non ressenti 
+T41	procedure 1998 2019	monitorage conseillé 
+T42	procedure 2089 2101	consultation
+T43	irrelevant 2102 2124	quinze jours plus tard
+T44	profession 2132 2150	médecin interniste
+T45	disorder 2195 2216	diabète gestationnel 
+T46	drugs 2243 2253	thyroïdien
+T47	drugs 2338 2344	LODOZ 
+T48	drugs 2347 2354	COTAREG
+T49	drugs 2419 2429	LEVOTHYROX
+T50	procedure 2397 2409	tri thérapie
+T51	irrelevant 2543 2705	Le traitement est renouvelé mensuellement par le généraliste qui reçoit régulièrement des courriers du centre hospitalier au sujet du déroulement de la grossesse.
+T52	irrelevant 2707 2815	A plusieurs reprises, au dernier trimestre, elle consulte pour une diminution des mouvements actifs du fœtus
+T53	procedure 2820 2850	 la surveillance échographique
+T54	procedure 2857 2864	doppler
+T55	labvalue 2870 2877	normaux
+T56	procedure 2882 2893	échographie
+T57	procedure 2943 2964	biométrie harmonieuse
+T58	disorder 3013 3050	doppler de l’artère ombilicale limite
+T59	disorder 2924 2936	oligoamnios,
+T60	procedure 3055 3066	échographie
+T61	disorder 3102 3156	liquide amniotique d’abondance inférieure à la normale
+T62	procedure 3249 3260	césarienne 
+T63	disorder 3342 3402	pneumothorax sur hypoplasie pulmonaire avec des petits reins
+T64	disorder 3404 3423	insuffisance rénale
+T65	disorder 3429 3465	etard d’ossification des os du crâne
+T66	disorder 3428 3466	retard d’ossification des os du crâne.
+T67	disorder 3521 3618	hypoplasie pulmonaire et rénale avec suspicion d’hypotonie axiale dans un contexte d’oligoamnios 
+T68	disorder 3648 3675	dysgénésie tubulaire rénale
+T69	drugs 3724 3730	sartan
+T70	irrelevant 3769 3884	l’alimentation est entérale. Le suivi est contraignant, émaillé d’hospitalisations multiples et l’avenir incertain.
+T71	disorder 3744 3766	retard staturo pondéra

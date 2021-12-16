@@ -1,0 +1,128 @@
+T1	disorder 65 94	douleurs épigastriques aiguës
+T2	disorder 109 118	diarrhée 
+T3	disorder 121 135	perte de poids
+T4	procedure 141 148	examens
+T5	disorder 163 181	angiœdème viscéral
+T6	procedure 196 206	histologie
+T7	disorder 227 243	maladie cœliaque
+T8	procedure 249 293	anticorps spécifiques de la maladie cœliaque
+T9	procedure 343 361	Anamnèse et statut
+T10	disorder 419 427	diarrhée
+T11	disorder 500 514	perte de poids
+T12	disorder 567 589	douleurs épigastriques
+T13	disorder 628 636	nausées 
+T14	disorder 642 654	vomissements
+T15	disorder 719 741	douleurs épigastriques
+T16	disorder 856 869	hypothyroïdie
+T17	drugs 871 892	lévothyroxine sodique
+T18	disorder 909 932	hypertension artérielle
+T19	drugs 934 944	olmésartan
+T20	disorder 994 1018	reflux gastro-œsophagien
+T21	drugs 1020 1032	pantoprazole
+T22	procedure 1058 1071	panendoscopie
+T23	procedure 1114 1122	biopsies
+T24	procedure 1130 1144	iléocoloscopie
+T25	disorder 1231 1252	hernie hiatale axiale
+T26	disorder 1261 1303	adénome tubulaire dans le côlon transverse
+T27	procedure 1360 1380	pression artérielle 
+T28	labvalue 1380 1392	125/78 mm Hg
+T29	procedure 1394 1399	pouls
+T30	labvalue 1400 1406	69/min
+T31	procedure 1408 1419	température
+T32	labvalue 1420 1427	36,5 °C
+T33	procedure 1434 1449	examen clinique
+T34	disorder 1453 1551	abdomen était souple, avec une légère douleur à la pression dans la partie supérieure de l’abdomen
+T35	disorder 1584 1602	bruits intestinaux
+T36	procedure 1605 1628	Résultats et diagnostic
+T37	procedure 1633 1653	bilan de laboratoire
+T38	disorder 1696 1707	leucocytose
+T39	labvalue 1711 1721	11 000 g/l
+T40	procedure 1735 1762	concentration d’hémoglobine
+T41	labvalue 1766 1773	184 g/l
+T42	procedure 1784 1818	numération sanguine différentielle
+T43	procedure 1876 1888	électrolytes
+T44	procedure 1890 1903	transaminases
+T45	procedure 1905 1925	phosphatase alcaline
+T46	procedure 1927 1960	créatinine et protéine C réactive
+T47	procedure 1962 1965	CRP
+T48	labvalue 1976 1983	normaux
+T49	procedure 1988 1999	échographie
+T50	disorder 2022 2111	anses de l’intestin grêle dilatées et remplies de liquide avec des mouvements pendulaires
+T51	disorder 2139 2158	 trouble du transit
+T52	procedure 2163 2180	tomodensitométrie
+T53	procedure 2182 2185	TDM
+T54	disorder 2243 2262	rétention gastrique
+T55	disorder 2275 2324	épaississement circulaire de la paroi du duodénum
+T56	procedure 2499 2516	Tomodensitométrie
+T57	disorder 2533 2580	épaississement circulaire de la paroi duodénale
+T58	procedure 2606 2624	 tryptase sérique 
+T59	labvalue 2630 2637	normale
+T60	procedure 2641 2658	examen des selles
+T61	procedure 2671 2698	taux accru de calprotectine
+T62	labvalue 2700 2710	1670 mg/kg
+T63	procedure 2742 2745	PCR
+T64	labvalue 2803 2810	normale
+T65	procedure 2830 2842	gastroscopie
+T66	disorder 2856 2885	muqueuse duodénale œdémateuse
+T67	procedure 2940 2943	TDM
+T68	procedure 2949 2957	biopsies
+T69	procedure 3009 3023	iléocoloscopie
+T70	procedure 3062 3072	Endoscopie
+T71	disorder 3078 3114	œdème prononcé de la paroi duodénale
+T72	procedure 3122 3135	entérographie
+T73	procedure 3190 3205	hospitalisation
+T74	procedure 3338 3359	biopsies colorectales
+T75	disorder 3393 3506	lymphocytose intra-épithéliale CD3+ se présentant en foyers a été retrouvée dans la muqueuse de l’antre gastrique
+T76	disorder 3535 3558	 gastrite lymphocytaire
+T77	procedure 3564 3583	biopsies duodénales
+T78	disorder 3599 3696	atrophie villositaire totale avec nette hyperplasie des cryptes et lymphocytose intra-épithéliale
+T79	disorder 3736 3789	Atrophie villositaire totale de la muqueuse duodénale
+T80	disorder 3795 3818	hyperplasie des cryptes
+T81	disorder 3855 3884	lymphocytose intraépithéliale
+T82	disorder 4061 4073	entéropathie
+T83	procedure 4117 4161	anticorps spécifiques de la maladie cœliaque
+T84	labvalue 4162 4170	négatifs
+T85	procedure 4178 4197	biopsies duodénales
+T86	labvalue 4198 4206	normales
+T87	procedure 4287 4295	anamnèse
+T88	drugs 4445 4455	olmésartan
+T89	drugs 4492 4502	olmésartan
+T90	disorder 4592 4614	douleurs épigastriques
+T91	disorder 4649 4656	nausées
+T92	disorder 4660 4672	vomissements
+T93	disorder 4674 4692	angiœdème viscéral
+T94	disorder 4700 4709	diarrhée 
+T95	disorder 4744 4759	perte de poids 
+T96	disorder 4760 4794	atrophie des villosités duodénales
+T97	disorder 4815 4827	entéropathie
+T98	procedure 4934 4944	Traitement
+T99	drugs 4961 4971	olmésartan
+T100	procedure 5016 5019	CRP
+T101	labvalue 5075 5082	31 mg/l
+T102	procedure 5101 5114	calprotectine
+T103	labvalue 5154 5164	119 mg/kg 
+T104	drugs 5206 5216	olmésartan
+T105	disorder 5237 5262	syndrome de malabsorption
+T106	disorder 5268 5328	carences en acide folique, en vitamine B12 et en vitamine D3
+T107	procedure 5354 5369	supplémentation
+T108	disorder 5400 5433	intolérance au lactose secondaire
+T109	procedure 5438 5462	régime pauvre en lactose
+T110	irrelevant 5598 6197	L’entéropathie apparentée à la sprue est un effet indésirable rare mais grave de l’antagoniste des récepteurs AT1 olmésartan. Sur le plan clinique, elle se caractérise par une diarrhée chronique avec perte de poids. Sur le plan histologique, des anomalies histopathologiques semblables à la sprue sont retrouvées dans la muqueuse duodénale. En 2013, la «US Food and Drug Administration» (FDA) a émis une mise en garde correspondante pour l’olmésartan dans le cadre de sa «Drug Safety Communication». Entre-temps, cette affection a également été observée sous d’autres sartans (tels que le valsartan)
+T111	irrelevant 6205 7851	’entéropathie apparentée à la sprue sous olmésartan a été décrite pour la première fois en 2012 dans une série de cas (la plus grande à ce jour) portant sur 22 patients [2]. La plupart des patients étaient déjà sous traitement par olmésartan depuis des mois voire des années avant l’apparition de la diarrhée. Tous souffraient depuis longtemps de diarrhée (durée médiane de 19 mois) et d’une perte de poids sévère. Les nausées, les vomissements, les douleurs abdominales, les ballonnements et la fatigue étaient d’autres symptômes fréquents. Plus de la moitié des patients ont dû être hospitalisés en ­raison des symptômes prononcés. Des anticorps spécifiques de la maladie cœliaque n’ont été mis en évidence chez aucun patient. A l’endoscopie, la muqueuse duodénale a été décrite comme normale, atrophique ou nodulaire, mais pas comme œdémateuse comme chez notre patient. Chez tous les participants à l’étude, les biopsies duodénales ont montré une atrophie villositaire, qui était totale dans la majorité des cas. Chez un tiers des patients, une bande de collagène épaisse a été constatée au niveau sous-épithélial. Une gastrite ou une colite lymphocytaire ou collagène supplémentaire a été mise en évidence chez une partie des patients. Sur le plan thérapeutique, les patients ne présentaient pas de réponse clinique à un régime sans gluten. L’arrêt de l’olmésartan a en revanche entraîné une disparition de la diarrhée et une prise de poids chez tous les participants. Sur le plan histologique, une récupération de la muqueuse duodénale a été mise en évidence dans pratiquement tous les cas, en moyenne huit mois après l’arrêt de l’olmésartan
+T112	disorder 7857 7865	diarrhée
+T113	disorder 7872 7886	perte de poids
+T114	disorder 7960 7978	atrophie duodénale
+T115	disorder 7998 8010	entéropathie
+T116	disorder 8059 8081	douleurs épigastriques
+T117	disorder 8087 8094	nausées
+T118	disorder 8102 8114	vomissements
+T119	risk 8207 8225	prise d’olmésartan
+T120	procedure 8302 8319	examen d’imagerie
+T121	disorder 8332 8364	gonflement de la paroi duodénale
+T122	drugs 8413 8423	olmésartan
+T123	disorder 8428 8446	angiœdème viscéral
+T124	disorder 8474 8489	douleurs aiguës
+T125	disorder 8493 8511	angiœdème viscéral
+T126	disorder 8748 8769	douleurs abdominales 
+T127	irrelevant 8778 10152	L’entéropathie apparentée à la sprue et l’angiœdème viscéral représentent ainsi deux effets indésirables rares des sartans. La présence des deux entités chez le même patient n’a, à notre connaissance, pas encore été décrite dans la littérature. Pourrait-il y avoir un lien physiopathologique entre le tableau aigu (angiœdème viscéral) et le tableau subaigu-chronique (entéropathie apparentée à la sprue)? En cas d’angiœdème viscéral ­induit par les antagonistes des récepteurs AT1, tout comme en cas d’angiœdème induit par les inhibiteurs de l’ECA, des concentrations sériques accrues de bradykinine sont mesurées. Celles-ci pourraient être causées par une stimulation des cellules endothéliales suite à une quantité accrue d’angiotensine II circulante [4]. Pour l’entéropathie apparentée à la sprue, les facteurs pathogéniques envisagés incluent un effet pro-apoptotique dû à une expression accrue des récepteurs AT2 à la surface cellulaire des entérocytes (qui sont activés par l’angiotensine II), une composante génétique (typage HLA-DQ2 fréquent), ainsi qu’un processus à médiation immunitaire (inhibition du «transforming growth factor beta») [2, 5]. Ainsi, dans les deux affections, l’angiotensine II semble être impliquée dans le pathomécanisme. Toutefois, il n’est pour l’heure pas possible de répondre à la question de savoir s’il existe un lien physiopathologique.
+T128	irrelevant 10154 10182;10184 10388;10390 10575;10577 10707;10709 10881;10883 11113	L’essentiel pour la pratique  • Dans de rares cas, l’olmésartan peut être responsable d’une entéropathie apparentée à la sprue. Etant donné que l’olmésartan est souvent utilisé, cette affection peut également se rencontrer au cabinet.  • L’entéropathie apparentée à la sprue peut survenir des mois voire des années après le début du traitement. Elle est caractérisée par une diarrhée chronique sévère avec perte de poids.  • Les anticorps spécifiques de la maladie cœliaque sont toutefois négatifs. Les patients ne répondent pas à un régime sans gluten.  • En cas de mise en évidence histologique d’une maladie cœliaque mais de sérologie négative, il convient de songer aux antagonistes des récepteurs AT1 comme cause possible.  • Un angiœdème viscéral devrait être pris en compte dans le diagnostic différentiel des douleurs abdominales aiguës. Il convient alors de songer aux inhibiteurs de l’ECA et aux antagonistes des récepteurs AT1 comme cause possible.

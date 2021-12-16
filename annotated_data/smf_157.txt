@@ -1,0 +1,84 @@
+Contexte
+
+L’entérite à salmonelles n’est pas rare dans la pratique quotidienne hospitalière et elle a le plus souvent une évolution banale. Malgré tout, les complications graves ne devraient pas être sous-estimées et en cas de suspicion de telles complications, des investigations supplémentaires devraient être initiées précocement.
+
+Présentation du cas
+Anamnèse
+
+Une patiente alerte de 90 ans s’est présentée en urgence dans un hôpital régional avec de la fièvre, des frissons et des vomissements, sans diarrhée concomitante. Une entérite à salmonelles a été identifiée comme cause de la détérioration fulminante de l’état général de la patiente, avec 4 hémocultures sur 4 positives pour Salmonella enterica subspecies enterica Serovar enteritidis, et l’antibiothérapie initiale par ceftriaxone a été délaissée au profit d’une antibiothérapie par ciprofloxacine sur la base de l’antibiogramme. Les coprocultures étaient négatives. Avec les mesures initiées, l’état clinique de la patiente s’est stabilisé, si bien qu’elle a pu être transférée dans une clinique gériatrique après une semaine. L’objectif était que la patiente puisse rentrer chez elle, où elle vivait jusqu’alors de façon autonome. Hormis une artériopathie oblitérante des membres inférieurs (AOMI), une hypertension artérielle et un tabagisme chronique (consommation cumulée de 75 paquets-années), d’autres antécédents médicaux n’étaient pas connus.
+
+Statut
+
+Lors de son admission à la clinique de gériatrie aiguë, la patiente était afébrile et dans un meilleur état général, mais tout de même encore très faible. A l’examen clinique, aucune anomalie majeure n’a été constatée; la pression artérielle était d’en moyenne 130/70 mm Hg et la fréquence du pouls était de 85/min. Sur le plan respiratoire, la patiente était bien compensée; elle renonçait actuellement à ses cinq cigarettes quotidiennes.
+
+Résultats
+
+Les analyses de laboratoire ont révélé une élévation de la CRP (172 mg/l) et une leucocytose (22 G/l) avec neutrophilie. La radiographie thoracique n’a pas montré d’infiltrats et les analyses urinaires étaient sans particularités. En raison d’une diarrhée ayant débuté après l’antibiothérapie, les selles ont été analysées à la recherche de la toxine de Clostridium (C.) difficile. Le test s’est révélé négatif.
+
+En raison d’une convalescence prolongée et d’une élévation persistante des paramètres inflammatoires malgré l’antibiothérapie adaptée à la situation de résistance de la patiente, nous avons décidé de réaliser une échographie abdominale. Cette dernière a montré un anévrisme aortique infrarénal mesurant 5,7 × 5 cm (fig. 1, 2). Nous n’avons pas pu exclure avec certitude la présence d’une membrane de dissection. Au niveau intra-abdominal, aucun signe de liquide libre n’a été retrouvé.
+
+Figure 1: Représentation échographique de l’anévrisme de l’aorte; un anévrisme mycotique de l’aorte (AMA) a été considéré comme diagnostic différentiel pour la première fois.
+
+Figure 2: L’échographie n’a pas permis d’exclure avec certitude une membrane de dissection chez la patiente à ce moment-là asymptomatique.
+
+A la tomodensitométrie (TDM) abdominale consécutive, une cause infectieuse de l’anévrisme a été suspectée en raison de l’aspect de champignon typique de la lésion anévrismale. Cette dernière mesurait près de 6 cm de diamètre.
+
+Diagnostic, traitement et évolution
+
+Le diagnostic d’anévrisme mycotique aortique (AMA) a ainsi été posé. Nous avons poursuivi l’antibiothérapie par ciprofloxacine, mais avons néanmoins planifié de prolonger la durée du traitement à au minimum six semaines en partant du principe que la patiente présentait non seulement une entérite à salmonelles mais également un AMA dû aux salmonelles.
+
+Les alternatives de la réparation chirurgicale ouverte et de la procédure endovasculaire («endovascular aneurysm repair» [EVAR]) nous ont paru excessives à ce moment-là chez la patiente stable d’âge avancé.
+
+Trois jours plus tard, la patiente s’est plainte après une défécation de douleurs abdominales de survenue soudaine, qui ont par la suite irradié dans le dos. Lors de l’examen de contrôle échographique de l’AMA, une croissance de plus de 5 mm a rapidement pu être visualisée. Une augmentation de la taille de l’anévrisme a également été confirmée à la TDM abdominale: il mesurait désormais 6,4 × 6 cm. Par ailleurs, aucune membrane de dissection n’a été identifiée (fig. 3). Toutefois, au vu de la présentation clinique, nous avons suspecté une rupture imminente.
+
+Figure 3: Tomodensitométrie abdominale avec produit de contraste (coupe axiale): documentation d’une augmentation de la taille de l’anévrisme mycotique aortique à court terme. L’image explique pourquoi l’anévrisme est qualifié de «mycotique»: les bosselures ayant l’aspect d’un champignon correspondent aux plaques aortiques dilatées par les salmonelles.
+
+La suite de la prise en charge a été discutée de façon interdisciplinaire avec les radiologues interventionnels, les infectiologues et les chirurgiens vasculaires de l’hôpital central. Une EVAR a été rejetée. Une reconstruction chirurgicale ouverte était la seule option thérapeutique restante.
+
+Devant choisir entre une intervention risquée et la poursuite de la procédure conservatrice avec une mort imminente probable, la patiente en pleine forme sur le plan mental a opté pour l’opération après s’être entretenue au téléphone avec son fils.
+
+Malgré un scepticisme initial, les chirurgiens vasculaires étaient prêts à recevoir la patiente encore le vendredi soir et à évaluer la possibilité d’une opération.
+
+Après un bilan cardiaque, qui a révélé une insuffisance mitrale et tricuspidienne légère à modérée et une insuffisance aortique modérée, la patiente a été opérée peu avant minuit.
+
+Après un débridement large, un tube en péricarde ­bovin préalablement confectionné par les chirurgiens vasculaires a été placé in situ. En intra-opératoire, la suspicion d’une rupture couverte de l’AMA s’est confirmée. L’ensemble de la veine cave présentait des altérations inflammatoires, mais a dû être laissée en place. Le duodénum était agglutiné à l’aorte sous l’effet de l’inflammation. L’intervention s’est déroulée sans complications. En particulier la circulation périphérique n’a été menacée à aucun moment malgré l’AOMI.
+
+La patiente a pu quitter l’unité de soins intensifs chirurgicaux dès le lendemain. Dans le service de soins réguliers, l’état général de la patiente s’est rapidement amélioré, si bien qu’elle a pu rejoindre la clinique de gériatrie. De retour en gériatrie, elle s’est rapidement passée du déambulateur et a montré une guérison rapide. Après deux semaines, elle a pu rentrer chez elle.
+
+Les biopsies intra-opératoires ont montré des altérations inflammatoires étendues semblables à des abcès et l’infection connue par Salmonella enterica subspecies enterica Serovar enteritidis a à nouveau été mise en évidence dans les cultures.
+
+L’antibiothérapie par ciprofloxacine déjà établie a été poursuivie. Les paramètres inflammatoires se sont normalisés au cours de l’hospitalisation. Au vu de l’âge de la patiente et du risque existant de persistance de l’infection, il a été décidé de mettre en œuvre un traitement par ciprofloxacine durant 12 semaines, puis de passer à une antibiothérapie suppressive à vie par cotrimoxazole.
+
+Comme ce fut déjà le cas immédiatement après l’intervention, l’évolution à long terme a également été très réjouissante et la patiente vit actuellement toujours de façon autonome chez elle. En raison de l’excellent état général de la patiente constaté lors d’une consultation d’infectiologie à l’hôpital central, l’antibiothérapie suppressive a été interrompue après six mois.
+
+Discussion
+
+L’anévrisme mycotique correspond à une dilatation destructrice ou une néoformation d’un anévrisme en raison d’une infection bactérienne. Il tire son nom de William Osler, qui l’a décrit pour la première fois en tant qu’inflammation vasculaire bactérienne ayant un aspect macroscopique de champignon [1]. Depuis lors, le nom historique porte néanmoins parfois à confusion, car la lésion bactérienne n’a aucun rapport avec une mycose.
+
+Concernant le pathomécanisme, il y a lieu de faire la distinction entre une dissémination bactérienne, des embolies septiques, la progression d’infections ­locales, ainsi que des mécanismes pathogéniques iatrogènes ou traumatiques. Au sens strict, le terme «anévrismes mycotiques» se limite aux anévrismes causés par des embolies septiques dans le cadre d’une endocardite bactérienne, mais il est communément utilisé pour désigner tous les anévrismes infectieux.
+
+Il est clair que le type de bactéries impliquées est largement déterminé par le mécanisme pathogénique. S’agissant des anévrismes mycotiques le long de l’aorte, les bactéries Staphylococcus aureus et Salmonella ssp. en sont les principales responsables. L’AMA représente uniquement 0,65–4% de tous les anévrismes de l’aorte.
+
+Sur le plan thérapeutique, une antibiothérapie est combinée à une intervention chirurgicale ou endovasculaire. En cas d’AMA dû aux salmonelles, il est possible de tenter une antibiothérapie seule, en particulier chez les sujets âgés ayant un risque opératoire élevé.
+
+Il demeure incontesté qu’une antibiothérapie est dans tous les cas nécessaire après le traitement aigu (opération ou EVAR). La durée exacte de l’antibiothérapie n’est pas connue et elle dépend de la prise en charge chirurgicale/endovasculaire. Dans la littérature, une durée d’au minimum six semaines est recommandée, tandis que dans les études de cas, cette durée est le plus souvent nettement plus longue. La mise en œuvre d’un traitement à vie, en particulier après EVAR, est sujette à controverse [2].
+
+Au cours des dernières années, la procédure endovasculaire a gagné en importance, y compris dans le cadre de l’AMA. Jusqu’alors, la réparation chirurgicale ouverte avec mise en place d’une greffe in situ ou pontage extra-anatomique était considérée comme le traitement de référence, car elle permet un débridement large contrairement à la mise en place d’un conduit ­directement dans le site infectieux en cas d’EVAR. Différentes études ont cependant aussi révélé un bon ­devenir à long terme en cas d’EVAR, même si sa supériorité par rapport à l’intervention chirurgicale n’a pas été démontrée [3]. Dans la mesure où jusqu’à 60% des AMA sont rompus de manière couverte ou franche lors de la première présentation, une EVAR peut également être utilisée comme solution transitoire d’urgence jusqu’à la réparation chirurgicale [4, 5]. D’une manière générale, l‘EVAR est associée à un plus faible risque ­peropératoire et elle peut également être pratiquée chez les patients polymorbides. Rétrospectivement, il s’est néanmoins avéré que les anévrismes rompus et la fièvre au moment de la réalisation de l‘EVAR conduisaient à des infections persistantes et donc à un plus mauvais devenir. L’état général actuel du patient et ses comorbidités sont dès lors décisifs pour le choix de la bonne méthode de traitement.
+
+Notre cas fait partie de ces AMA rares et il a été causé par la bactériémie à salmonelles. Environ 10% de tous les patients avec bactériémie à salmonelles développent une infection vasculaire, souvent sous forme d’anévrisme mycotique. Les salmonelles possèdent une adhérence particulière à l‘endothélium vasculaire, avant tout en cas d’altérations artériosclérotiques préexistantes.
+
+Les patients atteints d’un AMA se plaignent parfois de douleurs abdominales ou de maux de dos. La présentation est souvent non spécifique. En cas d’entérites à ­salmonelles, en particulier après une bactériémie, il convient de songer à une atteinte infectieuse de l’aorte face à une élévation persistante des paramètres inflammatoires.
+
+L’âge avancé combiné à une artériosclérose ainsi que les états d’immunosuppression sont considérés comme des facteurs prédisposants de l’AMA, en particulier dû à des salmonelles. Par conséquent, certains spécialistes préconisent d’allonger le traitement empirique d’une bactériémie à salmonelles à 4–6 semaines chez les patients présentant des facteurs de risque. D’une manière générale, un anévrisme de l’aorte infecté se comporte de manière agressive, croît rapidement et menace de se rompre. En cas de suspicion ­d’infection vasculaire, il convient dès lors d’initier précocement des investigations complémentaires.
+
+L’essentiel pour la pratique
+
+Même les entérites à salmonelles banales peuvent entraîner des complications lourdes de conséquences. C’est pourquoi les principes suivants s’appliquent:
+
+• En cas d’entérite à salmonelles préalable voire de bactériémie à salmonelles et de facteurs de risque (artériosclérose, âge avancé, immunosuppression) avec éventuellement en plus des symptômes abdominaux, il est recommandé de réaliser rapidement des examens d’imagerie (échographie/tomodensitométrie).
+
+• Le traitement repose sur une réparation chirurgicale ouverte ou une intervention endovasculaire (EVAR), toutes deux en association avec une antibiothérapie adaptée à la situation de résistance du patient. Chez les patients âgés avec anévrisme mycotique aortique dû à des salmonelles chez lesquels une intervention semble trop risquée, une antibiothérapie seule peut être envisagée.
+
+• Précisément parce qu’il n’existe pas de recommandation établie concernant l’antibiothérapie après une intervention (opération ou EVAR), la concertation entre le médecin de famille et le spécialiste est essentielle. Des contrôles réguliers chez le médecin de famille, en particulier pour vérifier l’observance et les effets indésirables et intolérances des antibiotiques, sont recommandés. En cas de détérioration de l’état du patient d’origine indéterminée, il convient toujours de songer à une infection persistante sur greffe.
+
+• Chez les patients âgés, il faut toujours tenir compte des facteurs physiques, cognitifs, psychiques et sociaux pour la prise de décision médicale, et pas uniquement de l’âge chronologique.

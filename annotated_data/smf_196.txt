@@ -1,0 +1,94 @@
+Présentation du cas
+Anamnèse
+
+Un patient âgé de 92 ans a été adressé au service des urgences en raison d’une syncope. Depuis quelques jours, il souffrait en outre d’une forte diarrhée aqueuse et de douleurs abdominales. Le jour de son admission, une syncope est finalement survenue lors de son passage aux toilettes.
+
+L’anamnèse personnelle comprenait une maladie coronarienne, une hypertension artérielle, une fibrillation auriculaire et une insuffisance rénale chronique (DFGe d’après CKD EPI à 50 ml/min, valeur normale >90ml/min). Plus de dix ans auparavant, une résection recto-sigmoïdienne avait par ailleurs été réalisée à des fins curatives en présence d’un carcinome sigmoïdien.
+
+Statut
+
+Le patient s’est présenté dans un état général réduit, avec des températures fébriles jusqu’à 38,5 °C, une pression artérielle de 162/87 mm Hg, un pouls s’élevant à 99/min et une fréquence respiratoire de 25/min. L’examen clinique a révélé un abdomen souple avec des bruits intestinaux intenses et une douleur à la pression diffuse et ubiquitaire sans péritonisme. Le reste du statut clinique était normal.
+
+Résultats
+
+Les analyses de laboratoire ont révélé un taux de protéine C-réactive (CRP) légèrement accru de 28 mg/l, des valeurs de rétention rénale légèrement accrues par rapport à la valeur de référence (créatinine à 130 mmol/l, correspondant à un DFGe de 41 ml/min), des transaminases accrues de façon minime, une créatine kinase (CK) de 741 U/l (valeur normale <190 UI/l) et une troponine T hypersensible de 99 ng/l (valeur normale <14 ng/l). La tomodensitométrie de l’abdomen n’a montré aucune anomalie. Une fibrillation auriculaire normocarde et des modifications antérolatérales du segment ST étaient reconnaissables à l’électrocardiogramme (ECG).
+
+Diagnostic, traitement et évolution
+
+Lors de l’évaluation primaire, la syncope a été évaluée comme orthostatique et l’augmentation de la CK considérée comme étant en rapport avec un traumatisme induit par le décubitus en l’absence de symptômes cardiaques. En présence d’une suspicion d’infection gastro-intestinale avec forte diarrhée, un traitement antibiotique empirique a été initié au vu du mauvais état général du patient. En raison d’une déshydratation et du taux accru de CK, il a en outre été veillé à une hydratation adéquate. Malgré tout, le taux de CK a consi­dérablement augmenté en cours d’évolution, pour ­atteindre 5536 U/l au bout de quatre heures et 14305 U/l le deuxième jour. Parallèlement, le taux de troponine est passé à 607 ng/l sans corrélation clinique correspondante, notamment en l’absence de douleurs thoraciques ou de dyspnée. Le volume administré a été augmenté suivant l’hypothèse de la présence d’une rhabdomyolyse. Cependant, la fonction rénale a continué de se détériorer jusqu’à un débit de filtration glomérulaire minimal de 18 ml/min.
+
+Par la suite, les cultures fécales datant du jour d’admission se sont révélées positive pour l’espèce productrice de toxines Clostridium difficile. Un passage du traitement antibiotique au métronidazole a par conséquent été entrepris; sous ce dernier, une rapide amélioration clinique a été observée. La fonction rénale s’est par la suite rétablie (DFGe à 35 ml/min à la sortie). Aucun facteur de risque d’une infection à clostridies, tel que traitement antibiotique préalable ou inhibiteurs de la pompe à protons, n’a pu être déterminé. Le patient est sorti exempt de symptômes. Lors d’une nouvelle hospitalisation six mois plus tard en raison d’une décompensation cardiaque, le patient a déclaré s’être bien ­rétabli de l’infection à clostridies, des symptômes cardiaques de type douleurs thoraciques n’étaient pas survenus.
+
+Discussion
+
+La rhabdomyolyse est une entité potentiellement fatale qui peut être déclenchée par une multitude de facteurs (tab. 1).
+
+Tableau1: Causes de la rhabdomyolyse.
+Traumatisme, compression, ischémie	Crush syndrome (syndrome de compression)
+Syndrome des loges
+Immobilisation prolongée (opération, perte de connaissance, torture)
+Accidents électriques par haute tension
+Brûlures du troisième degré
+Occlusions vasculaires
+Effort physique	Activité sportive excessive
+Crises convulsives
+Syndrome de sevrage alcoolique
+Agitation psychomotrice
+Infections	Influenza A et B, virus Coxsackie, EBV, CMV, HSV, VIH, virus parainfluenza, échovirus, adénovirus, virus du Nil occidental
+Légionnelles, klebsielles, salmonelles, streptocoques, ­Francisella tularensis, Staphylococcus aureus, leptospires, mycoplasmes, Escherichia coli, clostridies
+Malaria falciparum
+Infections fongiques
+Températures extrêmes	Coup de chaleur
+Hyperthermie maligne
+Syndrome neuroleptique malin
+Hypothermie
+Médicaments	Statines et fibrates
+Neuroleptiques
+Antidépresseurs
+Hypnotiques
+Anesthésiques
+et autres
+Toxines	Alcool
+Cocaïne, héroïne, amphétamines
+Venins de serpents et d’insectes
+Troubles métaboliques	Hypokaliémie
+Hypophosphatémie
+Hypocalcémie
+Hyponatrémie
+Acidocétose diabétique
+Hyperglycémie hyperosmolaire
+Hypothyroïdie et hyperthyroïdie
+Anomalies génétiques	Anomalie enzymatique relative à• glyco(géno)lyse• métabolisme des lipides• métabolisme des purines
+Déficit en myoadénylate désaminase
+et autres
+Maladies auto-immunes	Polymyosite
+Dermatomyosite
+Idiopathique	 
+
+Les déclencheurs pathogènes les plus souvent décrits sont les infections virales, principalement les virus de l’influenza A et B, suivis du virus de l’immunodéficience humaine (VIH), du virus Coxsackie et de divers virus Herpesviridae (virus d’Epstein-Barr [EBV], cytomégalovirus [CMV], virus de l’herpès simplex [HSV]). Le virus du Nil occidental est également discuté comme cause de plus en plus fréquente. Concernant les infections bactériennes, divers agents pathogènes sont observés, notamment les légionnelles, mycoplasmes et salmonelles. La malaria constitue par ailleurs une cause relevant de la médecine tropicale.
+
+La question de savoir si, chez notre patient, la rhab­domyolyse marquée était la conséquence directe de l’infection à clostridies ou si le supposé traumatisme induit par le décubitus a également joué un rôle sig­nificatif reste dans ce cas spéculative. Toutefois, l’anamnèse n’a fourni aucune indication de traumatisme induit par le décubitus prolongé après la syncope. Des rapports sur des infections à clostridies et le développement de rhabdomyolyses ont en outre été décrits dans les ouvrages de référence, même s’ils restent globalement rares [1–3].
+
+Sur le plan pathogénique, une rhabdomyolyse s’accompagne, au niveau myocellulaire, soit d’un dommage mécanique direct du sarcolemme (notamment après un traumatisme), soit de troubles fonctionnels au niveau des pompes ioniques myocytaires du fait d’une consommation accrue d’adénosine triphosphate (ATP). Le dysfonctionnement de ces pompes entraîne un afflux de calcium, une contraction musculaire persistante et une activité accrue des enzymes protéolytiques. De manière simpliste, ces processus provoquent finalement la désintégration de la cellule musculaire. En conséquence, du matériel endocellulaire est libéré dans le système circulatoire, et notamment de diverses enzymes (créatine kinase, transaminases, lactates déshydrogénases, aldolase), protéines (en particulier myoglobine) et électrolytes (potassium, phosphate) [1].
+
+Une hausse concomitante de la troponine – sans dommage myocardique visible ou sans signe clinique cardiaque – est observée dans jusqu’à 11–35% des cas selon diverses études [4]. Etant donné que la troponine est généralement considérée comme un biomarqueur cardiaque spécifique, une hausse de la troponine dans le cadre d’une rhabdomyolyse pose souvent des difficultés lors de l’interprétation clinique. Cela est particulièrement vrai en présence d’antécédents cardiaques ainsi que de modifications électrocardiographiques au moment de la présentation, comme dans le cas de notre patient. La cause de la hausse de troponine en présence d’une rhabdomyolyse est incertaine. Les causes possibles envisagées sont notamment un stress subendothélial dû à des contraintes répétées sur les parois (hypertension, tachycardie), un dommage toxique direct (par des substances endogènes, par exemple en cas de sepsis) et des virus cardiotropes [5]. Il nous semble important que ces patients ne soient pas soumis à une angiographie coronarienne en l’absence de signes cliniques, car le risque d’une néphropathie (exposition au produit de contraste) augmente. Sous hydratation – le pilier du traitement d’une rhabdomyolyse – les valeurs de troponine baissent [6].
+
+La présentation clinique classique de la rhabdomyolyse est caractérisée par des douleurs ou faiblesses musculaires et la survenue d’urine «couleur de thé noir». Toute­fois, il s’agit là d’une symptomatique non spécifique qui peut être présente dans des mesures différentes [1, 7]. La CK sérique et la myoglobine dans l’urine servent de marqueurs sensibles pour le diagnostic, bien que la myoglobine présente une demi-vie sérique très courte et ne soit en règle générale pas utilisée pour le diagnostic. Concernant la CK, il n’existe aucune ­valeur seuil nette («cut-off») pour le diagnostic. Une concentration de CK sérique cinq fois plus élevée que la limite normale supérieure est souvent utilisée [8]. Les principales complications incluent des déséquilibres électrolytiques potentiellement dangereux (hyperkaliémie, hypocalcémie), des troubles de la coagulation (par exemple coagulation intravasculaire disséminée) et une insuffisance rénale aiguë [7].
+
+Cette dernière est observée dans 13–50% des cas en fonction des ouvrages de référence. Sur le plan pathogénique, divers facteurs jouent alors un rôle important, notamment une déplétion volémique relative due au dépôt de liquide dans la musculature endommagée, une vasoconstriction intrarénale, une lésion directe et/ou ischémique des tubules et une obstruction tubulaire. La protéine musculaire myoglobine ­revêt une importance décisive. Elle provoque un dommage toxique direct dans les tubules proximaux et précipite, avec la protéine de Tamm-Horsfall, dans les tubules distaux. Ce processus est favorisé par une urine acidosique [2].
+
+Aucune corrélation directe entre la hausse de CK et le développement d’un trouble de la fonction rénale n’a jusqu’à présent pu être mise en évidence. En présence de valeurs de CK <15 000 U/l, il existe généralement un faible risque d’insuffisance rénale aiguë, bien que – comme dans notre cas – des troubles de la fonction ­rénale aient également été observés pour des valeurs inférieures en présence d’autres facteurs de risque (par exemple sepsis, déshydratation) [2, 8, 9]. Dans la plupart des cas, la fonction rénale se rétablit complètement par la suite [2].
+
+La gestion thérapeutique de la rhabdomyolyse fait ­l’objet de controverses. L’importance d’une substitution volumique précoce et agressive avec une solution saline isotonique, l’élimination des facteurs déclencheurs et la prévention ou le traitement rapide des complications font l’unanimité. L’état des données concernant l’alcalinisation de l’urine à l’aide de bicarbonate (pour empêcher une précipitation de la myoglobine), l’administration supplémentaire de mannitol (comme diurétique osmotique) ou l’administration de diurétiques de l’anse n’est pas univoque. A l’heure actuelle, il est donc impossible de tirer des conclusions définitives. Les déséquilibres électrolytiques en rapport avec une insuffisance rénale aiguë doivent être ­rapidement rectifiés, si nécessaire au moyen d’une ­hémodialyse temporaire [1, 2].
+
+L’essentiel pour la pratique
+
+• Une multitude de déclencheurs infectieux et non infectieux sont connus pour la rhabdomyolyse. Les clostridies sont rarement à l’origine d’une rhabdomyolyse. La question de savoir si, chez notre patient, elles ont agi comme déclencheur direct ou comme cofacteur du développement de la rhabdomyolyse reste en suspens.
+
+• En cas de rhabdomyolyse marquée, des valeurs de troponine positives peuvent être mesurées, mais ne doivent pas être interprétées comme un événement cardiaque aigu.
+
+• L’insuffisance rénale aiguë est une complication de la rhabdomyolyse; en présence de valeurs CK <15 000, elle est toutefois rarement observée (cofacteurs: sepsis, déshydratation, acidose).
+
+• Une substitution volumique précoce et généreuse joue un rôle central dans le traitement.
+
+• Dans la plupart des cas, les troubles de la fonction rénale en rapport avec une rhabdomyolyse se rétablissent.

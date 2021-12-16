@@ -1,0 +1,42 @@
+T1	profession 55 77	directeur d’entreprise
+T2	disorder 112 136	bouton rouge dans le dos
+T3	anatomy 503 508	pouce
+T4	anatomy 514 519	index
+T5	profession 735 754	médecin généraliste
+T6	profession 691 698	médecin
+T7	profession 1125 1137	dermatologue
+T8	profession 1214 1227	dermatologue 
+T9	profession 1383 1393	secrétaire
+T10	profession 1335 1347	dermatologue
+T11	profession 1287 1298	généraliste
+T12	profession 1830 1842	dermatologue
+T13	drugs 4973 4982	Nivolumab
+T14	drugs 4380 4390	Ipilimumab
+T15	drugs 3681 3689	Introna®
+T16	procedure 4008 4016	PET Scan
+T17	procedure 3345 3382	exérèse du foyer résiduel du mélanome
+T18	labvalue 3029 3225	"(...) Mélanome nodulaire du dos. Niveau de Clark : IV minimum. Indice de Breslow : 7 mm. Présence d'une ulcération. Activité mitotique : 7 mitoses par mm². Exérèse incomplète en profondeur (...)"
+T19	procedure 3004 3014	histologie
+T20	anatomy 4146 4158	poumon droit
+T21	anatomy 4163 4167	foie
+T22	anatomy 4175 4179	rate
+T23	anatomy 4187 4191	peau
+T24	anatomy 4224 4230	rachis
+T25	anatomy 4264 4280	6ème côte droite
+T26	anatomy 4264 4280	6ème côte droite
+T27	anatomy 4287 4299	cotyle droit
+T28	drugs 4587 4597	Ipilimumab
+T29	drugs 4614 4623	Nivolumab
+T30	anatomy 4782 4796	para-cervicale
+T31	drugs 4834 4845	antalgiques
+T32	procedure 4851 4859	scanners
+T33	drugs 5001 5015	chimiothérapie
+T34	drugs 5017 5028	Fotémustine
+T35	anatomy 4193 4205	thorax droit
+T36	anatomy 4207 4218	bras gauche
+T37	procedure 3536 3566	curage ganglionnaire axillaire
+T38	procedure 3496 3507	échographie
+T39	profession 2528 2539	ermatologue
+T40	profession 2581 2592	généraliste
+T41	procedure 2912 2929	anesthésie locale
+T42	profession 1544 1563	médecin du travail 

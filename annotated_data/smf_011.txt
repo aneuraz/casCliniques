@@ -1,0 +1,127 @@
+Présentation du cas
+
+Un patient de 26 ans, sportif et jusqu’alors en bonne santé, s’est présenté dans notre service des urgences. Il a signalé qu’il présentait un rhume, des maux de gorge et des nausées depuis trois jours. En plus, le patient se plaignait de céphalées à prédominance frontale, qui étaient nouvellement apparues et intenses. La prise de paracétamol et d’ibuprofène n’apportait pas un soulagement suffisant.
+
+A l’examen clinique, le patient était normotendu, normocarde et afébrile, avec une saturation en oxygène normale (SaO2 97%) en air ambiant. La minceur et la grande taille du patient étaient frappantes (taille 198 cm, poids 77 kg, indice de masse corporelle 19,6 kg/m2). Les bruits cardiaques étaient purs et rythmiques et l’auscultation pulmonaire a révélé un bruit respiratoire normal. Les analyses de laboratoire ont montré un hémogramme normal et uniquement une élévation minime de la protéine C réactive (CRP), qui était de 9,5 mg/l. Le taux de sodium sérique était de 135 mmol/l et se situait ainsi juste en-dessous de la valeur de référence (136–145 mmol/l).
+
+Au service des urgences, le patient a reçu 1 g de paracétamol par voie intraveineuse, suite à quoi il s’est senti mieux. Face à une suspicion d’infection des voies respiratoires d’origine virale, il a pu rentrer chez lui avec un traitement symptomatique (métamizole, ibuprofène, gouttes nasales de xylométazoline et Neocitran®).
+
+Trois jours plus tard, le patient est revenu dans notre service des urgences, car il souffrait à présent de fortes nausées accompagnées de vomissements, avec une persistance des maux de gorge, des courbatures et des céphalées intenses. En outre, il a signalé ne plus avoir d’appétit et se sentir globalement très faible.
+
+A l’examen clinique, le patient était à présent dans un état général très diminué (pression artérielle 180/96 mm Hg, pouls 97/min, SaO2 97% en air ambiant, température 36,5 °C, «Glasgow Coma Scale» 15). L’examen cardiopulmonaire était toujours sans particularités et il n’y avait initialement pas de déficits neurologiques focaux, à l’exception d’une hyperréflexie rotulienne et achilléenne bilatérale.
+
+En raison de l’état général diminué avec nausées et vomissements, des analyses de laboratoire de contrôle ont été réalisées. Celles-ci ont désormais révélé une hyponatrémie hypotonique euvolémique sévère avec une concentration de sodium de 113 mmol/l et une osmolalité de 251 mmol/kg (norme: sodium 136–145 mmol/l, osmolalité 280–295 mmol/kg), ainsi que la constellation d’un syndrome de sécrétion inappropriée d’hormone antidiurétique (SIADH) avec une concentration urinaire de sodium de 278 mmol/l et une osmolalité urinaire de 818 mmol/kg (norme: sodium urinaire 30–90 mmol/l, osmolalité urinaire 50–1200 mmol/kg). La créatinine sérique était normale et la CRP était uniquement légèrement augmentée (23 mg/l), avec une numération leucocytaire normale. L’hémogramme a en outre montré une thrombocytopénie discrète de 136 G/l (norme: 143–400 G/l) et une lymphocytopénie de 1,15 G/l (norme: 1,5–4,0 G/l), que nous avons interprétées comme étant d’origine infectieuse. A l’électrocardiogramme, le patient présentait un rythme sinusal normocarde (85/min) et un axe vertical, avec une dépolarisation et repolarisation normales.
+
+Question 1: Quel diagnostic différentiel initial est la cause la plus probable de l’hyponatrémie et devrait faire l’objet d’investigations supplémentaires en urgence?
+
+
+a) L’hyponatrémie est probablement d’origine infectieuse et une radiographie thoracique conventionnelle devrait être réalisée afin d’exclure une pneumonie.
+
+b) Au vu des céphalées frontales intenses d’apparition nouvelle avec nausées et vomissements et de la chute aiguë simultanée du sodium sérique, une genèse centrale de l’hyponatrémie est probable chez ce jeune patient et une imagerie cérébrale devrait être réalisée rapidement.
+
+c) Cette hyponatrémie est le plus probablement d’origine médicamenteuse.
+
+d) Compte tenu de la minceur prononcée du patient, cette hyponatrémie est le plus vraisemblablement due à une malnutrition et est renforcée par les vomissements.
+
+e) Il s’agit d’une pseudo-hyponatrémie, qui ne nécessite pas d’examens complémentaires.
+
+Une origine infectieuse de l’hyponatrémie est improbable au vu des manifestations cliniques évocatrices d’une infection virale, avec des bruits respiratoires normaux, une élévation uniquement discrète des paramètres inflammatoires et une absence de fièvre. De même, la diminution rapide du sodium sérique ne plaide pas en faveur d’une cause infectieuse de l’hyponatrémie, mais face à la constellation de SIADH, une radiographie thoracique conventionnelle devrait cependant être réalisée afin d’exclure un foyer rond ou un infiltrat pneumonique. Sur la base de l’anamnèse ayant révélé des céphalées frontales intenses d’apparition nouvelle, des nausées et des vomissements ainsi que de l’hyponatrémie aiguë sévère avec constellation de SIADH, une imagerie cérébrale en urgence (imagerie par résonance magnétique [IRM] cérébrale ou, si indisponible, tomodensitométrie [TDM]) est indiquée afin de rechercher rapidement une origine centrale aiguë de l’hyponatrémie. Les médicaments mentionnés ci-dessus ne sont pas des déclencheurs typiques d’une hyponatrémie. L’évolution aiguë de l’hyponatrémie n’est pas suggestive d’une origine nutritionnelle et une pseudo-hyponatrémie est généralement présente en cas d’hyperlipoprotéinémie, ce qui n’était pas connu chez le patient.
+
+Chez notre patient, des infiltrats et des processus expansifs pulmonaires ont pu être exclus à la radiographie thoracique conventionnelle.
+
+En raison de l’hyponatrémie sévère, nous avons opté pour une prise en charge stationnaire et le patient a initialement reçu au service des urgences une perfusion de 500 ml de solution saline (NaCl) 0,9% sur quatre heures, sachant que la constellation de SIADH n’était pas encore connue. Peu après, suite à une brève hyperventilation, le patient a soudainement été victime d’une crise épileptique partielle complexe avec déviation conjuguée des yeux à droite et myoclonies au niveau du bras droit, raison pour laquelle une TDM crânienne a été réalisée en urgence. Une hémorragie intracrânienne et une thrombose des sinus veineux ont pu être exclues. L’examen a cependant montré un élargissement osseux pathologique de la selle turcique, avec une hypophyse imposante (fig. 1A).
+
+Nous avons interprété la crise épileptique comme s’inscrivant dans le cadre de l’hyponatrémie hypotonique sévère, qui a probablement été renforcée par la perfusion initiale de NaCl 0,9%. Le patient a alors été admis en unité de soins intermédiaires et, compte tenu de la présence d’une constellation de SIADH, l’hyponatrémie a désormais été corrigée correctement au moyen d’une solution de NaCl 10% hypertonique (via un dispositif Perfusor) en faisant preuve de prudence (augmentation du sodium d’au maximum 0,5 mmol/heure), avec des contrôles toutes les heures de la valeur de sodium à la gazométrie artérielle. En outre, une restriction hydrique a été prescrite.
+
+La ponction lombaire et l’électroencéphalogramme (EEG) réalisés par la suite étaient sans particularités, si bien qu’une épilepsie a pu être exclue.
+
+Malgré ces mesures, le sodium sérique n’a pas pu être augmenté de façon adéquate. Compte tenu de l’hypophyse volumineuse qui avait été visualisée à la TDM crânienne, une IRM cérébrale a donc été réalisée en complément. En plus du net élargissement osseux de la selle turcique, cet examen a révélé une masse kystique intra- et supra-sellaire (17 × 13 × 16 mm), le plus vraisemblablement déjà présente depuis longtemps, avec un déplacement circonférentiel du tissu adénohypophysaire, compatible avec un macroadénome kystique sans prise de contraste centrale (fig. 1 B–C). La lésion présentait en outre des phénomènes de sédimentation centraux évocateurs d’une hémorragie subaiguë (fig. 1D).
+
+Figure 1: Clichés de tomodensitométrie (TDM) et d’imagerie par résonance magnétique (IRM) de la selle turcique. La TDM crânienne initialement réalisée (A) indique un déplacement crânial convexe du diaphragme sellaire (flèche blanche). Le tissu hypophysaire au sein de la selle turcique (ligne pointillée bleue dans A) ne peut pas être évalué de façon concluante en raison d’artéfacts de durcissement du faisceau dus aux os denses de la base du crâne. Un élargissement osseux pathologique de la selle turcique est cependant visible. L’IRM réalisée par la suite (B–D) montre un défaut de prise de contraste au sein de l’adénohypophyse (pointes de flèches dans B), avec un déplacement circonférentiel en périphérie du reste du tissu hypophysaire prenant le contraste, ce qui conduit à un rehaussement de la tige pituitaire (flèche dans B). Ce processus expansif ne prenant pas le contraste présente principalement des parties kystiques hyperintenses en T2 (pointes de flèches dans C). Le sinus caverneux (ligne pointillée bleue dans C) et en particulier l’artère carotide interne dans le segment caverneux (flèche dans C) ne sont pas infiltrés par le processus expansif. En séquence T1 native sans produit de contraste, le processus expansif montre des phénomènes de sédimentation centraux hyperintenses en T1 (pointes de flèches dans D), qui sont indicateurs d’une hémorragie subaiguë. Ce résultat est compatible avec un macroadénome hypophysaire principalement kystique avec hémorragies subaiguës, dont la croissance lente a entraîné un élargissement osseux de la selle turcique. Sur le plan purement morphologique, un kyste de Rathke serait un diagnostic différentiel possible.
+
+Question 2: Quelle analyse de laboratoire supplémentaire prescririez-vous à présent?
+
+
+a) Dosage du cortisol basal
+
+b) Dosage de la testostérone et de la prolactine
+
+c) Dosage de la thyréostimuline (TSH)
+
+d) Dosage de l’hormone lutéinisante (LH) et de l’hormone folliculostimulante (FSH), ainsi que de l’«insulin-like growth factor 1» (IGF-1)
+
+e) Dosage de toutes ces hormones
+
+Sur la base du résultat de l’IRM, un panhypopituitarisme doit être envisagé, raison pour laquelle le dosage de toutes ces hormones est indiqué.
+
+Les analyses de laboratoire ont révélé par la suite une faible valeur de cortisol basal de 8 nmol/l (norme: 133–537 nmol/l), indiquant la présence d’une insuffisance surrénalienne secondaire. Le patient présentait en outre une faible valeur de testostérone (0,09 nmol/l, norme: 8,6–29 nmol/l) et une faible valeur de prolactine (3,1 μg/l, norme: 4,0–15 μg/l) ainsi qu’une fT4 basse (7,5 pmol/l, norme: 13–21 pmol/l) avec une TSH normale, indiquant un panhypopituitarisme (insuffisance surrénalienne secondaire, hypothyroïdie centrale, hypogonadisme). De façon concordante, la LH et la FSH étaient également abaissées (LH 0,6 UI/l, norme: 1,7–8,6 UI/l; FSH 1,0 UI/l, norme: 1,5–12 UI/l). L’IGF-1 n’était pas augmenté, avec une valeur de 84,6 μg/l (norme: 94–271 μg/l), ce qui a permis d’exclure une acromégalie avec adénome.
+
+Question 3: Quel diagnostic définitif peut désormais être posé?
+
+
+a) Panhypopituitarisme suite à une hémorragie subaiguë avec insuffisance surrénalienne secondaire, hypothyroïdie centrale et hypogonadisme
+
+b) Hypothyroïdie centrale
+
+c) Hypogonadisme
+
+d) Infarctus hypophysaire
+
+e) Insuffisance surrénalienne primaire
+
+Le panhypopituitarisme était dû à la perturbation de l’axe hypophysaire suite à une hémorragie subaiguë dans le lobe antérieur de l’hypophyse dans le contexte d’un macroadénome kystique. Ainsi, le patient présentait aussi simultanément une insuffisance surrénalienne secondaire (pas primaire), une hypothyroïdie centrale et un hypogonadisme.
+
+Question 4: Quel traitement devrait à présent être initié?
+
+
+a) Perfusions de NaCl hypertonique
+
+b) Hydrocortisone à dose élevée
+
+c) Résection chirurgicale du macroadénome
+
+d) Attitude expectative
+
+e) Injections de testostérone
+
+L’hyponatrémie aiguë a été corrigée prudemment au moyen de perfusions de NaCl hypertonique. En raison du panhypopituitarisme, une substitution par hydrocortisone, par voie intraveineuse et à dose élevée en situation aiguë (au minimum 100 mg/jour en 2–3 doses), est cependant impérative. Une substitution par lévothyroxine (50 μg/jour) a en outre été initiée. Par la suite, une attitude expectative a été adoptée et la possibilité d’une résection chirurgicale du macroadénome a été évaluée. L’axe gonadique doit être réévalué ultérieurement, avec une substitution le cas échéant.
+
+Le patient était asymptomatique avec une persistance de valeurs normales d’électrolytes et il a pu quitter l’hôpital après une durée d’hospitalisation de sept jours au total. Le résultat de l’IRM a été discuté avec le neurochirurgien et il a été décidé d’adopter initialement une attitude expectative, avec des IRM de contrôle dans trois et sept mois. Par ailleurs, des contrôles de suivi ambulatoires chez l’endocrinologue tous les trois mois ont été convenus afin d’adapter le traitement de substitution.
+
+Par la suite, l’hydrocortisone a pu être réduite progressivement à 15 mg/jour sur une période de six semaines. Comme le patient était sportif de haut niveau, une dose de stress supplémentaire de 10–20 mg d’hydrocortisone p.o. avant un match a été prescrite en réserve. Concernant l’hypogonadisme, la testostérone s’est normalisée, il a été décidé d’adopter une attitude expectative et une substitution de la testostérone n’a pas été initiée.
+
+Question 5: Comment procéderiez-vous par la suite et comment jugez-vous le pronostic?
+
+
+a) La situation reste grave et la possibilité d’une opération devrait dès lors être réévaluée le plus tôt possible, suite à quoi le pronostic sera bon.
+
+b) Le pronostic est bon, une attitude expectative et des contrôles de suivi par IRM cérébrale sont justifiés.
+
+c) Des contrôles supplémentaires ne sont pas nécessaires, étant donné qu’une complication est déjà survenue.
+
+d) La substitution hormonale ne doit pas être poursuivie.
+
+e) Le pronostic est défavorable en raison du risque élevé de récidive.
+
+Le pronostic est globalement bon, mais il est néanmoins essentiel d’évaluer soigneusement un traitement conservateur versus chirurgical.
+
+Une attitude expectative est justifiée dans cette situation, mais des contrôles de suivi par IRM cérébrale sont néanmoins indiqués. La substitution hormonale doit impérativement être poursuivie durant cette période. En cas de contrôles de suivi appropriés, le risque de récidive est bien contrôlable.
+
+Le patient s’est senti en forme par la suite et il a pu reprendre sans restriction ses entraînements. Il a fait l’objet d’un contrôle de suivi par notre collègue neurochirurgien onze mois après le diagnostic initial. Une régression des anomalies a été observée à l’IRM cérébrale et il a encore été renoncé à un traitement chirurgical. Un contrôle de suivi supplémentaire par IRM cérébrale a été convenu dans 18 mois. Le patient se sentait bien et était asymptomatique.
+
+Discussion
+
+Nous décrivons une cause inhabituelle d’hyponatrémie, causée par une insuffisance surrénalienne secondaire consécutive à une hémorragie subaiguë d’un macroadénome hypophysaire. L’apoplexie hypophysaire est un syndrome globalement rare et elle concerne souvent des adénomes hypophysaires pas encore diagnostiqués. Elle se caractérise par une ischémie ou une hémorragie de l’hypophyse, qui évoluent souvent de façon parallèle. L’incidence de l’apoplexie hypophysaire dans le cadre d’un adénome hypophysaire préexistant est comprise entre 2 et 12% [1]. Les symptômes typiques incluent des céphalées intenses de survenue soudaine (nouvelles, intenses et frontales), des nausées et des vomissements, des troubles visuels, ainsi que des altérations de la vigilance [2]. L’apoplexie peut être la première manifestation d’un adénome hypophysaire [3]. Une hyponatrémie consécutive à une apoplexie hypophysaire est rare et peut dès lors être qualifiée de perle de la médecine d’urgence. Sur le plan physiopathologique, la cause de l’hyponatrémie réside dans l’hypocortisolisme dans le cadre de l’insuffisance surrénalienne secondaire et dans le SIADH suite à la régulation positive de la sécrétion d’hormone antidiurétique à partir de la neurohypophyse [4]. La concentration de sodium urinaire très élevée (278 mmol/l) pour un SIADH était probablement en plus due à une perte de sel d’origine cérébrale ou à l’alimentation. En situation suraiguë, il y a souvent uniquement une défaillance de l’axe du cortisol, ce qui est principalement responsable des symptômes.
+
+Un adénome hypophysaire peut déjà être suspecté à la TDM crânienne, mais l’IRM constitue l’examen de référence pour le diagnostic définitif [5]. La prise en charge de la maladie requiert une collaboration interdisciplinaire (médecine d’urgence, médecine interne, endocrinologie, neurochirurgie) et l’approche thérapeutique doit être déterminée individuellement et au cas par cas [1].
+
+L’hyponatrémie est un trouble électrolytique fréquent dans la pratique clinique quotidienne, son spectre symptomatique est large et la recherche de la cause constitue un défi sur le plan du diagnostic différentiel. Chaque hyponatrémie devrait être considérée et analysée de façon différenciée afin d’éviter des complications potentielles. Des symptômes surviennent souvent uniquement lorsque la concentration sérique de sodium est inférieure à 125 mmol/l (irritabilité, nausées, vomissements, céphalées, confusion) et ils nécessitent des investigations supplémentaires et un traitement en urgence.
+
+Comme le montre notre cas, face à une hyponatrémie avec survenue de céphalées intenses, de convulsions ou de déficits neurologiques, la réalisation en urgence d’une imagerie cérébrale (TDM ou mieux encore IRM, si disponible) est obligatoire afin d’évaluer rapidement une genèse centrale. En cas de diagnostic de suspicion d’apoplexie hypophysaire et au plus tard lors de la confirmation du diagnostic à l’IRM, l’administration d’hydrocortisone à dose élevée est impérative.
+
+L’hyponatrémie consécutive à une apoplexie hypophysaire est globalement rare, mais elle ne doit pas être manquée.
+
+Réponses:
+
+
+Question 1: b. Question 2: e. Question 3: a. Question 4: b. Question 5: b.

@@ -1,0 +1,48 @@
+Contexte
+
+Selon l’expérience, les douleurs épigastriques constituent un motif fréquent de consultation en soins de premier recours ainsi qu’au service des urgences. Les diagnostics différentiels sont nombreux et s’étendent de maladies relativement inoffensives à des affectations nécessitant un traitement immédiat. L’anamnèse joue un rôle essentiel aussi bien pour l’aiguillage que pour l’évaluation clinique. Au quotidien clinique, il n’est pas toujours possible de recueillir celle-ci de manière concluante, et ce pour diverses raisons telles que les barrières linguistiques, les handicaps cognitifs ou les problèmes d’audition. Nous présentons ici un cas de douleurs épigastriques pour lequel la barrière de la langue a probablement entraîné une complication évitable.
+
+Rapport de cas
+Anamnèse
+
+Un homme âgé de 48 ans, originaire du Sri Lanka et jusqu’alors sain, s’est présenté en urgence après le week-end dans notre policlinique universitaire de soins aigus en raison de douleurs épigastriques. Il a rapporté des symptômes survenus soudainement à la suite d’un repas copieux à base de poisson et de riz le samedi. Depuis, les douleurs mentionnées étaient ­particulièrement intenses lorsqu’il essayait de boire ou manger. Il lui était donc presque impossible de consommer quoi que ce soit. C’est pourquoi il s’était déjà présenté la veille au service d’urgence de médecine de premier recours, où un inhibiteur de la pompe à protons lui avait été prescrit comme traitement symptomatique. Etant donné que le patient ne pouvait toutefois avaler ni les comprimés, ni la nourriture en raison des fortes douleurs, il s’est présenté à notre policlinique de soins aigus. Au moment de la consultation, il était en mesure de boire douloureusement par petites gorgées. Il n’y a eu ni vomissement, ni régurgitation. La communication avec le patient était possible à un niveau rudimentaire en raison de la barrière linguistique. Toutefois, le patient acquiesçait poliment même lorsqu’il n’avait pas compris et ne fournissait des informations détaillées que lorsqu’il était interrogé explicitement (p. ex. il n’a pas raconté spontanément qu’il lui était impossible d’avaler des aliments, mais uniquement sur demande concrète).
+
+Résultats
+
+Lors de l’admission, le patient présentait un état général légèrement réduit en raison des douleurs et un état nutritionnel d’embonpoint, son système circulatoire était stable avec une pression artérielle de 123/95 mm Hg et un pouls de 87/min., en l’absence de fièvre et avec une température auriculaire de 37,1 °C. L’abdomen était souple avec douleur à la pression au niveau de l’épigastre et bruits intestinaux normaux.
+
+Les analyses de laboratoire ont révélé un hémogramme normal ainsi qu’un taux accru de protéine C réactive de 94 mg/l (CRP; valeur normale <10 mg/l). Les autres paramètres biochimiques (valeurs hépatiques, rénales, électrolytes) étaient normaux.
+
+Evaluation et évolution
+
+Au vu de l’anamnèse et des résultats, nous avons supposé la présence d’une arête de poisson dans l’œsophage et initié en urgence une gastroscopie. Celle-ci a révélé une mâchoire inférieure complète de poisson de 3 × 3 cm, dents incluses, coincée dans l’œsophage distal, qui a pu être récupérée dans sa totalité (fig. 1).
+
+Figure 1: A)Résultat endoscopique de la mâchoire de poisson de 3 × 3 cm dans l’œsophage distal.B/C) Mâchoire de poisson complète après extraction.
+
+En raison des paramètres d’inflammation nettement accrus et de la mise en évidence d’érosions/ulcérations dans l’œsophage, une tomodensitométrie (TDM) thoracique a été réalisée après l’intervention. Celle-ci a révélé une collection d’abcès à proximité de l’œsophage distal du côté droit (3,6 cm × 2,0 cm × 5,9 cm) ainsi qu’un épaississement inflammatoire de la paroi de l’œsophage distal (fig. 2 et 3, flèches rouges ou A).
+
+Figure 2: Tomodensitométrie (coupe coronaire) au niveau de l’œsophage distal à la paroi épaissie avec abcès latéralement adjacent à droite (flèches rouges) et inclusions de gaz.
+
+Figure 3: Tomodensitométrie (coupe axiale) au niveau de l’œsophage distal (Œ) avec ­collection d’abcès latéralement adjacente à droite (A).
+
+En conséquence, le patient a développé par la suite une fièvre approchant 40 °C. Il a été admis en stationnaire pour un traitement intraveineux par 4,5 g de pipéracilline/tazobactam trois fois par jour. En présence d’une réponse clinique favorable, il a été possible de passer ensuite à un traitement oral par 875/125 mg d’amoxicilline/acide clavulanique trois fois par jour pendant encore deux semaines. Sous ce traitement, la collection d’abcès ainsi que la fièvre, les paramètres d’inflammation et les douleurs ont subséquemment régressé. Au bout de huit jours, le patient a pu rentrer chez lui dans un meilleur état avec le diagnostic final d’un abcès para-œsophagien en présence d’une mâchoire de poisson logée dans l’œsophage distal.
+
+L’entretien rétrospectif n’a pas non plus permis de déterminer comment le patient a pu avaler sans s’en rendre compte une mâchoire de poisson de 3 × 3 cm, dents incluses. Le curry de poisson est un plat traditionnel apprécié dans le sud de l’Inde, au Sri Lanka et à Singapour. Le patient a rapporté avoir préparé un curry à base de red emperor snapper, un poisson d’une taille de 60–90 cm, qui doit son nom à ses canines acérées. Même en connaissance de la nature du corps étranger, le patient n’a pas pu se rappeler avoir remarquer quelque chose de particulier en mâchant et en avalant. Par précaution, il veillera à l’avenir à mâcher plus soigneusement.
+
+Discussion
+
+Même un symptôme apparemment évident (douleurs épigastriques liées à des aliments) nécessite une anamnèse ciblée afin de parvenir à un diagnostic correct et d’éviter des complications. Les arêtes de poissons ou autres fragments d’os coincés dans l’œsophage sont considérés comme des urgences [5] et doivent être retirés au plus vite [2, 4], car ils entraînent une perforation au niveau du tractus gastro-intestinal dans 15–35% des cas [3, 4]. Le risque de complications graves (lacération, ulcération, pénétration de la paroi œsophagienne) provoquant une infection et la destruction des tissus voisins [1, 2] augmente fortement avec le temps et dépend du type et de la taille des arêtes ou de l’os de poisson.
+
+L’abcès médiastinal aurait probablement pu être évité au patient si la gastroscopie avait été réalisée plus tôt.
+
+L’essentiel pour la pratique
+
+• Les fortes douleurs liées à la nourriture ou encore les difficultés lors de l’ingestion d’aliments solides et/ou liquides – en particulier après consommation de poisson – doivent être examinées au plus vite.
+
+• En particulier chez les patients de langue étrangère ou les patients issus d’une autre culture, l’anamnèse doit être organisée proactivement de manière à examiner/exclure tous les «red flags».
+
+• Une tomodensitométrie native doit toujours avoir lieu en présence d’une suspicion clinique d’impaction d’arête ou d’os afin de localiser ou d’identifier les éventuelles complications.
+
+• L’extraction retardée de corps étrangers tels que les arêtes de poisson ou autres fragments osseux dans l’œsophage présente un risque de perforation de la paroi œsophagienne et d’infection et destruction des tissus voisins.
+
+• Il convient donc de viser l’extraction endoscopique d’urgence de tels corps étrangers.

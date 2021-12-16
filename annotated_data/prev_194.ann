@@ -1,0 +1,33 @@
+T1	profession 35 44	ingénieur
+T2	disorder 130 140	lombalgies
+T3	risk 221 252	 soulèvement de charges lourdes
+T4	disorder 299 307	douleurs
+T5	disorder 395 403	douleurs
+T6	disorder 534 542	suicider
+T7	disorder 737 768	ggravation récente des douleurs
+T8	drugs 803 809	Klipal
+T9	drugs 810 817	Codéine
+T10	drugs 867 874	Laroxyl
+T11	disorder 982 1004	 velléités suicidaires
+T12	disorder 1392 1409	Lombalgies basses
+T13	disorder 1463 1476	radiculalgies
+T14	disorder 1632 1656	lombalgies basses L5 S1 
+T15	disorder 1660 1690	 contractures para-vertébrales
+T16	disorder 1698 1723	 déficit sensitivo-moteur
+T17	procedure 1748 1760	Radiographie
+T18	disorder 1820 1847	 arthrose interapophysaire 
+T19	disorder 1799 1819	discopathies étagées
+T20	drugs 1879 1887	Tramadol
+T21	drugs 1897 1905	Profénid
+T22	drugs 1916 1927	Paracétamol
+T23	drugs 1936 1943	Inexium
+T24	drugs 1951 1957	Valium
+T25	procedure 2022 2039	ceinture lombaire
+T26	procedure 2056 2070	kinésithérapie
+T27	drugs 2585 2595	Biprofenid
+T28	drugs 2597 2605	Tramadol
+T29	drugs 2607 2614	Inexium
+T30	drugs 2618 2624	Miorel
+T31	disorder 2799 2807	suicider
+T32	disorder 3054 3062	suicider
+T33	drugs 3265 3273	Cymbalta

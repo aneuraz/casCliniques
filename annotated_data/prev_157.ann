@@ -1,0 +1,93 @@
+T1	profession 43 50	ouvrier
+T2	profession 51 64	métallurgiste
+T3	disorder 77 94	 lésion pigmentée
+T4	disorder 98 105	ulcérée
+T5	profession 136 152	médecin traitant
+T6	profession 173 185	dermatologue
+T7	profession 219 229	chirurgien
+T8	disorder 248 255	 lésion
+T9	profession 289 305	médecin traitant
+T10	procedure 323 332	l'exérèse
+T11	disorder 339 345	lésion
+T12	procedure 372 389	anesthésie locale
+T13	profession 409 419	chirurgien
+T14	profession 458 470	dermatologue
+T15	profession 502 512	chirurgien
+T16	profession 516 532	médecin traitant
+T17	procedure 555 567	soins locaux
+T18	profession 604 616	dermatologue
+T19	profession 640 660	anatomo-pathologiste
+T20	disorder 696 723	Prolifération mélanocytaire
+T21	disorder 734 741	ulcérée
+T22	disorder 745 754	enflammée
+T23	procedure 787 796	L'exérèse
+T24	profession 856 867	spécialiste
+T25	profession 997 1018	anatomo-pathologiste 
+T26	profession 1039 1049	chirurgien
+T27	profession 1054 1066	dermatologue
+T28	profession 1073 1089	médecin traitant
+T29	profession 1106 1120	médecin du CHU
+T30	profession 1186 1206	anatomo-pathologiste
+T31	procedure 1262 1269	biopsie
+T32	profession 1384 1396	dermatologue
+T33	procedure 1509 1523	l’intervention
+T34	profession 1760 1776	médecin traitant
+T35	disorder 1838 1854	lésion nodulaire
+T36	disorder 1921 1934	inflammatoire
+T37	profession 1995 2007	dermatologue
+T38	profession 2053 2063	chirurgien
+T39	procedure 2091 2100	l'exérèse
+T40	disorder 2106 2119	kyste violacé
+T41	profession 2289 2299	chirurgien
+T42	profession 2311 2323	dermatologue
+T43	procedure 2352 2361	l'exérèse
+T44	disorder 2368 2383	lésion kystique
+T45	disorder 2439 2450	tumeur dure
+T46	disorder 2452 2465	bourgeonnante
+T47	procedure 2548 2556	'analyse
+T48	disorder 2598 2606	mélanome
+T49	procedure 2660 2668	ablation
+T50	disorder 2675 2718	tumeur cutanée dorsale ulcérée et enflammée
+T51	procedure 2827 2836	L'exérèse
+T52	procedure 2879 2891	intervention
+T53	profession 2895 2915	anatomo-pathologiste
+T54	disorder 2965 2973	mélanome
+T55	disorder 3034 3059	mélanome nodulaire ulcéré
+T56	procedure 3064 3080	ndice de Breslow
+T57	labvalue 3081 3097	dépassant 4,6 mm
+T58	labvalue 3107 3132	activité mitotique élevée
+T59	disorder 3198 3206	mélanome
+T60	procedure 3139 3150	prélèvement
+T61	procedure 3297 3308	TEP-scanner
+T62	procedure 3362 3373	prélèvement
+T63	disorder 3402 3461	Adénopathies rétro-pectorales droites et axillaires droites
+T64	disorder 3494 3525	Petit ganglion axillaire gauche
+T65	disorder 3559 3577	d'hypermétabolisme
+T66	disorder 3620 3642	foyer hypermétabolique
+T67	disorder 3742 3754	adénopathies
+T68	disorder 3835 3851	hypermétabolique
+T69	disorder 3915 3933	d'hypermétabolisme
+T70	disorder 4022 4049	masse cutanéo-sous cutanée 
+T71	disorder 4116 4134	nodule sous cutané
+T72	disorder 4205 4234	infiltration hypermétabolique
+T73	procedure 4321 4343	curage axillaire droit
+T74	procedure 4345 4377	résection de la lésion mélanique
+T75	disorder 4457 4475	nodules satellites
+T76	procedure 4477 4499	Curage inguinal gauche
+T77	procedure 4531 4542	Laparotomie
+T78	procedure 4548 4562	curage iliaque
+T79	procedure 4624 4638	greffe de peau
+T80	procedure 4669 4678	résection
+T81	procedure 4839 4852	radiothérapie
+T82	procedure 4883 4906	curage axillaire droit 
+T83	disorder 4908 4929	ganglion métastatique
+T84	disorder 5036 5061	récidive axillaire gauche
+T85	procedure 5080 5103	curage axillaire gauche
+T86	disorder 5142 5170	adénopathie axillaire gauche
+T87	disorder 5180 5188	tumorale
+T88	disorder 5194 5225	infiltration péri-ganglionnaire
+T89	procedure 5379 5394	examen clinique
+T90	labvalue 5399 5405	normal
+T91	disorder 5421 5442	lymphœdème symétrique
+T92	procedure 5508 5516	PET-Scan
+T93	labvalue 5519 5545	absence de lésion suspecte

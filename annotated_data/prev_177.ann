@@ -1,0 +1,37 @@
+T1	disorder 301 323	 plaie du cuir chevelu
+T2	disorder 331 367	douleur au niveau de l’épaule gauche
+T3	disorder 474 511	arythmie par fibrillation auriculaire
+T4	disorder 517 540	hypertension artérielle
+T5	disorder 546 583	insuffisance rénale chronique modérée
+T6	disorder 589 625	hypertrophie bénigne de la prostate 
+T7	disorder 632 648	anémie chronique
+T8	disorder 704 713	céphalées
+T9	disorder 720 738	douleur à l’épaule
+T10	procedure 780 805	paramètres hémodynamiques
+T11	labvalue 811 818	stables
+T12	procedure 852 871	le score de Glasgow
+T13	labvalue 883 885	15
+T14	labvalue 934 940	10g/dL
+T15	labvalue 957 965	60 ml/mn
+T16	labvalue 1018 1025	normale
+T17	procedure 972 986	dosage des CPK
+T18	procedure 946 949	DFG
+T19	disorder 926 932	anémie
+T20	procedure 1031 1044	radiographies
+T21	disorder 1069 1100	fracture de la clavicule gauche
+T22	procedure 1105 1121	scanner cérébral
+T23	drugs 1287 1299	Rivaroxaban®
+T24	drugs 1325 1336	Bumetanide®
+T25	drugs 1361 1371	Nebivolol®
+T26	drugs 1398 1409	Silodosine®
+T27	drugs 1439 1451	Finasteride®
+T28	drugs 1701 1710	apixaban®
+T29	drugs 1778 1792	anticoagulants
+T30	profession 1965 1976	pharmaciens
+T31	profession 2019 2030	 pharmacien
+T32	drugs 2077 2091	anticoagulants
+T33	disorder 2125 2151	saignement dans les selles
+T34	drugs 2197 2209	rivaroxaban®
+T35	drugs 2215 2224	apixaban®
+T36	procedure 2230 2250	endoscopie digestive
+T37	disorder 2330 2344	polype colique

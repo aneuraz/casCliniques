@@ -1,0 +1,30 @@
+T1	profession 88 97	tabagisme
+T2	disorder 110 130	allergie aux pollens
+T3	disorder 145 178	douleurs basi thoraciques droites
+T4	disorder 212 220	asthénie
+T5	procedure 314 345	désensibilisation aux graminées
+T6	disorder 350 368	douleur thoracique
+T7	disorder 558 565	douleur
+T8	disorder 610 632	pathologie vésiculaire
+T9	procedure 684 702	analyses sanguines
+T10	procedure 752 774	échographie abdominale
+T11	disorder 793 807	kyste biliaire
+T12	procedure 968 991	radiographie thoracique
+T13	drugs 1007 1011	AINS
+T14	drugs 1015 1026	myorelaxant
+T15	procedure 1065 1088	radiographie thoracique
+T16	procedure 1810 1818	imagerie
+T17	disorder 1841 1892	dilatation et d’épaississement du ventricule gauche
+T18	disorder 2528 2550	douloureuse thoracique
+T19	disorder 3782 3800	douleur thoracique
+T20	procedure 4219 4242	radiographie thoracique
+T21	procedure 4250 4257	scanner
+T22	disorder 4287 4302	douleur dorsale
+T23	disorder 4478 4500	douleurs intercostales
+T24	procedure 4518 4541	radiographie thoracique
+T25	drugs 4549 4560	antalgiques
+T26	drugs 4570 4574	AINS
+T27	procedure 4597 4609	radiographie
+T28	disorder 5010 5025	arrêt cardiaque
+T29	disorder 5146 5161	arrêt cardiaque
+T30	disorder 5187 5206	mydriase bilatérale

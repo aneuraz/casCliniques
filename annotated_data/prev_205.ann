@@ -1,0 +1,86 @@
+T1	procedure 79 89	coloscopie
+T2	disorder 99 111	rectorragies
+T3	disorder 140 183	un cancer de la jonction recto-sigmoïdienne
+T4	disorder 203 228	 tumeur circonférentielle
+T5	procedure 264 273	endoscope
+T6	procedure 321 331	histologie
+T7	disorder 344 373	adénocarcinome lieberkuhnien 
+T8	procedure 496 517	écho-endoscopie anale
+T9	disorder 533 539	tumeur
+T10	procedure 717 745	TDM thoraco-abdomino-pelvien
+T11	procedure 914 961	 protocole radio-chimiothérapique préopératoire
+T12	disorder 1089 1101	rectorragies
+T13	procedure 1117 1155	transfusion de deux culots globulaires
+T14	procedure 1160 1186	fibroscopie oeso-gastrique
+T15	disorder 1277 1300	déséquilibre du diabéte
+T16	disorder 1302 1315	hyperglycémie
+T17	labvalue 1317 1323	 4 g/l
+T18	procedure 1325 1344	hémoglobine glyquée
+T19	labvalue 1347 1352	8,5 %
+T20	procedure 1438 1446	glycémie
+T21	labvalue 1458 1466	4,30 g/l
+T22	procedure 1616 1627	laparotomie
+T23	disorder 1664 1690	saignements peropératoires
+T24	disorder 1702 1722	varices épiploïques 
+T25	disorder 1731 1763	hypertension portale cirrhotique
+T26	disorder 1785 1791	ascite
+T27	disorder 2034 2078	selles apparaissaient au niveau de la stomie
+T28	disorder 2125 2164	lames de drainage d’un liquide d’ascite
+T29	disorder 2217 2248	cicatrice de stomie se désunie 
+T30	disorder 2253 2305	passage de matières fécales dans la paroi abdominale
+T31	drugs 2424 2435	Stomahésive
+T32	procedure 2374 2423	 colmatage » de la brèche stomiale par de la pâte
+T33	disorder 2484 2492	cirrhose
+T34	disorder 2509 2523	hémochromatose
+T35	risk 2529 2549	alcoolisme chronique
+T36	disorder 2553 2584	 diabète non-insulino-dépendant
+T37	disorder 2589 2614	 hypertension artérielle,
+T38	disorder 2618 2626	surpoids
+T39	drugs 2682 2691	Diamicron
+T40	drugs 2694 2699	Lodoz
+T41	drugs 2702 2710	Kardégic
+T42	procedure 3038 3062	 anastomose colo-rectale
+T43	procedure 3121 3164	colostomie transverse latérale sur baguette
+T44	procedure 3168 3195	examen anatomo-pathologique
+T45	disorder 3210 3240	adénocarcinome circonférentiel
+T46	disorder 3268 3285	ulcéré et perforé
+T47	disorder 3366 3385	embols lymphatiques
+T48	disorder 3387 3412	engainements péri-nerveux
+T49	procedure 3695 3707	hémocultures
+T50	labvalue 3708 3716	stériles
+T51	procedure 3838 3892	ablation de la sonde gastrique et de la sonde urinaire
+T52	disorder 3965 3982	écoulement fécal 
+T53	drugs 4116 4125	Augmentin
+T54	drugs 4131 4141	Gentalline
+T55	disorder 4226 4250	 surinfection pariétale 
+T56	disorder 4259 4280	désunion de la stomie
+T57	labvalue 4819 4844	Fusobactérium Mortiferium
+T58	procedure 4853 4864	hémoculture
+T59	disorder 4951 4984	violentes douleurs du flanc droit
+T60	disorder 5004 5011	fébrile
+T61	procedure 5219 5230	Leucocytose
+T62	labvalue 5232 5244	22 000 /mm3.
+T63	disorder 5145 5155	dyspnéique
+T64	disorder 5159 5169	tachycarde
+T65	disorder 5424 5432	décédait
+T66	drugs 5606 5614	Tramadol
+T67	disorder 5850 5857	Malaise
+T68	disorder 5863 5874	tachycardie
+T69	disorder 5878 5889	hypotension
+T70	disorder 5891 5900	Fistulisé
+T71	procedure 5957 5968	Leucocytose
+T72	labvalue 5970 5981	13 000 /mm3
+T73	procedure 6115 6127	Hémocultures
+T74	disorder 6557 6563	abcès 
+T75	procedure 6761 6789	TDM thoraco-abdomino-pelvien
+T76	disorder 6806 6877	 épanchement intrapéritonéal,périhépatique, périsplénique et interanses
+T77	disorder 6905 6929	collection hydro-aérique
+T78	disorder 6981 7020	 aspect épaissi de la paroi du sigmoïde
+T79	disorder 7022 7042	Pneumatose pariétale
+T80	disorder 7102 7111	aérobilie
+T81	disorder 7134 7180	 condensation pulmonaire postéro-basale droite
+T82	disorder 7184 7222	micronodules parenchymateux bilatéraux
+T83	procedure 7398 7401	TDM
+T84	procedure 7405 7425	sonde nasogastrique 
+T85	drugs 7510 7516	Tienam
+T86	drugs 7521 7528	Amiklin

@@ -1,0 +1,69 @@
+T1	procedure 39 82	rétablissement de la continuité intestinale
+T2	disorder 129 155	diverticulite sigmoïdienne
+T3	disorder 283 306	fistule de l’anastomose
+T4	procedure 359 378	opération d’Hartman
+T5	procedure 401 420	 colostomie gauche.
+T6	procedure 508 539	rétablissement de la continuité
+T7	profession 481 491	chirurgien
+T8	procedure 570 598	consultation préanesthésique
+T9	risk 621 628	obésité
+T10	disorder 672 691	BPCO post-tabagique
+T11	disorder 700 723	 antécédent de phlébite
+T12	profession 888 898	chirurgien
+T13	procedure 942 964	anastomose colorectale
+T14	procedure 991 1005	salpingectomie
+T15	disorder 1039 1059	infection annexielle
+T16	procedure 1189 1199	perfusions
+T17	procedure 1263 1292	analgésie par morphine en PCA
+T18	drugs 1359 1370	paracétamol
+T19	drugs 1377 1385	tramadol
+T20	procedure 1391 1406	oxygénothérapie
+T21	procedure 1414 1456	 prévention de la maladie thromboembolique
+T22	drugs 1461 1468	Lovenox
+T23	procedure 2081 2088	diurèse
+T24	disorder 2100 2111	tachycardie
+T25	disorder 2123 2132	tachypnée
+T26	disorder 2211 2229	gêne respiratoire 
+T27	disorder 2266 2272	sueurs
+T28	disorder 2313 2329	propos délirants
+T29	disorder 2344 2380	jambe gauche qu’elle dit douloureuse
+T30	profession 2447 2459	anesthésiste
+T31	procedure 2483 2512	500 ml de sérum physiologique
+T32	drugs 2622 2629	Stilnox
+T33	drugs 2634 2639	Loxen
+T34	disorder 2700 2727	douleur de la jambe gauche.
+T35	disorder 2764 2784	douleurs abdominales
+T36	procedure 2832 2860	Prescription d’antibiotiques
+T37	disorder 2821 2830	angoissée
+T38	procedure 2871 2897	 globules blancs augmentés
+T39	drugs 2910 2917	Lovenox
+T40	profession 2939 2951	anesthésiste
+T41	procedure 2973 3004	Prescription de 1 l de Rînger L
+T42	procedure 3008 3020	hémocultures
+T43	profession 3074 3086	anesthésiste
+T44	drugs 3192 3199	Lovenox
+T45	profession 3228 3238	chirurgien
+T46	drugs 3280 3289	Tenormine
+T47	profession 3300 3312	anesthésiste
+T48	disorder 3335 3346	tachycardie
+T49	disorder 3360 3369	tachypnée
+T50	disorder 3381 3393	désaturation
+T51	disorder 3471 3480	agitation
+T52	drugs 3547 3554	Loxapac
+T53	disorder 3614 3626	désaturation
+T54	profession 3667 3679	anesthésiste
+T55	procedure 3709 3727	oxygène à 5 l/min 
+T56	disorder 4021 4046	arrêt cardio-respiratoire
+T57	procedure 4091 4108	Massage cardiaque
+T58	procedure 4134 4168	pose d’un nouveau cathéter veineux
+T59	procedure 4221 4232	remplissage
+T60	disorder 4433 4441	asystole
+T61	disorder 4443 4450	marbrée
+T62	disorder 4455 4474	mydriase bilatérale
+T63	drugs 4516 4526	adrénaline
+T64	procedure 4555 4579	’arrêt de la réanimation
+T65	disorder 4638 4653	arrêt cardiaque
+T66	disorder 4749 4754	décès
+T67	disorder 4783 4801	embolie pulmonaire
+T68	disorder 4817 4822	décès
+T69	drugs 4939 4946	Lovenox

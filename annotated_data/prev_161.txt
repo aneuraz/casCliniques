@@ -1,0 +1,31 @@
+Cas clinique
+Le diabète est plutôt bien équilibré, compte-tenu de l'âge et du contexte du patient. Il est, en effet, porteur d'une insuffisance rénale chronique dialysée (diurèse conservée) depuis 2014, d'une hypertension artérielle stabilisée par un triple traitement hypotenseur, d'une cardiopathie ischémique ayant nécessité trois pontages en 2013 et d'une BPCO post-tabagique (sevrée) avec hyperactivité bronchique. L'IMC est à 34 (102 kg pour 1,72 m). Mais ce patient est autonome et vit avec sa femme.
+Du 23/08 au 03/09/2016, le patient est hospitalisé pour une infection pulmonaire traitée par Cefotaxime. Lors de l'hospitalisation, le diagnostic de pneumopathie à la Cordarone (prescrite en raison de troubles du rythme cardiaque) est posé par le pneumologue de la clinique qui prescrit, à la sortie, une corticothérapie par Solupred (40mg/j avec diminution de 10 mg/j, tous les 10 jours. En raison des risques de déséquilibre du diabète par la corticothérapie, le pneumologue met en place un protocole d'insuline rapide : 0, 5, 10 UI à adapter aux glycémies (valeurs et horaires non précisés). Par ailleurs, une rétention urinaire aiguë impose le maintien d'une sonde à demeure pendant 3 semaines
+Le 26 septembre, le pneumologue revoit, en consultation, le patient encore fébrile, avec une CRP élevée. Il modifie le précédent protocole d'insuline à injecter en fonction de la glycémie (horaires non précisés) : glycémie < 1,8 g : pas d'insuline -- 1,8 g/l< glycémie < 2,4 g/l : 5 UI Humalog SC --2,4 g/l < glycémie < 4 g/l :10 UI Humalog SC
+Dans l'après-midi, le patient est admis aux urgences de la clinique pour une hyperthermie à 38,4°C. Il n'y avait pas de défaillance respiratoire mais la SaO2 était à 90 % avec suspicion d'une pneumopathie basale droite. A la radio thoracique, opacités bi-basales prédominant à droite avec discret épanchement pleura
+Bilan biologique : créatinémie : 419 mmol/l ; glycémie : 1,20 g/l ; CRP : 82 mg/l -- ECBU : infection urinaire à Enterobacter cloacae et à Enterococcus spp
+Transfert en service de médecine. Un traitement par Rocéphine (1 g/j) permet la normalisation de la courbe thermique, associé à un aminoside à la réception de l'antibiogramme (injection pratiquée en post- dialyse le 1er octobre)
+Le 2 octobre, -Solupred diminué de 20 à 10 mg/j. Ajout par le pneumologue, au traitement antidiabétique, d'un nouveau protocole prévoyant 10 UI d'insuline rapide à -6h-12h-18h-22h, si glycémie >2,5 g/l (horaires des repas non précisés)
+
+à 12 h 00,(déjeuner), glycémie à 1,69 g/ (infirmière intérimaire A)
+à 18 h 00,(diner) pas de glycémie dosée : Lantus 34 U + Humalog 10UI (infirmière intérimaire B)
+à 22 h 00, glycémie à 3,04 g/l : Humalog 10UI (infirmière intérimaire B).
+
+Le 3 octobre,
+
+- à 02 h 00, malade conscient, glycémie 1,30 g/l
+- à 05 h 30, malade somnolent difficile à réveiller → contrôle de la glycémie (0,50 g/l) 2 cuillérées de confiture difficilement prises par le patient (infirmière intérimaire B)
+- à 06 h 00 : glycémie à 0,39 g/l.→ appel du médecin d'astreinte à domicile Une ampoule de G 30% en IV (prescription téléphonique) (infirmière intérimaire B)
+- à 06 h30, patient "toujours somnolent"→ glycémie à 0,41 g/l
+- à 07 h 00, patient "réactif aux stimulations"→ glycémie à 0,50 g/l. Une ampoule de G 30% en IV (prescription téléphonique) (infirmière intérimaire B)
+- à 07 h 30 patient réactif aux stimulations → glycémie à 0,57 g/l. Appel du médecin d'astreinte à domicile d'après les dires de l’infirmière intérimaire B
+- à 08 h 10, patient comateux, encombrement bronchique +++, HTA à 20/9, →glycémie à 0,50 g/l. Le médecin d'astreinte à domicile dit s'être déplacé et avoir prescrit l'administration de 2 ampoules de G 30 % en IVD ainsi qu'une ampoule de Furosémide - à 09 h 00 patient comateux, faiblement réactif →: glycémie à 1,30 g/l Appel du pneumologue (médecin référent du patient) qui prescrit son transfert dans le service de réanimation de la clinique.
+
+L'hospitalisation en réanimation a lieu à 10 h00 (dossier infirmier service de médecine) ou 11h 30 (compte-rendu du service de réanimation):
+-coma Glasgow 3, HTA :196/68; FC :65/min, absence de marbrures →glycémie à 2 g/l. Mise sous ventilation assistée. Hémofiltration à bas débit continu sur fistule artério-veineuse
+TDM cérébral : absence d'anomalie aiguë cérébrale. TDM thoracique : aspect de broncho-pneumopathie des bases, prédominant à droite
+Le patient séjourne en réanimation du 03/10 au 03/12/2016. Absence totale d'évolution positive
+
+Décès le 03/12/2016.
+
+Saisine de la CCi, le 9 janvier 2018, par l'épouse du patient, puis par son fils pour obtenir l'indemnisation du préjudice qu'ils ont subi.

@@ -1,0 +1,81 @@
+T1	irrelevant 0 8;10 252	Contexte  Nous décrivons le cas d’un garçon nouveau-né présentant un frottis SARS-CoV-2 positif dans notre cabinet médical. La contamination a très probablement eu lieu par l’intermédiaire des parents (post-partum) qui avaient déjà été testés positifs.
+T2	disorder 370 374	toux
+T3	disorder 384 390	fièvre
+T4	procedure 399 417	frottis SARS-CoV-2
+T5	labvalue 443 450	positif
+T6	procedure 517 529	faire tester
+T7	labvalue 559 566	positif
+T8	procedure 684 700	hygiène du bébé 
+T9	procedure 737 774	réponses à l’aide des recommandations
+T10	procedure 850 860	conseillé 
+T11	procedure 873 889	porter un masque
+T12	procedure 941 952	allaitement
+T13	procedure 968 999	 laver et désinfecter les mains
+T14	disorder 1110 1114	toux
+T15	disorder 1133 1141	éternuer
+T16	disorder 1164 1185	nez légèrement bouché
+T17	disorder 1206 1213	fièvre 
+T18	procedure 1249 1270	consultation initiale
+T19	disorder 1338 1354	exanthème cutané
+T20	procedure 1359 1380	saturation en oxygène
+T21	labvalue 1393 1396	98%
+T22	procedure 1401 1406	pouls
+T23	labvalue 1409 1416	138/min
+T24	procedure 1421 1440	température méatale
+T25	labvalue 1470 1477	37,2 °C
+T26	procedure 1481 1516	auscultation du cœur et des poumons
+T27	labvalue 1528 1535	aucune 
+T28	procedure 1586 1593	abdomen
+T29	labvalue 1600 1606	souple
+T30	procedure 1749 1768	frottis oropharyngé
+T31	procedure 1777 1792	tester le bébé 
+T32	procedure 1795 1805	SARS-CoV-2
+T33	procedure 1867 1884	résultats du test
+T34	disorder 1978 1985	 fièvre
+T35	labvalue 1997 2004	38,3 °C
+T36	disorder 2006 2014	toussait
+T37	disorder 2072 2088	sécrétions/mucus
+T38	labvalue 2246 2253	positif
+T39	disorder 2287 2293	fièvre
+T40	procedure 2340 2372	adressé à l’hôpital pédiatrique 
+T41	procedure 2386 2405	examen diagnostique
+T42	disorder 2477 2483	fièvre
+T43	procedure 2551 2576	immunocompétence inconnue
+T44	disorder 2623 2629	fièvre
+T45	procedure 2644 2655	diagnostic 
+T46	disorder 2757 2763	sepsis
+T47	disorder 2723 2751	infection des voies urinaire
+T48	disorder 2771 2780	méningite
+T49	procedure 2857 2868	hospitalisé
+T50	disorder 2902 2916	sepsis work-up
+T51	procedure 2923 2938	statut urinaire
+T52	procedure 2940 2958	cultures sanguines
+T53	procedure 2960 2992	analyse du liquide cérébrospinal
+T54	procedure 3003 3022	prélèvement sanguin
+T55	procedure 3083 3106	évidence d'hémocultures
+T56	labvalue 3107 3115	négative
+T57	procedure 3121 3144	traitement intraveineux
+T58	drugs 3155 3166	gentamicine
+T59	drugs 3172 3184	amoxicilline
+T60	procedure 3203 3234	cultures sanguines et urinaires
+T61	procedure 3267 3287	examen hématologique
+T62	procedure 3300 3310	hémogramme
+T63	procedure 3324 3350	aux de protéine C-réactive
+T64	procedure 3352 3365	CRP: 0,6 mg/l
+T65	labvalue 3367 3374	normaux
+T66	procedure 3404 3425	liquide cérébrospinal
+T67	procedure 3439 3459	nombre de leucocytes
+T68	labvalue 3463 3467	7/μl
+T69	procedure 3548 3573	surveillance de 48 heures
+T70	procedure 3631 3649	cultures sanguines
+T71	labvalue 3663 3680	aucune croissance
+T72	disorder 3685 3691	fièvre
+T73	procedure 3739 3778	administration supplémentaire d’oxygène
+T74	procedure 3800 3815	hospitalisation
+T75	procedure 3974 4001	prise en charge ambulatoire
+T76	disorder 4125 4131	fièvre
+T77	disorder 4155 4159	toux
+T78	procedure 4234 4242	convoqué
+T79	procedure 4285 4302	contrôle clinique
+T80	procedure 4389 4398	isolation
+T81	irrelevant 4417 4427;4429 5669;5671 6100;6102 6417;6419 7371;7373 7676;7678 7792;7794 7822;7824 8171;8173 8417;8419 8673	Discussion  Nous rapportons ici l’exemple d’une «évolution typiquement sans complications» d’une infection au SARS-CoV-2 chez un nourrisson. Divers éléments sont déjà connus concernant les symptômes de la COVID-19 chez les patients avec et sans pathologies préexistantes ainsi que son évolution et ses complications. Il existe par ailleurs de nombreuses descriptions d’évolution sans complications chez des nourrissons et nouveau-nés atteints de COVID-19. Qi Lu et Yuan Shi ont rapporté trois cas de nouveau-nés dont les conséquences étaient légères [2]. Un nouveau-né âgé de 17 jours a développé au cinquième jour de vie fièvre, toux et vomissements. Au sein du foyer, la nourrice avait d’abord été infectée, puis la mère. Le deuxième nouveau-né a été testé positif cinq jours après la naissance, le SARS-CoV-2 a également été détecté chez la mère. Dans le troisième cas, il s’agissait d’une transmission verticale pour laquelle le test des acides nucléiques était positif 30 heures après la naissance [2]. Une revue systématique réalisée par Duran et al., dont le groupe de travail rapporte 13 cas, dans laquelle la maladie des nouveau-nés a présenté soit une évolution asymptomatique, soit de légères conséquences, parvient à la même conclusion [3].  Jusqu’à présent (état au 10.12.2020, après-midi), 541 cas d’enfants âgés de moins d’un an ont été signalés à l’Office fédéral de la santé publique (OFSP) (nombre total de cas 370 227), dont 76 cas de nouveau-nés (moins d’un mois). L’OFSP n’a pu émettre aucune donnée relative au nombre d’hospitalisations dans cette classe d’âge. En Suisse, un nourrisson de cette tranche d’âge est décédé jusqu’au moment mentionné ci-dessus [4].  Il existe en Suisse 10 cas (état au 12 mai 2020) qui ont été mis en relation avec le nouveau syndrome inflammatoire associé à la COVID-19, également appelé «multisystem inflammatory syndrome in children» (MIS-C) ou encore «pediatric inflammatory multisystem syndrome temporally related to SARS-CoV-2» (PIMS-TS) [5].  Bien que la pathogenèse exacte du MIS-C reste incertaine, une réaction immunitaire hyper-inflammatoire post-infectieuse est supposée sur le plan étiologique [6]. Selon la classification de l’OMS, le MIS-C concerne un patient testé positif au SARSCoV-2, <20 ans avec ≥3 jours de fièvre et ≥2 symptômes différents relatifs aux atteintes organiques suivantes: modifications cutanées et/ou muqueuses, système vasculaire, cœur, système de coagulation, tractus gastro-intestinal et marqueurs accrus de l’inflammation (vitesse de sédimentation, CRP, procalcitonine) et exclusion d’autres causes microbiennes telles qu’un sepsis bactérien/ choc septique [7]. Selon les manifestations organiques, les symptômes sont décrits comme suit: fièvre élevée ≥24 heures, symptômes mucocutanés tels que conjonctivite et exanthème, symptômes cardiovasculaires et gastro-intestinaux outre les symptômes respiratoires connus tels que la détresse respiratoire et la toux [6].  La gestion thérapeutique du MIS-C s’effectue de manière stationnaire et interdisciplinaire au moyen d’immunoglobulines et de corticostéroïdes hautement dosés [9]. Près de 2% décèdent des suites du MIS-C. Tandis que 2⁄3 des enfants récupèrent complètement, des symptômes résiduels demeurent chez 1⁄3 [6].  Notre nourrisson n’était pas touché par le MIS-C, qui survient généralement 2–4 après une infection au SARS-CoV-2.  L’essentiel pour la pratique  • En cas de suspicion de COVID-19 chez les nourrissons/nouveau-nés en raison de symptômes, il convient de tester d’abord les personnes de contact proches (p. ex. parents). Si la ou les personnes de contact affichent un résultat positif, le nouveau-né symptomatique reste au domicile et est également testé au cabinet médical au moyen d’un frottis.  • Lorsque la mère a été testée positive au SARS-CoV-2 et que le statut infectieux de l’enfant est inconnu, le port d’un masque est recommandé lors de l’allaitement. Si la mère et l’enfant sont tous deux positifs, le masque n’est pas nécessaire.  • Les mesures d’hygiène telles que maintenir ses distances, porter un masque, se laver/désinfecter les mains sont essentielles après chaque contact corporel, mais difficiles à appliquer au quotidien avec les nourrissons et en particulier les nouveau-nés.

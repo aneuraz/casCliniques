@@ -1,0 +1,42 @@
+T1	profession 38 49	enseignante
+T2	profession 76 95	médecin généraliste
+T3	disorder 135 153	problèmes de santé
+T4	disorder 194 201	d’abcès
+T5	procedure 257 270	interventions
+T6	profession 305 315	psychiatre
+T7	disorder 323 338	 état dépressif
+T8	disorder 427 435	douleurs
+T9	disorder 467 472	abcès
+T10	profession 507 526	médecin généraliste
+T11	profession 561 570	stagiaire
+T12	drugs 659 665	Zinnat
+T13	disorder 724 731	d’abcès
+T14	drugs 785 796	l’injection
+T15	profession 830 841	l’infirmier
+T16	disorder 855 862	malaise
+T17	disorder 878 903	difficultés respiratoires
+T18	profession 926 945	médecin généraliste
+T19	profession 953 961	pompiers
+T20	profession 978 992	Le généraliste
+T21	disorder 1059 1073	l’état de choc
+T22	procedure 1087 1104	massage cardiaque
+T23	disorder 1141 1171	 choc d’origine anaphylactique
+T24	procedure 1196 1206	L’autopsie
+T25	disorder 1405 1423	épisode allergique
+T26	drugs 1463 1472	injection
+T27	drugs 1492 1501	Rocéphine
+T28	profession 1526 1545	médecin généraliste
+T29	drugs 1614 1628	antiallergique
+T30	profession 1634 1641	médecin
+T31	disorder 1765 1773	allergie
+T32	drugs 1843 1852	Rocéphine
+T33	drugs 1858 1870	antibiotique
+T34	drugs 1885 1900	Céphalosporines
+T35	profession 1988 1995	médecin
+T36	disorder 2036 2046	d’allergie
+T37	disorder 2140 2159	réaction allergique
+T38	drugs 2165 2174	Rocéphine
+T39	drugs 2198 2204	Zinnat
+T40	disorder 2270 2278	allergie
+T41	profession 2281 2292	L’infirmier
+T42	drugs 2373 2382	injection

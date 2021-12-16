@@ -1,0 +1,97 @@
+T1	risk 119 137	épidémie de grippe
+T2	disorder 190 202	 vomissement
+T3	disorder 207 224	myalgies diffuses
+T4	disorder 231 249	douleurs lombaires
+T5	disorder 310 320	rhinorrhée
+T6	disorder 323 331	 otalgie
+T7	disorder 353 362	céphalées
+T8	disorder 388 395	frisson
+T9	disorder 406 413	fébrile
+T10	risk 431 448	notion de contage
+T11	disorder 455 468	voyage récent
+T12	disorder 529 540	normotendue
+T13	disorder 542 552	normocarde
+T14	disorder 554 561	fébrile
+T15	disorder 601 641	diffusément douloureuse sans péritonisme
+T16	procedure 576 596	palpation abdominale
+T17	procedure 648 679	percussion du rachis thoracique
+T18	disorder 684 692	sensible
+T19	disorder 808 830	syndrome inflammatoire
+T20	procedure 840 843	CRP
+T21	labvalue 846 854	50 μg/l 
+T22	procedure 873 888	procalcitonine 
+T23	labvalue 896 903	25 μg/l
+T24	procedure 923 940	 formule sanguine
+T25	labvalue 946 957	leucocytose
+T26	labvalue 971 994	 thrombopénie à 61 G/l 
+T27	labvalue 1015 1029	 crase normale
+T28	procedure 1038 1042	INR 
+T29	labvalue 1044 1049	1,08 
+T30	procedure 1055 1079	temps de thromboplastine
+T31	labvalue 1088 1094	27 sec
+T32	disorder 1114 1134	 insuffisance rénale
+T33	procedure 1178 1204	 hyperlactatémie veineuse 
+T34	labvalue 1206 1214	8 mmol/l
+T35	procedure 1219 1232	stix urinaire
+T36	labvalue 1243 1249	propre
+T37	procedure 1254 1277	radiographie thoracique
+T38	disorder 1345 1360	fébrile à 40 °C
+T39	disorder 1369 1388	 frissons solennels
+T40	disorder 1394 1405	hypotension
+T41	disorder 1427 1447	tachycardie sinusale
+T42	procedure 1473 1485	hémocultures
+T43	irrelevant 1503 1653;1656 1689;1691 1709;1711 1732;1734 1771;1773 1796	Question 1: Au vu de la présentation clinique et des examens réalisés, lequel de ces diagnostics n’est pas dans votre diagnostic différentiel initial?   a) Grippe saisonnière surinfectée  b) Spondylodiscite  c) Pneumonie atypique  d) Sepsis à point de départ abdominal  e) Sinusite bactérienne
+T44	drugs 2143 2154	oseltamivir
+T45	drugs 2158 2182	pipéracilline-tazobactam
+T46	procedure 2246 2302	transférée aux soins intensifs sous soutien aminergique.
+T47	disorder 2216 2228	état de choc
+T48	irrelevant 1798 2142	Un diagnostic différentiel initial infectieux large comprenant une grippe saisonnière secondairement surinfectée, une sinusite, un sepsis d’origine digestif et une spondylodiscite est évoqué, mais aucun foyer ne peut être mis en évidence sur l’imagerie complémentaire (scanner des sinus et thoraco-abdomino-pelvien). Un traitement empirique par
+T49	disorder 2353 2371	pétéchies diffuses
+T50	irrelevant 2372 2447;2449 2480;2482 2587;2590 2622;2624 2650;2652 2689;2691 2720;2722 2740	(fig. 1). Une coagulation intra-vasculaire disséminée (CIVD) est suspectée.  Figure 1: Pétéchies sur le dos.  Question 2: Parmi les éléments de laboratoire ci-dessous, lequel n’est pas un critère de CIVD biologique?   a) Thrombopénie sévère (<50 G/l)  b) Elévation des D-dimères  c) Abaissement du fibrinogène (<1g/l)  d) Leucopénie sévère (<1 G/l)  e) Un PTT prolongé
+T51	procedure 2772 2788	formule sanguine
+T52	procedure 2796 2802	crase 
+T53	disorder 2848 2859	CIVD sévère
+T54	labvalue 2864 2886	 thrombopénie à 11 G/l
+T55	labvalue 2908 2919	INR à 2,16 
+T56	labvalue 2940 2950	PTT à 73 s
+T57	labvalue 2971 2996	­D-dimères à >10 000 μg/l
+T58	labvalue 3017 3038	fibrinogène à 0,8 g/l
+T59	labvalue 3079 3100	saignements gingivaux
+T60	labvalue 3108 3129	épistaxis postérieure
+T61	drugs 3133 3153	culots plaquettaires
+T62	drugs 3157 3180	plasmas frais congelés 
+T63	drugs 3190 3201	fibrinogène
+T64	disorder 3286 3304	livedo reticularis
+T65	disorder 3339 3346	purpura
+T66	irrelevant 3348 3550;3552 3581;3583 3624;3626 3692;3695 3744;3746 3772;3774 3797;3799 3824;3826 3877	témoin de la dérégulation du système de coagulation où coexiste une composante thrombotique avec la formation de microthrombis, mais également hémorragique avec des nécroses hémorragiques (fig. 2 et 3).  Figure 2: Livedo reticularis.  Figure 3: Lésion purpurique de la cuisse.  Question 3: A ce stade, quel est votre diagnostic de ­présomption?   a) Un choc septique à Neisseria (N.) meningitidis  b) Une maladie auto-immune  c) Une infection virale  d) Une infection fongique  e) Un choc septique à Streptococcus (S.) pneumoniae
+T67	disorder 3922 3941	lésions purpuriques
+T68	irrelevant 3943 4502	une méningococcémie est suspectée. L’infection à S. pneumoniae peut engendrer une CIVD et un tableau similaire, principalement chez les splénectomisés. Le purpura fulminans est une complication rare d’une septicémie bactérienne. L’agent causal le plus fréquemment rencontré est N. meningitidis, mais S. pneumoniae et Haemophilus influenzae ou d’autres germes sont parfois aussi retrouvés. Une maladie auto-immune, une infection fongique ou virale, bien que parfois associées à des lésions pétéchiales sont improbables au vu de la sévérité du tableau clinique.
+T69	procedure 4508 4520	hémocultures
+T70	labvalue 4531 4565	 positives pour un N. meningitidis
+T71	disorder 4681 4748	 choc septique sur méningococcémie compliqué d’un purpura fulminans
+T72	irrelevant 4804 5146;5148 5223;5226 5240;5242 5256;5258 5274;5276 5312;5314 5375	L’infection invasive à méningocoque peut se traduire par une atteinte d’organe cible, le plus souvent une méningite, parfois également une arthrite ou péricardite septique, voire une pneumonie ou une infection du tractus gynécologique. La méningococcémie peut se compliquer d’une défaillance multi-organique avec CIVD et pupura fulminans [1].  Question 4: Par quel antibiotique traiteriez vous désormais cette patiente?   a) Vancomycine  b) Ceftriaxone  c) Azithromycine  d) Sulfaméthoxazole et triméthoprime  e) Maintient du traitement actuel de pipéracilline-tazobactam
+T73	drugs 5418 5429	ceftriaxone
+T74	irrelevant 5430 5940	2 × 2 g/j. Il existe à l’heure actuelle 4 antibiotiques recommandés par l’Organisation Mondiale de la Santé (OMS): la ceftriaxone, le cefotaxime, le chloramphenicol (qui n’est pas recommandé en Suisse) et la pénicilline [1]. Le traitement devrait être conduit durant 7 jours [2]. Si la sensibilité des souches suisses à la penicilline s’élevait à 80% seulement en 2016, elle demeurait de 100% pour les antibiotiques utilisés pour la prophylaxie (rifampicine, ciprofloxacine) et le traitement (ceftriaxone) [3].
+T75	disorder 6000 6027	défaillance multi-organique
+T76	disorder 6042 6071	 insuffisance rénale anurique
+T77	disorder 6076 6088	foie de choc
+T78	disorder 6095 6111	état d’agitation
+T79	disorder 6136 6160	encéphalopathie septique
+T80	procedure 6174 6184	intubation
+T81	disorder 6218 6239	cardiopathie septique
+T82	procedure 6249 6282	échocardiographie transthoracique
+T83	disorder 6287 6336	fraction d’éjection du ventricule gauche diminuée
+T84	labvalue 6339 6345	35–40%
+T85	disorder 6370 6405	syndrome de Waterhouse-Friderichsen
+T86	drugs 6451 6465	hydrocortisone
+T87	disorder 6638 6658	insuffisance rénale 
+T88	disorder 6677 6681	coma
+T89	disorder 6703 6722	lésions purpuriques
+T90	disorder 6766 6774	nécrose 
+T91	disorder 7000 7019	bradycardie extrême
+T92	disorder 7033 7042	asystolie
+T93	disorder 7140 7183	pétéchies hépatiques, rénales et viscérales
+T94	disorder 7198 7220	lésions thrombotiques 
+T95	disorder 7359 7374	méningococcémie
+T96	irrelevant 7375 7428;7430 7523;7526 7603;7605 7664;7666 7736;7738 7773;7775 7830;7832 8317	a été posé, le cas a été déclaré au médecin cantonal.  Question 5: Une chimioprophylaxie doit être administrée. ­Qui est concerné par ce traitement?   a) Toutes les personnes ayant été en contact quelques heures avec la patiente  b) Les personnes habitant sous le même toit que la patiente  c) Le fils de la patiente qu’elle a hébergé une nuit il y a 3 semaines  d) Tout le voisinage de la patiente  e) L’infirmier ayant posé la voie veineuse périphérique  Une chimioprophylaxie doit être administrée chez les personnes ayant passé 8 heures ou plus dans un rayon de 1 mètre du patient, et plus précisément les membres de la famille vivant sous le même toit, les personnes ayant partagé la même chambre à coucher et le personnel ayant été exposé directement aux sécrétions orales (réanimation, intubation) au cours des 10 jours précédant le diagnostic et jusqu’à 24 heures après l’initiation du traitement selon le schéma suivant (tab. 1) [4].
+T97	irrelevant 8319 8423;8424 8462;8463 8523;8524 8565;8566 8646;8647 8712;8713 8770;8771 8848;8849 8890;8891 8954;8956 9311;9313 9323;9325 10295;10297 10502;10504 10669;10671 11053;11055 11542;11544 11987;11989 12449;12451 12460;12463 12537	Tableau 1: Chimioprophylaxie, selon recommandations de l’Office fédéral de la santé publique (OFSP) [3]. Adultes	Ciprofloxacine 1 × 500 mg p.o. Rifampicine 600 mg p.o. toutes les 12 heures pendant 2 jours Ceftriaxone 1 × 250 mg i.m. ou i.v. lente Enfants <14 ans	Rifampicine 10 x mg/kg p.o. toutes les 12 heures pendant 2 jours Ceftriaxone 1 × 125 mg i.m. ou i.v. lente (si >50 kg: 1 × 250 mg) Si absence d’autre alternative: Ciprofloxacine 1×10 mg/kg Enfants <1 mois	Rifampicine 5 mg/kg p.o. toutes les 12 heures pendant 2 jours Ceftriaxone 1 × 125 mg i.m. ou i.v. lente Grossesse,allaitement	Ceftriaxone 1 × 250 mg i.m. ou i.v. lente  Les personnes vaccinées (disponibilité depuis 2011 en Suisse d’une vaccin quadrivalent conjugué contre les groupes A, C, W et Y) doivent également prendre la prophylaxie en raison d’une absence de couverture vaccinale du sérogroupe B qui est le plus prévalent en Europe et en raison d’une efficacité qui n’est pas à 100% pour les sérogroupes couverts [5].  Discussion  La meningococcémie est causée par le Neisseria meningitidisqui est un diplocoque encapsulé gram négatif. Il existe 13 sérogroupes dont 6 pouvant être létaux [1]. Chacun des 13 sérogroupes occupe une répartition géographique spécifique. En Suisse, d’après le rapport annuel de 2015 du centre Suisse de référence pour les infections à méningocoque on retrouve essentiellement les sérogroupes B, W, C, Y et X. Notre patiente présentait une infection à N. meningitidis de sérogroupe W. L’incidence de la méningococcémie varie selon les pays de 1 à 5 cas pour 100 000 habitants [2]. Le réservoir naturel est le nasopharynx et en moyenne 8–25% des individus en sont colonisés transitoirement [1]. La transmission est de type gouttelettes. Après colonisation par la bactérie, les symptômes d’une infection peuvent se manifester jusqu’à 10 jours. Plus de 60% des infections se manifestent par une méningite [1] et une moyenne de 20% des cas se présente comme une septicémie [6].  La méningoccocémie touche essentiellement les enfants et plus rarement la population âgée. Chez les patients de plus de 50 ans, plus de la moitié des épisodes invasifs sont liés aux sérogroupes Y ou W [3].  Etant une bactérie encapsulée, les facteurs de risques pour la méningococcémie sont les dysfonctions spléniques, les déficits en complément et une immunosuppression.  Les symptômes initiaux peuvent être banals et faire suspecter une infection virale: odynophagie, rhinorrhée, myalgies et peuvent se compliquer, comme dans notre cas, d’un choc septique avec défaillance multi-organique, CIVD et purpura fulminans. Ce dernier est associé à une nécrose cutanée des extrémités qui conduit souvent à des amputations et est associé à une mortalité élevée.  Un état de choc important avec une défaillance d’organe associé à des pétéchies et à un état fébrile doit faire évoquer le syndrome de Waterhouse-Friderichsen. Ce syndrome qui résulte dans une grande majorité des cas d’une infection à N. meningitidis consiste en une nécrose hémorragique des glandes surrénales avec une insuffisance surrénalienne aiguë aggravant l’état de choc. Le traitement réside en une substitution par hydrocortisone, un traitement du choc et de la bactériémie [2].  Le diagnostic de méningococcémie repose sur la mise en évidence de la bactérie dans les liquides biologiques. La sensibilité des hémocultures est de 50–60% tandis que les cultures du liquide céphalo-rachidien sont plus sensibles jusqu’à 80–90% [6]. En cas d’antibiothérapie préalable reçue avant la ponction lombaire, la PCR permettra la mise en evidence du méningocoque dans le liquide céphalo-rachidien (LCR) avec une excellente sensibilité.  Malgré une incidence plus rare de la méningococcémie chez le sujet âgé, tout purpura associé à un état septique doit faire évoquer un tel diagnostic. Comme l’illustre notre cas, la présentation initiale peut être atypique. Ceci peut parfois mener à un retard diagnostic et thérapeutique néfaste pour le patient. La mortalité associée à toutes les infections confondues à N. meningitidis s’élève à 10% avec une mortalité plus élevée en cas de purpura fulminans.  Réponses:   Question 1: c. Question 2: d. Question 3: a. Question 4: b. Question 5: b.

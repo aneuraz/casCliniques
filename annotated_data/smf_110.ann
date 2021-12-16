@@ -1,0 +1,9 @@
+T1	disorder 56 81	légers troubles cognitifs
+T2	disorder 88 130	nsuffisance rénale chronique de stade II ­
+T3	disorder 160 185	fibrillation auriculaire 
+T4	disorder 250 261	Tachycarde 
+T5	disorder 310 328	douleur thoracique
+T6	procedure 371 405	tomodensitométrie (TDM) thoracique
+T7	disorder 426 445	embolie pulmonaire 
+T8	drugs 486 498	rivaroxaban 
+T9	irrelevant 516 623;626 701;703 745;747 801;803 834;836 844;847 873	Question: Parmi les attitudes suivantes concernant l’anticoagulation, quelle investigation n’est pas utile?   a) Estimer le délai entre la dernière prise de comprimé et la prise de sang  b) Doser l’activité anti-Xa du rivaroxaban  c) Déterminer l’INR («International normalized ratio»)  d) Contrôler la fonction rénale  Réponse:   La réponse correcte est c.

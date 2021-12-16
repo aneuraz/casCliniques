@@ -1,0 +1,84 @@
+T1	profession 30 40	mécanicien
+T2	disorder 188 211	hypertension artérielle
+T3	profession 245 264	médecin généraliste
+T4	disorder 382 412	traumatisme du rachis cervical
+T5	procedure 428 441	consultations
+T6	disorder 567 584	douleurs coliques
+T7	procedure 591 603	prescription
+T8	drugs 618 630	anxiolytique
+T9	procedure 653 680	intervention en ambulatoire
+T10	procedure 702 715	bilan sanguin
+T11	labvalue 720 726	normal
+T12	procedure 757 775	tension artérielle
+T13	labvalue 788 800	150/80 mm Hg
+T14	procedure 810 822	intervention
+T15	disorder 923 933	pharyngite
+T16	procedure 977 996	tension artérielle 
+T17	labvalue 998 1011	180/110 mm Hg
+T18	procedure 1013 1018	poids
+T19	labvalue 1021 1026	82 kg
+T20	disorder 1119 1141	cervicalgies en casque
+T21	disorder 1149 1159	acouphènes
+T22	disorder 1165 1187	douleurs bi temporales
+T23	disorder 1244 1253	épistaxis
+T24	disorder 1260 1290	troubles visuels intermittents
+T25	profession 1403 1410	médecin
+T26	procedure 1482 1491	conseillé
+T27	procedure 1496 1519	égime légèrement désodé
+T28	procedure 1584 1597	 consultation
+T29	disorder 1607 1627	douleur testiculaire
+T30	disorder 1631 1644	hématurie(s) 
+T31	disorder 1660 1671	traumatisme
+T32	procedure 1703 1721	tension artérielle
+T33	labvalue 1728 1737	pas notée
+T34	procedure 1744 1767	radiographies du rachis
+T35	procedure 1775 1797	échographie abdominale
+T36	labvalue 1803 1811	normales
+T37	disorder 1818 1826	hématome
+T38	disorder 1841 1872	contusion intra parenchymateuse
+T39	irrelevant 1873 2026	(« pour mémoire les reins ont un aspect moins bien différencié de la structure cortico-médullaire entrant dans le cadre d’une variante de la normale »). 
+T40	procedure 2048 2057	 consulte
+T41	disorder 2065 2090	céphalées et cervicalgies
+T42	procedure 2097 2115	tension artérielle
+T43	labvalue 2144 2159	220/110 mm d’Hg
+T44	disorder 2189 2229	cervicarthrose débutante et hypertension
+T45	procedure 2235 2243	prescrit
+T46	procedure 2272 2285	béta bloquant
+T47	procedure 2247 2265	anti inflammatoire
+T48	disorder 2314 2321	anxieux
+T49	procedure 2326 2350	traitement béta bloquant
+T50	disorder 2452 2488	cervicalgies avec névralgie d’Arnold
+T51	procedure 2509 2524	corticothérapie
+T52	procedure 2528 2539	myorelaxant
+T53	procedure 2560 2579	 prise tensionnelle
+T54	procedure 2606 2635	traitement anti inflammatoire
+T55	procedure 2679 2702	radiographies du rachis
+T56	procedure 2704 2721	raideur cervicale
+T57	labvalue 2722 2727	basse
+T58	procedure 2771 2802	séances de rééducation/massages
+T59	disorder 2847 2861	trouble visuel
+T60	profession 2984 3000	 ophtalmologiste
+T61	disorder 3028 3064	rétinopathie hypertensive gravissime
+T62	procedure 3011 3023	diagnostique
+T63	procedure 3082 3108	hospitalisation en urgence
+T64	disorder 3131 3164	insuffisance rénale pré-terminale
+T65	procedure 3174 3184	créatinine
+T66	labvalue 3187 3211	833 micromoles par litre
+T67	procedure 3217 3242	reins sont hyperéchogènes
+T68	procedure 3244 3256	asymétriques
+T69	disorder 3265 3286	rein de petite taille
+T70	procedure 3291 3304	doppler rénal
+T71	labvalue 3316 3325	anomalies
+T72	procedure 3405 3420	biopsie rénale 
+T73	disorder 3432 3459	glomérulonéphrite primitive
+T74	procedure 3475 3508	diagnostic de néphroangiosclérose
+T75	procedure 3514 3525	hémodialyse
+T76	procedure 3552 3577	bilan pré transplantation
+T77	disorder 3583 3602	greffe est réalisée
+T78	procedure 3608 3630	succès un an plus tard
+T79	profession 3651 3670	médecine du travail
+T80	labvalue 3730 3742	160/80 mm Hg
+T81	disorder 3761 3773	hypertension
+T82	profession 3801 3812	généraliste
+T83	labvalue 3830 3842	170/90 mm Hg
+T84	labvalue 3904 3919	160 /90 mm d’Hg

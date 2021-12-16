@@ -1,0 +1,52 @@
+T1	profession 26 34	 médecin
+T2	irrelevant 35 224	dans un cabinet de groupe où va sa fille, pour des raisons de proximité de son domicile, dans la mesure où il devait effectuer un déplacement à l’étranger pour des raisons professionnelles.
+T3	disorder 261 268	douleur
+T4	disorder 282 310	irradiant dans le bras droit
+T5	profession 317 324	médecin
+T6	procedure 329 336	propose
+T7	drugs 341 363	séance de mésothérapie
+T8	profession 440 448	médecin 
+T9	profession 551 558	médecin
+T10	procedure 559 567	prescrit
+T11	drugs 589 606	nti inflammatoire
+T12	drugs 610 620	antalgique
+T13	profession 685 692	médecin
+T14	procedure 702 733	nouvelle séance de mésothérapie
+T15	irrelevant 734 807	mais la trace de cette consultation ne figure pas dans le dossier médical
+T16	irrelevant 364 439	 Il ne se souvient pas de quelle manière les injections ont été faites : le
+T17	irrelevant 810 927;928 952	Le samedi, Il part pour quelques jours comme prévu en déplacement avec une lourde valise contenant des échantillons.  Quelques jours plus tard
+T18	disorder 958 966	douleurs
+T19	procedure 1072 1103	radiographie du rachis cervical
+T20	disorder 1156 1171	arthrose banale
+T21	disorder 1186 1220	ombre au niveau des parties molles
+T22	disorder 1516 1527	très vouté 
+T23	irrelevant 1222 1271;1272 1513	Il est inquiet, souffre, et il est très fatigué.  Le mercredi soir de la semaine suivante, de retour de voyage, il ne se sent pas bien du tout, a du mal à parler ; un collègue rencontré pour des raisons professionnelles confirmera a posteriori qu’il avait une attitude bizarre et qu’il était
+T24	irrelevant 1529 1586	 Sa famille s’inquiète de son état et de sa « diction ». 
+T25	profession 1638 1645	médecin
+T26	procedure 1669 1714	 pratique une deuxième séance de mésothérapie
+T27	irrelevant 1716 1813	Il repart dans la journée pour un rendez-vous professionnel en France mais déclare qu’il était en
+T28	disorder 1816 1828	mauvais état
+T29	irrelevant 1831 1896	et qu’il a même oublié ses valises dans le train. Le soir, il est
+T30	procedure 1897 1909	hospitalisé 
+T31	profession 1927 1934	médecin
+T32	procedure 1965 1989	transféré en réanimation
+T33	disorder 2045 2058	sepsis sévère
+T34	disorder 2115 2132	septicémie à SAMS
+T35	disorder 2138 2184	abcès paravertébral au niveau du trapèze droit
+T36	disorder 2186 2259	dissémination par contigüité avec méningite purulente et épidurite C1-C2 
+T37	disorder 2262 2319	dissémination hématogène avec des localisations multiples
+T38	irrelevant 2320 2626	 Malgré un pronostic vital engagé à plusieurs reprises, il finira par guérir de cette infection gravissime mais garde des séquelles et a dû interrompre ses activités professionnelles pendant 8 mois. Selon son épouse, elle s’est rendue à la deuxième consultation avec son mari car elle était très inquiète :
+T39	disorder 2630 2644	ne parlait pas
+T40	disorder 2655 2673	couvert de sueurs.
+T41	disorder 2742 2763	répondu difficilement
+T42	profession 2781 2788	médecin
+T43	procedure 2946 2963	enlevé le collier
+T44	irrelevant 2789 2945	qui s’est montré rassurant. Elle a insisté auprès du médecin pour qu’il conseille à son mari de ne pas partir car elle ne le trouvait pas bien. Le médecin a
+T45	procedure 2965 2984	déplacé la chemise 
+T46	irrelevant 2984 3065	et lui a fait quelques injections sans qu’elle voit s’il avait désinfecté la peau
+T47	irrelevant 3067 3418	Pendant ce geste le téléphone a sonné, le médecin a répondu à l’appel, a posé la seringue entamée sur son bureau puis est revenu et a poursuivi les injections sans plus de précautions ; elle n’a pas le souvenir qu’il ait fait un pansement. Le médecin a vérifié que la valise du patient n’était pas trop lourde et son mari a pris immédiatement le train
+T48	profession 3423 3430	médecin
+T49	drugs 3744 3762	ampoule de Feldène
+T50	drugs 3773 3795	ampoule de Procaïne 2%
+T51	irrelevant 3432 3741	qui s’est rendu seul à l’expertise, précise qu’il a posé la question d’une allergie chez ce patient qui le consultait pour la première fois, et décidé d’une mésothérapie pour le soulager. Il déclare s’être lavé les mains avec du savon, utilise des aiguilles sous cutanées jetables. Il utilise un mélange d’1/4
+T52	irrelevant 3798 5545	dans une seringue de 10 ml, pour trois injections d’environ 1 cm de profondeur le long des épineuses ; puis il met des pansements car cela peut saigner et tâcher les vêtements. Il est habituel que, dans cette localisation, il ne fasse pas déshabiller les patients, il les fait asseoir et baisse le col de la chemise. Il déclare nettoyer la peau à l’alcool à 70°, ne pas utiliser de gants. La mésothérapie est une activité accessoire qu’il pratique deux à trois fois par semaine, essentiellement pour des douleurs au niveau du cou ou des coudes. Il a fait un weekend de formation trente ans auparavant et rajoute que pour faire des injections sous cutanées, il n’y a pas besoin d’une formation particulière. Lorsqu’il a revu le patient, il n’était pas bien et il trouvait déraisonnable qu’il se rende en province mais ne pouvait pas l’en empêcher. Il lui semble qu’il ne l’a pas déshabillé, a dégrafé sa chemise, n’a rien remarqué localement, a refait des injections. Il a prescrit une IRM cervicale compte tenu des douleurs. A la question de l’interruption téléphonique, il déclare que « tant qu’il n’a pas fait d’injection, il remet le capuchon de l’aiguille sur la seringue », qu’il ne s’est pas relavé les mains ensuite mais désinfecte toujours la peau avant de piquer. Lorsqu’il a appris que ce patient était hospitalisé pour une infection grave, il était bouleversé. Le réanimateur, avec lequel il s’est entretenu, a évoqué la pratique d’une infiltration à l’étranger ce que nie formellement le patient. Le médecin déclare ne jamais pratiquer d’infiltration cervicale mais faire des infiltrations des épaules et des genoux. Depuis cet accident, il ne fait plus de mésothérapie. Il n’avait jamais eu de complication infectieuse antérieurement.

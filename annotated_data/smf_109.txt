@@ -1,0 +1,52 @@
+Contexte
+
+Pendant la phase de préparation d’une opération élective, les patients sont généralement en contact avec plusieurs médecins. Le médecin de famille, le chirurgien et l’anesthésiste se complètent souvent dans le cadre de la prise en charge du patient. Ainsi, notre patiente a été vue lors d’une consultation préopératoire, lors de laquelle il est apparu qu’elle souffrait d’une hypertension artérielle traitée par médicaments. Il existe de bonnes lignes directrices pour la prise en charge de l’hypertension artérielle au cabinet. Toutefois, la question de savoir si les médicaments prescrits sont bel et bien pris et de quelle façon ils sont pris n’est souvent pas abordée.
+
+Avec ce rapport de cas, nous souhaitons sensibiliser à la mauvaise observance médicamenteuse et livrer un bref résumé des recommandations pour la prise en charge de l’hypertension préopératoire.
+
+Présentation du cas
+
+Chez notre patiente âgée de 69 ans, une ostéosynthèse de la cheville supérieure était prévue en position décubitus ventral. L’évaluation préopératoire a montré qu’elle était traitée par une ­association de trois médicaments antihypertenseurs, avec pour recommandation de poursuivre ce traitement de façon inchangée avant l’opération.
+
+Avant l’induction de l’anesthésie, la patiente s’est présentée dans un bon état général, avec une pression artérielle (PA) de 196/93 mm Hg. Elle était correctement orientée dans les sphères spatiale, temporelle et personnelle. Lorsqu’elle a été interrogée, elle a assuré avoir pris ses médicaments antihypertenseurs de façon fiable, sans interruption.
+
+Peu de temps après, l’équipe d’anesthésie a fait une ­découverte surprenante: la patiente s’était collé les comprimés sur la peau (fig. 1). Elle a expliqué utiliser délibérément les comprimés de cette façon afin d’en consommer moins et ainsi économiser de l’argent. D’autres médicaments collés ont été découverts dans la région lombaire lorsque la patiente a été tournée en décubitus ventral.
+
+Figure 1: L’équipe d’anesthésie a fait une ­découverte surprenante.
+
+Discussion
+Marche à suivre en cas d’hypertension ­préopératoire
+
+L’anxiété, la nervosité et les douleurs, renforcées par le transfert sur la table d’opération, sont des causes fréquentes de valeurs de PA accrues avant une intervention. Il s’agit de causes réversibles pouvant être traitées relativement facilement par médicaments. Ainsi, une prémédication anxiolytique orale ou du midazolam i.v. contre l’hypertension induite par la nervosité, ou encore un analgésique d’action rapide contre la douleur liée au transfert sont par exemple utiles.
+
+L’interruption d’un traitement antihypertenseur établi peut également favoriser l’hypertension préopératoire. Un traitement par bêtabloquants préexistant doit être poursuivi [1]. Les inhibiteurs de l’enzyme de conversion de l’angiotensine (ECA) ainsi que les antagonistes des récepteurs de l’angiotensine peuvent être interrompus 24 heures avant une opération ou être continués de façon inchangée [1]. Ces substances sont souvent interrompues avant les interventions majeures, notamment lorsqu’une perte de sang pertinente est attendue, ou avant les anesthésies combinées avec une anesthésie péridurale, lors desquelles la PA périopératoire est souvent plus faible en raison de la sympathicolyse additionnelle. Toutes les autres classes de substances sont poursuivies en vue d’un contrôle de la PA périopératoire le plus optimal possible.
+
+Le report d’une opération élective n’est pertinent qu’en cas d’hypertension de grade 3 insuffisamment contrôlée ou de situation hypertensive dangereuse, en cas d’atteinte d’organes cibles nouvellement décelée, telle qu’une insuffisance cardiaque, une maladie coronarienne ou une insuffisance rénale, ou en cas de suspicion d’hypertension secondaire de cause encore in­déterminée. Pour tous les autres patients avec une PA systolique <180 mm Hg et une PA diastolique <110 mm Hg, il n’y a pas de raison de reporter une opération planifiée [1]. Une réduction trop agressive de la PA (>25%) immédiatement avant l’opération n’est pas conseillée, car un tonus sympathique réduit pendant l’opération peut alors entraîner une hypotension sévère [2].
+
+L’hypertension artérielle en tant que facteur isolé n’augmente probablement que faiblement le risque de complications cardiovasculaires périopératoires. Dans une méta-analyse, Howell et al. ont néanmoins montré une augmentation de 35% du risque de complications cardiovasculaires chez les patients atteints d’hyper­tension périopératoire avant les interventions chirurgicales autres que les interventions de chirurgie cardiaque [3. Ces complications comprennent l’ischémie cardiaque, les événements cérébrovasculaires et les lésions rénales. Des hémorragies surviennent en outre plus fréquemment en cas de valeurs de PA hypertensives.
+
+Il n’existe pas de recommandations basées sur l’évidence relatives à la détermination de la valeur de PA périopératoire optimale. La question de savoir si c’est la valeur de PA systolique, diastolique, moyenne ou la pression pulsée qui a la plus haute valeur prédictive pour la morbidité et la mortalité périopératoires reste elle aussi incertaine. Il est en revanche clairement recommandé d’utiliser en tant que référence non pas la PA préopératoire mesurée le jour de l’opération, mais une valeur mesurée dans le contexte ambulatoire, dans l’idéal dans les 30 jours avant l’opération. Lorsqu’une mesure de la PA sur 24 heures a été réalisée, la valeur de PA diurne moyenne est la valeur de référence idéale [4]. Ce n’est pas la valeur de PA préopératoire élevée en soi, mais les atteintes d’organes cibles associées qui sont responsables des complications périopératoires [5]. Il est incontestable qu’une hypertension artérielle déjà contrôlée de façon optimale en amont est le moyen le plus efficace pour réduire au maximum le risque de telles complications. Cet aspect ainsi que la transmission de la valeur de PA préopératoire de référence illustrent la grande importance de l’évaluation préopératoire par le médecin de famille.
+
+Futier et al. ont montré que les dysfonctions organiques postopératoires étaient moins nombreuses en cas de traitement antihypertenseur intra-opératoire individualisé, dans le cadre duquel la PA est maintenue dans un intervalle d’au maximum 10% par rapport à la valeur systolique préopératoire de référence, permettant ainsi d’éviter des fluctuations de PA périopératoires importantes [6].
+
+En cas d’hypertension intra-opératoire, l’anesthésie est en règle générale tout d’abord approfondie. La profondeur de l’anesthésie peut être mesurée avec une déri­vation électroencéphalographique simplifiée (mesure de l’index bispectral, BIS). Lorsque l’anesthésie est trop ­approfondie, un profil spécifique d’activité électrique cérébrale réduite («burst suppression») est observé lors de cette mesure. En cas de présence concomitante d’une PA moyenne inférieure à 55 mm Hg, le risque de mortalité augmente significativement [7].
+
+Dans un article de revue paru en 2018, une PA moyenne (PAM) de <80 mm Hg pendant ≥10 min était associée à une mortalité légèrement accrue, ainsi qu’à un risque accru de lésions rénales et d’ischémie myocardique et cérébrovasculaire [8].
+
+Mauvaise observance médicamenteuse
+
+Notre rencontre avec cette patiente soulève d’importantes questions au sujet du traitement de l’hypertension préopératoire. Au regard du nombre croissant de patients gériatriques et de l’augmentation de la polypharmacie, les cas de mauvaise observance surviendront probablement plus fréquemment. Alors que les patients qui reçoivent des produits à inhaler ou des médicaments à auto-injecter sont minutieusement instruits et surveillés, lorsque nous prescrivons des médicaments oraux, nous pensons moins à vérifier leur utilisation (surtout lorsque le patient affirme les prendre de façon fiable). Lors de la prescription, il convient toutefois de tenir compte du fait que les patients, notamment gériatriques, qui prennent différents médicaments peuvent être dépassés. Ainsi, la section des comprimés lorsque la motricité fine est en déclin, la confusion entre les préparations en raison d’une presbytie ou même les difficultés de déglutition liées à des problèmes de coordination peuvent conduire à des erreurs médicamenteuses. Chez notre patiente, la complexité du traitement a possiblement contribué à la mauvaise observance, le nombre de comprimés prescrits jouant un rôle déterminant. Plus le nombre de comprimés différents prescrits est élevé, plus l’observance des patients est mauvaise. Une étude de Gupta et al. publiée en 2017 a révélé les faits suivants: pour un traitement avec un comprimé, la non-adhérence est de <10%, avec deux comprimés de 20%, et avec trois comprimés de déjà 40%. Des taux très élevés de non-adhérence ou d’adhérence partielle sont observés chez les patients qui sont traités avec cinq comprimés ou plus [9].
+
+L’essentiel pour la pratique
+
+• Il convient de réduire la mauvaise observance médicamenteuse au moyen d’un traitement le plus simple possible (privilégier les préparations d’association, prescrire moins de comprimés).
+
+• La valeur de pression artérielle mesurée au cabinet de médecine de ­famille (dans l’idéal, moyenne diurne de la mesure sur 24 heures en ­ambulatoire) ou en consultation préopératoire fait office de valeur de ­référence périopératoire.
+
+• Un traitement par bêtabloquants établi avant l’opération doit être poursuivi.
+
+• Les causes réversibles doivent être prises en considération et éventuellement être traitées (anxiolytique, analgésique).
+
+• Pas de report d’une opération planifiée en cas de pression artérielle systolique <180 mm Hg et de pression artérielle diastolique <110 mm Hg, sans indices de nouvelles lésions d’organes cibles ou d’hypertension ­secondaire.
+
+• La valeur de pression artérielle périopératoire cible est fonction de la ­valeur de référence, l’objectif étant de mettre en place un traitement anti­hypertenseur individualisé avec une valeur se situant dans un intervalle d’au maximum 10% par rapport à la valeur de référence préopératoire.

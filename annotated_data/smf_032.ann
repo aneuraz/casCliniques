@@ -1,0 +1,158 @@
+T1	disorder 35 62	endocardite de la fièvre Q 
+T2	disorder 67 93	hémorragie intracérébrale 
+T3	labvalue 141 158	Coxiella burnetii
+T4	procedure 163 195	PCR («polymerase chain reaction»
+T5	disorder 350 363	 endocardite 
+T6	disorder 373 385	endocardites
+T7	procedure 388 396	cultures
+T8	labvalue 397 407	négatives 
+T9	procedure 474 504	analyses sérologiques rapides 
+T10	procedure 659 704	’implantation d’une valve aortique biologique
+T11	disorder 706 737	coronaropathie monotronculaire 
+T12	disorder 740 750	épilepsie 
+T13	disorder 827 845	érythème du visage
+T14	disorder 888 906	poussées de fièvre
+T15	disorder 924 942	 sueurs nocturnes.
+T16	procedure 1028 1052	analyses de laboratoire 
+T17	disorder 1067 1079	pancytopénie
+T18	disorder 1081 1091	leucopénie
+T19	labvalue 1093 1101	3,3 G/l)
+T20	disorder 1103 1109	anémie
+T21	labvalue 1111 1124	Hb 11,1 g/dl)
+T22	disorder 1128 1145	thrombocytopénie 
+T23	labvalue 1146 1153	91 G/l)
+T24	procedure 1159 1178	transaminases (ASAT
+T25	labvalue 1179 1187	106 U/l)
+T26	procedure 1194 1218	protéine C réactive (CRP
+T27	labvalue 1220 1227	59 mg/l
+T28	disorder 1273 1284	collagénose
+T29	procedure 1290 1319	anticorps antinucléaires (ANA
+T30	procedure 1345 1358	hémocultures 
+T31	disorder 1427 1445	érythème du visage
+T32	disorder 1471 1492	 érysipèle (atypique)
+T33	procedure 1500 1510	traitement
+T34	drugs 1514 1545	 amoxicilline/acide clavulaniqu
+T35	procedure 1681 1684	CRP
+T36	labvalue 1686 1695	4,5 mg/l)
+T37	disorder 1744 1759	toux productive
+T38	disorder 1867 1900	purpura au niveau des deux jambes
+T39	procedure 1904 1915	échographie
+T40	disorder 1929 1942	splénomégalie
+T41	procedure 1948 1971	analyses de laboratoire
+T42	disorder 2005 2015	leucopénie
+T43	labvalue 2017 2024	3,5 G/l
+T44	disorder 2034 2041	anémie 
+T45	procedure 2042 2044	Hb
+T46	labvalue 2045 2053	9,0 g/dl
+T47	procedure 2060 2084	vitesse de sédimentation
+T48	procedure 2086 2089	VS;
+T49	labvalue 2090 2099	110 mm/h)
+T50	procedure 2105 2110	 CRP 
+T51	labvalue 2111 2121	12,9 mg/l)
+T52	procedure 2198 2202	’ANA
+T53	labvalue 2204 2210	1:2560
+T54	disorder 2215 2221	 lupus
+T55	procedure 2302 2321	bilan hématologique
+T56	disorder 2380 2388	 fébrile
+T57	labvalue 2390 2398	38,1 °C)
+T58	disorder 2445 2468	douleurs pectangineuses
+T59	procedure 2482 2497	(troponine T hs
+T60	labvalue 2510 2520	 479 ng/l,
+T61	procedure 2521 2536	créatine kinase
+T62	labvalue 2537 2544	normale
+T63	procedure 2546 2566	ECG à 12 dérivations
+T64	disorder 2579 2631	bloc auriculo-ventriculaire I sans signes d’ischémie
+T65	disorder 2657 2717	’infarctus du myocarde sans élévation du segment ST (NSTEMI)
+T66	procedure 2721 2754	échocardiographie transthoracique
+T67	disorder 2768 2814	dégénérescence de la valve aortique biologique
+T68	disorder 2835 2854	légère insuffisance
+T69	disorder 2862 2905	hypokinésie inférieure du ventricule gauche
+T70	disorder 2922 2998	état inflammatoire fébrile d’origine indéterminée («fever of unknown origin»
+T71	procedure 3133 3156	analyses de laboratoire
+T72	procedure 3205 3209	CRP 
+T73	labvalue 3210 3217	19 mg/l
+T74	procedure 3223 3225	VS
+T75	procedure 3231 3235	ANA 
+T76	labvalue 3235 3245	augmentés 
+T77	labvalue 3246 3251	1:640
+T78	procedure 3260 3280	facteurs rhumatoïdes
+T79	labvalue 3281 3288	élevés 
+T80	labvalue 3289 3296	478 U/m
+T81	disorder 3320 3342	maladie rhumatologique
+T82	disorder 3391 3407	lymphadénopathie
+T83	disorder 3414 3428	splénomégalie 
+T84	procedure 3445 3491	tomodensitométrie (TDM) thoracique/abdominale 
+T85	disorder 3521 3529	lymphome
+T86	procedure 3541 3565	11 paires d’hémocultures
+T87	labvalue 3740 3749	 stériles
+T88	procedure 3814 3891	tomographie par émission de positons couplée à la tomodensitométrie (TEP/TDM)
+T89	disorder 3958 3986	maladie lymphoproliférative,
+T90	procedure 4088 4099	TEP/TDM 18F
+T91	disorder 4122 4145	l’abcès paravalvulaire 
+T92	procedure 4159 4194	échocardiographie transœsophagienne
+T93	disorder 4224 4245	abcès paravalvulaire 
+T94	disorder 4251 4313	égère insuffisance aortique transvalvulaire et paravalvulaire 
+T95	procedure 4395 4431	’échocardiographie transœsophagienne
+T96	disorder 4515 4537	L’abcès paravalvulaire
+T97	disorder 4650 4705	endocardite sur prothèse valvulaire à culture négative 
+T98	procedure 4730 4741	sérologies 
+T99	procedure 4869 4891	antigénurie légionelle
+T100	procedure 4914 4926	PCR du sang 
+T101	disorder 5096 5132	 infection à Mycobacterium chimaera 
+T102	procedure 5177 5219	ntervention de chirurgie cardiaque ouverte
+T103	procedure 5225 5275	hémocultures ont été prélevées sur tubes citratés 
+T104	procedure 5282 5303	PCR espèce-spécifique
+T105	procedure 5339 5360	traitement empirique 
+T106	drugs 5422 5433	vancomycine
+T107	drugs 5440 5451	gentamicine
+T108	drugs 5460 5471	rifampicine
+T109	drugs 5498 5513	clarithromycine
+T110	drugs 5521 5532	’éthambutol
+T111	irrelevant 5535 5595;5596 5635	Tableau 1: Examens en cas d’endocardite à culture négative*. Germe	Maladie	Mise en évidence	Contexte
+T111	irrelevant 5636 5866;5867 6071	Coxiella burnetii	Fièvre Q	Sérologie (critère majeur, pour le diagnostic d’endocardite), PCR de tissu (valve ­cardiaque, etc.); attention: réactions ­croisées avec Bartonella henselae.	Contact avec des animaux, zoonose (cf. texte) Bartonellaspp.	Maladie des griffes du chat (B. henselae)	Sérologie, PCR de sang ou de tissu	Contact avec des chats (B. henselae) ou ­conditions d’hygiène précaires (B. quintana; transmission par les poux)
+T111	irrelevant 6072 6107;6108 6254	fièvre des ­tranchées (B. quintana) Brucellaspp.	Brucellose	Sérologie, PCR	Contact avec des animaux, zoonose; voyage dans des pays méditerranéens, consommation de lait non pasteurisé
+T111	irrelevant 6255 6471;6472 6629	Tropheryma whipplei	Maladie de Whipple	PCR, biopsie duodénale avec mise en ­évidence de macrophages PAS-positifs	Arthralgies, diarrhée et perte de poids, douleurs abdominales; touche surtout les hommes; ­maladie rare Chlamydiaspp.	Pneumonie (C. pneumoniae) 	Sérologie; attention: réactions croisées ­fréquentes avec Bartonella spp.Endocardite très rare	Endocardite très rare
+T111	irrelevant 6630 6655;6656 6681	trachome (C. trachomatis) ­psittacose (C. psittaci)
+T111	irrelevant 6682 6733;6734 6813	Mycoplasmaspp.	Pneumonie	Sérologie	Endocardite rare Legionellaspp.	Pneumonie	Antigène dans l’urine, sérologie, PCR	Endocardite rare
+T111	irrelevant 6814 6971;6972 7116	Francisella tularensis	Tularémie	Sérologie, PCR du sang	Contact avec des animaux, zoonose; lymphadénopathie, fièvre, pneumonie; endocardite ­extrêmement rare Aspergillusspp.	Aspergillose	PCR, mise en évidence de galactomannane libre	Porteurs de valves cardiaques artificielles, ­patients immunodéprimés
+T111	irrelevant 7117 7370;7371 7833	Candidaspp.	Candidose	PCR, milieux de culture spécifiques, mise en évidence d’antigènes et d’anticorps de ­Candida (mannane et anti-mannane)	Toxicomanie, nutrition parentérale, chirurgie ­intestinale extensive, tumeur maligne, antibio­thérapie préalable * Représente env. 10% de toutes les endocardites. Les examens initiaux recommandés sont surlignés en bleu. Les endocardites peuvent également donner des cultures négatives en raison d’une antibiothérapie préalable.Il convient de veiller à une durée d’incubation suffisamment longue des hémocultures (jusqu’à 14 jours, et non pas 6 jours comme habituellement) afin de ne pas manquer des bactéries à croissance lente comme Corynebacterium acnes ou le groupe HACEK.
+T111	irrelevant 7834 8365	L’endocardite marantique, l’endocardite de Libman-Sacks et l’endocardite dans le cadre de la maladie de Behçet sont également des endocardites à cultures négatives.La PCR à large spectre du sang avec amplification de l’ARN ribosomique 16S (bactéries) ou de l’ARN ribosomique 18S (champignons) est utile pour l’identification du germe, mais elle a une faible sensibilité. PCR: «polymerase chain reaction»; HACEK: Haemophilus spp., Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae.
+T112	procedure 8475 8507	a racine aortique a été débridée
+T113	procedure 8407 8442	prothèse biologique a été explantée
+T114	procedure 8512 8567	voie d’éjection ventriculaire gauche a été reconstruite
+T115	procedure 8575 8620	bioprothèse (racine aortique) a été implantée
+T116	procedure 8635 8710	pontage aorto-coronaire veineux a été réalisé sur l’artère coronaire droite
+T117	disorder 8772 8817	nfarctus étendu de l’artère cérébrale moyenne
+T118	procedure 8934 8976	’anticoagulation du circuit extracorporel 
+T119	procedure 8985 9000	 traitement par
+T120	drugs 9001 9024	acide acétylsalicylique
+T121	disorder 9071 9082	hémorragie 
+T122	procedure 9235 9262	tomodensitométrie crânienne
+T123	disorder 9309 9389	volumineuse hémorragie pariéto-­temporale à droite avec effraction ventriculaire
+T124	disorder 9394 9409	œdème périfocal
+T125	disorder 9451 9492	engagement sous-falcoriel vers la gauche,
+T126	disorder 9496 9521	engagement uncal à droite
+T127	procedure 9628 9654	Un drainage ventriculaire 
+T128	procedure 9700 9721	hématome a été évacué
+T129	procedure 9726 9779	PCR bactérienne à large spectre de la valve aortique 
+T130	labvalue 9803 9811	positive
+T131	labvalue 9817 9834	Coxiella burnetii
+T132	procedure 9850 9870	PCR du tissu cérébra
+T133	procedure 9878 9897	sérologie sanguine 
+T134	disorder 10043 10079	endocardite de la fièvre Q chronique
+T135	procedure 10123 10132	sérologie
+T136	procedure 10400 10428	 anti-infectieux administrés
+T137	procedure 10467 10481	traitement par
+T138	drugs 10482 10493	doxycycline
+T139	drugs 10497 10511	ciprofloxacine
+T140	drugs 10543 10557	ciprofloxacine
+T141	drugs 10620 10638	hydroxychloroquine
+T142	procedure 10824 10846	contrôles sérologiques
+T143	irrelevant 10905 10915;10916 10928	Discussion Introduction
+T143	irrelevant 10930 11548;11550 11574	La fièvre Q est une zoonose répandue à l’échelle mondiale, qui est causée par la bactérie intracellulaire obligatoire à Gram négatif Coxiella burnetii[1, 11, 12]. Un très faible nombre de bactéries suffit pour provoquer une infection. Parmi les réservoirs figurent les oiseaux, les tiques et divers mammifères, comme entre autres les moutons, les bovins ou les chèvres [11]. Le patient avait justement eu des contacts avec des chèvres à l’étranger, comme l’a révélé l’anamnèse postopératoire. La contamination se fait le plus souvent par inhalation d’aérosols infectés et très rarement par transmission orale [11, 13].  Manifestations cliniques
+T143	irrelevant 11576 12513;12515 12525	La période d’incubation est de 2–3 semaines [11]. Les symptômes initiaux ne sont pas spécifiques. Les cas symptomatiques présentent une évolution pseudo-grippale, sous forme de pneumonie atypique ou d’hépatite. Des exanthèmes livides avec de la fièvre sont décrits dans 20% des cas, tandis qu’une méningo-encéphalite ou une (péri)myocardite est décrite dans 0,5–1% des cas. Dans environ 1% des cas, une fièvre Q chronique se développe après des semaines voire des années, le plus souvent (⅔) sous forme d’endocardite ou d’infection sur prothèse vasculaire. Les facteurs prédisposants d’une telle évolution sont les valvulopathies, la présence de matériel étranger implanté et l’immunosuppression [11]. Des infarctus systémiques ou cérébraux d’origine embolique peuvent survenir [11]. Par ailleurs, des glomérulonéphrites à complexes immuns, une hépatomégalie, une splénomégalie ou une insuffisance cardiaque se retrouvent également [11].  Diagnostic
+T143	irrelevant 12527 13202;13204 13774	La combinaison d’une réaction inflammatoire systémique et d’une cardiopathie valvulaire, ainsi qu’une exposition possible révélée par l’anamnèse, doivent faire évoquer une endocardite de la fièvre Q. Les ­analyses de laboratoire révèlent une anémie, une thrombocytopénie, des paramètres inflammatoires augmentés (y compris sédimentation sanguine), des transaminases augmentées ou une élévation de la créatinine. Des auto-anticorps et des complexes immuns libres peuvent parfois être mis en évidence. A l’échocardiographie, une végétation valvulaire est uniquement objectivée dans environ 12% des cas [11]. La TEP/TDM peut contribuer à la pose du diagnostic d’endocardite [2].  Coxiella burnetii est responsable de plus de 50% de toutes les endocardites à cultures négatives [12]. Le diagnostic repose sur la mise en évidence d’anticorps. Au cours de la maladie aiguë, des anticorps dirigés contre l’antigène de phase II sont en premier lieu formés; des titres élevés d’anticorps anti-phase I sont typiques d’une évolution chronique [1]. Un titre d’IgG de phase I >1:800 est diagnostique d’une endocardite [2, 11, 12, 14, 15]. La bactérie peut être mise en évidence dans le tissu par examen immunohistochimique ou par PCR espèce-spécifique [2, 11].
+T143	irrelevant 13776 13786;13788 14891	Traitement  Le traitement antibiotique de l’endocardite de la fièvre Q repose sur l’association de doxycycline et d’hydroxychloroquine [1, 2, 11, 16]. La doxycycline en monothérapie n’est pas bactéricide en raison de l’acidité dans les phagolysosomes. L’hydroxychloroquine y exerce une action alcalinisante; l’association des deux principes actifs est bactéricide [1, 11]. C’est avec ce traitement d’association de 18 à 24 mois que les plus faibles taux de rechute ont été décrits [1, 11, 12]. L’objectif est d’atteindre des concentrations sériques de 1 ± 0,2 µg/ml pour l’hydroxychloroquine et de >5 µg/ml pour la doxycycline, ce qui est vérifié au moyen de contrôles [1, 11, 17]. En raison du profil d’effets indésirables de l’hydroxychloroquine, d’autres options thérapeutiques ont été recherchées. L’association de doxycycline et de ciprofloxacine semble constituer une alternative aussi efficace [16]. Une chirurgie est notamment indiquée en cas d’infection non contrôlée (abcès), d’insuffisance cardiaque due à une destruction valvulaire progressive ou (dans de rares cas) de végétations volumineuses [2, 11].
+T143	irrelevant 14893 15296	Afin de déterminer la durée de traitement, des analyses sérologiques sont réalisées tous les 1–6 mois. Des contrôles de suivi échocardiographiques et ophtalmologiques sont nécessaires tous les trois mois [1, 11, 12]. Une baisse du titre d’IgG de phase I à <1:200 est visée [2]. Une diminution d’au moins quatre fois du titre après la première année est un bon indicateur de succès thérapeutique [1, 12].
+T144	irrelevant 15298 15326;15328 15605	L’essentiel pour la pratique  • Chez les patients porteurs d’une valve cardiaque artificielle qui présentent un état inflammatoire, il convient de songer précocement à une endocardite. Le diagnostic et le traitement sont interdisciplinaires («équipe pluridisciplinaire de prise en charge de l’endocardite»).
+T144	irrelevant 15607 15788;15790 15973	• Lorsque les hémocultures sont négatives, des agents pathogènes à culture négative doivent être recherchés par sérologie. Coxiella burnetii est l’agent pathogène le plus prévalent.  • La doxycycline et l’hydroxychloroquine représentent le traitement de choix. Des sérologies de suivi régulières et des contrôles de la concentration des médicaments sont nécessaires.

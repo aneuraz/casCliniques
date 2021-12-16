@@ -1,0 +1,84 @@
+T1	disorder 74 100	syndrome du canal carpien 
+T2	disorder 101 104	SCC
+T3	disorder 113 139	neuropathie de compression
+T4	disorder 260 290	pression dans le canal carpien
+T5	disorder 306 339	synovite des tendons fléchisseurs
+T6	disorder 345 352	tumeurs
+T7	disorder 390 402	traumatiques
+T8	disorder 358 380	altérations spatiales 
+T9	disorder 420 448	fractures distales du radius
+T10	disorder 453 475	luxations périlunaires
+T11	disorder 488 508	 fractures-luxations
+T12	disorder 515 524	symptômes
+T13	disorder 562 574	paresthésies
+T14	disorder 575 584	nocturnes
+T15	disorder 590 604	fourmillements
+T16	disorder 613 625	douloureuses
+T17	disorder 627 643	acroparesthésies
+T18	disorder 644 653	nocturnes
+T19	disorder 660 686	troubles de la sensibilité
+T20	disorder 773 789	déficits moteurs
+T21	procedure 831 841	l’anamnèse
+T22	procedure 847 862	examen clinique
+T23	procedure 867 879	neurographie
+T24	procedure 885 896	échographie
+T25	procedure 934 945	échographie
+T26	irrelevant 990 2200;2202 2783;2785 2946;2948 2967	Durant le développement embryonnaire, l’artère médiane constitue le vaisseau axial central des extrémités supérieures, qui régresse généralement au deuxième mois du développement embryonnaire après formation de l’artère radiale et de l’artère ulnaire. Une artère médiane persistante (AMP) se retrouve chez ­environ 5% de la population, souvent en relation avec un nerf médian bifide et, dans certains cas, de manière bilatérale. La prévalence varie toutefois considérablement en fonction de la population examinée; ainsi, une AMP survient nettement plus souvent chez les nouveau-nés et les enfants que chez les adultes [2]. Diverses variantes du vaisseau sont décrites: dans le cas du type «avant-bras», le vaisseau relativement frêle se termine au niveau proximal du canal carpien; en présence du type «paume de la main», il s’agit d’une artère plus vigoureuse qui se prolonge jusqu’à la paume de la main, constitue alors typiquement le vaisseau alimentant le nerf médian et peut être responsable de l’irrigation d’un ou plusieurs doigts [3]. Sa taille varie, allant d’un minuscule faisceau vasculaire résiduel jusqu’à un vaisseau de grand calibre présentant le diamètre d’une ­artère normale de l’avant-bras.  Bien que la présence d’une AMP ne représente en soi pas un facteur de risque du syndrome du canal carpien [2], l’AMP a été décrite comme déclencheur d’un SCC dans divers publications. Toutefois, il n’existe pas nécessairement d’altérations pathologiques, telle que la thrombose ou l’anévrisme, au niveau du vaisseau. Il est davantage supposé que le volume du vaisseau puisse, à lui seul, augmenter la pression dans le canal carpien. Une ischémie concomitante des doigts est rare [4], car l’approvisionnement sanguin est généralement assuré par l’artère radiale ou l’artère ulnaire.  Cet article décrit le cas d’un patient souffrant d’un SCC dû à une thrombose provoquée d’une AMP, avec troubles circulatoires intermittents au niveau de l’index.  Présentation du cas
+T27	procedure 2968 2976	Anamnèse
+T28	profession 2981 2990	cuisinier
+T29	disorder 3080 3089	symptômes
+T30	disorder 3093 3096	SCC
+T31	disorder 3195 3203	douleurs
+T32	disorder 3207 3214	poignet
+T33	disorder 3267 3279	paresthésies
+T34	disorder 3285 3299	fourmillements
+T35	disorder 3324 3332	symptôme
+T36	procedure 3365 3380	examen clinique
+T37	disorder 3394 3413	sensibilité réduite
+T38	procedure 3457 3471	test de Phalen
+T39	disorder 3487 3494	douleur
+T40	disorder 3543 3548	signe
+T41	disorder 3552 3574	troubles circulatoires
+T42	procedure 3618 3643	examen neurophysiologique
+T43	disorder 3739 3742	SCC
+T44	procedure 3793 3804	échographie
+T45	procedure 3805 3829	nerveuse haute fréquence
+T46	procedure 3889 3902	l’échographie
+T47	disorder 3964 3979	AMP anévrismale
+T48	disorder 4000 4010	thrombosée
+T49	disorder 4053 4088	interruption du signal d’écoulement
+T50	procedure 4101 4120	examen angiologique
+T51	disorder 4157 4170	hypoperfusion
+T52	disorder 4187 4222	temps de recapillarisation prolongé
+T53	procedure 4264 4278	oscillographie
+T54	procedure 4316 4330	l’angiographie
+T55	drugs 4357 4377	produit de contraste
+T56	drugs 4424 4433	contraste
+T57	disorder 4591 4621	’occlusion de l’artère ulnaire
+T58	procedure 4705 4718	échographique
+T59	disorder 4802 4812	thrombosée
+T60	disorder 4907 4919	Interruption
+T61	drugs 4923 4932	contraste
+T62	drugs 5001 5010	contraste
+T63	procedure 5083 5097	l’angiographie
+T64	procedure 5122 5132	Traitement
+T65	procedure 5157 5189	section du toit du canal carpien
+T66	procedure 5195 5215	anesthésie régionale
+T67	procedure 5277 5286	résection
+T68	procedure 5313 5324	l’opération
+T69	drugs 5330 5345	anticoagulation
+T70	drugs 5356 5367	rivaroxaban
+T71	drugs 5369 5376	Xarelto
+T72	disorder 5418 5452	’occlusion vasculaire thrombotique
+T73	disorder 5474 5499	extension de la thrombose
+T74	disorder 5507 5514	embolie
+T75	procedure 5561 5593	section du toit du canal carpien
+T76	disorder 5597 5623	artère ­médiane thrombosée
+T77	disorder 5704 5707	SCC
+T78	disorder 5691 5700	symptômes
+T79	procedure 5784 5795	l’opération
+T80	drugs 5797 5814	l’anticoagulation
+T81	procedure 5837 5860	recanalisation de l’AMP
+T82	procedure 5984 5995	l’opération
+T83	disorder 6033 6042	symptômes
+T84	irrelevant 6045 6055;6057 6931;6933 7769;7771 8468;8470 8719;8721 8998;9000 9912;9914 10289;10291 10518;10520 10548;10550 10748;10750 11206;11208 11409	Discussion  En tant que variante anatomique, l’AMP n’a pas de ­valeur pathologique; un risque accru de développer un SCC n’a pu être mis en évidence [2]. En présence d’altérations pathologiques de l’AMP, telles que thrombose, anévrisme ou dissection, un SCC ou des troubles de la perfusion de la main peuvent toutefois survenir [5]. Une altération comparable se rencontre dans le cas du syndrome hypothénarien du marteau, qui concerne l’artère ulnaire dans la paume de la main. En raison d’une contrainte mécanique excessive de l’éminence hypothénar, utilisée comme un marteau, un anévrisme avec ou sans thrombose de l’artère ulnaire se développe [3]. Les contraintes mécaniques provoquées par la randonnée à vélo en descente pourraient, dans notre cas, avoir entraîné un élargissement anévrismal de l’AMP avec thrombose consécutive ou une thrombose d’un éventuel anévrisme préexistant.  Contrairement au SCC idiopathique avec son début généralement insidieux et son tableau clinique typique, notre patient présentait une symptomatique aiguë avec déclencheur et essentiellement des douleurs du poignet sans les critères diagnostiques neurographiques ou échographiques typiques d’un SCC. Cette constellation peut s’expliquer par la thrombose de l’AMP: d’une part, il se produit une compression locale du nerf médian due à l’élargissement anévrismal du vaisseau avec œdème concomitant; d’autre part, l’AMP participe à la perfusion du nerf médian [3], d’où la ­survenue possible d’une ischémie relative du nerf en présence d’une occlusion. Les anomalies neurologiques peuvent ainsi être expliquées, même si aucune altération perceptible au niveau du nerf n’a pu être détectée à l’échographie et à l’examen électrophysiologique.  Il existait par ailleurs des troubles de la perfusion de l’index. En termes de diagnostic différentiel, ceux-ci peuvent s’expliquer soit de manière structurelle – par des embolies artério-artérielles issues du segment vasculaire thrombosé – soit de manière fonctionnelle, car des altérations de l’adventice artérielle peuvent entraîner la stimulation réflexe des fibres nerveuses sym­pathiques accompagnantes et ainsi des vasospasmes distaux [4]. Dans cette situation, une adventicectomie peut aboutir à la normalisation de la circulation sanguine. Après l’opération, la perfusion s’est rapidement normalisée, sans qu’une sympathectomie ni une résection vasculaire formelles n’aient été réalisées.  Nous supposons que la section du toit du canal carpien a traité simultanément les deux aspects physiopathologiques, d’une part la compression du nerf médian, d’autre part le tonus sympathique présumément accru accompagné de troubles de la perfusion.  Une AMP peut généralement être visualisée sans problème au moyen d’une échographie haute résolution. L’accessibilité de cette technique d’examen et le gain considérable d’informations soulignent l’importance du diagnostic échographique dans l’examen préopératoire d’un SCC [1].  Seuls des rapports de cas isolés ou de petites séries de cas portant sur le SCC en rapport avec une AMP se trouvent dans la littérature. Le plus souvent, une section du toit du canal carpien a été réalisée, parfois combinée à une excision du segment vasculaire thrombosé [1]. Des traitements conservateurs à base d’anticoagulants oraux et des cas d’amélioration spontanée ont également été décrits. Les traitements hétérogènes et le faible nombre de cas rendent la comparabilité difficile. Toutefois, les publications ont en commun que la quasi-totalité des patients étaient exempts de symptômes après le traitement, qu’il soit conservateur ou chirurgical. Des recommandations thérapeutiques basées sur l’évidence ne sont pas disponibles. En l’absence de symptômes d’un SCC, le traitement conser­vateur par anticoagulation se trouve au premier plan afin de prévenir une extension de la thrombose et des embolies.  D’après la littérature, la décompression chirurgicale du nerf médian dans le canal carpien constitue la ­méthode de choix en présence de symptômes du SCC. L’intervention est peu invasive et s’accompagne d’une faible morbidité. En cas de troubles circulatoires manifestes significatifs, un diagnostic approfondi doit clarifier la nécessité d’une reconstruction vasculaire [5].  La section du toit du canal carpien réalisée dans notre cas a abouti à la disparition des symptômes. L’anticoagulation orale avait pour objectif d’éviter une progression de l’occlusion ainsi que des embolisations périphériques.  L’essentiel pour la pratique  • Le syndrome du canal carpien (SCC), qui est fréquent, peut avoir des causes très rares. Le diagnostic est d’abord établi cliniquement, puis confirmé par neurographie et éventuellement échographie.  • Une artère médiane persistante ne présente pas de valeur pathologique en soi, mais peut favoriser l’apparition d’un SCC, en particulier en présence d’altérations pathologiques, telles que thrombose ou anévrisme. Contrairement au SCC classique, le tableau clinique est, dans ce cas, ­atypique avec une évolution ­aiguë et des douleurs prononcées. Sur le plan thérapeutique, la décompression chirurgicale du nerf médian se trouve également au premier plan.  • L’examen échographique préopératoire du SCC gagne en importance, car il permet de détecter des causes ou des variations anatomiques rares, qui peuvent être intégrées à la planification du traitement.

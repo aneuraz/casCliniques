@@ -1,0 +1,46 @@
+T1	procedure 15 24	 l'examen
+T2	disorder 37 56	dérobement du genou
+T3	disorder 78 155	diminution de la force musculaire du quadriceps et du réflexe rotulien gauche
+T4	disorder 160 219	marche sur les talons et la pointe des pieds est impossible
+T5	disorder 306 327	cruralgie paralysante
+T6	procedure 348 355	scanner
+T7	disorder 385 397	 discopathie
+T8	disorder 420 435	 canal rétréci 
+T9	disorder 454 490	hypertrophie articulaire postérieure
+T10	procedure 618 630	intervention
+T11	procedure 676 688	consultation
+T12	procedure 959 975	bilan biologique
+T13	procedure 993 1001	glycémie
+T14	labvalue 1004 1011	2,3 g/l
+T15	procedure 1298 1310	hospitalisée
+T16	disorder 1372 1460	arthrodèse lombaire postérieure avec laminectomie, cages intersomatiques L3/L4 et L4/L5 
+T17	disorder 1463 1515	réduction fixation par vis et tiges postérolaterales
+T18	procedure 1568 1575	scanner
+T19	procedure 1753 1770	 bilan biologique
+T20	procedure 1926 1937	rééducation
+T21	procedure 2159 2172	 rééducation 
+T22	disorder 2191 2205	perte de poids
+T23	disorder 2272 2290	troubles digestifs
+T24	disorder 2601 2615	amaigrissement
+T25	disorder 2670 2677	nausées
+T26	procedure 2708 2719	rééducation
+T27	disorder 2729 2795	pouvait pas s'alimenter en raison de la mauvaise qualité des repas
+T28	risk 2987 3027	buvait beaucoup de boissons très sucrées
+T29	disorder 3039 3059	urinait en abondance
+T30	disorder 3137 3169	aggravation de son état général 
+T31	disorder 3190 3204	amaigrissement
+T32	procedure 3222 3238	bilan biologique
+T33	procedure 3291 3300	glycémie 
+T34	labvalue 3305 3313	7,55 g/l
+T35	procedure 3317 3322	HbA1c
+T36	labvalue 3325 3329	11 %
+T37	disorder 3347 3379	corps cétoniques dans les urines
+T38	procedure 3399 3411	hospitaliser
+T39	procedure 3479 3495	insulinothérapie
+T40	procedure 3542 3578	rééquilibration hydro électrolytique
+T41	disorder 3595 3614	insuffisance rénale
+T42	disorder 3625 3639	déshydratation
+T43	procedure 3660 3669	perfusion
+T44	procedure 3776 3793	 insulinothérapie
+T45	procedure 3821 3850	consignes hygiéno-diététiques
+T46	irrelevant 4042 4212;4214 4251;4253 4288;4290 4343	Assignation du médecin traitant, des anesthésistes et de la clinique chirurgicale par la patiente pour obtenir réparation du préjudice qu’elle avait subi (janvier 2016 ).  Analyse approfondie (pdf - 340.80 Ko)  Analyse détaillée (pdf - 333.50 Ko)  Analyse selon la méthode des tempos (pdf - 254.76 Ko)

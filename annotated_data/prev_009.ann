@@ -1,0 +1,15 @@
+T1	profession 78 97	chirurgien-dentiste
+T2	disorder 107 121	douleur sur 46
+T3	procedure 165 177	décès brutal
+T4	procedure 400 435	traitement canalaire de 46 nécrosée
+T5	procedure 442 452	détartrage
+T6	procedure 474 502	prescription d’antibiotiques
+T7	disorder 547 570	endocardite infectieuse
+T8	disorder 594 615	bio-prothèse aortique
+T9	disorder 632 660	accident vasculaire cérébral
+T10	disorder 691 708	perte d’autonomie
+T11	disorder 712 719	aphasie
+T12	disorder 721 743	paralysie oculomotrice
+T13	disorder 745 764	ataxie cérébelleuse
+T14	disorder 770 793	troubles de l’équilibre
+T15	procedure 798 822	marche avec déambulateur

@@ -1,0 +1,130 @@
+T1	irrelevant 0 8;10 854	Contexte  Les lombalgies sont fréquentes et chez les patients jeunes, elles sont le plus souvent anodines. En conséquence, un examen d’imagerie n’est généralement pas recommandé («less is more») durant la phase aiguë (quatre à six semaines). Cela vaut également pour les douleurs chroniques (plus de trois mois) [1]. En présence de «red flags» (signes radiculaires avec déficits neurologiques, âge <20 ou >50 ans, symptômes B, douleurs au repos/la nuit, douleurs thoraciques, immunosuppression, ostéoporose, traumatisme), des examens complémentaires sont néanmoins nécessaires. La radiographie conventionnelle en position debout fait alors partie de l’examen de base [1]. Dans cet article, nous décrivons le cas inhabituel d’une patiente jeune avec lombalgie, chez laquelle le diagnostic a uniquement pu être posé suite à des investigations approfondies.
+T2	disorder 1018 1029	maux de dos
+T3	disorder 1094 1104	 faiblesse
+T4	disorder 1112 1119	fatigue
+T5	disorder 1112 1119	fatigue
+T6	disorder 1129 1145	éruption cutanée
+T7	disorder 1129 1145	éruption cutanée
+T8	disorder 1219 1233	polytraumatism
+T9	disorder 1236 1253	fracture du fémur
+T10	disorder 1261 1295	fracture de la tête tibiale droite
+T11	disorder 1297 1325	fracture de la jambe droite 
+T12	disorder 1330 1369	syndrome de compression du nerf saphène
+T13	disorder 1373 1411	endoprothèse totale de l’épaule gauche
+T14	disorder 1373 1411	endoprothèse totale de l’épaule gauche
+T15	disorder 1434 1462	syndrome douloureux complexe
+T16	drugs 1504 1524	nalgésiques opioïdes
+T17	drugs 1564 1573	méthadone
+T18	drugs 1581 1592	gabapentine
+T19	drugs 1602 1614	trimipramine
+T20	risk 1651 1658	drogues
+T21	procedure 1788 1804	rythme cardiaque
+T22	labvalue 1836 1843	106/min
+T23	disorder 1823 1834	tachycardie
+T24	procedure 1848 1864	examen physique 
+T25	labvalue 1876 1949	 légère douleur à la pression dans la région du rachis lombaire inférieur
+T26	labvalue 1876 2225	 légère douleur à la pression dans la région du rachis lombaire inférieur, sans irradiation ni apparition de nouveaux déficits neurologiques, mais avec toutefois une faiblesse préexistante du gros orteil et du releveur du pied. Au niveau de l’abdomen, le foie était palpable à une largeur de main sous l’arc costal; la rate était également palpable.
+T27	procedure 2228 2246	inspection cutanée
+T28	labvalue 2253 2273	sans particularités.
+T29	procedure 2294 2318	analyses de laboratoire 
+T30	disorder 2333 2380	anémie microcytaire hypochrome hyporégénérative
+T31	procedure 2382 2393	hémoglobine
+T32	labvalue 2394 2399	74g/l
+T33	disorder 2405 2431	 insuffisance rénale aiguë
+T34	procedure 2433 2443	créatinine
+T35	labvalue 2444 2454	129 µmol/l
+T36	procedure 2456 2488	débit de filtration glomérulaire
+T37	labvalue 2496 2515	45,4 ml/min/1,73 m2
+T38	labvalue 2522 2550	microhématurie ­glomérulaire
+T39	procedure 2559 2577	sédiment urinaire 
+T40	labvalue 2580 2610	protéinurie mixte de 1 gr/24 h
+T41	procedure 2661 2683	 paramètres hépatiques
+T42	labvalue 2684 2691	normaux
+T43	procedure 2695 2727	spartate aminotransférase [ASAT]
+T44	labvalue 2728 2734	18 U/l
+T45	procedure 2736 2768	alanine amino­transférase [ALAT]
+T46	labvalue 2769 2774	8 U/l
+T47	procedure 2776 2786	bilirubine
+T48	labvalue 2787 2795	7 µmol/l
+T49	procedure 2797 2817	phosphatase alcaline
+T50	labvalue 2818 2824	99 U/l
+T51	procedure 2826 2857	gamma-glutamyltransférase [GGT]
+T52	labvalue 2858 2864	28 U/l
+T53	procedure 2873 2898	protéine C réactive [CRP]
+T54	labvalue 2901 2911	 65,2 mg/l
+T55	procedure 2944 2961	 biopsie cuta­née
+T56	labvalue 3014 3043	vascularite leucocytoclasique
+T57	procedure 3070 3117	radiographie conventionnelle du rachis lombaire
+T58	labvalue 3123 3131	 normale
+T59	procedure 3134 3227	’imagerie par résonance magnétique (IRM) avec produit de contraste de la région lombo-sacrée 
+T60	labvalue 3236 3376	des altérations érosives des plateaux vertébraux dans le segment L5/S1, ainsi qu’une suppression de la moelle jaune particulièrement dans L5
+T61	disorder 3760 3776	 spondylodiscite
+T62	disorder 3801 3813	maux de dos 
+T63	procedure 3883 3913	 IRM avec produit de contraste
+T64	labvalue 4005 4127	signes d’altérations dégénératives actives des plateaux vertébraux de type fibrovasculaire (Modic I) dans le segment L5/S1
+T65	procedure 4132 4168	tomodensitométrie (TDM) de l’abdomen
+T66	disorder 4204 4223	hépatosplénomégalie
+T67	procedure 4636 4656	 bilan hématologique
+T68	procedure 4668 4694	ponction de moelle osseuse
+T69	labvalue 4720 4743	carence en vitamine B12
+T70	disorder 4778 4787	’hémolyse
+T71	disorder 4794 4817	néoplasie hématologique
+T72	procedure 4830 4853	analyses de laboratoire
+T73	disorder 4943 4949	anémie
+T74	disorder 4958 4970	hépatopathie
+T75	procedure 5098 5108	sérologie 
+T76	labvalue 5108 5183	négative pour les virus de l’hépatite B, de l’hépatite C et de l’hépatite E
+T77	procedure 5236 5240	 VIH
+T78	labvalue 5241 5248	négatif
+T79	procedure 5255 5301	sérologies pour la syphilis et la leishmaniose
+T80	labvalue 5320 5328	normales
+T81	procedure 5406 5420	céruloplasmine
+T82	labvalue 5421 5429	1,15 g/l
+T83	procedure 5430 5440	 ferritine
+T84	labvalue 5441 5449	131 ug/l
+T85	disorder 5460 5480	hépatite auto-immune
+T86	disorder 5386 5404	 surcharge du foie
+T87	procedure 5482 5511	anticorps ­anti-mitochondries
+T88	procedure 5513 5543	anticorps anti-muscles lisses 
+T89	procedure 5513 5543	anticorps anti-muscles lisses 
+T90	procedure 5546 5566	anticorps anti-LKM-1
+T91	labvalue 5567 5575	négatifs
+T92	procedure 5582 5606	analyses rhumatologiques
+T93	procedure 5608 5638	anticorps antinucléaires [ANA]
+T94	procedure 5640 5704	anticorps anti-cytoplasme des polynucléaires neutrophiles [ANCA]
+T95	procedure 5706 5743	facteur rhumatoïde et compléments C3c
+T96	labvalue 5706 5743	facteur rhumatoïde et compléments C3c
+T97	labvalue 5762 5771	 normales
+T98	procedure 6042 6057	biopsie rénale 
+T99	labvalue 6070 6180	glomérulonéphrite segmentaire et focale discrète non spécifique avec des dépôts glomérulaires de complément C3
+T100	procedure 6184 6202	immunofluorescence
+T101	labvalue 6221 6229	 normale
+T102	procedure 6344 6377	examen au microscope électronique
+T103	labvalue 6378 6384	normal
+T104	disorder 6508 6561	glomérulonéphrite à complexes immuns péri-infectieuse
+T105	disorder 6782 6798	forts maux de do
+T106	procedure 6835 6842	TEP/TDM
+T107	disorder 6884 6898	tumeur maligne
+T108	disorder 6904 6935	complications paranéoplasiques 
+T109	disorder 7268 7283	spondylodiscite
+T110	procedure 7190 7198	biopsies
+T111	labvalue 7267 7326	 spondylodiscite avec croissance isolée de Candida albicans
+T112	drugs 7537 7549	caspofungine
+T113	drugs 7665 7677	 fluconazole
+T114	disorder 7748 7754	anémie
+T115	disorder 7755 7775	 hépatosplénomégalie
+T116	disorder 7777 7792	atteinte rénale
+T117	disorder 7777 7792	atteinte rénale
+T118	disorder 7794 7810	cryoglobulinémie
+T119	disorder 7794 7810	cryoglobulinémie
+T120	disorder 7816 7845	vascularite leucocytoclasique
+T121	procedure 7976 7980	 CRP
+T122	procedure 7986 7998	’hémoglobine
+T123	procedure 8006 8016	créatinine
+T124	procedure 8024 8035	protéinurie
+T125	disorder 8043 8075	lésions cutanées vascularitiques
+T126	drugs 8152 8164	antifongique
+T127	disorder 8187 8198	maux de dos
+T128	disorder 8303 8322	infection à Candida
+T129	procedure 8357 8390	intervention chirurgicale spinale
+T130	irrelevant 8722 8732;8734 9748;9750 10731;10733 11341;11343 12300;12302 12672;12674 13161;13163 13191;13193 13452;13454 13768;13770 13952;13954 14033	Discussion  Dans une revue systématique sur la spondylodiscite à pyogènes ayant évalué la présentation clinique lors de l’admission, le symptôme le plus fréquent était les maux de dos (86%), suivis de la fièvre >37,5°C (60%), tandis que des déficits neurologiques sont uniquement survenus chez 34% des patients [2]. La spondylodiscite mycosique est très rare; seules 5% de toutes les spondylodiscites sont dues à des mycoses, le plus souvent du genre Candida. Dans la banque de données «Public Medicine» (PubMed), environ 113 cas de spondylodiscite à Candida ont été décrits jusqu’en 2018 (la majorité à Candida albicans). Les maux de dos subaigus d’une durée >1 mois sont la manifestation prépondérante (85%) de l’ostéomyélite à Candida; la fièvre (32%) et les déficits neurologiques (19%) sont relativement rares par rapport à la spondylodiscite à pyogènes [3]. Des hémocultures positives pour Candidase retrouvent uniquement chez la moitié des patients (51%), car la fongémie peut remonter à plusieurs semaines ou mois [3].  Les facteurs de risque connus d’infection fongique incluent les cathéters veineux centraux, l’immunosuppression, la nutrition parentérale, l’hémodialyse, les interventions chirurgicales, les brûlures massives, la neutropénie, la consommation de drogues par voie intraveineuse, le diabète sucré et l’utilisation prolongée d’antibiotiques [3]. Chez notre patiente, nous n’avons pas découvert de facteurs de risque évidents. Nous partons néanmoins du principe que les injections répétées d’analgésiques réalisées par la patiente elle-même (le plus souvent par voie sous-cutanée, parfois probablement aussi par voie intraveineuse) sont la cause de la spondylodiscite chez notre patiente (la dernière injection remonte à plusieurs mois); les interventions chirurgicales antérieures entrent en ligne de compte dans le cadre du diagnostic différentiel. Dans les études de cas publiées dans la littérature, la source de l’infection a uniquement été trouvée chez la moitié des patients [3].  Les lignes directrices «Clinical Practice Guideline for the Management of Candidiasis 2016» de la «Infectious Diseases Society of America» (IDSA) préconisent comme option thérapeutique pour la prise en charge de l’ostéomyélite à Candidaun traitement par échinocandine par voie intraveineuse durant deux semaines, suivi de fluconazole 400 mg une fois par jour durant six à douze mois. Le pronostic après le traitement est bon, avec un taux de guérison de la spondylodiscite à Candidade 85% [3]. Dans une revue récente, 75% des patients ont pu être guéris au moyen d’un traitement antifongique de six mois [4].  Une étude rétrospective a récemment comparé la valeur diagnostique de l’IRM et de la TEP/TDM au 18F-FDG pour la pose du diagnostic d’une spondylodiscite suspectée. Chez 68 patients, la TEP/TDM a présenté une sensibilité de 96% et une spécificité de 95% pour le diagnostic de spondylodiscite et était supérieure à l’IRM (sensibilité 67%, spécificité 84%) [5]. Cette supériorité repose avant tout sur un meilleur diagnostic précoce au cours des deux premières semaines après le début des symptômes. Après deux semaines, la précision des deux méthodes était comparable [5]. Bien que nous ayons répété l’IRM (la première avait été réalisée environ deux semaines après le début des symptômes), nous n’avons pas détecté de signes clairs d’une inflammation. La TEP/TDM peut être utile pour faire la distinction entre une inflammation et une affection dégénérative; une limite de cette modalité est qu’elle ne permet pas de faire la distinction avec une tumeur [5].  Nous avons été impressionnés par l’ampleur des complications para-infectieuses, telles que l’anémie sévère, l’hépatosplénomégalie, l’atteinte rénale et la cryoglobulinémie de type III (qui s’observe généralement dans les états inflammatoires chroniques). Les lésions cutanées vascularitiques, l’anémie sévère et la protéinurie ont totalement disparu grâce au traitement.  Cela nous amène à conclure qu’une IRM normale n’exclut pas une spondylodiscite. En cas de forte suspicion clinique de spondylodiscite (malgré une IRM avec produit de contraste normale), une TEP/TDM peut être utile pour la pose du diagnostic. Par ailleurs, ce cas nous rappelle une fois de plus à quel point les symptômes prédominants des patients sont essentiels pour une pose adéquate du diagnostic (notre patiente avait été admise avec un diagnostic de suspicion de spondylodiscite …).  L’essentiel pour la pratique  – La spondylodiscite à Candida est une cause rare de lombalgie. Elle survient avant tout chez les patients immunodéprimés ou en cas de consommation de drogues par voie intraveineuse. Les maux de dos persistants (>1 mois) constituent le symptôme plus fréquent.  – Les facteurs de risque incluent les cathéters veineux centraux, l’immuno­suppression, la nutrition parentérale, l’hémodialyse, les interventions chirurgicales, les brûlures massives, la neutropénie, la consommation de drogues par voie intraveineuse, le diabète sucré et la consommation prolongée d’antibiotiques.  – La TEP/TDM peut être utile dans des cas spécifiques pour faire la distinction entre une maladie inflammatoire (diagnostic différentiel: néoplasie) et des altérations dégénératives.  – Un traitement antifongique est recommandé pour une durée de six à douze mois.

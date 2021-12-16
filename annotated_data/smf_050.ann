@@ -1,0 +1,198 @@
+T1	disorder 12 29	appendicite aiguë
+T2	disorder 74 97	syndrome abdominal aigu
+T3	disorder 108 130	appendicite compliquée
+T4	disorder 136 144	phlegmon
+T5	disorder 158 165	d’abcès
+T6	procedure 227 250	traitement conservateur
+T7	procedure 275 297	traitement chirurgical
+T8	disorder 335 363	maladies gastro-intestinales
+T9	disorder 379 398	carcinomes du cæcum
+T10	disorder 441 458	appendicite aiguë
+T11	disorder 468 487	fasciite nécrosante
+T12	disorder 489 491	FN
+T13	disorder 518 539	­infection nécrotique
+T14	disorder 600 610	septicémie
+T15	disorder 712 714	FN
+T16	disorder 763 780	appendicite aiguë
+T17	disorder 844 846	FN
+T18	procedure 909 932	débridement chirurgical
+T19	procedure 1022 1030	Anamnèse
+T20	disorder 1090 1129	douleur lancinante dans la jambe gauche
+T21	disorder 1172 1179	douleur
+T22	disorder 1292 1335	douleur abdominale inférieure du côté droit
+T23	procedure 1377 1387	coloscopie
+T24	procedure 1469 1492	traitement endoscopique
+T25	disorder 1499 1524	hémorragie anémique aiguë
+T26	disorder 1573 1595	ulcère gastro-duodénal
+T27	labvalue 1669 1701	Helicobacter pyloriétait négatif
+T28	procedure 1706 1718	gastroscopie
+T29	disorder 1832 1842	œdémateuse
+T30	disorder 1846 1853	gonflée
+T31	disorder 1859 1866	rougeur
+T32	disorder 1891 1901	péritonite
+T33	disorder 1903 1910	douleur
+T34	disorder 1930 1980	résistance palpable dans l’abdomen inférieur droit
+T35	procedure 2160 2179	protéine C-réactive
+T36	procedure 2181 2184	CRP
+T37	labvalue 2188 2196	93 mg/l 
+T38	labvalue 2197 2206	norme: <5
+T39	procedure 2213 2229	créatine ­kinase
+T40	procedure 2231 2233	CK
+T41	labvalue 2244 2251	217 U/l
+T42	labvalue 2253 2264	norme: <170
+T43	procedure 2270 2278	D-dimère
+T44	labvalue 2281 2296	17,44 µg FEU/ml
+T45	labvalue 2298 2310	norme: <0,90
+T46	procedure 2319 2329	leucocytes
+T47	labvalue 2332 2341	16 200/l 
+T48	labvalue 2342 2354	norme: <10,2
+T49	disorder 2443 2464	thrombose de la jambe
+T50	disorder 2492 2510	douleur abdominale
+T51	disorder 2552 2581	appendicite perforée couverte
+T52	procedure 2665 2682	tomodensitométrie
+T53	procedure 2684 2687	TDM
+T54	procedure 2772 2775	TDM
+T55	disorder 2790 2808	tumeur conglomérée
+T56	disorder 2888 2911	inflammation périfocale
+T57	disorder 2924 2943	subiléus consécutif
+T58	disorder 3039 3074	modification inflammatoire atypique
+T59	disorder 3076 3095	appendicite étendue
+T60	disorder 3104 3118	tumeur maligne
+T61	disorder 3148 3158	métastases
+T62	procedure 3214 3244	Tomodensitométrie de l’abdomen
+T63	disorder 3261 3279	tumeur conglomérée
+T64	disorder 3354 3371	Péritonite légère
+T65	procedure 3388 3406	échographie duplex
+T66	disorder 3436 3464	 thrombose veineuse profonde
+T67	disorder 3510 3536	douleur de la jambe gauche
+T68	disorder 3596 3615	fasciite nécrosante
+T69	drugs 3633 3648	antibiothérapie
+T70	drugs 3659 3669	céfuroxime
+T71	drugs 3676 3689	métronidazole
+T72	procedure 3782 3785	TDM
+T73	disorder 3848 3877	appendicite couverte-perforée
+T74	disorder 3904 3910	tumeur
+T75	disorder 4051 4059	rougeurs
+T76	disorder 4065 4072	cloques
+T77	disorder 4086 4093	douleur
+T78	procedure 4214 4217	CRP
+T79	labvalue 4231 4242	188,0 mg/l 
+T80	procedure 4249 4259	leucocytes
+T81	labvalue 4262 4270	18 100/l
+T82	procedure 4298 4301	TDM
+T83	disorder 4391 4393	FN
+T84	disorder 4460 4479	accumulation de gaz
+T85	procedure 4535 4552	Tomodensitométrie
+T86	disorder 4610 4630	fasciite nécrosante 
+T87	disorder 4669 4695	poches d’air bien visibles
+T88	procedure 4719 4741	Traitement chirurgical
+T89	disorder 4788 4790	FN
+T90	drugs 4973 4988	antibiothérapie
+T91	drugs 4991 5001	l’imipénem
+T92	procedure 5033 5053	débridement extensif
+T93	procedure 5095 5138	aponévrotomie de la jambe inférieure gauche
+T94	procedure 5162 5197	prélèvements de fascia et de muscle
+T95	procedure 5222 5241	examen histologique
+T96	disorder 5307 5326	 tumeur conglomérée
+T97	procedure 5491 5521	traitement chirurgical initial
+T98	drugs 5542 5559	l’antibiothérapie
+T99	drugs 5564 5572	imipénem
+T100	drugs 5599 5611	clindamycine
+T101	procedure 5724 5750	débridement postopératoire
+T102	labvalue 5925 5964	bactérie anaérobie Clostridium septicum
+T103	labvalue 5965 5967	CS
+T104	procedure 5992 6004	prélèvements
+T105	drugs 6099 6108	l’oxygène
+T106	disorder 6164 6166	FN
+T107	labvalue 6294 6296	CS
+T108	procedure 6302 6315	l’hémoculture
+T109	disorder 6456 6458	FN
+T110	disorder 6561 6578	tumeur abdominale
+T111	disorder 6605 6623	carcinome du côlon
+T112	disorder 6633 6663	­appendicite couverte-perforée
+T113	procedure 6684 6707	réparation chirurgicale
+T114	procedure 6733 6758	intervention chirurgicale
+T115	procedure 6768 6777	résection
+T116	procedure 6884 6895	coloscopie 
+T117	disorder 7019 7047	 maladie tumorale systémique
+T118	disorder 7048 7060	métastatique
+T119	disorder 7174 7176	FN
+T120	procedure 7332 7357	laparoscopie diagnostique
+T121	disorder 7398 7417	tumeur conglomérée 
+T122	disorder 7432 7462	inférieure droite de l’abdomen
+T123	disorder 7472 7483	implication
+T124	disorder 7501 7511	congestion
+T125	disorder 7528 7544	l’intestin grêle
+T126	disorder 7563 7578	iléus chronique
+T127	procedure 7596 7626	résection oncologique ouverte 
+T128	procedure 7628 7655	complete mesocolic excision
+T129	procedure 7658 7661	CME
+T130	disorder 7730 7738	septique
+T131	procedure 7744 7764	stomie anastomotique
+T132	labvalue 7918 7920	CS
+T133	procedure 7947 7976	échantillons microbiologiques
+T134	labvalue 8019 8039	Enterococcus faecium
+T135	procedure 8089 8100	l’opération
+T136	procedure 8106 8139	changements répétés de pansements
+T137	procedure 8209 8238	traitement local de la plaie 
+T138	labvalue 8284 8286	CS
+T139	procedure 8292 8306	pansements VAC
+T140	procedure 8339 8363	examen pathohistologique
+T141	disorder 8467 8513	adénocarcinome mucineux modérément différencié
+T142	disorder 8569 8581	infiltration
+T143	disorder 8740 8779	infiltration de la paroi de l’appendice
+T144	disorder 8810 8845	invasion des vaisseaux lymphatiques
+T145	disorder 8876 8907	invasion des vaisseaux sanguins
+T146	disorder 8913 8949	infiltration de la gaine périneurale
+T147	disorder 8955 8965	métastases
+T148	disorder 8991 9026	ganglions lymphatiques péricoliques
+T149	disorder 9061 9080	inflammation focale
+T150	disorder 9082 9088	aiguë,
+T151	disorder 9089 9108	ulcéro-phlegmoneuse
+T152	disorder 9114 9123	appendice
+T153	disorder 9129 9176	perforation et péritonite fibrineuse-purulente 
+T154	disorder 9193 9202	appendice
+T155	disorder 8610 8649	paroi dans le tissu adipeux péricolique
+T156	disorder 8653 8665	mésentérique
+T157	disorder 8673 8696	croissance endoluminale
+T158	disorder 8704 8726	 sortie de l’appendice
+T159	disorder 4705 4716	tissus mous
+T160	disorder 4636 4659	jambe inférieure gauche
+T161	disorder 4490 4522	sous-cutané, épi et sous-fascial
+T162	disorder 4125 4148	jambe inférieure gauche
+T163	disorder 3480 3500	gonflement peu clair
+T164	disorder 3168 3190	ganglions lymphatiques
+T165	disorder 3197 3201	foie
+T166	disorder 2827 2842	hémicôlon droit
+T167	disorder 1597 1624	paroi gastrique postérieure
+T168	disorder 1217 1238	enflement de la jambe
+T169	disorder 566 583	le long du fascia
+T170	procedure 9242 9257	’hémicolectomie
+T171	disorder 9312 9328	tumeur polypoïde
+T172	disorder 9413 9419	tumeur
+T173	disorder 9446 9464	valvule iléocæcale
+T174	procedure 9491 9505	hémicolectomie
+T175	disorder 9525 9548	adénocarcinome mucineux
+T176	disorder 9612 9621	appendice
+T177	disorder 9629 9668	infiltration de la paroi appendiculaire
+T178	disorder 9711 9729	carcinome mucineux
+T179	labvalue 9864 9884	cocci à gram-positif
+T180	labvalue 9797 9819	pneumatose intestinale
+T181	labvalue 10047 10071	bactéries à gram-négatif
+T182	labvalue 10077 10089	gram-positif
+T183	disorder 10141 10155	adénocarcinome
+T184	disorder 10156 10178	modérément différencié
+T185	disorder 10306 10341	grande plaie de la jambe inférieure
+T186	disorder 10374 10421	l’os ­tibial est exposé sur une grande longueur
+T187	procedure 10453 10471	greffe de Thiersch
+T188	procedure 10496 10519	amputation transtibiale
+T189	procedure 10753 10773	traitement palliatif
+T190	disorder 10857 10870	Choc septique
+T191	disorder 10888 10890	FN
+T192	labvalue 10896 10918	Clostridium septicumau
+T193	disorder 10932 10955	jambe inférieure gauche
+T194	disorder 10959 10998	Adénocarcinome moyennement différencié 
+T195	disorder 11053 11071	valve iléo-cæcale 
+T196	disorder 11073 11078	cæcum
+T197	disorder 11084 11101	appendicite aiguë
+T198	irrelevant 11137 11147;11149 11735;11737 12831;12833 13902;13904 14542;14544 15691;15693 15721;15723 15870;15872 15966;15968 16101;16103 16408	Discussion  La FN est une maladie aiguë, potentiellement mortelle, qui, en plus d’une antibiothérapie concomitante, nécessite un débridement chirurgical rapide et surtout radical, et qui, même si ces mesures sont prises, reste associée à une létalité élevée [3]. La FN touche principalement les patients immunodéprimés ou âgés, avec une comorbidité importante. Les causes du développement de la FN sont multiples, par exemple par pénétration bactérienne directe à la suite de blessures (également au cours d’interventions chirurgicales ou invasives) par contiguïté ou par dissémination bactérienne.  La FN peut également être la conséquence d’une appendicite aiguë ou d’autres lésions inflammatoires ou contaminées par des bactéries dans le tractus gastro-intestinal (par exemple, un cancer ulcéreux du côlon). Dans le cadre de telles maladies, un affaiblissement direct de la paroi abdominale conduit généralement à une propagation de l’infection: dans la zone de la paroi abdominale située dans le triangle lombaire inférieur (triangle de Petit) ou dans le triangle lombaire supérieur (triangle de Grynfellt-Lesshaft), on trouve des points de faiblesse évidents de la paroi abdominale, sur lesquels une nécrose avec une possibilité correspondante de propagation bactérienne peut se développer en cas d’appendicite perforée [5]. En outre, d’autres causes gastro-intestinales peuvent être à l’origine de la FN de la paroi abdominale, comme la diverticulite, la colite ulcéreuse ou – comme dans notre cas – le cancer du côlon. Un abcès ou un emphysème dans le rétropéritoine peut, outre sa propagation locale par contiguïté, entraîner dans de rares cas une propagation hématogène à la jambe [6].  Un diagnostic rapide de la FN est un point important et déterminant pour le pronostic dans le déroulement du traitement, mais souvent difficile, car l’état clinique –comme dans notre étude de cas – n’est généralement pas impressionnant au début. Souvent, elle peut se présenter initialement comme une simple cellulite dans le membre inférieur. Une détérioration clinique rapide avec un choc septique et une progression locale avec des changements cutanés correspondants tels que la formation de rougeurs, de pustules et un crépitement palpable des tissus mous sont typiques. Dans une revue systématique d’un total de 109 études, Femke Nawijn et al. [4] ont pu montrer que la létalité dépend significativement du moment du traitement chirurgical après la présentation du patient. Ils ont pu démontrer une différence significative de mortalité en cas de traitement chirurgical dans les six heures (<6 heures: 19%, >6 heures: 32%) et dans les 12 heures (<12 heures: 19%, >12 heures: 34%). Au-delà de 24 heures, aucune différence significative n’a pu être mise en évidence.  Comme le montrent ces chiffres, la létalité de la FN est élevée [3]. Un traitement chirurgical radical rapide (débridement, nécrosectomie) et une antibiothérapie initialement large, soutenue par un traitement médical intensif de la septicémie, sont déterminants pour le pronostic. La FN est généralement causée par des bactéries polymicrobiennes productrices de toxines telles que les streptocoques hémolytiques du groupe A et Staphylococcus aureus. En outre, Clostridia, Enterobacteria, Peptostreptococcus, Proteus, Pseudomonaset Klebsiella sont également des organismes responsables possibles. Dans notre cas, la FN a été causée par CS.  Les Clostridia sont des spores anaérobies et font partie de la flore intestinale normale. La bactériémie causée par CS est extrêmement rare. Dans la littérature, les infections à CS sont associées à des néoplasmes hématologiques, notamment le cancer du côlon [7, 9]. En 1995, Larson et al. [8] ont rassemblé tous les cas d’infections à Clostridia de 1966 à 1993. Sur les 241 cas, 32 étaient dus à CS. 50% de ces 32 cas étaient associés à une tumeur (par rapport aux autres infections à Clostridia où ce pourcentage n’était que de 11%). Cette association entre CS et la tumeur peut être expliquée par la pathologie sous-jacente. La muqueuse du tractus gastro-intestinal est percée par la tumeur existante. Une hypoxie tissulaire se produit, ce qui favorise la prolifération rapide des clostridies, qui produisent davantage de toxines. Les toxines entraînent à leur tour une augmentation de la perméabilité des capillaires, permettant leur entrée dans la circulation systémique. La FN déclenchée par CS est létale dans 56-60% des cas, ce qui est significativement plus élevé comparé aux autres espèces clostridiales avec une mortalité d›environ 26%.  L’essentiel pour la pratique  • Dans la fasciite nécrosante (FN), la confirmation rapide du diagnostic et l’initiation rapide du traitement sont déterminantes pour le pronostic.  • Une intervention chirurgicale immédiate est le traitement de choix lorsque la FN est avérée.  • La FN est une complication très rare mais potentiellement mortelle, par exemple d’un cancer du côlon ou d’une appendicite perforée.  • Les infections des tissus mous dans la région du membre inférieur sans foyer évident ou site d’entrée clair peuvent toujours être des manifestations de pathologies abdominales, malgré l’absence d’une clinique suggestive. Dans ce cas, la tomodensitométrie abdominale est la méthode diagnostique de choix.

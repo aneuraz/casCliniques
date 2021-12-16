@@ -1,0 +1,35 @@
+T1	disorder 40 60	diarrhées sanglantes
+T2	disorder 88 118	 pancolite ulcéro-hémorragique
+T3	disorder 146 177	 rectocolite hémorragique (RCH)
+T4	drugs 273 298	 Pentasa® 2 g (4 g/jour),
+T5	disorder 890 902	vomissements
+T6	procedure 1092 1109	 bilan biologique
+T7	procedure 1177 1207	contrôle de la fonction rénale
+T8	disorder 1470 1519	douleurs lombaires et une hématurie macroscopique
+T9	disorder 1552 1571	colique néphrétique
+T10	procedure 1589 1619	échographie rénale et vésicale
+T11	labvalue 1638 1661	reins de taille normale
+T12	procedure 1709 1714	 ECBU
+T13	labvalue 1716 1772	hématurie microscopique sans micro cristaux ni cylindres
+T14	labvalue 1839 1879	créatinine qui se révèle élevé à 39 mg/l
+T15	disorder 1972 1988	hématurie isolée
+T16	labvalue 2030 2058	 créatinine élevée à 32 mg/l
+T17	labvalue 2064 2084	clearance à 36 ml/mn
+T18	labvalue 2106 2134	importante micro albuminurie
+T19	labvalue 2260 2293	hypertension artérielle à 155/94 
+T20	labvalue 2383 2404	protéinurie de 1,7g/l
+T21	labvalue 2463 2496	 hypercholestérolémie (12 mmol/l)
+T22	labvalue 2502 2536	hypertriglycéridémie (10,4 mmol/l)
+T23	labvalue 2539 2565	’uricémie est à 528 µmol/l
+T24	procedure 2618 2632	biopsie rénale
+T25	labvalue 2712 2770	2/3 des glomérules sont transformés en « pain à cacheter »
+T26	labvalue 2809 2917	nterstitium est le siège d’une fibrose supérieure à 60% avec réaction inflammatoire lymphocytaire importante
+T27	disorder 3163 3221	néphropathie tubulo interstitielle chronique (NIC ou NTIC)
+T28	drugs 3228 3270	traitement anti hypertenseur et corticoïde
+T29	labvalue 3552 3573	créatinémie à 247µmol
+T30	labvalue 3578 3621	débit de filtration glomérulaire à 26 ml/mn
+T31	disorder 3802 3818	 crise de goutte
+T32	drugs 3908 3918	 COLCHIMAX
+T33	disorder 3989 4030	insuffisance rénale chronique au stade 4 
+T34	disorder 4165 4190	patient dit être anxieux 
+T35	drugs 4356 4363	Pentasa

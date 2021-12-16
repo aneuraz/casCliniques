@@ -1,0 +1,66 @@
+Contexte
+
+Avec une incidence annuelle d’environ 300/100 000 personnes, le syndrome du canal carpien (SCC) est la neuropathie de compression la plus fréquente. Dans la ­plupart des cas, il survient de manière idiopathique. Plusieurs causes peuvent augmenter la pression dans le canal carpien, notamment une synovite des tendons fléchisseurs, des tumeurs, des altérations spatiales d’origine traumatiques dans le cadre de fractures distales du radius, de luxations périlunaires ou encore de fractures-luxations.
+
+Les symptômes typiques incluent principalement les paresthésies nocturnes avec fourmillements parfois douloureuses (acroparesthésies nocturnes), des troubles de la sensibilité d’intensité variable sur le territoire du nerf médian ainsi que, au stade avancé, des déficits moteurs des muscles de l’éminence thénar.
+
+Outre l’anamnèse et l’examen clinique, la neurographie et l’échographie servent à confirmer le diagnostic, l’échographie gagnant de plus en plus en importance [1].
+
+Durant le développement embryonnaire, l’artère médiane constitue le vaisseau axial central des extrémités supérieures, qui régresse généralement au deuxième mois du développement embryonnaire après formation de l’artère radiale et de l’artère ulnaire. Une artère médiane persistante (AMP) se retrouve chez ­environ 5% de la population, souvent en relation avec un nerf médian bifide et, dans certains cas, de manière bilatérale. La prévalence varie toutefois considérablement en fonction de la population examinée; ainsi, une AMP survient nettement plus souvent chez les nouveau-nés et les enfants que chez les adultes [2]. Diverses variantes du vaisseau sont décrites: dans le cas du type «avant-bras», le vaisseau relativement frêle se termine au niveau proximal du canal carpien; en présence du type «paume de la main», il s’agit d’une artère plus vigoureuse qui se prolonge jusqu’à la paume de la main, constitue alors typiquement le vaisseau alimentant le nerf médian et peut être responsable de l’irrigation d’un ou plusieurs doigts [3]. Sa taille varie, allant d’un minuscule faisceau vasculaire résiduel jusqu’à un vaisseau de grand calibre présentant le diamètre d’une ­artère normale de l’avant-bras.
+
+Bien que la présence d’une AMP ne représente en soi pas un facteur de risque du syndrome du canal carpien [2], l’AMP a été décrite comme déclencheur d’un SCC dans divers publications. Toutefois, il n’existe pas nécessairement d’altérations pathologiques, telle que la thrombose ou l’anévrisme, au niveau du vaisseau. Il est davantage supposé que le volume du vaisseau puisse, à lui seul, augmenter la pression dans le canal carpien. Une ischémie concomitante des doigts est rare [4], car l’approvisionnement sanguin est généralement assuré par l’artère radiale ou l’artère ulnaire.
+
+Cet article décrit le cas d’un patient souffrant d’un SCC dû à une thrombose provoquée d’une AMP, avec troubles circulatoires intermittents au niveau de l’index.
+
+Présentation du cas
+Anamnèse
+
+Un cuisinier âgé de 28 ans s’est présenté trois jours après une randonnée à vélo en descente avec des symptômes de SCC du côté droit survenant pour la première fois et de manière aiguë. Il a principalement décrit des douleurs au poignet lors de la fermeture active du poing, ainsi que des paresthésies avec fourmillements. Il ne présentait aucun symptôme à la main gauche.
+
+Résultats
+
+L’examen clinique a révélé une sensibilité réduite au niveau du territoire du nerf médian, un test de Phalen positif et une douleur au poignet lors de la fermeture du poing. Aucun signe de troubles circulatoires n’était présent au début.
+
+Diagnostic
+
+A l’examen neurophysiologique, le nerf médian était normal, de sorte qu’en présence d’un tableau clinique compatible avec un SCC mais avec des valeurs de conduction normales, une échographie nerveuse haute fréquence (sonde linéaire 18 MHz Phillips EPIQ 5®) a été réalisée. A l’échographie, le nerf médian présentait une morphologie normale, mais une AMP anévrismale élargie à 2,2 mm et thrombosée a été détectée dans le canal carpien avec interruption du signal d’écoulement (fig. 1). L’examen angiologique a révélé, sur le plan clinique, une hypoperfusion de l’index avec temps de recapillarisation prolongé, qui a pu être corroborée au moyen d’une oscillographie. Ces résultats ont été confirmés par l’angiographie, qui a révélé un arrêt du produit de contraste de l’AMP dans l’avant-bras distal ainsi qu’un contraste rétrograde de courte distance d’AMP dans la paume de la main le long de l’arcade palmaire superficielle incomplète. Par ailleurs, il existait une suspicion d’occlusion de l’artère ulnaire palmaire de l’index à hauteur de l’articulation médiane (fig. 2).
+
+Figure 1: Coupe échographique transversale au niveau de l’entrée du canal carpien: ­l’artère médiane persistante thrombosée (#) et ses veines comitantes se trouvent du côté radial du nerf médian normal (*).
+
+Figure 2: Interruption du contraste de l’artère médiane persistante au niveau de l’avant-bras distal et contraste rétrograde de courte distance à l’extrémité distale du canal ­carpien à l’angiographie (pointes des flèches).
+
+Traitement
+
+Nous avons réalisé une section du toit du canal carpien sous anesthésie régionale, exposant ainsi l’artère médiane thrombosée (fig. 3). Aucune résection n’a été ­effectuée. Après l’opération, une anticoagulation orale par rivaroxaban (Xarelto®, off label) a été initiée en raison de l’occlusion vasculaire thrombotique afin de prévenir une extension de la thrombose ou une embolie.
+
+Figure 3: Résultats intra-opératoires après section du toit du canal carpien. L’artère ­médiane thrombosée est visible en rapport direct avec le nerf médian.
+
+Evolution
+
+Les symptômes du SCC ont complètement disparu en l’espace de quelques semaines. Trois mois après l’opération, l’anticoagulation a été arrêtée. Aucune recanalisation de l’AMP n’est survenue. La perfusion de l’index s’est toutefois à nouveau normalisée. Au moment du dernier contrôle dix mois après l’opération, le patient était toujours exempt de symptômes.
+
+Discussion
+
+En tant que variante anatomique, l’AMP n’a pas de ­valeur pathologique; un risque accru de développer un SCC n’a pu être mis en évidence [2]. En présence d’altérations pathologiques de l’AMP, telles que thrombose, anévrisme ou dissection, un SCC ou des troubles de la perfusion de la main peuvent toutefois survenir [5]. Une altération comparable se rencontre dans le cas du syndrome hypothénarien du marteau, qui concerne l’artère ulnaire dans la paume de la main. En raison d’une contrainte mécanique excessive de l’éminence hypothénar, utilisée comme un marteau, un anévrisme avec ou sans thrombose de l’artère ulnaire se développe [3]. Les contraintes mécaniques provoquées par la randonnée à vélo en descente pourraient, dans notre cas, avoir entraîné un élargissement anévrismal de l’AMP avec thrombose consécutive ou une thrombose d’un éventuel anévrisme préexistant.
+
+Contrairement au SCC idiopathique avec son début généralement insidieux et son tableau clinique typique, notre patient présentait une symptomatique aiguë avec déclencheur et essentiellement des douleurs du poignet sans les critères diagnostiques neurographiques ou échographiques typiques d’un SCC. Cette constellation peut s’expliquer par la thrombose de l’AMP: d’une part, il se produit une compression locale du nerf médian due à l’élargissement anévrismal du vaisseau avec œdème concomitant; d’autre part, l’AMP participe à la perfusion du nerf médian [3], d’où la ­survenue possible d’une ischémie relative du nerf en présence d’une occlusion. Les anomalies neurologiques peuvent ainsi être expliquées, même si aucune altération perceptible au niveau du nerf n’a pu être détectée à l’échographie et à l’examen électrophysiologique.
+
+Il existait par ailleurs des troubles de la perfusion de l’index. En termes de diagnostic différentiel, ceux-ci peuvent s’expliquer soit de manière structurelle – par des embolies artério-artérielles issues du segment vasculaire thrombosé – soit de manière fonctionnelle, car des altérations de l’adventice artérielle peuvent entraîner la stimulation réflexe des fibres nerveuses sym­pathiques accompagnantes et ainsi des vasospasmes distaux [4]. Dans cette situation, une adventicectomie peut aboutir à la normalisation de la circulation sanguine. Après l’opération, la perfusion s’est rapidement normalisée, sans qu’une sympathectomie ni une résection vasculaire formelles n’aient été réalisées.
+
+Nous supposons que la section du toit du canal carpien a traité simultanément les deux aspects physiopathologiques, d’une part la compression du nerf médian, d’autre part le tonus sympathique présumément accru accompagné de troubles de la perfusion.
+
+Une AMP peut généralement être visualisée sans problème au moyen d’une échographie haute résolution. L’accessibilité de cette technique d’examen et le gain considérable d’informations soulignent l’importance du diagnostic échographique dans l’examen préopératoire d’un SCC [1].
+
+Seuls des rapports de cas isolés ou de petites séries de cas portant sur le SCC en rapport avec une AMP se trouvent dans la littérature. Le plus souvent, une section du toit du canal carpien a été réalisée, parfois combinée à une excision du segment vasculaire thrombosé [1]. Des traitements conservateurs à base d’anticoagulants oraux et des cas d’amélioration spontanée ont également été décrits. Les traitements hétérogènes et le faible nombre de cas rendent la comparabilité difficile. Toutefois, les publications ont en commun que la quasi-totalité des patients étaient exempts de symptômes après le traitement, qu’il soit conservateur ou chirurgical. Des recommandations thérapeutiques basées sur l’évidence ne sont pas disponibles. En l’absence de symptômes d’un SCC, le traitement conser­vateur par anticoagulation se trouve au premier plan afin de prévenir une extension de la thrombose et des embolies.
+
+D’après la littérature, la décompression chirurgicale du nerf médian dans le canal carpien constitue la ­méthode de choix en présence de symptômes du SCC. L’intervention est peu invasive et s’accompagne d’une faible morbidité. En cas de troubles circulatoires manifestes significatifs, un diagnostic approfondi doit clarifier la nécessité d’une reconstruction vasculaire [5].
+
+La section du toit du canal carpien réalisée dans notre cas a abouti à la disparition des symptômes. L’anticoagulation orale avait pour objectif d’éviter une progression de l’occlusion ainsi que des embolisations périphériques.
+
+L’essentiel pour la pratique
+
+• Le syndrome du canal carpien (SCC), qui est fréquent, peut avoir des causes très rares. Le diagnostic est d’abord établi cliniquement, puis confirmé par neurographie et éventuellement échographie.
+
+• Une artère médiane persistante ne présente pas de valeur pathologique en soi, mais peut favoriser l’apparition d’un SCC, en particulier en présence d’altérations pathologiques, telles que thrombose ou anévrisme. Contrairement au SCC classique, le tableau clinique est, dans ce cas, ­atypique avec une évolution ­aiguë et des douleurs prononcées. Sur le plan thérapeutique, la décompression chirurgicale du nerf médian se trouve également au premier plan.
+
+• L’examen échographique préopératoire du SCC gagne en importance, car il permet de détecter des causes ou des variations anatomiques rares, qui peuvent être intégrées à la planification du traitement.

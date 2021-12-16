@@ -1,0 +1,17 @@
+T1	disorder 57 71	hépatite aiguë
+T2	disorder 81 128	transaminases 20 fois supérieures à la normale 
+T3	labvalue 129 142	ALT >1000 U/l
+T4	disorder 303 334	détérioration de l’état général
+T5	disorder 340 362	douleurs épigastriques
+T6	disorder 368 384	sueurs nocturnes
+T7	disorder 390 412	perte de poids de 5 kg
+T8	disorder 418 547	efflorescence de lésions cutanées maculo-papuleuses sous forme de petites taches non prurigineuses prédominant au niveau du tronc
+T9	disorder 572 585	doigts blancs
+T10	disorder 919 950	Syndrome de Raynaud des doigts 
+T11	disorder 775 848	Exanthème maculo-papuleux sous forme de petites taches au niveau du tronc
+T12	procedure 1042 1078	palpation des ganglions lymphatiques
+T13	procedure 1187 1210	nalyses de laboratoire 
+T14	procedure 1486 1508	échographie abdominale
+T15	disorder 1966 1982	hépatite B aiguë
+T16	disorder 1998 2007	exanthème
+T17	disorder 4572 4592	syndrome de Raynaud 

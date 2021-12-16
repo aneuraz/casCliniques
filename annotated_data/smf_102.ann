@@ -1,0 +1,52 @@
+T1	irrelevant 0 8;10 842	Contexte  Malgré l’amélioration des traitements antirétroviraux, l’incidence des nouveaux cas de SIDA en Suisse est relativement stable avec environ 100 cas par année [1]. Les maladies associées au SIDA sont nombreuses et parfois de présentations inhabituelles. Nous rapportons ici un cas rare de sarcome de Kaposi (SK) cutané avec éléphantiasis (lymphœdème volumineux, chronique et dur) des membres inférieurs et métastatique au niveau osseux. Ce cas illustre les difficultés parfois rencontrées dans la démarche diagnostique dans un cas de lymphœdème des membres inférieurs. Chez les personnes avec un phototype de classe élevée selon Fitzpatrick, les lésions de sarcomes de Kaposi peuvent passer inaperçues. De plus, lors de SIDA, le diagnostic différentiel des lésions osseuses est large et nécessite souvent une confirmation histologique
+T2	irrelevant 845 859	Rapport de cas
+T3	procedure 951 959	consulte
+T4	disorder 1139 1179	œdèmes douloureux des membres inférieurs
+T5	disorder 1309 1321	état fébrile
+T6	disorder 1413 1442	œdèmes des membres inférieurs
+T7	disorder 1534 1552	œdèmes symétriques
+T8	disorder 1902 1913	adénopathie
+T9	disorder 1754 1779	couleur sombre de la peau
+T10	disorder 1729 1749	peau étant cartonnée
+T11	disorder 2073 2079	œdèmes
+T12	disorder 2100 2121	atteinte neurologique
+T13	disorder 2130 2156	douleur du squelette axial
+T14	procedure 2193 2214	 percussion du rachis
+T15	labvalue 2285 2296	bicytopénie
+T16	procedure 2306 2325	anémie normocytaire
+T17	procedure 2401 2425	répartition leucocytaire
+T18	labvalue 2500 2515	pas d’élévation
+T19	procedure 2520 2533	transaminases
+T20	procedure 2540 2550	cholestase
+T21	procedure 2555 2565	créatinine
+T22	labvalue 2577 2584	 norme 
+T23	procedure 2590 2609	protéine C-réactive
+T24	procedure 2611 2614	CRP
+T25	labvalue 2634 2642	6,7 mg/l
+T26	labvalue 2328 2335	99 g/l 
+T27	labvalue 2355 2363	4,0 G/l 
+T28	labvalue 2482 2489	3,1 G/l
+T29	labvalue 2452 2459	0,6 G/l
+T30	disorder 2765 2800	virus de l’immunodéficience humaine
+T31	disorder 2802 2805	VIH
+T32	procedure 2837 2850	sérologie VIH
+T33	labvalue 2865 2873	positive
+T34	procedure 2882 2893	taux de CD4
+T35	labvalue 2896 2912	130 cellules/mm3
+T36	procedure 2926 2953	sérologie pour les filaires
+T37	labvalue 2958 2966	négative
+T38	procedure 2970 2996	ultrasonographie inguinale
+T39	labvalue 3007 3024	pas d’adénopathie
+T40	procedure 3029 3054	CT-scan thoraco-abdominal
+T41	disorder 3077 3117	compression lymphatique rétropéritonéale
+T42	labvalue 3131 3144	infiltration 
+T43	procedure 3193 3207	IRM abdominale
+T44	disorder 3259 3301	lésions ostéolytiques des corps vertébraux
+T45	irrelevant 3444 3454;3456 4014	Diagnostic  Dans le diagnostic différentiel d’une infection VIH avancée, d’un lymphoedème des membres inférieurs d’origine indéterminée, d’une bicytopénie et de lésions lytiques asymptomatiques du squelette axial, nous évoquons, un cancer solide métastatique, un myélome multiple, un lymphome ou une infection opportuniste disséminée telle qu’une tuberculose, une mycobactérie atypique, une infection fongique (histoplasmose) ou une bartonellose. L’atteinte hématologique fait également évoquer une leishmaniose viscérale bien qu’il n’y ait pas d’organomégalie (tab. 1).
+T46	irrelevant 4016 4104;4105 4114;4115 4168;4169 4191;4192 4201;4202 4211;4212 4225;4226 4294	Tableau 1: Diagnostic différentiel d’un lymphœdème bilatéral secondaire (non exhaustif). Néoplasie Infectieux (tuberculose, histoplasmose, bartonellose) Lymphangite récurrente Filariose Chirurgie Radiothérapie Insuffisance d’organe (cardiaque, hépatique ou syndrome néphrotique)
+T47	irrelevant 4296 5200	Aucune tumeur primaire n’est visible au CT-scan thoraco-abdominal. Un myélome multiple est peu probable chez ce patient en l’absence de gammapathie monoclonale à l’immunofixation des protéines sériques. Une tuberculose pulmonaire est raisonnablement ­exclue en l’absence d’infiltrat pulmonaire suggestif et les PCR pour Mycobacterium tuberculosis complex sur deux expectorations induites sont négatives. Les hémocultures pour mycobactéries resteront stériles. Les sérologies Histoplasma et Bartonella ainsi que la PCR sanguine pour Leishmania sont négatives. Finalement, des biopsies vertébrales osseuses sont effectuées. Ces dernières, effectuées en bordure de la lésion, retrouvent à l’histologie une moelle osseuse trilinéaire sans signe de malignité compatible avec l’infection VIH. La PCR pour Mycobacterium tuberculosis complex et la PCR panfongique effectuées sur la moelle osseuse sont négatives.
+T48	irrelevant 9844 9977;9979 10099;10101 10253	• Le sarcome de Kaposi fait partie du diagnostic différentiel d’un lymph­œdème surtout en cas d’infection VIH ou d’immunosuppression.  • Chez les personnes de classe phototypique V ou VI selon Fitzpatrick, le sarcome de Kaposi cutané peut passer inaperçu.  • En cas de SIDA, le diagnostic différentiel de lésions ostéolytiques est large et une biopsie osseuse devrait faire partie des examens complémentaires.
+T49	irrelevant 9342 9812;9814 9842	L’atteinte viscérale du SK est classiquement associée soit à la forme endémique africaine soit à l’immunosuppression (VIH ou chez les transplantés d’organe). L’atteinte osseuse est rare. En effet, dans une revue de la littérature, seuls 66 cas étaient décrits [7]. L’atteinte osseuse est en général par continuité dans les formes classique ou endémique africaine. Une dissémination métastatique est en revanche possible dans les formes liées à une immunosuppression [8].  L’essentiel pour la pratique
+T50	irrelevant 8832 8873;8875 9340	Manifestation viscérale d’emblée possible  Le lymphœdème est une forme clinique rare du SK et peut être observé dans les SK endémiques africains ou dans les cas associé au VIH [5, 6]. Le lymphœdème lié au SK touche généralement les membres inférieurs, les organes génitaux et la région périorbitaire. Il peut précéder ou suivre l’apparition des lésions cutanéomuqueuses. L’absence de lésion typique du SK rend le diagnostic étiologique du lymphœdème plus difficile en particulier en l’absence d’adénopathies.
+T51	irrelevant 8297 8346;8347 8421;8422 8438;8439 8535;8536 8582;8583 8624;8625 8666;8667 8727;8728 8811;8812 8831	Tableau 2: Classification des sarcomes de Kaposi. Forme dite classique	Hommes âgés d’origine Méditerranée ou Europe de l’Est Atteinte cutanée Forme associée à l’immunosuppression	Associée à une greffe et/ou un traitement immunosuppresseur Ressemblance clinique avec la forme épidémique Manifestation viscérale d’emblée possible Forme endémique africaine	Forme agressive Se complique parfois d’une atteinte ganglionnaire ou osseuse Forme épidémique	Ressemblance clinique avec la forme associée à l’immunosuppression Cas associés au VIH
+T52	irrelevant 5202 6199;6201 6224;6226 6875;6877 6887;6889 8295	Concernant l’éléphantiasis, un SK associé à HHV-8 est évoqué et la virémie HHV-8 s’élève à 2600 copies/ml. La biopsie cutanée (face interne de la cuisse droite) confirme ce diagnostic (angioprolifération importante et marquage HHV-8 positif). Avant d’initier une chimiothérapie, une troisième biopsie est effectuée afin de ­caractériser formellement les lésions lytiques osseuses et notamment d’écarter une infection opportuniste ou un lymphome. L’examen anatomopathologique montre cette fois une infiltration par un tissu au sein duquel on note une angioprolifération à cellules fusiformes exprimant HHV-8, compatible avec un SK. Le bilan d’extension est complété par un PET-CT qui montre des captations cutanées de la face interne de la cuisse droite et une infiltration diffuse de la graisse sous-cutanée de la région pelvienne et des membres inférieurs. Ce patient présente donc un syndrome d’immunodéficience acquise compliqué par un SK cutané métastatique au niveau osseux (squelette axial).  Traitement et évolution  Aucune autre infection sexuellement transmissible n’est mise en évidence. Après analyse de résistance génotypique aux antirétroviraux et en l’absence de l‘allèle HLA B5701 (allèle associée à un risque d’hypersensibilité de type IV en cas de traitement par abacavir), un traitement antirétroviral d’abacavir, lamivudine et dolutégravir est débuté ainsi qu’une prophylaxie du Pneumocystispar co-trimoxazole. Une chimiothérapie de doxorubicine liposomale aux 3 semaines est instaurée. L’évolution clinique à 6 mois est favorable avec une diminution de l’infiltration cutanée des membres inférieurs et une diminution de la virémie HHV-8 (400 copies/ml).  Discussion  Le SK est une tumeur d’origine mésenchymateuse, au sein de laquelle on retrouve une importante angioprolifération. Cette condition est associée à une infection par HHV-8 et intéresse un ou plusieurs organes, en ­particulier la peau, la muqueuse buccale, le tractus gastro-intestinal, le foie, la rate, les poumons et les lymphatiques (ganglions et vaisseaux). L’atteinte cutanée est caractérisée par un aspect en plaques violacées. Plusieurs modes de transmission du virus semblent exister comme le contage par la salive ou par voie sexuelle [2, 3]. La primo infection est le plus souvent asymptomatique mais peut se manifester par une fièvre et une éruption cutanée [4]. Les formes cliniques du SK sont réparties en quatre grandes catégories [2] (tab. 2). Dans sa forme dite classique, le SK atteint typiquement la peau d’hommes âgés d’origine méditerranéenne ou d’Europe de l’Est. Les lésions cutanées apparaissent sur les extrémités des membres et progressent lentement sur des années. Le SK endémique africain, souvent plus agressif se complique parfois d’une atteinte ganglionnaire ou osseuse. Le SK associé à une immunosuppression (transplanté d’organe, traitement immunosuppresseur) et finalement, le SK associé au VIH (forme épidémique) complètent le tableau. Ces deux formes se ressemblent néanmoins dans leur expression clinique, et peuvent d’emblée se manifester par une dissémination viscérale.

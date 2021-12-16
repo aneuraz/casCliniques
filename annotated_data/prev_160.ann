@@ -1,0 +1,51 @@
+T1	disorder 68 91	polyarthrite rhumatoïde
+T2	drugs 138 149	corticoïdes
+T3	drugs 153 165	méthotrexate
+T4	drugs 184 196	méthotrexate
+T5	disorder 541 602	fracture à l'union tiers moyen-tiers inférieur du fémur droit
+T6	procedure 670 690	clou supra-condylien
+T7	drugs 765 774	Cortancyl
+T8	drugs 791 803	méthotrexate
+T9	drugs 847 859	méthotrexate
+T10	procedure 944 947	NFS
+T11	disorder 959 975	hyperleucocytose
+T12	labvalue 978 992	14 500 GB /mm3
+T13	procedure 1006 1033	polynucléaires neutrophiles
+T14	procedure 1041 1051	plaquettes
+T15	labvalue 1054 1065	280 000/mm3
+T16	disorder 1092 1103	leucocytose
+T17	drugs 1387 1396	Cortancyl
+T18	drugs 1457 1469	méthotrexate
+T19	disorder 1777 1800	polyarthrite rhumatoïde
+T20	drugs 1822 1837	corticothérapie
+T21	drugs 1881 1893	méthotrexate
+T22	procedure 2029 2040	MMS à 19/30
+T23	disorder 2260 2278	atrophie corticale
+T24	procedure 2222 2239	 scanner cérébral
+T25	disorder 2316 2334	syndrome démentiel
+T26	drugs 2486 2498	méthotrexate
+T27	procedure 3040 3043	NFS
+T28	drugs 2982 2994	méthotrexate
+T29	procedure 3109 3111	GB
+T30	labvalue 3114 3123	5 400/mm3
+T31	procedure 3131 3141	plaquettes
+T32	labvalue 3144 3156	273 000/mm3.
+T33	drugs 3225 3237	méthotrexate
+T34	procedure 3244 3247	NFS
+T35	labvalue 3293 3300	38,5 °C
+T36	disorder 3306 3329	encombrement bronchique
+T37	procedure 3354 3356	GB
+T38	labvalue 3359 3366	600/mm3
+T39	procedure 3377 3404	polynucléaires neutrophiles
+T40	disorder 3413 3425	thrombopénie
+T41	labvalue 3428 3438	22 000/mm3
+T42	procedure 3443 3446	CRP
+T43	labvalue 3453 3462	311 mg/ml
+T44	disorder 3560 3586	aplasie médullaire fébrile
+T45	drugs 3708 3720	méthotrexate
+T46	drugs 3800 3815	antibiothérapie
+T47	procedure 3837 3863	transfusions plaquettaires
+T48	drugs 3884 3897	acide folique
+T49	disorder 3929 3939	subfébrile
+T50	disorder 3948 3971	encombrement bronchique
+T51	procedure 3993 4020	kinésithérapie respiratoire

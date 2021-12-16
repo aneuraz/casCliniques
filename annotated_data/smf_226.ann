@@ -1,0 +1,80 @@
+T1	irrelevant 6305 6315;6317 6499	Discussion  L’insulinome est une pathologie très rare présentant de nombreuses facettes et manifestations. En cas de survenue non multiple, il est curable [1] et le pronostic très favorable [2].
+T1	irrelevant 6501 7120;7122 7536	Les hypoglycémies ne se manifestent pas toujours de façon univoque. Au contraire, elles se manifestent souvent de manière non spécifique. Les symptômes possibles incluent notamment céphalées, angoisse, agitation intérieure, paresthésies avec fourmillements, sensation de chaleur, insécurité, confusion, comportement inapproprié, troubles de la pensée et du langage, mal-être, nausée, faiblesse, accès de transpiration, tremblement, vertige, présyncopes/syncopes, troubles de la vision, fringale, prise de poids, palpitations, tachycardies. Un tableau clinique mixte regroupant divers symptômes est généralement présent.  La mesure de la glycémie doit être réalisée par voie veineuse car les mesures glycémiques capillaires sont inexactes, en particulier dans les domaines hypoglycémiques. Les symptômes cliniques et les résultats des analyses de laboratoire peuvent présenter une évolution dynamique. Cela complique notamment l’établissement rapide du diagnostic et un trouble vasovagal, rythmogène ou neurologique est alors recherché.
+T1	irrelevant 7538 8226;8228 8273	Chez les patients atteints d’hypoglycémie hyperinsulinémique, les diagnostics différentiels envisagés en premier lieu sont l’insulinome ou une nésidioblastose (congénitale ou acquise). De même, une hypoglycémie factice (hypoglycémie artificielle) serait envisageable en cas d’auto-injection d’insuline ou d’injection d’insuline par un tiers. Dans le cas présent, elle a toutefois pu être exclue en raison de la forte concentration de peptide C. Les examens clinique, auscultatoire, les analyses de laboratoire et l’imagerie n’ont fourni aucune indication relative aux divers autres diagnostics différentiels (tab. 1) où ceux-ci n’ont pas été recherchés car leur présence était improbable.  Tableau 1: Principales causes d’hypoglycémie.
+T1	irrelevant 8274 8323;8324 8471	Hypoglycémie factice (hypoglycémie artificielle): Auto-injection d’insuline/injection d’insuline par un tiers ­(volontaire/involontaire; confusion; prise intentionnelle/par erreur de sulfonylurées)
+T1	irrelevant 8472 8534;8535 8564	Insuffisance antéhypophysaire et insuffisance corticosurrénale Troubles de la néoglucogenèse
+T1	irrelevant 8565 8614;8615 8666	(par exampledéficit en fructose-1,6-bisphosphate) Tumeurs de grande taille d’origine non pancréatique
+T1	irrelevant 8667 8696;8697 8745	Syndrome d’insulinorésistance Anorexie nerveuse, cachexie, malnutrition sévère
+T1	irrelevant 8746 8785;8786 8819	Insuffisance hépatique ou rénale sévère Maladies de stockage du glycogène
+T1	irrelevant 8820 8839;8840 8874	Troubles convulsifs Stades précoces d’un diabète sucré
+T1	irrelevant 8875 8901;8902 8937	Syndrome de dumping tardif Intolérance héréditaire au fructose
+T1	irrelevant 8938 8947;8949 9709	Et autres  L’insulinome est bénin et isolé dans plus de 90–95% des cas, et ainsi généralement curable par chirurgie. Le traitement chirurgical curatif réalisé chez cette patiente n’est toutefois pas toujours possible. En présence de tumeurs non opérables du fait de leur localisation, de l’opérabilité du patient en raison de comorbidités ou d’une survenue d’insulinome multiple ou encore d’insulinomes malins et de métastases, des traitements ou concepts thérapeutiques alternatifs sont possibles. Il convient alors notamment d’envisager de manière interdisciplinaire un debulking tumoral / une résection des métastases, une chimiothérapie, une chimio-embolisation ciblée ou un traitement médicamenteux par des analogues de la somatostatine ou du diazoxide (Proglicem®).
+T1	irrelevant 9711 9739;9741 9804	L’essentiel pour la pratique  • Triade de Whipple – tableau clinique typique d’un insulinome:
+T1	irrelevant 9806 9857;9859 10119	1. Hypoglycémie, c’est-à-dire glycémie <3,0 mmol/l.  2. Symptômes neuroglycopéniques (troubles qualitatifs ou quantitatifs de la conscience: confusion, troubles du langage et de la pensée, troubles du comportement, troubles de la concentration, somnolence, coma, déficits neurologiques focaux, crise épileptique).
+T1	irrelevant 10121 10198;10200 10547	3. Régression immédiate des signes cliniques après administration de glucose.  • Le test stationnaire de jeûne constitue la référence absolue pour le diag­nostic en cas de suspicion d’insulinome [4]. Dès lors que de l’insuline continue d’être sécrétée avec des taux inadéquatement élevés de peptide C et d’insuline sans suppression significative en présence d’une hypoglycémie, l’hypoglycémie hyperinsulinémique est démontrée.
+T2	disorder 23 34	insulinome 
+T3	disorder 229 240	gastrinomes
+T4	disorder 242 254	glucagonomes
+T5	disorder 256 263	VIPomes
+T6	disorder 1017 1026	 syncopes
+T7	disorder 1190 1199	céphalées
+T8	disorder 1205 1219	désorientation
+T9	disorder 1225 1237	tremblements
+T10	disorder 1243 1257	sueurs froides
+T11	disorder 1272 1283	présyncopes
+T12	procedure 1288 1311	 examens neurologiques 
+T13	procedure 1314 1329	cardiologiques 
+T14	disorder 1538 1567	perte de conscience prolongée
+T15	disorder 1621 1648	 hypoglycémie symptomatique
+T16	procedure 1650 1669	La glycémie mesurée
+T17	labvalue 1708 1719	2,5 mmol/l.
+T18	procedure 1720 1752	L’administration d’une solution 
+T19	drugs 1755 1768	glucose à 40%
+T20	procedure 1845 1859	une perfusion 
+T21	drugs 1861 1875	 glucose (5%) 
+T22	procedure 1917 1926	glycémie 
+T23	labvalue 1929 1945	5,2 à 2,9 mmol/l
+T24	procedure 2214 2219	poids
+T25	labvalue 2235 2238	99 
+T26	labvalue 2240 2247	104 kg.
+T27	disorder 2546 2553	obésité
+T28	procedure 2559 2579	examens neurologique
+T29	procedure 2678 2699	 pression artérielle 
+T30	labvalue 2722 2734	156/88 mm Hg
+T31	procedure 2805 2828	analyses de laboratoire
+T32	disorder 2890 2902	hypokaliémie
+T33	procedure 2921 2943	a thyréostimuline (TSH
+T34	procedure 2951 2971	ignes d’inflammation
+T35	procedure 2978 2992	fonction rénal
+T36	labvalue 3002 3009	normaux
+T37	procedure 3016 3030	 taux d’HbA1c 
+T38	labvalue 3032 3037	 4,9%
+T39	procedure 3052 3068	Un test de jeûne
+T40	labvalue 3123 3136	pathologique 
+T41	procedure 3257 3274	 taux de glucose 
+T42	labvalue 3283 3293	1,7 mmol/l
+T43	procedure 3297 3314	 taux d’insuline 
+T44	labvalue 3317 3329	80,5 pmol/l 
+T45	procedure 3341 3350	peptide C
+T46	labvalue 3363 3373	0,9 nmol/l
+T47	procedure 3384 3429	le mini-mental state (MMS)/test de l’horloge 
+T48	procedure 3472 3505	 administration d’une solution de
+T49	drugs 3506 3513	glucose
+T50	procedure 3755 3768	test de jeûne
+T51	labvalue 3769 3782	pathologique 
+T52	disorder 3846 3877	hypoglycémie hyperinsulinémique
+T53	procedure 3899 3916	examen d’imagerie
+T54	procedure 3969 4014	omographie par émission de positons (PET-CT) 
+T55	procedure 4395 4447	imagerie par résonance magnétique (IRM) du pan­créas
+T56	disorder 4582 4606	néoplasie neuroendocrine
+T57	procedure 4696 4711	IRM du pancréas
+T58	disorder 5098 5134	tumeur neuroendocrine non métastasée
+T59	disorder 5145 5181	 insulinome dans la tête du pancréas
+T60	procedure 5244 5274	adapter le régime alimentaire 
+T61	procedure 5402 5427	autocontrôles glycémiques
+T62	procedure 5559 5591	interdiction absolue de conduire
+T63	procedure 5642 5646	’IRM
+T64	procedure 5652 5693	résection curative du tissu du pancréas s
+T65	procedure 5775 5800	échographie peropératoire
+T66	procedure 5814 5826	histologique
+T67	disorder 5862 5884	TNE bien différenciée 

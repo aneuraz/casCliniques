@@ -1,0 +1,62 @@
+T1	procedure 31 44	bilan sanguin
+T2	disorder 124 131	fatigue
+T3	disorder 148 162	perte de poids
+T4	disorder 196 199	HTA
+T5	disorder 201 213	dyslipidémie
+T6	disorder 217 228	ostéoporose
+T7	disorder 250 256	anémie
+T8	labvalue 259 272	11,2 g/100 ml
+T9	labvalue 283 293	13 g/100ml
+T10	procedure 319 321	VS
+T11	labvalue 324 330	70 mm 
+T12	labvalue 353 358	30 mm
+T13	labvalue 360 374	sans élévation
+T14	procedure 381 384	CRP
+T15	procedure 429 440	créatinémie
+T16	labvalue 443 452	111µmol/l
+T17	labvalue 464 471	53 à 89
+T18	labvalue 494 511	45 ml/min/1,73m² 
+T19	procedure 482 491	clairance
+T20	profession 634 645	cardiologue
+T21	disorder 677 697	tachycardie sinusale
+T22	disorder 728 734	anémie
+T23	procedure 752 772	pose d'un holter ECG
+T24	procedure 1043 1064	échographie cardiaque
+T25	labvalue 1287 1297	11g/100 ml
+T26	labvalue 1337 1345	négative
+T27	labvalue 1433 1446	10,6 g/100 ml
+T28	labvalue 1561 1569	5,7 mmol
+T29	labvalue 1505 1521	38 ml/min/1,73m²
+T30	labvalue 1475 1483	135 µmol
+T31	labvalue 1453 1459	112 mm
+T32	labvalue 1727 1733	7 g/l 
+T33	labvalue 2559 2565	129 mm
+T34	labvalue 2532 2544	8,6 g/100 ml
+T35	labvalue 2728 2737	5,2mmol/l
+T36	disorder 2652 2668	10 ml/min/1,73m²
+T37	disorder 881 902	tachycardie sinusale 
+T38	labvalue 945 952	88 /min
+T39	labvalue 916 923	103/min
+T40	labvalue 1067 1211	"Ventricule gauche de bonne cinétique avec une fraction d'éjection à 63 %. Présence d'une cardiopathie post-hypertensive modérée bien compensée"
+T41	procedure 3071 3082	hémodialyse
+T42	drugs 3330 3343	Dexamethasone
+T43	drugs 3304 3321	Cyclophosphamide 
+T44	procedure 1811 1865	scanner thoraco-abdomino-pelvien avec injection d'iode
+T45	drugs 3289 3299	Bortezomib
+T46	drugs 4031 4045	chimiothérapie
+T47	disorder 3133 3140	myélome
+T48	profession 2260 2271	hématologue
+T49	procedure 1717 1724	 lambda
+T50	procedure 1461 1472	créatinémie
+T51	procedure 2606 2618	créatinémie 
+T52	procedure 1448 1450	VS
+T53	procedure 1493 1502	clairance
+T54	procedure 2717 2726	kaliémie 
+T55	disorder 1248 1276	altération de l'état général
+T56	procedure 1550 1559	kaliémie 
+T57	procedure 3477 3488	hémodialyse
+T58	procedure 2640 2650	clairance 
+T59	disorder 3597 3621	fibrillation auriculaire
+T60	disorder 3164 3195	 insuffisance rénale organique 
+T61	drugs 4198 4201	AVK
+T62	procedure 3740 3747	dialyse

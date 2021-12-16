@@ -1,0 +1,30 @@
+T1	disorder 43 66	hypertension artérielle
+T2	risk 68 89	hypercholestérolémie 
+T3	risk 92 120	surcharge pondérale (110 kg)
+T4	risk 43 66	hypertension artérielle
+T5	disorder 135 207	troubles urinaires en rapport avec une hypertrophie prostatique bénigne 
+T6	drugs 208 215	Xatral 
+T7	disorder 308 336	œdème des membres inférieurs
+T8	disorder 338 352	prise de poids
+T9	disorder 372 430	hypertension artérielle sévère et mictions par regorgement
+T10	procedure 436 490	Mise en place immédiate d’une sonde urinaire à demeure
+T11	procedure 675 679	ECBU
+T12	labvalue 729 746	PSA à 3, 67 ng/ml
+T13	labvalue 708 715	stérile
+T14	procedure 762 830	patient est transféré de l’unité de court séjour à l’unité de soins 
+T15	labvalue 1038 1144	infection urinaire à Enterobacter cloacae résistant à la totalité des antibiotiques testés sauf l’Amiklin®
+T16	drugs 1151 1160	Fosfocine
+T17	drugs 1175 1183	Noroxine
+T18	disorder 1415 1446	violentes douleurs abdominales 
+T19	disorder 1487 1520	obstruction de la sonde uréthrale
+T20	drugs 1808 1821	Bactrim Forte
+T21	drugs 2465 2474	Rocéphine
+T22	procedure 2557 2633	résection transuréthrale d’un adénome prostatique portant sur les deux lobes
+T23	disorder 3144 3152	frissons
+T24	drugs 3172 3180	Dopamine
+T25	drugs 3237 3271	Claforan®, Gentamycine®, Augmentin
+T26	disorder 3334 3368	PA instable puis basse(80/40 mmHg)
+T27	disorder 3374 3440	dyspnée en rapport avec une SaO2 à 94 %. La température est à 38,5
+T28	drugs 3564 3571	Lexomil
+T29	procedure 3797 3844	malade doit être intubé et mis sous respirateur
+T30	disorder 3918 3951	défaillance multiviscérale sévère

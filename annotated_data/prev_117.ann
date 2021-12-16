@@ -1,0 +1,32 @@
+T1	irrelevant 0 177;179 218;219 283;284 324;326 338	Ce matériel est réservé à un usage privé ou d’enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l’objet d’une transaction commerciale.  Télécharger l'exercice (pdf - 28.46 Ko) Retrouver l'analyse des barrières de prévention (pdf - 52.35 Ko) Télécharger le jugement (pdf - 63.51 Ko)  Cas clinique
+T2	procedure 392 415	liposuccion en clinique
+T3	procedure 376 386	lipectomie
+T4	procedure 519 530	liposuccion
+T5	procedure 619 646	prophylaxie anticoagulante 
+T6	procedure 650 654	HBPM
+T7	disorder 817 824	douleur
+T8	disorder 1387 1395	fatiguée
+T9	disorder 1419 1426	malaise
+T10	disorder 1487 1524	douleur thoracique antero-postérieure
+T11	disorder 1590 1602	palpitations
+T12	disorder 1643 1650	malaise
+T13	disorder 1947 1960	malaise vagal
+T14	disorder 2287 2294	douleur
+T15	disorder 2332 2346	 malaise vagal
+T16	disorder 2759 2766	douleur
+T17	disorder 3497 3524	 essoufflement à la marche 
+T18	disorder 3549 3568	douleur thoracique.
+T19	disorder 3628 3646	douleur thoracique
+T20	disorder 3651 3675	 perte de connaissance r
+T21	disorder 3752 3760	polypnée
+T22	disorder 3772 3791	chute tensionnelle 
+T23	disorder 3811 3822	tachycardie
+T24	disorder 3834 3846	vomissements
+T25	disorder 3824 3830	pâleur
+T26	disorder 3927 3956	embolie pulmonaire bilatérale
+T27	procedure 3976 3988	angioscanner
+T28	procedure 4030 4038	Héparine
+T29	procedure 4043 4068	traitement thrombolytique
+T30	disorder 4135 4167	thrombose veineuse périphérique 
+T31	drugs 4290 4298	Héparine
+T32	drugs 4306 4315	Previscan

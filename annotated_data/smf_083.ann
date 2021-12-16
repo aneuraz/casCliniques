@@ -1,0 +1,41 @@
+T1	irrelevant 0 8;10 294;296 314;315 323	Contexte  Le spectre clinique, histopathologique et radiologique de la tumeur myofibroblastique inflammatoire est large. La pathogenèse de cette maladie rare reste peu connue, ce qui explique les multiples changements de nom depuis la première mise en évidence au niveau pulmonaire en 1939 [1].  Description du cas Anamnèse
+T2	procedure 383 423	multiples interventions maxillo-faciales
+T3	disorder 478 509	atteinte fibreuse inflammatoire
+T4	disorder 598 622	baisse de l’état général
+T5	disorder 701 720	sudations nocturnes
+T6	disorder 728 736	asthénie
+T7	disorder 740 748	insomnie
+T8	disorder 764 783	sudations nocturnes
+T9	procedure 915 936	CT thoraco-abdominale
+T10	disorder 962 991	masse du pôle rénal supérieur
+T11	disorder 1003 1028	infiltration mésentérique
+T12	irrelevant 1040 1288	Figure 1:A ) CT thoraco-abdominale (reconstruction coronale oblique au temps veineux) montrant une masse du pôle rénal supérieur droit (flèche).B) CT thoraco-abdominale (coupe axiale) avec la flèche indiquant la masse du pôle rénal supérieur droit.
+T13	irrelevant 4393 4403;4405 4828;4830 5376;5378 5760;5762 6561;6563 7303;7305 7919;7921 7949;7951 8144;8146 8289;8291 8379;8381 8467;8469 8632	Discussion  La classification de l’IMT en tant que véritable néoplasie ou «pseudo»-tumeur fut un débat prédominant par le passé. Le terme de pseudotumeur inflammatoire a été utilisé pour l’associer aux processus post-infectieux. L’Organisation mondiale de la Santé (OMS) cependant a décidé de l’apprécier comme une atteinte néoplasique à potentiel biologique intermédiaire au vue du risque de récidive et du potentiel métastatique [2].  L’incidence reste inconnue, estimée selon les études entre 0,04–0,7% [3] et peut atteindre tout âge. Cependant, une prédilection pédiatrique est suggérée par la littérature scientifique sans de préférence de genre. ­Aucun facteur de risque n’est connu. Le site de prédilection de l’atteinte est au niveau pulmonaire, abdomino-pelvien ou retro-péritonéal. Une atteinte multifocale est possible. L’aspect clinique se traduit par une induration indolore transitoire, des symptômes spécifiques de la région atteinte et des symptômes constitutionnels.  L’atteinte pulmonaire est plus fréquente avant la deuxième décennie et est associée à un pronostic moins agressif, tandis que l’atteinte extra-pulmonaire touche des individus plus âgés avec une évolution plus agressive. Les lésions sont rares dans la région maxillo-faciale (bien que présentés chez notre patient). L’IMT doit rester un diagnostic d’exclusion chez des patients âgés.  La nature de l’IMT n’est pas évidente, mais elle est considérée désormais comme une néoplasie à potentiel biologique intermédiaire. Des altérations du gène ALK avaient déjà été décrites dans d’autres cancers humains tels que les lymphomes anaplasiques à grandes cellules, les neuroblastomes et certains cancers du poumon. Les analyses génétiques ont alors démontré que cette translocation génétique apparait aussi dans environs 50% des cas d’IMT, notamment chez des jeunes patients [4]. Concernant l’origine inflammatoire, le fait que des analyses virales ont retrouvé la présence de l’EBV ou de l’herpèsvirus humain de type 8 (HHV-8) est parlant. Cependant, les preuves restent insuffisantes et la pathogenèse controversée notamment depuis la découverte des anomalies cytogénétiques susmentionnées.  La prise en charge reste pareillement débattue. L’IMT ­focale est prise en charge de préférence par la chirurgie (notre patient a eu plusieurs opérations au sinus avec reconstruction faciale partielle entre 1992–2007). L’approche médicamenteuse est réservée pour les patients avec une atteinte systémique lorsqu’une exérèse chirurgicale n’est pas possible [5]. Certaines études proposent une prise en charge avec des anti-inflammatoires non stéroïdiens seuls (surtout dans l’IMT ALK-négative). L’utilisation anecdotique des inhibiteurs d’ALK-kinase suggère l’implication d’un processus de signalisation médié par ALK qui serait important dans l’activité de la tumeur. La chimiothérapie et la radiothérapie ont également été mises à l’essai.  Le pronostic de l’IMT est caractérisé par un risque de récidive et le potentiel métastatique. La mortalité liée à l’IMT extra-pulmonaire peut être aussi haute que 4% [3]. Le risque de récidive varie selon le site atteint et la prise en charge proposée mais est évalué dans la littérature de très rare jusqu’à 15% [3,5]. Les métastases sont rares et n’apparaissent que dans <5% des cas [2]. Des études récentes suggèrent que certains partenaires de fusion du gène ALK et que les ­tumeurs ALK-négatives sont associées à un risque de métastases, tandis que le taux de récidive est indépendant de l’expression ALK [6].  L’essentiel pour la pratique  • La tumeur myofibroblastique inflammatoire (IMT) est une atteinte rare avec une prédilection pédiatrique ainsi qu’une clinique variable selon le site atteint. L’atteinte peut être multifocale.  • La pathogénèse demeure incertaine; la mise en évidence des formes d’IMT ALK-positives (environ 50% des IMT) suggère une atteinte néoplasique.  • Il s’agit d’un diagnostic d’exclusion. Le diagnostic nécessite l’analyse histologique.  • Le traitement reste débattu et dépend des caractéristiques spécifiques de la tumeur.  • L’évolution de l’IMT est caractérisée par un risque de récidive (indépendant du statut ALK) et du potentiel de métastases (qui augmente si ­tumeur ALK-négative).
+T14	procedure 1312 1319	biopsie
+T15	disorder 1553 1603	infiltrat inflammatoire marqué lymphoplasmocytaire
+T16	procedure 1648 1663	immunophénotype
+T17	procedure 2034 2082	recherche immunohistochimique de la protéine ALK
+T18	procedure 2143 2164	résultat histologique
+T19	procedure 2731 2763	syndrome polyurique-polydipsique
+T20	disorder 2900 2910	asthénique
+T21	disorder 2919 2951	nodule au niveau bicipital droit
+T22	disorder 3040 3062	syndrome inflammatoire
+T23	procedure 3072 3101	vitesse de sédimentation (VS)
+T24	labvalue 3104 3111	77 mm/h
+T25	procedure 3117 3120	CRP
+T26	labvalue 3123 3130	90 mg/l
+T27	procedure 3132 3141	ferritine
+T28	labvalue 3144 3153	1285 µg/l
+T29	disorder 3159 3178	anémie microcytaire
+T30	disorder 3185 3202	diabète inaugural
+T31	procedure 3208 3225	IRM du bras droit
+T32	drugs 3697 3712	corticothérapie
+T33	disorder 3911 3933	syndrome inflammatoire
+T34	procedure 3973 3975	VS
+T35	procedure 3991 3994	CRP
+T36	procedure 4010 4019	ferritine
+T37	labvalue 3978 3985	38 mm/h
+T38	labvalue 3997 4004	23 mg/l
+T39	labvalue 4022 4030	479 µg/l
+T40	procedure 4150 4163	CT abdominal 
+T41	disorder 4281 4332	tumeur myofibroblastique inflammatoire ALK négative

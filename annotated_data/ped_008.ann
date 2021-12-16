@@ -1,0 +1,70 @@
+T1	disorder 350 369	état général altéré
+T2	disorder 375 403	fièvre à 39,7 °C avec sueurs
+T3	procedure 407 423	examen abdominal
+T4	disorder 444 479	sensibilité diffuse du flanc gauche
+T5	disorder 495 531	douleur à l’ébranlement rénal gauche
+T6	disorder 536 577	toucher vaginal est sans anomalie notable
+T7	disorder 593 604	leucorrhées
+T8	disorder 651 725	examen cardio-pulmonaire, ORL, cutané, neurologique est sans particularité
+T9	disorder 731 763	aires ganglionnaires sont libres
+T10	procedure 768 784	bilan biologique
+T11	procedure 841 845	 NFP
+T12	labvalue 850 913	GB : 2 400/mm3 (polynucléaires neutrophiles : 1 300/mm3 [54 %])
+T13	labvalue 918 941	Hémoglobine : 12,3 g/dl
+T14	labvalue 946 969	Plaquettes : 170 000/ml
+T15	labvalue 972 1000	Ionogramme sanguin : normal 
+T16	labvalue 1004 1019	ALAT : 63 UI/l 
+T17	labvalue 1023 1036	CRP : 53 mg/l
+T18	labvalue 1041 1057	βHCG : négatives
+T19	drugs 1126 1135	rocéphine
+T20	disorder 1159 1178	pyélonéphrite aiguë
+T21	disorder 1242 1271	douleurs abdominales diffuses
+T22	disorder 1321 1333	état fébrile
+T23	disorder 1339 1355	sueurs profuses 
+T24	disorder 1376 1382	ictère
+T25	profession 1410 1422	gynécologue,
+T26	procedure 1446 1471	échographie endo-vaginale
+T27	procedure 1551 1570	prélèvement vaginal
+T28	disorder 1582 1595	mycose banale
+T29	procedure 1653 1675	échographie abdominale
+T30	disorder 1676 1720	ne montre pas d’anomalie des voies urinaires
+T31	disorder 1731 1745	splénomégalie 
+T32	procedure 1916 1941	biologique complémentaire
+T33	procedure 2043 2047	 NFP
+T34	labvalue 2052 2066	GB : 2 500/mm3
+T35	labvalue 2071 2107	Hémoglobine et plaquettes : normales
+T36	procedure 2110 2135	Tests hépatopancréatiques
+T37	labvalue 2140 2154	γGT : 144 UI/l
+T38	labvalue 2159 2175	ASAT : 307 UI/l 
+T39	labvalue 2179 2195	ALAT : 165 UI/l 
+T40	labvalue 2199 2216	Lipase : 177 UI/l
+T41	labvalue 2219 2231	VS : 15 mm/h
+T42	labvalue 2234 2249	CRP : 50,5 mg/l
+T43	labvalue 2252 2296	Coagulation et ionogramme sanguin : normaux 
+T44	procedure 2297 2307	 Virologie
+T45	labvalue 2310 2352	Sérologie HIV, hépatites A et C négatives 
+T46	labvalue 2354 2409	Sérologie EBV et CMV en faveur d’une infection ancienne
+T47	procedure 2412 2432	Sérologie hépatite B
+T48	labvalue 2437 2459	Antigène HBs : négatif
+T49	labvalue 2464 2492	Anticorps anti-HBc : positif
+T50	labvalue 2497 2534	Anticorps anti-HBs positif : 542 UI/l
+T51	procedure 2537 2550	Parasitologie
+T52	labvalue 2555 2588	Recherche de paludisme : négative
+T53	procedure 2621 2634	Bactériologie
+T54	labvalue 2639 2653	ECBU : stérile
+T55	labvalue 2658 2714	Sérologie Gonocoque, Leishmaniose, Chlamydia : négatives
+T56	labvalue 2717 2748	IDR à la tuberculine : négative
+T57	labvalue 2751 2806	Séro-agglutination de Wright : fortement positive ++++ 
+T58	procedure 2812 2825	 hémocultures
+T59	labvalue 2826 2860	positives pour Brucella melitensis
+T60	disorder 2900 2932	brucellose en phase septicémique
+T61	procedure 3054 3077	examens complémentaires
+T62	procedure 3091 3094	NFP
+T63	labvalue 3097 3113	leuconeutropénie
+T64	disorder 3118 3141	syndrome inflammatoire 
+T65	labvalue 3143 3174	modeste (VS et CRP peu élevées)
+T66	procedure 3201 3214	hémocultures 
+T67	labvalue 3221 3302	séro-agglutination de Wright (faux-positifs avec la tularémie ou les yersinioses)
+T68	labvalue 3310 3382	détection des anticorps en immuno-fluorescence indirecte (IgG, IgA, IgM)
+T69	labvalue 3389 3411	IDR en phase chronique
+T70	irrelevant 3413 6604	Commentaires • La brucellose, également appelée fièvre de Malte, fièvre ondulante sudoro-algique ou fièvre méditerranéenne, est une maladie bactérienne due à Brucella melitensis, B. abortus bovis ou B. abortus suis. Ce sont des coccobacilles à Gram négatif à développement intracellulaire, ce qui rend la stérilisation complète difficile et explique les rechutes septicémiques et les troubles chroniques. • L’incidence de la maladie est en nette diminution en France (moins de 100 cas annuels, essentiellement dans le sud du pays), mais en revanche elle est encore fréquente dans les pays en voie de développement. La contamination se fait par les animaux domestiques infectés (bovins, caprins, ovins), liée à l’exercice professionnel (bergers, vétérinaires, agriculteurs, bouchers…), ou non (consommation de fromages frais, de crudités contaminées par le fumier). La maladie s’exprime chez l’animal par des infections génitales et des avortements, avec un portage prolongé jusqu’à plusieurs années. La contagiosité de l’animal à l’homme est très importante (par voie digestive ou cutanée), par contre extrêmement faible par voie inter-humaine. • L’incubation varie de 1 à 3 semaines maximum. La primoinvasion est une phase bactériémique avec atteinte des organes du système réticulo-histiocytaire (foie, rate, moelle osseuse, ganglions lymphatiques, organes génitaux). Elle se manifeste cliniquement par une fièvre ondulante, des sueurs profuses et nauséabondes, des sensations de malaise, des polyarthromyalgies. Il existe une hépato-splénomégalie, et parfois des adénopathies, des arthrites ou des orchites. L’atteinte endocarditique est rare et très grave. • La phase secondaire est une phase de parasitisme bactérien, aboutissant à des foyers infectieux constitués (ostéo-arthrite, spondylodiscite, atteinte hépatosplénique, méningite, atteinte polyviscérale chez l’immunodéprimé). Il existe une asthénie prolongée. • La phase tertiaire (chronique) correspond à des foyers d’évolution torpide (foyers quiescents osseux, neuroméningés, brucellomes viscéraux), associés à une asthénie et des sueurs et algies à l’effort. Traitement et suivi Le traitement de référence en phase primaire est la bi-antibiothérapie prolongée (6 semaines) : doxycycline (à la dose de 4 mg/kg/j chez l’enfant et de 200 mg/j chez l’adulte) + rifampicine (15 mg/kg/j). Les cyclines sont contre-indiquées avant 8 ans, et la rifampicine en cas de trouble hépatique (attention également à l’effet inducteur enzymatique pour la contraception orale). Les alternatives thérapeutiques sont le cotrimoxazole ou les fluoroquinolones. On peut adjoindre à ce traitement des aminosides en phase aiguë. En phase secondaire avec atteinte focale, le traitement est prolongé pendant 3 mois. En phase secondaire afocale ou en phase tertiaire, le traitement antibiotique ne semble pas avoir d’efficacité. Les mesures de prophylaxie restent un élément clé dans la prise en charge de cette maladie : – maladie à déclaration obligatoire n° 16 ; – surveillance des troupeaux (sérologies, dosage des anticorps dans le lait) ; – pasteurisation du lait, mesures d’hygiène ; – vaccination des animaux ? – vaccination des professionnels ? 

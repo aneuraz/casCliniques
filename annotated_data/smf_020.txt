@@ -1,0 +1,127 @@
+Contexte
+
+Chez les patients atteints d’immunodéficience commune variable («common variable immunodeficiency» [CVID]) les infections sont fréquentes, sérieuses, et ­parfois difficiles à mettre en évidence. Des examens ­cliniques complets et répétés sont nécessaires à l’obtention d’un diagnostic, associés à des examens biologiques et radiologiques appropriés.
+
+Description du cas
+
+Il s’agit d’un jeune patient de 38 ans, connu pour une CVID, traité par perfusions d’immunoglobulines (IG) toutes les 3 semaines. Il présente une prolifération lymphocytaire avec une atteinte multi-systémique de sa maladie, notamment au niveau pulmonaire. Dans ce contexte, une splénomégalie a entraîné une splénectomie. Du point de vue digestif, une entéropathie exsudative nécessite une substitution en albumine. De plus, une anémie hémolytique à anticorps chauds ainsi qu’une thrombopénie périphérique à anticorps anti-thrombocytes motivent une corticothérapie au long cours.
+
+Il consulte en raison de céphalées et nucalgies associées à une photophobie, des troubles de l’équilibre, un état fébrile et des vomissements depuis 2 jours, suite à la consommation d’huîtres. Au status, le patient est hautement fébrile mais stable sur le plan hémodynamique. Une raideur de nuque est présente avec une dysmétrie aux tests cérébelleux ainsi qu’une instabilité au test de Romberg.
+
+Question 1: Quel est le diagnostic le plus probable?
+
+
+a) Méningite à Neisseria meningitidis
+
+b) Rhombencéphalite à Listeria monocytogenes
+
+c) Encéphalite herpétique
+
+d) Gastro-entérite virale
+
+e) Intoxication alimentaire
+
+La présence d’une immunosupression (CVID + corticothérapie + splénectomie) associée aux symptômes présentés nous oriente vers une rhombencéphalite à Listeria monocytogenes. L’atteinte cérébelleuse présente depuis plus de 48 heures rend une infection à Neisseria meningitidis moins probable. L’encéphalite herpétique, la gastro-entérite virale et l’intoxication alimentaire n’expliquent pas le syndrome cérébelleux.
+
+Le bilan laboratoire est aligné, à l’exception d’une anémie stable.
+
+Question 2: Quelle est la prise en charge initiale (dans l’ordre mentionné)?
+
+
+a) Antibiotiques et ponction lombaire (PL)
+
+b) Hémocultures (HC), PL, antibiotiques
+
+c) HC, PL, antibiotiques et corticoïdes
+
+d) HC, antibiotiques, corticoïdes, scanner cérébral +/- PL
+
+e) Antibiotiques, IRM cérébrale +/- PL
+
+La réalisation d’hémocultures (HC) est la première étape. Notre patient présente un déficit neurologique focal dans le cadre d’une immunosuppression, une imagerie est impérative avant une ponction lombaire (PL) en raison du risque d’engagement cérébral. Selon les guidelines de l’«European Society of Clinical Microbiology and Infectious Diseases» (ESCMID) [1], les critères retenus à l’imagerie avant PL sont la présence de déficits neurologiques focaux, des convulsions, un score de Glasgow inférieur à 10 ou la présence d’une immunosuppression. L’initiation de l’antibiothérapie ne doit pas être retardée par l’imagerie. Une corticothérapie permet une diminution des séquelles neurologiques, notamment la surdité, ainsi que de la mortalité lors de méningites à Streptococcus pneumoniae [1].
+
+Chez notre patient, une association de ceftriaxone, d’amoxicilline et d’aciclovir ainsi qu’une majoration de la corticothérapie sont initiées, selon les recommandations. Un scanner cérébral injecté ne montre pas d’effet de masse. La PL évoque une infection bactérienne en présence de leucocytes à 29 G/l avec une prédominance de neutrophiles (78%), des lactates à 3,8 mmol/l, un glucose à 2 mmol/l et des protéines à 1721 mg/l. L’examen direct du liquide céphalo-rachidien (LCR) ne retrouve pas de germes à la coloration de Gram, et une PCR («polymerase chain reaction») multiplex à la recherche de Listeria monocytogenes, Neisseria meningitidis, Streptococcus pneumoniae, Cryptococcus neoformans, Varicella zooster virus, Herpes simplex virus 1 et 2 revient négative.
+
+En raison d’un déficit neurologique focal persistant, le bilan est complété par une imagerie par résonance magnétique (IRM) cérébrale, plus sensible pour la détection de lésions infectieuses. Une lésion unique centrée sur le vermis et étendue au noyeau dentelé droit, est mise en évidence (fig. 1). Cette image évoque en premier lieu un abcès pyogène avec fistulisation vers le 4ème ventricule.
+
+Figure 1: Image à l’IRM d’une lésion polylobulée du vermis cérébelleux supérieur, bien délimitée avec une capsule hypointense et un contenu hyperintense en pondération T2 (A), hyperintense sur la séquence de diffusion (B) avec importante chute du coefficient apparent de diffusion (C), et avec une prise de contraste linéaire périphérique après injection intraveineuse de produit de contraste gadoliné (D). L’imagerie de perfusion ne montrait pas d’augmentation locale du volume sanguin cérébral (E), et la spectroscopie révélait un important pic de lactate et d’acides aminés (F). Cet aspect correspondait à un abcès vermien à germes pyogènes.
+
+Du point de vue microbiologique, le patient est connu pour un portage de Staphylococcus aureus résistant à la méthicilline («methicillin-resistant Staphylococcus aureus» [MRSA]) au niveau nasal. La dernière hospitalisation date de 4 mois auparavant, en raison d’un sepsis à MRSA et Escherichia coli producteur debêta-lactamase à spectre étendu («extended-spectrum beta-lactamase» [ESBL]) d’origine pulmonaire. Lors du séjour, le patient avait de plus développé une bactériémie à Abiotrophia defectiva, traitée par de la ceftriaxone pour une durée de 2 semaines.
+
+Question 3: Quelle antibiothérapie est la plus appropriée à ce stade?
+
+
+a) Ceftriaxone + aciclovir
+
+b) Ceftriaxone + amoxicilline + metronidazole
+
+c) Piperacilline-tazobactam
+
+d) Ceftriaxone + métronidazole + vancomycine
+
+e) Amoxicilline + métronidazole
+
+Selon les recommandations de prise en charge des ­abcès cérébraux [2], la ceftriaxone est poursuivie. En ­effet, les germes plus fréquemment impliqués, soit des streptocoques, sont bien couverts par la ceftriaxone. Le métronidazole est ajouté, couvrant les germes anaérobes souvent incriminés [2], de même que la vancomycine chez ce patient porteur d’un MRSA. L’amoxicilline et l’aciclovir sont stoppés en présence d’une PCR multiplex négative et d’un abcès. Le traitement de piperacilline-tazobactam n’est pas un premier choix, sa biodisponibilité étant insuffisante pour assurer un bon passage de la barrière hémato-encéphalique.
+
+La présence d’une fistulisation de l’abcès vers le 4èmeventricule motive un drainage chirurgical. Les prélèvements mettent en évidence un Streptoccocus intermedius. Le traitement est simplifié vers de la ceftriaxone seule pour un total de 6 semaines. Une neuro-rééducation est initiée permettant un retour à domicile après un mois d’hospitalisation avec des contrôles ambulatoires réguliers.
+
+Streptoccocus intermedius fait partie des streptocoques du groupe «milleri», impliqués dans 50–80% des abcès cérébraux [3]. Ce germe fait partie de la flore digestive. Une infection du système nerveux central fait suite à une dissémination par voie hématogène (bactériémie, endocardite) ou à une infection de la sphère ORL (otite, sinusite). A noter que plus de 20% des abcès cérébraux sont polymicrobiens.
+
+Discussion
+
+La prise en charge d’infections chez les patients immunosupprimés est complexe mais plusieurs caractéristiques peuvent nous aider.
+
+Question 4: Quels germes sont les plus fréquents dans les infections cérébrales chez les patients atteints de CVID?
+
+
+a) Toxoplasma gondii
+
+b) Streptococcus pneumoniae, Neisseria meningitidis ou ­Haemophilus influenzae
+
+c) Aspergillus spp.
+
+d) Mycobacterium tuberculosis
+
+e) Cryptococcus neoformans
+
+Même si tous ces germes peuvent être impliqués, les patients atteints de CVID sont plus susceptibles aux germes encapsulés. L’atteinte immunologique de cette maladie est caractérisée par un déficit de différentiation des lymphocytes B en lymphocytes B mémoire et en plasmocytes, provoquant un déficit de production d’IG ainsi qu’une diminution de la réponse cellulaire aux antigènes polysaccarides et protéiques [4]. Dans le cas de notre patient, une corticothérapie et une splénectomie se surajoutent, majorant l’éventail de pathogènes auxquels le patient est susceptible.
+
+Toxoplasma gondii et Cryptococcus neoformans concernent avant tout les patients avec une immunodéficience cellulaire, comme le VIH. Aspergillusspp. se retrouve chez les patients immunosupprimés suite à une transplantation ou atteints d’une maladie hématologique avec une neutropénie prolongée. L’infection à Mycobacterium tuberculosisavec atteinte ­cérébrale peut se retrouver chez tout patient immunosupprimé.
+
+Question 5: Quelle prophylaxie anti-infectieuse est nécessaire dans la CVID?
+
+
+a) Vaccination pour les germes encapsulés
+
+b) Co-trimoxazole 3×/semaine
+
+c) IG 1×/3–4 semaines
+
+d) Valaciclovir prophylactique
+
+e) Rien
+
+Même si la susceptibilité aux infections des patient ­atteints de CVID concerne avant tout les germes encapsulés, la vaccination est inefficace. La réponse immunologique est altérée et n’engendre pas de production d’IG à des taux protecteurs. De plus, la réponse lymphocytaire B mémoire, espérée lors d’une vaccination, est souvent insuffisante et inefficace. L’administration de co-trimoxazole n’est pas nécessaire systématiquement, les patients ne présentant pas de susceptibilité particulière au Pneumocystis jiroveci, excepté lors de corticothérapie surajoutée. Il en est de même pour les infections virales, une prophylaxie de valaciclovir n’est pas justifiée chez ces patients, sauf en présence d’une corticothérapie à haute dose. Seule la substitution régulière en IG par voie intraveineuse ou sous-­cutanée permet une amélioration des défenses immunitaires et une réduction de la fréquence des infections et de leurs complications [5].
+
+En cas d’infection chez un patient souffrant d’immunodéficience, une approche systématique et rapide, suivant les guidelines, sauve la vie de nos patients. Ces cas complexes nécessitent de plus une approche puridisciplinaire.
+
+Abbréviations
+
+
+CVID «common variable immunodeficiency»
+
+HC Hémocultures
+
+IG Immunoglobulines
+
+IRM Imagerie par résonance magnétique
+
+PCR «polymerase chain reaction»
+
+PL Ponction lombaire
+
+Réponses:
+
+
+Question 1: a. Question 2: d. Question 3: d. Question 4: b.
+Question 5: c.

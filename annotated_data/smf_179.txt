@@ -1,0 +1,101 @@
+Description du cas
+
+Vous voyez en consultation une patiente de 78 ans, diagnostiquée il y a deux ans d’un adénocarcinome invasif de type intestinal moyennement différencié du ­colon ascendant pT4, pN2a (6/19), M0, de grade 2 et de stade IIIB. L’antigène carcino-embryonnaire (CEA ou ACE) dosé en préopératoire s’élevait à 3,2 mcg/l. La patiente a été traitée par iléo-colectomie droite avec une chimiothérapie adjuvante par douze cycles de 5-fluorouracile (5-FU). Le suivi clinique et le dosage du CEA trimestriels étaient restés dans la norme durant la première année. La colonoscopie et la tomodensitométrie (CT) thoraco-abdominal réalisés à un an de la chirurgie ne retrouvaient pas de récidive. Lors du suivi à 15 mois de la chirurgie, l’examen clinique est sans particularité, mais le CEA augmente à 6,8 mcg/l (seuil du laboratoire à <5 mcg/l).
+
+Question: Comment interprétez-vous ce résultat?
+
+
+a) Un nouveau contrôle rapproché du CEA devrait être effectué.
+
+b) Un contrôle du CEA devrait être effectué dans trois mois.
+
+c) Une nouvelle colonoscopie devrait être organisée.
+
+d) La patiente devrait débuter une nouvelle ligne de chimiothérapie.
+
+Réponse
+
+
+La réponse correcte est a.
+
+Discussion
+Caractéristiques du test
+
+Le CEA est une glycoprotéine produite dans le tractus gastro-intestinal fœtal avec un rôle dans l’adhésion ­cellulaire. Il est retrouvé à des taux faibles chez l’adulte sain.
+
+Son utilisation comme marqueur tumoral pour le suivi et le pronostic des cancers colorectaux est reconnue depuis plusieurs décennies. Des taux de CEA augmentés peuvent être retrouvés dans d’autres types de néoplasies mais également dans de nombreuses pathologies bénignes. A noter toutefois, qu’un CEA au-delà de 10 mcg/l est rarement associé à une pathologie bénigne (tab. 1) [1, 2]
+
+Tableau 1: Augmentation du CEA (liste non exhaustive).
+Pathologies bénignes	Pathologies oncologiques
+Cirrhose éthylique	Colorectal
+Hépatites actives	Pancréas
+Cholestase ictérique	Sein
+Diverticulite	Pulmonaire
+Pancréatite	 
+Ulcère peptique / Gastrite	 
+Crohn/Rectocolite ulcéro-hémorragique	 
+Insuffisance rénale	 
+Infection pulmonaire 	 
+Bronchopneumopathie obstructive chronique 	 
+Tabagisme	 
+Diabète	 
+
+Le seuil de positivité du CEA reste controversé, il est néanmoins généralement fixé à 5 mcg/l. Une revue ­Cochrane a rapporté une sensibilité à 71% et une spécificité à 88% pour la détection de récidives de cancers colorectaux avec un seuil à 5 mcg/l [1]. Au vu de la faible sensibilité, le dosage du CEA ne peut être l’unique modalité de suivi oncologique.
+
+L’analyse du CEA sérique dans les laboratoires médicaux se fait classiquement par technique immunométrique de type sandwich. Les résultats obtenus par les nombreuses trousses de dosage existantes sur le marché ne sont pas interchangeables, notamment en raison de l’hétérogénéité de l’antigène, de la multiplicité des anticorps utilisés, des épitopes reconnus, des différents principes de dosage et d’étalonnage. Il est donc particulièrement important pour le suivi du CEA de toujours effectuer le suivi par une même méthode d’analyse.
+
+A titre indicatif, le prix du dosage du CEA au Centre hospitalier universitaire vaudois (CHUV) est de 20 CHF.
+
+Utilité du test
+
+Il est important de noter que le CEA n’est pas utilisé comme test de dépistage du cancer colorectal ou comme marqueur diagnostic, en raison de sa faible sensibilité et sa faible spécificité (tab. 1) avec 7 à 16% de faux positifs [3].
+
+Dosage du CEA en pré-opératoire
+
+Le CEA a une valeur pronostique dans le cancer colorectal. En effet, de nombreuses études ont montré qu’une valeur de CEA pré-opératoire élevée est associée à un plus mauvais pronostic [3]. Une étude rétrospective publiée en 2018 précise ces données, en rapportant qu’une valeur élevée de CEA en préopératoire, se normalisant par la suite, est alors associée à un meilleur pronostic [4].
+
+Un CEA élevé en pré-opératoire, ne se normalisant pas un mois après la résection chirurgicale peut indiquer une maladie persistante et doit impliquer des investigations supplémentaires [3]. De plus, cela est associé à un risque de récurrence plus élevé surtout durant la première année [4].
+
+A ce jour, les sociétés savantes européennes (European Society for Medical Oncology, ESMO) et américaines (American Society of Clinical Oncology, ASCO) proposent donc de doser le CEA en pré-opératoire.
+
+Dosage du CEA en post-opératoire
+
+Les recommandations de l’ESMO et de l’ASCO sur la surveillance des cancers colorectaux se basent sur l’augmentation de la survie grâce à la détection précoce des récidives locorégionales et métastatiques, en combinant le dosage du CEA et l’imagerie (radiologique et endoscopique). Le CEA est fréquemment le paramètre le plus précoce à indiquer une récidive, une valeur positive du CEA étant parfois retrouvée 1,5 à 6 mois avant des anomalies cliniques ou radiologiques [3]. De plus, le suivi est également utile chez les patients ayant une valeur pré-opératoire du CEA normale, 44% des cas récidivants dans cette situation présentent une positivité du dosage du CEA.
+
+Le CEA ne doit pas être utilisé comme seul paramètre de suivi. En effet, 20% à 40% de faux négatifs sont retrouvés lors de diagnostic de récurrence de cancer colorectal [1, 3–5].
+
+Pour résumer, le dosage du CEA en post-opératoire a donc une bonne valeur prédictive positive, mais une mauvaise valeur prédictive négative, pour une récidive de cancer colorectal.
+
+Les recommandations ESMO, ASCO ou de la Société Suisse de Gastro-entérologie (SSG), en terme de suivi après chirurgie à visée curative, sont adaptées à l’origine colique ou rectale de la néoplasie et au stade de la maladie. Pour les cancers coliques T3/4 ou N+, M0, elles proposent d’associer au dosage du CEA, un CT thoraco-abdominal tous les six à douze mois pendant trois à cinq ans, ainsi qu’une colonoscopie à un an de la résection chirurgicale puis à quatre ans [3, 5]. La fréquence du dosage du CEA varie selon les recommandations. La Société Suisse de Gastro-entérologie propose son analyse trimestrielle durant la première année, puis semestrielle jusqu’à quatre ans et enfin annuellement jusqu’à cinq ans. Cette fréquence étant diminuée pour les stades précoces (T1 et T2, N0) où la surveillance par CEA est d’emblée annuelle et le bilan par CT-scanner non recommandé.
+
+Pour les cancers rectaux s’ajoute au suivi une recto­sigmoïdoscopie flexible aux 6, 18 et 24ème mois après chirurgie et une endosonographie (ou l’imagerie par résonance magnétique [IRM] pelvienne) aux six mois durant les deux premières années.
+
+Dosage du CEA lors de cancers colorectaux métastatiques
+
+Enfin, le taux de CEA est également utile pour le suivi thérapeutique des cancers colorectaux métastatiques sous chimiothérapie ou après résection des métastases, chez les patients avec un CEA positif dans l’histoire oncologique. La fréquence du dosage du CEA est préconisée aux deux à trois mois [3].
+
+Il est essentiel d’intégrer le suivi du marqueur CEA dans la prise en charge globale du patient, en prenant compte de ses co-morbidités, de son âge et de ses préférences thérapeutiques.
+
+Lorsque le CEA devient positif lors du suivi post-opératoire, celui-ci devrait être recontrôlé de manière rapprochée, sans pour autant qu’un délai soit clairement établi. A noter que les faux-positifs au-delà d’un taux de plus de 15 mcg/l sont rares [2].
+
+Chez cette patiente, la valeur de CEA était normale en pré-opératoire et s’est positivée lors du contrôle des 15 mois. Le dosage répété une semaine plus tard confirme une valeur pathologique (tab. 2).
+
+Tableau 2: Evolution du CEA sanguin de la patiente.
+Date	CEA sanguin (norme <5 mcg/l)
+Pré-opératoire	3,2
+Post-opératoire	4,6
+1 an	4,8
+15 mois	6,8
+2ème dosage à 15 mois	6,3
+Début de la chimiothérapie palliative	6,4
+3 mois du début chimiothérapie palliative	6,2
+
+Le CT thoraco-abdominal ­révèle une récidive métas­tatique sous forme d’adénopathies sus-claviculaires, ­latéro-aortiques gauches et d’implants de carcinose péritonéale. Une chimiothérapie palliative est alors débutée et le dosage du marqueur est poursuivi. A trois mois du début du traitement, le CEA reste stable et le CT thoraco-abdominal retrouve une stabilité des adénopathies sus-claviculaires, une diminution de la plupart des implants de carcinose, hormis celles au niveau péri-hépatique.
+
+Ce cas clinique démontre l’importance du suivi des cancers colorectaux par dosage du CEA, afin de diagnostiquer rapidement des récidives.
+
+Messages principaux
+
+• Le CEA n’est pas utile pour le dépistage et le diagnostic au vu de la faible spécificité et sensibilité.
+
+• Le dosage du CEA en pré-opératoire est utile à des fins pronostiques et en post-opératoire pour le dépistage de récidives après résection chirurgicale. Il doit toutefois être combiné à d’autres modalités de suivi, en raison de nombreux faux-négatifs.

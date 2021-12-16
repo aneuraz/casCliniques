@@ -1,0 +1,89 @@
+Description du cas
+
+Un homme de 75 ans consulte aux urgences en raison d’une baisse de l’état général, de symptômes B et de ­saignements spontanés de la muqueuse buccale. Le ­bilan initial fait état d’une leucémie myélo-monocytaire chronique en progression en leucémie myéloïde aigue avec syndrome de lyse tumorale, motivant l’initiation d’un traitement d’hydroxycarbamide (Litalir®). Après deux doses d’hydroxycarbamide, le traitement est ­interrompu en raison du développement d’une insuffisance rénale aiguë stade AKIN 2. L’analyse des urines révèle une protéinurie et une hématurie microscopique de type glomérulaire. Une glomérulonéphrite aiguë secondaire au contexte néoplasique est évoquée. Voici les résultats du bilan immunologique alors effectué:
+
+– anticorps anti-nucléaires (ANA) 1/80 nucléolaire
+
+– anticorps anti-cytoplasme des neutrophiles (ANCA) négatifs
+
+– anticorps dirigés contre la membrane basale glomérulaire (anti-GBM) négatifs
+
+Question: Comment interprétez-vous ces résultats et qu’effectuez-vous ensuite?
+
+
+a) Significatif: effectuer rapidement une ponction-biopsie rénale.
+
+b) Non significatif: effectuer un suivi de créatinine et un sédiment urinaire de contrôle.
+
+c) Significatif, mais incomplet: effectuer un complément de bilan immunologique.
+
+d) Significatif, mais non fiable: confirmer le dosage des ANA par un ELISA.
+
+Réponse
+
+
+La réponse correcte est b.
+
+Discussion
+Introduction
+
+Les anticorps anti-nucléaires (ANA), aussi appelés facteurs antinucléaires (FAN), sont souvent dosés simultanément aux anticorps anti-cytoplasme des neutrophiles (ANCA) lors de bilan immunologique. Il est important de rappeler que les ANCA positifs sont principalement associés aux vasculites, alors que les ANA positifs sont principalement associés aux connec­tivites. Dans cet article nous aborderons les méthodes de dosage des ANA, ainsi que leur sensibilité et spéci­ficité. Nous n’aborderons pas les indications au dosage des ANA, que vous trouverez dans l’article d’Agmon-­Levin et collègues, où figure les recommandations ­établies par un groupe d’experts internationaux à ce sujet [1].
+
+Caractéristiques du test
+
+Deux méthodes sont utilisées pour la recherche d’ANA: l’immunofluorescence indirecte (IFI) et la méthode immuno-enzymatique (ELISA). L’IFI est plus sensible et l’ELISA plus spécifique, le premier test est par conséquent préférentiellement utilisé pour le dépistage, et le second pour la confirmation du diagnostic [2].
+
+Pour l’ELISA, le sérum du patient est appliqué sur une surface portant les antigènes contre lesquels les anticorps recherchés sont dirigés. Un anticorps marqué et dirigé contre les anticorps humains est ensuite ajouté, avec révélation du marquage par une réaction enzymatique.
+
+Pour l’IFI, le sérum du patient est incubé à des dilutions croissantes avec des cellules HEp-2 («human epithelial cell line type 2»). Les anticorps fixés sur ces cellules sont révélés grâce à un conjugué anti-IgG humain ­marqué par un fluorochrome. Ce dernier permet ainsi de mettre en évidence les anticorps du patient liés aux antigènes présents dans la cellule. L’aspect de la fluorescence dépend de la localisation de l’antigène ­auquel se lie l’anticorps, et est ainsi un indicateur du type de connectivite sous-jacente. Cet aspect sera décrit comme nucléolaire, nucléoplasmique (homogène, moucheté, centromère) ou cytoplasmique (à ne pas confondre avec les anticorps anti-cytoplasme des neu­trophiles mieux connus par leur abréviation ANCA, trouvés par IFI sur neutrophiles et non sur cellules HEp-2). Le tableau (tab. 1) donne les principaux exemples d’anticorps et connectivites associés à l’aspect décrit à la fluorescence.
+
+Tableau 1: Principaux exemples d’anticorps et connectivites associés à l’aspect décrit à la fluorescence.
+Aspect de la fluorescence	Ex. de type d’anticorps (AC) et connectivite associée
+Nucléoplasmique	 	 
+ 	Homogène	AC anti-dsDNA	Lupus érythémateux ­disséminé
+ 	Moucheté	AC anti-SSA, SSBAC anti-Scl-70	SjögrenScléordermie
+ 	Centromère	AC anti-centromère	CREST
+Cytoplasmique	 	 
+ 	Moucheté	AC anti-Jo1	Polymyosite, dermato­myosite
+ 	Filamenteux	AC anti mitochondrie, actine	Cirrhose biliaire primitive, hépatite auto-immune
+Nucléolaire	AC anti-ribonucléoprotéines	Sclérodermie
+
+A noter qu’un consensus d’expert international a récemment mis au point une nomenclature standardisée des ANA afin d’uniformiser la description de leur aspect morphologique par IFI [3]. Elle peut être retrouvée sur le site web suivant: https://www.anapatterns.org/index.php.
+
+Utilité du test
+
+Le titre des ANA correspond à la dilution du sérum permettant d’obtenir un résultat négatif (disparition de la fluorescence), celui-ci est exprimé en «1 / le nombre de dilutions». Une fluorescence importante correspond à une avidité importante de l’anticorps pour l’antigène et/ou une quantité d’anticorps élevée. Plus la fluorescence est forte, plus il faut de dilutions pour la faire disparaitre, et plus le titre des ANA est élevé (par exemple 1/320, 1/640 …). Un titre d’ANA élevé a une meilleure valeur prédictive positive pour les connectivites. En effet, lors d’un titre supérieur à 1/1280, une maladie auto-immune est quasi-systématiquement retrouvée [2].
+
+La détection d’ANA à bas titre (≤1/80) sans manifestation clinique est retrouvée chez 25 à 30% d’adultes en bonne santé [4]. Elle est plus importante chez les femmes et augmente avec l’âge [5]. Le titre d’ANA considéré ­significatif reste controversé. Un groupe d’experts a ainsi proposé en 2014 que le seuil soit défini dans chaque laboratoire après analyse d’un certain nombre de sérums de patients sains [1]. Dans le laboratoire du CHUV par exemple, à partir d’un titre d’ANA > à 1/80 un test de confirmation par ELISA est réalisé, avec dosage des anticorps anti-nucléosomes et des anticorps anti-nucléoprotéines (fig. 1) [2]. La détermination des anticorps anti-nucléoprotéine comprend un test ELISA de dépistage qui détecte en même temps la présence d’anticorps anti-Sm, -RNP, -SSA, -SSB, -Scl70 et -Jo-1, dont la sensibilité et la spécificité sont excellentes (respectivement de 97,7% et de 100%). En cas de positivité, un test de confirmation – de moindre sensibilité (11 à 70% ­selon le type de nucléoprotéine) mais de très bonne spécificité (95 à 100%) – permet ensuite de déterminer le type d’anticorps anti-nucléoprotéine (anti-Sm, -RNP, -SSA, -SSB, -Scl70 ou -Jo-1) et ainsi d’orienter le diagnostic vers la connectivite dont souffre le patient.
+
+Figure 1: A partir d’un titre d’ANA > à 1/80 un test de confirmation par ELISA est réalisé, avec dosage des anticorps anti-nucléosomes et des anticorps anti-nucléoprotéines.
+
+IFI: Immunofluorescence indirecte, CLIA: Chemiluminescence Immuno Assay.
+
+L’absence d’un seuil clair et commun pour le titre des ANA explique les différentes sensibilités et spécificités rapportées dans les études. La sensibilité varie également selon le type de connectivite. La spécificité des ANA est quant-à-elle basse. En effet, les ANA sont non seulement détectés lors de connectivites, mais il existe différentes situations pouvant engendrer des tests faussement positifs. Par exemple, certains médicaments sont connus pour rendre un dépistage ANA par IFI faussement positif, sans signification clinique. Certaines pathologies peuvent également produire un résultat positif, par exemple lors d’une infection active, notamment virale ou une pneumonie à Mycoplasme, ou lors d’une maladie oncologique active, notamment lors d’une maladie lymphoproliférative, comme dans notre cas clinique [1]. Ainsi, la valeur prédictive positive des ANA en l’absence de clinique évocatrice étant très basse, il est déconseillé de les doser en l’absence d’arguments pour une connectivite.
+
+Le tableau 2 illustre les sensibilités et spécificités des ANA pour les connectivites les plus fréquentes [5, 6]:
+
+Tableau 2: Sensibilités et spécificités des ANA pour les connectivites les plus fréquentes.
+Connectivite	Sensibilité	Spécificité
+Lupus érythémateux disséminé	93%	57%
+Sclérodermie systémique	85%	54%
+Connectivite mixte	Près de 100%	75–80%
+
+Le tarif, selon la liste des analyses de l’OFSP, est de 37 CHF pour l’IFI et de 87 CHF pour l’ELISA
+
+Bénéfice du dosage pour notre patient
+
+L’objectif du bilan immunologique chez ce patient était d’exclure une glomérulonéphrite rapidement progressive en présence d’une insuffisance rénale et d’une érythrocyturie d’aspect glomérulaire. Parmi les causes immunologiques de glomérulonéphrite rapidement progressive, il faut évoquer les glomérulonéphrites pauci-immunes (comme dans les vasculites à ANCA), les glomérulonéphrites liées à des anticorps anti-GBM (anticorps dirigés contre la membrane basale glomé­rulaire) et les maladies associées à des dépôts de complexes immunes (néphrites lupiques, néphropathie à IgA, cryoglobulinémies, …). Chez ce patient, les ANCA et les anticorps anti-GBM sont négatifs. Par ailleurs, la fonction rénale s’est progressivement améliorée, avec disparition des érythrocytes glomérulaires au sédiment urinaire. L’étiologie finalement retenue à l’insuffisance rénale est fonctionnelle dans le contexte d’hypovolémie initiale, avec une composante parenchymateuse suite à l’injection de produit de contraste iodé.
+
+En l’absence de clinique de connectivite et en présence d’une maladie lymphoproliférative active, connue pour engendrer potentiellement des résultats faussement positifs dans le cadre de la recherche d’ANA par IFI, la présence d’ANA à un titre de 1/80 est à considérer comme non significative. Il n’y a donc pas de raison d’effectuer un test de confirmation par ELISA.
+
+Ce cas clinique démontre l’importance de ne pas doser les ANA en l’absence de clinique de connectivite, leur valeur prédictive étant basse en l’absence de clinique évocatrice.
+
+Messages principaux
+
+• Des ANA à bas titre (≤1/80) peuvent être présents chez des adultes en bonne santé.
+
+• Plus le titre des ANA est élevé, plus la valeur prédictive positive en faveur d’une connectivite est élevée.
+
+• Le dosage des ANA est à éviter en l’absence de clinique évocatrice d’une connectivite.

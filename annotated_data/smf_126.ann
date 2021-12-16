@@ -1,0 +1,99 @@
+T1	disorder 14 50	infections du greffon aortique (IGA)
+T2	irrelevant 10 522	Les infections du greffon aortique (IGA) surviennent chez seulement 1–2% des patients opérés [1], mais sont extrêmement significatives pour le système de santé en raison du taux de mortalité élevé de jusqu’à 20% ainsi que des coûts associés. Nous rapportons le cas d’un patient atteint d’une IGA à la suite d’une dis­section aortique traitée par chirurgie. Il s’avère que, malgré les difficultés rencontrées, le rétablissement de la capacité de performance et de la qualité de vie est possible pour les patients.
+T3	procedure 539 547	Anamnèse
+T4	disorder 650 682	douleurs dorsales immobilisantes
+T5	disorder 798 818	dissection aortique 
+T6	procedure 866 889	procédure conservatrice
+T7	disorder 994 1005	maux de dos
+T8	disorder 1022 1062	hématome au niveau de l’aorte ascendante
+T9	procedure 1146 1180	remplacement de la racine aortique
+T10	procedure 1240 1273	remplacement complet de la crosse
+T11	disorder 1466 1472	fièvre
+T12	disorder 1480 1488	frissons
+T13	procedure 1496 1514	Streptococcus (S.)
+T14	procedure 1540 1560	Aggregatibacter (A.)
+T15	labvalue 1573 1600	négatif aux bêta-lactamases
+T16	procedure 1627 1644	ultures sanguines
+T17	procedure 1659 1735	angio-TEP/TDM (angiotomographie par émission de positons/tomodensitométrie) 
+T18	disorder 1769 1809	 infection circulaire active du greffon.
+T19	drugs 2031 2047	anti-infectieux 
+T20	drugs 2092 2103	vancomycine
+T21	drugs 2116 2127	gentamicine
+T22	drugs 2116 2127	gentamicine
+T23	drugs 2142 2153	rifampicine
+T24	drugs 2142 2153	rifampicine
+T25	drugs 2192 2203	ceftriaxone
+T26	drugs 2215 2226	gentamicine
+T27	drugs 2762 2773	ceftriaxone
+T28	drugs 2779 2790	gentamicine
+T29	drugs 2815 2827	évofloxacine
+T30	procedure 2833 2849	Culture sanguine
+T31	drugs 3027 3038	ceftriaxone
+T32	drugs 3063 3075	clindamycine
+T33	drugs 3081 3092	minocycline
+T34	drugs 3337 3348	ceftriaxone
+T35	drugs 3316 3328	amoxicilline
+T36	drugs 3273 3306	moxicilline/acide ­clavulanique i
+T37	drugs 3374 3406	moxicilline/ acide ­clavulanique
+T38	drugs 3414 3425	minocycline
+T39	disorder 3652 3680	colite à Clostridioides (C.)
+T40	disorder 3703 3731	bactériémie à Prevotella-spp
+T41	drugs 3785 3799	métronidazole 
+T42	drugs 3929 3942	lévofloxacine
+T43	drugs 3953 3964	ceftriaxone
+T44	drugs 4096 4107	minocycline
+T45	drugs 4135 4147	clindamycine
+T46	disorder 4294 4326	douleurs dorsales immobilisantes
+T47	disorder 4482 4502	déficit neurologique
+T48	disorder 4482 4502	déficit neurologique
+T49	disorder 4415 4425	percussion
+T50	procedure 4508 4523	examen corporel
+T51	procedure 4687 4690	CRP
+T52	labvalue 4738 4746	70 mg/l,
+T53	procedure 4762 4773	leucocytes 
+T54	procedure 4776 4786	plaquettes
+T55	labvalue 4811 4819	normales
+T56	procedure 4914 4924	émoglobine
+T57	labvalue 4928 4937	10,6 g/dl
+T58	disorder 4863 4897	anémie normochrome et normocytaire
+T59	drugs 4944 4959	anticoagulation
+T60	labvalue 5025 5029	5,74
+T61	procedure 4988 4991	INR
+T62	procedure 5091 5101	créatinine
+T63	labvalue 5105 5115	101 µmol/l
+T64	labvalue 5130 5147	75 ml/min/1,73 m2
+T65	procedure 5122 5126	DFGe
+T66	procedure 5153 5172	enzymes hépatiques 
+T67	labvalue 5186 5199	dans la norme
+T68	procedure 5203 5255	 radiographie conventionnelle de la colonne lombaire
+T69	disorder 5281 5289	fracture
+T70	drugs 5311 5323	clindamycine
+T71	drugs 5332 5343	minocycline
+T72	labvalue 5381 5390	positives
+T73	labvalue 5393 5414	Enterococcus faecalis
+T74	labvalue 5393 5414	Enterococcus faecalis
+T75	labvalue 5418 5441	Streptococcus sanguinis
+T76	procedure 5354 5372	cultures sanguines
+T77	disorder 5599 5637	phlegmon paravertébral au niveau L 2/3
+T78	procedure 5474 5530	imagerie par résonance magnétique de la colonne lombaire
+T79	procedure 5910 5930	angiographie par TDM
+T80	disorder 5963 5978	fistule étroite
+T81	drugs 6674 6686	antibiotique
+T82	drugs 6719 6729	tazobactam
+T83	drugs 6719 6729	tazobactam
+T84	drugs 6702 6715	pipéracilline
+T85	drugs 6785 6797	amoxicilline
+T86	drugs 6798 6817	acide ­clavulanique
+T87	drugs 6841 6853	amoxicilline
+T88	drugs 6865 6876	ceftriaxone
+T89	drugs 7018 7030	amoxicilline
+T90	drugs 7032 7049	cide clavulanique
+T91	drugs 7068 7079	minocycline
+T92	procedure 7284 7308	œsophagectomie subtotale
+T93	procedure 7396 7420	œsophagostomie cervicale
+T94	procedure 7476 7519	gastrostomie percu­tanée endoscopique (GPE)
+T95	drugs 8072 8084	amoxicilline
+T96	drugs 8085 8104	acide clavulanique 
+T97	drugs 8107 8118	minocycline
+T98	procedure 8137 8145	 TEP/TDM
+T99	irrelevant 8273 8781;8783 9615;9617 11274;11276 11738;11740 12004;12006 12223;12225 12498;12500 13178;13180 13387;13389 13400;13402 14197;14199 14227;14229 14410;14412 14630;14632 14749;14751 14966	Nous décrivons le cas d’un patient présentant une IGA chronique après prise en charge chirurgicale d’une dissection aortique de type «non A non B». Le patient est inopérable en termes de remplacement du greffon de la racine aortique et de la crosse aortique, qui est mentionné dans des cas similaires dans les ouvrages de référence [4] en vue du traitement d’une IGA. C’est pourquoi le patient reçoit une antibiothérapie suppressive. Au total, le patient a jusqu’à présent subi trois épisodes de bactériémie.  Les dissections aortiques sont traditionnellement classées selon Stanford en types A et B. Les dissections aortiques touchant la crosse aortique et l’aorte descendante et épargnant l’aorte ascendante, comme chez notre patient, sont qualifiées de dissections de type «non A non B». Lorsque le début de la dissection se trouve au niveau de la crosse aortique, une dilatation de la crosse aortique avec dissection aortique rétrograde de type A peut survenir. Ainsi, l’objectif primaire de l’intervention est la fermeture de la porte d’entrée au niveau de la crosse aortique, ce qui peut être obtenu par FET. La mortalité péri-opératoire associée à la FET s’élève à 15% pour la ­durée du séjour hospitalier [5], tandis que des IGA, une déhiscence du greffon et la progression de la dissection peuvent survenir en tant que complications.  A l’imagerie, les IGA peuvent être représentées aussi bien par angio-TDM renforcée par produit de contraste (TDM avec contraste) que par TEP/TDM. Selon les études, la sensibilité de la TEP/TDM pour les IGA se ­situe entre 91 et 100%, la spécificité étant plus faible avec des valeurs entre 70 et 95%. A la TDM avec contraste, les critères diagnostiques d’imagerie d’une IGA sont une accumulation de liquide autour du greffon, les formations d’abcès absorbant le produit de contraste, l’imbibition périvasculaire de tissus adipeux et la formation de gaz à proximité du greffon vasculaire. La TEP/TDM reconnaît quant à elle les lésions ­absorbant le fluorodésoxyglucose (FDG) à côté de la prothèse vasculaire, car le FDG s’accumule dans les cellules métaboliquement actives, mettant ainsi en évidence des processus inflammatoires. Lors de la comparaison des deux méthodes d’imagerie, l’IGA peut être mise en évidence plus tôt et en moins d’étapes difficiles en utilisant la TEP/TDM. Par ailleurs, la TEP/TDM est plus sensible en présence d’IGA de faible degré. La ­spécificité de la TEP/TDM est toutefois entravée par des ­réactions avec des corps étrangers ou des réactions ­tissulaires post-opératoires. La TEP/TDM n’est donc évaluable qu’à partir de la 10e semaine post-opératoire. Pour le diagnostic d’une IGA, il est préférable de faire appel à une imagerie combinée (TEP/angio-TDM) car l’association entre la haute sensibilité de la TEP/TDM et la spécificité élevée de la TDM avec contraste permettant la reconnaissance détaillée des modifications ­anatomiques est supérieure à l’imagerie unique lors du diagnostic d’infections de prothèses vasculaires.  Des fistules aorto-œsophagiennes sont décrites dans les ouvrages de référence comme complications tardives à la suite de greffes aortiques [4]. En raison du faible nombre de cas, aucune grande étude randomisée n’est disponible. Le pronostic est mauvais avec une mortalité de 75% [6]. Des érosions ou fistules vers l’œsophage ou les bronches peuvent entraîner des hémor­ragies aiguës. Chez de tels patients, un remplacement in situ de greffon est souvent réalisé.  Chez des patients stables sélectionnés, un pontage de l’aorte ascendante vers l’aorte abdominale supérieure peut être envisagé. Le greffon infecté est alors retiré, les extrémités de l’aorte débridées et le moignon aortique couvert par un lambeau de grand omentum.  La séparation du greffon du tractus intestinal est ­déterminante pour le pronostic, afin d’atteindre une interruption de la contamination et la guérison. Cela peut par exemple être réalisé avec un lambeau vascularisé.  Des anomalies plus importantes, comme dans le cas de notre patient, nécessitent la dérivation de l’œsophage. Chez les patients exempts de fistules œsophagiennes ou bronchiques, des allogreffes artérielles cryoconservées ou fraîches sont envisagées pour le traitement d’IGA.  Chez les patients présentant une grande quantité de matériau étranger et ne tolérant pas une chirurgie reconstructive importante, la seule option demeure un traitement suppressif à vie. Le traitement intraveineux se déroule de manière similaire à celui d’une endocardite. Après obtention de cultures sanguines positives, le traitement intraveineux est adapté en fonction de la situation de résistance et poursuivi pendant six ­semaines. Ensuite, un régime affichant une bonne ­biodisponibilité est utilisé comme traitement oral suppressif. En cas de suspicion d’une fistule vers l’appareil digestif, le traitement empirique initial doit également couvrir les germes intestinaux.  Grâce à la combinaison entre la séparation de la source infectieuse et le traitement suppressif, un bon contrôle de l’infection a été atteint et notre patient a récupéré complètement son aptitude au travail.  Conclusions  En cas de suspicion d’une IGA due à des bactériémies récidivantes, une imagerie combinant angiographie/TEP/TDM doit être réalisée pour une mise en évidence précoce. En cas de suspicion de fistules du greffon ­intestinal, un examen endoscopique peut également fournir une précieuse contribution. Outre les méthodes de débridement déjà décrites dans les ouvrages de ­référence, en présence d’une morbidité périopératoire ­accrue, des variantes sans remplacement de greffon peuvent également assurer une prise en charge réussie. Au vu de la complexité de ces patients, une bonne ­collaboration entre les diverses disciplines est, comme mentionné dans l’article, nécessaire, et ce depuis le prestataire de soins de base jusqu’aux centres hautement spécialisés, en passant par les hôpitaux régionaux.  L’essentiel pour la pratique  • Les bactériémies polymicrobiennes récidivantes sont un signe d’infections de prothèses vasculaires; le spectre des germes fournit une indication sur la source de la contamination.  • En cas de suspicion d’une infection du greffon via des fistules intes­tinales, il convient de réaliser une imagerie combinée ainsi que, si possible, une représentation endoscopique pour une mise en évidence ­précoce.  • La collaboration entre diverses disciplines est nécessaire pour une bonne prise en charge de ce groupe de patients.  • Chez notre patient, l’élimination de la fistule œsophago-périprothétique et le traitement antibiotique ont permis d’obtenir une situation satisfaisante pour le patient sans intervenir au niveau du greffon infecté.

@@ -1,0 +1,26 @@
+T1	disorder 61 70	 lymphome
+T2	procedure 106 134	 chimiothérapie intrathécale
+T3	procedure 170 200	 chimiothérapie intra veineuse
+T4	procedure 232 244	hospitalisée
+T5	procedure 307 311	cure
+T6	disorder 330 335	obèse
+T7	disorder 337 345	anxieuse
+T8	disorder 349 361	arthrosique 
+T9	procedure 406 418	 ponctionner
+T10	profession 428 441	anesthésiste 
+T11	procedure 519 551	ponction lombaire haute en L1 L2
+T12	procedure 654 677	 injection intrathécale
+T13	profession 697 710	 anesthésiste
+T14	procedure 887 895	ponction
+T15	procedure 952 957	geste
+T16	procedure 1425 1442	ponction lombaire
+T17	procedure 1775 1798	repérage de la ponction
+T18	procedure 1604 1616	manipulation
+T19	procedure 1843 1848	geste
+T20	drugs 1972 1984	 vincristine
+T21	procedure 2051 2060	injection
+T22	disorder 2605 2611	décède
+T23	procedure 2585 2596	réanimation
+T24	procedure 2461 2509	ponction évacuatrice de liquide céphalorachidien
+T25	disorder 2649 2671	 paralysie ascendante 
+T26	irrelevant 2707 2884;2886 2925;2926 2990;2991 3031	Ce matériel est réservé à un usage privé ou d'enseignement. Il reste la propriété de la Prévention Médicale, et ne peut en aucun cas faire l'objet d'une transaction commerciale.  Télecharger l'exercice (pdf - 28.46 Ko) Retrouver l'analyse des barrières de prévention (pdf - 26.48 Ko) Télécharger le jugement (pdf - 14.99 Ko)

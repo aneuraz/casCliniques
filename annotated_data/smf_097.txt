@@ -1,0 +1,117 @@
+Description du cas
+
+Il s’agit d’une femme de 57 ans connue pour une extrasystolie ventriculaire depuis 20 ans traitée par sotalol et phytothérapie. Suite à un premier épisode de syncope à l’emporte-pièce en dehors de tout stress physique ou émotionnel, la patiente est admise aux urgences de notre établissement. Elle ne décrit aucune douleur thoracique et ne rapporte aucun prodrome. Les témoins signalent un retour rapide et spontané à la conscience, sans mouvements anormaux. L’anamnèse familiale rapporte une mort subite chez le père à l’âge de 65 ans alors qu’il pratiquait du ski de fond. Les paramètres vitaux ainsi que l’examen cardio-pulmonaire et neurologique s’avèrent non contributifs, hormis l’auscultation d’un rythme cardiaque irrégulier.
+
+Question 1: Quel(s) élément(s) fait/font partie du bilan initial systématique de la syncope aux urgences?
+
+
+a) Anamnèse
+
+b) Anamnèse et examen clinique
+
+c) Anamnèse, examen clinique et électrocardiogramme (ECG)
+
+d) Anamnèse, examen clinique, ECG et massage du sinus carotidien
+
+e) Anamnèse, examen clinique, ECG, massage du sinus carotidien et échocardiographie
+
+Selon les recommandations 2018 de l’«European Society of Cardiology» (ESC), l’évaluation initiale de toute perte de connaissance transitoire évoquant une syncope consiste en: une anamnèse détaillée de l’événement présent ou d’événements antérieurs combinée à une hétéro-anamnèse, un examen clinique avec mesure de la pression artérielle couchée et debout et un ECG. Selon les résultats de ces premiers examens, les investigations peuvent être complétées par un monitoring cardiaque en cas de suspicion d’arythmie, d’une échocardiographie en cas de cardiopathie connue ou suggérée par l’examen clinique ou l’ECG, d’un massage du sinus carotidien chez les patients de plus de 40 ans et d’examens sanguins selon le contexte.
+
+La figure 1 montre l’ECG 12 pistes à l’admission.
+
+Question 2: Quelle mesure vous semble la plus pertinente à ce stade?
+
+
+a) Rassurance et retour à domicile
+
+b) Modification du traitement freinateur
+
+c) Bilan cardiologique en ambulatoire
+
+d) Coronarographie en urgence
+
+e) Avis cardiologique et surveillance hospitalière avec monitoring cardiaque
+
+Un retour à domicile, associé ou non à une modification de son traitement, n’est pas la mesure la plus ­raisonnable face à une syncope à l’emporte-pièce sans élément évocateur d’une origine réflexe et d’un ECG anormal. Ce dernier (fig. 1) montre un rythme sinusal, un intervalle PR normal à 170 msec, un QRS mesuré à 100 ms, d’axe normal, un discret aspect de repolarisation précoce inféro-latérale (flèches) et un intervalle QT de 380 ms corrigé à 460 ms selon la formule de Bazett. On enregistre de fréquentes extrasystoles ventriculaires (ESV) monomorphes (*) à couplage court (260 ms) survenant au pic de l’onde T précédente. Le bilan biologique ne révèle pas de trouble électrolytique ni syndrome inflammatoire. Le dosage de la troponine T hs s’élève à 174 ng/l (norme <14 ng/l) dans les suites immédiates de la syncope. L’échocardiographie transthoracique ne démontre pas de cardiopathie sous-jacente. Il n’y a pas d’indication à une coronarographie en urgence vu l’absence d’élément en faveur d’une ischémie myocardique aiguë.
+
+Figure 1: ECG d’entrée.
+
+Selon les guidelines 2018 de l’ESC, le tableau clinique, l’anamnèse familiale de mort subite et les anomalies ECG correspondent à des critères de haut risque et motivent une hospitalisation avec monitoring. Après quelques heures, la patiente présente une récidive de malaises dont un épisode est consigné sur un ECG (fig. 2).
+
+Figure 2: ECG enregistré lors d’une récidive de syncope.
+
+Question 3: Quel type d’arythmie cet ECG vous évoque-t-il?
+
+
+a) Torsades de pointes
+
+b) Fibrillation ventriculaire (FV)
+
+c) Tachycardie ventriculaire (TV)
+
+d) Fibrillation atriale (FA) avec pré-excitation ventriculaire
+
+e) Syndrome de Brugada
+
+La patiente présente plusieurs épisodes de torsades de pointes (TdP), à savoir une TV polymorphe de courte durée avec une rotation en torsade des complexes ventriculaires. Une FV se caractérise par des ondulations anarchiques d’amplitude et de fréquence variables. La TV est d’aspect irrégulier, généralement rapide (200–280/mn) avec des QRS très larges (≥0,14 s) et polymorphes. Une FA peut conduire à une tachycardie irrégulière à QRS large en présence d’un faisceau accessoire. Un syndrome de Brugada se caractérise par un bloc de branche droit atypique avec sus-décalage persistant du ST dans les précordiales droites et peut aboutir à la survenue d’arythmies ventriculaires malignes.
+
+Dans notre cas, les épisodes de TdP sont déclenchés par les ESV à couplage court décrites plus haut. Cette arythmie est caractérisée par la survenue de TdP typiques mais dans un contexte d’intervalle QT (ou QTc) normal [1]. L’extrasystole initiatrice de la torsade est à couplage court (R sur T) et le risque de dégénérescence en FV est ainsi très élevé, ce qui sera le cas chez notre patiente nécessitant finalement une cardioversion électrique externe afin de rétablir le rythme sinusal.
+
+Une coronarographie, réalisée dans la cadre du bilan systématique d’arythmie ventriculaire grave, révèle l’absence d’atteinte coronarienne. La patiente présente par la suite de nombreuses récidives de TdP et FV à l’origine d’une tempête rythmique.
+
+Question 4: Quelle attitude thérapeutique peut s’appliquer à la prise en charge de l’orage rythmique?
+
+
+a) Anesthésie générale profonde et intubation
+
+b) Amiodarone
+
+c) Stimulation ventriculaire
+
+d) Procédure d’ablation par radiofréquence
+
+e) Toutes ces propositions
+
+La situation de notre patiente requiert une intubation endotrachéale et sédation profonde. Plusieurs classes de traitements anti-arythmiques sont tentées dont la lidocaïne (classe Ib) et l’amiodarone (classe III), sans succès. Dans l’hypothèse d’ESV bradycardie-dépendante, un overdrive à l’aide d’un stimulateur provisoire est essayé mais s’avère également inefficace.
+
+En raison de tachyarythmies ventriculaires multirécidivantes réfractaires à tout traitement anti-arythmique, l’indication à une exploration électrophysiologique est posée. L’analyse électrocardiographique initiale de l’ESV suggère une origine située au niveau de la bandelette modératrice (BM) du ventricule droit (VD). L’aspect de bloc de branche gauche de l’ESV en V1 la localise dans le septum interventriculaire ou dans le VD et la déviation axiale gauche permet de la situer dans la portion inférieure du VD. La transition tardive en V6 la place relativement apicale dans le VD, là où se trouve classiquement la BM. Un QRS peu élargi (150 ms) tend à confirmer cette hypothèse, sachant que la BM est une structure riche en fibre de Purkinje [2].
+
+L’exploration électrophysiologique, effectuée sous anesthésie générale avec cartographie électro-anatomique du VD et échographie intracardiaque, a permis de confirmer l’origine de l’ESV clinique au niveau de la BM (fig. 3).
+
+Figure 3: IRM myocardique (A ) ne révélant pas de substrat arythmogène. On objective la bandelette modératrice localisée à l’apex du VD (flèche). L’origine de l’ESV est repérée en localisant avec le cathéter d’ablation le signal électrique le plus précoce (B , flèche), situé en regard de la bandelette modératrice sur la reconstruction 3D (C , flèche) et l’échographie intracardiaque (D , flèche).
+
+L’application d’un courant de radiofréquence à ce ­niveau fait disparaître instantanément l’ESV. L’évolution est ­favorable, permettant la stabilisation rythmique et hémodynamique de la patiente ainsi que son extubation. Le bilan est complété par une IRM cardiaque qui montre des ventricules de dimension et fonction normales, sans critère majeur ou mineur de cardiomyopathie/dysplasie arythmogène du VD [3].
+
+Il n’existe aucun médicament efficace pour la prévention de la mort subite, même si un effet du vérapamil sur le couplage et le nombre d’ESV a été mis en évidence [1]. Sans indication claire, le sotalol a été interrompu. L’implantation d’un défibrillateur automatique interne reste la seule mesure de prévention recommandée de la mort subite, cela même en cas de succès immédiat de la thermoablation, faute de données d’efficacité au long cours [1]. Lors des consultations ultérieures de contrôle à 1, 6 et 12 mois, on note une amélioration du status fonctionnel sans récidive d’arythmie. Un examen Holter et une ergométrie n’objectivent pas de récidive de cette ESV.
+
+Discussion
+
+Les TdP ont été décrites pour la première fois par F. ­Dessertenne en 1966 comme une variante de TV polymorphe caractérisée par des complexes d’amplitude changeante et «tournant» autour de la ligne isoélectrique [4].
+
+Question 5: Quelle condition augmente le moins le risque de TdP ?
+
+
+a) Infarctus aigu du myocarde
+
+b) Syndrome du QT long congénital
+
+c) Hypokaliémie
+
+d) Halopéridol
+
+e) Métoclopramide
+
+Les TdP peuvent être favorisées par plusieurs facteurs de risque, mais surviennent fréquemment dans le cadre d’une cardiopathie structurelle sous-jacente ou d’un syndrome du QT long, qu’il soit congénital ou ­acquis par exemple lors de troubles métaboliques, ­électrolytiques ou médicamenteux. Parmi les médicaments fréquemment associés à un prolongement du QT, citons les antibiotiques (clarithromycine, érythromycine, moxifloxacine, chloroquine), les antipsychotiques (chlorpromazine, halopéridol), les anti­arythmiques (amiodarone, quinidine, sotalol, ibutilide), la méthadone et les antiémétiques dont la dompéridone, la dropéridol et l’ondansetron. Le métoclopramide n’est lié qu’à un risque conditionnel d’allongement du QT, mais la prudence reste de mise.
+
+La TdP à couplage court est une forme rare d’arythmie ventriculaire où le QT s’avère normal ou que faiblement allongé. Cette arythmie peut fréquemment dégénérer en FV [1, 5]. Elle est décrite pour la première fois en 1994 par Leenhardt et al. [1] comme un couplage court (<300 ms) du premier battement de la TdP dans une série de 14 adultes en bonne santé avec un intervalle QT normal. Un tiers de ces patients avait une histoire familiale de mort subite et 70% ont présenté des TdP dégénérant en FV.
+
+Classiquement, tous les battements ventriculaires précoces possèdent la même morphologie, suggérant une origine focale de l’arythmie. Alors que les arythmies à QT long sont en principe traitées par β-bloquant ou, en cas de récidive, par stimulation rapide ou défibrillateur, ce ne sont que dans des cas particuliers tels qu’ici que des extrasystoles répétitives semblant très arythmogènes peuvent faire l’objet d’une ablation. En effet, sans traitement médicamenteux efficace, les données de la littérature montrent la possibilité de traiter les ­épisodes récurrents par thermoablation chez les patients présentant cet aspect monomorphique [6, 7]. Cependant, et comme déjà mentionné, un succès immédiat de la thermoablation ne dispense pas de l’implantation d’un défibrillateur [1].
+
+Les variantes de TdP à couplage court peuvent être associées à des désordres génétiques de pénétrance variable. Cependant, les gènes impliqués n’ont pas encore été clairement identifiés et le bilan génétique n’est pas précisément établi chez de tels patients, ainsi que chez leurs proches.
+
+En conclusion, en cas d’ESV, l’évaluation du risque rythmique implique la recherche d’une cardiopathie sous-jacente et d’un événement clinique suspect telle qu’une syncope inexpliquée. Un couplage ventriculaire court est également un facteur de mauvais pronostic puisque potentiellement responsable de TdP pouvant dégénérer en FV.
+
+Réponses:
+
+
+Question 1: c. Question 2: e. Question 3: a. Question 4: e. Question 5: e.

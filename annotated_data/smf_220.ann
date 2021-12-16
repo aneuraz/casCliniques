@@ -1,0 +1,110 @@
+T1	disorder 64 76	inconsciente
+T2	disorder 170 177	malaise
+T3	disorder 197 204	nausées
+T4	disorder 212 224	vomissements
+T5	disorder 289 303	déshydratation
+T6	disorder 314 347	circulation sanguine centralisée 
+T7	disorder 354 374	respiration agonique
+T8	disorder 414 423	asystolie
+T9	procedure 425 468	La réanimation mécanique et médicamenteuse 
+T10	disorder 605 625	syndrome métabolique
+T11	disorder 631 654	diabète sucré de type 2
+T12	disorder 660 683	hypertension artérielle
+T13	disorder 689 701	dyslipidémie
+T14	disorder 709 716	obésité
+T15	drugs 742 751	biguanide
+T16	drugs 753 763	metformine
+T17	drugs 769 791	inhibiteur de la DPP-4
+T18	drugs 793 800	Januvia
+T19	drugs 810 818	insuline
+T20	drugs 831 838	Levemir
+T21	drugs 1055 1074	inhibiteur de l’ACE
+T22	drugs 1087 1107	diurétique de l’anse
+T23	procedure 1127 1138	réanimation
+T24	procedure 1153 1160	intubée
+T25	drugs 1180 1194	catécholamines
+T26	procedure 1210 1227	score de Glasgow 
+T27	labvalue 1230 1231	3
+T28	disorder 1238 1270	rythme d’échappement jonctionnel
+T29	disorder 1289 1300	hypothermie
+T30	labvalue 1331 1338	31,7 °C
+T31	disorder 1356 1368	hypoglycémie
+T32	labvalue 1390 1398	3,7 mmol
+T33	procedure 1457 1464	glucose
+T34	procedure 1470 1491	gazométrie artérielle
+T35	disorder 1519 1545	acidose métabolique sévère
+T36	procedure 1560 1562	pH
+T37	labvalue 1572 1575	6,6
+T38	procedure 1589 1598	 lactate 
+T39	labvalue 1601 1612	14,4 mmol/l
+T40	procedure 1618 1626	analyses
+T41	disorder 1666 1691	insuffisance rénale aiguë
+T42	procedure 1700 1711	 créatinine
+T43	labvalue 1714 1725	927 mmol/l 
+T44	disorder 1738 1755	dysélectrolytémie
+T45	procedure 1767 1769	Na
+T46	labvalue 1770 1780	127 mmol/l
+T47	procedure 1781 1783	 K
+T48	labvalue 1784 1794	6,2 mmol/l
+T49	procedure 1796 1798	Mg
+T50	labvalue 1799 1810	1,37 mmol/l
+T51	procedure 1812 1817	HCO3-
+T52	labvalue 1818 1827	<5 mmol/l
+T53	procedure 1829 1838	phosphate
+T54	labvalue 1839 1850	5,17 mmol/l
+T55	procedure 1915 1920	HbA1c
+T56	labvalue 1938 1942	9,2%
+T57	irrelevant 2007 2088;2091 2105;2107 2151;2153 2183;2185 2223;2225 2246	1. Quelle est la cause la plus probable de l’acidose ­métabolique de la patiente?   a) Acidocétose  b) Acidose lactique associée à la metformine  c) Intoxication médicamenteuse  d) Hémorragie gastro-intestinale aiguë  e) Choc cardiogénique
+T58	procedure 2252 2260	analyses
+T59	disorder 2299 2316	 acidose lactique
+T60	procedure 2397 2404	examens
+T61	irrelevant 2829 4012	par ex. en cas d’insuffisance hépatique aiguë, de syndrome de l’intestin court ou d’affections tumorales. L’absence de mise en évidence de corps cétoniques dans l’urine résiduelle a permis d’exclure une acidocétose en tant que cause de l’état de choc de la patiente. En raison de l’alcooltest négatif et du dépistage toxicologique ne présentant pas d’anomalies, rien n’indiquait la présence d’une acidose lactique de type B induite par une potentielle intoxication éthyli­que dans une intention suicidaire. L’examen clinique, les analyses de laboratoire ainsi que l’anamnèse indirecte n’ont pas révélé d’indices suggérant une acidose lactique de type B aiguë. A la tomodensitométrie, une hémorragie intracrânienne ou une embolie pulmonaire ont été exclues. A l’ECG, des modifications diffuses du segment ST indiquaient une implication cardiaque. Toutefois, l’échocardiographie n’a pas montré d’anomalies des mouvements cardiaques ou de signes d’une surcharge ventriculaire droite. La cause cardiaque était donc peu probable malgré des marqueurs cardiaques élevés. L’examen clinique ainsi que les ­valeurs d’hémoglobine stables n’indiquaient pas d’hémorragie gastro-intestinale aiguë.
+T62	procedure 4067 4085	osmolalité sérique
+T63	procedure 4165 4175	osmolalité
+T64	disorder 4215 4229	trou osmotique
+T65	labvalue 4287 4299	15 mosmol/kg
+T66	disorder 4315 4328	intoxication 
+T67	disorder 4380 4387	diabète
+T68	disorder 4394 4408	acidose sévère
+T69	disorder 4415 4426	hypothermie
+T70	disorder 4435 4460	insuffisance rénale aiguë
+T71	disorder 4475 4482	nausées
+T72	disorder 4486 4498	vomissements
+T73	procedure 4503 4511	anamnèse
+T74	procedure 4640 4650	diagnostic
+T75	disorder 4653 4669	acidose lactique
+T76	drugs 4684 4694	metformine
+T77	disorder 4707 4746	insuffisance cardio-circulatoire aiguë 
+T78	disorder 4749 4761	état de choc
+T79	disorder 4778 4795	acidose lactique 
+T80	disorder 4870 4877	hypoxie
+T81	disorder 4892 4904	état de choc
+T82	disorder 4913 4926	hypoperfusion
+T83	irrelevant 4929 4985;4988 5004;5006 5031;5033 5047;5049 5063;5065 5076	2. Quel est le traitement de choix en cas d’ALAM sévère?   a) Charbon actif  b) Hémofiltration/dialyse  c) Hydratation  d) Diurétiques  e) Antidote
+T84	irrelevant 5078 5459	Il n’existe pas d’antidote spécifique pour la metformine. Le traitement consiste en la stabilisation hémodynamique ainsi que le maintien de l’oxygénation. En raison de l’absorption intestinale retardée, le charbon actif peut également être employé après plusieurs heures pour la décontamination. En cas d’acidose métabolique sévère, un traitement de substitution rénale est indiqué
+T85	irrelevant 5483 5566;5567 5648;5649 5749;5750 5819;5820 5892;5893 5919;5920 5962;5963 6011;6012 6033	Tableau 1: Aperçu du traitement en cas d’acidose lactique associée à la metformine. 1) Stabilisation hémo­dynamique	Catécholamines, gestion de la volémie, intubation 2) Charbon actif	Peut être employé pour induire une adsorption plusieurs heures après l’intoxication 3) Bicarbonate	Tamponnage en cas de valeurs de pH <7,1 Inconvénients:  	déviation vers la gauche de la courbe de dissociation de l’hémoglobine  	production de CO2 accrue  	aggravation de l’acidose intracellulaire  	vasodilatation après l’administration de bolus  	surcharge en sodium
+T86	irrelevant 6034 6123;6124 6187;6188 6295;6296 6353;6354 6416	4) Traitement de ­substitution ­rénale	Utilisation en cas d’acidose métabolique prononcée  	hémodialyse pour compenser efficacement la ­dysélectrolytémie  	en cas d’instabilité circulatoire, traitement en continu («continuous veno-venous hemofiltration» [CVVH])  	correction de l’acidose ET élimination de la metformine 5) Hypothermie	Neuroprotectrice; compenser seulement lentement
+T87	procedure 6467 6481	hémofiltration
+T88	procedure 6487 6509	réchauffement contrôlé
+T89	procedure 6568 6582	hémofiltration
+T90	procedure 6888 6911	électroencéphalographie
+T91	procedure 7127 7159	taux de filtration glomérulaire 
+T92	procedure 7160 7163	TFG
+T93	labvalue 7192 7204	30 ml/min/m2
+T94	disorder 7238 7242	choc
+T95	disorder 7309 7323	déshydratation
+T96	disorder 7384 7411	troubles gastro-intestinaux
+T97	disorder 7417 7436	insuffisance rénale
+T98	drugs 7504 7516	 diurétiques
+T99	drugs 7520 7542	d’inhibiteurs de l’ACE
+T100	disorder 7578 7604	accumulation de metformine
+T101	disorder 7614 7633	acidose métabolique
+T102	disorder 7661 7680	cardio-circulatoire
+T103	disorder 7684 7696	hypothermie 
+T104	disorder 7746 7764	dommages cérébraux
+T105	disorder 7912 7928	acidose lactique
+T106	procedure 7981 7995	hémofiltration
+T107	disorder 8036 8040	ALAM
+T108	irrelevant 8043 8053;8055 9553;9555 10238;10240 10278;10281 10329;10331 10384;10386 10439;10441 10495;10497 12004;12006 12115;12118 12150;12152 12187;12189 12268;12270 12309;12311 12767;12769 12922;12923 12945;12946 13008;13009 13094;13095 13183;13184 13220;13221 13261;13263 13608;13610 13831;13833 13842;13845 13908	Discussion  Selon les lignes directrices actuelles des sociétés internationales de diabétologie, la metformine est et reste le médicament optimal pour la monothérapie du diabète de type 2 [3, 5]. Elle réduit la valeur d’Hba1C d’env. 1% en améliorant l’effet de l’insuline sur le foie et les muscles, et exerce en outre un effet positif sur le poids et le métabolisme. La metformine n’induit pas d’hypo­glycémies. Elle est économique et bien tolérée, à l’exception d’effets indésirables gastro-intestinaux qui peuvent être réduits en augmentant lentement la dose. Les concentrations plasmatiques maximales des préparations non retardées sont atteintes après 1–3 heures, celles des préparations retardées après 4–8 heures [13]. En raison du risque accru d’acidose lactique, les sociétés de discipline médicale indiquent l’insuffisance rénale avec un TFG <30 ml/min, l’insuffisance cardiaque NYHA III–IV, l’insuffisance hépatique aiguë ou progressive ainsi que l’insuffisance respiratoire partielle ou globale en tant que contre-indications au traitement par metformine [5, 11, 12]. Le risque d’acidose lactique est aussi accru par l’alcoolisme chronique et l’hypoperfusion tissulaire ­locale (accident ischémique cérébral aigu) ou systémique dans le cadre d’une instabilité hémodynamique et d’un état de choc quel qu’en soit la cause [9, 11, 12]. La metformine ne doit en conséquence pas être administrée dans les 2 jours avant ou après une asthénie générale ou l’administration de produit de contraste [11, 12].  La pathogenèse de l’ALAM s’avère complexe. La metformine conduit à une absorption de glucose accrue dans les tissus périphériques tels que les muscles et le foie et inhibe la gluconéogenèse dans le foie. Cela conduit à une accumulation de NADH au sein du cycle de Krebs, ce qui à son tour inhibe la conversion du ­lactate en pyruvate. En conséquence, le taux de lactate dans le plasma sanguin augmente [7, 8]. Toutefois, le taux de lactate des patients traités par metformine reste normalement <2 mmol/l [10, 12]. L’ALAM sévère n’apparaît que lorsqu’une accumulation survient dans le cadre d’une insuffisance rénale aiguë, du fait de l’élimination purement rénale du produit [6, 11].  3. Quelle est la prévalence de l’ALAM?   a) <10 : 100 000 patients traités par metformine  b) Env. 100 : 100 000 patients traités par metformine  c) Env. 250 : 100 000 patients traités par metformine  d) Env. 1000 : 100 000 patients traités par metformine  Les symptômes de l’ALAM sont des douleurs abdominales, des nausées, des vomissements, une tachypnée et une hypothermie. Des troubles du rythme cardiaque, une hypotension ou des déficits cognitifs pouvant aller d’un état de confusion jusqu’au coma peuvent survenir [2, 4, 12]. L’incidence d’ALAM, de <10 pour 100 000 patients traités par metformine, est très faible [10]. La question de savoir si la metformine est réellement le principal déclencheur de l’acidose lactique dans ces cas-ci reste discutée. Bodmer et al. ont décrit que seuls 5 des 50 048 cas de patients atteints de diabète de type 2 analysés ont développé une acidose lactique; parmi eux, seul 1 était sous monothérapie par metformine, 4 étaient traités avec des thérapies combinées [6]. 1 patient a développé une acidose lactique sous traitement par sulfonyl­urées. Crowley et al. sont également parvenus à des résultats similaires [11]. Tous les patients concernés présentaient une maladie prédisposant à l’acidose lactique, telle qu’une cirrhose hépatique ou une maladie cardiaque hypertensive. Il convient de se demander si ce n’est pas le diabète de type 2 associé à d’autres maladies prédisposantes qui conduit au développement de l’acidose lactique, et non pas la metformine. Le fait est que l’acidose lactique ne survient pas significativement plus fréquemment sous metformine que sous autres médicaments antidiabétiques et qu’elle est souvent associée à une détérioration clinique (infection, gastro-entérite, abus d’alcool) [6 ,11].  4. A partir de quel moment convient-il d’arrêter le traitement par metformine? (Plusieurs réponses possibles)   a) En cas de survenue de nausées  b) En cas de TFG <50 ml/min/1,73 m2  c) En cas de survenue d’une ischémie critique, par ex. dans le cadre d’une AOMI  d) A partir d’un TFG <30 ml/min/1,73 m2  Les lignes directrices relatives au diabète recommandent d’interrompre la metformine à partir d’un TFG <30 ml/min. En cas de TFG entre 30 et 45 ml/min, une adaptation de la dose en fonction de la situation rénale doit avoir lieu; en cas de TFG légèrement réduit, de l’ordre de 56–60ml/min, elle peut parfaitement être utilisée [3, 12]. Des contrôles réguliers de la créatinine devraient être conduits chez tous les patients traités par metformine (tab. 2).  Tableau 2: Recommandations pour le traitement par metformine (adapté d’après les recommandations actuelles de la société américaine de diabétologie [2]). TFGe* (ml/min/1,73 m2) ≥60	Pas de contre-indication pour un traitement par metformine 45–59	Traitement par metformine avec contrôle de la fonction rénale tous les 3–6 mois 30–44	Réduction de la dose de metformine, contrôle de la fonction rénale tous les 3 mois <30	Pas de traitement par metformine * Taux de filtration glomérulaire estimé  En outre, il est judicieux d’instruire les patients et leurs proches quant à la nécessité d’arrêter la metformine en cas d’infections aiguës, en l’absence de prise alimentaire ou en cas d’hypoxie tissulaire (comme par ex. en cas d’artériopathie oblitérante des membres inférieur [AOMI]). Dans ce cas, les patients devraient consulter un médecin.  Ce cas a pour objectif d’attirer une nouvelle fois l’attention sur l’acidose lactique associée à la metformine et sur les controverses existantes, et de montrer les possibilités pour la détection précoce et la prévention.  Réponses:   Question1: b; question 2: b; question 3: a; question 4: c et d.
+T109	procedure 4524 4534	metformine
+T110	labvalue 4596 4605	68,8 mg/l

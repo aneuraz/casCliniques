@@ -1,0 +1,62 @@
+Contexte
+
+Les vomissements et la diarrhée font partie des symptômes les plus fréquents avec lesquels les patients se présentent en consultation de médecine de famille ou au service des urgences d’un hôpital. Il n’est pas toujours facile de faire la distinction entre la gastro-entérite virale simple et les gastro-entérites bactériennes aux complications parfois nombreuses. Pour ces dernières, un diagnostic le plus précoce possible et l’initiation d’un traitement approprié sont déterminants pour le pronostic.
+
+Présentation du cas
+Anamnèse
+
+Une patiente nous a été adressée en urgence par son médecin de famille en raison d’une gastro-entérite ­hémorragique. Sur le plan anamnestique, la patiente présentait depuis cinq jours une forte diarrhée (initialement avec des selles noires – prise de comprimés de fer), des nausées et des vomissements (non sanglants); depuis trois jours, elle présentait également de la fièvre pouvant atteindre 38,3 °C et il y a deux jours, du sang frais a pour la première fois été constaté dans les selles. Le médecin de famille avait déjà initié une antibiothérapie par ciprofloxacine.
+
+Statut
+
+La patiente de 62 ans s’est présentée dans un état général nettement diminué. A l’exception de valeurs de pression artérielle élevées (164/97 mm Hg) et d’un pouls à la limite de la bradycardie (58/min), les paramètres vitaux étaient normaux (température 36,0 °C, saturation en oxygène en air ambiant 98%). A l’examen abdominal, des bruits intestinaux vifs ont été constatés. L’abdomen en soi était souple, avec une douleur à la percussion et à la pression diffuse et ubiquitaire, ainsi qu’une douleur au relâchement dans le bas ventre des deux côtés. La patiente n’avait pas de douleur à la percussion du bassinet. L’examen cardiaque et l’examen pulmonaire étaient normaux avec des pouls périphériques vigoureux, mais les muqueuses étaient sèches. L’examen neurologique bref était également normal. Il n’y avait pas d’altérations pathologiques des ganglions lymphatiques.
+
+Résultats
+
+Les analyses de laboratoire ont révélé que la patiente présentait une exsiccose, avec une hémoglobine de 179 g/l, et une insuffisance rénale aiguë, avec une ­créatinine de 161 µmol/l. Les valeurs inflammatoires étaient également augmentées (leucocytes 13,4 G/l, CRP 166 mg/l). Il y avait une légère perturbation des électrolytes (potassium 3,3 mmol/l et sodium 134 mmol/l).
+
+Des échantillons de selles pour coprocultures n’ont pas été prélevés, car le médecin de famille l’avait déjà fait. Les coprocultures sont restées négatives pour les bactéries Campylobacter, Salmonella, Shigella et Escherichia (E.) colientéro-invasives(ECEI).
+
+2 × 2 hémocultures ont été prélevées et elles n’ont montré aucune croissance après six jours.
+
+Les analyses urinaires ont montré une légère protéinurie et érythrocyturie, ainsi qu’une cétonurie.
+
+En outre, une tomodensitométrie abdominale avec produit de contraste a été réalisée pour exclure une colite ischémique (fig. 1). Cet examen a avant tout révélé une pancolite prononcée, une prise de contraste hétérogène des deux reins (ce qui était évocateur d’altérations ischémiques dans ce contexte), ainsi que, fortuitement, un utérus myomateux et une lésion probablement kystique dans le processus unciné.
+
+Figure 1: Tomodensitométrie axiale avec produit de contraste: paroi nettement épaissie du côlon ascendant (1 ) et du côlon descendant (2 ) en tant qu’expression de la pancolite. Sur ce cliché, la paroi du côlon sigmoïde apparaît souple (3 ).
+
+Diagnostic
+
+Sur la base des éléments anamnestiques, des manifestations cliniques et des résultats de laboratoire et d’imagerie, le diagnostic de colite hémorragique virale avec déshydratation a été posé, mais une origine bactérienne a également été jugée possible dans le cadre du diagnostic différentiel.
+
+Traitement
+
+L’antibiothérapie par ciprofloxacine a été poursuivie en adaptant la posologie à la fonction rénale de la patiente. Nous avons en outre initié une réhydratation par Ringer acétate par voie intraveineuse, ainsi qu’un traitement symptomatique par métoclopramide, paracétamol et butylscopolamine.
+
+Evolution
+
+Les analyses de laboratoire de suivi ont montré une normalisation de l’hémoglobine (151 g/l) et une diminution de la créatinine (115 µmol/l). La CRP a diminué à 116 mg/l et a stagné par la suite, avec néanmoins une numération leucocytaire en augmentation.
+
+Au quatrième jour d’hospitalisation, la patiente était toujours dans un état général diminué malgré une réhydratation suffisante. Les analyses de laboratoire ont désormais révélé une anémie avec une hémoglobine de 108 g/l, une thrombopénie de 29 G/l, une concentration de lactate déshydrogénase (LDH) nettement augmentée (1662 U/l) et une remontée des valeurs inflammatoires et de la créatinine. Jusque-là, la patiente avait reçu une administration de 2500 UI d’héparine de bas poids moléculaire pour la prévention des thromboses. A l’examen microscopique du frottis sanguin, des schizocytes (>6 par champ visuel) ont en outre été retrouvés. Les analyses urinaires ont montré une augmentation de la protéinurie et de l’érythrocyturie.
+
+Face à une suspicion de syndrome hémolytique et urémique (SHU), la patiente a été transférée en unité de soins intensifs. L’antibiothérapie a été intensifiée avec de la ceftriaxone et du métronidazole. Nous avons procédé à une détermination de l’activité plasmatique d’ADAMTS13 (également connue sous le nom «von Willebrand factor-cleaving protease», une métalloprotéase qui clive les multimères du facteur Von Willebrand), qui s’élevait à 35% et n’était donc que légèrement trop faible (valeur de référence 51–100%), et avons également réalisé un test de Coombs direct, qui s’est révélé négatif. Le diagnostic de SHU atypique a été posé. Dans le cadre du diagnostic différentiel, il a été songé à une forme abortive du purpura thrombotique thrombocytopénique (PTT) en raison de l’activité d’ADAMTS13 seulement faiblement diminuée (une valeur ≤5% serait typique). La patiente a été transférée vers un hôpital central. En parallèle, une détermination des E. coli entérohémorragiques (ECEH) et de la ­vérotoxine (= shiga-toxine) à partir de la coproculture initialement prélevée par le médecin de famille a été ordonnée. A l’hôpital central, étant donné que le diagnostic différentiel de PTT ne pouvait pas être exclu, une plasmaphérèse et une corticothérapie ont été initiées, et les antibiotiques en cours ont été délaissés au profit de l’association pipéracilline-tazobactam. Après la mise en évidence d’ECEH et de vérotoxine dans la ­coproculture, la plasmaphérèse, la corticothérapie et l’antibiothérapie ont été interrompues. Le diagnostic de SHU typique a pu être posé. L’insuffisance rénale n’a jamais nécessité de dialyse et s’est rapidement améliorée par la suite. La numération plaquettaire s’est également rapidement normalisée. Jusqu’au moment de la sortie de la patiente, seule une anémie hyperrégénérative (indice réticulocytaire 3,7%) a persisté. Durant l’hospitalisation, quatre concentrés érythrocytaires ont dû être transfusés au total.
+
+Discussion
+
+Le SHU représente une forme de microangiopathies thrombotiques (MAT), qui se caractérise par des altérations pathologiques des artérioles et des capillaires. Le PTT représente une autre forme de MAT et le principal diagnostic différentiel du SHU. Sur le plan histologique, les MAT se caractérisent par des amas de fibrine et de plaquettes, qui sont responsables d’ischémies et d’infarctus au niveau microvasculaire, ainsi que d’une diminution significative des plaquettes. Les forces de cisaillement dans les artérioles, déclenchées par les microthrombi, entraînent une hémolyse mécanique et une formation de schizocytes. On distingue une forme typique et une forme atypique de SHU. Dans cet article, nous n’aborderons pas en détails le SHU atypique, qui peut entre autres être déclenché par des pneumocoques, des altérations familiales/génétiques, des maladies auto-immunes (par exemple lupus érythémateux) ou des médicaments.
+
+La forme typique du SHU est causée par les E. coli entérohémorragiques productrices de shiga-toxine (ECST). Les infections se produisent le plus souvent via des ­aliments contaminés. Parmi les personnes infectées, 3–9% (dans certaines flambées, jusqu’à 20%) développent un SHU; la grande majorité des patients obtiennent une guérison spontanée [1]. La shiga-toxine est absorbée par les entérocytes dans l’intestin et entraîne un dérèglement du système du complément, ce qui se traduit par la formation de thrombi microvasculaires à prédominance rénale avec une détérioration consécutive de la fonction rénale et par une thrombopénie.
+
+Le diagnostic est posé à la fois sur la base des manifestations cliniques et des altérations de laboratoire typiques. Ces dernières englobent une thrombopénie, une anémie hémolytique à test de Coombs négatif, une insuffisance rénale aiguë et la présence de schizocytes dans l’hémogramme différentiel, ainsi que la mise en évidence d’un agent pathogène ou d’une toxine. En l’absence de mise en évidence d’un agent pathogène ou d’une toxine, il convient de songer à un SHU atypique et d’initier des investigations diagnostiques supplémentaires. En raison des symptômes similaires du SHU et du PTT, des examens spécifiques complémentaires, tels que la détermination de l’activité plasmatique d’ADAMTS13, peuvent aider à faire la distinction entre ces deux affections.
+
+Il n’existe à ce jour pas de traitement causal du SHU. Le traitement repose sur une réhydratation suffisante, sur une correction des troubles électrolytiques et fréquemment aussi sur des thérapies de substitution rénale et sur des transfusions. L’efficacité des anticorps monoclonaux (comme par exemple l’éculizumab), qui pourraient théoriquement être bénéfiques notamment dans les formes graves en raison de leur action sur le système du complément, est pour l’heure indéterminée en raison des données insuffisantes disponibles [2]. De plus grandes études à ce sujet sont en cours. L’utilisation d’antibiotiques en cas d’infections à ECST reste controversée. Une étude a montré un risque accru de développement d’un SHU sous antibiothérapie [3], tandis qu’une métaanalyse réalisée un peu plus tard n’a pas trouvé de risque accru [4]. La mortalité du SHU typique s’élève à 5–7% [5].
+
+L’Office fédéral de la santé publique a enregistré une nette augmentation des infections à ECEH au cours des dernières années. Il pourrait en résulter une incidence croissante des SHU chez l’adulte.
+
+L’essentiel pour la pratique
+
+• Les gastro-entérites sont le plus souvent d’origine virale. Une origine bactérienne doit néanmoins être exclue en cas de détérioration persistante de l’état général malgré un traitement symptomatique adéquat.
+
+• La triade de laboratoire insuffisance rénale aiguë–anémie–thrombopénie en conjonction avec une gastro-entérite devrait faire évoquer un syndrome hémolytique et urémique (SHU).
+
+• Il n’existe à ce jour pas de traitement causal du SHU, qui est rare; seules ses conséquences peuvent être traitées.

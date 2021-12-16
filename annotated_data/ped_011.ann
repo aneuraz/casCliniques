@@ -1,0 +1,29 @@
+T1	disorder 16 36	 lésion angiomateuse
+T2	disorder 71 94	 hémangiome superficiel
+T3	disorder 193 221	L’atteinte étendue du visage
+T4	disorder 259 279	 un syndrome PHACES 
+T5	disorder 284 354	atteinte sousmentonnière doit faire craindre une atteinte « en barbe »
+T6	labvalue 423 442	atteintes profondes
+T7	procedure 444 467	 examen ophtalmologique
+T8	procedure 476 497	angio- IRM cérébrales
+T9	procedure 469 472	IRM
+T10	procedure 499 518	échographie-Doppler
+T11	labvalue 567 574	normaux
+T12	labvalue 589 616	éliminer un syndrome PHACES
+T13	procedure 620 630	examen ORL
+T14	labvalue 631 711	éliminait une localisation sousglottique de cet hémangiome (hémangiome en barbe)
+T15	labvalue 759 798	hémangiome superficiel étendu du visage
+T16	disorder 936 973	malformation de la fosse Postérieure 
+T17	labvalue 1039 1107	anomalies Artérielles (troncs supra-aortiques et artères cérébrales)
+T18	labvalue 1112 1200	anomalies Cardiovasculaires (coarctation de l’aorte et autres malformations cardiaques) 
+T19	labvalue 1204 1228	atteinte de l’oeil (Eye)
+T20	labvalue 1233 1320	anomalies Sternales (rares, fentes sternales et/ou malformation du raphé sus-ombilical)
+T21	disorder 1481 1498	 télangiectasique
+T22	disorder 1635 1677	lésion augmente de taille pendant 6-9 mois
+T23	disorder 1777 1798	séquelles esthétiques
+T24	disorder 1941 2002	atteinte étendue du visage notamment dans le territoire du V1
+T25	drugs 2153 2178	corticothérapie générale 
+T26	disorder 2245 2274	amblyopie, déviation oculaire
+T27	procedure 2280 2301	soutien psychologique
+T28	labvalue 2497 2517	 angiome plan étendu
+T29	disorder 2821 2853	syndrome de Sturge- Weber-Krabbe

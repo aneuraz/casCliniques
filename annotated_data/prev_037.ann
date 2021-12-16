@@ -1,0 +1,31 @@
+T1	disorder 59 108	chute lors d’un saut sur un tapis dans un gymnase
+T2	disorder 192 223	 traumatisme en hyper extension
+T3	disorder 434 518	 fracture peu déplacée du tiers moyen du cubitus droit, sans complication vasculaire
+T4	procedure 542 557	immobilisation 
+T5	disorder 541 659	 immobilisation brachio-antébrachio-palmaire, circulaire fendu, laissant libre la colonne du pouce, pendant huit jours
+T6	procedure 915 941	 radiographies sous plâtre
+T7	procedure 1013 1057	plâtre brachio antébrachiopalmaire en résine
+T8	procedure 1215 1244	réfection du plâtre en résine
+T9	disorder 1488 1507	chute de sa hauteur
+T10	labvalue 1680 1782	réapparition du trait de fracture avec déplacement peu important au niveau medio-diaphysaire de l’ulna
+T11	labvalue 1888 1937	fracture itérative de la diaphyse cubitale droite
+T12	disorder 1945 1954	douleurs 
+T13	procedure 2293 2316	 bilan phosphocalcique 
+T14	disorder 2462 2543	 flexion du coude modéré (130° de flexion), une pronation et une supination à 80°
+T15	labvalue 2572 2634	cal sur la face palmaire du coude, a priori hématome calcifié 
+T16	disorder 2760 2790	tuméfaction au niveau du coude
+T17	labvalue 2965 3021	luxation antérieure de la tête radiale passée inaperçue 
+T18	labvalue 3050 3082	 fracture/ luxation de Monteggia
+T19	procedure 3087 3106	scanner et une IRM 
+T20	labvalue 3119 3173	 luxation avec une bonne vitalité de la tête radiale. 
+T21	procedure 3228 3300	ostéotomie du cubitus avec greffe iliaque (intervention dite de Bouyala)
+T22	labvalue 3423 3523	ostéotomie avec un manque majeur de déflexion et surtout une luxation de la tête radiale persistante
+T23	labvalue 4229 4260	tête radiale est toujours luxée
+T24	procedure 4461 4563	reprise chirurgicale avec une ostéotomie de recurvatum de type Bouyala, sans toucher à la tête radiale
+T25	procedure 4933 5066	 réduction de la luxation, une ostéotomie de réaxation du cubitus avec un greffon synthétique et une ostéosynthèse par plaque vissée.
+T26	disorder 5346 5431	cicatrice inflammatoire s’est ouverte avec écoulement et extériorisation de la plaque
+T27	procedure 5435 5488	’examen bactériologique de prélèvements superficiels 
+T28	labvalue 5525 5575	Pseudomonas aeruginosa et un enterobacter cloacae 
+T29	drugs 5799 5835	traitement antibiotique intraveineux
+T30	disorder 6642 6739	devenir gaucher, n’utilise plus du tout sa main droite, a des difficultés de langage et scolaires
+T31	procedure 6797 6891	prise en charge est complexe (ergothérapeute, psychomotricienne, orthophoniste et psychologue)

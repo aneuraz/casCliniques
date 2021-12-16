@@ -1,0 +1,49 @@
+T1	irrelevant 6722 6750;6752 6968	L’essentiel pour la pratique  En cas de tumeur mammaire diagnostiquée comme «bénigne» mais qui présente néanmoins une croissance, il convient de remettre en question le caractère bénin. Un diagnostic plus poussé devrait être indiqué sans hésiter.
+T2	irrelevant 0 8;10 527	Contexte  La découverte d’anomalies à la palpation de la poitrine est souvent source de grandes inquiétudes pour la personne concernée. Dans cette situation, la patiente souhaite des examens rapides et un diagnostic fiable permettant de faire une distinction sûre entre une tumeur «bénigne» et une tumeur «maligne». Lors du diagnostic clinique et du diagnostic d’imagerie de la poitrine, l’objectif est de détecter les tumeurs malignes mais également d’éviter les interventions diagnostiques inutiles en cas d’anomalie bénigne.
+T3	irrelevant 529 1000	En présence de tumeurs de croissance rapide, et en dépit du caractère bénin assuré d’une lésion, l’évolution ultérieure doit être observée attentivement et d’autres étapes diagnostiques doivent éventuellement être initiées. La «core needle biopsy» (TruCut) écho-guidée a fait ses preuves dans le diagnostic et lorsqu’elle est réalisée par un opérateur expérimenté, elle permet d’atteindre une sécurité diagnostique de plus de 90% dans le diagnostic du cancer du sein [1].
+T4	procedure 1054 1069	péri-ménopausée
+T5	disorder 1108 1132	une masse à la palpation
+T6	disorder 1345 1359	chéloïde nette
+T7	procedure 1398 1410	mammographie
+T8	disorder 1416 1430	masse ovalaire
+T9	labvalue 1452 1457	42 mm
+T10	disorder 1506 1531	vraisemblablement bénigne
+T11	procedure 1572 1581	palpation
+T12	procedure 1585 1596	échographie
+T13	disorder 1610 1633	masse à contours lisses
+T14	labvalue 1637 1642	42 mm
+T15	procedure 1782 1800	 classée BI-RADS 3
+T16	procedure 1805 1838	imagerie par résonance magnétique
+T17	procedure 1921 1941	biopsie à l’aiguille
+T18	procedure 1852 1888	échantillon tissulaire a été prélevé
+T19	procedure 1955 1974	examen histologique
+T20	disorder 2010 2037	tissu mammaire avec fibrose
+T21	disorder 2039 2076	kystes et métaplasie musculaire lisse
+T22	disorder 2115 2124	hamartome
+T23	disorder 2310 2324	tumeur bénigne
+T24	procedure 2374 2395	excision chirurgicale
+T25	procedure 2414 2431	contrôle de suivi
+T26	procedure 2532 2547	post-ménopausée
+T27	labvalue 2568 2573	45 mm
+T28	disorder 2578 2583	masse
+T29	labvalue 2599 2616	légère croissance
+T30	disorder 2674 2680	tumeur
+T31	procedure 2719 2734	excision locale
+T32	procedure 2775 2786	round block
+T33	disorder 2861 2885	tumeur à contours lisses
+T34	procedure 2953 2972	examen histologique
+T35	disorder 2979 2985	tumeur
+T36	disorder 2999 3021	morphologie hétérogène
+T37	disorder 3087 3109	fibroadénome régressif
+T38	disorder 3146 3176	tumeur phyllode avec malignité
+T39	disorder 3193 3203	borderline
+T40	disorder 3237 3257	sarcomateuse maligne
+T41	disorder 3264 3295	nécroses dégénératives étendues
+T42	procedure 3316 3341	nouvelle résection locale
+T43	disorder 3350 3361	lit tumoral
+T44	procedure 3379 3391	intervention
+T45	disorder 3474 3489	tumeur phyllode
+T46	disorder 3534 3559	risque de récidive locale
+T47	procedure 3584 3607	radiothérapie adjuvante
+T48	irrelevant 3646 4016	Les fibroadénomes sont les tumeurs solides bénignes les plus fréquentes. A l’échographie et à la mammographie, ils se présentent typiquement comme des masses homogènes à contours lisses [2]. Les fibroadénomes font partie des lésions fibro-épithéliales du sein et correspondent à des néoplasies biphasiques avec prolifération de composantes épithéliales et stromales [3].
+T49	irrelevant 4018 5119;5121 6274;6276 6720	La pathogenèse des lésions fibro-épithéliales n’est pas totalement élucidée. Leur survenue et leur croissance sont vraisemblablement soumises à une influence hormonale; de plus, des études actuelles indiquent également des composantes génétiques [4]. Les tumeurs phyllodes constituent des altérations de plus haut grade de tissu glandulaire stromal dont le caractère varie (caractère bénin, «borderline» ou malin). Avec moins de 1% de l’ensemble des néoplasies mammaires, ces tumeurs sont rares et le plus souvent bénignes, bien qu’elles présentent, en tant qu’altérations au potentiel biologique incertain (lésion B3), un taux de récidive élevé et nécessitent un traitement chirurgical différent des fibroadénomes [5]. Les tumeurs phyllodes malignes comportent le risque le plus élevé de récidive locale (jusqu’à 30%) et le plus grand potentiel métastatique [3]. Les tumeurs mixtes, composées pour partie d’un fibroadénome et pour partie de composantes d’une tumeur phyllode ou de lésions de plus haut grade, peuvent compliquer la pose du diagnostic et conduire à un retard du traitement adéquat [3].  En cas de fibroadénomes, une excision mini-invasive au moyen d’une biopsie sous vide ou bien l’excision ouverte locale n’est généralement indiquée qu’en cas de symptômes ou sur souhait de la patiente; les tumeurs phyllodes doivent être réséquées in sano. Les examens d’imagerie ne permettent pas de faire la distinction entre un fibroadénome et une tumeur phyllode [2], si bien que l’examen histologique au moyen d’une «core needle biopsy» est décisif. Toutefois, les résultats faux-négatifs constituent ici aussi un risque de sous-estimation. Sur le plan clinique, les tumeurs phyllodes se présentent souvent avec une croissance rapide ou – comme dans le cas présenté – avec une augmentation de volume dans le cadre d’une tumeur bénigne auparavant stable. Il convient donc par la suite, même en cas d’histologie bénigne et surtout en cas de croissance rapide et chez les femmes péri- ou post-ménopausées, de réaliser un nouveau diagnostic au moyen d’une biopsie sous vide ou d’une excision ouverte. Les carcinomes mammaires, en particulier lorsqu’ils sont «triple négatif», peuvent être confondus avec des fibroadénomes lors des examens d’imagerie [6].  En présence d’une tumeur phyllode maligne, celle-ci devrait être réséquée chirurgicalement avec une «marge de sécurité» dans le tissu sain. Une radiothérapie adjuvante abaisse nettement le taux de récidive locale, toutefois sans influence sur la survie globale [7]. La taille de la tumeur et la distance entre celle-ci et la marge de résection sont des facteurs centraux qui doivent être pris en compte lors de l’indication d’une radiothérapie.
